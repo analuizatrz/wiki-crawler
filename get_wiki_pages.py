@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from xml.dom.minidom import parseString
 import csv
 import time
@@ -18,8 +20,20 @@ arrNotFound = []
 class WikiPage(object):
 	def __init__(self, id, title, classes):
 		self.id = id
-		self.title = title
+		self.title = title.replace("Talk:","")
 		self.classes = classes
+
+	def get_classes(self):
+		classes_names = [c.wiki_class for c in self.classes]
+		return "/".join(classes_names)
+
+
+class WikiPageClass(object):
+	def __init__(self, wiki_project, wiki_class):
+		self.wiki_project = wiki_project
+		self.wiki_class = wiki_class
+	def __str__(self):
+		return self.wiki_project+": class "+ self.wiki_class
 
 class CheckTime(object):
 	def __init__(self):
@@ -128,16 +142,16 @@ def parse_revision_classes(text):
 				atribute_values = atribute.split("=")
 				if idx == 0:
 					wiki_project = atribute_values[0]
-				if atribute_values[0] == "class":
+				if atribute_values[0] == "class" and len(atribute_values) > 1 :
 					wiki_class = atribute_values[1]	
-			classes.append((wiki_project+": class "+ wiki_class))	
+			classes.append(WikiPageClass(wiki_project, wiki_class))	
 	return classes
 
 def get_pages(dom):
 	pages = dom.getElementsByTagName("page")
 
 	wiki_pages = []
-	#  [(get_tag_data(page, "title"), page.getElementsByTagName("revision").get_tag_data("text") ) for page in pages]
+
 	for page in pages:
 		page_id = get_tag_data(page, "id")
 		title = get_tag_data(page, "title")
@@ -149,20 +163,21 @@ def get_pages(dom):
 		wiki_pages.append(WikiPage(page_id, title, classes))
 	return wiki_pages
 
-def talk_pages(articles):
-	return [["Talk:"+article[0]] for article in articles]
+def talk_page(articles):
+	return ["Talk:"+article for article in articles]
 
 def crawler(input_file):
+	input_file_name = input_file.split("/")[-1].split(".")[0]
 	with open(input_file) as csvfile:
 		#lsta de titulos
 		wiki_articles = list(csv.reader(csvfile))#, delimiter=' ', quotechar='|')
-		wiki_articles = talk_pages(wiki_articles)
+		# wiki_articles = talk_page(wiki_articles)
 	
 		#parametros
 		offset = "2017-10-01T00:00:00Z"
-		arq_crawl_status = input_file+"_crawl_status.json"
-		output = input_file+"_page_ids.csv"
-		error = input_file+"_page_errors.csv"
+		arq_crawl_status = input_file_name+"_crawl_status.json"
+		output = input_file_name+"_classes.csv"
+		error = input_file_name+"_page_errors.csv"
 		articles_per_request = 3
 
 		#obtem os dados iniciais
@@ -189,22 +204,24 @@ def crawler(input_file):
 			articles_to_collect = articles_to_collect[articles_per_request:]
 			
 			arr_collected_now = []
-			dom = request_wiki(articles_to_request,offset=offset,limit=1,arq_log=error)
+
+			dom = request_wiki(talk_page(articles_to_request),offset=offset,limit=1,arq_log=error)
 			
 			wiki_pages = get_pages(dom)
 
 			with open(output, 'a') as output_pointer, open(error, 'a') as error_pointer:
 				csv_writer = csv.writer(output_pointer, delimiter=';',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
+				
 				print("Pages:"+str(len(wiki_pages)))
 					
 				for page in wiki_pages:
-					csv_writer.writerow([page.id,page.title, ";".join(page.classes)])
-
+					csv_writer.writerow([page.id,page.title, page.get_classes()])
 					dict_crawl["collected_pages"].append(page.title)
 					arr_collected_now.append(page.title)
 
 				intCollectedNow = len(arr_collected_now)
 				write_json_crawl(dict_crawl,arq_crawl_status)
+
 				#caso nao tenha coletado nenhum agora, adicione eles como artigos com erro
 				if(intCollectedNow == 0):
 					[error_pointer.write(title+";") for title in articles_to_request]
