@@ -130,9 +130,9 @@ def write_text(output_dir,strTitle,rev):
 		return False
 
 def parse_revision_classes(text):
-	classes = []
 	if text is not None:
 		lines = text.replace("{{","}}").replace("\n","").split("}}")
+		classes = []
 		for line in lines:
 			if "class" in line:
 				atributes = line.split("|")
@@ -221,7 +221,7 @@ def crawler(input_file):
 		while(len(articles_to_collect) > 0):	
 			if(len(arr_collected_now) > 0):
 				articles_to_collect = list(set(articles_to_collect) - set(arr_collected_now))
-				objTime.print_delta("===> Collected articles: "+str(len(arr_collected_now))+") missing: "+str(len(articles_to_collect)+articles_per_request-len(arr_collected_now)))
+				objTime.print_delta("===> Collected articles: "+str(len(arr_collected_now))+") missing: "+str(len(articles_to_collect)))
 
 			articles_to_request = articles_to_collect[:articles_per_request]
 			articles_to_collect = articles_to_collect[articles_per_request:]
