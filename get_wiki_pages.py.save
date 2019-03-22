@@ -66,7 +66,7 @@ def request_wiki(articles_array,offset,limit,direction="desc",recursion_depth=0,
 	r = requests.post(url_to_request, data=data_to_request)
 	print("Requisitando: "+str(len(articles_array))+" páginas")
 	#print(r.text)
-	try: 
+	try;
 		return parseString(r.text)
 	except xml.parsers.expat.ExpatError:
 		with open(arq_log) as txt:
@@ -80,17 +80,17 @@ def get_redir_title(dom):
 		redir_title = el[0].attributes["title"].value
 	else:
 		text_tag = dom.getElementsByTagName("text")
-		wiki_text = ""
+		text_wiki = ""
 		if(len(text_tag) > 0 and len(text_tag[0].childNodes) > 0):
-			wiki_text = text_tag[0].childNodes[0].data.strip()
+			text_wiki = text_tag[0].childNodes[0].data.strip()
 
-		#print("Text wiki: "+wiki_text)		
-		#o texto tem algum redirect? 				
-		if(wiki_text.startswith("#REDIRECT")):
-			open_brackets = wiki_text.find("[[")
-			close_brackets = wiki_text.find("]]")
+		#print("Text wiki: "+text_wiki)
+		#o texto tem algum redirect?
+		if(text_wiki.startswith("#REDIRECT")):
+			open_brackets = text_wiki.find("[[")
+			close_brackets = text_wiki.find("]]")
 			if(open_brackets > 0 and close_brackets > 0):
-				link_string = wiki_text[open_brackets+2:close_brackets]
+				link_string = text_wiki[open_brackets+2:close_brackets]
 				redir_title = link_string
 	return redir_title
 
@@ -130,44 +130,33 @@ def write_text(output_dir,strTitle,rev):
 		return False
 
 def parse_revision_classes(text):
+	lines = text.replace("{{","}}").replace("\n","").split("}}")
 	classes = []
-	if text is not None:
-		lines = text.replace("{{","}}").replace("\n","").split("}}")
-		for line in lines:
-			if "class" in line:
-				atributes = line.split("|")
-				wiki_project = ""
-				wiki_class = "-"
-				for idx, atribute in enumerate(atributes):
-					atribute_values = atribute.split("=")
-					if idx == 0:
-						wiki_project = atribute_values[0]
-					if atribute_values[0] == "class" and len(atribute_values) > 1 :
-						wiki_class = atribute_values[1]	
-				classes.append(WikiPageClass(wiki_project, wiki_class))	
+	for line in lines:
+		if "class" in line:
+			atributes = line.split("|")
+			wiki_project = ""
+			wiki_class = "-"
+			for idx, atribute in enumerate(atributes):
+				atribute_values = atribute.split("=")
+				if idx == 0:
+					wiki_project = atribute_values[0]
+				if atribute_values[0] == "class" and len(atribute_values) > 1 :
+					wiki_class = atribute_values[1]	
+			classes.append(WikiPageClass(wiki_project, wiki_class))	
 	return classes
 
-def get_pages(articles_to_request, offset, limit, arq_log):
-	dom = request_wiki(talk_page(articles_to_request),offset=offset,limit=1,arq_log=arq_log)
-
+def get_pages(dom):
 	pages = dom.getElementsByTagName("page")
 	wiki_pages = []
 
 	for page in pages:
 		page_id = get_tag_data(page, "id")
 		title = get_tag_data(page, "title")
+
 		revision_element = page.getElementsByTagName("revision")[0]
-		wiki_text = get_tag_data(revision_element, "text")
-		limit = 5
-		while is_redirection(wiki_text) and limit:
-			redirect_title = redirect(wiki_text)
-			dom = request_wiki([redirect_title],offset=offset,limit=1,arq_log=arq_log)
-			page = revision_element = dom.getElementsByTagName("page")[0]
-			revision_element = page.getElementsByTagName("revision")[0]
-			title = title+"/"+get_tag_data(page, "title")
-			wiki_text = get_tag_data(revision_element, "text")
-			limit -= 1
-		classes = parse_revision_classes(wiki_text)
+		text_wiki = get_tag_data(revision_element, "text")
+		classes = parse_revision_classes(text_wiki)
 
 		wiki_pages.append(WikiPage(page_id, title, classes))
 	return wiki_pages
@@ -175,26 +164,12 @@ def get_pages(articles_to_request, offset, limit, arq_log):
 def talk_page(articles):
 	return ["Talk:"+article for article in articles]
 
-def is_redirection(wiki_text):
-	if wiki_text is not None:
-		return wiki_text.startswith("#REDIRECT")
-	return False
-
-def redirect(wiki_text, limit=5):
-	if limit >= 0:
-		open_brackets = wiki_text.find("[[")
-		close_brackets = wiki_text.find("]]")
-		if(open_brackets > 0 and close_brackets > 0):
-			redir_title = wiki_text[open_brackets+2:close_brackets]
-		return redir_title
-	return ""
-
-
 def crawler(input_file):
 	input_file_name = input_file.split("/")[-1].split(".")[0]
 	with open(input_file) as csvfile:
 		#lsta de titulos
 		wiki_articles = list(csv.reader(csvfile))#, delimiter=' ', quotechar='|')
+		# wiki_articles = talk_page(wiki_articles)
 
 		#parametros
 		offset = "2017-10-01T00:00:00Z"
@@ -221,14 +196,16 @@ def crawler(input_file):
 		while(len(articles_to_collect) > 0):	
 			if(len(arr_collected_now) > 0):
 				articles_to_collect = list(set(articles_to_collect) - set(arr_collected_now))
-				objTime.print_delta("===> Collected articles: "+str(len(arr_collected_now))+") remaining: "+str(len(articles_to_collect)+articles_per_request-len(arr_collected_now)))
+				objTime.print_delta("===> Collected articles: "+str(len(arr_collected_now))+") missing: "+str(len(articles_to_collect)))
 
 			articles_to_request = articles_to_collect[:articles_per_request]
 			articles_to_collect = articles_to_collect[articles_per_request:]
 
 			arr_collected_now = []
 
-			wiki_pages = get_pages(articles_to_request,offset=offset,limit=1,arq_log=error)
+			dom = request_wiki(talk_page(articles_to_request),offset=offset,limit=1,arq_log=error)
+
+			wiki_pages = get_pages(dom)
 
 			with open(output, 'a') as output_pointer, open(error, 'a') as error_pointer:
 				csv_writer = csv.writer(output_pointer, delimiter=';',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
@@ -256,3 +233,4 @@ def crawler(input_file):
 if __name__ == "__main__":
 	input_file = sys.argv[1]
 	crawler(input_file)
+
