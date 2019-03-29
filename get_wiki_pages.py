@@ -9,10 +9,6 @@ import json
 import sys
 import os
 
-intFoundRedirect = 0
-intFoundRedirectAndAsc = 0
-intFoundJustAsc = 0
-arrNotFound = []
 ### https://dumps.wikimedia.org/enwiki/latest/
 ### dumps do banco da wikipedia
 
