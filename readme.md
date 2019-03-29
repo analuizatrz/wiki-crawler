@@ -3,10 +3,15 @@
 ## Como rodar
 
 ```
-python3 get_wiki_pages.py input.csv
+python3 get_wiki_pages.py politicos_usa_a.csv
 ```
 
-Sendo que o arquivo `input.csv` contém apenas uma coluna, sendo uma lista das páginas.
+Sendo o arquivo `politicos_usa_a.csv` um exemplo de arquivo de entrada, que contém apenas uma coluna, ou seja, lista das páginas.
+
+para um arquivo `politicos_usa_a.txt` são gerados os seguintes arquivos de saída:
+1. `politicos_usa_a.txt_error.log` : contém os erros
+2. `politicos_usa_a.txt_crawl_status.json` : contém as páginas coletadas até o momento
+3. `politicos_usa_a_classes.csv` : contém a saída resultado, que no caso são as páginas e suas classes.
 
 ## Refatorando o código
 
