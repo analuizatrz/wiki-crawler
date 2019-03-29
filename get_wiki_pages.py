@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 from xml.dom.minidom import parseString
 import csv
 import time
@@ -240,11 +239,10 @@ def crawler(input_file):
 					dict_crawl["collected_pages"].append(page.title)
 					arr_collected_now.append(page.title)
 
-				intCollectedNow = len(arr_collected_now)
 				write_json_crawl(dict_crawl,arq_crawl_status)
 
 				#caso nao tenha coletado nenhum agora, adicione eles como artigos com erro
-				if(intCollectedNow == 0):
+				if(len(arr_collected_now) == 0):
 					[error_pointer.write(title+";") for title in articles_to_request]
 					error_pointer.write("\n")
 					articles_errors = articles_to_request
