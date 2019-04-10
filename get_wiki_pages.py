@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from xml.dom.minidom import parseString
+from xml.parsers.expat import ExpatError
 import csv
 import time
 from datetime import datetime
@@ -64,7 +65,7 @@ def request_wiki(articles_array,offset,limit,direction="desc",recursion_depth=0,
 	#print(r.text)
 	try: 
 		return parseString(r.text)
-	except xml.parsers.expat.ExpatError:
+	except ExpatError:
 		with open(arq_log) as txt:
 			txt.write("Error parser:"+",".join(articles_array)+" offset:"+offset+"\n")
 		return None
