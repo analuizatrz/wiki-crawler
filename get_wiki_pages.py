@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 from xml.dom.minidom import parseString
 import csv
 import time
@@ -103,7 +104,7 @@ def get_tag_data(dom, tag):
 		return tag[0].childNodes[0].data.strip()
 	return None
 
-# def write_user_rev(strTitle,strRedirTitle,dom,rev,fPointer):
+# def write_user_rev(str_title,strRedirTitle,dom,rev,fPointer):
 # 	#grava: page_id, page_title, page_redir_id, page_redir_title, rev_id, user_id, user_name, rev_timestamp
 # 	#page_id_redir = get_tag_data(dom, "id")
 
@@ -112,13 +113,13 @@ def get_tag_data(dom, tag):
 # 	contributor = rev.getElementsByTagName("contributor")[0]
 # 	user_name = get_tag_data(contributor, "username")
 # 	user_id = get_tag_data(contributor, "id")
-# 	fPointer.write("'"+str(strTitle)+"','"+str(strRedirTitle)+"',"+str(rev_id)+","+str(user_id)+",'"+str(user_name)+"','"+str(timestamp)+"'\n")
+# 	fPointer.write("'"+str(str_title)+"','"+str(strRedirTitle)+"',"+str(rev_id)+","+str(user_id)+",'"+str(user_name)+"','"+str(timestamp)+"'\n")
 # 	return timestamp
 
-def write_text(output_dir,strTitle,rev):
+def write_text(output_dir, str_title, rev):
 	text = get_tag_data(rev, "text")
-	if(text):
-		with open(output_dir+"/"+strTitle.replace("/","-"),"w") as txt:
+	if text:
+		with open(output_dir+"/"+str_title.replace("/","-"),"w") as txt:
 			txt.write(text)
 		return True
 	else:
