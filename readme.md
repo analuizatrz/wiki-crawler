@@ -3,7 +3,7 @@
 ## Como rodar
 
 ```
-python3.6 get_wiki_pages.py politicos_usa_a.csv
+python3.6 get_wiki_pages.py example/politicos_usa_a.csv
 ```
 
 Sendo o arquivo `politicos_usa_a.csv` um exemplo de arquivo de entrada, que contém apenas uma coluna, ou seja, lista das páginas.
@@ -19,8 +19,4 @@ Primeiro está sendo refatorado os nomes de variáveis para o padrão do python,
 Os nomes de classes são no padrão CamelCase.
 
 https://www.python.org/dev/peps/pep-0008/
-
-Métodos abstratos em python: está sendo avaliado o uso de classe abstrata no base crawler
-
-https://cursos.alura.com.br/forum/topico-classe-e-metodos-abstratos-em-python-3-66268
 
