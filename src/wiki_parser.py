@@ -1,19 +1,18 @@
-from wiki_page import WikiPageClass
-import csv
+from wiki_page import WikiPageWithClass, WikiPageClass
 
-def is_redirection(wiki_text):
-	if wiki_text is not None:
-		return wiki_text.startswith("#REDIRECT")
-	return False
+def parse_talk_wikipages_with_class(HTMLNode):
+	pages = HTMLNode.get_elements("page")
+	wiki_pages = []
 
-def redirect(wiki_text, limit=5):
-	if limit >= 0:
-		open_brackets = wiki_text.find("[[")
-		close_brackets = wiki_text.find("]]")
-		if(open_brackets > 0 and close_brackets > 0):
-			redir_title = wiki_text[open_brackets+2:close_brackets]
-		return redir_title
-	return ""
+	for page in pages:
+		page_id = page.get_data("id")
+		title = page.get_data("title")
+		revision_element = page.get_elements("revision")[0]
+		wiki_text = revision_element.get_data("text")
+		classes = parse_revision_classes(wiki_text)
+
+		wiki_pages.append(WikiPageWithClass(page_id, title, classes))
+	return wiki_pages
 
 def parse_revision_classes(text):
 	classes = []

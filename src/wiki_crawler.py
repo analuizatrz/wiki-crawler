@@ -2,7 +2,7 @@
 from abc import ABCMeta, abstractmethod
 from base_crawler import BaseCrawler, Logger
 from wiki_page import WikiPageWithClass
-from wiki_utils import parse_revision_classes, is_redirection, redirect
+from wiki_utils import is_redirection, redirect
 from wiki_parser import parse_talk_wikipages_with_class
 from utils import Clock, read_first_column
 import requests
@@ -94,7 +94,7 @@ class WikiPagesCrawler(BaseCrawler):
 
 			time.sleep(1)
 
-def crawler(input_file):
+def test_crawler(input_file):
 	input_file_name = input_file.split("/")[-1].split(".")[0]
 	articles = read_first_column(input_file)[:9]
 
@@ -111,4 +111,4 @@ def crawler(input_file):
 
 if __name__ == "__main__":
 	input_file = sys.argv[1]
-	crawler(input_file)
+	test_crawler(input_file)
