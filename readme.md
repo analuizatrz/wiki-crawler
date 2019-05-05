@@ -15,8 +15,9 @@ para um arquivo `politicos_usa_a.txt` são gerados os seguintes arquivos de saí
 
 ## Refatorando o código
 
-Primeiro está sendo refatorado os nomes de variáveis para o padrão do python, minusculo_separado_por_underscore.
-Os nomes de classes são no padrão CamelCase.
+Primeiro está sendo refatorado os nomes de variáveis para o padrão do python, minusculo_separado_por_underscore. Os nomes de classes são no padrão CamelCase. Outros detalhes podem ser verificados nessas duas fontes:
 
 https://www.python.org/dev/peps/pep-0008/
+
+https://google.github.io/styleguide/pyguide.html
 
