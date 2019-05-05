@@ -37,10 +37,13 @@ def read_first_column(csv_filepath):
 	with open(csv_filepath) as csvfile:
 		return [row[0] for row in list(csv.reader(csvfile))]
 
-input_file = argv[1]
+def crawler(input_file):
+	count = 3
+	articles = read_first_column(input_file)[:count]
+	first_articles = articles[:count]
 
-count = 3
-articles = read_first_column(input_file)[:count]
-first_articles = articles[:count]
-
-get_pages(first_articles)
+	get_pages(first_articles)
+	
+if __name__ == "__main__":
+	input_file = argv[1]
+	crawler(input_file)
