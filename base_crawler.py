@@ -59,7 +59,7 @@ class HTMLParser(object):
 		try: 
 			return HTMLNode(parseString(text))
 		except ExpatError:
-			self.logger.log()
+			self.logger.error_parsing_articles()
 		return None
 
 class HTMLNode(object):
@@ -79,10 +79,8 @@ class BaseCrawler(object):
 	def __init__(self):
 		self.html_parser = HTMLParser()
 
-	def request(self, url, body=None, logger=None, parser=None):
+	def request(self, url, body=None, logger=None):
 		r = requests.post(url, data=body)
 		if logger:
 			logger.requesting_articles()
-		if parser:
-			parser.parse(r.text)
-		return HTMLParser().parse(r.text)
+		return self.html_parser.parse(r.text)
