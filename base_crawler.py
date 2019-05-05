@@ -1,8 +1,9 @@
 # -*- coding: UTF-8 -*-
 from abc import ABCMeta, abstractmethod
-import requests
 from xml.dom.minidom import parseString
 from xml.parsers.expat import ExpatError
+from datetime import datetime
+import requests
 import csv
 import sys
 import json
@@ -64,9 +65,9 @@ class CheckTime(object):
 		self.cont_deltas = 0
 
 	def finish_time(self):
-	        delta = datetime.now()-self.time
-	        self.time = datetime.now()
-	        return delta
+			delta = datetime.now()-self.time
+			self.time = datetime.now()
+			return delta
 
 	def print_delta(self, task):
 		delta = self.finish_time()
@@ -138,7 +139,7 @@ class HTMLNode(object):
 		return None
 
 	def get_elements(self, tag_name):
-		return HTMLNode(self.dom.getElementsByTagName(tag_name))
+		return [HTMLNode(p) for p in self.dom.getElementsByTagName(tag_name)]
 
 class BaseCrawler(object):
 	def request(self, url, body=None, logger=None, parser=None):
@@ -207,32 +208,32 @@ class WikiPagesCrawler(BaseCrawler):
 
 			wiki_pages = self.get_pages(articles_to_request_now)
 
-			## logger de error
-			# with open(output, 'a') as output_pointer, open(error, 'a') as error_pointer:
-			# 	csv_writer = csv.writer(output_pointer, delimiter=';',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
+			# logger de error
+			with open(self.output, 'a') as output_pointer, open(self.error, 'a') as error_pointer:
+				csv_writer = csv.writer(output_pointer, delimiter=';',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
 
-			# 	print("Pages:"+str(len(wiki_pages)))
+				print("Pages:"+str(len(wiki_pages)))
 
-			# 	for page in wiki_pages:
-			# 		csv_writer.writerow([page.id, page.title, page.get_classes()])
-			# 		status["collected_pages"].append(page.title)
-			# 		arr_collected_now.append(page.title)
+				for page in wiki_pages:
+					csv_writer.writerow([page.id, page.title, page.get_classes()])
+					status["collected_pages"].append(page.title)
+					arr_collected_now.append(page.title)
 
-			# 	self.pages_status_logger.write_json(status)
+				self.pages_status_logger.write_json(status)
 
-			# 	#caso nao tenha coletado nenhum agora, adicione eles como artigos com erro
-			# 	if(len(arr_collected_now) == 0):
-			# 		[error_pointer.write(title+";") for title in articles_to_request_now]
-			# 		error_pointer.write("\n")
-			# 		articles_errors = articles_to_request_now
-			# 		print("ERROR: Could not collect anything from this list:"+str(articles_to_request_now))
-			# 		time.sleep(30)
+				#caso nao tenha coletado nenhum agora, adicione eles como artigos com erro
+				if(len(arr_collected_now) == 0):
+					[error_pointer.write(title+";") for title in articles_to_request_now]
+					error_pointer.write("\n")
+					articles_errors = articles_to_request_now
+					print("ERROR: Could not collect anything from this list:"+str(articles_to_request_now))
+					time.sleep(30)
 
 			time.sleep(1)
 
 	def get_pages(self, articles_to_request_now):
 		HTMLNode = self.request_wiki(articles_to_request_now)
-
+		
 		pages = HTMLNode.get_elements("page")
 		wiki_pages = []
 
@@ -263,11 +264,7 @@ def crawler(input_file):
 		
 		#obtem os dados iniciais
 		status = {}
-		# try:
-		# 	statusNew = read_json_crawl(arq_crawl_status)
-		# 	status = statusNew
-		# except IOError:
-		# 	status = {"collected_pages":[]}
+
 		articles = [article[0] for article in wiki_articles[:3]]
 		print(articles)
 		dom = WikiPagesCrawler(input_file_name, "2017-10-01T00:00:00Z", "desc", 1, 3)\
