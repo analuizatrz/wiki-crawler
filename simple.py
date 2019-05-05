@@ -47,14 +47,14 @@ def get_pages(articles):
 		wiki_text = get_tag_data(revision_element, "text")
 		print(f"id: {page_id} title: {title} wiki_text: (just the begging) {wiki_text[0:10]}")
 
+def read_first_column(csv_filepath):
+	with open(csv_filepath) as csvfile:
+		return [row[0] for row in list(csv.reader(csvfile))]
+
 input_file = sys.argv[1]
 
-with open(input_file) as csvfile:
-	#lsta de titulos
-	wiki_articles = list(csv.reader(csvfile))#, delimiter=' ', quotechar='|'
-	count = 3
+count = 3
+articles = read_first_column(input_file)[:count]
+first_articles = articles[:count]
 
-	articles_to_collect = [article[0] for article in wiki_articles]
-	articles = articles_to_collect[:count]
-
-	get_pages(articles)
+get_pages(first_articles)
