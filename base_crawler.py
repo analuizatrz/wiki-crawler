@@ -21,6 +21,7 @@ class Logger(object):
 
 	def set_articles(self, articles_array):
 		self.articles_array = articles_array
+		return self
 
 	def error_parsing_articles(self):
 		articles_string = ",".join(self.articles_array)
@@ -79,9 +80,9 @@ class BaseCrawler(object):
 		self.html_parser = HTMLParser()
 
 	def request(self, url, body=None, logger=None, parser=None):
-		r = requests.get(url, data=body)
+		r = requests.post(url, data=body)
 		if logger:
 			logger.requesting_articles()
 		if parser:
 			parser.parse(r.text)
-		return self.html_parser.parse(r.text)
+		return HTMLParser().parse(r.text)

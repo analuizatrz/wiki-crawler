@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from base_crawler import HTMLNode, HTMLParser
+from base_crawler import BaseCrawler, Logger
 from sys import argv
 import csv
 import requests
@@ -9,6 +9,7 @@ OFFSET = "2017-10-01T00:00:00Z"
 DIRECTION = "DESC"
 LIMIT = "1"
 
+logger = Logger()
 def request_wiki(articles_array):
 	data = {"pages":"\n".join(articles_array),
 			"offset":OFFSET,
@@ -18,9 +19,7 @@ def request_wiki(articles_array):
 			"title":"Special:Export"}
 
 	url_to_request = "https://en.wikipedia.org/w/index.php"
-	r = requests.post(url_to_request, data=data)
-	print("Requisitando: "+str(len(articles_array))+" páginas")
-	return HTMLParser().parse(r.text)
+	return BaseCrawler().request(url_to_request, data, logger)
 
 def get_pages(articles):
 	dom = request_wiki(articles)
