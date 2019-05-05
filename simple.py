@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from xml.dom.minidom import parseString
-from xml.parsers.expat import ExpatError
-from base_crawler import HTMLNode
+from base_crawler import HTMLNode, HTMLParser
 from sys import argv
 import csv
 import requests
@@ -22,11 +20,7 @@ def request_wiki(articles_array):
 	url_to_request = "https://en.wikipedia.org/w/index.php"
 	r = requests.post(url_to_request, data=data)
 	print("Requisitando: "+str(len(articles_array))+" páginas")
-	try:
-		return HTMLNode(parseString(r.text))
-	except ExpatError:
-		print("deu erro")
-		return None
+	return HTMLParser().parse(r.text)
 
 def get_pages(articles):
 	dom = request_wiki(articles)

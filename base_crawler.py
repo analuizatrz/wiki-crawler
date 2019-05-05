@@ -56,13 +56,7 @@ class HTMLParser(object):
 
 	def parse(self, text):
 		try: 
-			print("len(text)")
-			print(len(text))
-			dom = parseString(text)
-			page = dom.getElementsByTagName("page")
-			print(len(page))
-			# print(dom.getElementsByTagName("page")[0].getElementsByTagName(tag)[0].childNodes[0].data.strip())
-			return HTMLNode(dom)
+			return HTMLNode(parseString(text))
 		except ExpatError:
 			self.logger.log()
 		return None
