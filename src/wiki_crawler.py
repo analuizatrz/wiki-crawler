@@ -3,7 +3,7 @@ from abc import ABCMeta, abstractmethod
 from base_crawler import BaseCrawler, Logger
 from wiki_page import WikiPageWithClass
 from wiki_utils import is_redirection, redirect
-from wiki_parser import parse_talk_wikipages_with_class
+from wiki_parser import parse_talk_wikipages_with_class, WikiParser, WikiParserPageWithClass
 from utils import Clock, read_first_column
 import requests
 import csv
@@ -39,8 +39,6 @@ class WikiPagesCrawler(BaseCrawler):
 			"action":"submit",
 			"title":"Special:Export"
 		}
-		
-		# return super().request(url, body, self.terminal_logger.smessage("Requisitando: "+str(len(articles_array))+" páginas"))
 		return super().request(url, body, self.terminal_logger)
 
 	def request_in_bulks(self, articles_array, wiki_parser):
@@ -50,7 +48,7 @@ class WikiPagesCrawler(BaseCrawler):
 			status = new_status
 		except IOError:
 			status = {"collected_pages":[]}
-		
+
 		already_collected_pages = set(status["collected_pages"])
 		remaning_to_collect = [article for article in articles_array if article not in already_collected_pages]
 
@@ -68,8 +66,8 @@ class WikiPagesCrawler(BaseCrawler):
 
 			arr_collected_now = []
 
-			HTMLNode =  self.request_wiki(next_articles)
-			wiki_pages = wiki_parser(HTMLNode)
+			HTMLNode = self.request_wiki(next_articles)
+			wiki_pages = wiki_parser.parse(HTMLNode)
 
 			# logger de error
 			with open(self.output, 'a') as output_pointer, open(self.error, 'a') as error_pointer:
@@ -78,12 +76,11 @@ class WikiPagesCrawler(BaseCrawler):
 				print("Pages:"+str(len(wiki_pages)))
 
 				for page in wiki_pages:
-					csv_writer.writerow(page.row())
-					status["collected_pages"].append(page.title)
-					arr_collected_now.append(page.title)
+					wiki_parser.collect(page, csv_writer, status, arr_collected_now)
 
 				self.pages_status_logger.write_json(status)
 
+				# refactor log
 				#caso nao tenha coletado nenhum agora, adicione eles como artigos com erro
 				if(len(arr_collected_now) == 0):
 					[error_pointer.write(title+";") for title in next_articles]
@@ -91,7 +88,6 @@ class WikiPagesCrawler(BaseCrawler):
 					articles_errors = next_articles
 					print("ERROR: Could not collect anything from this list:"+str(next_articles))
 					time.sleep(30)
-
 			time.sleep(1)
 
 def test_crawler(input_file):
@@ -107,7 +103,7 @@ def test_crawler(input_file):
 	print(dom.get_elements("page")[2].get_data("id"))
 
 	WikiPagesCrawler(input_file_name, "2017-10-01T00:00:00Z", "desc", 1, 3)\
-		.request_in_bulks(articles, parse_talk_wikipages_with_class)
+		.request_in_bulks(articles, WikiParserPageWithClass())
 
 if __name__ == "__main__":
 	input_file = sys.argv[1]
