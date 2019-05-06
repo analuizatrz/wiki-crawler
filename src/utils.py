@@ -5,6 +5,9 @@ def read_first_column(csv_filepath):
 	with open(csv_filepath) as csvfile:
 		return [row[0] for row in list(csv.reader(csvfile))]
 
+def file_name_with_out_extension(file_path):
+	return file_path.split("/")[-1].split(".")[0]
+
 class Clock(object):
 	def __init__(self):
 		self.time = datetime.now()

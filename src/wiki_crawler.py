@@ -1,13 +1,11 @@
 # -*- coding: UTF-8 -*-
-from abc import ABCMeta, abstractmethod
 from base_crawler import BaseCrawler, Logger
 from wiki_page import WikiPageWithClass
 from wiki_utils import is_redirection, redirect
-from wiki_parser import parse_talk_wikipages_with_class, WikiParser, WikiParserPageWithClass
-from utils import Clock, read_first_column
+from wiki_parser import WikiParser, WikiParserPageWithClass
+from utils import Clock, read_first_column, file_name_with_out_extension
 import requests
 import csv
-
 import sys
 import json
 import time
@@ -15,7 +13,7 @@ import time
 class WikiPagesCrawler(BaseCrawler):
 	def __init__(self, name, offset, direction, limit, articles_per_request):
 		super().__init__()
-		self.offset = "2017-10-01T00:00:00Z"
+		self.offset = offset
 		self.arq_crawl_status = name+"_crawl_status.json"
 		self.output = name+"_classes.csv"
 		self.error = name+"_page_errors.csv"
@@ -53,7 +51,6 @@ class WikiPagesCrawler(BaseCrawler):
 		remaning_to_collect = [article for article in articles_array if article not in already_collected_pages]
 
 		objTime = Clock()
-		articles_errors = []
 		arr_collected_now = []
 
 		while(len(remaning_to_collect) > 0):
@@ -85,13 +82,12 @@ class WikiPagesCrawler(BaseCrawler):
 				if(len(arr_collected_now) == 0):
 					[error_pointer.write(title+";") for title in next_articles]
 					error_pointer.write("\n")
-					articles_errors = next_articles
 					print("ERROR: Could not collect anything from this list:"+str(next_articles))
 					time.sleep(30)
 			time.sleep(1)
 
 def test_crawler(input_file):
-	input_file_name = input_file.split("/")[-1].split(".")[0]
+	input_file_name = file_name_with_out_extension(input_file)
 	articles = read_first_column(input_file)[:9]
 
 	print(articles)
