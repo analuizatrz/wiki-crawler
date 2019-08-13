@@ -63,8 +63,8 @@ class WikiPagesCrawler(BaseCrawler):
 
 			arr_collected_now = []
 
-			HTMLNode = self.request_wiki(next_articles)
-			wiki_pages = wiki_parser.parse(HTMLNode)
+			raw_response = self.request_wiki(next_articles)
+			wiki_pages = wiki_parser.parse(raw_response)
 
 			# logger de error
 			with open(self.output, 'a') as output_pointer, open(self.error, 'a') as error_pointer:

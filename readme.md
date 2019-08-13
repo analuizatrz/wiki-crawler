@@ -28,3 +28,20 @@ https://www.python.org/dev/peps/pep-0008/
 
 https://google.github.io/styleguide/pyguide.html
 
+
+# Trabalho de Conclusão de Curso II
+
+## Tecnologias utilizadas
+jupyter notebooks
+python
+
+## Instalação
+
+Será utilizado o Python 3.6.8. Em ambiente linux:
+
+sudo apt install python3 python3-pip jupyter
+
+### Ambiente Virtual
+sudo pip3 install virtualenv
+python3 -m virtualenv tcc2
+source tcc2/bin/activate
