@@ -159,7 +159,7 @@ def get_pages(articles_to_request, offset, limit, arq_log):
 		while is_redirection(wiki_text) and limit:
 			redirect_title = redirect(wiki_text)
 			dom = request_wiki([redirect_title],offset=offset,limit=1,arq_log=arq_log)
-			page = revision_element = dom.getElementsByTagName("page")[0]
+			page = dom.getElementsByTagName("page")[0]
 			revision_element = page.getElementsByTagName("revision")[0]
 			title = title+"/"+get_tag_data(page, "title")
 			wiki_text = get_tag_data(revision_element, "text")
