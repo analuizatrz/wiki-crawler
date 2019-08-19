@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;Reverted edits by [[Special:Contributions/08cflin|08cflin]] to last version by Ukexpat ([[WP:HG|HG]]);259748868;259749586;2008-12-23T17:35:41Z;Ukexpat
+2008-12-01T00:00:00Z;;[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) set identical references to use named refs (1),  using [[Project:AutoWikiBrowser|AWB]];249774822;253171757;2008-11-21T11:51:41Z;Rjwilmsi
+2008-11-01T00:00:00Z;;/* Linear plots of the Michaelis-Menten equation */;245746531;247769515;2008-10-26T13:37:37Z;BanjoCam
+2008-10-01T00:00:00Z;;linkfix;238578188;240976738;2008-09-25T20:06:38Z;CarinaT
+2008-09-01T00:00:00Z;;dash;231708306;231708597;2008-08-13T16:28:31Z;Itub
+2008-08-01T00:00:00Z;;/* Michaelis–Menten kinetics */ +2.;228388351;228425257;2008-07-28T17:11:42Z;Giftlite
+2008-07-01T00:00:00Z;;/* General principles */ paras;219121799;219121911;2008-06-13T17:53:05Z;TimVickers
+2008-06-01T00:00:00Z;;Citation maintenance. You can [[WP:DOI|use this bot]] yourself! Please [[User:DOI_bot/bugs|report any bugs]].;208501442;215478144;2008-05-28T11:23:30Z;DOI bot
+2008-05-01T00:00:00Z;;robot  Modifying: [[zh:酶动力学]];206457212;208501442;2008-04-27T11:05:00Z;Vina-iwbot~enwiki
+2008-04-01T00:00:00Z;;Bot: Featured article link for [[pt:Cinética enzimática]];192826588;198218001;2008-03-14T16:23:59Z;Muro Bot
+2008-03-01T00:00:00Z;;+iw;192332460;192826588;2008-02-20T16:50:39Z;Spoladore
+2008-02-01T00:00:00Z;;/* Further reading */ sections;188020513;188020885;2008-01-30T22:44:41Z;TimVickers
+2008-01-01T00:00:00Z;;/* External links */;175660410;176675359;2007-12-09T00:50:51Z;Britzingen
+2007-12-01T00:00:00Z;;[[ca:Cinètica enzimàtica]];172725028;173882183;2007-11-26T13:11:40Z;ToNToNi
+2007-11-01T00:00:00Z;;/* Michaelis–Menten kinetics */ adjust units to fit MoS;167285916;167875925;2007-10-29T17:13:11Z;TimVickers
+2007-10-01T00:00:00Z;;/* Michaelis–Menten kinetics */  png - > svg;155946403;157208570;2007-09-11T19:01:59Z;80.51.240.105
+2007-09-01T00:00:00Z;;Reverted edits by [[Special:Contributions/66.7.132.30|66.7.132.30]] ([[User talk:66.7.132.30|talk]]) to last version by 196.203.125.247;151161578;151193070;2007-08-14T16:04:13Z;TimVickers
+2007-08-01T00:00:00Z;;/* References */ new ref format;136189248;137463012;2007-06-11T15:00:33Z;TimVickers
+2007-07-01T00:00:00Z;;/* References */ new ref format;136189248;137463012;2007-06-11T15:00:33Z;TimVickers
+2007-06-01T00:00:00Z;;/* General principles */;132394437;132394508;2007-05-21T08:00:11Z;203.206.107.164
+2007-05-01T00:00:00Z;;/* Mechanisms of catalysis */ add ref;125890053;125890347;2007-04-25T17:39:30Z;TimVickers
+2007-04-01T00:00:00Z;;[[WP:AES|←]]Undid revision 116924759 by [[Special:Contributions/203.63.246.34|203.63.246.34]] ([[User talk:203.63.246.34|talk]]);116924759;116924919;2007-03-22T00:58:44Z;Xiahou
+2007-03-01T00:00:00Z;;Reverted edits by [[Special:Contributions/68.14.144.151|68.14.144.151]] ([[User talk:68.14.144.151|talk]]) to last version by TimVickers;109492977;109493009;2007-02-20T05:55:57Z;Luna Santin
+2007-02-01T00:00:00Z;;/* Linear plots of the Michaelis-Menten equation */ typo and ref format;103594300;103632643;2007-01-27T17:03:48Z;TimVickers

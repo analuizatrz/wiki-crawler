@@ -139,16 +139,19 @@ def collect(title, date_start, date_end):
         response = get_revisions_info(title, date_start, date_end, response["continue"]["rvcontinue"])
         new_revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, next_date, date_end)
         revisions_info = revisions_info + new_revisions_info
-    
+
+    if next_date is not None and next_date > date_end:
+        print(f"ERROR:{title} não coletado até o final\n")
+
     return json_normalize(revisions_info)
 
 def collect_all():
     folder_to_read = "/home/ana/Documents/tcc-web-crawler"
     folder_to_save = f"{folder_to_read}/collected_data"
-    input = "/home/ana/Documents/tcc-web-crawler/poc_wikimedia_revision/wikipedia_dataset_hasan/wikipedia.csv"
+    input = f"{folder_to_read}/poc_wikimedia_revision/wikipedia_dataset_hasan/wikipedia.csv"
    
     dataset = pd.read_csv(input)
-    titles = list(pd.DataFrame(dataset, columns = ['page_title']).head(5)['page_title'].values)
+    titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
 
     date_start = "2009-01-03T00:00:00Z"
     date_end = "2007-01-03T00:00:00Z"
@@ -180,9 +183,9 @@ def collect_all():
         except:
             append_file(file_error, title)
             print(f"ERROR:{title}\n")
-            remaning_to_collect.append(title)
-            time.sleep(2)
-        time.sleep(1)
-
+            #remaning_to_collect.append(title)
+           # time.sleep(3)
+        #time.sleep(1)
+    print(f"Tempo total : {objTime.total_time}")
 if __name__ == "__main__":
     collect_all()

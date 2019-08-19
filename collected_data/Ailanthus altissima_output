@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;Units/dates/other;259965356;260581591;2008-12-29T00:25:48Z;Lightbot
+2008-12-01T00:00:00Z;;Reverted edits by [[Special:Contributions/72.84.239.13|72.84.239.13]] to last version by 88.114.248.234 ([[WP:HG|HG]]);253844725;253846646;2008-11-24T19:49:03Z;Alansohn
+2008-11-01T00:00:00Z;;[[User:Rjwilmsi#Other_fixes|gen fixes]]: (3) format cite template dates (2), rm dupe cite fields (0),  using [[Project:AutoWikiBrowser|AWB]];248352582;248893500;2008-10-31T21:43:26Z;Rjwilmsi
+2008-10-01T00:00:00Z;;;240330480;241508145;2008-09-28T10:41:53Z;Leptictidium
+2008-09-01T00:00:00Z;;"Reverted to revision 233523832 by [[Special:Contributions/Yuriy75|Yuriy75]]; removing added whitespace. using [[WP:TWINKLE|TW]]";235424027;235426235;2008-08-31T19:18:00Z;Djlayton4
+2008-08-01T00:00:00Z;;[[User:Rjwilmsi#Other_fixes|gen fixes]] and/or [[User:Rjwilmsi#My_correction_of_citation_templates|cite template fixes]]  using [[Project:AutoWikiBrowser|AWB]];226673062;228539950;2008-07-29T04:35:36Z;Rjwilmsi
+2008-07-01T00:00:00Z;;Adding [[lv:Augstais ailants]];221108512;222608573;2008-06-30T06:37:21Z;Treisijs
+2008-06-01T00:00:00Z;;Reverted edits by [[Special:Contributions/131.111.55.72|131.111.55.72]] ([[User talk:131.111.55.72|talk]]) to last version by DOI bot;214882797;214900057;2008-05-25T20:28:46Z;Circeus
+2008-05-01T00:00:00Z;;Robot-assisted fix [[WP:DPL|links to disambiguation page]] East Coast;207018014;208851161;2008-04-28T21:42:00Z;RussBot
+2008-04-01T00:00:00Z;;"/* Medicinal */  Made ""officinal"" link to the wikipedia page on the term.";198223376;200135711;2008-03-22T20:01:10Z;71.126.240.17
+2008-03-01T00:00:00Z;;/* Uses */;188944945;190172813;2008-02-09T13:34:13Z;86.215.194.96
+2008-02-01T00:00:00Z;;/* Description */ fixing double image template problem;186370471;186942019;2008-01-26T01:50:58Z;Omtay38
+2008-01-01T00:00:00Z;;lnk;179972168;180197727;2007-12-26T04:11:48Z;MegX
+2007-12-01T00:00:00Z;;rv, word was correct;173521009;173530012;2007-11-24T18:54:37Z;Rkitko
+2007-11-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/158.184.90.122|158.184.90.122]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Rkitko|Rkitko]]. using [[WP:TWINKLE|TW]];168158250;168164233;2007-10-30T21:14:18Z;Djlayton4
+2007-10-01T00:00:00Z;;fixing acessdate/accesdate fields, Replaced: accesdate → accessdate (2) , typos fixed: harvard → Harvard (2)  using [[Project:AutoWikiBrowser|AWB]];159052643;159205721;2007-09-20T17:30:02Z;Rjwilmsi
+2007-09-01T00:00:00Z;;not recognized a noxious weed by any provincial or federal authorities;154890895;154908527;2007-08-31T23:24:28Z;Circeus
+2007-08-01T00:00:00Z;;/* Distribution and habitat */ added that original range extends into Korea;147006886;147007709;2007-07-25T15:23:12Z;Djlayton4
+2007-07-01T00:00:00Z;;/* Medicinal */;140156714;140601513;2007-06-25T20:54:28Z;130.76.96.15
+2007-06-01T00:00:00Z;;edited intro;134603797;134802271;2007-05-31T13:10:38Z;Djlayton4
+2007-05-01T00:00:00Z;;;124883566;126900266;2007-04-29T17:53:22Z;Cazort
+2007-04-01T00:00:00Z;;/* Culture & Literature */;111700972;112739452;2007-03-05T04:42:44Z;128.119.170.52
+2007-03-01T00:00:00Z;;link;105008840;111700972;2007-02-28T23:49:46Z;83.17.58.50
+2007-02-01T00:00:00Z;;Undo revision 98550841 by [[Special:Contributions/69.248.6.209|69.248.6.209]] ([[User talk:69.248.6.209|talk]]);98550841;98559148;2007-01-05T02:34:00Z;Rkitko

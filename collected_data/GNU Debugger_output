@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;robot  Modifying: [[zh:GNU侦错器]];258906971;259127811;2008-12-20T08:10:48Z;Alexbot
+2008-12-01T00:00:00Z;;Dates per [[wp:mosnum]]/Other;241829537;243035990;2008-10-04T21:23:18Z;Lightbot
+2008-11-01T00:00:00Z;;Dates per [[wp:mosnum]]/Other;241829537;243035990;2008-10-04T21:23:18Z;Lightbot
+2008-10-01T00:00:00Z;;/* Limitations */ +KDbg;235767758;241829537;2008-09-29T18:47:29Z;79.33.119.114
+2008-09-01T00:00:00Z;;target repurposed, so merge no longer makes sense;211622346;213750693;2008-05-20T18:10:51Z;Thumperward
+2008-08-01T00:00:00Z;;target repurposed, so merge no longer makes sense;211622346;213750693;2008-05-20T18:10:51Z;Thumperward
+2008-07-01T00:00:00Z;;target repurposed, so merge no longer makes sense;211622346;213750693;2008-05-20T18:10:51Z;Thumperward
+2008-06-01T00:00:00Z;;target repurposed, so merge no longer makes sense;211622346;213750693;2008-05-20T18:10:51Z;Thumperward
+2008-05-01T00:00:00Z;;Robot - move category per [[WP:CFD|CFD]] [[Wikipedia:Categories for discussion/Log/2008 April 24|2008 April 24]];207199942;209225953;2008-04-30T13:45:48Z;Kbdankbot
+2008-04-01T00:00:00Z;;;195823394;198545448;2008-03-16T02:33:21Z;Shirishag75
+2008-03-01T00:00:00Z;;/* See also */  added dbx link, since dbx has gdb link;178737590;183289911;2008-01-10T00:14:57Z;Krushia
+2008-02-01T00:00:00Z;;/* See also */  added dbx link, since dbx has gdb link;178737590;183289911;2008-01-10T00:14:57Z;Krushia
+2008-01-01T00:00:00Z;;robot  Adding: [[ro:GDB]];177442334;178737590;2007-12-18T15:55:37Z;OKBot
+2007-12-01T00:00:00Z;;/* Examples of commands */;172611597;173125080;2007-11-22T17:08:31Z;Ysangkok
+2007-11-01T00:00:00Z;;Tagging [[:Image:GDB Logo.svg]] which is up for deletion per [[WP:CSD|CSD]];165767519;167680347;2007-10-28T19:13:16Z;Pxma
+2007-10-01T00:00:00Z;;Replace/move [[Portal:Free_software|Free Software portal]] box + various.  using [[Project:AutoWikiBrowser|AWB]];154156360;158002139;2007-09-15T05:50:41Z;Kl4m-AWB
+2007-09-01T00:00:00Z;;/* Limitations */;146258251;154156360;2007-08-28T12:18:13Z;193.5.216.100
+2007-08-01T00:00:00Z;;/* Tutorials */  removed tutorials and replaced with a better one;144275010;146258251;2007-07-22T05:06:57Z;Daniel.Cardenas
+2007-07-01T00:00:00Z;;/* Bibliography */ link to online version;137076564;137689378;2007-06-12T15:07:44Z;Suruena
+2007-06-01T00:00:00Z;;added gdb tutorial linked to by many sites on the net;133059475;133775806;2007-05-27T03:02:02Z;206.248.163.89
+2007-05-01T00:00:00Z;;/* Remote debugging */;125421172;125423133;2007-04-24T05:58:15Z;VanishingUser
+2007-04-01T00:00:00Z;;*[[Binary File Descriptor]] (libbfd);111816596;111817971;2007-03-01T13:23:34Z;Gronky
+2007-03-01T00:00:00Z;;;107436621;107438453;2007-02-12T00:22:49Z;Dr. WTF
+2007-02-01T00:00:00Z;;/* External links */;103604350;103805861;2007-01-28T09:46:39Z;59.144.78.164

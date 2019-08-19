@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;/* Some examples of the ubiquity of rings */ add example of rings in combinatorics;260768770;260780652;2008-12-30T00:34:49Z;Michael Slone
+2008-12-01T00:00:00Z;;/* References */ fix sl iw;251094148;252756875;2008-11-19T10:43:46Z;Yerpo
+2008-11-01T00:00:00Z;;/* Definition */ fmt - making the multiplication operator bold where it appears by itself so that it shows up better;247129065;247182171;2008-10-23T15:06:47Z;2over0
+2008-10-01T00:00:00Z;;/* Examples */ ring of sets example;239679763;240185208;2008-09-22T08:42:09Z;Frenchwhale
+2008-09-01T00:00:00Z;;/* Formal definition */ Definition is sufficient;233448123;234178623;2008-08-25T18:12:54Z;Paul August
+2008-08-01T00:00:00Z;;robot  Adding: [[vls:Rienk (algebra)]];226748324;227531434;2008-07-24T00:57:51Z;TXiKiBoT
+2008-07-01T00:00:00Z;;/* Basic theorems */;219032085;221958286;2008-06-26T21:34:11Z;24.218.188.180
+2008-06-01T00:00:00Z;;robot  Adding: [[nn:Ring i matematikk]];210033375;213109407;2008-05-17T20:38:53Z;SieBot
+2008-05-01T00:00:00Z;;/* Formal definition */ Warning added;208601322;209017469;2008-04-29T15:52:12Z;Xantharius
+2008-04-01T00:00:00Z;;/* Alternative definitions */;202319523;202331123;2008-03-31T16:59:56Z;Xantharius
+2008-03-01T00:00:00Z;;revert: commutativity implied by point below;193671112;193675098;2008-02-24T10:36:55Z;Pomte
+2008-02-01T00:00:00Z;;that's a Cyrillic letter, not an element-of symbol;187569133;187673666;2008-01-29T11:38:03Z;Zundark
+2008-01-01T00:00:00Z;;[[Boolean ring]];176959224;177133708;2007-12-11T03:09:11Z;Jeepday
+2007-12-01T00:00:00Z;;/* Examples */;173926872;174906768;2007-11-30T20:26:36Z;Jshen6
+2007-11-01T00:00:00Z;;robot  Adding: [[nov:Ringe (matematike)]];164936339;167514560;2007-10-27T22:37:10Z;MalafayaBot
+2007-10-01T00:00:00Z;;"/* Alternative definitions */ ""expected"" doesn't seem very helpful language here. might lead one to assume it's component-wise multiplication.";156471915;156740069;2007-09-09T17:30:16Z;Mct mht
+2007-09-01T00:00:00Z;;"Updated a link that pointed to the ""Field"" disambiguation page.";149153176;150088587;2007-08-09T00:48:34Z;216.226.10.187
+2007-08-01T00:00:00Z;;;145751440;146788367;2007-07-24T16:26:12Z;Oekaki
+2007-07-01T00:00:00Z;;"/* Formal definition */ please don't introduce inline <math> tags; pay attention to what's already there";140458793;140465460;2007-06-25T06:42:41Z;KSmrq
+2007-06-01T00:00:00Z;;/* Categorical description */;132692771;134342884;2007-05-29T16:16:00Z;63.165.225.16
+2007-05-01T00:00:00Z;;/* Basic theorems */ Added two basic theorems that ''n''·(-''a'') = -(''n''·''a'') and  (''m''·''a'')(''n''·''b'') = (''mn'')·(''ab'') if you are going to remove these them please give a reason gor it;124617408;124705510;2007-04-21T21:49:53Z;Selfworm
+2007-04-01T00:00:00Z;;"rv; cross is the correct symbol for the Cartesian product";115820568;115821833;2007-03-17T17:18:00Z;Joeldl
+2007-03-01T00:00:00Z;;restore correct symbol for Cartesian product, fix English, remove excess bold;111580599;111583500;2007-02-28T14:52:03Z;Zundark
+2007-02-01T00:00:00Z;;revert - [[Cartesian product]]s are denoted by ×, not +;101298270;101322114;2007-01-17T13:24:28Z;Zundark

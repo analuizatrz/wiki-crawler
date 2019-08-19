@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;Category;247586000;250442819;2008-11-08T14:40:39Z;HERB
+2008-12-01T00:00:00Z;Category;247586000;250442819;2008-11-08T14:40:39Z;HERB
+2008-11-01T00:00:00Z;Remove overlinking  using [[Project:AutoWikiBrowser|AWB]];242896073;247586000;2008-10-25T14:33:46Z;Juliancolton
+2008-10-01T00:00:00Z;"Date audit, [[User:Lightmouse/monobook.js/script.js|script]]-assisted; see [[WP:MOSNUM#Date autoformatting|MOSNUM]]";230954032;234484865;2008-08-27T02:28:23Z;Tony1
+2008-09-01T00:00:00Z;"Date audit, [[User:Lightmouse/monobook.js/script.js|script]]-assisted; see [[WP:MOSNUM#Date autoformatting|MOSNUM]]";230954032;234484865;2008-08-27T02:28:23Z;Tony1
+2008-08-01T00:00:00Z;"revised parameters on citation ""digest"", including revising URL to avoid external redirect (detected via [[tools:~dispenser/view/Checklinks]]) - retrieved date left unchanged";227533767;227534814;2008-07-24T01:19:49Z;Ceyockey
+2008-07-01T00:00:00Z;"Quick-adding category ""Tropical cyclone impact by region"" (using [[WP:HOTCAT|HotCat]])";205034500;216196533;2008-05-31T15:01:18Z;Juliancolton
+2008-06-01T00:00:00Z;"Quick-adding category ""Tropical cyclone impact by region"" (using [[WP:HOTCAT|HotCat]])";205034500;216196533;2008-05-31T15:01:18Z;Juliancolton
+2008-05-01T00:00:00Z;clean up  using [[Project:AutoWikiBrowser|AWB]];201055790;205034500;2008-04-12T00:17:19Z;Kozuch
+2008-04-01T00:00:00Z;robot  Adding: [[es:Efectos del Huracán Isabel en Delaware]];188789855;201055790;2008-03-26T13:51:03Z;BOTarate
+2008-03-01T00:00:00Z;Units/dates/other  using [[Project:AutoWikiBrowser|AWB]];185369782;188789855;2008-02-03T12:35:11Z;Lightmouse
+2008-02-01T00:00:00Z;Date/fix the maintenance tags or gen fixes  using [[Project:AutoWikiBrowser|AWB]];182330799;185369782;2008-01-19T05:53:27Z;SmackBot
+2008-01-01T00:00:00Z;typo;157735906;173627072;2007-11-25T05:05:15Z;Michael Devore
+2007-12-01T00:00:00Z;typo;157735906;173627072;2007-11-25T05:05:15Z;Michael Devore
+2007-11-01T00:00:00Z;remove pic;147721971;157735906;2007-09-13T23:52:04Z;Good kitty~enwiki
+2007-10-01T00:00:00Z;remove pic;147721971;157735906;2007-09-13T23:52:04Z;Good kitty~enwiki
+2007-09-01T00:00:00Z;Bolded per all of WP's bolding of article titles;145371021;147721971;2007-07-28T20:41:23Z;RattleMan
+2007-08-01T00:00:00Z;Bolded per all of WP's bolding of article titles;145371021;147721971;2007-07-28T20:41:23Z;RattleMan
+2007-07-01T00:00:00Z;Bolded per rest of WPTC;134926103;134962760;2007-06-01T00:13:26Z;Hurricanehink
+2007-06-01T00:00:00Z;Simplified code;134918656;134926103;2007-05-31T21:47:58Z;Fifth Rider
+2007-05-01T00:00:00Z;clean up  using [[Project:AWB|AWB]];108337839;119388413;2007-04-01T01:23:22Z;Harryboyles
+2007-04-01T00:00:00Z;Reverted edits by [[Special:Contributions/Cuivienen|Cuivienen]] ([[User talk:Cuivienen|talk]]) to last version by Wknight94;108337532;108337839;2007-02-15T15:12:01Z;Verrai
+2007-03-01T00:00:00Z;Reverted edits by [[Special:Contributions/Cuivienen|Cuivienen]] ([[User talk:Cuivienen|talk]]) to last version by Wknight94;108337532;108337839;2007-02-15T15:12:01Z;Verrai
+2007-02-01T00:00:00Z;/* External links */ +{{Isabelseries}};102578830;103640404;2007-01-27T17:46:15Z;Hurricanehink

@@ -1,0 +1,26 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;semicolon;260488292;260556893;2008-12-28T21:46:10Z;Garkbit
+2008-12-01T00:00:00Z;[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) fix ref format (1), rm dupe cite field(s),  using [[Project:AutoWikiBrowser|AWB]];251856253;253493913;2008-11-23T00:10:57Z;Rjwilmsi
+2008-11-01T00:00:00Z;rv [[User:Hgurling]]'s changes - please see [[Talk:Schizophrenia#Hgurling's edits]];248540686;248581405;2008-10-30T09:07:11Z;Skagedal
+2008-10-01T00:00:00Z;Adding [[lv:Šizofrēnija]];240733342;240828470;2008-09-25T04:21:48Z;Treisijs
+2008-09-01T00:00:00Z;grammer;234148298;234574678;2008-08-27T14:46:28Z;Doc James
+2008-08-01T00:00:00Z;/* Alternative approaches */ secondary but essentially meaningless marker - secondary AND essentialy.. - more logical;228401667;228992999;2008-07-31T10:54:19Z;CopperKettle
+2008-07-01T00:00:00Z;Citation maintenance. Removed redundant parameters.  You can [[WP:DOI|use this bot]] yourself! Please [[User:DOI_bot/bugs|report any bugs]].;221371255;221641881;2008-06-25T12:35:18Z;DOI bot
+2008-06-01T00:00:00Z;/* Genetic */ rm new bit on copy number variants, the previous sentence says exactly the same and references original study rather than news report;216133587;216146744;2008-05-31T08:11:43Z;Vaughan
+2008-05-01T00:00:00Z;"Adding [[Digital object identifier|DOI]]s. 
+								Problems? [[User_talk:Smith609|Contact]] the bot's [[User:Smith609|operator]].";207617218;209277506;2008-04-30T18:13:59Z;DOI bot
+2008-04-01T00:00:00Z;small s as per talkpage;201349122;201507951;2008-03-28T04:49:11Z;Casliber
+2008-03-01T00:00:00Z;BOT - Reverted edits by [[Special:Contributions/64.75.113.2|64.75.113.2]] {[[User:VoABot_II/Help#Revert_reasons|possible vandalism]]} to last version by [[Special:Contributions/70.89.91.46|70.89.91.46]].;194955681;194955726;2008-02-29T19:34:57Z;VoABot II
+2008-02-01T00:00:00Z;Avoid redirect;187379733;187442678;2008-01-28T10:30:49Z;Lilac Soul
+2008-01-01T00:00:00Z;reffed - all in DSMIVTR;180773157;180773220;2007-12-29T09:32:53Z;Casliber
+2007-12-01T00:00:00Z;/* Prenatal */ Give DOI and URL for Brown 2006.;174819938;174905957;2007-11-30T20:23:15Z;Eubulides
+2007-11-01T00:00:00Z;rm drug advert link;167478021;168279243;2007-10-31T11:15:37Z;Vaughan
+2007-10-01T00:00:00Z;moved template to help reduce formatting problems causing large whitespace;160653926;160682932;2007-09-27T12:53:10Z;Tar7arus
+2007-09-01T00:00:00Z;/* External links */;153750687;154137825;2007-08-28T09:44:19Z;Polyvios
+2007-08-01T00:00:00Z;/* Notes */ Made the reference list scrollable since it's quite long (hoping this works);148301402;148312955;2007-07-31T17:39:44Z;Dan Fuhry
+2007-07-01T00:00:00Z;rv - vandalism?;141202348;141211788;2007-06-28T17:47:55Z;Vaughan
+2007-06-01T00:00:00Z;expand;134742953;134743214;2007-05-31T04:58:07Z;Casliber
+2007-05-01T00:00:00Z;/* News, information and further description */ Removing sentence I had added;126515771;127018648;2007-04-30T02:23:06Z;Mihai cartoaje
+2007-04-01T00:00:00Z;/* Genetic */;118953818;118954247;2007-03-30T03:24:20Z;Tdalby
+2007-03-01T00:00:00Z;/* Neurochemical pathways */ fmt;111593903;111594210;2007-02-28T15:47:16Z;Vaughan
+2007-02-01T00:00:00Z;/* External links */ minor fmt in links;104185043;104185414;2007-01-29T22:23:33Z;Vaughan
