@@ -133,8 +133,8 @@ def create_folder_if_does_not_exist(folder):
 def collect(title, date_start, date_end):
     response = get_revisions_info(title, date_start, date_end)
     revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, date_start, date_end)
-   
-    while not is_complete and next_date is not None and next_date > date_end:
+    
+    while not is_complete and next_date is not None and next_date > date_end and "continue" in response:
         response = get_revisions_info(title, date_start, date_end, response["continue"]["rvcontinue"])
         new_revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, next_date, date_end)
         revisions_info = revisions_info + new_revisions_info
