@@ -1,0 +1,23 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;/* Compilation appearances */;257994889;259245526;2008-12-20T23:16:32Z;86.29.97.1
+2008-12-01T00:00:00Z;;Updating broken allmusic.com links and changing www.allmusic.com to allmusic.com per [[WP:BOTREQ#Allmusic links|request]];249461952;251220468;2008-11-12T00:26:43Z;AnomieBOT
+2008-11-01T00:00:00Z;;;225453471;226457406;2008-07-18T15:01:49Z;RandySavageFTW
+2008-10-01T00:00:00Z;;;225453471;226457406;2008-07-18T15:01:49Z;RandySavageFTW
+2008-09-01T00:00:00Z;;;225453471;226457406;2008-07-18T15:01:49Z;RandySavageFTW
+2008-08-01T00:00:00Z;;;225453471;226457406;2008-07-18T15:01:49Z;RandySavageFTW
+2008-07-01T00:00:00Z;;/* Singles */ clean up of table. merged 'klf comunications cat no' with 'single';221976462;222266646;2008-06-28T12:21:32Z;Chadwholovedme
+2008-06-01T00:00:00Z;;Citation maintenance. You can [[WP:DOI|use this bot]] yourself! Please [[User:DOI_bot/bugs|report any bugs]].;202609328;215535600;2008-05-28T17:08:39Z;DOI bot
+2008-05-01T00:00:00Z;;"/* Singles */ Removed asterisk and comment. Down Town was a 12"" single released in 1987.";186653218;202609328;2008-04-01T19:04:14Z;81.131.3.195
+2008-04-01T00:00:00Z;;/* Singles */;183290446;186653218;2008-01-24T20:00:14Z;Chadwholovedme
+2008-03-01T00:00:00Z;;/* Singles */;183290446;186653218;2008-01-24T20:00:14Z;Chadwholovedme
+2008-02-01T00:00:00Z;;/* Singles */;183290446;186653218;2008-01-24T20:00:14Z;Chadwholovedme
+2008-01-01T00:00:00Z;;link tidying  using [[Project:AutoWikiBrowser|AWB]];180992579;181001448;2007-12-30T16:28:02Z;Kingboyk
+2007-12-01T00:00:00Z;;rm book cover per [[WP:NFCC#8]];148583912;153667978;2007-08-26T02:50:25Z;Videmus Omnia
+2007-11-01T00:00:00Z;;rm book cover per [[WP:NFCC#8]];148583912;153667978;2007-08-26T02:50:25Z;Videmus Omnia
+2007-10-01T00:00:00Z;;rm book cover per [[WP:NFCC#8]];148583912;153667978;2007-08-26T02:50:25Z;Videmus Omnia
+2007-09-01T00:00:00Z;;rm book cover per [[WP:NFCC#8]];148583912;153667978;2007-08-26T02:50:25Z;Videmus Omnia
+2007-08-01T00:00:00Z;;rv. rationales are being written as we speak.;146858468;146859755;2007-07-24T22:24:50Z;Kingboyk
+2007-07-01T00:00:00Z;;;120538107;120561211;2007-04-05T19:50:26Z;82.2.134.147
+2007-06-01T00:00:00Z;;;120538107;120561211;2007-04-05T19:50:26Z;82.2.134.147
+2007-05-01T00:00:00Z;;;120538107;120561211;2007-04-05T19:50:26Z;82.2.134.147
+2007-04-01T00:00:00Z;;sp: authoratative→authoritative;113881480;117657600;2007-03-25T01:52:03Z;CmdrObot

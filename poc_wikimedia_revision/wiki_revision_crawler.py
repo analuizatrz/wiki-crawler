@@ -133,7 +133,7 @@ def create_folder_if_does_not_exist(folder):
 def collect(title, date_start, date_end):
     response = get_revisions_info(title, date_start, date_end)
     revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, date_start, date_end)
-    
+   
     while not is_complete and next_date is not None and next_date > date_end and "continue" in response:
         response = get_revisions_info(title, date_start, date_end, response["continue"]["rvcontinue"])
         new_revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, next_date, date_end)
@@ -177,17 +177,31 @@ def collect_all(titles, date_start, date_end, folder_to_save):
             print(f"ERROR:{title}\n")
     print(f"Tempo total : {objTime.total_time}")
 
-if __name__ == "__main__":
-    date_start = "2019-07-01T00:00:00Z"
-    date_end = "2017-07-01T00:00:00Z"
+def run_collect_all():
+    date_start = "2009-01-03T00:00:00Z"
+    date_end = "2007-01-03T00:00:00Z"
 
     base_folder = "/home/ana/Documents/tcc-web-crawler"
-    folder_to_save = f"{base_folder}/collected_data/revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}"
+    folder_to_save = f"{base_folder}/collected_data/erros_partially_revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}"
     input_file = f"{base_folder}/poc_wikimedia_revision/wikipedia_dataset_hasan/wikipedia.csv"
 
     create_folder_if_does_not_exist(folder_to_save) 
 
-    dataset = pd.read_csv(input_file)
-    titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
+    #dataset = pd.read_csv(input_file)
+    #titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
+    error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
+    titles = open(error_file, "r").read().split('\n')[:-1]
 
     collect_all(titles, date_start, date_end, folder_to_save)
+
+def run_test():
+    title = "Dypsis onilahensis"
+    date_start = "2009-01-03T00:00:00Z"
+    date_end = "2007-01-03T00:00:00Z"
+    collect(title, date_start, date_end)
+
+if __name__ == "__main__":
+    run_collect_all()
+    # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
+    # titles = open(error_file, "r").read().split('\n')[:-1]
+    # print(len(titles))

@@ -1,0 +1,22 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;/* Communities */;218012547;227941641;2008-07-26T02:30:37Z;128.195.18.197
+2008-12-01T00:00:00Z;;/* Communities */;218012547;227941641;2008-07-26T02:30:37Z;128.195.18.197
+2008-11-01T00:00:00Z;;/* Communities */;218012547;227941641;2008-07-26T02:30:37Z;128.195.18.197
+2008-10-01T00:00:00Z;;/* Communities */;218012547;227941641;2008-07-26T02:30:37Z;128.195.18.197
+2008-09-01T00:00:00Z;;/* Communities */;218012547;227941641;2008-07-26T02:30:37Z;128.195.18.197
+2008-08-01T00:00:00Z;;/* Communities */;218012547;227941641;2008-07-26T02:30:37Z;128.195.18.197
+2008-07-01T00:00:00Z;;"Removing ""Bandera_Rosebud.PNG"", it has been deleted from Commons by [[commons:User:Kameraad Pjotr|Kameraad Pjotr]] because: [[w:commons:Commons:Licensing|Copyright violation]].";203624122;218012547;2008-06-08T19:29:19Z;CommonsDelinker
+2008-06-01T00:00:00Z;;Don't include </ref> in the comments, then we can simply check if an article has refs without so many false positives. , Replaced: <!--for references: use <ref> </ref> tags--> → <!--for references: us;199388721;203624122;2008-04-05T23:21:30Z;SmackBot
+2008-05-01T00:00:00Z;;Don't include </ref> in the comments, then we can simply check if an article has refs without so many false positives. , Replaced: <!--for references: use <ref> </ref> tags--> → <!--for references: us;199388721;203624122;2008-04-05T23:21:30Z;SmackBot
+2008-04-01T00:00:00Z;;new map;163878179;199388721;2008-03-19T17:47:05Z;Kmusser
+2008-03-01T00:00:00Z;;rvv;163853399;163878179;2007-10-11T20:08:32Z;JimWae
+2008-02-01T00:00:00Z;;rvv;163853399;163878179;2007-10-11T20:08:32Z;JimWae
+2008-01-01T00:00:00Z;;rvv;163853399;163878179;2007-10-11T20:08:32Z;JimWae
+2007-12-01T00:00:00Z;;rvv;163853399;163878179;2007-10-11T20:08:32Z;JimWae
+2007-11-01T00:00:00Z;;rvv;163853399;163878179;2007-10-11T20:08:32Z;JimWae
+2007-10-01T00:00:00Z;;added infobox. if you can add anything to it, please do;160839413;160952097;2007-09-28T17:28:43Z;Tea and crumpets
+2007-09-01T00:00:00Z;;/* Communities */;139335714;140907829;2007-06-27T07:46:34Z;76.16.247.128
+2007-08-01T00:00:00Z;;/* Communities */;139335714;140907829;2007-06-27T07:46:34Z;76.16.247.128
+2007-07-01T00:00:00Z;;/* Communities */;139335714;140907829;2007-06-27T07:46:34Z;76.16.247.128
+2007-06-01T00:00:00Z;;/* References */;123078185;124645847;2007-04-21T17:52:55Z;66.115.248.102
+2007-05-01T00:00:00Z;;/* References */;123078185;124645847;2007-04-21T17:52:55Z;66.115.248.102
