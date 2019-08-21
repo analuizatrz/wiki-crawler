@@ -3,6 +3,8 @@ import json
 import time
 from pandas.io.json import json_normalize
 from datetime import datetime
+import requests
+import os
 
 class CheckTime(object):
     def __init__(self):
@@ -56,7 +58,6 @@ def build_revision(date, revision):
         "access" : date,
         "revision" : revision
     }
-
     return result
 
 def parse_revisions_info_monthly(revisions_info_response, date_start, date_end):
@@ -73,10 +74,8 @@ def parse_revisions_info_monthly(revisions_info_response, date_start, date_end):
     page = list(revisions_info_response["query"]["pages"].values())[0]
     revisions = page["revisions"]
     dates = date_range_monthly(date_end, date_start)
-    
-    return match_dates_and_revisions(dates, revisions)
 
-import requests
+    return match_dates_and_revisions(dates, revisions)
 
 S = requests.Session()
 URL = "https://en.wikipedia.org/w/api.php"
@@ -91,7 +90,6 @@ def get_revisions_info(title, date_start, date_end, rvcontinue = None):
 
     Returns:
         response (json): raw result of the request
-
     """
     params = {
         "action": "query",
@@ -111,25 +109,26 @@ def get_revisions_info(title, date_start, date_end, rvcontinue = None):
 
     return response.json()
 
-def read_json(file):
-    with open(file, 'r') as fp:
+def read_json(file_name):
+    with open(file_name, 'r') as fp:
         return json.load(fp)
 
-def write_json(file, dict):
-    with open(file, 'w') as fp:
+def write_json(file_name, dict):
+    with open(file_name, 'w') as fp:
         json.dump(dict, fp)
 
-def append_file(file, line):
-    with open(file, 'a') as fp:
+def append_file(file_name, line):
+    with open(file_name, 'a') as fp:
         fp.write(f"{line}\n")
 
-def test_sem_api():
-    date_start = "2009-01-03T00:00:00Z"
-    date_end = "2007-01-03T00:00:00Z"
-    response = read_json("/home/ana/Documents/tcc-web-crawler/poc_wikimedia_revision/response.json")
-    print(response)
-    revisions_info = parse_revisions_info_monthly(response, date_start, date_end)
-    print(revisions_info)
+def create_file_if_does_not_exist(file_name):
+    try:
+        open(file_name, 'r')
+    except IOError:
+        open(file_name, 'w')
+
+def create_folder_if_does_not_exist(folder):
+    os.makedirs(folder_to_save, exist_ok=True)
 
 def collect(title, date_start, date_end):
     response = get_revisions_info(title, date_start, date_end)
@@ -145,26 +144,19 @@ def collect(title, date_start, date_end):
 
     return json_normalize(revisions_info)
 
-def collect_all():
-    folder_to_read = "/home/ana/Documents/tcc-web-crawler"
-    folder_to_save = f"{folder_to_read}/collected_data"
-    input = f"{folder_to_read}/poc_wikimedia_revision/wikipedia_dataset_hasan/wikipedia.csv"
-   
-    dataset = pd.read_csv(input)
-    titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
-
-    date_start = "2009-01-03T00:00:00Z"
-    date_end = "2007-01-03T00:00:00Z"
-
+def collect_all(titles, date_start, date_end, folder_to_save):
     file_collected = f"{folder_to_save}/collected.json"
     file_error = f"{folder_to_save}/errors.csv"
+    folder_data = f"{folder_to_save}/data"
 
     status = {}
     try:
-        new_status = read_json(file_collected)
-        status = new_status
+        status = read_json(file_collected)
     except IOError:
         status = {"collected_pages":[]}
+
+    create_file_if_does_not_exist(file_error)
+    create_folder_if_does_not_exist(folder_data)
 
     already_collected_pages = set(status["collected_pages"])
     remaning_to_collect = [article for article in titles if article not in already_collected_pages]
@@ -173,19 +165,29 @@ def collect_all():
 
     while(len(remaning_to_collect) > 0):
         title = remaning_to_collect.pop(0)
-        objTime.print_delta(f"Remaining: {str(len(remaning_to_collect))} collecting now {title}")
+        objTime.print_delta(f"Remaining: {len(remaning_to_collect)+1} collecting now: '{title}'")
 
         try:
             result = collect(title, date_start, date_end)
-            result.to_csv(f"{folder_to_save}/{title}_output", sep=";", index=None )
+            result.to_csv(f"{folder_data}/{title}_output", sep=";", index=None )
             status["collected_pages"].append(title)
             write_json(file_collected, status)
         except:
             append_file(file_error, title)
             print(f"ERROR:{title}\n")
-            #remaning_to_collect.append(title)
-           # time.sleep(3)
-        #time.sleep(1)
     print(f"Tempo total : {objTime.total_time}")
+
 if __name__ == "__main__":
-    collect_all()
+    date_start = "2019-07-01T00:00:00Z"
+    date_end = "2014-07-01T00:00:00Z"
+
+    base_folder = "/home/ana/Documents/tcc-web-crawler"
+    folder_to_save = f"{base_folder}/collected_data/revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}"
+    input_file = f"{base_folder}/poc_wikimedia_revision/wikipedia_dataset_hasan/wikipedia.csv"
+
+    create_folder_if_does_not_exist(folder_to_save) 
+
+    dataset = pd.read_csv(input_file)
+    titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
+
+    collect_all(titles, date_start, date_end, folder_to_save)
