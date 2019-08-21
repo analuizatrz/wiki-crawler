@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Alter: title. Add: url, doi. Removed URL that duplicated unique identifier. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]];903268796;903867318;2019-06-28T12:54:13Z;Citation bot
+2019-06-01T00:00:00Z;;Bot: [[User:FrescoBot/galleries|galleries syntax]] and minor changes;887469057;896653694;2019-05-12T00:48:36Z;FrescoBot
+2019-05-01T00:00:00Z;;Undid revision 887462416 by [[Special:Contributions/ShadowBomb360|ShadowBomb360]] ([[User talk:ShadowBomb360|talk]]);887462416;887469057;2019-03-12T21:34:06Z;MartinezMD
+2019-04-01T00:00:00Z;;Undid revision 887462416 by [[Special:Contributions/ShadowBomb360|ShadowBomb360]] ([[User talk:ShadowBomb360|talk]]);887462416;887469057;2019-03-12T21:34:06Z;MartinezMD
+2019-03-01T00:00:00Z;;- 13 categories using [[WP:HC|HotCat]] overcategorization;878743478;879663717;2019-01-22T17:21:25Z;Hyperik
+2019-02-01T00:00:00Z;;- 13 categories using [[WP:HC|HotCat]] overcategorization;878743478;879663717;2019-01-22T17:21:25Z;Hyperik
+2019-01-01T00:00:00Z;;"Removed 1 archive link; Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]";875881735;875887208;2018-12-29T17:55:06Z;GreenC bot
+2018-12-01T00:00:00Z;;Rescuing 5 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1);869882979;871124818;2018-11-29T02:40:39Z;InternetArchiveBot
+2018-11-01T00:00:00Z;;"Redundant wording; rephrasing";857470366;865429878;2018-10-23T22:06:32Z;141.131.2.3
+2018-10-01T00:00:00Z;;Rescuing 0 sources and tagging 1 as dead. #IABot (v2.0beta8);853342186;857470366;2018-08-31T21:48:04Z;InternetArchiveBot
+2018-09-01T00:00:00Z;;Rescuing 0 sources and tagging 1 as dead. #IABot (v2.0beta8);853342186;857470366;2018-08-31T21:48:04Z;InternetArchiveBot
+2018-08-01T00:00:00Z;;Moving from [[Category:Invertebrates of Uruguay]] to [[Category:Insects of Uruguay]] using [[c:Help:Cat-a-lot|Cat-a-lot]];849353904;851745434;2018-07-24T09:50:36Z;Oculi
+2018-07-01T00:00:00Z;;Added {{[[:Template:lead too long|lead too long]]}} tag to article ([[WP:TW|TW]]);846407126;848118632;2018-06-29T22:05:07Z;DoRD
+2018-06-01T00:00:00Z;;Okay, finally got it. IP vandalism edit was causing the image issue, not the new images.;841747501;841748016;2018-05-17T20:04:34Z;KatnissEverdeen
+2018-05-01T00:00:00Z;;"/* External links */ remove sister links; redundant";837486801;837918363;2018-04-23T20:29:44Z;Plantdrew
+2018-04-01T00:00:00Z;;Disambiguating links to [[Clypeus]] (link changed to [[Clypeus (arthropod anatomy)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].;826689583;830777084;2018-03-16T21:45:49Z;Rodw
+2018-03-01T00:00:00Z;;Undid revision 826683982 by [[Special:Contributions/Unholytarsier2|Unholytarsier2]] ([[User talk:Unholytarsier2|talk]]);826683982;826689583;2018-02-20T14:15:57Z;MartinezMD
+2018-02-01T00:00:00Z;;Robot - Removing category Magnetoreceptive animals per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 January 21]].;822212556;822984514;2018-01-29T17:09:49Z;Cydebot
+2018-01-01T00:00:00Z;;"corrected typo from ""important fire ant"" to ""imported fire ant""";816371911;816622904;2017-12-22T15:29:31Z;159.18.221.196
+2017-12-01T00:00:00Z;;Rescuing 0 sources and tagging 1 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]]);810951667;811327053;2017-11-20T22:39:04Z;InternetArchiveBot
+2017-11-01T00:00:00Z;;[[User:JCW-CleanerBot#Logic|task]], replaced: journal=PloS → journal=PLoS using [[Project:AWB|AWB]];806074767;806945947;2017-10-25T02:01:13Z;JCW-CleanerBot
+2017-10-01T00:00:00Z;;/* Introductions */;799903858;802568385;2017-09-27T00:53:29Z;2601:19B:C00:E09:EDAA:DB47:BD9D:3038
+2017-09-01T00:00:00Z;;/* Introductions */;797677993;797892164;2017-08-29T19:44:06Z;24.184.98.110
+2017-08-01T00:00:00Z;;Bot: Change redirected category [[:Category:Insects of Uruguay|Insects of Uruguay]] to [[:Category:Invertebrates of Uruguay|Invertebrates of Uruguay]];792399784;792400633;2017-07-26T08:50:23Z;RussBot

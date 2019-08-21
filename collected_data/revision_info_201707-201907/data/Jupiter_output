@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/2×);";902007262;903481112;2019-06-25T23:34:56Z;Monkbot
+2019-06-01T00:00:00Z;/* Ground-based telescope research */;893222944;898835377;2019-05-26T06:04:22Z;A Lazy Shisno
+2019-05-01T00:00:00Z;Added a link to an interactive 3D gravity simulation of the Jovian system;889500815;893222944;2019-04-19T21:44:01Z;TheVeryHappyKoala
+2019-04-01T00:00:00Z;/* Formation and migration */;888951249;889500815;2019-03-26T02:24:21Z;MasterfulNerd
+2019-03-01T00:00:00Z;fix section-color=none issue;883237092;883353446;2019-02-14T22:13:33Z;Rfassbind
+2019-02-01T00:00:00Z;/* Mythology */ rf: tweak;880855801;880859636;2019-01-29T22:37:57Z;Tronvillain
+2019-01-01T00:00:00Z;Alter: template type, date. Add: arxiv, date, hdl, bibcode, pages, issue, volume, journal. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:AdrianWikiEditor|AdrianWikiEditor]];873197873;874181251;2018-12-17T17:39:27Z;Citation bot
+2018-12-01T00:00:00Z;"Removed ""image_size"" from {{Infobox planet}} to allow for user preference on thumbnail sizes, per the [[MOS:IMAGESIZE|manual of style]]";867203179;868383745;2018-11-11T21:22:43Z;PhilipTerryGraham
+2018-11-01T00:00:00Z;"Reverted 1 edit by ImprovedWikiImprovment: You're not at all good at understanding the policies you refer to; respect the fact that this (and the others you've changed) is a featured article and wording has been arrived at with some careful consideration. ([[WP:TW|TW]])";865852871;865900851;2018-10-26T22:40:50Z;Dhtwiki
+2018-10-01T00:00:00Z;/* Classification */;861447674;861830577;2018-09-30T10:00:09Z;Double sharp
+2018-09-01T00:00:00Z;Added [[Wikipedia:SHORTDES|short description]];855683518;855736055;2018-08-20T13:41:33Z;Voello
+2018-08-01T00:00:00Z;/* Mythology */;850871500;852655391;2018-07-30T13:42:34Z;Sholokhov
+2018-07-01T00:00:00Z;/* Mythology */;846705373;848061149;2018-06-29T15:05:41Z;Tarunuee
+2018-06-01T00:00:00Z;/* Galileo mission */ crushed -> signal was lost (per ref);837429223;838060002;2018-04-24T17:36:09Z;Rod57
+2018-05-01T00:00:00Z;/* Galileo mission */ crushed -> signal was lost (per ref);837429223;838060002;2018-04-24T17:36:09Z;Rod57
+2018-04-01T00:00:00Z;/* Impacts */[[WP:AWB/T|Typo fixing]], replaced: Thew New → The New using [[Project:AWB|AWB]];831418032;832421718;2018-03-25T22:29:23Z;WereSpielChequers
+2018-03-01T00:00:00Z;/* Internal structure */ sheesh - there was nothing wrong with the original wording imo, but since it appears this has to become an 'issue' let's see if we can all be happy with NASA's own wording from the source page?;828043172;828079957;2018-02-28T12:55:37Z;Begoon
+2018-02-01T00:00:00Z;"Undid revision 822395452 by [[Special:Contributions/Vmavanti|Vmavanti]] ([[User talk:Vmavanti|talk]]); this is an intentional link.";822395452;822408795;2018-01-26T05:41:07Z;Huntster
+2018-01-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Iggy the Swan|Iggy the Swan]]);817349767;817629715;2017-12-29T16:15:00Z;InternetArchiveBot
+2017-12-01T00:00:00Z;"Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]";812105531;812966938;2017-11-30T23:07:35Z;GreenC bot
+2017-11-01T00:00:00Z;/* Mass and size */ link to main article;807749269;808056009;2017-10-31T16:31:11Z;Hadron137
+2017-10-01T00:00:00Z;Revert to the revision prior to revision 802097391 dated 2017-09-24 00:12:44 by YuRi YuZi using [[:en:Wikipedia:Tools/Navigation_popups|popups]];802097391;802170788;2017-09-24T12:36:33Z;Lithopsian
+2017-09-01T00:00:00Z;Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot;797930977;798000184;2017-08-30T11:34:30Z;Nemo bis
+2017-08-01T00:00:00Z;/* Mass and size */;790701134;793186974;2017-07-31T05:40:46Z;Double sharp

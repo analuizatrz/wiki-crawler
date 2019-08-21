@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;/* Classification */ life restoration changed by an updated one;899054171;902027558;2019-06-16T00:47:09Z;PaleoNeolitic
+2019-06-01T00:00:00Z;;"cleaning (ed[s]); template now always displays editor annotation; gen fixes";894572708;899054171;2019-05-27T16:00:14Z;IznoRepeat
+2019-05-01T00:00:00Z;;/* Classification */ Moved image to left;894152088;894572708;2019-04-28T18:14:36Z;Lusotitan
+2019-04-01T00:00:00Z;;/* External links */ ce;880965555;890055930;2019-03-29T19:12:29Z;Tisquesusa
+2019-03-01T00:00:00Z;;Alter: pages, url, journal. Add: issue, chapter-url, hdl. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;877674773;880965555;2019-01-30T16:25:16Z;Citation bot
+2019-02-01T00:00:00Z;;Alter: pages, url, journal. Add: issue, chapter-url, hdl. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;877674773;880965555;2019-01-30T16:25:16Z;Citation bot
+2019-01-01T00:00:00Z;;tidy taxobox;871553230;871635426;2018-12-02T13:02:07Z;Loopy30
+2018-12-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/2600:6C5A:4B7F:D0AA:C496:81F5:162B:E557|2600:6C5A:4B7F:D0AA:C496:81F5:162B:E557]] to version by Morosaurus shinyae. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3534899) (Bot);867774452;867774468;2018-11-07T22:42:01Z;ClueBot NG
+2018-11-01T00:00:00Z;;Changed taxobox image to one with more focus on the overall body.;853696838;860919504;2018-09-23T23:57:06Z;Morosaurus millenii
+2018-10-01T00:00:00Z;;Changed taxobox image to one with more focus on the overall body.;853696838;860919504;2018-09-23T23:57:06Z;Morosaurus millenii
+2018-09-01T00:00:00Z;;Alter: isbn, issue, journal. Add: format, url, pages, issue, volume, journal. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].;850532536;853696838;2018-08-06T12:18:42Z;Citation bot
+2018-08-01T00:00:00Z;;/* Paleoecology */;849578482;850532536;2018-07-16T13:40:17Z;Mamenchi
+2018-07-01T00:00:00Z;;;847243245;847255594;2018-06-24T00:34:03Z;176.59.130.37
+2018-06-01T00:00:00Z;;/* History */[[User:JCW-CleanerBot#Logic|task]], replaced: Journal of Vertebrate Paleontolology → Journal of Vertebrate Paleontology using [[Project:AWB|AWB]];832033364;833525270;2018-04-01T03:11:12Z;JCW-CleanerBot
+2018-05-01T00:00:00Z;;/* History */[[User:JCW-CleanerBot#Logic|task]], replaced: Journal of Vertebrate Paleontolology → Journal of Vertebrate Paleontology using [[Project:AWB|AWB]];832033364;833525270;2018-04-01T03:11:12Z;JCW-CleanerBot
+2018-04-01T00:00:00Z;;"[[User:Tom.Bot/Task3|Task 3]]: +{{Taxonbar|[[:Category:Taxonbar templates without from parameter|from]]=[[d:Special:EntityPage/Q131014|Q131014]]}} ([[WT:TREE#Taxonbar addition requirements|1 sig. taxon ID]]); WP:GenFixes, using [[Project:AWB|AWB]]";822317767;832033364;2018-03-23T12:28:17Z;Tom.Bot
+2018-03-01T00:00:00Z;;Reverted edits by [[Special:Contributions/71.255.155.181|71.255.155.181]] ([[User talk:71.255.155.181|talk]]) ([[WP:HG|HG]]) (3.3.3);822317602;822317767;2018-01-25T18:04:44Z;Flyer22 Reborn
+2018-02-01T00:00:00Z;;Reverted edits by [[Special:Contributions/71.255.155.181|71.255.155.181]] ([[User talk:71.255.155.181|talk]]) ([[WP:HG|HG]]) (3.3.3);822317602;822317767;2018-01-25T18:04:44Z;Flyer22 Reborn
+2018-01-01T00:00:00Z;;Category:Prehistoric saurischians;816068259;816425853;2017-12-21T07:29:02Z;Caftaric
+2017-12-01T00:00:00Z;;ce;803112778;805335558;2017-10-14T18:05:24Z;Tisquesusa
+2017-11-01T00:00:00Z;;ce;803112778;805335558;2017-10-14T18:05:24Z;Tisquesusa
+2017-10-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.4) ([[User:FA RotBot|FA RotBot]]);801191478;803112778;2017-09-30T14:53:03Z;InternetArchiveBot
+2017-09-01T00:00:00Z;;taxobox cleanup;789707316;791673012;2017-07-21T19:20:08Z;Plantdrew
+2017-08-01T00:00:00Z;;taxobox cleanup;789707316;791673012;2017-07-21T19:20:08Z;Plantdrew

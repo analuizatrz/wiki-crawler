@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (2×/1×); skipped: unrecognized periodical (1×);";903758867;903971777;2019-06-29T04:27:26Z;Monkbot
+2019-06-01T00:00:00Z;;Robot - Speedily moving category People with diabetes mellitus type 1 to [[:Category:People with type 1 diabetes]] per [[WP:CFDS|CFDS]].;895235133;899449523;2019-05-30T03:52:06Z;Cydebot
+2019-05-01T00:00:00Z;;/* 2013 British Columbia provincial election */ obvious NFCC#8 violation, image of text quoted in body of bio;890856462;894744551;2019-04-29T19:04:55Z;Hullaballoo Wolfowitz
+2019-04-01T00:00:00Z;;/* Election results (partial) */ 2013 results;872377040;885726157;2019-03-01T22:29:54Z;PKT
+2019-03-01T00:00:00Z;;/* top */parameter fixes;866887292;872377040;2018-12-06T23:07:21Z;Suelru
+2019-02-01T00:00:00Z;;/* top */parameter fixes;866887292;872377040;2018-12-06T23:07:21Z;Suelru
+2019-01-01T00:00:00Z;;/* top */parameter fixes;866887292;872377040;2018-12-06T23:07:21Z;Suelru
+2018-12-01T00:00:00Z;;fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]];862419956;866887292;2018-11-02T05:31:42Z;Joeyconnick
+2018-11-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);862252243;862419956;2018-10-04T07:50:45Z;KolbertBot
+2018-10-01T00:00:00Z;;"standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes";843902079;857466320;2018-08-31T21:16:41Z;Hmains
+2018-09-01T00:00:00Z;;"standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes";843902079;857466320;2018-08-31T21:16:41Z;Hmains
+2018-08-01T00:00:00Z;;fixed two dead links in the references;807802359;843902079;2018-06-01T07:41:06Z;Cmr08
+2018-07-01T00:00:00Z;;fixed two dead links in the references;807802359;843902079;2018-06-01T07:41:06Z;Cmr08
+2018-06-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2018-05-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2018-04-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2018-03-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2018-02-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2018-01-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2017-12-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2017-11-01T00:00:00Z;;;807802238;807802359;2017-10-30T05:25:59Z;96.54.50.56
+2017-10-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];796169594;796897726;2017-08-23T18:17:27Z;KolbertBot
+2017-09-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];796169594;796897726;2017-08-23T18:17:27Z;KolbertBot
+2017-08-01T00:00:00Z;;;791265588;791265926;2017-07-19T04:29:56Z;96.54.50.56

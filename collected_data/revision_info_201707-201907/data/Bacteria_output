@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;Add: pages, volume, url, issue. Removed URL that duplicated unique identifier. Removed accessdate with no specified URL. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]];899763140;903920445;2019-06-28T19:53:27Z;Citation bot
+2019-06-01T00:00:00Z;fmt;898498090;898501953;2019-05-24T00:38:37Z;Octoberwoodland
+2019-05-01T00:00:00Z;avoid some plural->singular redirects;892068745;894450593;2019-04-27T23:54:33Z;Pjrm
+2019-04-01T00:00:00Z;/* Intracellular structures */ unnecessary living to other;890263389;890263791;2019-03-31T07:27:17Z;Iztwoz
+2019-03-01T00:00:00Z;/* Origin and early evolution */  it's primary endosymbiosis when the organelle isn't derived from an organelle from another organism;872144648;885555758;2019-02-28T19:36:35Z;OrganoMetallurgy
+2019-02-01T00:00:00Z;adjust icon size;870625146;872144648;2018-12-05T12:33:14Z;The Transhumanist
+2019-01-01T00:00:00Z;adjust icon size;870625146;872144648;2018-12-05T12:33:14Z;The Transhumanist
+2018-12-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10) ([[User:FA RotBot|FA RotBot]]);868962822;870625146;2018-11-26T01:06:53Z;InternetArchiveBot
+2018-11-01T00:00:00Z;copyedit;864980552;865164637;2018-10-22T05:13:24Z;Grover cleveland
+2018-10-01T00:00:00Z;wl;855258881;859834033;2018-09-16T15:56:34Z;Chhandama
+2018-09-01T00:00:00Z;rv, +cite;855214993;855258881;2018-08-17T01:11:18Z;Crion
+2018-08-01T00:00:00Z;clean up, replaced: Cambridge, Mass. → Cambridge, Massachusetts using [[Project:AWB|AWB]];844189189;844432176;2018-06-04T21:44:26Z;Rich Farmbrough
+2018-07-01T00:00:00Z;clean up, replaced: Cambridge, Mass. → Cambridge, Massachusetts using [[Project:AWB|AWB]];844189189;844432176;2018-06-04T21:44:26Z;Rich Farmbrough
+2018-06-01T00:00:00Z;;843233662;843401719;2018-05-28T22:39:51Z;Kencf0618
+2018-05-01T00:00:00Z;change fixed thumbnail sizes to upright equivalents per [[WP:IMGSIZE]];837916097;838873735;2018-04-29T20:55:34Z;Mandruss
+2018-04-01T00:00:00Z;Rescuing 12 sources and tagging 0 as dead. #IABot (v1.6.5);832437616;832791444;2018-03-28T01:00:51Z;Artix Kreiger 2
+2018-03-01T00:00:00Z;/* Genetics */Journal cites, Added 1 doi to a journal cite;826373690;826471293;2018-02-19T09:12:33Z;Rjwilmsi
+2018-02-01T00:00:00Z;Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];823239720;823316078;2018-01-31T14:45:16Z;Bibcode Bot
+2018-01-01T00:00:00Z;Cleanup extracellular structures pt 1 - trim extraneous info, return gram/Gram style to that of major contributor (see FA version);816515402;816624063;2017-12-22T15:41:34Z;Ajpolino
+2017-12-01T00:00:00Z;Update phyla in taxobox. Add recent phyla, remove cavalier-smith superphyla, remove gram designations (we can discuss that in the taxonomy section);812107747;812120295;2017-11-26T03:09:18Z;Ajpolino
+2017-11-01T00:00:00Z;/* Genetics */ minor ce and changed link;806107438;806264300;2017-10-20T20:49:09Z;Iztwoz
+2017-10-01T00:00:00Z;Adding 0 [[arXiv|arxiv eprint(s)]], 2 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];799921623;801406636;2017-09-19T13:44:18Z;Bibcode Bot
+2017-09-01T00:00:00Z;Dating maintenance tags: {{Refimprove}};797899826;797902745;2017-08-29T20:55:29Z;AnomieBOT
+2017-08-01T00:00:00Z;/* top */cleanup using [[Project:AWB|AWB]];789082683;791785282;2017-07-22T13:39:46Z;Headbomb

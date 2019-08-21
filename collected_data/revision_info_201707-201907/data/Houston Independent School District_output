@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"/* History */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/1×); skipped: unrecognized periodical (1×);";897880245;902268903;2019-06-17T18:03:14Z;Monkbot
+2019-06-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]: (developmental testing):  repair improper use of publisher params in cs1 templates (4×); skipped: 1 unrecognized periodical(s);";896493476;897880245;2019-05-19T23:38:41Z;Trappist the monk
+2019-05-01T00:00:00Z;;/* Superintendents */;893532827;893914755;2019-04-24T11:40:34Z;WhisperToMe
+2019-04-01T00:00:00Z;;rmv ELs in text per MOS;890370428;890370522;2019-03-31T23:22:57Z;MB
+2019-03-01T00:00:00Z;;/* Student body */;885072409;885141115;2019-02-26T05:59:38Z;Mfechter26
+2019-02-01T00:00:00Z;;;872944126;874583867;2018-12-20T05:44:51Z;107.193.129.44
+2019-01-01T00:00:00Z;;;872944126;874583867;2018-12-20T05:44:51Z;107.193.129.44
+2018-12-01T00:00:00Z;;Rescuing 3 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1);864441990;871102023;2018-11-28T23:01:07Z;InternetArchiveBot
+2018-11-01T00:00:00Z;;Nvm its 15 for all grade levels, and 11.5 for HS.. Undid revision 864441873 by [[Special:Contributions/WhisperToMe|WhisperToMe]] ([[User talk:WhisperToMe|talk]]);864441873;864441990;2018-10-17T06:53:08Z;WhisperToMe
+2018-10-01T00:00:00Z;;/* Governance */;860002887;860439269;2018-09-20T17:51:52Z;67.226.57.13
+2018-09-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta8);855434006;857366561;2018-08-31T06:33:54Z;InternetArchiveBot
+2018-08-01T00:00:00Z;;"Reverted 2 edits by [[Special:Contributions/2601:642:4001:D1B2:2022:3CAB:320A:C1B5|2601:642:4001:D1B2:2022:3CAB:320A:C1B5]]: Addition of non notable individual; addition of improperly sourced controversial material. ([[WP:TW|TW]])";852553305;852588527;2018-07-30T01:20:27Z;John from Idegon
+2018-07-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);837935938;846480503;2018-06-19T01:14:34Z;KolbertBot
+2018-06-01T00:00:00Z;;/* HISD coverage area */;837935857;837935938;2018-04-23T22:48:43Z;WhisperToMe
+2018-05-01T00:00:00Z;;/* HISD coverage area */;837935857;837935938;2018-04-23T22:48:43Z;WhisperToMe
+2018-04-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);831173419;831948733;2018-03-22T23:53:50Z;KolbertBot
+2018-03-01T00:00:00Z;;updated some of the demographics for the 2017-2018 school year;826247450;828169187;2018-02-28T23:27:35Z;Bba11
+2018-02-01T00:00:00Z;;/* Student body */;823235281;823235338;2018-01-31T01:20:03Z;Broadmoor
+2018-01-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v477);801348528;813377615;2017-12-03T10:29:08Z;KolbertBot
+2017-12-01T00:00:00Z;;/* History */ grammar.;801346471;801348528;2017-09-19T04:11:42Z;Stedil
+2017-11-01T00:00:00Z;;/* History */ grammar.;801346471;801348528;2017-09-19T04:11:42Z;Stedil
+2017-10-01T00:00:00Z;;/* History */ grammar.;801346471;801348528;2017-09-19T04:11:42Z;Stedil
+2017-09-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];797957516;798243388;2017-08-31T19:40:11Z;KolbertBot
+2017-08-01T00:00:00Z;;Typo/[[WP:AWB/GF|general]] fixes, replaced: Miltingual → Multilingual, per source. using [[Project:AWB|AWB]];788631915;793083366;2017-07-30T14:43:47Z;John of Reading

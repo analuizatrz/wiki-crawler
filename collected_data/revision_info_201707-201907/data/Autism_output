@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;sp amoung > among;903885815;903920084;2019-06-28T19:50:32Z;JimVC3
+2019-06-01T00:00:00Z;/* Society and culture */ IMDB is not an rs;897452416;899115707;2019-05-27T23:55:39Z;X-Editor
+2019-05-01T00:00:00Z;"Undid revision 894566228 by [[Special:Contributions/RetractionBot|RetractionBot]] ([[User talk:RetractionBot|talk]])  This is not the retracted article, but the 2019 one PMID 30938835. Reason ""This review was withdrawn from the Cochrane Library in Issue 4, 2019, as it has not been updated since its last revision in 2008"". https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003498.pub4/full";894566228;894599013;2019-04-28T20:52:56Z;BallenaBlanca
+2019-04-01T00:00:00Z;Reverted to revision 889505752 by [[Special:Contributions/Jarnsax|Jarnsax]] ([[User talk:Jarnsax|talk]]): Not needed ([[WP:TW|TW]]);890185052;890352045;2019-03-31T20:45:05Z;Doc James
+2019-03-01T00:00:00Z;/* Other symptoms */ Problems -> disorders, to avoid repetition (Gastrointestinal problems .... associated medical problems);885501326;885501610;2019-02-28T12:17:31Z;BallenaBlanca
+2019-02-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/NathanGOAT|NathanGOAT]] ([[User talk:NathanGOAT|talk]]) to last revision by GreenC bot ([[WP:TW|TW]]);880376484;880377784;2019-01-27T02:57:47Z;Nzd
+2019-01-01T00:00:00Z;adjusted;876138369;876147032;2018-12-31T13:28:57Z;Doc James
+2018-12-01T00:00:00Z;Alter: journal, title, template type. Add: date, newspaper, url, chapter, citeseerx, pmc, author pars. 1-1. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Headbomb|Headbomb]];870922668;870956525;2018-11-28T01:15:13Z;Citation bot
+2018-11-01T00:00:00Z;"Rescuing orphaned refs (""CBT2013"" from rev 866675917)";866680806;866697217;2018-10-31T23:30:03Z;AnomieBOT
+2018-10-01T00:00:00Z;/*  */ // Edit via Wikiplus Why redirecting social interaction to somewhere else?;861677448;861853977;2018-09-30T14:35:45Z;It's gonna be awesome
+2018-09-01T00:00:00Z;Alter: title, journal, template type, pages. Add: pmc, website, pmid, citeseerx, issue, author pars. 1-2. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Headbomb|Headbomb]];856492186;856895763;2018-08-28T07:04:31Z;Citation bot
+2018-08-01T00:00:00Z;/* Alternative medicine */ typo corrected ('practivie' replaced with 'practice');852553366;852783769;2018-07-31T10:08:11Z;JoBrodie
+2018-07-01T00:00:00Z;;846018883;846027617;2018-06-15T20:07:37Z;Doc James
+2018-06-01T00:00:00Z;avoid redirect;839502261;840400935;2018-05-09T17:07:39Z;SandyGeorgia
+2018-05-01T00:00:00Z;moved to talk;839007329;839047536;2018-04-30T22:38:31Z;Doc James
+2018-04-01T00:00:00Z;/* Characteristics */ removed video;832939749;833201483;2018-03-30T06:22:06Z;Doc James
+2018-03-01T00:00:00Z;copy-edit;827712390;828132296;2018-02-28T19:14:02Z;Hydrargyrum
+2018-02-01T00:00:00Z;Rescuing 0 sources and tagging 2 as dead. #IABot (v1.6.2) ([[User:Iggy the Swan|Iggy the Swan]]);818992340;822209039;2018-01-25T01:18:00Z;InternetArchiveBot
+2018-01-01T00:00:00Z;;815439726;815440065;2017-12-14T21:07:02Z;Tornado chaser
+2017-12-01T00:00:00Z;[[User:JCW-CleanerBot#Logic|task]], replaced: Frontiers in neuroendocrinology → Frontiers in Neuroendocrinology using [[Project:AWB|AWB]];811686164;812196252;2017-11-26T15:29:11Z;JCW-CleanerBot
+2017-11-01T00:00:00Z;Reverted to revision 807600621 by [[Special:Contributions/Certes|Certes]] ([[User talk:Certes|talk]]): Is associated, means occurs more often than typical, nothing more. ([[WP:TW|TW]]);807942971;807961083;2017-10-31T01:50:45Z;Doc James
+2017-10-01T00:00:00Z;Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot;799993248;802342135;2017-09-25T15:31:47Z;Rachel Helps (BYU)
+2017-09-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];797017959;797493194;2017-08-27T11:24:13Z;KolbertBot
+2017-08-01T00:00:00Z;/* Further reading */ not needed;790547996;790628794;2017-07-15T00:53:58Z;Doc James

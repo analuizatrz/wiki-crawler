@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Add: year, doi, hdl, author pars. 1-7. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]];900256362;904128784;2019-06-30T04:52:17Z;Citation bot
+2019-06-01T00:00:00Z;;test edit? Undid revision 898214012 by [[Special:Contributions/2601:643:8100:D254:585B:B1EA:BE8E:249F|2601:643:8100:D254:585B:B1EA:BE8E:249F]] ([[User talk:2601:643:8100:D254:585B:B1EA:BE8E:249F|talk]]);898214012;898214066;2019-05-22T03:50:08Z;OkayKenji
+2019-05-01T00:00:00Z;;Undid revision 894845387 by [[Special:Contributions/Kluze08|Kluze08]] ([[User talk:Kluze08|talk]]);894845387;894848031;2019-04-30T12:09:32Z;Edgar181
+2019-04-01T00:00:00Z;;Fix incorrect unit;887671660;889925943;2019-03-28T21:31:04Z;86.130.147.110
+2019-03-01T00:00:00Z;;/* top */FA clean up (AWB typo & other checks);881627245;881940780;2019-02-05T20:13:19Z;DePiep
+2019-02-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1) ([[User:FA RotBot|FA RotBot]]);877532563;878487571;2019-01-15T03:00:47Z;InternetArchiveBot
+2019-01-01T00:00:00Z;;Undid revision 876012265 by [[Special:Contributions/27.97.178.120|27.97.178.120]] ([[User talk:27.97.178.120|talk]]);876012265;876048303;2018-12-30T20:49:36Z;Edgar181
+2018-12-01T00:00:00Z;;/* Medical use */ CE;870492571;871182008;2018-11-29T13:55:44Z;François Robere
+2018-11-01T00:00:00Z;;Undid revision 864518033 by [[Special:Contributions/The Vinegar Institute|The Vinegar Institute]] ([[User talk:The Vinegar Institute|talk]]) that may be something that's important to The Vinegar Institute, but it's not important enough to the reader to highlight in this article's introduction;864518033;864524020;2018-10-17T19:39:47Z;ChemNerd
+2018-10-01T00:00:00Z;;Reverted edits by [[Special:Contributions/184.185.159.152|184.185.159.152]] ([[User talk:184.185.159.152|talk]]) ([[WP:HG|HG]]) (3.4.4);859520539;859998351;2018-09-17T17:43:41Z;Shellwood
+2018-09-01T00:00:00Z;;unsourced;856130521;856323609;2018-08-24T12:10:06Z;DrKay
+2018-08-01T00:00:00Z;;[[MOS:DL]];849917778;851499132;2018-07-22T18:37:41Z;Gary600playsmc
+2018-07-01T00:00:00Z;;Undid revision 847479424 by [[Special:Contributions/2600:1702:27A0:14C0:50B9:465B:939:DE99|2600:1702:27A0:14C0:50B9:465B:939:DE99]] ([[User talk:2600:1702:27A0:14C0:50B9:465B:939:DE99|talk]]);847479424;847480969;2018-06-25T17:21:49Z;ChiveFungi
+2018-06-01T00:00:00Z;;don't use sanboxes in articles;841534871;843793423;2018-05-31T14:23:54Z;JJMC89
+2018-05-01T00:00:00Z;;/* Biochemistry */ syntax;837452873;837500889;2018-04-21T06:49:59Z;WolfmanSF
+2018-04-01T00:00:00Z;;/* Organic chemistry */ Transcribe blurry image into more text-based, wikilinked template.;830967745;832271932;2018-03-24T22:47:46Z;GKFX
+2018-03-01T00:00:00Z;;Added a sentence about the fraction of dissociation in very dilute solution.;823881754;824457428;2018-02-07T13:29:17Z;Klaus Schmidt-Rohr
+2018-02-01T00:00:00Z;;Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];823010592;823217186;2018-01-30T23:05:39Z;Bibcode Bot
+2018-01-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v477);810778552;813258511;2017-12-02T19:14:25Z;KolbertBot
+2017-12-01T00:00:00Z;;Added solid state density.;809637090;810778552;2017-11-17T11:08:03Z;128.40.76.3
+2017-11-01T00:00:00Z;;/* Production */;807756391;808081492;2017-10-31T19:33:04Z;DrKay
+2017-10-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798396503;799599689;2017-09-08T18:07:41Z;KolbertBot
+2017-09-01T00:00:00Z;;10.1136/bmj.h3084;796840241;798056889;2017-08-30T18:48:58Z;Rjwilmsi
+2017-08-01T00:00:00Z;;date consistency, updated references;792465868;792586953;2017-07-27T11:38:18Z;Quebec99

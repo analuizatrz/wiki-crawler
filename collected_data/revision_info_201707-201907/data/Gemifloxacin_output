@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]];894994870;894995033;2019-05-01T10:09:16Z;Onel5969
+2019-06-01T00:00:00Z;fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]];894994870;894995033;2019-05-01T10:09:16Z;Onel5969
+2019-05-01T00:00:00Z;Alter: isbn, journal, issue. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;864334027;881340116;2019-02-01T22:39:27Z;Citation bot
+2019-04-01T00:00:00Z;Alter: isbn, journal, issue. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;864334027;881340116;2019-02-01T22:39:27Z;Citation bot
+2019-03-01T00:00:00Z;Alter: isbn, journal, issue. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;864334027;881340116;2019-02-01T22:39:27Z;Citation bot
+2019-02-01T00:00:00Z;ce;860953583;864334027;2018-10-16T15:14:05Z;Headbomb
+2019-01-01T00:00:00Z;ce;860953583;864334027;2018-10-16T15:14:05Z;Headbomb
+2018-12-01T00:00:00Z;ce;860953583;864334027;2018-10-16T15:14:05Z;Headbomb
+2018-11-01T00:00:00Z;ce;860953583;864334027;2018-10-16T15:14:05Z;Headbomb
+2018-10-01T00:00:00Z;;797728635;860953583;2018-09-24T05:13:01Z;Zakblade2000
+2018-09-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-08-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-07-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-06-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-05-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-04-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-03-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-02-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2018-01-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2017-12-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2017-11-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2017-10-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2017-09-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];792398157;797728635;2017-08-28T21:02:43Z;KolbertBot
+2017-08-01T00:00:00Z;/* top */disambiguating [[quinolone]] to [[quinolone antibiotic]] after merge using [[Project:AWB|AWB]];784366969;792398157;2017-07-26T08:25:37Z;Fvasconcellos

@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;"/* Dye lasers */ Rm reference to book by F.J. Duarte which does not even give a page number. Duarte has a history of self-promotion on Wikipedia and linking to websites run by himself, like the one hosting the ""review"".";903800390;903911332;2019-06-28T18:31:16Z;Srleffler
+2019-06-01T00:00:00Z;"cleaning (ed[s]); template now always displays editor annotation; gen fixes";897384275;899695144;2019-05-31T18:25:29Z;IznoRepeat
+2019-05-01T00:00:00Z;/* Maser */;889461897;893987266;2019-04-24T21:14:11Z;Airesao
+2019-04-01T00:00:00Z;removed period;887810718;889461897;2019-03-25T21:02:56Z;AdrianWikiEditor
+2019-03-01T00:00:00Z;Adding link to [[Portal:Lasers]]. ([[User:Dreamy Jazz Bot/Task 2|Task 2]] - [[User talk:Dreamy Jazz|report errors here]]);882201357;884989472;2019-02-25T07:15:33Z;Dreamy Jazz Bot
+2019-02-01T00:00:00Z;restore ISBN hyphenation;880304016;880306820;2019-01-26T18:17:55Z;Kanguole
+2019-01-01T00:00:00Z;Undid revision 875878385 by [[Special:Contributions/Comfr|Comfr]] ([[User talk:Comfr|talk]]) I repaired your edit -  Links to DAB pages must go through the (disambiguation) qualifier per [[WP:INTDABLINK]];875878385;875978098;2018-12-30T09:31:15Z;Narky Blert
+2018-12-01T00:00:00Z;[[WP:UCB|Assisted by Citation bot]] | Cleaned up using [[WP:AutoEd|AutoEd]];870457559;870807482;2018-11-27T03:30:29Z;Srich32977
+2018-11-01T00:00:00Z;Needed that comma there, otherwise you're saying that Hall made the first GaAs laser diode, rather than that he made the first laser diode, which happened to be GaAs.;864496469;864743361;2018-10-19T05:07:43Z;Srleffler
+2018-10-01T00:00:00Z;"/* Examples by power */ Removed ""current"" in ""Green laser in current [[Holographic Versatile Disc]] prototype development"" — development of the HVD stopped in 2008. Removed two spurious periods.";857325036;860601450;2018-09-21T20:03:04Z;Dan Harkless
+2018-09-01T00:00:00Z;gr;857284811;857325036;2018-08-31T00:34:56Z;Srleffler
+2018-08-01T00:00:00Z;/* add audio discussing the invention of the laser */;849593886;850699708;2018-07-17T14:45:19Z;Mary Mark Ockerbloom
+2018-07-01T00:00:00Z;/* Types and operating principles */ Standardized hatnote;846668961;847771139;2018-06-27T17:18:34Z;Nihiltres
+2018-06-01T00:00:00Z;/* top */ ed;843742549;843742561;2018-05-31T04:37:02Z;Anthony Appleyard
+2018-05-01T00:00:00Z;If you're going to fix it, fix it right :);835882866;835988968;2018-04-12T00:33:19Z;Srleffler
+2018-04-01T00:00:00Z;;831076055;831853191;2018-03-22T14:11:22Z;Maximajorian Viridio
+2018-03-01T00:00:00Z;Rv further, for the reasons I explained on the talk page.;824906655;826263147;2018-02-18T04:18:08Z;Srleffler
+2018-02-01T00:00:00Z;/* Maser */ Fixed the link;815710962;822865042;2018-01-28T23:24:36Z;Mathwizurd29
+2018-01-01T00:00:00Z;/* Uses */ Clean up, reorganize, reduce [[WP:UNDUE|undue coverage]] of narrow applications when broad fields are given only a few words.;815536119;815710962;2017-12-16T16:21:26Z;Srleffler
+2017-12-01T00:00:00Z;syntax;808742773;812723196;2017-11-29T14:06:03Z;Dp99
+2017-11-01T00:00:00Z;;806730742;807429988;2017-10-27T22:15:03Z;Clarities
+2017-10-01T00:00:00Z;Adding 1 [[arXiv|arxiv eprint(s)]], 3 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];799316707;800359563;2017-09-13T01:40:15Z;Bibcode Bot
+2017-09-01T00:00:00Z;;797220364;798183960;2017-08-31T13:05:36Z;JE98
+2017-08-01T00:00:00Z;Adding reference and minor copyedit;788803069;790887772;2017-07-16T19:47:07Z;KAP03

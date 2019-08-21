@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;/* top */ Don't add commas, where they are unnecessary;903432084;903966915;2019-06-29T03:39:26Z;Jim.henderson
+2019-06-01T00:00:00Z;Additional punctuation for readability. It's a very well-written article.;899232397;899234306;2019-05-28T18:17:02Z;Wikidalien
+2019-05-01T00:00:00Z;Removed a useless =;889172860;889640771;2019-03-27T00:27:32Z;KhazWolf
+2019-04-01T00:00:00Z;Removed a useless =;889172860;889640771;2019-03-27T00:27:32Z;KhazWolf
+2019-03-01T00:00:00Z;removed [[Category:Condensed matter physics]] using [[WP:HC|HotCat]] overbroad cat;883375714;883729208;2019-02-17T06:49:33Z;Forbes72
+2019-02-01T00:00:00Z;Alter: url, template type. Add: url, pages, issue, journal, bibcode, chapter-format, chapter-url. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Headbomb|Headbomb]];880750426;880751294;2019-01-29T07:23:09Z;Citation bot
+2019-01-01T00:00:00Z;/* Conservation advocates */ link to main article;875265368;876222574;2018-12-31T23:05:24Z;FrankSier
+2018-12-01T00:00:00Z;"copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]], replaced: As of 2012 → {{as of|2012||}} (2),";867675888;870828083;2018-11-27T07:15:21Z;Smasongarrison
+2018-11-01T00:00:00Z;as contamination;865591041;866647842;2018-10-31T17:07:38Z;Samw
+2018-10-01T00:00:00Z;"Rescued 2 archive links; reformat 2 links. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]";858369138;861251628;2018-09-26T04:20:12Z;GreenC bot
+2018-09-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta8) ([[User:FA RotBot|FA RotBot]]);855294951;856130351;2018-08-23T02:51:41Z;InternetArchiveBot
+2018-08-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);846736255;846825993;2018-06-21T03:37:17Z;KolbertBot
+2018-07-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);846736255;846825993;2018-06-21T03:37:17Z;KolbertBot
+2018-06-01T00:00:00Z;/* Modern extraction and distribution */ wikilink;843268525;843715165;2018-05-31T00:00:52Z;Lambiam
+2018-05-01T00:00:00Z;Undid revision 837681909 by [[Special:Contributions/Pigginator1|Pigginator1]] ([[User talk:Pigginator1|talk]]). [[MOS:ENGVAR]] changed without obvious reason, and left inconsistent;837874364;837875493;2018-04-23T15:33:53Z;Nitpicking polish
+2018-04-01T00:00:00Z;Undid revision 830712925 by [[Special:Contributions/P L C Jeynes|P L C Jeynes]] ([[User talk:P L C Jeynes|talk]]) rv editorialising;830712925;830787092;2018-03-16T22:59:26Z;RexxS
+2018-03-01T00:00:00Z;/* History */ fmt;827651897;827657306;2018-02-26T00:02:25Z;John
+2018-02-01T00:00:00Z;clarity;821742726;822965013;2018-01-29T14:59:52Z;Edgar181
+2018-01-01T00:00:00Z;link to hydrogen;817229203;817375583;2017-12-28T00:09:07Z;Mimarx
+2017-12-01T00:00:00Z;/* Scientific discoveries */ Link for Royds;809802118;810561927;2017-11-16T01:07:27Z;Sbharris
+2017-11-01T00:00:00Z;Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot;805549570;806875137;2017-10-24T18:02:28Z;Lauren maggio
+2017-10-01T00:00:00Z;Rescuing 3 sources and tagging 1 as dead. #IABot (v1.5.4) ([[User:FA RotBot|FA RotBot]]);801808651;803002295;2017-09-29T21:11:48Z;InternetArchiveBot
+2017-09-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];796276147;797830086;2017-08-29T12:11:19Z;KolbertBot
+2017-08-01T00:00:00Z;/* Hazards */ apparent suicide by Peter W. Smith via oxygen displacement with helium - reported by CBS News and Chicago Tribune;789982768;790729414;2017-07-15T18:31:23Z;83d40m

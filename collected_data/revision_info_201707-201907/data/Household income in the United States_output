@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Added US Income box.;902148904;903594310;2019-06-26T16:29:53Z;Barnhorst
+2019-06-01T00:00:00Z;;/* Income by state */;897057697;899150779;2019-05-28T05:27:19Z;63.131.213.133
+2019-05-01T00:00:00Z;;/* Income by state */;893713891;893714166;2019-04-23T03:44:27Z;M4CD0N4LD-D4N
+2019-04-01T00:00:00Z;;/* Income by state */;889619371;889619744;2019-03-26T21:22:22Z;M4CD0N4LD-D4N
+2019-03-01T00:00:00Z;;/* Aggregate income distribution */;884974301;884974334;2019-02-25T04:39:04Z;2600:6C52:7A80:503C:8AB:CA2F:9682:40C0
+2019-02-01T00:00:00Z;;/* Aggregate income distribution */;879916892;879916989;2019-01-24T06:01:32Z;2601:282:8100:A265:610A:FC6D:CE12:321A
+2019-01-01T00:00:00Z;;short description;870866768;876099998;2018-12-31T04:28:45Z;Daviddwd
+2018-12-01T00:00:00Z;;clean up spacing around commas, replaced: ],[ → ], [;870259218;870866768;2018-11-27T14:03:46Z;BD2412
+2018-11-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/88.104.148.203|88.104.148.203]] to version by Nihlus1. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3516909) (Bot);865047571;865047578;2018-10-21T10:24:21Z;ClueBot NG
+2018-10-01T00:00:00Z;;Fix citation;859695060;859695219;2018-09-15T17:55:15Z;Farcaster
+2018-09-01T00:00:00Z;;/* Income by state */Updated median household income for the state of Georgia.;856006565;856253091;2018-08-23T22:51:56Z;173.26.144.64
+2018-08-01T00:00:00Z;;Add Fed data image;846719841;846990558;2018-06-22T04:31:26Z;Farcaster
+2018-07-01T00:00:00Z;;Add Fed data image;846719841;846990558;2018-06-22T04:31:26Z;Farcaster
+2018-06-01T00:00:00Z;;Undid revision 840433632 by [[Special:Contributions/2601:404:C500:2A53:6037:3B15:BF9D:746A|2601:404:C500:2A53:6037:3B15:BF9D:746A]] ([[User talk:2601:404:C500:2A53:6037:3B15:BF9D:746A|talk]]) please explain on talk page. Real income has not kept up with productivity, GDP, growth, etc. These facts are not widely disputed.;840433632;840434899;2018-05-09T21:35:03Z;Dennis Bratland
+2018-05-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/CobeOnTheCob|CobeOnTheCob]] to version by 193.198.212.111. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3359540) (Bot);838239070;838239076;2018-04-25T19:48:34Z;ClueBot NG
+2018-04-01T00:00:00Z;;/* Income by state */;833026195;833026573;2018-03-29T08:14:15Z;2620:102:401F:4000:D:CC6:238B:71AA
+2018-03-01T00:00:00Z;;Update chart and caption.  Using real GDP per household chart rather than per capita, for a better comparison with household income;824005731;827691599;2018-02-26T04:26:27Z;Farcaster
+2018-02-01T00:00:00Z;;;814932543;822114823;2018-01-24T13:42:34Z;HandsomeFella
+2018-01-01T00:00:00Z;;/* Education and gender */clean up and formatting, [[WP:AWB/T|typo(s) fixed]]: Associate degrees → associate degrees, Master's degree → master's degree using [[Project:AWB|AWB]];814126940;814932543;2017-12-11T19:23:19Z;Shaded0
+2017-12-01T00:00:00Z;;Undid revision 811330496 by [[Special:Contributions/2601:19C:4803:97C5:3DAF:1936:5241:5F72]];811330496;811331964;2017-11-20T23:19:38Z;96.38.169.185
+2017-11-01T00:00:00Z;;Filled in 3 bare reference(s) with [[:en:WP:REFILL|reFill]] ();805245010;805304982;2017-10-14T13:41:37Z;Derek R Bullamore
+2017-10-01T00:00:00Z;;"Rescuing orphaned refs (""538CassellB"" from rev 800499519)";800500289;800516849;2017-09-14T01:26:02Z;AnomieBOT
+2017-09-01T00:00:00Z;;rv to sourced version;796292019;796331923;2017-08-20T02:58:19Z;Ewulp
+2017-08-01T00:00:00Z;;/* Age of householder */;791489056;792781244;2017-07-28T16:54:12Z;Will120

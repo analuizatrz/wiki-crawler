@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;can keep short;900998772;901138107;2019-06-09T23:17:21Z;Doc James
+2019-06-01T00:00:00Z;;adding a hyphen;892717437;894961117;2019-05-01T03:07:59Z;AmericanLemming
+2019-05-01T00:00:00Z;;/* ==Other functions== */ added information about purification of nucleic acid binding proteins;891798882;892717437;2019-04-16T12:08:58Z;Biochemlife
+2019-04-01T00:00:00Z;;not needed;890102245;890350840;2019-03-31T20:35:35Z;Doc James
+2019-03-01T00:00:00Z;;Add: doi. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;880981029;883515388;2019-02-15T21:29:55Z;Citation bot
+2019-02-01T00:00:00Z;;Alter: isbn, template type, pmid. Add: issue, chapter-url, pmc, hdl, pmid. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;879805584;880981029;2019-01-30T18:22:16Z;Citation bot
+2019-01-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1);869913586;871852945;2018-12-03T21:19:23Z;InternetArchiveBot
+2018-12-01T00:00:00Z;;"replaced: 9.63 to 37.95 USD →  US$9.63–37.95 (2), US$ → $, 1 ml → 1&nbsp;ml, [[WP:AWB/T|typo(s) fixed]]: Heparin’s → Heparin's";869819886;869913586;2018-11-21T05:17:34Z;Chris the speller
+2018-11-01T00:00:00Z;;Reverted edits by [[Special:Contributions/Shyam274|Shyam274]] ([[User talk:Shyam274|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.4);865841226;865841342;2018-10-26T14:41:51Z;CASSIOPEIA
+2018-10-01T00:00:00Z;;Reverted to revision 861497186 by [[Special:Contributions/AmericanLemming|AmericanLemming]] ([[User talk:AmericanLemming|talk]]): ? ([[WP:TW|TW]]);861773337;861875938;2018-09-30T17:45:43Z;Doc James
+2018-09-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta8);852098055;857214261;2018-08-30T08:40:35Z;InternetArchiveBot
+2018-08-01T00:00:00Z;;/* Evolutionary conservation */;849462827;852098055;2018-07-26T16:22:47Z;Atmazzerexe
+2018-07-01T00:00:00Z;;cleanup;845000325;848002109;2018-06-29T05:31:36Z;JCW-CleanerBot
+2018-06-01T00:00:00Z;;cleanup;841231704;841859317;2018-05-18T14:57:38Z;CitationCleanerBot
+2018-05-01T00:00:00Z;;;839003932;839004281;2018-04-30T17:11:06Z;2405:204:D08B:809A:1A1B:65B9:3D08:BB95
+2018-04-01T00:00:00Z;;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2405:204:A522:BD6B:0:0:DB8:48A5|2405:204:A522:BD6B:0:0:DB8:48A5]] ([[User talk:2405:204:A522:BD6B:0:0:DB8:48A5|talk]]): Unsourced. ([[WP:TW|TW]]);833005499;833005793;2018-03-29T04:26:25Z;Classicwiki
+2018-03-01T00:00:00Z;;Reverted to revision 827915068 by [[Special:Contributions/Doc James|Doc James]] ([[User talk:Doc James|talk]]): Wait for consensus. ([[WP:TW|TW]]);828063867;828073643;2018-02-28T11:56:18Z;Doc James
+2018-02-01T00:00:00Z;;/* External links */ fix awb mistake;823022217;823022316;2018-01-29T21:26:28Z;Avicenno
+2018-01-01T00:00:00Z;;[[WP:UCB|Assisted by Citation bot]] | Cleaned up using [[WP:AutoEd|AutoEd]];817053958;817225901;2017-12-27T01:01:16Z;Srich32977
+2017-12-01T00:00:00Z;;/* 2008 recall due to contamination */[[User:JCW-CleanerBot#Logic|task]], replaced: journal = N Engl J Med. → journal = N Engl J Med using [[Project:AWB|AWB]];811277694;811966818;2017-11-25T02:58:38Z;JCW-CleanerBot
+2017-11-01T00:00:00Z;;/* History */[[User:JCW-CleanerBot#Logic|task]], replaced: J Physiol. → J. Physiol. using [[Project:AWB|AWB]];801428098;807298155;2017-10-27T03:14:44Z;JCW-CleanerBot
+2017-10-01T00:00:00Z;;why BOld;801404919;801428098;2017-09-19T16:29:13Z;Doc James
+2017-09-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];796761946;797835883;2017-08-29T13:00:50Z;KolbertBot
+2017-08-01T00:00:00Z;;cleanup using [[Project:AWB|AWB]];791562483;791685640;2017-07-21T20:58:14Z;Headbomb

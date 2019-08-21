@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]] | Alter: title, template type. Add: author pars. 1-1. Removed parameters. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]].;900361887;902652335;2019-06-20T09:52:39Z;MadGuy7023
+2019-06-01T00:00:00Z;correction of typo;896337137;898289537;2019-05-22T16:59:56Z;Alcabala1845
+2019-05-01T00:00:00Z;/* Teams who have defeated the Eggheads */;894578416;894891045;2019-04-30T17:31:48Z;BangJan1999
+2019-04-01T00:00:00Z;;889721545;890075523;2019-03-29T22:00:22Z;BangJan1999
+2019-03-01T00:00:00Z;Adding {{pp-vandalism}} ([[WP:TW|TW]]);883869366;883942032;2019-02-18T16:10:11Z;Kingerikthesecond
+2019-02-01T00:00:00Z;semiprotected 1 wk;881098760;881098911;2019-01-31T12:46:54Z;Fish and karate
+2019-01-01T00:00:00Z;added [[Category:Television game shows with incorrect disambiguation]] using [[WP:HC|HotCat]];860824698;870510279;2018-11-25T08:24:18Z;Gonnym
+2018-12-01T00:00:00Z;added [[Category:Television game shows with incorrect disambiguation]] using [[WP:HC|HotCat]];860824698;870510279;2018-11-25T08:24:18Z;Gonnym
+2018-11-01T00:00:00Z;/* Transmissions */ add;860696884;860824698;2018-09-23T09:10:57Z;Launchballer
+2018-10-01T00:00:00Z;/* Transmissions */ add;860696884;860824698;2018-09-23T09:10:57Z;Launchballer
+2018-09-01T00:00:00Z;;857122610;857438069;2018-08-31T17:59:46Z;BangJan1999
+2018-08-01T00:00:00Z;/* Teams who have defeated the Eggheads */;851799117;852684094;2018-07-30T17:31:04Z;BangJan1999
+2018-07-01T00:00:00Z;;842731361;847371177;2018-06-24T21:29:39Z;BangJan1999
+2018-06-01T00:00:00Z;/* Current Eggheads */ more on Beth;842729427;842731361;2018-05-24T09:17:23Z;Tlhslobus
+2018-05-01T00:00:00Z;;837725054;837745162;2018-04-22T19:38:30Z;BangJan1999
+2018-04-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/Jeyrome|Jeyrome]] ([[User talk:Jeyrome|talk]]): Incorrect/circular links. ([[WP:TW|TW]]);833303727;833305720;2018-03-30T19:18:32Z;Nigej
+2018-03-01T00:00:00Z;/* Graphical representation */ removed obstructive black lines;823797876;827901661;2018-02-27T11:56:02Z;Launchballer
+2018-02-01T00:00:00Z;;822687647;823139407;2018-01-30T13:57:19Z;BangJan1999
+2018-01-01T00:00:00Z;Reverted 1 pending edit by [[Special:Contributions/86.150.224.110|86.150.224.110]] to revision 816059159 by BangJan1999: Unsourced;817172127;817174445;2017-12-26T17:46:47Z;Nzd
+2017-12-01T00:00:00Z;;812446609;812892288;2017-11-30T14:14:48Z;BangJan1999
+2017-11-01T00:00:00Z;/* Current Eggheads */ Separate Cooke and Webster entries– for consistency in having one egghead for each bullet point. At the moment users glancing through the list may not notice Webster due to her not having her own entry;802938809;803790146;2017-10-04T17:19:01Z;Chessrat
+2017-10-01T00:00:00Z;;802426674;802938809;2017-09-29T12:44:36Z;BangJan1999
+2017-09-01T00:00:00Z;removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]]);797483562;798073054;2017-08-30T20:36:42Z;DumbBOT
+2017-08-01T00:00:00Z;/* Teams who have defeated the Eggheads */ latest winners;791188925;791658913;2017-07-21T17:31:12Z;Nigej

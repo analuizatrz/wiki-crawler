@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Fixed screw up;902013293;902013330;2019-06-15T22:09:08Z;Crossroads1
+2019-06-01T00:00:00Z;;/* top */;894320209;894320352;2019-04-27T03:16:21Z;Kwamikagami
+2019-05-01T00:00:00Z;;/* top */;894320209;894320352;2019-04-27T03:16:21Z;Kwamikagami
+2019-04-01T00:00:00Z;;Alter: template type. Add: website, year, pages, volume, journal, title, doi, arxiv, author pars. 1-12. Removed URL that duplicated unique identifier. Converted bare reference to cite template. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;881341904;887984224;2019-03-16T03:51:21Z;Citation bot
+2019-03-01T00:00:00Z;;"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Extrasolar planet"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])";881341826;881341904;2019-02-01T22:53:13Z;Zackmann08
+2019-02-01T00:00:00Z;;Reverted 2 edits by [[Special:Contributions/217.23.235.162|217.23.235.162]] ([[User talk:217.23.235.162|talk]]) to last revision by RHcosm. ([[WP:TW|Twinkle]]);862578673;862578732;2018-10-05T08:32:24Z;RHcosm
+2019-01-01T00:00:00Z;;Reverted 2 edits by [[Special:Contributions/217.23.235.162|217.23.235.162]] ([[User talk:217.23.235.162|talk]]) to last revision by RHcosm. ([[WP:TW|Twinkle]]);862578673;862578732;2018-10-05T08:32:24Z;RHcosm
+2018-12-01T00:00:00Z;;Reverted 2 edits by [[Special:Contributions/217.23.235.162|217.23.235.162]] ([[User talk:217.23.235.162|talk]]) to last revision by RHcosm. ([[WP:TW|Twinkle]]);862578673;862578732;2018-10-05T08:32:24Z;RHcosm
+2018-11-01T00:00:00Z;;Reverted 2 edits by [[Special:Contributions/217.23.235.162|217.23.235.162]] ([[User talk:217.23.235.162|talk]]) to last revision by RHcosm. ([[WP:TW|Twinkle]]);862578673;862578732;2018-10-05T08:32:24Z;RHcosm
+2018-10-01T00:00:00Z;;;859175926;860427852;2018-09-20T16:23:12Z;EAPS MIT
+2018-09-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta8) ([[User:Smasongarrison|Smasongarrison]]);855222936;857064707;2018-08-29T09:46:46Z;InternetArchiveBot
+2018-08-01T00:00:00Z;;"Fixing reference errors and rescuing orphaned refs (""winn11"" from rev 847791968)";850079183;850097520;2018-07-13T15:56:46Z;AnomieBOT
+2018-07-01T00:00:00Z;;/* Orbit and mass */;844246026;847791968;2018-06-27T20:12:02Z;Paleontologist99
+2018-06-01T00:00:00Z;;/* Discovery */Removed vandalism;835648755;836734914;2018-04-16T15:14:03Z;2A02:8084:E83:2480:31E9:8C0D:F2B6:24E4
+2018-05-01T00:00:00Z;;/* Discovery */Removed vandalism;835648755;836734914;2018-04-16T15:14:03Z;2A02:8084:E83:2480:31E9:8C0D:F2B6:24E4
+2018-04-01T00:00:00Z;;/* Discovery */;830685509;830685556;2018-03-16T10:21:31Z;194.239.103.30
+2018-03-01T00:00:00Z;;/* Characteristics */Fixed typo;820870845;825143845;2018-02-11T19:03:16Z;108.51.44.149
+2018-02-01T00:00:00Z;;Reverted edits by [[Special:Contributions/208.87.235.180|208.87.235.180]] ([[User talk:208.87.235.180|talk]]) ([[WP:HG|HG]]) (3.3.3);820870830;820870845;2018-01-17T02:54:49Z;Oshwah
+2018-01-01T00:00:00Z;;;817226976;817227009;2017-12-27T01:12:28Z;ProtoJeb21
+2017-12-01T00:00:00Z;;/* Transit */ trsnslation;811136231;811136290;2017-11-19T19:23:15Z;BatteryIncluded
+2017-11-01T00:00:00Z;;"/* Characteristics */ - ""metal"" ==> ""iron"" (more specific; melting point of iron is 1,538°C / 2,800°F)";800289000;805214438;2017-10-13T20:55:02Z;Trevayne08
+2017-10-01T00:00:00Z;;Reverted edits by [[Special:Contributions/207.165.187.12|207.165.187.12]] ([[User talk:207.165.187.12|talk]]) ([[WP:HG|HG]]) (3.2.0);800288989;800289000;2017-09-12T16:06:32Z;Oshwah
+2017-09-01T00:00:00Z;;"/* Characteristics */HTTP&rarr;HTTPS for [[List of NASA websites|NASA websites]], per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]";783271314;790221576;2017-07-12T11:07:31Z;Bender the Bot
+2017-08-01T00:00:00Z;;"/* Characteristics */HTTP&rarr;HTTPS for [[List of NASA websites|NASA websites]], per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]";783271314;790221576;2017-07-12T11:07:31Z;Bender the Bot

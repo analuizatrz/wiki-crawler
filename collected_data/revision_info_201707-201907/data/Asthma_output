@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;/* Classification */[[Wikipedia:Disambiguation pages with links|Fixing links to disambiguation pages]], improving links, other minor cleanup tasks;899446689;903114166;2019-06-23T17:27:08Z;BD2412
+2019-06-01T00:00:00Z;"Spelling correction; redirect bypass from [[Air Quality Index]] to [[Air quality index]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]";896847811;899446689;2019-05-30T03:20:35Z;Wbm1058
+2019-05-01T00:00:00Z;Flagging a cited source as retracted;894304097;894562238;2019-04-28T17:20:38Z;RetractionBot
+2019-04-01T00:00:00Z;;886309324;888942130;2019-03-22T11:32:35Z;MioAkiyama26
+2019-03-01T00:00:00Z;Reverted to revision 884052535 by [[Special:Contributions/JCW-CleanerBot|JCW-CleanerBot]] ([[User talk:JCW-CleanerBot|talk]]): Ah... restored common name ([[WP:TW|TW]]);884845103;884851103;2019-02-24T12:20:24Z;Doc James
+2019-02-01T00:00:00Z;/* top */[[User:JCW-CleanerBot#Logic|task]], replaced: Lancet (London, England) → Lancet;880120829;880391692;2019-01-27T04:53:35Z;JCW-CleanerBot
+2019-01-01T00:00:00Z;spaces between initials per [[MOS:SPACEINITS]];876057110;876068417;2018-12-30T23:46:17Z;GrindtXX
+2018-12-01T00:00:00Z;Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot;866352290;867239553;2018-11-04T15:09:44Z;Nemo bis
+2018-11-01T00:00:00Z;/* History */[[User:JCW-CleanerBot#Logic|task]], replaced: Clin Pract Epidemol Ment Health → Clin Pract Epidemiol Ment Health;860825924;866352290;2018-10-29T20:42:19Z;JCW-CleanerBot
+2018-10-01T00:00:00Z;utm_;854968821;860825924;2018-09-23T09:23:21Z;Archersbobsburgers
+2018-09-01T00:00:00Z;Alter: isbn, journal, title. Add: isbn, hdl, pmc, pages, volume, pmid, issue. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].;854832540;854968821;2018-08-15T01:00:32Z;Citation bot
+2018-08-01T00:00:00Z;/* Prevention */ added with ref;852842655;852842892;2018-07-31T19:08:56Z;Doc James
+2018-07-01T00:00:00Z;/* History */ sp;847921408;847992372;2018-06-29T03:52:58Z;Quisqualis
+2018-06-01T00:00:00Z;not needed;842890321;842979614;2018-05-26T00:47:42Z;Doc James
+2018-05-01T00:00:00Z;Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot;833196938;837423600;2018-04-20T18:52:47Z;Nemo bis
+2018-04-01T00:00:00Z;removed video;831639940;833196938;2018-03-30T05:31:15Z;Doc James
+2018-03-01T00:00:00Z;/* Medical conditions */ added;823006242;823596987;2018-02-02T05:58:40Z;Doc James
+2018-02-01T00:00:00Z;/* History */  tighten caption;822981362;823006242;2018-01-29T19:38:54Z;GrindtXX
+2018-01-01T00:00:00Z;Reverted to revision 810534774 by [[Special:Contributions/Rathfelder|Rathfelder]] ([[User talk:Rathfelder|talk]]): Withdrawn. ([[WP:TW|TW]]);815114953;815166311;2017-12-13T04:46:52Z;Doc James
+2017-12-01T00:00:00Z;removed [[Category:Pathology]] using [[WP:HC|HotCat]];810387289;810534774;2017-11-15T21:23:27Z;Rathfelder
+2017-11-01T00:00:00Z;Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot;807225870;807574978;2017-10-28T20:49:34Z;Jaireeodell
+2017-10-01T00:00:00Z;Fixing references styling.;801499544;801809950;2017-09-22T00:34:16Z;Doc James
+2017-09-01T00:00:00Z;Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot;797935413;798002939;2017-08-30T11:58:30Z;Nemo bis
+2017-08-01T00:00:00Z;Identifier linking + [[WP:GENFIXES|AWB fixes]] using [[Project:AWB|AWB]];789102958;790021807;2017-07-11T02:59:39Z;Headbomb

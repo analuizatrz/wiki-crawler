@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"cleaning (ed[s]); template now always displays editor annotation; gen fixes";902472946;902990407;2019-06-22T19:39:42Z;IznoRepeat
+2019-06-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/47.18.96.12|47.18.96.12]] to version by 184.182.44.135. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3625409) (Bot);896747105;896747120;2019-05-12T16:28:31Z;ClueBot NG
+2019-05-01T00:00:00Z;;/* External links */ update...good stuff there;890450672;893894563;2019-04-24T07:45:04Z;Lfstevens
+2019-04-01T00:00:00Z;;Alter: title. Add: pmc, pmid, doi, issue. Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;885987735;887964629;2019-03-16T00:29:18Z;Citation bot
+2019-03-01T00:00:00Z;;/* Feedstock */  | [[WP:UCB|Assisted by Citation bot]];885372525;885572625;2019-02-28T21:47:57Z;Josve05a
+2019-02-01T00:00:00Z;;/* Attempts at producing synthetic spider silk */ copyedit, add wlinks;877496803;877506929;2019-01-09T02:53:31Z;Zefr
+2019-01-01T00:00:00Z;;小さな修正;875521631;875522029;2018-12-27T04:36:49Z;C0915033
+2018-12-01T00:00:00Z;;/* Biosynthesis and fibre spinning */;865002025;865002100;2018-10-21T01:26:35Z;130.15.45.242
+2018-11-01T00:00:00Z;;/* Biosynthesis and fibre spinning */;865002025;865002100;2018-10-21T01:26:35Z;130.15.45.242
+2018-10-01T00:00:00Z;;Reverted edits by [[Special:Contributions/106.222.237.252|106.222.237.252]] ([[User talk:106.222.237.252|talk]]) ([[WP:HG|HG]]) (3.4.4);861716504;861721930;2018-09-29T14:54:41Z;Serols
+2018-09-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/184.170.99.183|184.170.99.183]] identified as test/vandalism using [[WP:STiki|STiki]];856836653;856842727;2018-08-27T21:32:11Z;CAPTAIN RAJU
+2018-08-01T00:00:00Z;;/* Structural */;850520206;852535352;2018-07-29T17:28:30Z;GreenwichAve
+2018-07-01T00:00:00Z;;Adding 0 [[arXiv|arxiv eprint(s)]], 4 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];844087498;846771900;2018-06-20T20:01:31Z;Bibcode Bot
+2018-06-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/207.210.154.36|207.210.154.36]] to version by OAbot. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3397364) (Bot);843810349;843810360;2018-05-31T16:31:28Z;ClueBot NG
+2018-05-01T00:00:00Z;;Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot;835983904;837434192;2018-04-20T20:01:07Z;Nemo bis
+2018-04-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);827890861;831895251;2018-03-22T18:28:41Z;KolbertBot
+2018-03-01T00:00:00Z;;/* Other artificial shapes formed from silk */;824045299;827890861;2018-02-27T09:55:18Z;2001:6B0:1:12B0:6109:5964:3888:D7E2
+2018-02-01T00:00:00Z;;/* Strength */ no spacing around en-dash for range here;822286489;822286569;2018-01-25T14:13:11Z;Quondum
+2018-01-01T00:00:00Z;;/* Research milestones */[[User:JCW-CleanerBot#Logic|task]], replaced: Hoppe-Seylers Zeitschrift für Physiologische Chemie → Hoppe-Seyler's Zeitschrift für Physiologische Chemie using [[Project:AWB|AWB]];813650712;814233816;2017-12-07T16:18:10Z;JCW-CleanerBot
+2017-12-01T00:00:00Z;;copyedit, add manufacturing content and ref;812212236;812217621;2017-11-26T18:06:29Z;Zefr
+2017-11-01T00:00:00Z;;rv to version that follows the Manual of Style;806881650;806889527;2017-10-24T19:42:23Z;Peter coxhead
+2017-10-01T00:00:00Z;;spelling;796592506;798181150;2017-08-31T12:42:27Z;Jefflayman
+2017-09-01T00:00:00Z;;spelling;796592506;798181150;2017-08-31T12:42:27Z;Jefflayman
+2017-08-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2A02:C7F:BE1E:3D00:295E:4D8D:813:14CB|2A02:C7F:BE1E:3D00:295E:4D8D:813:14CB]] ([[User talk:2A02:C7F:BE1E:3D00:295E:4D8D:813:14CB|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.2.0);793125777;793125815;2017-07-30T20:17:38Z;Gladamas

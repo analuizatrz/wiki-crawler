@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;/* Adrian Jacobs */;903544530;903544597;2019-06-26T09:03:59Z;Aledownload
+2019-06-01T00:00:00Z;;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/5.35.166.154|5.35.166.154]] ([[User talk:5.35.166.154|talk]]) ([[WP:TW|TW]]);891489515;891489966;2019-04-08T08:30:36Z;94rain
+2019-05-01T00:00:00Z;;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/5.35.166.154|5.35.166.154]] ([[User talk:5.35.166.154|talk]]) ([[WP:TW|TW]]);891489515;891489966;2019-04-08T08:30:36Z;94rain
+2019-04-01T00:00:00Z;;/* Legal injunctions */;887600528;887600592;2019-03-13T17:33:23Z;24.166.54.195
+2019-03-01T00:00:00Z;;"Rescued 1 archive link; remove 1 link; reformat 4 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]";880182586;880794079;2019-01-29T14:52:12Z;GreenC bot
+2019-02-01T00:00:00Z;;"Rescued 1 archive link; remove 1 link; reformat 4 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]";880182586;880794079;2019-01-29T14:52:12Z;GreenC bot
+2019-01-01T00:00:00Z;;Rescuing 7 sources and tagging 1 as dead. #IABot (v2.0beta10) ([[User:Hayholt|Hayholt]]);846656176;868187400;2018-11-10T15:45:44Z;InternetArchiveBot
+2018-12-01T00:00:00Z;;Rescuing 7 sources and tagging 1 as dead. #IABot (v2.0beta10) ([[User:Hayholt|Hayholt]]);846656176;868187400;2018-11-10T15:45:44Z;InternetArchiveBot
+2018-11-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);836630246;846656176;2018-06-20T03:38:35Z;KolbertBot
+2018-10-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);836630246;846656176;2018-06-20T03:38:35Z;KolbertBot
+2018-09-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);836630246;846656176;2018-06-20T03:38:35Z;KolbertBot
+2018-08-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);836630246;846656176;2018-06-20T03:38:35Z;KolbertBot
+2018-07-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);836630246;846656176;2018-06-20T03:38:35Z;KolbertBot
+2018-06-01T00:00:00Z;;Repairing links to [[Sun (newspaper)]] (link changed to [[The Sun (United Kingdom)]]);833725805;836630246;2018-04-15T22:55:07Z;LittleWink
+2018-05-01T00:00:00Z;;Repairing links to [[Sun (newspaper)]] (link changed to [[The Sun (United Kingdom)]]);833725805;836630246;2018-04-15T22:55:07Z;LittleWink
+2018-04-01T00:00:00Z;;/* External links */;827037112;829612032;2018-03-09T18:22:39Z;MagicatthemovieS
+2018-03-01T00:00:00Z;;/* Adrian Jacobs */;827036186;827037112;2018-02-22T11:50:41Z;78.18.193.146
+2018-02-01T00:00:00Z;;Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1);805674720;816225726;2017-12-20T01:58:38Z;InternetArchiveBot
+2018-01-01T00:00:00Z;;Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1);805674720;816225726;2017-12-20T01:58:38Z;InternetArchiveBot
+2017-12-01T00:00:00Z;;Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ();805674598;805674720;2017-10-16T22:26:21Z;Unreal7
+2017-11-01T00:00:00Z;;Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ();805674598;805674720;2017-10-16T22:26:21Z;Unreal7
+2017-10-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.4) ([[User:Elisfkc|Elisfkc]]);798614170;802583751;2017-09-27T02:57:26Z;InternetArchiveBot
+2017-09-01T00:00:00Z;;updated reference link from using http to https;794748418;794812482;2017-08-10T05:48:45Z;Jon Kolbert
+2017-08-01T00:00:00Z;;"/* top */HTTP&rarr;HTTPS for [[ProQuest]] newspaper archive, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]";788443797;789352386;2017-07-06T21:26:01Z;Bender the Bot

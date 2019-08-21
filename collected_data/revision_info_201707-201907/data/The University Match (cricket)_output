@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;fix capitalisation for consistency;897847878;897848140;2019-05-19T18:54:42Z;Honky98
+2019-06-01T00:00:00Z;fix capitalisation for consistency;897847878;897848140;2019-05-19T18:54:42Z;Honky98
+2019-05-01T00:00:00Z;remove NavEnd;888074291;888387118;2019-03-18T20:14:58Z;WOSlinker
+2019-04-01T00:00:00Z;remove NavEnd;888074291;888387118;2019-03-18T20:14:58Z;WOSlinker
+2019-03-01T00:00:00Z;/* top */Typo/[[WP:AWB/GF|general]] fixes, replaced: an [[Oxford blue |blue]] → a [[Oxford blue |blue]];869157619;885150810;2019-02-26T07:54:27Z;John of Reading
+2019-02-01T00:00:00Z;;869157476;869157619;2018-11-16T19:40:19Z;Crickbadger
+2019-01-01T00:00:00Z;;869157476;869157619;2018-11-16T19:40:19Z;Crickbadger
+2018-12-01T00:00:00Z;;869157476;869157619;2018-11-16T19:40:19Z;Crickbadger
+2018-11-01T00:00:00Z;Switch more scorecard links from Cricket Archive (paywall) to ESPNcricinfo (free);852964823;852968761;2018-08-01T15:21:32Z;Honky98
+2018-10-01T00:00:00Z;Switch more scorecard links from Cricket Archive (paywall) to ESPNcricinfo (free);852964823;852968761;2018-08-01T15:21:32Z;Honky98
+2018-09-01T00:00:00Z;Switch more scorecard links from Cricket Archive (paywall) to ESPNcricinfo (free);852964823;852968761;2018-08-01T15:21:32Z;Honky98
+2018-08-01T00:00:00Z;update summary stats table;849073348;849962101;2018-07-12T16:22:14Z;Honky98
+2018-07-01T00:00:00Z;;844742380;847201965;2018-06-23T16:47:53Z;Hydear
+2018-06-01T00:00:00Z;/* Century on first-class debut */;836568952;836569114;2018-04-15T15:55:39Z;Obliqueoperations11
+2018-05-01T00:00:00Z;/* Century on first-class debut */;836568952;836569114;2018-04-15T15:55:39Z;Obliqueoperations11
+2018-04-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470);797486992;807175153;2017-10-26T11:12:13Z;KolbertBot
+2018-03-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470);797486992;807175153;2017-10-26T11:12:13Z;KolbertBot
+2018-02-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470);797486992;807175153;2017-10-26T11:12:13Z;KolbertBot
+2018-01-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470);797486992;807175153;2017-10-26T11:12:13Z;KolbertBot
+2017-12-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470);797486992;807175153;2017-10-26T11:12:13Z;KolbertBot
+2017-11-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470);797486992;807175153;2017-10-26T11:12:13Z;KolbertBot
+2017-10-01T00:00:00Z;/* Results */ sp;797486890;797486992;2017-08-27T10:11:42Z;Johnlp
+2017-09-01T00:00:00Z;/* Results */ sp;797486890;797486992;2017-08-27T10:11:42Z;Johnlp
+2017-08-01T00:00:00Z;"fixed 1960 match info (Notes were in wrong column); added links to several player pages";790251846;791169033;2017-07-18T15:37:23Z;Honky98

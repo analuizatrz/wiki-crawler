@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/2×);";903547126;903653782;2019-06-27T01:37:46Z;Monkbot
+2019-06-01T00:00:00Z;;+ {{page needed}}, {{self-published inline}} Cleaned Google books urls. Converted external link into ref. Reduced overlinking per [[WP:Linking]]. Use British English. Add: title. Converted bare reference to cite template. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. , [[User:Ohconfucius/script|Script]]-assisted fixes: per [[Help:Citation Style 1|CS1]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]];893011754;895234590;2019-05-02T21:40:29Z;Worldbruce
+2019-05-01T00:00:00Z;;/* Honours */ the air port name has been changed vor 10 years n no longer common name;892135209;893011754;2019-04-18T11:17:15Z;2A0A:A544:D5CF:0:444A:3138:65E9:83C1
+2019-04-01T00:00:00Z;;Reverted edits by [[Special:Contributions/114.31.3.10|114.31.3.10]] ([[User talk:114.31.3.10|talk]]) ([[WP:HG|HG]]) (3.4.6);890276784;890276910;2019-03-31T10:04:58Z;Serols
+2019-03-01T00:00:00Z;;[[MOS:DATESNO]];884133252;884316849;2019-02-20T21:43:44Z;Valenciano
+2019-02-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);879480981;880473766;2019-01-27T17:06:11Z;KolbertBot
+2019-01-01T00:00:00Z;;Reverted edits by [[Special:Contributions/Hassaan_Ajmal|Hassaan_Ajmal]] ([[User talk:Hassaan_Ajmal|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.6);875994183;875994246;2018-12-30T12:57:29Z;Oshwah
+2018-12-01T00:00:00Z;;fixed ref;868047988;870286287;2018-11-23T19:27:06Z;Gehenna1510
+2018-11-01T00:00:00Z;;/* Further reading */ removed duplicate, added author-links;865064512;865321236;2018-10-23T05:16:22Z;Worldbruce
+2018-10-01T00:00:00Z;;/* Bangladesh War of Independence 1971 */;861470268;861470603;2018-09-27T17:28:11Z;Faizmomen
+2018-09-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/103.58.74.142|103.58.74.142]] ([[User talk:103.58.74.142|talk]]) to last revision by 114.31.5.230. ([[WP:TW|TW]]);856922793;856968983;2018-08-28T18:05:17Z;Dead.rabbit
+2018-08-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);846512972;846910797;2018-06-21T16:46:54Z;KolbertBot
+2018-07-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);846512972;846910797;2018-06-21T16:46:54Z;KolbertBot
+2018-06-01T00:00:00Z;;Reverted edits by [[Special:Contribs/124.6.235.146|124.6.235.146]] ([[User talk:124.6.235.146|talk]]) to last version by CLCStudent;839585009;839585071;2018-05-04T11:19:21Z;Shellwood
+2018-05-01T00:00:00Z;;Reverted edits by [[Special:Contribs/Sion Dutta|Sion Dutta]] ([[User talk:Sion Dutta|talk]]) to last version by 103.67.198.44;833975779;833978333;2018-04-03T08:52:25Z;Charlesdrakew
+2018-04-01T00:00:00Z;;27 March;831803278;831862171;2018-03-22T15:06:39Z;103.67.198.44
+2018-03-01T00:00:00Z;;Fixed [[:CS1 errors: invisible characters]];827390698;827402705;2018-02-24T15:09:01Z;Pkbwcgs
+2018-02-01T00:00:00Z;;/* Criticism and legacy */Erased double writing.;821259624;821274476;2018-01-19T13:14:13Z;103.41.212.18
+2018-01-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/59.152.105.42|59.152.105.42]] to version by 70.73.173.226. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3226941) (Bot);816077413;816077421;2017-12-19T03:12:47Z;ClueBot NG
+2017-12-01T00:00:00Z;;/* Family */;811306286;811381557;2017-11-21T07:07:30Z;Msarkar1
+2017-11-01T00:00:00Z;;;807383048;807384681;2017-10-27T16:27:02Z;119.30.39.135
+2017-10-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];797621807;801336036;2017-09-19T02:14:29Z;KolbertBot
+2017-09-01T00:00:00Z;;;797621761;797621807;2017-08-28T08:25:12Z;Gudir Nas
+2017-08-01T00:00:00Z;;;793203545;793203587;2017-07-31T08:39:29Z;103.59.179.6

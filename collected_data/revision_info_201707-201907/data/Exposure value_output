@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2019-06-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2019-05-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2019-04-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2019-03-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2019-02-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2019-01-01T00:00:00Z;;/* Relationship of EV to lighting conditions */ units for the constants K and C added;871950025;871950937;2018-12-04T10:50:32Z;150.227.15.253
+2018-12-01T00:00:00Z;;/* Tabulated exposure values */ Blood moon;867483017;870395468;2018-11-24T14:29:36Z;Bautsch
+2018-11-01T00:00:00Z;;;831545501;866585371;2018-10-31T07:29:28Z;79.107.104.246
+2018-10-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-09-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-08-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-07-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-06-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-05-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-04-01T00:00:00Z;;;810058107;831545501;2018-03-21T03:46:22Z;72.225.195.178
+2018-03-01T00:00:00Z;;"/* EV as an indicator of camera settings */ Rm ref to “EV100”; camera exposure settings do not depend on ISO speed.";799134072;810058107;2017-11-13T03:34:21Z;JeffConrad
+2018-02-01T00:00:00Z;;"/* EV as an indicator of camera settings */ Rm ref to “EV100”; camera exposure settings do not depend on ISO speed.";799134072;810058107;2017-11-13T03:34:21Z;JeffConrad
+2018-01-01T00:00:00Z;;"/* EV as an indicator of camera settings */ Rm ref to “EV100”; camera exposure settings do not depend on ISO speed.";799134072;810058107;2017-11-13T03:34:21Z;JeffConrad
+2017-12-01T00:00:00Z;;"/* EV as an indicator of camera settings */ Rm ref to “EV100”; camera exposure settings do not depend on ISO speed.";799134072;810058107;2017-11-13T03:34:21Z;JeffConrad
+2017-11-01T00:00:00Z;;/* EV as an indicator of camera settings */;799004022;799134072;2017-09-05T20:57:53Z;Bobn2
+2017-10-01T00:00:00Z;;/* EV as an indicator of camera settings */;799004022;799134072;2017-09-05T20:57:53Z;Bobn2
+2017-09-01T00:00:00Z;;"close bold; unwrap; straight quotes";791810615;795907197;2017-08-17T07:41:35Z;Anomalocaris
+2017-08-01T00:00:00Z;;further fix ref;791796081;791810615;2017-07-22T16:42:47Z;Mindmatrix

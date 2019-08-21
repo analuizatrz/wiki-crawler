@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (1×/9×); skipped: unrecognized periodical (2×);";902654139;902661044;2019-06-20T11:25:53Z;Monkbot
+2019-06-01T00:00:00Z;;/* Disposable */;899687889;899688239;2019-05-31T17:35:02Z;2603:300B:7FE:D000:8520:6FFD:A641:C4D5
+2019-05-01T00:00:00Z;;"Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]";889361727;894175443;2019-04-26T04:01:18Z;GreenC bot
+2019-04-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2605:6000:1019:3C:C824:18B7:24E6:21DB|2605:6000:1019:3C:C824:18B7:24E6:21DB]] ([[User talk:2605:6000:1019:3C:C824:18B7:24E6:21DB|talk]]) ([[WP:HG|HG]]) (3.4.6);889361385;889361727;2019-03-25T05:57:43Z;Rutilant
+2019-03-01T00:00:00Z;;Diaper usage clarification;883433891;884412714;2019-02-21T13:30:28Z;CanuckGod
+2019-02-01T00:00:00Z;;Reverted edits by [[Special:Contribs/182.156.72.110|182.156.72.110]] ([[User talk:182.156.72.110|talk]]) to last version by Gandydancer;880776549;880800529;2019-01-29T15:33:23Z;Gandydancer
+2019-01-01T00:00:00Z;;/* Debate */ better section headings;874782599;874783126;2018-12-21T13:59:52Z;Mvolz
+2018-12-01T00:00:00Z;;Reverted edits by [[Special:Contributions/74.103.37.253|74.103.37.253]] ([[User talk:74.103.37.253|talk]]) ([[WP:HG|HG]]) (3.4.4);869061860;869061890;2018-11-16T04:22:54Z;Donner60
+2018-11-01T00:00:00Z;;Undid revision 866612351 by [[Special:Contributions/Chilab12|Chilab12]] ([[User talk:Chilab12|talk]]) linkspam;866612351;866667562;2018-10-31T19:34:18Z;Mvolz
+2018-10-01T00:00:00Z;;Reverted edits by [[Special:Contributions/202.159.129.227|202.159.129.227]] ([[User talk:202.159.129.227|talk]]) ([[WP:HG|HG]]) (3.4.4);859053086;859053280;2018-09-11T11:55:22Z;Oshwah
+2018-09-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/Iwantnappies|Iwantnappies]] to version by MuppetHammer26II. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3456269) (Bot);856762717;856762728;2018-08-27T11:13:32Z;ClueBot NG
+2018-08-01T00:00:00Z;;Rescuing 2 sources and tagging 0 as dead. #IABot (v2.0beta5);852469938;852710376;2018-07-30T21:13:47Z;InternetArchiveBot
+2018-07-01T00:00:00Z;;;847448741;847756498;2018-06-27T15:21:03Z;3rdDivision
+2018-06-01T00:00:00Z;;;843466071;843483724;2018-05-29T12:53:59Z;Harm82
+2018-05-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/2605:B100:F244:B1EB:A850:20A6:849:7788|2605:B100:F244:B1EB:A850:20A6:849:7788]] ([[User talk:2605:B100:F244:B1EB:A850:20A6:849:7788|talk]]) to last revision by KolbertBot. ([[WP:TW|TW]]);835176452;835243782;2018-04-07T13:47:41Z;KylieTastic
+2018-04-01T00:00:00Z;;expand;833374723;833396738;2018-03-31T08:38:16Z;Gilliam
+2018-03-01T00:00:00Z;;[[WP:FIX]] + [[WP:GENFIXES|general fixes]], [[WP:AWB/T|typo(s) fixed]]: Proctor and Gamble → Procter & Gamble, by by → by;825473123;826286943;2018-02-18T08:07:56Z;JJMC89
+2018-02-01T00:00:00Z;;/* Disposable */;823005396;823005531;2018-01-29T19:34:07Z;2603:3003:10B:2300:4965:5CDD:E716:876
+2018-01-01T00:00:00Z;;Undid revision 816882310 by [[Special:Contributions/Alauddinroky4|Alauddinroky4]] ([[User talk:Alauddinroky4|talk]]) possible spam;816882310;817103242;2017-12-26T04:50:23Z;Bardbom
+2017-12-01T00:00:00Z;;Undid revision 811784341 by [[Special:Contributions/Mr.R.J.Simplex|Mr.R.J.Simplex]] ([[User talk:Mr.R.J.Simplex|talk]])  ...that's actualy more complicated and stilted.;811784341;811790210;2017-11-24T00:17:00Z;Bardbom
+2017-11-01T00:00:00Z;;Dating maintenance tags: {{Use mdy dates}};807666655;807679529;2017-10-29T14:06:34Z;AnomieBOT
+2017-10-01T00:00:00Z;;a few more engvar fixes;802878121;802878604;2017-09-29T01:10:30Z;Bardbom
+2017-09-01T00:00:00Z;;Undid revision 797879437 by [[Special:Contributions/195.99.62.112|195.99.62.112]] ([[User talk:195.99.62.112|talk]]) unnecessary engvar change;797879437;797908901;2017-08-29T21:45:17Z;Bardbom
+2017-08-01T00:00:00Z;;Rescuing 6 sources and tagging 0 as dead. #IABot (v1.5beta);792365261;792531081;2017-07-27T02:16:05Z;InternetArchiveBot

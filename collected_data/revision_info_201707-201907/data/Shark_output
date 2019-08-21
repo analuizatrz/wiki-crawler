@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/5×);";899366631;903485206;2019-06-26T00:14:50Z;Monkbot
+2019-06-01T00:00:00Z;"/* Life history */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]] (developmental testing):  cs1 template fixes: misused |publisher= (1×);";896807826;899366631;2019-05-29T15:32:33Z;Trappist the monk
+2019-05-01T00:00:00Z;/* In popular culture */ unsourced and misleading;887672915;891286648;2019-04-06T23:24:19Z;Lovemankind83
+2019-04-01T00:00:00Z;Removed URL that duplicated unique identifier. Removed accessdate with no specified URL. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;886927390;887672915;2019-03-14T03:02:29Z;Citation bot
+2019-03-01T00:00:00Z;/* Lateral line */  | [[WP:UCB|Assisted by Citation bot]];884559843;884942519;2019-02-25T00:16:40Z;Josve05a
+2019-02-01T00:00:00Z;"twelve orders listed, consistent with rest of article; the reference only mentions 8 extant/* Taxonomy */";877701336;880258016;2019-01-26T10:40:26Z;Jts1882
+2019-01-01T00:00:00Z;Reworded sentence;875073156;875156167;2018-12-24T05:15:25Z;LumaP15
+2018-12-01T00:00:00Z;Alter: isbn, journal, pages, title, last2, issue, url, template type. Add: location, title, newspaper, pmc, pmid, pages, journal, url, date, title-link, issue, volume. Converted bare reference to cite template. Removed parameters. Formatted [[WP:ENDASH|dashes]]. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Susmuffin|Susmuffin]];868511166;870369125;2018-11-24T09:28:05Z;Citation bot
+2018-11-01T00:00:00Z;Add statistics, American Samoa legend;863371194;865641316;2018-10-25T06:51:38Z;LumaP15
+2018-10-01T00:00:00Z;;860243254;861504051;2018-09-27T22:22:30Z;LittleJerry
+2018-09-01T00:00:00Z;Dating maintenance tags: {{When?}};855558867;855560357;2018-08-19T06:32:55Z;AnomieBOT
+2018-08-01T00:00:00Z;;849703467;849731575;2018-07-10T23:49:52Z;Bubblesorg
+2018-07-01T00:00:00Z;;846765322;848175114;2018-06-30T06:58:06Z;Sus memes
+2018-06-01T00:00:00Z;;841866934;841909148;2018-05-18T21:42:12Z;Marquardtika
+2018-05-01T00:00:00Z;"/* External links */ remove sister links; obtrusive and redundant";837539606;837915167;2018-04-23T20:03:47Z;Plantdrew
+2018-04-01T00:00:00Z;/* Taxonomy */  hypnosqualean hypothesis rejected;833246724;833357367;2018-03-31T02:08:05Z;Robin ceres
+2018-03-01T00:00:00Z;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Prahlad balaji|Prahlad balaji]] ([[User talk:Prahlad balaji|talk]]): Not the usual term. ([[WP:TW|TW]]);826617999;827041591;2018-02-22T12:33:23Z;Adrian J. Hunter
+2018-02-01T00:00:00Z;Undid revision 747927085 by [[Special:Contributions/THE IMPERIOUS DORK|THE IMPERIOUS DORK]] ([[User talk:THE IMPERIOUS DORK|talk]]);815804768;817915207;2017-12-31T08:34:22Z;Ryanrs
+2018-01-01T00:00:00Z;Undid revision 747927085 by [[Special:Contributions/THE IMPERIOUS DORK|THE IMPERIOUS DORK]] ([[User talk:THE IMPERIOUS DORK|talk]]);815804768;817915207;2017-12-31T08:34:22Z;Ryanrs
+2017-12-01T00:00:00Z;/* Evolution */;808241801;810199098;2017-11-13T22:07:49Z;Kazvorpal
+2017-11-01T00:00:00Z;/* Range and habitat */[[User:JCW-CleanerBot#Logic|task]], replaced: Proceedings: Biological Sciences / the Royal Society → Proceedings: Biological Sciences using [[Project:AWB|AWB]];806911620;806913182;2017-10-24T22:31:44Z;JCW-CleanerBot
+2017-10-01T00:00:00Z;/* See also */ trim;801491866;801684025;2017-09-21T05:11:59Z;Plantdrew
+2017-09-01T00:00:00Z;"Rescued 1 archive link; remove 1 link; reformat 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]";796838758;798065316;2017-08-30T19:45:51Z;GreenC bot
+2017-08-01T00:00:00Z;Rescuing 2 sources and tagging 1 as dead. #IABot (v1.5beta);788216995;792505872;2017-07-26T22:57:30Z;InternetArchiveBot

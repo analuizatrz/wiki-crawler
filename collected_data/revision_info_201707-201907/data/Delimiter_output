@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2402:3A80:ABB:6889:0:6A:8864:901|2402:3A80:ABB:6889:0:6A:8864:901]] ([[User talk:2402:3A80:ABB:6889:0:6A:8864:901|talk]]) ([[WP:HG|HG]]) (3.4.6);881117570;881117607;2019-01-31T15:34:32Z;Shellwood
+2019-06-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2402:3A80:ABB:6889:0:6A:8864:901|2402:3A80:ABB:6889:0:6A:8864:901]] ([[User talk:2402:3A80:ABB:6889:0:6A:8864:901|talk]]) ([[WP:HG|HG]]) (3.4.6);881117570;881117607;2019-01-31T15:34:32Z;Shellwood
+2019-05-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2402:3A80:ABB:6889:0:6A:8864:901|2402:3A80:ABB:6889:0:6A:8864:901]] ([[User talk:2402:3A80:ABB:6889:0:6A:8864:901|talk]]) ([[WP:HG|HG]]) (3.4.6);881117570;881117607;2019-01-31T15:34:32Z;Shellwood
+2019-04-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2402:3A80:ABB:6889:0:6A:8864:901|2402:3A80:ABB:6889:0:6A:8864:901]] ([[User talk:2402:3A80:ABB:6889:0:6A:8864:901|talk]]) ([[WP:HG|HG]]) (3.4.6);881117570;881117607;2019-01-31T15:34:32Z;Shellwood
+2019-03-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2402:3A80:ABB:6889:0:6A:8864:901|2402:3A80:ABB:6889:0:6A:8864:901]] ([[User talk:2402:3A80:ABB:6889:0:6A:8864:901|talk]]) ([[WP:HG|HG]]) (3.4.6);881117570;881117607;2019-01-31T15:34:32Z;Shellwood
+2019-02-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2402:3A80:ABB:6889:0:6A:8864:901|2402:3A80:ABB:6889:0:6A:8864:901]] ([[User talk:2402:3A80:ABB:6889:0:6A:8864:901|talk]]) ([[WP:HG|HG]]) (3.4.6);881117570;881117607;2019-01-31T15:34:32Z;Shellwood
+2019-01-01T00:00:00Z;;Fix section's hierarchy level;842992527;871634193;2018-12-02T12:48:33Z;84.176.146.88
+2018-12-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-11-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-10-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-09-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-08-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-07-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-06-01T00:00:00Z;;"/* Conventions */ Remove C as it is wrong; replace with Python";841017403;842992527;2018-05-26T03:12:43Z;John Vandenberg
+2018-05-01T00:00:00Z;;"revert to 25 October; why kill syntaxhightlight?";833200080;836993608;2018-04-18T02:33:42Z;Glrx
+2018-04-01T00:00:00Z;;Undid revision 833195705 by [[Special:Contributions/2405:205:83:2367:A454:CE5F:E5CA:69CF]]: ?;833195705;833200080;2018-03-30T06:05:06Z;Tea2min
+2018-03-01T00:00:00Z;;"revert last 2; don't need a demo";805649755;806546801;2017-10-22T18:51:30Z;Glrx
+2018-02-01T00:00:00Z;;"revert last 2; don't need a demo";805649755;806546801;2017-10-22T18:51:30Z;Glrx
+2018-01-01T00:00:00Z;;"revert last 2; don't need a demo";805649755;806546801;2017-10-22T18:51:30Z;Glrx
+2017-12-01T00:00:00Z;;"revert last 2; don't need a demo";805649755;806546801;2017-10-22T18:51:30Z;Glrx
+2017-11-01T00:00:00Z;;"revert last 2; don't need a demo";805649755;806546801;2017-10-22T18:51:30Z;Glrx
+2017-10-01T00:00:00Z;;/* Conventions */ Fix references.;793721804;793740794;2017-08-03T17:09:29Z;Guy Harris
+2017-09-01T00:00:00Z;;/* Conventions */ Fix references.;793721804;793740794;2017-08-03T17:09:29Z;Guy Harris
+2017-08-01T00:00:00Z;;/* Conventions */ Note that CP/M does require ^Z's (at least according to [[Control-Z]]).;792002417;792002536;2017-07-23T20:49:14Z;Guy Harris

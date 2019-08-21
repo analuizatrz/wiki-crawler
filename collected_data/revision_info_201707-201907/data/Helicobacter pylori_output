@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Alter: author13, doi-broken-date, title. Add: doi, url, author pars. 13-13. Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]];901283264;904096579;2019-06-29T23:50:50Z;Citation bot
+2019-06-01T00:00:00Z;;references go after punctuation;896397020;896964434;2019-05-13T22:53:07Z;AmericanLemming
+2019-05-01T00:00:00Z;;Undid revision 894037762 by [[Special:Contributions/220.227.154.180|220.227.154.180]] ([[User talk:220.227.154.180|talk]]);894037762;894037863;2019-04-25T06:18:57Z;Finnusertop
+2019-04-01T00:00:00Z;;Undid revision 889613749 by [[Special:Contributions/Lancet.lancet|Lancet.lancet]] ([[User talk:Lancet.lancet|talk]])But it is still a synonym;889613749;889717720;2019-03-27T14:06:36Z;Ruslik0
+2019-03-01T00:00:00Z;;/* Treatment */corrected wikilink;885214719;885329567;2019-02-27T10:17:09Z;Dom Kaos
+2019-02-01T00:00:00Z;;Add: doi-broken-date, doi. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;879887255;879887731;2019-01-24T01:10:37Z;Citation bot
+2019-01-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1) ([[User:FA RotBot|FA RotBot]]);872654761;873173157;2018-12-11T15:18:29Z;InternetArchiveBot
+2018-12-01T00:00:00Z;;Rescuing 1 sources and tagging 1 as dead. #IABot (v2.0beta10) ([[User:FA RotBot|FA RotBot]]);868097790;870806808;2018-11-27T03:25:00Z;InternetArchiveBot
+2018-11-01T00:00:00Z;;write out genus at beginning of paragraphs;865885379;865885642;2018-10-26T20:25:25Z;Plantdrew
+2018-10-01T00:00:00Z;;+Scholia;858617946;861705334;2018-09-29T11:35:42Z;Daniel Mietchen
+2018-09-01T00:00:00Z;;/* History */;854741955;857294170;2018-08-30T20:05:23Z;Siegele
+2018-08-01T00:00:00Z;;;849017477;852375720;2018-07-28T15:10:18Z;76.189.141.88
+2018-07-01T00:00:00Z;;/* External links */ http to https;847240564;847493673;2018-06-25T19:11:00Z;Hlps
+2018-06-01T00:00:00Z;;/* Diagnosis */ adjusted spacing mistake;843483061;843483126;2018-05-29T12:48:11Z;JenOttawa
+2018-05-01T00:00:00Z;;Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot;834246042;837424361;2018-04-20T18:58:25Z;Nemo bis
+2018-04-01T00:00:00Z;;/* Signs and symptoms */ word -> wikilink;832893238;833389493;2018-03-31T07:34:16Z;1OH2
+2018-03-01T00:00:00Z;;/* Cancer */ refpunct.;826953634;826953679;2018-02-21T22:58:49Z;Me, Myself, and I are Here
+2018-02-01T00:00:00Z;;/* External links */ taxonbar;820545580;821729146;2018-01-22T07:53:05Z;Mellis
+2018-01-01T00:00:00Z;;/* History */;816043684;817061969;2017-12-25T21:21:20Z;49.189.2.186
+2017-12-01T00:00:00Z;;/* Treatment */ remove pipe;807084907;808224779;2017-11-01T16:42:47Z;Wbm1058
+2017-11-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2602:30A:C071:F9C0:985F:9E26:9DBD:A56A|2602:30A:C071:F9C0:985F:9E26:9DBD:A56A]] ([[User talk:2602:30A:C071:F9C0:985F:9E26:9DBD:A56A|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.3.2);807084404;807084907;2017-10-25T20:16:17Z;RA0808
+2017-10-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/62.77.211.28|62.77.211.28]] to version by Tompop888. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3132670) (Bot);801860483;801860491;2017-09-22T10:49:30Z;ClueBot NG
+2017-09-01T00:00:00Z;;Referenced the latest Cochrane systematic review http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD004064.pub4/full;798207523;798225375;2017-08-31T17:37:20Z;182.55.173.58
+2017-08-01T00:00:00Z;;Identifier linking + [[WP:GENFIXES|AWB fixes]] using [[Project:AWB|AWB]];789750674;790022501;2017-07-11T03:06:47Z;Headbomb

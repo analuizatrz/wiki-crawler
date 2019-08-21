@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;Alter: pages, isbn, title. Add: citeseerx, issue, title-link. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;862602206;884152004;2019-02-19T21:17:39Z;Citation bot
+2019-06-01T00:00:00Z;Alter: pages, isbn, title. Add: citeseerx, issue, title-link. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;862602206;884152004;2019-02-19T21:17:39Z;Citation bot
+2019-05-01T00:00:00Z;Alter: pages, isbn, title. Add: citeseerx, issue, title-link. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;862602206;884152004;2019-02-19T21:17:39Z;Citation bot
+2019-04-01T00:00:00Z;Alter: pages, isbn, title. Add: citeseerx, issue, title-link. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;862602206;884152004;2019-02-19T21:17:39Z;Citation bot
+2019-03-01T00:00:00Z;Alter: pages, isbn, title. Add: citeseerx, issue, title-link. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;862602206;884152004;2019-02-19T21:17:39Z;Citation bot
+2019-02-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/171.76.225.114|171.76.225.114]] ([[User talk:171.76.225.114|talk]]) to last revision by Beland. ([[WP:TW|Twinkle]]);862602120;862602206;2018-10-05T13:00:30Z;RHcosm
+2019-01-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/171.76.225.114|171.76.225.114]] ([[User talk:171.76.225.114|talk]]) to last revision by Beland. ([[WP:TW|Twinkle]]);862602120;862602206;2018-10-05T13:00:30Z;RHcosm
+2018-12-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/171.76.225.114|171.76.225.114]] ([[User talk:171.76.225.114|talk]]) to last revision by Beland. ([[WP:TW|Twinkle]]);862602120;862602206;2018-10-05T13:00:30Z;RHcosm
+2018-11-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/171.76.225.114|171.76.225.114]] ([[User talk:171.76.225.114|talk]]) to last revision by Beland. ([[WP:TW|Twinkle]]);862602120;862602206;2018-10-05T13:00:30Z;RHcosm
+2018-10-01T00:00:00Z;/* Intensity */ note limitation of computing power, with reference (somewhat merging with previous unreferenced and kinda vague sentence);859750669;859751482;2018-09-16T02:32:15Z;Beland
+2018-09-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);822327304;833766468;2018-04-02T09:56:20Z;KolbertBot
+2018-08-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);822327304;833766468;2018-04-02T09:56:20Z;KolbertBot
+2018-07-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);822327304;833766468;2018-04-02T09:56:20Z;KolbertBot
+2018-06-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);822327304;833766468;2018-04-02T09:56:20Z;KolbertBot
+2018-05-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);822327304;833766468;2018-04-02T09:56:20Z;KolbertBot
+2018-04-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]]);814053298;822327304;2018-01-25T19:05:24Z;InternetArchiveBot
+2018-03-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]]);814053298;822327304;2018-01-25T19:05:24Z;InternetArchiveBot
+2018-02-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]]);814053298;822327304;2018-01-25T19:05:24Z;InternetArchiveBot
+2018-01-01T00:00:00Z;/* Rainfall */  Fixed citation;814052956;814053298;2017-12-06T17:11:58Z;Tubsoftoblerone
+2017-12-01T00:00:00Z;Reverted edits by [[Special:Contributions/86.21.20.172|86.21.20.172]] ([[User talk:86.21.20.172|talk]]) ([[WP:HG|HG]]) (3.2.0);804884193;804884215;2017-10-11T18:25:17Z;Serols
+2017-11-01T00:00:00Z;Reverted edits by [[Special:Contributions/86.21.20.172|86.21.20.172]] ([[User talk:86.21.20.172|talk]]) ([[WP:HG|HG]]) (3.2.0);804884193;804884215;2017-10-11T18:25:17Z;Serols
+2017-10-01T00:00:00Z;Disambiguating links to [[William Gray]] (link changed to [[William M. Gray]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].;789205624;789511619;2017-07-07T20:06:07Z;Onel5969
+2017-09-01T00:00:00Z;Disambiguating links to [[William Gray]] (link changed to [[William M. Gray]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].;789205624;789511619;2017-07-07T20:06:07Z;Onel5969
+2017-08-01T00:00:00Z;Disambiguating links to [[William Gray]] (link changed to [[William M. Gray]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].;789205624;789511619;2017-07-07T20:06:07Z;Onel5969
