@@ -128,7 +128,7 @@ def create_file_if_does_not_exist(file_name):
         open(file_name, 'w')
 
 def create_folder_if_does_not_exist(folder):
-    os.makedirs(folder_to_save, exist_ok=True)
+    os.makedirs(folder, exist_ok=True)
 
 def collect(title, date_start, date_end):
     response = get_revisions_info(title, date_start, date_end)
@@ -179,7 +179,7 @@ def collect_all(titles, date_start, date_end, folder_to_save):
 
 if __name__ == "__main__":
     date_start = "2019-07-01T00:00:00Z"
-    date_end = "2014-07-01T00:00:00Z"
+    date_end = "2017-07-01T00:00:00Z"
 
     base_folder = "/home/ana/Documents/tcc-web-crawler"
     folder_to_save = f"{base_folder}/collected_data/revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}"
