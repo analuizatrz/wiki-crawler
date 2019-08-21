@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;/* History */ nix less relevant portion of long quote;902354325;903054641;2019-06-23T06:39:03Z;UpdateNerd
+2019-06-01T00:00:00Z;/* Books and design */ page #;895438450;895438780;2019-05-04T07:49:48Z;UpdateNerd
+2019-05-01T00:00:00Z;/* References */ not much point in these showing up in ToC;894046086;894046207;2019-04-25T08:13:29Z;UpdateNerd
+2019-04-01T00:00:00Z;/* Architecture */ more chronological, copyedit;889820256;890127914;2019-03-30T08:25:26Z;UpdateNerd
+2019-03-01T00:00:00Z;/* Egyptian pyramids */ rm moot template & more chronological par. order;885478040;885478147;2019-02-28T07:34:15Z;UpdateNerd
+2019-02-01T00:00:00Z;/* History */ put back more to make better sense;881148314;881148598;2019-01-31T19:24:58Z;Dicklyon
+2019-01-01T00:00:00Z;/* Section d'Or */ Remove parantheses;875575071;876115636;2018-12-31T07:12:12Z;Finell
+2018-12-01T00:00:00Z;/* Art */ transition;871388735;871388830;2018-11-30T18:44:11Z;XOR'easter
+2018-11-01T00:00:00Z;/* Music */;866302377;866586575;2018-10-31T07:46:25Z;EddSliva
+2018-10-01T00:00:00Z;Undid revision 857421801 by [[Special:Contributions/Pluma|Pluma]] ([[User talk:Pluma|talk]]) per [[MOS:BOLDAVOID]], and phi is just the letter used for the ratio, not the ratio itself, so probably shouldn't be anyway;857421801;857423131;2018-08-31T16:08:55Z;Deacon Vorbis
+2018-09-01T00:00:00Z;Undid revision 857421801 by [[Special:Contributions/Pluma|Pluma]] ([[User talk:Pluma|talk]]) per [[MOS:BOLDAVOID]], and phi is just the letter used for the ratio, not the ratio itself, so probably shouldn't be anyway;857421801;857423131;2018-08-31T16:08:55Z;Deacon Vorbis
+2018-08-01T00:00:00Z;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Nokib Sarkar|Nokib Sarkar]] ([[User talk:Nokib Sarkar|talk]]): Simplie inline formulas don't need to be changed to <math> mode. ([[WP:TW|TW]]);852799764;852800413;2018-07-31T13:06:09Z;Deacon Vorbis
+2018-07-01T00:00:00Z;/* top */ Swapped paragraphs so 20th century uses come after more important information. Moved sentence on patterns in nature. No new content.;846610386;847385837;2018-06-25T00:06:24Z;Dgpop
+2018-06-01T00:00:00Z;/* Optimization */;842609141;843280997;2018-05-28T03:04:52Z;Mike Mounier
+2018-05-01T00:00:00Z;;837467636;837469518;2018-04-21T01:16:45Z;Michael Hardy
+2018-04-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.5) ([[User:Feminist|Feminist]]);831254928;833142295;2018-03-29T21:54:44Z;InternetArchiveBot
+2018-03-01T00:00:00Z;/* Minimal polynomial */  ce, wikilink;826096992;826550335;2018-02-19T19:43:39Z;Loraof
+2018-02-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);821183328;822482677;2018-01-26T16:50:25Z;KolbertBot
+2018-01-01T00:00:00Z;/* Alternative forms */ removed an unnecessary <br />;811309321;814164327;2017-12-07T06:19:25Z;DinoD123
+2017-12-01T00:00:00Z;Disambiguate [[Three]] to [[3]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]];806269922;811309321;2017-11-20T20:33:49Z;Wbm1058
+2017-11-01T00:00:00Z;Undid revision 806268685 by [[Special:Contributions/TomBarker23|TomBarker23]] ([[User talk:TomBarker23|talk]]) (it's already mentionaed above, mathematically);806268685;806269922;2017-10-20T21:26:22Z;Mykhal
+2017-10-01T00:00:00Z;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Human-potato hybrid|Human-potato hybrid]] ([[User talk:Human-potato hybrid|talk]]): Not an improvement and runs counter to the surrounding text. ([[WP:TW|TW]]);802723027;802738636;2017-09-28T04:06:58Z;Wcherowi
+2017-09-01T00:00:00Z;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];796236841;796642480;2017-08-22T06:34:28Z;KolbertBot
+2017-08-01T00:00:00Z;/* Pyramids */LaTeX spacing clean up, replaced: \ </math> → </math> (2) using [[Project:AWB|AWB]];790236168;790709344;2017-07-15T15:40:25Z;Deacon Vorbis

@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2009-01-01T00:00:00Z;;/* Tabulated exposure values */ Rm Sun luminance, per discussion.;258536540;259944495;2008-12-24T19:06:59Z;JeffConrad
+2008-12-01T00:00:00Z;;"Fixed/added punctuation after equations; removed extra blank lines.";248706461;252943558;2008-11-20T06:54:05Z;JeffConrad
+2008-11-01T00:00:00Z;;"/* Formal definition */ Rv; comma was correctly placed.";248628301;248706461;2008-10-30T22:38:35Z;JeffConrad
+2008-10-01T00:00:00Z;;fr interwiki;240048720;241853367;2008-09-29T20:37:07Z;PpPachy
+2008-09-01T00:00:00Z;;Units/dates/other  using [[Project:AutoWikiBrowser|AWB]];210156856;210164767;2008-05-04T19:49:53Z;Lightmouse
+2008-08-01T00:00:00Z;;Units/dates/other  using [[Project:AutoWikiBrowser|AWB]];210156856;210164767;2008-05-04T19:49:53Z;Lightmouse
+2008-07-01T00:00:00Z;;Units/dates/other  using [[Project:AutoWikiBrowser|AWB]];210156856;210164767;2008-05-04T19:49:53Z;Lightmouse
+2008-06-01T00:00:00Z;;Units/dates/other  using [[Project:AutoWikiBrowser|AWB]];210156856;210164767;2008-05-04T19:49:53Z;Lightmouse
+2008-05-01T00:00:00Z;;"Reverted to revision 199313750 by [[Special:Contributions/203.200.20.91|203.200.20.91]]; Table 1 is independent of ISO speed. ([[WP:TW|TW]])";205228175;205281760;2008-04-13T06:43:04Z;Dicklyon
+2008-04-01T00:00:00Z;;/* Formal definition */;199313529;199313750;2008-03-19T10:51:25Z;203.200.20.91
+2008-03-01T00:00:00Z;;/* Formal definition */ Rvv.;193228433;193232483;2008-02-22T08:43:02Z;JeffConrad
+2008-02-01T00:00:00Z;;/* EV as an indicator of camera settings */;169386781;177460043;2007-12-12T17:04:08Z;159.124.100.13
+2008-01-01T00:00:00Z;;/* EV as an indicator of camera settings */;169386781;177460043;2007-12-12T17:04:08Z;159.124.100.13
+2007-12-01T00:00:00Z;;/* EV as a measure of luminance and illuminance */ [[lux]];169385446;169386781;2007-11-05T15:10:40Z;Max rspct
+2007-11-01T00:00:00Z;;/* EV as a measure of luminance and illuminance */;163545143;163545653;2007-10-10T11:47:33Z;132.68.68.141
+2007-10-01T00:00:00Z;;"revert; links from referenced books to external sources or publishers are not inappropriate";155988471;155996405;2007-09-06T05:38:36Z;Dicklyon
+2007-09-01T00:00:00Z;;;153128591;153128895;2007-08-23T10:56:26Z;87.198.172.118
+2007-08-01T00:00:00Z;;"Moved details of Exposure compensation to that article; fixed typo.";126207997;126516172;2007-04-28T00:17:08Z;JeffConrad
+2007-07-01T00:00:00Z;;"Moved details of Exposure compensation to that article; fixed typo.";126207997;126516172;2007-04-28T00:17:08Z;JeffConrad
+2007-06-01T00:00:00Z;;"Moved details of Exposure compensation to that article; fixed typo.";126207997;126516172;2007-04-28T00:17:08Z;JeffConrad
+2007-05-01T00:00:00Z;;"Moved details of Exposure compensation to that article; fixed typo.";126207997;126516172;2007-04-28T00:17:08Z;JeffConrad
+2007-04-01T00:00:00Z;;Rv [[WP:MOS]] allows both author-date and footnote-style references, and specifically forbids changing styles without prior discussion--see [[WP:CITE#HOW]].;115651045;115668857;2007-03-16T23:15:57Z;JeffConrad
+2007-03-01T00:00:00Z;;"move Lazaro Gimena's chart to talk page; conflict of interest";106691004;106755557;2007-02-09T03:39:35Z;Dicklyon
+2007-02-01T00:00:00Z;;/* Relationship of EV to lighting conditions */Mention of limitations of relationship.;100145851;100148960;2007-01-12T03:28:16Z;JeffConrad

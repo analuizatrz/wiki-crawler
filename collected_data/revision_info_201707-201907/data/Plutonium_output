@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;Alter: title, journal. Add: title-link, pmc, last, url, author pars. 1-1. Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]];900329959;904029438;2019-06-29T14:01:15Z;Citation bot
+2019-06-01T00:00:00Z;;889094095;897847233;2019-05-19T18:47:34Z;Maxeto0910
+2019-05-01T00:00:00Z;Page is linked to from [[Main_page]], so fix typo's & MOS, [[WP:AWB/T|typo(s) fixed]]: Berkeley’s → Berkeley's (2);888813855;889094095;2019-03-23T12:23:27Z;DePiep
+2019-04-01T00:00:00Z;Page is linked to from [[Main_page]], so fix typo's & MOS, [[WP:AWB/T|typo(s) fixed]]: Berkeley’s → Berkeley's (2);888813855;889094095;2019-03-23T12:23:27Z;DePiep
+2019-03-01T00:00:00Z;Typo fixed;879301875;885481692;2019-02-28T08:29:32Z;Rainer Klute
+2019-02-01T00:00:00Z;;875076720;879301875;2019-01-20T10:04:31Z;Shintaraguru
+2019-01-01T00:00:00Z;/* Toxicity */ tweaked link for readability;860538540;875076720;2018-12-23T16:41:53Z;PaleCloudedWhite
+2018-12-01T00:00:00Z;/* Physical properties */ wikilink;858369581;860538540;2018-09-21T10:32:11Z;Jochen Burghardt
+2018-11-01T00:00:00Z;/* Physical properties */ wikilink;858369581;860538540;2018-09-21T10:32:11Z;Jochen Burghardt
+2018-10-01T00:00:00Z;/* Physical properties */ wikilink;858369581;860538540;2018-09-21T10:32:11Z;Jochen Burghardt
+2018-09-01T00:00:00Z;citation needed;853375960;854141054;2018-08-09T07:09:47Z;Double sharp
+2018-08-01T00:00:00Z;/* External links */;849419716;852624844;2018-07-30T08:05:27Z;Esiymbro
+2018-07-01T00:00:00Z;file/image: use |upright not size with fixed px ([[WP:UPRIGHT]]) (via [[WP:JWB]]);843073089;845034689;2018-06-08T21:39:16Z;DePiep
+2018-06-01T00:00:00Z;cleanup using [[Project:AWB|AWB]];839774537;843073089;2018-05-26T17:45:56Z;Headbomb
+2018-05-01T00:00:00Z;metric;833600103;839043056;2018-04-30T21:56:40Z;MeanMotherJr
+2018-04-01T00:00:00Z;/* Isotopes and nucleosynthesis */ <chem>;828587559;832470691;2018-03-26T06:14:33Z;Cedar101
+2018-03-01T00:00:00Z;add new information to the article instead of the note;816448440;821333761;2018-01-19T20:34:51Z;JHunterJ
+2018-02-01T00:00:00Z;add new information to the article instead of the note;816448440;821333761;2018-01-19T20:34:51Z;JHunterJ
+2018-01-01T00:00:00Z;/* References */ format as reflist;816269708;816448440;2017-12-21T11:40:10Z;Galobtter
+2017-12-01T00:00:00Z;/* top */;811135846;811136084;2017-11-19T19:21:24Z;DePiep
+2017-11-01T00:00:00Z;Updated citation;804023512;806818401;2017-10-24T10:13:28Z;Jimjamjak
+2017-10-01T00:00:00Z;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.4) ([[User:FA RotBot|FA RotBot]]);801695147;802910807;2017-09-29T07:04:34Z;InternetArchiveBot
+2017-09-01T00:00:00Z;/* Physical properties */ ce;796033889;797792227;2017-08-29T06:18:55Z;John
+2017-08-01T00:00:00Z;Edited for clarity;790014917;790296944;2017-07-12T20:33:03Z;Artman maine

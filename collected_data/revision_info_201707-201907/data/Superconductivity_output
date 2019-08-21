@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/2×);";902317225;903681858;2019-06-27T08:07:27Z;Monkbot
+2019-06-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/192.197.245.144|192.197.245.144]] ([[User talk:192.197.245.144|talk]]) to last revision by Eric Kvaalen. ([[WP:TW|TW]]);899202383;899202828;2019-05-28T14:47:13Z;Ahmad Kanik
+2019-05-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/2001:D08:2082:C7D:ADC3:93FC:B782:E9F6|2001:D08:2082:C7D:ADC3:93FC:B782:E9F6]] identified as test/vandalism using [[WP:STiki|STiki]];891674276;891677093;2019-04-09T13:36:05Z;Sam Sailor
+2019-04-01T00:00:00Z;;Restored reference to holographic theory of high-Tc. Undid revision 888908823 by [[Special:Contributions/2601:19B:100:4087:ECA6:4FD7:60E6:B4A4|2601:19B:100:4087:ECA6:4FD7:60E6:B4A4]] ([[User talk:2601:19B:100:4087:ECA6:4FD7:60E6:B4A4|talk]]);888908823;888915321;2019-03-22T05:35:47Z;Brienanni
+2019-03-01T00:00:00Z;;Reverted edits by [[Special:Contributions/148.74.156.43|148.74.156.43]] ([[User talk:148.74.156.43|talk]]) ([[WP:HG|HG]]) (3.4.6);884583199;884583300;2019-02-22T16:11:15Z;Serols
+2019-02-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/110.227.190.81|110.227.190.81]] ([[User talk:110.227.190.81|talk]]): Damage, probably unintentional deletion. ([[WP:TW|TW]]);879578729;879578911;2019-01-22T03:31:59Z;Tarl N.
+2019-01-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/8.42.185.8|8.42.185.8]] to version by Roxy the dog. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3565847) (Bot);874802680;874802690;2018-12-21T16:44:21Z;ClueBot NG
+2018-12-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/119.155.48.90|119.155.48.90]] ([[User talk:119.155.48.90|talk]]) to last revision by Tarl N.. ([[WP:TW|TW]]);870683443;870697296;2018-11-26T13:40:17Z;Roxy the dog
+2018-11-01T00:00:00Z;;/* High-temperature superconductivity */;859171244;859263067;2018-09-12T21:37:56Z;BuckRogers25
+2018-10-01T00:00:00Z;;/* High-temperature superconductivity */;859171244;859263067;2018-09-12T21:37:56Z;BuckRogers25
+2018-09-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/49.34.111.217|49.34.111.217]] ([[User talk:49.34.111.217|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]]);856352430;856352546;2018-08-24T16:22:48Z;Ifnord
+2018-08-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/36.66.35.182|36.66.35.182]] ([[User talk:36.66.35.182|talk]]): Damage. ([[WP:TW|TW]]);848795828;848830897;2018-07-04T16:53:04Z;Tarl N.
+2018-07-01T00:00:00Z;;Adding 2 [[arXiv|arxiv eprint(s)]], 4 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];836734060;844929087;2018-06-08T04:38:17Z;Bibcode Bot
+2018-06-01T00:00:00Z;;Reverted to revision 835738064 by [[Special:Contributions/Friederich|Friederich]] ([[User talk:Friederich|talk]]): We already have a bunch here, and this specific one was already rejecetd when you added it previously. ([[WP:TW|TW]]);836723793;836734060;2018-04-16T15:06:52Z;DMacks
+2018-05-01T00:00:00Z;;Reverted to revision 835738064 by [[Special:Contributions/Friederich|Friederich]] ([[User talk:Friederich|talk]]): We already have a bunch here, and this specific one was already rejecetd when you added it previously. ([[WP:TW|TW]]);836723793;836734060;2018-04-16T15:06:52Z;DMacks
+2018-04-01T00:00:00Z;;Updated the highest critical current found for a superconductor;829953592;831122958;2018-03-18T21:40:49Z;Tt15951
+2018-03-01T00:00:00Z;;HTTP→HTTPS for [[Science Daily]], replaced: http://www.sciencedaily.com/ → https://www.sciencedaily.com/ (2);827908044;828144628;2018-02-28T20:40:31Z;Bender the Bot
+2018-02-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]]);820403762;821674661;2018-01-21T23:15:36Z;InternetArchiveBot
+2018-01-01T00:00:00Z;;Adding a citation for the longest superconducting levitation: 10.1029/2017EO089743.;816325171;817760098;2017-12-30T11:44:49Z;87.67.18.208
+2017-12-01T00:00:00Z;;[[Category:1911 in science]];809048944;811625580;2017-11-22T21:09:53Z;Niedowahlo
+2017-11-01T00:00:00Z;;/* Superconducting phase transition {{anchor|Superconducting phase transition}} */ text subscripts are not italic;806066643;807432592;2017-10-27T22:38:31Z;Quondum
+2017-10-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/27.251.159.251|27.251.159.251]] to version by Mild Bill Hiccup. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3134726) (Bot);802283076;802283087;2017-09-25T04:33:05Z;ClueBot NG
+2017-09-01T00:00:00Z;;/* top */ Spelling/grammar correction;792741703;796596910;2017-08-21T22:52:46Z;Mild Bill Hiccup
+2017-08-01T00:00:00Z;;;789960875;792741703;2017-07-28T11:07:54Z;Penbat

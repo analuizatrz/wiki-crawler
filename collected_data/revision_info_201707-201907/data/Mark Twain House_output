@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;885119856;895627755;2019-05-05T15:28:53Z;KConWiki
+2019-06-01T00:00:00Z;;885119856;895627755;2019-05-05T15:28:53Z;KConWiki
+2019-05-01T00:00:00Z;Reverted edits by [[Special:Contribs/100.11.128.30|100.11.128.30]] ([[User talk:100.11.128.30|talk]]) to last version by Mitzi.humphrey;885107043;885119856;2019-02-26T02:24:30Z;Markvs88
+2019-04-01T00:00:00Z;Reverted edits by [[Special:Contribs/100.11.128.30|100.11.128.30]] ([[User talk:100.11.128.30|talk]]) to last version by Mitzi.humphrey;885107043;885119856;2019-02-26T02:24:30Z;Markvs88
+2019-03-01T00:00:00Z;Reverted edits by [[Special:Contribs/100.11.128.30|100.11.128.30]] ([[User talk:100.11.128.30|talk]]) to last version by Mitzi.humphrey;885107043;885119856;2019-02-26T02:24:30Z;Markvs88
+2019-02-01T00:00:00Z;Reverted edits by [[Special:Contribs/2601:204:D87F:FE73:AC6A:2651:CE18:602C|2601:204:D87F:FE73:AC6A:2651:CE18:602C]] ([[User talk:2601:204:D87F:FE73:AC6A:2651:CE18:602C|talk]]) to last version by TAnthony;870920360;870921147;2018-11-27T20:25:48Z;Gilliam
+2019-01-01T00:00:00Z;Reverted edits by [[Special:Contribs/2601:204:D87F:FE73:AC6A:2651:CE18:602C|2601:204:D87F:FE73:AC6A:2651:CE18:602C]] ([[User talk:2601:204:D87F:FE73:AC6A:2651:CE18:602C|talk]]) to last version by TAnthony;870920360;870921147;2018-11-27T20:25:48Z;Gilliam
+2018-12-01T00:00:00Z;Reverted edits by [[Special:Contribs/2601:204:D87F:FE73:AC6A:2651:CE18:602C|2601:204:D87F:FE73:AC6A:2651:CE18:602C]] ([[User talk:2601:204:D87F:FE73:AC6A:2651:CE18:602C|talk]]) to last version by TAnthony;870920360;870921147;2018-11-27T20:25:48Z;Gilliam
+2018-11-01T00:00:00Z;"Fix [[:Category:CS1 maint: Extra text|CS1 cite error]] (extra text in ""page"" or ""edition"" parameter), and genfixes";858009687;858219139;2018-09-05T20:08:50Z;TAnthony
+2018-10-01T00:00:00Z;"Fix [[:Category:CS1 maint: Extra text|CS1 cite error]] (extra text in ""page"" or ""edition"" parameter), and genfixes";858009687;858219139;2018-09-05T20:08:50Z;TAnthony
+2018-09-01T00:00:00Z;Added navbox;826019282;847040221;2018-06-22T14:13:05Z;Woko Sapien
+2018-08-01T00:00:00Z;Added navbox;826019282;847040221;2018-06-22T14:13:05Z;Woko Sapien
+2018-07-01T00:00:00Z;Added navbox;826019282;847040221;2018-06-22T14:13:05Z;Woko Sapien
+2018-06-01T00:00:00Z;/* Post-Twain */HTTP→HTTPS for Senate.gov, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]], replaced: http://www.senate.gov/ → https://www.senate.gov/ using [[Project:AWB|AWB]];821114894;826019282;2018-02-16T19:03:55Z;Bender the Bot
+2018-05-01T00:00:00Z;/* Post-Twain */HTTP→HTTPS for Senate.gov, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]], replaced: http://www.senate.gov/ → https://www.senate.gov/ using [[Project:AWB|AWB]];821114894;826019282;2018-02-16T19:03:55Z;Bender the Bot
+2018-04-01T00:00:00Z;/* Post-Twain */HTTP→HTTPS for Senate.gov, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]], replaced: http://www.senate.gov/ → https://www.senate.gov/ using [[Project:AWB|AWB]];821114894;826019282;2018-02-16T19:03:55Z;Bender the Bot
+2018-03-01T00:00:00Z;/* Post-Twain */HTTP→HTTPS for Senate.gov, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]], replaced: http://www.senate.gov/ → https://www.senate.gov/ using [[Project:AWB|AWB]];821114894;826019282;2018-02-16T19:03:55Z;Bender the Bot
+2018-02-01T00:00:00Z;Rescuing 3 sources and tagging 0 as dead. #IABot (v1.6.2);814889490;821114894;2018-01-18T13:47:14Z;InternetArchiveBot
+2018-01-01T00:00:00Z;Replace categorizations using {{[[template:Infobox NRHP|Infobox NRHP]]}} with direct categorizations using [[Project:AWB|AWB]];812094112;814889490;2017-12-11T14:44:43Z;Od Mishehu AWB
+2017-12-01T00:00:00Z;note contributing property;808326954;812094112;2017-11-26T00:01:36Z;Magicpiano
+2017-11-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]];797203767;798902879;2017-09-04T13:44:03Z;KolbertBot
+2017-10-01T00:00:00Z;Bot: [[User:KolbertBot|HTTP→HTTPS]];797203767;798902879;2017-09-04T13:44:03Z;KolbertBot
+2017-09-01T00:00:00Z;Bot: [[User:FrescoBot/galleries|galleries with nonexistent images]] and minor changes;797183684;797203767;2017-08-25T15:34:33Z;FrescoBot
+2017-08-01T00:00:00Z;"/* Financial problems */HTTP&rarr;HTTPS for [[Reuters]], per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]";787233539;788465153;2017-07-01T15:13:17Z;Bender the Bot

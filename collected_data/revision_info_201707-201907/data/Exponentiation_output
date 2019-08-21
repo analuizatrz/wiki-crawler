@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Add closing braces to fix bulleted list;902180811;902337591;2019-06-18T04:14:03Z;2601:645:4200:42D0:0:0:0:1
+2019-06-01T00:00:00Z;;;892459124;898759358;2019-05-25T18:58:43Z;Michael Hardy
+2019-05-01T00:00:00Z;;;892459063;892459124;2019-04-14T17:48:17Z;Sobreira
+2019-04-01T00:00:00Z;;/* top */ spaces in super- and subscripts do not work well;889852600;890234542;2019-03-31T01:32:51Z;Quondum
+2019-03-01T00:00:00Z;;Reverting possible vandalism by [[Special:Contribs/24.146.229.163|24.146.229.163]] to version by Paolo.dL. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3602742) (Bot);885086639;885086647;2019-02-25T21:43:47Z;ClueBot NG
+2019-02-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/BQ.KK|BQ.KK]] ([[User talk:BQ.KK|talk]]) to last revision by D.Lazard ([[WP:TW|TW]]);880784018;880787075;2019-01-29T14:01:20Z;D.Lazard
+2019-01-01T00:00:00Z;;Cleaned up using [[WP:AutoEd|AutoEd]] Copyedit (major);874803054;875220199;2018-12-24T17:55:54Z;Srich32977
+2018-12-01T00:00:00Z;;/* Taylor Series Definition */ small recover and tweak;871342948;871345582;2018-11-30T12:54:45Z;Purgy Purgatorio
+2018-11-01T00:00:00Z;;"Undid revision 866612837 by [[Special:Contributions/2600:1:F404:F898:B2DE:AB4F:B684:1EC8|2600:1:F404:F898:B2DE:AB4F:B684:1EC8]] ([[User talk:2600:1:F404:F898:B2DE:AB4F:B684:1EC8|talk]]) not ""more precise"", but too restrictive";866612837;866615290;2018-10-31T12:49:53Z;Purgy Purgatorio
+2018-10-01T00:00:00Z;;"Undid revision 861121953 by [[Special:Contributions/103.226.240.17|103.226.240.17]] ([[User talk:103.226.240.17|talk]])let's leave it at ""log"", especially in the complex environment, where there is no serious ""common"" contender";861121953;861124031;2018-09-25T08:05:38Z;Purgy Purgatorio
+2018-09-01T00:00:00Z;;Alter: isbn. Add: citeseerx, issue. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].;854595938;855662294;2018-08-19T23:36:22Z;Citation bot
+2018-08-01T00:00:00Z;;Dating maintenance tags: {{Better source}};850836769;850838391;2018-07-18T08:29:09Z;AnomieBOT
+2018-07-01T00:00:00Z;;/* Limits of powers */ fmt: {{math|}};847984864;847992291;2018-06-29T03:52:11Z;Quondum
+2018-06-01T00:00:00Z;;Undid revision 843687260 by [[Special:Contributions/86.0.49.135|86.0.49.135]] ([[User talk:86.0.49.135|talk]]) was not wrong, parens are ugly;843687260;843752156;2018-05-31T06:40:07Z;Purgy Purgatorio
+2018-05-01T00:00:00Z;;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/132.230.194.177|132.230.194.177]] ([[User talk:132.230.194.177|talk]]): That's preferred due to quirks of line-breaking. ([[WP:TW|TW]]);837092439;837094071;2018-04-18T17:38:09Z;Deacon Vorbis
+2018-04-01T00:00:00Z;;{{short description}};827242559;827280088;2018-02-23T20:22:19Z;Trovatore
+2018-03-01T00:00:00Z;;{{short description}};827242559;827280088;2018-02-23T20:22:19Z;Trovatore
+2018-02-01T00:00:00Z;;/* Combinatorial interpretation */ typo;820813263;820814284;2018-01-16T19:34:47Z;JohnBlackburne
+2018-01-01T00:00:00Z;;prog.lang discussion -- more concise;814405945;814410995;2017-12-08T17:33:49Z;Macrakis
+2017-12-01T00:00:00Z;;/* Rational exponents */ Graph replaced with a better readable one;812013144;812071806;2017-11-25T20:53:48Z;Geek3
+2017-11-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/2405:204:830E:F42:C04E:5FB6:7AC6:69C1|2405:204:830E:F42:C04E:5FB6:7AC6:69C1]] ([[User talk:2405:204:830E:F42:C04E:5FB6:7AC6:69C1|talk]]) to last revision by JohnBlackburne. ([[WP:TW|TW]]);804526677;804527274;2017-10-09T16:17:55Z;Deacon Vorbis
+2017-10-01T00:00:00Z;;"Undid revision 802405147 by [[Special:Contributions/Zazke grt|Zazke grt]] ([[User talk:Zazke grt|talk]]) It was already okay; and the change seems to indicate that it's only valid if v is odd -- what if v is even?";802405147;802419880;2017-09-26T01:49:41Z;Deacon Vorbis
+2017-09-01T00:00:00Z;;Reverted edits by [[Special:Contribs/190.82.47.121|190.82.47.121]] ([[User talk:190.82.47.121|talk]]) to last version by Quinton Feldberg;797753640;797753689;2017-08-29T00:04:19Z;NewEnglandYankee
+2017-08-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/AveNton|AveNton]] ([[User talk:AveNton|talk]]) to last revision by Jiten Dhandha. ([[WP:TW|TW]]);792771882;792771923;2017-07-28T15:38:10Z;Jiten D

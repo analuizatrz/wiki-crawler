@@ -1,0 +1,25 @@
+access;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (1×/1×); skipped: conflicting periodical (1×);";901989715;903376322;2019-06-25T10:30:51Z;Monkbot
+2019-06-01T00:00:00Z;/* Time in Kabbalah */ clarify;899486235;899486561;2019-05-30T11:17:44Z;Cosmia Nebula
+2019-05-01T00:00:00Z;/* Philosophy */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: lead → led, For example → For example,, Rene Descartes → René Descartes;894113695;894908627;2019-04-30T19:30:49Z;Dawnseeker2000
+2019-04-01T00:00:00Z;/* Religion */ right;888472089;890136300;2019-03-30T10:30:01Z;SS49
+2019-03-01T00:00:00Z;/* Religion */Replaced with detailed image info;883895872;884307686;2019-02-20T20:44:29Z;Rizhwickh
+2019-02-01T00:00:00Z;restore ISBN hyphenation;871642854;880318291;2019-01-26T19:33:28Z;Kanguole
+2019-01-01T00:00:00Z;link Jared Tinklenberg;869529675;871642854;2018-12-02T14:16:24Z;Thsmi002
+2018-12-01T00:00:00Z;"[[WP:UCB|Assisted by Citation bot]] | Cleaned up using [[WP:AutoEd|AutoEd]]; ce";868511464;869529675;2018-11-19T05:07:58Z;Srich32977
+2018-11-01T00:00:00Z;/* Units of time */;862995623;863646880;2018-10-12T02:44:15Z;Jake The Great 908
+2018-10-01T00:00:00Z;Alter: isbn, title, template type. Add: hdl, title-link, website, quote, year, doi, bibcode, pages, issue, volume, journal, author pars. 1-2. Removed parameters. Formatted [[WP:ENDASH|dashes]]. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Anas1712|Anas1712]];860013716;860599601;2018-09-21T19:47:12Z;Citation bot
+2018-09-01T00:00:00Z;Reverted 1 edit by [[Special:Contributions/Berzelius of Chem|Berzelius of Chem]] ([[User talk:Berzelius of Chem|talk]]): Rv change by newly-autoconfirmed user that promotes Jainism.  please discuss on talk. ([[WP:TW|TW]]);857269693;857284573;2018-08-30T19:02:56Z;Power~enwiki
+2018-08-01T00:00:00Z;"rm undue detail on the philosophy of the nature of time from the lead; move refs to ""Philosophy"" section";849883624;850918030;2018-07-18T20:48:10Z;Power~enwiki
+2018-07-01T00:00:00Z;/* Philosophy */ remove unsourced part, likely [[wp:OR]]. Feel free to put back with a source - see talk.;847378012;847566017;2018-06-26T08:07:36Z;DVdm
+2018-06-01T00:00:00Z;link maintenance;841063339;842028719;2018-05-19T18:54:36Z;Dawnseeker2000
+2018-05-01T00:00:00Z;Undid revision 835644575 by [[Special:Contributions/Temugin|Temugin]] ([[User talk:Temugin|talk]]) Not sufficiently prominent compared to the two listed;835644575;836700431;2018-04-16T10:28:04Z;DVdm
+2018-04-01T00:00:00Z;/* History of the calendar */Added links;831221516;831955210;2018-03-23T00:32:01Z;Mndata
+2018-03-01T00:00:00Z;[[WP:UCB|Assisted by Citation bot]] | Cleaned up using [[WP:AutoEd|AutoEd]];824031101;825866365;2018-02-15T21:51:42Z;Srich32977
+2018-02-01T00:00:00Z;Cleaned up using [[WP:AutoEd|AutoEd]];822157666;822964844;2018-01-29T14:58:42Z;KAP03
+2018-01-01T00:00:00Z;/* Biopsychology */[[User:JCW-CleanerBot#Logic|task]], replaced: Pharmacology, Biochemistry and Behavior → Pharmacology Biochemistry and Behavior using [[Project:AWB|AWB]];813158213;813158833;2017-12-02T03:51:13Z;JCW-CleanerBot
+2017-12-01T00:00:00Z;;806519202;812552336;2017-11-28T14:07:12Z;JonathanHopeThisIsUnique
+2017-11-01T00:00:00Z;Harmonize whitespace in citation templates (using [[User:Meteor sandwich yum/Tidy citations.js|a script]]);806519152;806519202;2017-10-22T15:24:52Z;Pkbwcgs
+2017-10-01T00:00:00Z;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Royer2356 2017!|Royer2356 2017!]] ([[User talk:Royer2356 2017!|talk]]): Bad link. (Using [[Wikipedia:Twinkle|Twinkle]];803135944;803136263;2017-09-30T17:45:05Z;FlightTime
+2017-09-01T00:00:00Z;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Sohagpaul|Sohagpaul]] ([[User talk:Sohagpaul|talk]]): The magazine is already mentioned in the other part. ([[WP:TW|TW]]);798172126;798172950;2017-08-31T11:34:00Z;Jchmrt
+2017-08-01T00:00:00Z;Correct unknown or deprecated {{Reflist}} parameters (the template is now responsive) and genfixes using [[Project:AWB|AWB]];793123117;793264870;2017-07-31T17:43:05Z;TAnthony

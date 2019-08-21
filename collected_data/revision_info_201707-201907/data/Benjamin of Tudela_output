@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Fix links to [[President]] (via [[WP:JWB]]);884389756;903859630;2019-06-28T11:47:48Z;Certes
+2019-06-01T00:00:00Z;;Add: doi. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;881566152;884389756;2019-02-21T09:22:01Z;Citation bot
+2019-05-01T00:00:00Z;;Add: doi. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;881566152;884389756;2019-02-21T09:22:01Z;Citation bot
+2019-04-01T00:00:00Z;;Add: doi. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;881566152;884389756;2019-02-21T09:22:01Z;Citation bot
+2019-03-01T00:00:00Z;;Add: doi. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;881566152;884389756;2019-02-21T09:22:01Z;Citation bot
+2019-02-01T00:00:00Z;;"Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:rsjaffe|rsjaffe]]; [[Category:Medieval_Spanish_Jews]].";877842171;880637415;2019-01-28T15:09:29Z;Citation bot
+2019-01-01T00:00:00Z;;Alter: isbn. Add: doi-broken-date. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;866612586;874709046;2018-12-21T01:41:59Z;Citation bot
+2018-12-01T00:00:00Z;;;866612535;866612586;2018-10-31T12:24:18Z;Asarelah
+2018-11-01T00:00:00Z;;;866612535;866612586;2018-10-31T12:24:18Z;Asarelah
+2018-10-01T00:00:00Z;;Connected two sentence fragments;847232388;850247754;2018-07-14T18:17:30Z;71.178.166.126
+2018-09-01T00:00:00Z;;Connected two sentence fragments;847232388;850247754;2018-07-14T18:17:30Z;71.178.166.126
+2018-08-01T00:00:00Z;;Connected two sentence fragments;847232388;850247754;2018-07-14T18:17:30Z;71.178.166.126
+2018-07-01T00:00:00Z;;cleanup;837590924;847232388;2018-06-23T20:56:39Z;CitationCleanerBot
+2018-06-01T00:00:00Z;;fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]];834122204;837590924;2018-04-21T20:03:13Z;Gog the Mild
+2018-05-01T00:00:00Z;;fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]];834122204;837590924;2018-04-21T20:03:13Z;Gog the Mild
+2018-04-01T00:00:00Z;;Removed invisible unicode characters + other fixes ([[User:Yobot/55|Task 55]]), replaced: → using [[Project:AWB|AWB]] (12151);832698021;832740702;2018-03-27T19:06:58Z;Yobot
+2018-03-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);814108702;817496735;2017-12-28T19:45:48Z;KolbertBot
+2018-02-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);814108702;817496735;2017-12-28T19:45:48Z;KolbertBot
+2018-01-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);814108702;817496735;2017-12-28T19:45:48Z;KolbertBot
+2017-12-01T00:00:00Z;;;808896310;808905640;2017-11-05T23:03:22Z;Cmarratta
+2017-11-01T00:00:00Z;;/* Journey */;793261634;796662148;2017-08-22T09:56:21Z;77.127.90.41
+2017-10-01T00:00:00Z;;/* Journey */;793261634;796662148;2017-08-22T09:56:21Z;77.127.90.41
+2017-09-01T00:00:00Z;;/* Journey */;793261634;796662148;2017-08-22T09:56:21Z;77.127.90.41
+2017-08-01T00:00:00Z;;/* Further reading */;793261588;793261634;2017-07-31T17:19:29Z;159.237.12.32

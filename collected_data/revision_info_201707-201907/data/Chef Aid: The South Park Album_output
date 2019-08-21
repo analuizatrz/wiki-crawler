@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (3×/2×);";855841106;903403192;2019-06-25T14:04:23Z;Monkbot
+2019-06-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2019-05-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2019-04-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2019-03-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2019-02-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2019-01-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2018-12-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2018-11-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2018-10-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2018-09-01T00:00:00Z;;Genre;847201759;855841106;2018-08-21T05:49:14Z;189.94.102.118
+2018-08-01T00:00:00Z;;(Task 5 - Removal of succession box as per [[Wikipedia:Manual of Style/Record charts]];844736506;847201759;2018-06-23T16:46:00Z;RonBot
+2018-07-01T00:00:00Z;;(Task 5 - Removal of succession box as per [[Wikipedia:Manual of Style/Record charts]];844736506;847201759;2018-06-23T16:46:00Z;RonBot
+2018-06-01T00:00:00Z;;Reverted edits by [[Special:Contributions/46.103.43.130|46.103.43.130]] ([[User talk:46.103.43.130|talk]]) ([[WP:HG|HG]]) (3.1.22);842654187;842654231;2018-05-23T20:09:41Z;Shellwood
+2018-05-01T00:00:00Z;;Repairing [[Category:Music infoboxes with deprecated parameters|deprecated music infobox parameters]];831990075;837349212;2018-04-20T08:13:25Z;Jon Kolbert
+2018-04-01T00:00:00Z;;Removed deprecated parameter(s) from [[Template:Track listing]] using[[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Mistake? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #1!);813296921;831990075;2018-03-23T04:36:07Z;DeprecatedFixerBot
+2018-03-01T00:00:00Z;;/* Songs and concept */ Jokes don't deserve their own paragraph.;799656965;813296921;2017-12-02T23:11:19Z;Gohst
+2018-02-01T00:00:00Z;;/* Songs and concept */ Jokes don't deserve their own paragraph.;799656965;813296921;2017-12-02T23:11:19Z;Gohst
+2018-01-01T00:00:00Z;;/* Songs and concept */ Jokes don't deserve their own paragraph.;799656965;813296921;2017-12-02T23:11:19Z;Gohst
+2017-12-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798562442;799656965;2017-09-09T01:41:09Z;KolbertBot
+2017-11-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798562442;799656965;2017-09-09T01:41:09Z;KolbertBot
+2017-10-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798562442;799656965;2017-09-09T01:41:09Z;KolbertBot
+2017-09-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];789569534;798010559;2017-08-30T12:59:16Z;KolbertBot
+2017-08-01T00:00:00Z;;/* top */Music infobox formatting fixes using [[Project:AWB|AWB]];789193275;789569534;2017-07-08T03:57:50Z;UsuallyNonviolentBot

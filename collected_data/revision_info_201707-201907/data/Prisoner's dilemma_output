@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/18.21.166.75|18.21.166.75]] ([[User talk:18.21.166.75|talk]]): Unsourced and typos ([[WP:TW|TW]]);903613134;903613194;2019-06-26T19:01:20Z;Viewratio
+2019-06-01T00:00:00Z;;"I fixed the misplaced modifier ""only""";899644936;899724839;2019-05-31T22:34:14Z;2600:1700:71D0:6370:89EF:1B03:2EEC:5FE7
+2019-05-01T00:00:00Z;;typo;892554195;893611546;2019-04-22T14:45:45Z;ThunderTiki
+2019-04-01T00:00:00Z;;Add: pmc, pmid. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;884194520;887800394;2019-03-14T22:40:20Z;Citation bot
+2019-03-01T00:00:00Z;;Alter: template type, isbn, title. Add: title-link, pmc, pmid, doi, pages, issue, volume, journal. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].;883833901;884194520;2019-02-20T03:18:18Z;Citation bot
+2019-02-01T00:00:00Z;;/* External links */;872228684;877229617;2019-01-07T10:54:40Z;124.168.111.53
+2019-01-01T00:00:00Z;;Removed detailed names of a paper's (reference) authors. Writing authors' names in the main body of text is not a standard practice for citation.;868955080;872228684;2018-12-06T00:41:10Z;50.225.52.145
+2018-12-01T00:00:00Z;;/* Strategy for the prisoner's dilemma */ Correction of a mistake in the table, where 'cooperates' was associated with 'betrays' and 'defects' with 'remains silent'.;868825760;868955080;2018-11-15T13:52:04Z;Drovah
+2018-11-01T00:00:00Z;;/* Software */ This is already linked to en 'External links';863572764;864965858;2018-10-20T19:47:57Z;Karol Langner
+2018-10-01T00:00:00Z;;Move an external link to the proper section;860057901;860341011;2018-09-20T00:29:15Z;Karol Langner
+2018-09-01T00:00:00Z;;/* Closed-bag exchange */;851648280;851828090;2018-07-24T21:28:58Z;Davidgrundy
+2018-08-01T00:00:00Z;;/* Closed-bag exchange */;851648280;851828090;2018-07-24T21:28:58Z;Davidgrundy
+2018-07-01T00:00:00Z;;Adding 0 [[arXiv|arxiv eprint(s)]], 2 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];845861265;846727850;2018-06-20T14:46:05Z;Bibcode Bot
+2018-06-01T00:00:00Z;;/* The iterated prisoner's dilemma */;843363672;843780410;2018-05-31T12:22:18Z;Binkyuk
+2018-05-01T00:00:00Z;;Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot;837025606;837439532;2018-04-20T20:40:57Z;Nemo bis
+2018-04-01T00:00:00Z;;Reverted 3 edits by [[Special:Contributions/2001:8003:2195:A800:657C:E69A:A03B:59E0|2001:8003:2195:A800:657C:E69A:A03B:59E0]] ([[User talk:2001:8003:2195:A800:657C:E69A:A03B:59E0|talk]]): LGV. ([[WP:TW|TW]]);833019524;833155187;2018-03-29T23:36:35Z;Srich32977
+2018-03-01T00:00:00Z;;"Added a link to the economic concept of rationality; fixed grammar in the introduction and first section.";822104915;826467510;2018-02-19T08:23:45Z;JackRubenacker
+2018-02-01T00:00:00Z;;added link with HalfLinkBot (this is a fake bot, that's why it's called a half bot);820068451;822104915;2018-01-24T12:15:40Z;175.117.40.127
+2018-01-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);816284017;817690023;2017-12-30T00:05:12Z;KolbertBot
+2017-12-01T00:00:00Z;;/* External links */ Commonscat-inline template.;809949927;810617929;2017-11-16T11:10:57Z;Allforrous
+2017-11-01T00:00:00Z;;Undid revision 807202998 by [[Special:Contributions/Jaireeodell|Jaireeodell]] ([[User talk:Jaireeodell|talk]]) cite journal does not have a url field.;807202998;807397692;2017-10-27T17:59:55Z;GiovanniSidwell
+2017-10-01T00:00:00Z;;/* In fiction */italics for titles;802414314;802414431;2017-09-26T01:07:28Z;Hairy Dude
+2017-09-01T00:00:00Z;;standardize hatnote;797706964;797710515;2017-08-28T19:06:03Z;Bkonrad
+2017-08-01T00:00:00Z;;/* In sports */;793082657;793082763;2017-07-30T14:38:29Z;2601:19B:100:61A0:F090:DF6E:ACFC:8EAA

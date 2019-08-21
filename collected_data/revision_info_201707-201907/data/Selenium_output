@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;/* Isotopes */source templates NUBASE & AME 2016: use template, replaced: <ref name=nubase>{{NUBASE 2016}}</ref> → {{NUBASE2016|ref}};903727649;903729320;2019-06-27T15:57:51Z;DePiep
+2019-06-01T00:00:00Z;;/* Toxicity */;898239930;898650648;2019-05-25T01:46:55Z;72.210.96.55
+2019-05-01T00:00:00Z;;{{NUBASE 2003}};889830119;890643168;2019-04-02T16:45:59Z;Urhixidur
+2019-04-01T00:00:00Z;;+ short description;888121358;889830119;2019-03-28T06:57:15Z;Ymblanter
+2019-03-01T00:00:00Z;;clean explicit et al, gen fixes;883242177;883827039;2019-02-17T21:47:43Z;IznoRepeat
+2019-02-01T00:00:00Z;;/* Controversial health effects */ poor source;880433644;880963127;2019-01-30T16:05:23Z;Alexbrn
+2019-01-01T00:00:00Z;;/* Evolution in biology */ Fixed grammar;873545296;874390448;2018-12-18T23:21:31Z;69.120.67.207
+2018-12-01T00:00:00Z;;/* Toxicity */Remove potentially copyright violating link;863397599;867592529;2018-11-06T18:42:58Z;JzG
+2018-11-01T00:00:00Z;;/* Other uses */clean up, replaced: Physica Status Solidi (b) → Physica Status Solidi B;862473639;863397599;2018-10-10T14:49:34Z;JCW-CleanerBot
+2018-10-01T00:00:00Z;;/* Controversial health effects */clean up, replaced: Cancer Epidemiology Biomarkers & Prevention → Cancer Epidemiology, Biomarkers & Prevention;860133303;861723101;2018-09-29T15:07:18Z;JCW-CleanerBot
+2018-09-01T00:00:00Z;;/* Photoconductors */;856825485;857314897;2018-08-30T22:56:01Z;2003:DF:1F02:DD00:E4E9:3EBB:FAF5:D024
+2018-08-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta4) ([[User:Redalert2fan|Redalert2fan]]);850535187;852352451;2018-07-28T10:54:02Z;InternetArchiveBot
+2018-07-01T00:00:00Z;;Adding 0 [[arXiv|arxiv eprint(s)]], 3 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]];845065526;847556906;2018-06-26T05:51:33Z;Bibcode Bot
+2018-06-01T00:00:00Z;;[[Wikipedia:OABOT|Open access bot]]: add pmc identifier to citation with #oabot.;841600646;842509720;2018-05-22T22:37:20Z;OAbot
+2018-05-01T00:00:00Z;;"/* top */lang fix; using [[Project:AWB|AWB]]";834560823;836733984;2018-04-16T15:06:16Z;Trappist the monk
+2018-04-01T00:00:00Z;;Disambiguating links to [[Refinery (disambiguation)]] (link changed to [[Refining (metallurgy)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].;830973408;832122494;2018-03-23T23:53:53Z;Onel5969
+2018-03-01T00:00:00Z;;/* top */;826839464;826839530;2018-02-21T08:13:40Z;Espoo
+2018-02-01T00:00:00Z;;"/* Toxicity */ avoiding repetition of ""compounding""";821734453;823310060;2018-01-31T13:57:28Z;92.41.45.168
+2018-01-01T00:00:00Z;;Chemical element was spelt incorrectly;817329775;817345645;2017-12-27T19:53:28Z;86.178.22.235
+2017-12-01T00:00:00Z;;"/* Deficiency */Rep [[typographic ligature]]s like ""ﬁ"" with plain text; minimal ref cleanup; [[WP:GenFixes]] on, replaced: ﬁ → fi using [[Project:AWB|AWB]]";811971323;812670846;2017-11-29T05:13:39Z;Tom.Reding
+2017-11-01T00:00:00Z;;Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/97.43.129.247|97.43.129.247]] using [[WP:STiki|STiki]];808006151;808013153;2017-10-31T10:32:43Z;Materialscientist
+2017-10-01T00:00:00Z;;/* Nutritional sources of selenium */clean up using [[Project:AWB|AWB]];800538960;801114299;2017-09-17T19:05:51Z;JalenFolf
+2017-09-01T00:00:00Z;;Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot;795845998;798001418;2017-08-30T11:45:13Z;Nemo bis
+2017-08-01T00:00:00Z;;tobacco smoke claim - [[WP:UNDUE]] and discussion on Chemistry Talk;788179144;791020759;2017-07-17T16:29:43Z;Smokefoot

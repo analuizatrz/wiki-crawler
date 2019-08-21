@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;Short description from WikiData;896008622;896577398;2019-05-11T13:25:31Z;68.58.56.64
+2019-06-01T00:00:00Z;;Short description from WikiData;896008622;896577398;2019-05-11T13:25:31Z;68.58.56.64
+2019-05-01T00:00:00Z;;/* Workstations */;889175442;892513648;2019-04-15T01:48:33Z;75.172.10.219
+2019-04-01T00:00:00Z;;/* Subprojects */ link bio and sensors, add {{div col}};888511824;889175442;2019-03-24T00:16:32Z;MureninC
+2019-03-01T00:00:00Z;;Improve introduction;884607043;885408747;2019-02-27T21:20:58Z;2600:1015:B007:6AA5:55C:AC57:1908:28E0
+2019-02-01T00:00:00Z;;"Few if any people call it ""the BSD""; they may, however, call it the [[Berkeley Software Distribution]].";879750375;879761779;2019-01-23T06:28:38Z;Guy Harris
+2019-01-01T00:00:00Z;;Use [[Portal:Free and open-source software|Free and open-source software]] portal name (via [[WP:JWB]]);874757556;875134266;2018-12-24T01:41:53Z;Newslinger
+2018-12-01T00:00:00Z;;source official website URL from Wikidata;869533339;870612586;2018-11-25T23:28:06Z;Kiwi128
+2018-11-01T00:00:00Z;;Merge redundant sections;864791638;864792130;2018-10-19T13:59:07Z;68.39.100.192
+2018-10-01T00:00:00Z;;/* Development and release process */ Further wording improvement;861536456;861536660;2018-09-28T04:29:30Z;Tonystewart14
+2018-09-01T00:00:00Z;;;854454988;857071299;2018-08-29T11:08:45Z;24.231.204.186
+2018-08-01T00:00:00Z;;"Use {{as of}} for the ""two remote holes"" claim.";849445995;849455252;2018-07-09T04:11:11Z;Guy Harris
+2018-07-01T00:00:00Z;;add subhead;844800462;846528164;2018-06-19T09:24:33Z;ArnoldReinhold
+2018-06-01T00:00:00Z;;/* Funding */ punctuation fixes;843560745;843560869;2018-05-29T23:18:56Z;Bumm13
+2018-05-01T00:00:00Z;;Michael Lucas is a well respected author in the *BSD tech books world. Being an outsider i.e. not being a developer, his views in this youtube video should also be heard.;837275683;837633113;2018-04-22T01:32:05Z;Sklal84
+2018-04-01T00:00:00Z;;/* Licensing */Fixed typo;832031135;832236194;2018-03-24T17:58:09Z;68.57.254.129
+2018-03-01T00:00:00Z;;/* Slogan */;824725363;827327844;2018-02-24T02:31:02Z;82.16.134.40
+2018-02-01T00:00:00Z;;I added that openbsd has 7814 packages in total;821124016;821244689;2018-01-19T07:22:09Z;Sklal84
+2018-01-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798425252;799351702;2017-09-07T04:46:27Z;KolbertBot
+2017-12-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798425252;799351702;2017-09-07T04:46:27Z;KolbertBot
+2017-11-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798425252;799351702;2017-09-07T04:46:27Z;KolbertBot
+2017-10-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]];798425252;799351702;2017-09-07T04:46:27Z;KolbertBot
+2017-09-01T00:00:00Z;;"i linked an unofficial list of OpenBSD man pages in the ""External Links"" section of the article, because it is very difficult to find an actual list of OpenBSD commands on the internet.";796216898;797361392;2017-08-26T15:38:55Z;Sklal84
+2017-08-01T00:00:00Z;;"/* See also */ Put list into alphanumeric order; added {{columns-list|colwidth=30em| }}";791491893;791494399;2017-07-20T17:01:25Z;Peaceray

@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (1×/1×);";898018799;903387921;2019-06-25T12:09:38Z;Monkbot
+2019-06-01T00:00:00Z;;/* Track listing and formats */;893780767;898018799;2019-05-20T21:02:00Z;2601:142:8200:EB45:50C7:33C9:AB0B:AF76
+2019-05-01T00:00:00Z;;"Removed 6 archive links; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]";891413996;893780767;2019-04-23T14:36:57Z;GreenC bot
+2019-04-01T00:00:00Z;;/* Weekly charts */ +Poland;886436296;887254560;2019-03-11T14:22:00Z;Nowmusicfan2816
+2019-03-01T00:00:00Z;;/* Year-end charts */ -sort;870485925;870776196;2018-11-26T22:46:13Z;Nowmusicfan2816
+2019-02-01T00:00:00Z;;/* Year-end charts */ -sort;870485925;870776196;2018-11-26T22:46:13Z;Nowmusicfan2816
+2019-01-01T00:00:00Z;;/* Year-end charts */ -sort;870485925;870776196;2018-11-26T22:46:13Z;Nowmusicfan2816
+2018-12-01T00:00:00Z;;/* Year-end charts */ -sort;870485925;870776196;2018-11-26T22:46:13Z;Nowmusicfan2816
+2018-11-01T00:00:00Z;;/* Critical reception */ rm clear - results in a gap;858351808;864022106;2018-10-14T16:20:05Z;Launchballer
+2018-10-01T00:00:00Z;;;856716426;858351808;2018-09-06T15:11:11Z;Cuchullain
+2018-09-01T00:00:00Z;;Substituted [[Template:Infobox single]] or one of its redirects using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #6! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 6|BRFA]]);853018644;856716426;2018-08-27T03:40:01Z;DeprecatedFixerBot
+2018-08-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485);851230364;851349310;2018-07-21T17:45:47Z;KolbertBot
+2018-07-01T00:00:00Z;;Music video links are preferred in EL section per [[Template:YouTube]];847356958;847638540;2018-06-26T19:21:03Z;Nowmusicfan2816
+2018-06-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.5) ([[User:FA RotBot|FA RotBot]]);839810501;843085205;2018-05-26T19:41:56Z;InternetArchiveBot
+2018-05-01T00:00:00Z;;;830234669;836552398;2018-04-15T13:40:22Z;24.154.51.97
+2018-04-01T00:00:00Z;;/* Chart performance */ Added specific UK info;825017218;830234669;2018-03-13T16:07:33Z;Nowmusicfan2816
+2018-03-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);815003261;825017218;2018-02-11T00:17:49Z;KolbertBot
+2018-02-01T00:00:00Z;;/* Charts */ +NZ YEC;811292680;815003261;2017-12-12T04:34:09Z;Bisbis
+2018-01-01T00:00:00Z;;/* Charts */ +NZ YEC;811292680;815003261;2017-12-12T04:34:09Z;Bisbis
+2017-12-01T00:00:00Z;;/* Chart performance */;803322248;811292680;2017-11-20T18:36:19Z;72.18.39.26
+2017-11-01T00:00:00Z;;"/* Track listing and formats */ some fixes; rmv incorrect wikilink";802961686;803322248;2017-10-01T20:10:41Z;SnapSnap
+2017-10-01T00:00:00Z;;Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.4) ([[User:FA RotBot|FA RotBot]]);800782257;802961686;2017-09-29T15:55:39Z;InternetArchiveBot
+2017-09-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];791367066;797840142;2017-08-29T13:36:02Z;KolbertBot
+2017-08-01T00:00:00Z;;;781280480;791367066;2017-07-19T20:00:08Z;BlaccCrab

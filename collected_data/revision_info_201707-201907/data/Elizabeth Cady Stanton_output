@@ -1,0 +1,25 @@
+access;revision.anon;revision.comment;revision.parentid;revision.revid;revision.timestamp;revision.user
+2019-07-01T00:00:00Z;;"/* top */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/1×);";901726397;903484920;2019-06-26T00:11:45Z;Monkbot
+2019-06-01T00:00:00Z;;Reverted edits by [[Special:Contribs/24.148.119.39|24.148.119.39]] ([[User talk:24.148.119.39|talk]]) to last version by Oleg Alexandrov;898345608;898345655;2019-05-22T23:13:21Z;Shellwood
+2019-05-01T00:00:00Z;;Reverted 1 edit by [[Special:Contributions/72.84.219.248|72.84.219.248]] ([[User talk:72.84.219.248|talk]]) to last revision by DMacks ([[WP:TW|TW]]);894938352;894938567;2019-04-30T23:34:30Z;DisillusionedBitterAndKnackered
+2019-04-01T00:00:00Z;;Reverted 2 edits by [[Special:Contributions/2600:387:6:902:0:0:0:12|2600:387:6:902:0:0:0:12]] ([[User talk:2600:387:6:902:0:0:0:12|talk]]) to last revision by S0091 ([[WP:TW|TW]]);889590041;889592007;2019-03-26T17:47:28Z;KylieTastic
+2019-03-01T00:00:00Z;;"Adding local [[Wikipedia:Short description|short description]]: ""American suffragist"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])";885453649;885453769;2019-02-28T03:13:24Z;Onel5969
+2019-02-01T00:00:00Z;;Correction;880564664;880962898;2019-01-30T16:03:51Z;Didi43
+2019-01-01T00:00:00Z;;/* Childhood and family background */Filler words;872231994;873926395;2018-12-16T00:06:55Z;183.89.193.2
+2018-12-01T00:00:00Z;;add template 'Elizabeth Cady Stanton';868217178;868854098;2018-11-14T21:43:47Z;Randy Kryn
+2018-11-01T00:00:00Z;;"standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS fixes";863020231;863874910;2018-10-13T17:11:29Z;Hmains
+2018-10-01T00:00:00Z;;Undid revision 859884256 by [[Special:Contributions/IOnlyKnowFiveWords|IOnlyKnowFiveWords]] ([[User talk:IOnlyKnowFiveWords|talk]]) that's just POV revisionism. Stanton never expressed support for socialism. She was conservative and openly racist by the end of her life.;859884256;859902395;2018-09-17T01:33:58Z;Namiba
+2018-09-01T00:00:00Z;;rv unreferenced edit;857269941;857440988;2018-08-31T18:22:57Z;Oshwah
+2018-08-01T00:00:00Z;;removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]]);849850439;851091534;2018-07-20T00:41:19Z;DumbBOT
+2018-07-01T00:00:00Z;;cleanup;837240903;847666545;2018-06-26T23:49:46Z;CitationCleanerBot
+2018-06-01T00:00:00Z;;Adding {{pp-vandalism}};837240896;837240903;2018-04-19T15:57:00Z;Courcelles
+2018-05-01T00:00:00Z;;Adding {{pp-vandalism}};837240896;837240903;2018-04-19T15:57:00Z;Courcelles
+2018-04-01T00:00:00Z;;Undid revision 830963157 by [[Special:Contributions/2602:306:3648:6250:78A9:4A25:739A:E086]]Original was correct;830963157;830971496;2018-03-18T00:27:45Z;Bilpen
+2018-03-01T00:00:00Z;;/* Education and intellectual development */;823623508;825037784;2018-02-11T03:11:48Z;Shamoluck
+2018-02-01T00:00:00Z;;Reverted edits by [[Special:Contributions/2602:306:B813:38E0:1C97:329C:1D5C:78D3|2602:306:B813:38E0:1C97:329C:1D5C:78D3]] ([[User talk:2602:306:B813:38E0:1C97:329C:1D5C:78D3|talk]]) ([[WP:HG|HG]]) (3.3.3);819938616;819940538;2018-01-12T04:25:18Z;Oshwah
+2018-01-01T00:00:00Z;;Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481);817604481;817688735;2017-12-29T23:55:00Z;KolbertBot
+2017-12-01T00:00:00Z;;"/* Education and intellectual development */ Altered text to match the cited sources, including spelling ""mathematics"" with the first letter in lower case.";812295564;812384361;2017-11-27T15:41:54Z;Bilpen
+2017-11-01T00:00:00Z;;/* Early activism in the women's rights movement */ Removed recently added paragraph that duplicated material that was already in the article;807970809;808031365;2017-10-31T13:27:12Z;Bilpen
+2017-10-01T00:00:00Z;;Undid revision 802535856 by [[Special:Contributions/Skylerhilly|Skylerhilly]] ([[User talk:Skylerhilly|talk]]) rvv;802535856;802536968;2017-09-26T19:58:43Z;Smmurphy
+2017-09-01T00:00:00Z;;Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]];796307084;797428025;2017-08-27T00:29:24Z;KolbertBot
+2017-08-01T00:00:00Z;;link [[Alma Lutz]] using [[:en:User:Edward/Find link|Find link]];792665683;793224312;2017-07-31T12:17:26Z;Elisa.rolle
