@@ -7,6 +7,9 @@ import requests
 import os
 import csv
 
+def log(str):
+    print(str)
+
 class CheckTime(object):
     def __init__(self):
         self.time = datetime.now()
@@ -18,11 +21,11 @@ class CheckTime(object):
         self.time = datetime.now()
         return delta
 
-    def print_delta(self,task):
+    def log_delta(self,task):
         delta = self.finish_time()
         self.total_time += delta.total_seconds()
         self.delta_count += 1
-        print(task+" done in "+str(delta.total_seconds())+" average: "+str(self.total_time/self.delta_count))
+        log(task+" done in "+str(delta.total_seconds())+" average: "+str(self.total_time/self.delta_count))
 
 def date_range_monthly(date_start, date_end):
         return pd.date_range(date_start, date_end, freq='MS').strftime("%Y-%m-%dT%H:%M:%SZ").tolist()[::-1]
@@ -141,7 +144,7 @@ def collect(title, date_start, date_end):
         revisions_info = revisions_info + new_revisions_info
 
     if next_date is not None and next_date > date_end:
-        print(f"ERROR:{title} não coletado até o final\n")
+        log(f"ERROR:{title} não coletado até o final\n")
 
     return json_normalize(revisions_info)
 
@@ -166,26 +169,26 @@ def collect_all(titles, date_start, date_end, folder_to_save):
 
     while(len(remaning_to_collect) > 0):
         title = remaning_to_collect.pop(0)
-        objTime.print_delta(f"Remaining: {len(remaning_to_collect)+1} collecting now: '{title}'")
+        objTime.log_delta(f"Remaining: {len(remaning_to_collect)+1} collecting now: '{title}'")
 
         try:
             result = collect(title, date_start, date_end)
-            result.to_csv(f"{folder_data}/{title}_output", index = None, header = True, quoting=csv.QUOTE_NONNUMERIC)
+            result.to_csv(f"{folder_data}/{title}", index = None, header = True, quoting=csv.QUOTE_NONNUMERIC)
             status["collected_pages"].append(title)
             write_json(file_collected, status)
         except:
             append_file(file_error, title)
-            print(f"ERROR:{title}\n")
+            log(f"ERROR:{title}\n")
             time.sleep(2)
         time.sleep(1)
-    print(f"Tempo total : {objTime.total_time}")
+    log(f"Tempo total : {objTime.total_time}")
 
 def run_collect_all():
     date_start = "2009-01-03T00:00:00Z"
     date_end = "2007-01-03T00:00:00Z"
 
     base_folder = "/home/ana/Documents/tcc-web-crawler"
-    folder_to_save = f"{base_folder}/collected_data/erros_partially_revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}"
+    folder_to_save = f"{base_folder}/collected_data/revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}"
     input_file = f"{base_folder}/poc_wikimedia_revision/wikipedia_dataset_hasan/wikipedia.csv"
 
     create_folder_if_does_not_exist(folder_to_save) 
