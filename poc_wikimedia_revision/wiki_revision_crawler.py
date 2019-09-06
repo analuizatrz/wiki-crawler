@@ -7,8 +7,10 @@ import requests
 import os
 import csv
 
+file_log = "log.csv"
 def log(str):
     print(str)
+    append_file(file_log, str)
 
 class CheckTime(object):
     def __init__(self):
@@ -161,6 +163,7 @@ def collect_all(titles, date_start, date_end, folder_to_save):
 
     create_file_if_does_not_exist(file_error)
     create_folder_if_does_not_exist(folder_data)
+    create_folder_if_does_not_exist(file_log)
 
     already_collected_pages = set(status["collected_pages"])
     remaning_to_collect = [article for article in titles if article not in already_collected_pages]
