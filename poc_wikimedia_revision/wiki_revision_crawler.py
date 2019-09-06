@@ -176,6 +176,8 @@ def collect_all(titles, date_start, date_end, folder_to_save):
         except:
             append_file(file_error, title)
             print(f"ERROR:{title}\n")
+            time.sleep(2)
+        time.sleep(1)
     print(f"Tempo total : {objTime.total_time}")
 
 def run_collect_all():
@@ -188,10 +190,10 @@ def run_collect_all():
 
     create_folder_if_does_not_exist(folder_to_save) 
 
-    #dataset = pd.read_csv(input_file)
-    #titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
-    error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
-    titles = open(error_file, "r").read().split('\n')[:-1]
+    dataset = pd.read_csv(input_file)
+    titles = list(pd.DataFrame(dataset, columns = ['page_title'])['page_title'].values)
+    # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
+    # titles = open(error_file, "r").read().split('\n')[:-1]
 
     collect_all(titles, date_start, date_end, folder_to_save)
 
