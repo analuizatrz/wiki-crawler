@@ -5,6 +5,7 @@ from pandas.io.json import json_normalize
 from datetime import datetime
 import requests
 import os
+import csv
 
 class CheckTime(object):
     def __init__(self):
@@ -28,7 +29,7 @@ def date_range_monthly(date_start, date_end):
 
 def match_dates_and_revisions(dates, revisions):
     """ For each date finds the max possible revision less or equal then the date.
-        Assumes that dates and revisions are Ordered descending
+        Assumes that dates and revisions are ordered descending
 
     Parameters:
         dates (str): dates
@@ -169,7 +170,7 @@ def collect_all(titles, date_start, date_end, folder_to_save):
 
         try:
             result = collect(title, date_start, date_end)
-            result.to_csv(f"{folder_data}/{title}_output", sep=";", index=None )
+            result.to_csv(f"{folder_data}/{title}_output", index = None, header = True, quoting=csv.QUOTE_NONNUMERIC)
             status["collected_pages"].append(title)
             write_json(file_collected, status)
         except:
