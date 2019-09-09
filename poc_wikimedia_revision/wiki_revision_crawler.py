@@ -163,7 +163,7 @@ def collect_all(titles, date_start, date_end, folder_to_save):
 
     create_file_if_does_not_exist(file_error)
     create_folder_if_does_not_exist(folder_data)
-    create_folder_if_does_not_exist(file_log)
+    create_file_if_does_not_exist(file_log)
 
     already_collected_pages = set(status["collected_pages"])
     remaning_to_collect = [article for article in titles if article not in already_collected_pages]
@@ -186,7 +186,7 @@ def collect_all(titles, date_start, date_end, folder_to_save):
         time.sleep(1)
     log(f"Tempo total : {objTime.total_time}")
 
-def run_collect_all():
+def run_collect_all_revision_info():
     date_start = "2009-01-03T00:00:00Z"
     date_end = "2007-01-03T00:00:00Z"
 
@@ -210,7 +210,7 @@ def run_test():
     collect(title, date_start, date_end)
 
 if __name__ == "__main__":
-    run_collect_all()
+    run_collect_all_revision_info()
     # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
     # titles = open(error_file, "r").read().split('\n')[:-1]
     # print(len(titles))
