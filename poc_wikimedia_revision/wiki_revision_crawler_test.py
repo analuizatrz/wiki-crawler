@@ -1,10 +1,11 @@
 import unittest
 from wiki_revision_crawler import match_dates_and_revisions
 
+
 class TestWikiParser(unittest.TestCase):
 
     def call_match_dates_and_revisions(self, dates, revisions):
-        r = [ {"timestamp": x} for x in revisions]
+        r = [{"timestamp": x} for x in revisions]
         return match_dates_and_revisions(dates, r)
 
     def test_match_dates_revisions(self):
@@ -62,6 +63,7 @@ class TestWikiParser(unittest.TestCase):
         self.assertEqual(actual[0]["revision"], None)
         self.assertEqual(actual[1]["revision"], None)
         self.assertEqual(actual[2]["revision"], None)
-        
+
+
 if __name__ == '__main__':
-    unittest.main()    
+    unittest.main()
