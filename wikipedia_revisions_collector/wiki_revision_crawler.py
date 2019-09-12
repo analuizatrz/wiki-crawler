@@ -226,9 +226,6 @@ def run_collect_all_revision_info_2009_2007_errors():
     folder_to_save = f"{base_folder}/collected_data/revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}-errors"
     input_file = f"{base_folder}/collected_data/revision_info_200701-200901/errors.csv"
     create_folder_if_does_not_exist(folder_to_save)
-
-
-    #error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
     titles = open(input_file, "r").read().split('\n')[:-1]
 
     collect_all(titles, date_start, date_end, folder_to_save)
