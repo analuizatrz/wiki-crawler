@@ -34,10 +34,10 @@ python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
 - [x] coletar páginas usando api da wikipedia
 - [x] fazer poc do redirect
 - [x] coletar redirects das páginas com erro
+- [x] implementar redirect
+- [x] coletar os arquivos com erro no redirect
+- [x] incorporar o redirect na coleta automaticamente
 - [ ] refactorar
-- [ ] implementar redirect
-- [ ] coletar os arquivos com erro com o redirect
-- [ ] incorporar o redirect na coleta automaticamente
 - [ ] coletar os conteúdos
 - [ ] estruturar informações
 - [ ] estudar a extração de features
