@@ -32,7 +32,7 @@ class CheckTime(object):
         self.delta_count += 1
         log(task+" done in "+str(delta.total_seconds())+" average: "+str(self.total_time/self.delta_count))
 
-
+# TODO unit test this method
 def date_range_monthly(date_start, date_end):
     return pd.date_range(date_start, date_end, freq='MS').strftime("%Y-%m-%dT%H:%M:%SZ").tolist()[::-1]
 
@@ -116,6 +116,7 @@ def get_revisions_info(title, date_start, date_end, rvcontinue=None):
         "rvstart": date_start,
         "rvend": date_end,
         "rvdir": "older",
+        'redirects' : 1
     }
     if rvcontinue is not None:
         params["rvcontinue"] = rvcontinue
@@ -123,7 +124,6 @@ def get_revisions_info(title, date_start, date_end, rvcontinue=None):
     response = S.get(url=URL, params=params)
 
     return response.json()
-
 
 def read_json(file_name):
     with open(file_name, 'r') as fp:
@@ -203,7 +203,7 @@ def collect_all(titles, date_start, date_end, folder_to_save):
     log(f"Tempo total : {objTime.total_time}")
 
 
-def run_collect_all_revision_info():
+def run_collect_all_revision_info_2009_2007():
     date_start = "2009-01-03T00:00:00Z"
     date_end = "2007-01-03T00:00:00Z"
 
@@ -215,11 +215,23 @@ def run_collect_all_revision_info():
 
     dataset = pd.read_csv(input_file)
     titles = list(pd.DataFrame(dataset, columns=['page_title'])['page_title'].values)
-    # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
-    # titles = open(error_file, "r").read().split('\n')[:-1]
 
     collect_all(titles, date_start, date_end, folder_to_save)
 
+def run_collect_all_revision_info_2009_2007_errors():
+    date_start = "2009-01-03T00:00:00Z"
+    date_end = "2007-01-03T00:00:00Z"
+
+    base_folder = "/home/ana/Documents/tcc-web-crawler"
+    folder_to_save = f"{base_folder}/collected_data/revision_info_{date_end[0:4]}{date_end[5:7]}-{date_start[0:4]}{date_start[5:7]}-errors"
+    input_file = f"{base_folder}/collected_data/revision_info_200701-200901/errors.csv"
+    create_folder_if_does_not_exist(folder_to_save)
+
+
+    #error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
+    titles = open(input_file, "r").read().split('\n')[:-1]
+
+    collect_all(titles, date_start, date_end, folder_to_save)
 
 def run_test():
     title = "Dypsis onilahensis"
@@ -227,9 +239,9 @@ def run_test():
     date_end = "2007-01-03T00:00:00Z"
     collect(title, date_start, date_end)
 
-
 if __name__ == "__main__":
-    run_collect_all_revision_info()
+    run_collect_all_revision_info_2009_2007_errors()
+    #run_collect_all_revision_info_2009_2007()
     # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
     # titles = open(error_file, "r").read().split('\n')[:-1]
     # print(len(titles))

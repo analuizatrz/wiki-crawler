@@ -19,6 +19,12 @@ conda activate base
 conda activate tcc
 conda install <name>
 
+### tools
+refactoring with rope
+unit testing with unittest
+formatting with autopep8
+linting with pylint
+
 ### Rodando testes
 Para rodar os testes que estão sendo executados na POC basta seguir o comando abaixo
 python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
@@ -27,7 +33,7 @@ python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
 - [x] fazer uma poc da api da wikipedia
 - [x] coletar páginas usando api da wikipedia
 - [x] fazer poc do redirect
-- [ ] coletar redirects das páginas com erro
+- [x] coletar redirects das páginas com erro
 - [ ] refactorar
 - [ ] implementar redirect
 - [ ] coletar os arquivos com erro com o redirect
