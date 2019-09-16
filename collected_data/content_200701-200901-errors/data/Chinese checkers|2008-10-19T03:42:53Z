@@ -1,0 +1,69 @@
+'''Chinese Checkers''' is a [[board game]] that can be played by two to six people.  It is a variant of [[Halma]]; the objective of the game is to place one's pieces in the corner opposite their starting position of a pitted [[hexagram]] by single moves or jumps over other pieces.
+
+== Essentials ==
+
+The Chinese Checkers board has 121 indentations arranged to form a six-pointed star much like a regular hexagram, with ten such spots within each [[triangle|triangular]] star-point of the hexagram, and 61 within its [[hexagon]].  The game pieces are usually six sets of colored pieces (typically [[marbles]]), ten of each color.  Each set of ten pieces begins placed in the spots of one of the star-points.<ref name="Johns">Bernardo Johns, Stephanie; ''The Ethnic Almanac''. Doubleday Publishing (1981). ISBN 0385141432</ref>  Play rotates amongst contestants in fixed order, each player making one move before the next player.  A piece moves either to an adjacent spot or, by a “jump” over an opponent's piece, to a spot two places removed.  The objective of the game is to place one's pieces in the opposite corner.
+
+== History ==
+
+Despite being called “Chinese Checkers”, this game does not originate from [[China]] or any part of [[Asia]]. Chinese Checkers is also not a variation of [[Draughts|checkers]].  The game itself was invented in Germany in 1893 under the name “Stern-Halma”, as a variation on the older American game of [[Halma]].<ref name="Johns" /> The “Stern” ([[German language|German]] for ''star'') refers to the star-shape of the board (in contrast with the square board of Halma).  The ''name'' “Chinese checkers” originated in the [[United States]], when an American tried to make the game sound more exotic.
+
+(The game was mostly introduced to Chinese-speaking regions by the Japanese.<ref name="Johns" />)
+
+==Hop across==
+[[Image:Chinese checkers jump.png|thumb|180px|Standard jumps can have multiple hops, but each hop must be directly adjacent.]]
+In the "hop across" variation, each player puts his or her own colored marbles on one corner of the star and attempts to relocate them all to the opposite corner. Players take turns moving one marble, either a single step or a chain of one or more hops. A step consists of moving a marble to an adjacent unoccupied space in any of the six directions. In the diagram at right, Green might move the topmost marble one space down and to the left. A hop consists of jumping over a single adjacent marble, either one's own or an opponent's, to an unoccupied space directly opposite. In the diagram at right, Red might advance the indicated marble by a chain of three hops in a single move. It is not mandatory to advance the marble by as many hops as is possible in the chain. In some instances a player may choose to stop the move part way through the chain to impede the opponent's progress or to align their marbles for future moves.
+
+The basic strategy is to find the longest hopping path instead of moving step by step. However, since one or more players can make use of whatever hopping ladders an opponent creates, more advanced strategy requires a player hindering opposing players in addition to helping himself or herself. Of equal importance are the players' strategies for emptying and filling their origin and destination triangles. Games between experts are rarely decided by more than a couple of moves.
+
+In the fast-paced variant, which is played mainly in [[Hong Kong]], game pieces may hop over ''non-adjacent'' pieces. A hop consists of jumping over a distant marble to a symmetrical position on the opposite side. For example, if there are two empty spaces between the moving marble and the marble over which it is hopping, it lands on the opposite side with a gap of two empty spaces.  As before, a single move may be a chain of hops, as shown in the diagram at left.
+
+Usually, in the fast paced version, a marble is allowed to enter into an empty corner in the middle of a series of hops but must hop out again before the move is over.
+
+Jumping over two marbles in a single hop is not allowed. For example, in the diagram at left, the green marble marked with an X could not hop in the direction of the space marked with an O.  Therefore, in this variant even more than in the original version, it is sometimes strategically important to keep one's marbles bunched in order to prevent a long opposing hop.
+
+In a five player game, the situation mimics the six player game except that one player moves toward the unoccupied corner. Because this player is in an advantageous position, usually a weaker player (e.g. a younger child) would take that position.
+
+The four player game is same as the six player game except two opposite corners are unused.
+
+In a three player game, all players play either one or two sets of marbles each. If one set is used, the game pieces are moved across the field into an empty corner. If two sets are used, each player starts with two color sets at opposite corners.
+
+[[Image:ChineseCheckersboard.jpeg|thumb|A typical game board.]]
+
+In a two player game, each player plays one, two or three sets of marbles. If one set is played, the pieces usually go into the opponent's corner. If two sets are played, the pieces can either go into the player's own opposite corners or into the opponent's corner. If three sets are played, the pieces usually go to the  opponent's corners.
+
+Each layout takes different game strategy. For example, if a player's pieces go to that player's own corner, the player can arrange his or her own pieces to serve as bridges between the two opposite ends. On the contrary, if a player's opponent occupies that player's target corner, the player might have to play a waiting game until all of the pieces are moved out.
+
+==Capture==
+In the "capture" variation all sixty game pieces are put in the [[hexagon]]al field in the center of the game board. The one hole in the center of the board is left unoccupied so that the game board starts out with a symmetrical hexagonal pattern. The players take turns hopping any game pieces over other game pieces on the board; the hopped over pieces are captured (retired from the game, as in the traditional American incarnation of Checkers) and collected in the player's bin. 
+
+At the end of the game, the player with the most captured pieces is the winner. The board is tightly packed at the start of the game; as more pieces are captured, the board frees up and multiple captures can often take place in one move. In this game, two or more players can participate. There is no upper limit to the number of players in this game, but if there are more than six players, not everyone will get a fair turn.
+
+The fast-paced version of this game allows the game pieces to catapult over multiple empty spots (just as described in hop-across above). The original version only allows small hops like in checkers.
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{wikibooks|Chinese Checkers}}
+{{commons|Chinese Checkers}}
+*[[b:Chinese Checkers|Chinese Checkers Strategy]] at Wikibooks
+*[http://www.learnplaywin.net/chinese-checkers Chinese Checkers Guide] at LearnPlayWin
+*Chinese checkers is played at [http://thinks.com/java/chinese-checkers/chinese-checkers.htm Thinks.com]
+*Chinese Checkers is played at [http://games.yahoo.com/cc Yahoo! Games]
+
+
+
+[[Category:Abstract strategy games]]
+
+[[cs:Čínská dáma]]
+[[de:Halma]]
+[[es:Damas Chinas]]
+[[fr:Dames Chinoises]]
+[[it:Dama Cinese]]
+[[ja:ダイヤモンドゲーム]]
+[[nl:Halma]]
+[[pt:Damas Chinesas]]
+[[fi:Kiinanšakki]]
+[[sv:Kinaschack]]
+[[zh:中國跳棋]]

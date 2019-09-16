@@ -1,0 +1,336 @@
+{{Chembox new
+|   Name = Ethene
+|   ImageFileL1 = Ethene structural.svg 
+|   ImageSizeL1 = 120px 
+|   ImageNameL1 = Ethylene 
+|   ImageFileR1 = Ethylene-3D-vdW.png 
+|   ImageSizeR1 = 120px 
+|   ImageNameR1 = Ethylene 
+|   IUPACName = Ethene 
+|   Name = Thermodynamic data
+| Section1 = {{Chembox Identifiers
+|   SMILES = C=C 
+|   CASNo = 74-85-1 
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>2</sub>H<sub>4</sub> 
+|   MolarMass = 28.05 g/mol 
+|   Appearance = colourless gas 
+|   Density = 1.178 g/l at 15 °C, gas <ref name="GESTIS">{{GESTIS|ZVG=12710|Name=Ethylene|Date=25 October 2007}}</ref>
+|   MeltingPt = &minus;169.2 °C <ref name="GESTIS"/>
+|   BoilingPt = &minus;103.7 °C <ref name="GESTIS"/>
+|   Dipole = zero 
+|   pKa = 44 
+  }}<!-- 
+| [[Symmetry group]]
+| D<sub>2h</sub>
+|-
+<!--New Chembox new-->
+| [[Standard enthalpy change of formation|Std enthalpy of<br />formation]] Δ<sub>f</sub>''H''°<sub>gas</sub>
+| +52.47 kJ/mol
+|-
+| [[Standard molar entropy|Standard molar<br />entropy]] ''S''°<sub>gas</sub>
+| 219.32 J·K<sup>&minus;1</sup>·mol<sup>&minus;1</sup>
+|-
+
+| [[Directive 67/548/EEC|EU classification]]
+| Extremely flammable ('''F+''')
+|-
+ -->
+| Section7 = {{Chembox Hazards
+|   NFPA-H = 1 
+|   NFPA-F = 4 
+|   NFPA-R = 2 
+|   FlashPt = Flammable gas 
+  }}
+| Section8 = {{Chembox Related
+|   OtherCpds = [[Ethane]]; [[Acetylene]]}}
+}}
+'''Ethylene''' (or [[IUPAC]] name '''ethene''') is the [[chemical compound]] with the formula C<sub>2</sub>H<sub>4</sub>. It is the simplest [[alkene]].  Because it contains a double bond, ethylene is called an ''unsaturated hydrocarbon'' or an ''olefin''.  It is extremely important in industry and even has a role in biology as a [[hormone]].<ref name=Wang_2002>{{cite journal | author = Wang K, Li H, Ecker J | title = Ethylene biosynthesis and signaling networks. | journal = Plant Cell | volume = 14 Suppl | issue = | pages = S131-51 | year = | id = PMID 12045274}}</ref> Ethylene is the most produced [[organic compound]] in the world; global production of ethylene exceeded 75 million metric tonnes per year in 2005.<ref>“Production: Growth is the Norm” Chemical and Engineering News, July 1 0, 2006, p. 59.</ref>
+
+==Structure==
+This [[hydrocarbon]] has four [[hydrogen]] [[atom]]s bound to a pair of [[carbon]] atoms that are connected by a [[double bond]].  All six atoms that comprise ethylene are [[coplanar]].  The H-C-H [[angle]] is 117°, close to the 120° for ideal sp² [[hybridization (chemistry)|hybridized]] carbon.  The molecule is also relatively rigid: rotation about the C-C bond is a high energy process that requires breaking the π-bond, while retaining the σ-bond between the carbon atoms.
+
+The double bond is a region of high [[electron density]], and most reactions occur at this double bond position.
+
+==History==
+From [[1795]] on, ethylene was referred to as the ''olefiant gas'' (oil-making gas), because it combined with [[chlorine]] to produce the ''oil of the Dutch chemists'' ([[1,2-Dichloroethane|1,2-dichloroethane]]), first synthesized in 1795 by a collaboration of four [[Netherlands|Dutch]] chemists.
+
+In the mid-19th century, the suffix ''-ene'' (an Ancient Greek root added to the end of female names meaning "daughter of") was widely used to refer to a molecule or part thereof that contained one fewer hydrogen atoms than the molecule being modified.  Thus, ''ethylene'' (C<sub>2</sub>H<sub>4</sub>) was the "daughter of [[ethyl]]" (C<sub>2</sub>H<sub>5</sub>).  The name ethylene was used in this sense as early as [[1852]].
+
+In [[1866]], the [[Germany|German]] chemist [[August Wilhelm von Hofmann]] proposed a system of hydrocarbon nomenclature in which the suffixes -ane, -ene, -ine, -one, and -une were used to denote the hydrocarbons with 0, 2, 4, 6, and 8 fewer hydrogens than their parent [[alkane]][http://www.chem.yale.edu/~chem125/125/history99/5Valence/Nomenclature/Hofmannaeiou.html].  In this system, ethylene became ''ethene''.  Hofmann's system eventually became the basis for the Geneva nomenclature approved by the International Congress of Chemists in [[1892]], which remains at the core of the [[IUPAC]] nomenclature.  However, by that time, the name ethylene was deeply entrenched, and it remains in wide use today, especially in the chemical industry.
+
+The 1979 IUPAC nomenclature rules make an exception for retaining the non-systematic name ethylene<ref>[http://www.acdlabs.com/iupac/nomenclature/79/r79_53.htm#a_3__1 IUPAC nomenclature rule A-3.1 (1979)]</ref>, however, this decision was reversed in the 1993 rules<ref>[http://www.acdlabs.com/iupac/nomenclature/93/r93_684.htm Footnote to IUPAC nomenclature rule R-9.1, table 19(b)]</ref>.
+
+==Production==
+Ethylene is produced in the [[petrochemical]] industry by [[steam cracking|integration]].  In this process, gaseous or light liquid hydrocarbons are briefly heated to 750&ndash;950 °C, inducing numerous [[free radical]] [[chemical reaction|reactions]].  This process converts large hydrocarbons into smaller ones and introduces unsaturation.  Ethylene is separated from the resulting complex mixture by repeated [[Physical compression|compression]] and [[distillation]].  In a related process used in oil refineries, high molecular weight hydrocarbons are cracked over [[Zeolite]] catalysts.  Heavier  feedstocks, such as naphtha and gas oils require at least two "quench towers" downstream of the cracking furnaces to recirculate pyrolysis-derived gasoline and process water. When cracking a mixture of ethane and propane, only one water quench tower is required.<ref name=Keystone>Ethylene Keystone to the Petrochemical Industry. Kniel, Ludwig (1980). New York: Marcel Dekker. ISBN 0-8247-6914-7</ref>
+
+{{reqdiagram}}
+The areas of an ethylene plant are: 
+# steam cracking furnaces; 
+# primary and secondary heat recovery with quench; 
+# a dilution steam recycle system between the furnaces and the quench system; 
+# primary compression of the cracked gas (3 stages of compression); 
+# hydrogen sulfide and carbon dioxide removal (acid gas removal); 
+# secondary compression (1 or 2 stages); 
+# drying of the cracked gas; 
+# cryogenic treatment; 
+# all of the cold cracked gas stream goes to the demethanizer tower. The overhead stream from the demethanizer tower consists of all the hydrogen and methane that was in the cracked gas stream. Different methods of cryogenically treating this overhead stream results in the separation of the hydrogen and the methane. This usually involves liquid methane at a temperature around -250 degrees F. Complete recovery of all the methane is critical to the economical operation of an ethylene plant. Often one or two [[Turboexpander]]s are used for [[Methane]] recovery from the demethanizer overhead stream.
+# the bottom stream from the demethanizer tower goes to the deethanizer tower. The overhead stream from the deethanizer tower consists of all the C<sub>2,</sub>'s that were in the cracked gas stream. The C<sub>2</sub>'s then go to a C<sub>2</sub> splitter. The product ethylene is taken from the overhead of the tower and the ethane coming from the bottom of the splitter is recycled to the furnaces to be cracked again; 
+# the bottom stream from the deethanizer tower goes to the depropanizer tower. The overhead stream from the depropanizer tower consists of all the C<sub>3</sub>'s that were in the cracked gas stream. Prior to sending the C<sub>3</sub>'s to the C<sub>3</sub> splitter this stream is hydrogenated in order to react out the methylacetylene and propadiene. Then this stream is sent to the C<sub>3</sub> splitter. The overhead stream from the C<sub>3</sub> splitter is product propylene and the bottom stream from the C<sub>3</sub> splitter is propane which can be sent back to the furnaces for cracking or used as fuel. 
+# The bottom stream from the depropanizer tower is fed to the debutanizer tower. The overhead stream from the debutanizer is all of the C<sub>4</sub>'s that was in the cracked gas stream. The bottom stream from the debutanizer consists of everything in the cracked gas stream that is C<sub>5</sub> or heavier. This could be called a light pyrolysis gasoline.<ref name=Keystone/>
+
+Since the production of ethylene is energy intensive, much effort has been dedicated recovering heat from the gas leaving the furnaces.  Most of the energy recovered from the cracked gas is used to make high pressure (1200 psig) steam. This steam is in turn used to drive the turbines for compressing cracked gas, the propylene refrigeration compressor, and the ethylene refrigeration compressor. An ethylene plant, once running, does not need to import any steam to drive its steam turbines. A typical world scale ethylene plant (about 1.5 billion pounds of ethylene per year) uses a 45,000 horsepower cracked gas compressor, a 30,000 horsepower propylene compressor, and a 15,000 horsepower ethylene compressor.
+
+When starting an ethylene plant it is important to start the cooling systems in the proper order. The cooling systems consist of Cooling Tower Water (CTW); propylene refrigeration with four or five different levels or stages. Each level corresponds to a particular pressure and temperature; and three or four stages of ethylene regfrigeration.  The CTW must be started first because the propylene system needs it to condense propylene and the ethylene refrigeration systems needs it to desuperheat high pressure ethylene. The propylene system must start next because the ethylene system needs high pressure propylene for desuperheating the high pressure ethylene stage and the low pressure propylene stage for condensing the high pressure ethylene. While the ethylene plant is running, the plant can continue to run for a time if the ethylene refrigeration compressor shuts down. However, if the propylene compressor shuts down the whole plant must be shut down immediately.<ref name=Keystone/>
+
+===Laboratory preparation===
+Ethylene can be conveniently produced in the laboratory by distilling absolute [[ethanol]] with an excess of concentrated [[sulfuric acid]] and washing the distillate vapor stream in an [[aqueous]] solution of [[sodium hydroxide]] to remove the [[sulfur dioxide]] contaminant.<ref>{{cite book|title=Practical Organic Chemistry (preparation 5)|author=Julius B. Cohen|publisher=Macmillan|date=1930}}</ref>
+
+==Peculiarity of spectrum==   
+Although ethylene is a relatively simple molecule, its [[Spectroscopy|spectrum]]<ref name=NIST_Webbook>{{cite web | title=Ethylene:UV/Visible Spectrum | work=NIST Webbook | url=http://webbook.nist.gov/cgi/cbook.cgi?ID=C74851&Units=SI&Mask=400#UV-Vis-Spec | accessdate=2006-09-27}}</ref> is considered to be one of the most difficult to explain adequately from both a theoretical and practical perspective. For this reason, it is often used as a test case in [[computational chemistry]]. Of particular note is the difficulty in characterizing the ultraviolet absorption of the molecule. Interest in the subtleties and details of the ethylene spectrum can be dated back to at least the 1950s.
+
+==Chemical reactions==
+
+Ethylene is an extremely important building block in the petrochemical industry. It can undergo many types of reactions which leads to a plethora of major chemical products. A list of some major types of reactions includes, 1) [[Polymerization]], 2) [[Oxidation]], 3) [[Halogenation]] and [[Hydrohalogenation]], 4) [[Alkylation]], 5) [[Hydration]], 6) [[Oligomerization]], 7) [[Hydroformylation|Oxo-reaction]], and 8) a ripening agent for fruits and vegetables (see Physiological responses of plants).<ref name=Keystone/> 
+
+===Additions to double bond===
+Like most alkenes, ethylene reacts with [[halogen]]s to produce  halogenated hydrocarbons1,2-C<sub>2</sub>H<sub>4</sub>X<sub>2</sub>.  It can also react with water to produce [[ethanol]], but the rate at which this happens is very slow unless a suitable [[catalyst]], such as [[phosphoric acid|phosphoric]] or [[sulfuric acid]], is used.  Under high pressure, and, in the presence of a catalytic metal ([[platinum]], [[rhodium]], [[nickel]]), [[hydrogen]] will react with ethylene to form [[ethane]]. 
+
+Ethylene is used primarily as an intermediate in the manufacture of other chemicals in the synthesis of [[monomers]]. Ethylene can be [[chlorine|chlorinated]] to produce [[1,2-Dichloroethane|1,2-dichloroethane]] (ethylene dichloride). This can be converted to [[vinyl chloride]], the monomer precursor to plastic [[polyvinyl chloride]], or combined with [[benzene]] to produce [[ethylbenzene]], which is used in the manufacture of [[polystyrene]], another important plastic.
+
+Ethylene is more reactive than alkanes because of two reasons:
+
+1. It has a double bond, one called the π-bond(pi) and one called the σ-bond (sigma). Where π-bond is weak and σ-bond is strong. The presence of the π-bond makes it a high energy molecule. Thus bromine water decolourises readily when it is added to ethylene.         
+
+2. High electron density at the double bond makes it react readily. It is broken in an [[addition reaction]] to produce many useful products.
+
+====Polymerization====
+{{main|Polyethylene}}
+Ethylene [[polymer]]izes to produce [[polyethylene]], also called ''polyethene'' or ''polythene'', the world's most widely-used plastic.
+
+Major polyethylene product groups are low density polyethylene, high density polyethylene, polyethylene copolymers, as well as ethylene-propylene co- & terpolymers.<ref name=Keystone/>
+{{seealso|Ziegler-Natta catalyst}}
+
+====Oxidation====
+Ethylene is [[oxidation|oxidized]] to produce [[ethylene oxide]], which is [[hydrolysis|hydrolysed]] to [[ethylene glycol]].  It is also a precursor to [[vinyl acetate]].
+
+{{main|Wacker process}}
+Ethylene undergoes oxidation by palladium to give [[acetaldehyde]].  This conversion was at one time a major industrial process.<ref>Elschenbroich, C.;Salzer, A. ”Organometallics : A Concise Introduction” (2nd Ed)  (2006) Wiley-VCH: Weinheim. ISBN 3-527-28165-7</ref>  The process proceeds via the initial complexation of ethylene to a Pd(II) center.
+
+Major intermediates of the [[oxidation]] of Ethylene are [[ethylene oxide]], [[acetaldehyde]], [[vinyl acetate]] and [[ethylene glycol]]. The list of products made from these intermediates is long. Some of them are: [[polyesters]], [[polyurethane]], [[morpholine]], [[ethanolamines]], [[aspirin]] and [[glycol ethers]].<ref name=Keystone/>
+
+====Halogenation and hydrohalogenation====
+Major intermediates from the [[halogenation]] and [[hydrohalogenation]] of ethylene include: [[ethylene dichloride]], [[ethyl chloride]] and [[ethylene dibromide]]. Some products in this group are: [[polyvinyl chloride]], [[trichloroethylene]], [[perchloroethylene]], [[methyl chloroform]], [[polyvinylidiene chloride]] and [[copolymers]], and [[ethyl bromide]].<ref name=Keystone/>
+
+====Alkylation====
+Major chemical intermediates from the [[alkylation]] of ethylene include: [[ethylbenzene]], ethyl [[toluene]], ethyl anilines, 1,4-hexadiene and [[aluminum]] alkyls. Products of these intermediates include [[polystyrene]], unsaturated [[polyesters]] and ethylene-propylene [[copolymers|terpolymers]].<ref name=Keystone/>
+
+====Hydration====
+[[Ethanol]] is the primary intermediate of the [[hydration]] of ethylene. Important products from ethanol are: [[ethylamines]], [[yeast]], [[acetaldehyde]], and [[ethyl acetate]].<ref name=Keystone/>
+
+====Oligomerization====
+The primary products of the [[Oligomerization]] of ethylene are [[alpha-olefins]] and linear primary [[alcohols]]. These are used as [[plasticizers]] and [[surfactants]].<ref name=Keystone/>
+
+====Oxo-reaction====
+The [[Hydroformylation|Oxo-reaction]] of ethylene results in [[propionaldehyde]] with its primary products of [[propionic acid]] and [[n-propyl alcohol]].<ref name=Keystone/>
+
+===In the synthesis of fine chemicals===
+Ethylene is useful in [[organic synthesis]].<ref>Crimmins, M. T.; Kim-Meade, A. S. "Ethylene" in Encyclopedia of Reagents for Organic Synthesis (Ed: L. Paquette) 2004, J. Wiley & Sons, New York. DOI: 10.1002/047084289.</ref>  Representative reactions include [[Diels-Alder]] additions, [[ene reaction]], and arene alkylation.
+
+===Miscellaneous===
+Ethylene is found in many lip gloss products.{{Fact|date=September 2007}}
+
+Production of ethylene in [[mineral oil]]-filled transformers is a key indicator of severe localized overheating (>750 degrees C).<ref>Transformerworld Tutorial No. 3 http://www.transformerworld.co.uk/dga.htm</ref>
+
+==Ethylene as a plant hormone==
+{{Cleanup-section|date=June 2007}}
+Ethylene acts physiologically as a [[plant hormone|hormone]] in [[plant]]s.<ref name=Chow_2006>{{cite journal | author = Chow B, McCourt P | title = Plant hormone receptors: perception is everything. | journal = Genes Dev | volume = 20 | issue = 15 | pages = 1998-2008 | year = 2006 | id = PMID 16882977}}</ref><ref name="De Paepe_2005>{{cite journal | author = De Paepe A, Van der Straeten D | title = Ethylene biosynthesis and signaling: an overview. | journal = Vitam Horm | volume = 72 | issue = | pages = 399-430 | year = 2005 | id = PMID 16492477}}</ref> It exists as a gas and acts at trace levels throughout the life of the plant by stimulating or regulating the [[ripening]] of [[fruit]], the opening of [[flower]]s, and the [[abscission]] (or shedding) of [[leaves]]. Its biosynthesis starts from [[methionine]] with [[1-aminocyclopropane-1-carboxylic acid]] (ACC) as a key intermediate.
+
+===History of ethylene in plant biology===
+Ethylene has been used in practice since the ancient Africans, who would gash figs in order to stimulate ripening (wounding stimulates ethylene production by plant tissues). The ancient Chinese would burn [[incense]] in closed rooms to enhance the ripening of pears. In 1864, it was discovered that gas leaks from street lights led to stunting of growth, twisting of plants, and abnormal thickening of stems (Arteca, 1996; Salisbury and Ross, 1992). In 1901, a Russian scientist named Dimitry Neljubow showed that the active component was ethylene (Neljubow, 1901). Doubt discovered that ethylene stimulated [[abscission]] in 1917 (Doubt, 1917). It wasn't until 1934 that Gane reported that plants synthesize ethylene (Gane, 1934). In 1935, Crocker proposed that ethylene was the plant hormone responsible for fruit ripening as well as inhibition of vegetative tissues (Crocker, 1935).
+
+In 1976, William Durfsburg found that the dropping of leaves were because of ethylene gas.
+
+===Ethylene biosynthesis in plants===
+It has been shown that ethylene is produced from essentially all parts of higher plants, including leaves, stems, roots, flowers, fruits, tubers, and seedlings. 
+<blockquote> "Ethylene production is regulated by a variety of developmental and environmental factors. During the life of the plant, ethylene production is induced during certain stages of growth such as germination, ripening of fruits, abscission of leaves, and senescence of flowers. Ethylene production can also be induced by a variety of external aspects such as mechanical wounding, environmental stresses, and certain chemicals including auxin and other regulators"<ref name=Yang_1984> {{cite journal | author = Yang, S. F., and N. E. Hoffman P | title = Ethylene biosynthesis and its regulation in higher plants. | journal = Ann. Rev. Plant Physiol. | volume = 35 | pages = 155-89 | year = 1984|}}</ref></blockquote> 
+
+The biosynsthesis of the hormone starts with conversion of the amino acid methionine to S-adenosyl-L-methionine (SAM, also called Adomet) by the enzyme Met Adenosyltransferase. SAM is then converted to  1-aminocyclopropane-1-carboxylic-acid (ACC) by the enzyme ACC synthase (ACS); the activity of ACS is the rate-limiting step in ethylene production, therefore regulation of this enzyme is key for the ethylene biosynthesis. The final step requires oxygen and involves the action of the enzyme ACC-oxidase (ACO), formerly known as the Ethylene Forming Enzyme (EFE).
+
+The pathway can be represented as follows:
+
+                       Methionine --> SAM --> ACC --> Ethylene
+
+Ethylene biosynthesis can be induced by endogenous or exogenous ethylene. ACC synthesis increases with high levels of auxins, specially Indole Acetic Acid (IAA), and cytokinins. ACC synthase is inhibited by abscisic acid.
+
+===Ethylene perception in plants===
+Ethylene could be perceived by a transmembrane protein [[dimer]] complex. The first gene encoding an ethylene receptor was first cloned from ''[[Arabidopsis thaliana]]'' by Caren Chang, Elliot Meyerowitz and colleagues at the [[California Institute of Technology]]<ref> Chang et al., 1993 {{cite journal | author = Chang C, Kwok SF, Bleecker AB, Meyerowitz EM | title = Arabidopsis ethylene-response gene ETR1: similarity of product to two-component regulators. | journal = Science | volume = 262 | issue = 5133 | pages = 539-544 | year = 1993 | id = PMID 8211181}}</ref> and then in [[tomato]] by Jack Wilkinson, Harry Klee and colleagues at the [[Monsanto]] Company<ref>{{cite journal | Wilkinson JQ, Lanahan MB, Yen HC, Giovannoni JJ, Klee HJ | title = An ethylene-inducible component of signal transduction encoded by never-ripe. |journal = Science | volume = 270 | issue = 5423 | pages = 1807-1809| year = 1995  | id = PMID: 8525371}}</ref>. Ethylene receptors are encoded by multiple genes in the Arabidopsis and tomato [[genomes]]. The [[gene family]] is comprised of five receptors in Arabidopsis and six in tomato, most of which have been shown to bind ethylene. [[DNA]] sequences for ethylene receptors have also been identified in many other plant species and an ethylene binding protein has even been identified in [[Cyanobacteria]]<ref>{{cite journal | author = Mount SM, Chang C | title = Evidence for a plastid origin of plant ethylene receptor genes. | journal = Plant Physiology | volume = 130 | issue = 1 | pages 10-14 | year = 2002 | id = PMID: 12226482}}</ref>
+
+===Environmental and biological triggers of ethylene===
+Environmental cues can induce the biosynthesis of the plant hormone. Flooding, drought, chilling, wounding, and pathogen attack can induce ethylene formation in the plant. 
+
+In flooding, root suffers from lack of oxygen, or [[anoxia]], which leads to the synthesis of  [[1-Aminocyclopropane-1-carboxylic acid]] (ACC). ACC is transported upwards in the plant and then oxidized in leaves. The product, the ethylene causes [[epinasty]] of the leaves.
+
+One speculation recently put forth for epinasty [http://www.planthormones.info/epinasty.htm] is the downard pointing leaves may act as pump handles in the wind.  The ethylene may or may not additionally induce the growth of a valve in the [[xylem]], but the idea would be that the plant would harness the power of the wind to pump out more water from the roots of the plants than would normally happen with [[transpiration]].
+
+===Physiological responses of plants===
+Like the other plant hormones, ethylene is considered to have [[pleiotropic]] effects.  This essentially means that it is thought that at least some of the effects of the hormone are unrelated.  What is actually caused by the gas may depend on the tissue affected as well as environmental conditions.  In the evolution of plants, ethylene would simply be a message that was coopted for unrelated uses by plants during different periods of the evolutionary development.
+
+====List of Plant Responses to Ethylene====
+* Seedling [[triple response]], thickening and shortening of hypocotyl with pronounced apical hook.  This thought to be a seedlings reaction to an obstacle in the soil such a stone, allowing it to push past the obstruction.
+* In [[pollination]], when the pollen reaches the [[stigma]], the precursor of the ethylene, ACC, is secreted to the petal, the ACC releases ethylene with ACC oxidase.
+* Stimulates leaf and flower [[senescence]] 
+* Stimulates senescence of mature [[xylem]] cells in preparation for plant use
+* Inhibits shoot growth except in some habitually flooded plants like [[rice]]
+* Induces [[leaf abscission]]
+* Induces seed [[germination]] 
+* Induces [[root hair]] growth &ndash; increasing the efficiency of water and mineral absorption 
+* Induces the growth of [[adventitious root]]s during flooding 
+* Stimulates [[epinasty]] &ndash; leaf [[Petiole (botany)|petiole]] grows out, leaf hangs down and curls into itself 
+* Stimulates [[fruit ripening]] 
+* Induces a [[climacteric]] rise in respiration in some fruit which causes a release of additional ethylene. This can be the one bad apple in a barrel spoiling the rest phenomenon.
+* Affects neighboring individuals 
+* Disease/wounding resistance 
+* [[Triple response]] when applied to seedlings &ndash; stem elongation slows, the stem thickens, and curvature causes the stem to start growing horizontally.  This strategy is thought to allow a seedling grow around an obstacle
+* Inhibits stem growth outside of seedling stage
+* Stimulates stem and cell broadening and lateral branch growth also outside of seedling stage
+* Synthesis is stimulated by [[auxin]] and maybe [[cytokinin]] as well
+* Ethylene levels are decreased by light
+* The flooding of roots stimulates the production of ACC which travels through the [[xylem]] to the stem and leaves where it is converted to the gas
+* Interference with [[auxin]] transport (with high auxin concentrations) 
+* Inhibits [[stoma]]tal closing except in some water plants or habitually flooded ones such as some rice varieties, where the opposite occurs (conserving CO<sub>2</sub> and O<sub>2</sub>)
+* Where ethylene induces stomatal closing, it also induces stem elongation 
+* Induces flowering in [[pineapple]]s
+
+====Commercial Issues====
+Ethylene shortens the shelf life of many fruits by hastening [[fruit ripening]] and [[floral senescence]]. [[Tomatoes]], [[bananas]], and [[apples]] will ripen faster in the presence of ethylene. Bananas placed next to other fruits will produce enough ethylene to cause accelerated fruit ripening. 
+Ethylene will shorten the shelf life of cut flowers and potted plants by accelerating floral senescence and floral [[abscission]]. Flowers and plants which are subjected to stress during shipping, handling, or storage produce ethylene causing a significant reduction in floral display. Flowers affected by ethylene include [[carnation]], [[geranium]], [[petunia]], [[rose]], and many others<ref>{{cite journal | van Doorn, W | title = Effect of ethylene on flower abscission: a survey.  |journal = Annals of Botany | volume = 89 | issue = 6 | pages = 689-693| year = 2002  | id = PMID: 12102524}}</ref>. 
+
+Ethylene can cause significant economic losses for florists, markets, suppliers, and growers. Researchers have come up with several ways to inhibit ethylene, including inhibiting ethylene synthesis and inhibiting ethylene perception. Inhibiting ethylene synthesis is less effective for reducing post-harvest losses since ethylene from other sources can still have an effect. By inhibiting ethylene perception, fruits, plants and flowers don't respond to ethylene produced endogenously or from exogenous sources. Inhibitors of ethylene perception include compounds that have a similar shape to ethylene, but do not elicit the ethylene response. An example of an ethylene perception inhibitor is [[1-methylcyclopropene]] (1-MCP).    
+
+Commercial growers of [[bromeliads]], including [[pineapple]] plants, use ethylene to induce flowering. Plants can be induced to flower either be treated with the gas in a chamber or by placing a [[banana]] peel next to the plant in an enclosed area.
+
+==Effects upon humans==
+{{Refimprove|date=September 2007}}
+
+Depending on the concentration, ethylene gas can cause a pleasant odor, euphoria, [[nausea]], [[hyperglycemia]], a variety of psychological effects, [[blood pressure]] changes, [[hypoxia]], loss of consciousness, and death.
+
+===Symptoms===
+
+Ethylene has a pleasant sweet faint odor, and has a slightly sweet taste, and as it enhances fruit ripening, assists in the development of odour-active aroma volatiles (especially [[ester]]s), which are responsible for the specific smell of each kind of flower or fruit.  
+
+In mild doses, ethylene produces states of euphoria, associated with stimulus to the pleasure centres of the human brain. It has been hypothesised that human liking for the odours of flowers is due in part to a mild action of ethylene associated with the plant.{{Fact|date=September 2007}} 
+
+Exposure at 37.5% for 15 minutes may result in marked memory disturbances. Humans exposed to as much as 50% ethylene in [[air]], whereby the oxygen availability is decreased to 10%, experience a complete loss of consciousness and may subsequently die due to [[hypoxia]].
+
+Symptoms of ethylene exposure include the following.
+
+'''Mild exposure in air'''
+* Percent of O<sub>2</sub> saturation at 90%
+* Night vision decreased
+* Mild euphoria reported.
+
+'''Moderate exposure in air'''
+* Percent of O<sub>2</sub> saturation at 82 to 90%
+* Respiratory rate has compensatory increase
+* Pulse, also a compensatory increase
+* Night vision is decreased further, focus is simplified
+* Performance ability is somewhat reduced, mild distortion to speech, utterances increasingly ambiguous.
+* General alertness level is somewhat reduced to anything but central concerns
+* Symptoms may begin in those patients with pre-existing significant cardiac, pulmonary, or hematologic diseases.
+* Euphoria
+
+'''High concentration in air'''
+* Percent of O<sub>2</sub> saturation at 64 to 82%
+* Compensatory mechanisms increasingly become inadequate
+* Air hunger, gasping for breath
+* Fatigue, [[lassitude]], inability to maintain balance
+* Tunnel vision, out-of-body experiences
+* Dizziness
+* Mild to persistent headache
+* Belligerence, certainty of truth
+* Extreme euphoria, belief in capacities of the self enhanced
+* Visual acuity is reduced, dreamlike seeing of visions
+* Numbness and tingling of extremities
+* Hyperventilation
+* Distortions of judgment, abnormal or illogical inferences drawn
+* Memory loss after event
+* Increased cyanosis
+* Decreased ability for escape from toxic environment
+
+'''Very high concentration in air'''
+* Percent of O<sub>2</sub> saturation at 60 to 70% or less
+* Further deterioration in judgment and coordination may occur in 3 to 5 minutes or less
+
+'''Severe oxygen deprivation'''
+* Loss of consciousness results when the air contains about 11% of oxygen.
+* Death occurs quickly when the oxygen content falls to 8% or less.
+
+'''Very high concentrations in oxygen'''
+* Prolonged inhalation of about 85% in oxygen is slightly toxic, resulting in a slow fall in [[blood pressure]]. 
+* At about 94% in oxygen, ethylene is acutely fatal.
+
+===Medical and historical use===
+
+Ethylene has long been in use as an inhalatory anaesthetic.  When used as a surgical anaesthetic, it is always administered with oxygen with an increased risk of fire. In such cases, however, it acts as a simple, rapid anaesthetic having a quick recovery. 
+
+Many geologists and scholars believe that the famous Greek Oracle at [[Delphi]] (the [[Pythia]]) went into her trance-like state as an affect of ethylene rising from ground faults.<ref name=Roach>{{cite news|title= Delphic Oracle's Lips May Have Been Loosened by Gas Vapors|author=John Roach|publisher=National Geographic|date=August 14, 2001|url= http://news.nationalgeographic.com/news/2001/08/0814_delphioracle.html}} Retrieved on March 8, 2007</ref>
+
+===Safety===
+
+There is no evidence to indicate that prolonged exposure to ''low concentrations'' of ethylene can result in chronic effects. Prolonged exposure to high concentrations may cause permanent effects because of oxygen deprivation. Prolonged inhalation of about 85% in oxygen (a relatively high concentration) is also slightly toxic, resulting in a slow fall in [[blood pressure]]. At about 94% in oxygen, ethylene is acutely fatal.
+
+It shows little or no carcinogenic or mutagenic properties. Although there may be moderate hyperglycemia, post operative nausea - while higher than nitrous oxide - is less than in the use of [[cyclopropane]].  During the induction and early phases, blood pressure may rise a little, but this effect may be due to patient anxiety, as blood pressure quickly returns to normal.  Cardiac arrythmias are infrequent and cardio-vascular effects are benign.
+
+==See also==
+{{Alkenes}}
+{{Functional Groups}}
+{{BranchesofChemistry}}
+{{Plant_hormones}}
+
+==References==
+<references/>
+
+==External links==
+*[http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc04/icsc0475.htm International Chemical Safety Card 0475]
+*[http://ecb.jrc.it/ European Chemicals Bureau]
+*[http://www.planthormones.info Speculations Towards a General Plant Hormone Theory]
+
+[[Category:Alkenes]]
+[[Category:Plant hormones]]
+[[Category:Monomers]]
+
+{{Link FA|de}}
+[[ar:إثيلين]]
+[[bg:Етилен]]
+[[ca:Etilè]]
+[[cs:Ethen]]
+[[da:Ethen]]
+[[de:Ethen]]
+[[et:Etüleen]]
+[[el:Αιθένιο]]
+[[es:Eteno]]
+[[eo:Eteno]]
+[[fr:Éthylène]]
+[[id:Etena]]
+[[it:Etene]]
+[[he:אתן]]
+[[la:Ethenum]]
+[[lv:Etilēns]]
+[[lt:Etenas]]
+[[ms:Etena]]
+[[nl:Etheen]]
+[[ja:エチレン]]
+[[no:Etylen]]
+[[nn:Eten]]
+[[pl:Eten]]
+[[pt:Etileno]]
+[[ru:Этилен]]
+[[sk:Etén]]
+[[fi:Eteeni]]
+[[sv:Eten]]
+[[vi:Êtilen]]
+[[tr:Etilen]]
+[[uk:Етилен]]
+[[zh:乙烯]]

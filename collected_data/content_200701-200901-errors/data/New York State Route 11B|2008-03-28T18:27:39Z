@@ -1,0 +1,77 @@
+{{Infobox road
+|state=NY
+|type=NY
+|route=11B
+|length_mi=36.98
+|length_round=2
+|length_ref=<ref name=2006tdr />
+|established=1930<ref name=renum />
+|direction_a=West
+|starting_terminus=[[Image:US 11.svg|20px]] [[U.S. Route 11 (New York)|US 11]] in [[Potsdam (village), New York|Potsdam]]
+|direction_b=East
+|ending_terminus={{jct|state=NY|US|11|NY|30|NY|37}} in [[Malone (village), New York|Malone]]
+|counties=[[St. Lawrence County, New York|St. Lawrence]], [[Franklin County, New York|Franklin]]
+|spur_type=US
+|spur_of=11
+|previous_type=NY
+|previous_route=11A
+|next_type=NY
+|next_route=11C
+}}
+'''New York State Route 11B''' is a [[state highway]] in northern [[New York]], [[USA]]. NY 11B acts as a link between [[Franklin County, New York|Franklin County]] in the east and [[St. Lawrence County, New York|St. Lawrence County]] in the west. 
+
+NY 11B provides a parallel east-west route to [[U.S. Route 11 (New York)|U.S. Route 11]], but follows a more southerly path between [[Potsdam (village), New York|Potsdam]] and [[Malone (village), New York|Malone]]. The western terminus is at a junction with US 11 in the village of Potsdam. The eastern terminus is at a junction with US 11, [[New York State Route 30|NY 30]], and [[New York State Route 37|NY 37]] in the village of Malone.
+
+==History==
+The segment of modern NY 11B from [[Potsdam (village), New York|Potsdam]] to the [[Lawrence, St. Lawrence County, New York|Lawrence]] hamlet of Nicholville was originally designated as '''New York State Route 2A''' in the mid-1920s.<ref>{{cite news|title=New York's Main Highways Designated by Numbers|work=[[New York Times]]|date=[[1924-12-21]]|page=XX9}}</ref><ref name=1926map>{{cite map|url=http://www.broermapsonline.org/members/NorthAmerica/UnitedStates/Midatlantic/NewYork/unitedstates1926ra_009.html|title=Rand McNally Auto Road Atlas (eastern New York)|publisher=[[Rand McNally]]|year=1926|accessdate=2008-03-28}}</ref> When [[New York State Route 2 (1924)|NY 2]] was redesignated as [[U.S. Route 11 (New York)|U.S. Route 11]] in 1927, NY 2A was replaced with a rerouted [[New York State Route 56 (1920s)|NY 56]].<ref>''Automobile Blue Book'', (Automobile Blue Books Inc., Chicago, 1927), Vol. 1</ref> The portion of NY 56 east of Potsdam was renumbered to [[New York State Route 72|NY 72]] as part of the [[1930 renumbering (New York)|1930 renumbering]]. At the same time, NY 11B was assigned to the pre-1927 routing of NY 56 between NY 72 in Nicholville and [[U.S. Route 11 (New York)|U.S. Route 11]] in Lawrenceville.<ref name=renum>{{cite news|author=Leon A. Dickinson|title=New Signs for State Highways|work=[[New York Times]]|date=[[1930-01-12]]|page=136}}</ref><ref name=1926map /> By 1935, NY 11B was extended westward to Potsdam, creating a lengthy [[overlap (road)|overlap]] with NY 72, while a connector between NY 11B in Nicholville and US 11 in [[Malone (village), New York|Malone]] was designated '''New York State Route 187'''.<ref>{{cite map |title=Road Map & Historical Guide - New York |publisher=[[Sun Oil Company]] |year=1935 |cartography=[[Rand McNally and Company]]}}</ref> Within three years, NY 11B was rerouted again to follow the length of NY 187 to Malone.<ref name=1938gb>''Automobile Legal Association (ALA) Automobile Green Book'', 1938/39 edition, (W.A. Thibodeau, 1938).</ref>
+
+Between 1938 and 1947, NY 72 was rerouted west of the [[Hopkinton, New York|Hopkinton]] hamlet of the same name to follow its current alignment south of NY 11B, eliminating all but {{convert|2|mi|km}} of the overlap.<ref name=1938gb /><ref>{{cite map |title=Official Highway Map of New York State |publisher=[[State of New York Department of Public Works]] |edition=1947-48 |cartography=[[General Drafting]]}}</ref> It was removed entirely in the early 1970s when NY 72 was truncated to its current eastern terminus.<ref>{{cite map |title=New York Thruway |publisher=[[New York State Thruway Authority]] |cartography=[[Rand McNally and Company]] |year=1971}}</ref><ref>{{cite map |title=New York and New Jersey Tourgide<!--sic--> Map |publisher=[[Gulf Oil|Gulf]] |cartography=[[Rand McNally and Company]] |year=1974}}</ref> On [[April 1]], [[1980]], ownership and maintenance of NY 11B between Wellington Street and [[New York State Route 30|NY 30]] was transferred from the village of Malone to [[New York State]] as part of a highway maintenance swap between the state and [[Franklin County, New York|Franklin County]].<ref>{{cite web|author=[[New York State Legislature]]|url=http://public.leginfo.state.ny.us/menugetf.cgi?COMMONQUERY=LAWS|title=Highway Law, Article 12, Section 341|accessdate=2008-03-28}}</ref>
+
+==Major intersections==
+{{NYinttop|length_ref=<ref name="2006tdr">{{cite web |url=https://www.nysdot.gov/portal/page/portal/divisions/engineering/technical-services/hds-respository/06tdreport.pdf |title=2006 Traffic Data Report for New York State |date=[[2007-07-16]] |format=PDF |publisher=[[New York State Department of Transportation]] |pages=p. 108 | accessdate=2008-03-28}}</ref>}}
+{{NYint
+|county=St. Lawrence
+|cspan=3
+|mile=0.00
+|road=[[Image:US 11.svg|20px]] [[U.S. Route 11 (New York)|US 11]]
+|location=Potsdam
+|area=village
+}}
+{{NYint
+|mile=13.69
+|road=[[Image:NY-72.svg|20px]] [[New York State Route 72|NY 72]]
+|location=Hopkinton
+|lspan=2
+|notes=Northern terminus of NY 72
+}}
+{{NYint
+|mile=15.87
+|road=[[Image:NY-458.svg|25px]] [[New York State Route 458|NY 458]]
+|notes=Northern terminus of NY 458
+}}
+{{NYint
+|county=Franklin
+|cspan=2
+|type=mplex
+|mile=36.72
+|road=[[Image:NY-30.svg|20px]] [[New York State Route 30|NY 30]] south
+|location=Malone
+|area=village
+|lspan=2
+|notes=Southern terminus of overlap
+}}
+{{NYint
+|type=mplex
+|mile=36.98
+|road={{jct|state=NY|US|11|NY|30|dir2=north}}<br />[[Image:NY-37.svg|20px]] [[New York State Route 37|NY 37]]
+|notes=Northern terminus of NY 11B/30 overlap; eastern terminus of NY 37
+}}
+{{NYintbtm}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gribblenation.net/nyends/11b.html NY State Route 11B Ends]
+
+[[Category:State highways in New York|011B]]

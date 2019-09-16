@@ -1,0 +1,100 @@
+{{Chembox new
+|   Name = Phosphorus tribromide
+|   ImageFile = Phosphorus-tribromide-2D-dimensions.png
+<!-- | ImageSize = 150px -->
+|   ImageName = Phosphorus tribromide
+|   ImageFile1 = Phosphorus-tribromide-3D-vdW.png
+<!-- | ImageSize1 = 150px  -->
+|   ImageName1 = Phosphorus tribromide
+|   IUPACName = phosphorus tribromide
+|   OtherNames = phosphorus(III) bromide<br />phosphorous bromide<br />tribromophosphine
+| Section1 = {{Chembox Identifiers
+|   CASNo = 7789-60-8
+|   RTECS = TH4460000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = PBr<sub>3</sub>
+|   MolarMass = 270.70 g/mol
+|   Appearance = clear, colourless liquid
+|   Density = 2.852 g/cm<sup>3</sup>, liquid
+|   Solubility = rapid [[hydrolysis]]
+|   MeltingPt = -41.5 °C (231.7 K)
+|   BoilingPt = 173.2 °C (446.4 K)
+|   Viscosity = 
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = trigonal pyramidal
+|   Dipole =
+  }}
+| Section7 = {{Chembox Hazards
+|   MainHazards = corrosive, toxic, reactive<br />with water and alcohols
+|   FlashPt =
+|   RPhrases = 14, 34, 37
+|   SPhrases = 25, 45
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[phosphorus trifluoride]]<br />[[phosphorus trichloride]]<br />[[phosphorus triiodide]]
+|   OtherCations = [[nitrogen tribromide]]<br />[[arsenic tribromide]]<br />[[antimony tribromide]]
+|   OtherCpds = [[phosphorus pentabromide]]<br />[[phosphorus oxybromide]]
+  }}
+}}
+
+'''Phosphorus tribromide''' is a colourless liquid with the formula [[Phosphorus|P]][[Bromine|Br]]<sub>3</sub>.  It fumes in air due to [[hydrolysis]] and has a penetrating odour.  It is widely used in the laboratory for the conversion of [[alcohol]]s to [[alkyl halide|alkyl bromide]]s.
+
+==Chemical properties==
+Phosphorus tribromide, like [[Phosphorus trichloride|PCl<sub>3</sub>]] and [[Phosphorus trifluoride|PF<sub>3</sub>]], has both properties of a [[Lewis base]] and a [[Lewis acid]].  For example, with a Lewis acid such as [[boron tribromide]] it forms stable 1:1 adducts such as Br<sub>3</sub>B-PBr<sub>3</sub>.  At the same time PBr<sub>3</sub> can react as an [[electrophile]] or Lewis acid in many of its reactions, for example with [[amine]]s.
+
+The most important reaction of PBr<sub>3</sub> is with [[alcohols]], where it replaces an [[hydroxyl|OH]] group with a bromine atom to produce an [[Alkyl halide|alkyl bromide]]. Note that all three bromines can be transferred.
+:PBr<sub>3</sub>  +  3 [[Alcohol|ROH]]  →  3 [[Alkyl halide|RBr]]  +  [[Phosphorous acid|HP(O)(OH)<sub>2</sub>]]
+
+The mechanism (shown for a primary alcohol) involves initial activation of the alcohol oxygen by the electrophilic phosphorus (to form a good leaving group), followed by an [[SN2 reaction|S<sub>N</sub>2 substitution]] at the alcohol carbon.
+
+[[Image:PBr3 alcohol rxn.jpg|500px]]
+
+Because of the S<sub>N</sub>2 substitution step, the reaction generally works well for [[Alcohol#Primary, secondary and tertiary alcohols|primary and secondary alcohol]]s, but fails for tertiary alcohols.  If the reacting carbon centre is [[chirality (chemistry)|chiral]], the reaction usually occurs with [[Stereochemistry|inversion of configuration]] at the alcohol [[alpha carbon]], as is usual with an S<sub>N</sub>2 reaction. 
+
+In a similar reaction, PBr<sub>3</sub> also converts [[carboxylic acid]]s to [[Acyl halide|acyl bromide]]s.
+:PBr<sub>3</sub>  +  3 [[Carboxylic acid|RCOOH]]  →  3 [[Acyl halide|RCOBr]]  +  [[Phosphorous acid|HP(O)(OH)<sub>2</sub>]]
+
+PBr<sub>3</sub> is a reasonably strong [[Redox|reducing agent]], and the oxidation of PBr<sub>3</sub> with [[oxygen]] gas is more vigorous than seen with PCl<sub>3</sub>.  It gives an explosive reaction that forms [[Phosphorus pentoxide|P<sub>2</sub>O<sub>5</sub>]] and [[bromine|Br<sub>2</sub>]].
+
+==Preparation==
+PBr<sub>3</sub> is prepared by treating [[phosphorus]] with [[bromine]], using PBr<sub>3</sub> itself as the solvent (white phosphorus is soluble in PBr<sub>3</sub>).  An excess of phosphorus is used in order to prevent formation of PBr<sub>5</sub>.
+:[[Phosphorus|P<sub>4</sub>]]  +  6 [[Bromine|Br<sub>2</sub>]]  →  4 PBr<sub>3</sub>
+
+==Uses==
+The main use for phosphorus tribromide is for conversion of primary or secondary [[alcohol]]s to [[alkyl halide|alkyl bromide]]s,{{ref|Harrison}} as described [[#Chemical properties|above]]. PBr<sub>3</sub> usually gives higher yields than [[hydrobromic acid]], and it avoids problems of [[carbocation]] rearrangement- for example even [[neopentyl]] bromide can be made from the alcohol in 60% yield{{ref|6}}.
+
+Another use for PBr<sub>3</sub> is as a catalyst for the α-bromination of [[carboxylic acid]]s.  Although acyl bromides are rarely made in comparison with [[acyl chloride]]s, they are used as intermediates in [[Hell-Volhard-Zelinsky halogenation]]].{{ref|8}}  Initially PBr<sub>3</sub> reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination.  The overall process can be represented as
+
+[[Image:PBr3 HVZ rxn.gif|400px]]
+
+On a commercial scale, phosphorus tribromide is used in the manufacture of [[pharmaceutical]]s such as [[alprazolam]], [[methohexital]] and [[fenoprofen]]. It is also a potent [[fire suppression agent]] marketed under the name [[PhostrEx]] [http://www.phostrex.com].
+
+==Precautions==
+PBr<sub>3</sub> evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.
+
+In reactions that produce [[phosphorous acid]] as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give [[phosphine]] which can cause explosions in contact with air.{{ref|Harrison}}
+
+==References==
+{{Citationstyle|date=September 2007}}
+<references/>
+# {{note|1}} N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997.
+# {{note|2}} ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.
+# {{note|3}} J. March, ''Advanced Organic Chemistry'', 4th ed., p. 723, Wiley, New York, 1992.
+# {{note|4}} ''The Merck Index'', 7th edition, Merck & Co, Rahway, New Jersey, USA, 1960.
+# {{note|5}} R. R. Holmes, ''Journal of Inorganic and Nuclear Chemistry'' '''12''', 266-275 (1960).
+# {{note|6}} L. G. Wade, Jr., ''Organic Chemistry'', 6th ed., p. 477, Pearson/Prentice Hall, Upper Saddle River, New Jersey, USA, 2005.
+# {{note|Harrison}} George C. Harrison, H. Diehl, in ''Organic Syntheses Collective Volume 3'', p 370, Wiley, New York, 1955.
+# {{note|8}} L. G. Wade, Jr., ''Organic Chemistry'', 6th ed., p. 1051, Pearson/Prentice Hall, Upper Saddle River, New Jersey, USA, 2005.
+
+[[Category:Bromides]]
+[[Category:Phosphorus compounds]]
+[[Category:Nonmetal halides]]
+[[Category:Reagents for organic chemistry]]
+[[Category:Inorganic solvents]]
+[[Category:Fire suppression agents]]
+
+[[de:Phosphortribromid]]
+[[it:Tribromuro di fosforo]]
+[[ja:三臭化リン]]

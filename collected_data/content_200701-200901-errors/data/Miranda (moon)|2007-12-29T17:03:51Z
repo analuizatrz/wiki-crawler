@@ -1,0 +1,177 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->{{Infobox Planet
+| name = Miranda
+| image = [[Image:Miranda.jpg|250px|Miranda]]
+| bgcolour = #ffc0c0
+| discovery = yes
+| discoverer = [[Gerard P. Kuiper]]
+| discovered = [[February 16]], [[1948]]
+| semimajor =  129,390 [[kilometre|km]]
+| eccentricity = 0.0013
+| period = 1.413479 d
+| inclination = 4.232° (to Uranus' equator)
+| satellite_of = [[Uranus (planet)|Uranus]]
+| physical_characteristics = yes
+| mean_radius = 235.8 km (0.03697 Earths)
+| dimensions = 480&times;468.4&times;465.8 km
+| surface_area = 700,000 [[square kilometre|km<sup>2</sup>]]
+| volume = 54,835,000 [[cubic kilometre|km<sup>3</sup>]]
+| mass = 6.59{{e|19}} [[kilogram|kg]]
+(1.103{{e|-5}} Earths)
+| density = 1.20 g/cm<sup>3</sup>
+| surface_grav = 0.079 [[Acceleration|m/s<sup>2</sup>]]
+| escape_velocity = 0.19 km/s
+| rotation = [[Synchronous_rotation|synchronous]]
+| axial_tilt = zero
+| albedo = 0.32
+| temperatures = yes
+| temp_name1 = Kelvin
+| min_temp_1 = &nbsp;
+| mean_temp_1 = ~59 K
+| max_temp_1 = 86 K
+}}
+'''Miranda''' ({{pronEng|mɨˈrændə}} ''mə-ran'-də)'' is the smallest and innermost of [[Uranus (planet)|Uranus]]' five major [[natural satellite|moon]]s.
+
+It was discovered by [[Gerard Kuiper]] on [[1948-02-16]] at [[McDonald Observatory]]. It was named after [[Prospero]]'s daughter in [[William Shakespeare]]'s play ''[[The Tempest (play)|The Tempest]]'' by Kuiper in his report of the discovery.<ref>G. P. Kuiper, [http://adsabs.harvard.edu//full/seri/PASP./0061//0000129.000.html ''The Fifth Satellite of Uranus''], Publications of the Astronomical Society of the Pacific, Vol. 61, No. 360, p. 129, June 1949</ref> The adjectival form of the name is ''Mirandan''<!--- e.g. http://rst.gsfc.nasa.gov/Sect19/Sect19_20.html --->. It is also designated '''Uranus&nbsp;V'''.
+
+So far the only close-up images of Miranda are from the ''[[Voyager 2]]'' probe, which made observations of the moon during its Uranus flyby in January, 1986. During the flyby the southern hemisphere of the moon was pointed towards the [[Sun]] so only that part was studied. It is geologically the most active body in the Uranian system.
+
+==Physical characteristics==
+[[Image:Miranda scarp.jpg|thumb|left|200px|Close-up view of [[Verona Rupes]], a large fault scarp on Miranda; possibly 5 km (3 miles) high.<ref name="pia00044">{{cite web
+|url=http://photojournal.jpl.nasa.gov/catalog/PIA00044
+|title=PIA00044: Miranda high resolution of large fault
+|accessdate=2007-07-23
+|publisher=JPL, NASA}}</ref><ref name="chaikin2001" />]]
+Miranda's surface may be mostly water ice, with the low density body also likely containing [[silicate]] rock and [[organic compound]]s in its interior. 
+
+Miranda's surface has patchwork regions of broken terrain indicating intense geological activity in the moon's past, and is criss-crossed by huge canyons. Large 'racetrack'-like grooved structures, called [[Corona (planetary geology)|coronae]], may have formed via [[Rift|extensional]] processes at the tops of [[diapir]]s, or upwellings of warm ice.<ref>{{cite journal
+|author=[http://science.jpl.nasa.gov/people/Pappalardo/ Pappalardo, R. T.]
+|coauthors=Reynolds, S. J., Greeley, R.  
+|title=Extensional tilt blocks on Miranda: Evidence for an upwelling origin of Arden Corona
+|journal=Journal of Geophysical Research
+|volume=102
+|issue=E6
+|pages=13,369–13,380
+|publisher=Elsevier Science
+|date= 1997-06-25
+|url=http://www.agu.org/pubs/crossref/1997/97JE00802.shtml }}</ref><ref>{{cite web
+  | last = Chaikin
+  | first = Andrew
+  | authorlink = Andrew Chaikin
+  | title = Birth of Uranus' Provocative Moon Still Puzzles Scientists
+  | work = Space.Com
+  | publisher = Imaginova Corp.
+  | date = 2001-10-16
+  | url = http://www.space.com/scienceastronomy/solarsystem/miranda_creation_011016-1.html
+  | accessdate = 2007-12-07 }}</ref> The ridges probably represent extensional tilt blocks. The canyons probably represent [[graben]]s formed by [[Extensional tectonics|extensional fault]]ing. Other features may be due to [[Cryovolcano|cryovolcanic]] eruptions of icy magma. The diapirs may have changed the density distribution within the moon, which could have caused Miranda to reorient itself,<ref name="Pappalardo">{{cite conference
+|first=Pappalardo
+|last=R.
+|coauthors=Greeley, R.
+|title=Structural evidence for reorientation of Miranda about a paleo-pole
+|booktitle=In Lunar and Planetary Inst., Twenty-Fourth Lunar and Planetary Science Conference. Part 3: N-Z
+|pages=1111–1112
+|date=1993
+|url=http://adsabs.harvard.edu/abs/1993LPI....24.1111P
+|accessdate = 2006-08-05 }}</ref> similar to a process believed to have occurred at [[Saturn]]'s geologically active moon [[Enceladus (moon)|Enceladus]]. Miranda is one of the few bodies in the solar system in which the equatorial circumference is shorter than the pole-to-pole circumference, likely a consequence of the diapir activity.
+
+Miranda's past geological activity is believed to have been driven by [[Tidal acceleration #Tidal heating|tidal heating]] at a time when its orbit was more eccentric than currently. Early in its history, Miranda was apparently captured in a 3:1 [[orbital resonance]] with [[Umbriel (moon)|Umbriel]], from which it subsequently escaped.<ref>{{cite journal
+|last=Tittemore
+|first=W. C.
+|coauthors=Wisdom, J.
+|title=Tidal evolution of the Uranian satellites III. Evolution through the Miranda-Umbriel 3:1, Miranda-Ariel 5:3, and Ariel-Umbriel 2:1 mean-motion commensurabilities
+|journal=Icarus
+|volume=85
+|issue=2
+|pages=394–443
+|publisher=Elsevier Science
+|date=June 1990
+|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WGF-473182X-22Y&_coverDate=06%2F30%2F1990&_alid=431841654&_rdoc=1&_fmt=&_orig=search&_qd=1&_cdi=6821&_sort=d&view=c&_acct=C000052082&_version=1&_urlVersion=0&_userid=1234512&md5=d7959dcca75860d54783b9dda43cacba
+|doi=10.1016/0019-1035(90)90125-S }}</ref> The resonance would have increased [[orbital eccentricity]]; resulting tidal friction due to time-varying [[tidal force]]s from Uranus would have caused warming of the moon's interior. In the Uranus system, due to the planet's lesser degree of [[oblate]]ness, and the larger relative size of its satellites, escape from a mean motion resonance is much easier than for satellites of [[Jupiter]] or [[Saturn]]. Miranda's orbital [[inclination]] (4.34°) is unusually high for a body so close to the planet. Miranda probably escaped from its resonance with Umbriel via a secondary resonance, and the mechanism of this escape is believed to explain why its orbital inclination is more than 10 times those of the other large Uranian moons (see [[Uranus' natural satellites]]).<ref>{{cite journal
+|title=Tidal Evolution of the Uranian Satellites II. An Explanation of the Anomalously High Orbital Inclination of Miranda
+|author=W. C. Tittemore, Wisdom, J.
+|journal=Icarus 
+|volume=78 
+|pages=63-89
+|year=1989 
+|doi=10.1016/0019-1035(89)90070-5
+}}</ref><ref>{{cite journal
+|title=The Role of Secondary Resonances in the Orbital History of Miranda 
+|author=Malhotra, R., Dermott, S. F.
+|journal=Icarus 
+|volume=85 
+|pages=444-480
+|year=1990 
+|doi=10.1016/0019-1035(90)90126-T
+}}</ref>
+
+An earlier theory, proposed shortly after the ''[[Voyager 2]]'' flyby and now out of favor, was that a previous incarnation of Miranda was shattered by a massive impact, with the fragments reassembling into the current strange pattern.<ref name="chaikin2001">{{cite web
+|url=http://www.space.com/scienceastronomy/solarsystem/miranda_creation_011016-1.html
+|title=Birth of Uranus' provocative moon still puzzles scientists 
+|accessdate=2007-07-23
+|last=Chaikin
+|first=Andrew
+|date=2001-10-16
+|work=space.com
+|publisher=Imaginova Corp.}}</ref>
+
+Scientists recognize the following [[geology|geological]] features on Miranda:
+*[[Impact crater|Craters]]
+*[[Coronae]] (large [[ovoid]] features)
+*[[Regiones]] (geological regions)
+*[[Rupes]] ([[Escarpment|scarp]]s)
+*[[Sulcus (geology)|Sulci]] (parallel grooves)
+
+==Miranda in popular culture==
+*[[Astronomy Domine]], a song by [[Pink Floyd]], refers to Miranda as well as [[Oberon (moon)|Oberon]] and [[Titania (moon)|Titania]].
+*In the fictional [[Star Trek]] universe, the crystalline mineral [[dilithium (Star Trek)|dilithium]] was first discovered on Miranda in the mid-21st century. The moon said to be the only naturally occurring source of dilithium in the Sol system. This mineral was, a short time later, used to facilitate [[warp drive]] propulsion systems which allowed spacecraft to achieve faster-than-light travel.
+*In [[Kim Stanley Robinson]]'s [[Mars Trilogy]] the moon is visited by the characters Ann Clayborne and Zo Boone.
+
+==See also==
+*[[List of geological features on Miranda]]
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Ura_Miranda Miranda Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+*[http://www.nineplanets.org/miranda.html Miranda page] on ''The <strike>Nine</strike>8 Planets''
+*[http://www.solarviews.com/eng/miranda.htm Miranda, a Moon of Uranus] on ''Views of the Solar System''
+
+{{Uranus Footer|state=uncollapsed}}
+{{Natural satellites of the Solar System (compact)}}
+
+[[Category:Uranus' moons]]
+
+[[bs:Miranda (mjesec)]]
+[[bg:Миранда (спътник)]]
+[[ca:Miranda (satèl·lit)]]
+[[cs:Miranda (měsíc)]]
+[[cy:Miranda (lloeren)]]
+[[da:Miranda (måne)]]
+[[de:Miranda (Mond)]]
+[[es:Miranda (luna)]]
+[[fr:Miranda (lune)]]
+[[hr:Miranda (mjesec)]]
+[[it:Miranda (astronomia)]]
+[[he:מירנדה (ירח)]]
+[[ht:Miranda]]
+[[la:Miranda (satelles)]]
+[[lt:Miranda (palydovas)]]
+[[nl:Miranda (maan)]]
+[[ja:ミランダ (衛星)]]
+[[no:Miranda (måne)]]
+[[nn:Uranusmånen Miranda]]
+[[nds:Miranda (Maand)]]
+[[pl:Miranda (księżyc)]]
+[[pt:Miranda (satélite)]]
+[[ro:Miranda (satelit)]]
+[[ru:Миранда (спутник)]]
+[[simple:Miranda (moon)]]
+[[sk:Miranda (mesiac)]]
+[[fi:Miranda (kuu)]]
+[[sv:Miranda (måne)]]
+[[zh:天卫五]]

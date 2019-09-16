@@ -1,0 +1,227 @@
+{{Infobox_Game|
+  subject_name=Bughouse Chess|
+  image_link=[[Image:Bughouse game.jpg|275px]]|
+  image_caption=|
+  players=4 |
+  ages=10 years old or older recommended|
+  setup_time= 1 minute|
+  playing_time= Usually 6 to 10 minutes |
+  complexity=Medium |
+  strategy=High |
+  random_chance=None|
+  skills=[[Chess strategy]], [[Blitz chess]] |
+  footnotes= |
+  bggid= 14188 |
+  bggxrefs=
+}}
+'''Bughouse Chess''' (also called '''Exchange Chess''', '''Siamese Chess''', '''Tandem Chess''', '''Transfer Chess''', or simply '''Bughouse''') is a popular [[chess variant]] played on two [[chessboard]]s by four players in teams of two.<ref>Other less common names for bughouse include Team Chess, Hungarian Chess, Swedish Chess, New England Double Bughouse, Pass-On Chess, Tandem Put-back, Double Speed, Double Chess, Double Five, Simultaneous chess, Double Bug or Double Bughouse (von Zimmerman (2006), front; Manson and Hoover (1992), p. 186 and [http://www.chessvariants.com/multiplayer.dir/tandem.html Bughouse on Chessvariants]). See  [http://www.bughouse.be/bughouse%20translations.htm Bughouse in other languages]. Accessed [[29 July]] [[2007]].</ref> Normal [[chess]] rules apply, except that captured pieces on one board are passed on to the players of the other board, who then have the option of putting these pieces on their board. 
+
+The game is usually played at a fast [[time control]]; this, together with the passing and dropping of pieces, can make the game look chaotic and random to the casual onlooker. Hence the name [[bughouse]], which is [[slang]] for mental hospital. The game is traditionally played as a diversion from regular chess both over the board and [[internet chess server|online]]. Yearly, several  dedicated bughouse [[tournament]]s are organised on a national and an international level. 
+
+__TOC__
+{{-}}
+== Rules ==
+{{bughouse chess diagram
+| A1=Team 1, Board A 
+| A2=Team 2, Board A 
+| B1=Team 1, Board B 
+| B2=Team 2, Board B
+| tright
+|
+|=
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|pd|pd|pd|=
+ 6 |  |  |  |  |  |  |  |  |=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|pl|pl|pl|pl|pl|=
+ 1 |rl|nl|bl|ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+ 8 |rl|nl|bl|kl|ql|bl|nl|rl|=
+ 7 |pl|pl|pl|pl|pl|pl|pl|pl|=
+ 6 |  |  |  |  |  |  |  |  |=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pd|pd|pd|pd|pd|pd|pd|pd|=
+ 1 |rd|nd|bd|kd|qd|bd|nd|rd|=
+    a  b  c  d  e  f  g  h
+
+| Bughouse setup and start position}}
+
+Bughouse is a [[chess variant]] played on two [[chessboard]]s by four players in teams of two. Each team member faces one opponent of the other team. Partners sit next to each other and one player has black, while the other has white. Each player plays the opponent as in a standard [[rules of chess|chess]] game, with the exception of the rules specified below.<ref>It should be noted though that bughouse has many variations and that there is no international standard. The rules below are in accordance with the [http://www.uschess.org/tournaments/2006/2006bughouse.pdf US chess federation], the rules as applied on the chess servers [[FICS]] and [[ICC]] and the [http://bughouse.info Berlin bughouse tournament]. In the case rules contradict, alternatives are listed. Accessed [[29 July]] [[2007]].</ref>
+
+===Captured pieces===
+A player capturing a [[chess piece|piece]] passes that piece to the partner. The partner keeps these pieces in reserve and may, instead of playing a regular move, place one of these pieces on the board (as in [[shogi]] and [[crazyhouse]]). Pieces in reserve or on deck may be placed on a vacant square, the exception being [[pawn (chess)|pawn]]s which may not be dropped on the first and last [[Rank (chess)|rank]]. Dropped pawns may [[promotion (chess)|promote]], but convert back to pawns when captured. In play over the board, a promoted pawn can be put on its side to indicate promotion.<ref>von Zimmerman (2006), p. 15</ref> A pawn placed on the second rank may move two squares on its first move. The reserve or stock should be kept in front of the board, always visible to all players of the game.
+
+===Clock and completion of a move===
+Bughouse chess is usually played with [[chess clock]]s to prevent players from waiting indefinitely 
+for a piece. Clocks are placed on the outside so that each player can see both clocks. At the 
+start of the game, the players with the black pieces start the clocks simultaneously.
+Bughouse is usually played using [[List of chess terms#C|clock move]], which allows touching of pieces. A move is completed only when the clock is pressed. [[List of chess terms#T|Touch move]] is practised to a lesser extent.<ref>See for example the [http://pion.ch/Bug/ruleseng.html rules of the Geneva bughouse tournament]. Accessed [[29 July]] [[2007]].</ref> When used, it applies to pieces in reserve as well; they are considered dropped after contact has been made with an empty square.
+
+Bughouse can be played without a clock, but then there is usually a rule preventing a player waiting for pieces (stalling or sitting) indefinitely. One rule states that players may not delay their move beyond the time that it takes for their partner to make three moves.<ref name=cvv> [http://www.chessvariants.com/multiplayer.dir/tandem.html Bughouse on ChessVariants.org]. Accessed [[29 July]] [[2007]].</ref>
+
+===End of the game===
+The match ends when either of the games on the two boards ends. A game is won when one player
+gets [[checkmate]]d, resigns, forfeits on time or when an illegal move
+is made in which the offending side is caught. The match can be drawn [[draw by agreement|by agreement]] or when two players run out of time simultaneously. Depending on (local) rules  [[threefold repetition]] applies, in which case the reserve of pieces is not taken into account.<ref>For instance, the threefold repetition applies on [[FICS]] but not on [[ICC]].</ref>
+
+Alternatively, when one board finishes, play can continue on the other board. In this case, pieces in reserve can still be dropped, but no new pieces are coming in. The outcome of the match is then decided by adding the score of the two boards.<ref name=cvv> </ref>
+
+===Communication===
+Partners are normally allowed to talk to each other during the game. They can for instance ask for a specific piece, for more trades, ask to hold a piece, suggest moves or ask their partner to stall. Shouts like "Gimme a knight, it mates!" or "Queen at any cost!" are common, and can lead to seemingly absurd sacrificial captures on the other board. It is however not allowed to physically act on the other board.<ref>See Article nr. 12, [http://www.uschess.org/tournaments/2006/2006bughouse.pdf US chess federation Bughouse rules]. Accessed [[27 August]] [[2007]].</ref>
+
+== Variations ==
+Bughouse comes in many variants, especially in the way drops are handled. Examples include:<ref>[http://www.chessvariants.org/index/listcomments.php?itemid=TandemChess Comments on tandem chess rules from chessvariants.com]. Accessed [[29 July]] [[2007]].</ref>
+* Pieces cannot be dropped with check and/or [[checkmate]]. This variant is not uncommon in Europe and is sometimes referred to as tandem chess.<ref>See for example the [http://www.pion.ch/Bug/rules.html bughouse rules from the Geneva gathering page] and the [http://www.schaakmeester-p.nl/spelregels.htm#doorgeefschaak official bughouse rules in the Netherlands]. Accessed [[29 July]] [[2007]]. </ref><ref>[http://www.chessvariants.com/multiplayer.dir/tandem.html Tandem chess rules from chessvariants.com]. Accessed [[29 July]] [[2007]].</ref>
+* Pieces can only be placed on the player's half of the board.
+* Play continues until both games are complete.
+* Kings can be captured and the game continues until one team has all kings on the board.
+* Pawns cannot be dropped on seventh (and sometimes sixth) rank.
+* Pawns may be dropped on the first rank.
+
+It is possible to play the game with just two players (one per team) by having each player move on two boards. Analogous to [[simultaneous chess]], this way of playing the game is referred to as simultaneous bughouse. It can also be played with just one [[Game clock|clock]] by playing the boards in a specific order (WhiteA, WhiteB, BlackB, BlackA) and pressing the clock after each move. This variation is suitable for play [[correspondence chess|by mail]].<ref>von Zimmerman (2006), p.108</ref>
+
+Bughouse can be played with three or more boards. The game is played in exactly the same way as normal bughouse with boards placed with alternating colours and two players and one clock per board. On capturing a piece however, the player has to decide which player of the team will get that piece. In three board bughouse chess the middle player is the key since he gets material from two boards, but has to decide how to divide the captured pieces.<ref name=mhtf>Manson and Hoover (1992), p. 34–37</ref>
+
+==Strategy==
+===Material===
+In chess a minor material advantage is important as when material gets exchanged, the relative advantage becomes larger. Because new pieces come in, there is no [[endgame]] play in bughouse and material is therefore less important. It is common to sacrifice pieces in bughouse while attacking, defending or hunting down a certain piece which the partner requires.<ref name=mhtf> </ref>
+
+A scoring system to evaluate material is to add up the [[Chess piece point value|piece values]] of the material on the board. In chess, when a [[pawn (chess)|pawn]] equals one unit, a [[bishop (chess)|bishop]] or [[knight (chess)|knight]] is worth three, a [[rook (chess)|rook]] five and a [[queen (chess)|queen]] nine. These values are a consequence of the difference in mobility of the pieces. In bughouse piece values differ because pieces in reserve essentially have the same mobility as they can be dropped on any vacant square.<ref>von Zimmerman (2006), p. 17.</ref> The pawn relatively gains importance in bughouse chess, its very limited mobility does not handicap reserve pawns. Pawns can be dropped onto the seventh rank, one step away from promotion, which again adds to their importance. Long range pieces like the queen or the rook lose relative value, due to the constantly changing [[pawn structure]]. They are also more likely to be cornered in.<ref>Manson and Hoover (1992), p. 32–33</ref> A valuation system often applied to bughouse is pawn=1, bishop=knight=rook=2 and queen=4.<ref>von Zimmerman (2006), p. 17. The bughouse playing program [http://sunsetter.sourceforge.net/ Sunsetter] uses the values pawn=100, bishop=195, knight=192, rook=200 and queen=390, while the engine [http://www.sjeng.org/indexold.html Sjeng] uses pawn=100, bishop=230, knight=210, rook=250 and queen=450. Accessed [[29 July]] [[2007]].</ref>
+
+===Coordination===
+Captured pieces are passed on and thus what happens on one board, influences what happens on the other board. It is therefore natural for team members to communicate during game play. A common request of an attacking player would be "trades are good", while players in trouble would ask their partner to hold trades with "trades are bad". Equally a player can request a piece e.g "knight wins a queen" or ask to hold a piece e.g. "rook mates me".<ref>von Zimmerman (2006), p. 243–244</ref> 
+
+Another common situation in the interplay between the two boards is a player not moving, also called sitting or stalling. This can happen in anticipation of a certain piece or at the request of the partner. Suppose a player is under heavy attack, and an additional pawn would mate him. When the partner cannot prevent giving up a pawn on the next move, sitting is the only strategy. It would of course be perfectly logical for the attacker to sit as well, waiting for a pawn to come. The situation, where diagonal opponents sit at the same time is known as a "sitzkrieg" (after the German for sitting war). The difference in time between the diagonal opponents will eventually force one party to move. This diagonal time advantage is more important than the difference on the clock between opponents on the same board.<ref>Manson and Hoover (1992), p. 75–89</ref> 
+
+Apart from this active communication, a good bughouse player tries to coordinate silently by keeping an eye on the other board and adapting moves accordingly. This can mean as little as glancing at the other board before trading queens, or as much as playing an opening adapted to the other board.<ref>See Chris Ferrante (2000) [http://personal.atl.bellsouth.net/f/e/ferrantc/chess/bughouse.html], reproduced in von Zimmerman (2006), p.79–94</ref>
+
+===Attack and defense===
+Attacking the king can mean checking the opponent but also controlling vital squares around the king. It is an essential part of bughouse gameplay. From a player's perspective, attacking the king has  important advantages as opposed to defending or attempting to win material:<ref>von Zimmerman (2006), p.109</ref>
+* Because of the possibility of dropping pieces, successful attacks in bughouse can quickly lead to checkmate. 
+* The attacking player has the initiative, he is the one who controls the board, while the opponent is left to react. This has also important consequences for the other board.
+* It is easier to attack than to defend. A defending mistake can have bigger consequences than an attacking mistake. Thus, the defender needs to be more precise, which in turn can lead to a time advantage for the attacker.
+It is common to sacrifice material to build up, or sustain an attack. Characteristic for attacks is the so-called "piece storm", where a player drops piece after piece with check. Contact checks, those that force the king to move, are especially important. They can be used to drive the king into the open, away from its defenders, while they prevent the opponent from putting new material on the board.<ref>von Zimmerman (2006), p.20</ref>
+
+Partner communication is essential in a good defense. When one partner is under attack, the other partner should be aware of which pieces hurt most. Sitting strategies might be necessary, and it is therefore important to play the defense fast. Accepting a sacrifice can be lethal. On the other hand, it results in the attacker having a piece less to play with, with the defender's partner having a piece more. Sacrifices therefore give the partner of the defender an opportunity to take initiative.<ref>von Zimmerman (2006), p.113</ref>
+
+===Opening===
+There are significantly fewer bughouse openings than there are [[chess opening]]s. Many chess openings create weaknesses which can be easily exploited in bughouse. It is for instance not recommended to move pawns other than the d and e pawn.<ref>von Zimmerman (2006), p.21–24</ref> Bughouse openings are generally geared towards dominating vital squares and fast development. Captured pieces become available after the first few moves and it is important to develop at this stage as there is often not enough time to do so later. Development also helps to defend against early piece drop attacks.<ref>von Zimmerman (2006), p.68</ref> 
+
+In typical chess openings, kings [[castling|castle]]. For all but expert players, this is generally not recommended in the opening stage of a bughouse game. A castled king is trapped on one side of the board, and is therefore inherently harder to defend. There are also fewer escape routes possible.
+
+==Notation and sample game==
+[[Image:Bughouse game animation.gif|frame|right|Example bughouse game.]]
+
+The [[algebraic chess notation]] for [[chess]] can be used to record moves in bughouse games. 
+Different notations for piece drops are possible.<REF>Manson and Hoover (1992) use an "x" (as used in captures) in front to indicate a piece drop, as in xNf1. Penn and Dizon (1998) use the "I" (for insert) in front as in INf1. Von Zimmerman (2006) uses the @-notation.</REF> The [[Bughouse chess#Online|internet chess server]]s [[FICS]] and [[ICC]] use the at-sign [[@]], as in N@f1 (knight drop at f1), Q@e6+ (queen drop with check at e6) or P@h7 (pawn drop at h7).
+
+Because of the fast pace at which the game is played, bughouse games are rarely recorded
+in games played over the board. With the arrival of [[Bughouse chess#Online|online chess]] it has become possible to systematically record games.<ref>Two large bughouse databases are [http://www.bughouse-db.org Jamesbaud's database] and [http://www.bughouse.be/database.html Lieven's database].Accessed [[31 July]] [[2007]].</ref> The format in which this is done is the bughouse portable game notation (BPGN), an extension of the [[Portable Game Notation]] for chess.<REF>[http://www.bughouse.be/BPGN_Standard.txt Specification of the BPGN format from bughouse.be]. Accessed [[29 July]] [[2007]].</REF> Software, such as BPGN viewer can be used to replay and analyse bughouse games.<REF>BPGN viewer can be obtained from [http://www.bughouse.net/ bughouse.net]. Accessed [[29 July]] [[2007]].</REF> Below is an example bughouse game in the BPGN format.
+
+ [Event "rated bughouse match"]
+ [Site "chess server X"]
+ [Date "2004.04.12"]
+ [WhiteA "WA"][WhiteAElo "1970"]
+ [BlackA "BA"][BlackAElo "2368"]
+ [WhiteB "WB"][WhiteBElo "1962"]
+ [BlackB "BB"][BlackBElo "2008"]
+ [TimeControl "180+0"]
+ [Result "0-1"]
+ 1A. e4 {180} 1a. Nc6 {180} 1B. d4 {179} 2A. Nc3 {179}
+ 1b. Nf6 {178} 2a. Nf6 {178} 2B. d5 {178} 3A. d4 {177}
+ 2b. e6 {177} 3a. d5 {177} 3B. dxe6 {176} 4A. e5 {176}
+ 3b. dxe6 {176} 4B. Qxd8+ {175} 4a. Ne4 {175}
+ 4b. Kxd8 {175} 5B. Bg5 {174} 5A. Nxe4 {174}
+ 5a. dxe4 {173} 5b. Be7 {173} 6A. Nh3 {173}
+ 6B. Nc3 {172} 6a. Bxh3 {171} 6b. N@d4 {171}
+ 7A. gxh3 {171} 7a. Nxd4 {170} 7B. O-O-O {169}
+ 8A. P@e6 {168} 7b. Nbc6 {168} 8B. Bxf6 {166}
+ 8a. N@f3+ {165} 9A. Qxf3 {165} 8b. Bxf6 {164}
+ 9a. Nxf3+ {164} 10A. Ke2 {164} 9B. e3 {164}
+ 10a. Q@d2+ {164} 11A. Bxd2 {164} 11a. Qxd2+ {164}
+ {WA checkmated} 0-1
+
+== Where to play ==
+=== Over the board ===
+Little is known on the history of bughouse, but it seems to have developed in the early 1960s.<ref name=dprit> Pritchard (2007), p. 327 </ref> It is now quite popular as a diversion of regular chess in local chess clubs throughout Europe and the US.<ref name=dprit> </ref><ref>von Zimmerman (2006), p.162–173</ref> [[Grandmaster (chess)|Grandmasters]] such as [[Levon Aronian]], [[Joel Benjamin]], [[Yasser Seirawan]], [[Andy Soltis]], [[John Nunn]], [[Jon Speelman]], [[Sergey Karjakin]], [[Michael Adams]], [[Emil Sutovsky]] and [[Michael Rohde (chess player)|Michael Rohde]] have been known to play the game.<ref name=dprit> </ref><ref>John Nunn playing bughouse at the 2004 [[World Chess Solving Championship]];  [http://www.chessbase.com/newsdetail.asp?newsid=1919 Chessbase news, 22 September 2004]. Accessed [[29 July]] [[2007]].</ref><ref>Sergey Karjakin playing bughouse at the 2005 Young Stars tournament; [http://www.chessbase.com/newsdetail.asp?newsid=2423 Chessbase news 31, May 2005]. Accessed [[29 July]] [[2007]].</ref><ref> Bughouse Newsletter, Vol I 1992 edited by Jeremy Graham</ref><ref>   [http://findarticles.com/p/articles/mi_qn4158/is_19990712/ai_n14255436 The Independent (London), 12 July 1999]. Accessed [[29 July]] [[2007]]. </ref><ref> [http://chesspro.ru/_events/2007/monreal13.html Emil Sutovsky playing bughouse at the 8th Montreal International] Accessed [[31 July]] [[2007]].</ref>
+
+With the absence of an [[International Federation]], competitive over the board bughouse is very much in its infancy. There is also no [[world championship]]. A few countries do organize bughouse tournaments within the national chess federation. Examples include:
+* The yearly international chess festival Czech Open in July features the Czech republic bughouse championship.<ref>[http://www.czechopen.net/ Chess festival Czech Open]. Accessed [[29 July]] [[2007]].</ref>
+* Yearly, [[USCF]] organizes bughouse tournaments as part of the National Junior High (K-9) Championship and the National High School (K-12) Championship.<ref>The official announcements for the [http://www.uschess.org/tournaments/2006/jhs/ 2006] and [http://www.uschess.org/tournaments/2007/jhs/ 2007] editions. Accessed [[29 July]] [[2007]].</ref><ref>The official announcements for the [http://www.uschess.org/tournaments/2006/hs/ 2006] and [http://www.uschess.org/tournaments/2007/hs/ 2007] editions. Accessed [[29 July]] [[2007]].</ref>
+Other tournaments are organized privately:
+* One of the largest international bughouse tournaments is the yearly tournament in Berlin.<ref>[http://www.bughouse.info Official website of the Berlin bughouse tournament]. Accessed [[29 July]] [[2007]].</ref> Going into its sixth edition, it is popular among top players from [[FICS]]. Grandmaster [[Levon Aronian]] took part in the 2005 edition of the tournament and took the second place with his teammate Vasiliy Shakov.<ref>[http://www.berlinerschachverband.de/archiv/chronik/2005/tandem/ Report of the 2005 edition], Berliner Schachverband. Accessed [[29 July]] [[2007]].</ref> 
+* Since 2000 there has been an annual bughouse tournament in Geneva, attracting the best European players.<ref name=dprit> </ref><ref>[http://www.pion.ch/Bug/gath.html Official site of the bughouse tournament in Geneva]. Accessed [[29 July]] [[2007]].</ref>
+
+=== Online ===<!-- This section is linked from [[Bughouse chess]] -->
+Bughouse can be played online at [[chess server]]s such as [[FICS]] and [[ICC]] since 1995.<ref>von Zimmerman (2006), p.239</ref> Fics is currently the most active server for bughouse, attracting world's best players. These include Levon Aronian, Maarten Aronsson, Igor Bjelobrk, Jeremy Keller, Kazim Gulamali, André Nilsson, Peter Minear and Linus Olsson.<ref>von Zimmerman (2006), p.5–9, 16, 25, 95 and 240</ref>
+
+The game is played online in the same way as over the board, but some aspects are unique to online bughouse. In games over the board, communication is heard by all players, while in online bughouse it is usually done via private messages between two partners. This makes communication a more powerful weapon. It is also easier to coordinate as the second board is more visible on the screen than over the board.<ref>von Zimmerman (2006), p.240</ref> The time aspect is altered due to existence of [[premove]] and [[lag]]. The latter can influence the diagonal time difference significantly, and it is good sportsmanship to restart the game when this difference gets too large.<ref>Anders Ebenfelt's [http://www.geocities.com/Paris/Metro/1324/ Bughouse page]. Accessed [[29 August]].</ref>
+
+[[internet chess server|ICS]] compatible interfaces particularly suitable for bughouse include [[Thief (chess)|Thief]] and [[BabasChess]]. They have the ability to display both boards at the same time and store played or observed games, they also have  partner communication buttons and a lag indicator. Special [[Xboard Communication Protocol|Xboard]] compatible [[chess engine|engines]] have been written that support bughouse, examples are Sunsetter, Sjeng and TJchess.<ref>[http://sunsetter.sourceforge.net/ Homepage of Sunsetter]. Accessed [[29 July]] [[2007]].</ref><ref>[http://www.sjeng.org/indexold.html Homepage of Sjeng]. Accessed [[29 July]] [[2007]]. </ref><ref>[http://www.tonyjh.com/chess/ Homepage of TJchess]. Accessed [[29 July]] [[2007]].</ref> Although much faster than humans, they lack in positional understanding and especially in coordination and communication, an essential skill in this team game.<ref>Georg von Zimmerman (2000), ''Figuren recycling'', Computerschach und Spiele 5/00 p44–46 (in German).</ref>
+
+==Controversy==
+Bughouse chess is controversial among scholastic chess teachers. The majority view is that it does not have a positive effect on novice chess players.<ref>[http://www.uschess.org/scholastic/sc-guide2.html A guide to scholastic chess], [[United States Chess Federation]]. Accessed [[03 October]] [[2007]].</ref> In the words of [[Susan Polgar]]: "If your children want to play bughouse for fun, it is OK. But just remember that it is not chess and it has no positive value for chess. In fact, I absolutely recommend no bughouse during a tournament."<ref>[http://main.uschess.org/content/view/7794/302/ Scholastic Chess: Polgar Girls' World Open and Boys' Chess Challenge], USCF Chess Live Magazine. Accessed [[03 October]] [[2007]].</ref> One argument supporting this view is that bughouse distorts the typical pattern recognition used in chess.<ref>{{cite book | author=Snyder, Robert M.| title=Winning Chess Tournaments for Juniors|publisher=Random House Puzzles & Games| year=2004 | id=ISBN 978-0812936353}}, p. 10.</ref> Another argument is that bughouse neglects positional values due to its highly tactical game play.<ref name=laron>von Zimmerman (2006), p. 27</ref> On the other hand, there is no evidence that bughouse would hurt experienced chess players. In the words of [[Levon Aronian]]: "Bughouse is good for players who know chess well already. ... I started to play bug when I was already at master level see. And I think bughouse is good for the imagination, to develop new ideas."<ref name=laron> </ref>
+
+==Notes==
+{{reflist|2}}
+
+==References==
+*{{Harvard reference
+ | surname1=Manson Jr.
+ | given1=John F.
+ | surname2=Hoover
+ | given2=Todd
+ | title=Siamese Chess. How To Play...How to Win!
+ | year=1992
+ | publisher=Farnsworth Enterprises
+ | id=ASIN B0006PFGZS
+}}
+*{{Harvard reference
+ | surname1=Penn
+ | given1=David A.
+ | surname2=Dizon
+ | given2=Rommel
+ | title=Comprehensive Bughouse Chess
+ | year=1998
+ | publisher=Graham Cracker Studios
+ | isbn=0-966-98060-3
+}}
+*{{Harvard reference
+ | surname=Pritchard
+ | given=D. B.
+ | authorlink=David Pritchard (chess writer)
+ | title=The Classified Encyclopedia of Chess Variants. (second edition)
+ | year=2007
+ | publisher=John Beasley
+ | isbn=0-95551-680-3
+}}
+*{{Harvard reference
+ | editor-last=von Zimmerman
+ | editor-first=Georg
+ | title=Bughouse Chess
+ | year=2006
+ | publisher=Books on Demand GmbH
+ | isbn=3-833-46811-4
+ | url=http://www.bughouse-book.com/
+}}
+
+==External links==
+* [http://www.chessvariants.org/multiplayer.dir/tandem.html Bughouse on the ChessVariants pages]
+* [http://personal.atl.bellsouth.net/f/e/ferrantc/chess/index.html Errant Fischer's Bughouse Page]
+* [http://www.thebugboard.net/ The Bug Board - Forum and software] 
+* [http://www.bughouse-db.org/ bughouse-db.org - FICS bughouse database] 
+* [http://www.bughouse.be/ bughouse.be - Database and links] 
+
+[[Category:Chess variants]]
+
+[[cs:Holandany]]
+[[de:Tandemschach]]
+[[nl:Doorgeefschaak]]
+[[pl:Kloc]]
+[[ru:Шведские шахматы]]
+[[simple:Transfer Chess]]

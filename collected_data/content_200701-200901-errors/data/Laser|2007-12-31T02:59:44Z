@@ -1,0 +1,397 @@
+{{otheruses}}    
+[[Image:Military laser experiment.jpg|275px|thumb|Experiment with a laser ([[Military of the United States|US Military]])]]
+A '''laser''' is an electronic-optical device that produces [[coherence (physics)|coherent]] [[radiation]]. The term "laser" is an [[acronym]] for '''L'''ight '''A'''mplification by '''S'''timulated '''E'''mission of '''R'''adiation.<ref>[http://dictionary.reference.com/browse/laser Definitions for laser]</ref><ref><small>Note:"'''''lazer'''''" is incorrect when referring to this kind of device and is not a valid alternative spelling</small></ref> A typical laser emits light in a narrow, low-[[Beam divergence|divergence]] beam and with a well-defined [[wavelength]] (i.e., [[monochromatic]], corresponding to a particular [[colour]] if the laser is operating in the [[visible spectrum]]). This is in contrast to a [[light source]] such as the [[incandescent light bulb]], which emits into a large [[solid angle]] and over a wide [[electromagnetic spectrum|spectrum]] of wavelength.
+
+A laser consists of a ''[[gain medium]]'' inside an ''[[optical cavity]]'',  with a means to supply energy to the gain medium. The gain medium is a material (gas, liquid, solid or free electrons) with appropriate optical properties. In its simplest form, a cavity consists of two mirrors arranged such that light bounces back and forth, each time passing through the gain medium. Typically, one of the two mirrors, the [[output coupler]], is partially transparent. The output laser beam is emitted through this mirror.
+
+Light of a specific wavelength that passes through the gain medium is [[optical amplifier|amplified]] (increases in power); the surrounding mirrors ensure that most of the light makes many passes through the gain medium. Part of the light that is between the mirrors (i.e., is in the cavity) passes through the partially transparent mirror and appears as a beam of light. The process of supplying the energy required for the amplification is called [[laser pumping|pumping]] and the energy is typically supplied as an electrical current or as light at a different wavelength. In the latter case, the light source can be a [[flash lamp]] or another laser. Most practical lasers contain additional elements that affect properties such as the wavelength of the emitted light and the shape of the beam.
+
+The first working laser was demonstrated in May [[1960]] by [[Theodore Maiman]] at [[Hughes Research Laboratories]]. Recently, lasers have become a multi-billion dollar industry. The most widespread use of lasers is in [[optical storage]] devices such as [[compact disc]] and [[DVD]] players, in which the laser (a few millimeters in size) scans the surface of the disc. Other common applications of lasers are [[bar code]] readers and [[laser pointer]]s. In industry, [[Laser cutting|lasers are used for cutting]] steel and other metals and for inscribing patterns (such as the letters on computer keyboards). Lasers are also commonly used in various fields in [[science]], especially [[spectroscopy]], typically because of their well-defined wavelength or short pulse duration in the case of pulsed lasers. Lasers are also used for military and medical applications.
+{{TOClimit|limit=2}} 
+==Physics==
+
+
+
+[[Image:Laser.svg|thumb|Principal components:<br>1. Active laser medium<br>2. Laser pumping energy<br>3. High reflector<br>4. [[Output coupler]]<br>5. Laser beam]]
+[[Image:Laser DSC09088.JPG|thumb|A [[helium-neon laser]] demonstration at the [[Kastler-Brossel Laboratory]] at [[Paris VI|Univ. Paris 6]]. The glowing ray in the middle is an electric discharge producing light in much the same way as a neon light. It is the [[active laser medium|gain medium]] through which the laser passes, ''not'' the laser beam itself, which is visible there. The laser beam crosses the air and marks a red point on the screen to the right.]]
+[[Image:Helium neon laser spectrum.png|thumb|Spectrum of a helium neon laser showing the very high spectral purity intrinsic to nearly all lasers. Compare with the relatively broad [[:Image:Red-YellowGreen-Blue LED spectra.png|spectral emittance of a light emitting diode]].]]
+:''To understand the fundamentals of how lasers work and what makes their emissions so special requires a knowledge of the interaction of [[electromagnetic radiation]] and [[matter]] (''see the "[[introduction to quantum mechanics]]" article'').''
+{{see also|Laser science|Laser construction}}
+A laser is composed of an ''[[active laser medium]]'', or ''gain medium'', and a resonant [[optical cavity]].
+The gain medium transfers external energy into the laser beam. It is a material of controlled purity, size, concentration, and shape, which amplifies the beam by the process of [[stimulated emission]]. The gain medium is energized, or ''[[Laser pumping|pumped]]'', by an external energy source. Examples of pump sources include electricity and light, for example from a [[Xenon flash lamp|flash lamp]] or from another laser. The pump energy is absorbed by the laser medium, placing some of its particles into high-energy ("[[excited state|excited]]") [[quantum state]]s. Particles can interact with light both by absorbing photons or by emitting photons. Emission can be spontaneous or stimulated. In the latter case, the photon is emitted in the same direction as the light that is passing by. When the number of particles in one excited state exceeds the number of particles in some lower-energy state, [[population inversion]] is achieved and the amount of stimulated emission due to light that passes through is larger than the amount of absorption. Hence, the light is amplified. Strictly speaking, these are the essential ingredients of a laser. However, usually the term ''laser'' is used for devices where the light that is amplified is produced as spontaneous emission from the same gain medium as where the amplification takes place. Devices where light from an external source is amplified are normally called [[optical amplifier]]s.
+
+The light generated by stimulated emission is very similar to the input signal in terms of wavelength, [[phase (waves)|phase]], and polarization. This gives laser light its characteristic coherence, and allows it to maintain the uniform polarization and often monochromaticity established by the optical cavity design.
+
+The [[optical cavity]], a type of [[cavity resonator]], contains a coherent beam of [[light]] between reflective surfaces so that the light passes through the gain medium more than once before it is emitted from the output aperture or lost to diffraction or absorption. As light circulates through the cavity, passing through the gain medium, if the gain (amplification) in the medium is stronger than the resonator losses, the power of the circulating light can rise [[exponential growth|exponentially]]. But each stimulated emission event returns a particle from its excited state to the ground state, reducing the capacity of the gain medium for further amplification. When this effect becomes strong, the gain is said to be ''saturated''. The balance of pump power against gain saturation and cavity losses produces an equilibrium value of the laser power inside the cavity; this equilibrium determines the operating point of the laser. If the chosen  pump power is too small, the gain is not sufficient to overcome the resonator losses, and the laser will emit only very small light powers. The minimum pump power needed to begin laser action is called the ''[[lasing threshold]]''. The gain medium will amplify any photons passing through it, regardless of direction; but only the photons aligned with the cavity manage to pass more than once through the medium and so have significant amplification.
+
+The beam in the cavity and the output beam of the laser, if they occur in free space rather than waveguides (as in an [[optical fiber]] laser), are, at best, low order [[Gaussian beam]]s. However this is rarely the case with powerful lasers. If the beam is not a low-order Gaussian shape, the [[transverse mode]]s of the beam can be described as a superposition of [[Hermite polynomials|Hermite]]-[[Gaussian function|Gaussian]] or [[Laguerre polynomials|Laguerre]]-Gaussian beams (for stable-cavity lasers). Unstable laser resonators on the other hand, have been shown to produce fractal shaped beams [http://www.nature.com/nature/journal/v402/n6758/abs/402138a0.html (Link to original article in Nature Vol. 402, 138 (11 November 1999)) <ref>G.P. Karman, G.S. McDonald, G.H.C. New, J.P. Woerdman, "Fractal modes in unstable resonators", [http://www.nature.com/nature/journal/v402/n6758/abs/402138a0.html Nature Vol. 402, 138 (11 November 1999).] </ref>.] The beam may be highly ''[[collimated light|collimated]]'', that is being parallel without [[beam divergence|diverging]]. However, a perfectly collimated beam cannot be created, due to [[diffraction]]. The beam remains collimated over a distance which varies with the square of the beam diameter, and eventually diverges at an angle which varies inversely with the beam diameter. Thus, a beam generated by a small laboratory laser such as a [[helium-neon laser]] spreads to about 1.6 kilometers (1 mile) diameter if shone from the [[Earth]] to the [[Moon]]. By comparison, the output of a typical semiconductor laser, due to its small diameter, diverges almost as soon as it leaves the aperture, at an angle of anything up to 50°. However, such a divergent beam can be transformed into a collimated beam by means of a [[lens (optics)|lens]]. In contrast, the light from non-laser light sources cannot be collimated by optics as well or much. 
+
+The output of a laser may be a continuous constant-amplitude output (known as ''CW'' or ''[[continuous wave]]''); or pulsed, by using the techniques of [[Q-switching]], [[modelocking]], or [[gain-switching]]. In pulsed operation, much higher peak powers can be achieved.      
+
+Some types of lasers, such as ''dye lasers'' and ''vibronic solid-state lasers'' can produce light over a broad range of wavelengths; this property makes them suitable for generating extremely short pulses of light, on the order of a few [[1 E-15 s|femtosecond]]s (10<sup>-15</sup> s).
+
+Although the laser phenomenon was discovered with the help of [[quantum physics]], it is not essentially more quantum mechanical than other light sources. The operation of a [[free electron laser]] can be explained without reference to [[quantum mechanics]].
+
+It is understood that the word ''light'' in the acronym ''Light Amplification by Stimulated Emission of Radiation'' is typically used in the expansive sense, as photons of ''any'' energy; it is not limited to photons in the [[visible spectrum]]. Hence there are ''[[infrared]] lasers'', ''[[ultraviolet]] lasers'', ''[[X-ray]] lasers'', etc. For example, a source of atoms in a coherent state can be called an [[atom laser]].
+
+Because the [[microwave]] equivalent of the laser, the ''[[maser]]'', was developed first, devices that emit microwave and [[Radio frequency|radio]] frequencies are usually called ''masers''. In early literature, particularly from researchers at [[Bell Telephone Laboratories]], the laser was often called the ''optical maser''. This usage has since become uncommon, and as of 1998 even Bell Labs uses the term ''laser''.<ref> {{cite web
+  | title = Schawlow and Townes invent the laser
+  | publisher = Lucent Technologies
+  | date = 1998
+  | url = http://www.bell-labs.com/about/history/laser/
+  | accessdate = 2006-10-24 }}</ref>
+
+==History==
+===Foundations===
+In 1917, [[Albert Einstein]] in his paper ''Zur Quantentheorie der Strahlung (On the Quantum Theory of Radiation)'', laid the foundation for the invention of the laser and its predecessor, the [[maser]], in a ground-breaking rederivation of [[Max Planck]]'s law of radiation based on the concepts of probability coefficients (later to be termed 'Einstein coefficients') for the absorption, spontaneous, and stimulated emission.
+
+In 1928, Rudolph W. Landenburg confirmed the existence of stimulated emission and negative absorption.<ref>Steen, W. M. "Laser Materials Processing", 2nd Ed. 1998.</ref> 
+
+In 1939, Valentin A. Fabrikant (USSR) predicted the use of stimulated emission to amplify "short" waves.<ref>{{it icon}} [http://wwwold.unimib.it/ateneo/presentazione/direzione_ammva/prevenzione_protezione/Semin_sicur_laser.ppt Il rischio da laser: cosa è e come affrontarlo; analisi di un problema non così lontano da noi] PROGRAMMA CORSO DI FORMAZIONE OBBLIGATORIO ANNO 2004, Dimitri Batani (Powerpoint presentation >7Mb). Retrieved [[1 January]] 2007.</ref>
+
+In 1947, [[Willis E. Lamb]] and R. C. Retherford found apparent stimulated emission in hydrogen spectra and made the first demonstration of stimulated emission.<ref>Steen, W. M. "Laser Materials Processing", 2nd Ed. 1998.</ref>
+
+In 1950, [[Alfred Kastler]] (Nobel Prize for Physics 1966) proposed the method of optical pumping, which was experimentally confirmed by Brossel, Kastler and Winter two years later.<ref>[http://nobelprize.org/nobel_prizes/physics/laureates/1966/press.html The Nobel Prize in Physics 1966] Presentation Speech by Professor Ivar Waller. Retrieved [[1 January]] 2007.</ref>
+
+===Maser===
+In 1953, [[Charles Townes|Charles H. Townes]] and graduate students James P. Gordon and Herbert J. Zeiger produced the first microwave amplifier, a device operating on similar principles to the laser, but amplifying [[microwave]] rather than [[infrared]] or visible radiation. Townes's [[maser]] was incapable of continuous output. [[Nikolay Basov]] and [[Aleksandr Prokhorov]] of the [[Soviet Union]] worked independently on the quantum [[oscillation|oscillator]] and solved the problem of continuous output systems by using more than two energy levels and produced the first maser. These systems could release [[stimulated emission]] without falling to the ground state, thus maintaining a [[population inversion]]. In 1955 Prokhorov and Basov suggested an optical pumping of multilevel system as a method for obtaining the population inversion, which later became one of the main methods of laser pumping.
+
+Townes reports that he encountered opposition from a number of eminent colleagues who thought the maser was theoretically impossible -- including [[Niels Bohr]], [[John von Neumann]], [[Isidor Rabi]], [[Polykarp Kusch]], and Llewellyn H. Thomas[http://books.google.com/books?id=VrbD41GGeJYC&pg=PA69&lpg=PA69&dq=%22niels+bohr%22+rabi+kusch+von+neumann+laser&source=web&ots=0_A7OuramT&sig=4R4yTmk6SmJTN8mZaiOMzgg-LO4].
+
+Townes, Basov, and Prokhorov shared the [[Nobel Prize in Physics]] in 1964 "For fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle".
+
+===Laser===
+In 1957, Charles Hard Townes and [[Arthur Leonard Schawlow]], then at [[Bell Labs]], began a serious study of the infrared laser. As ideas were developed, [[infrared]] frequencies were abandoned with focus on [[visible light]] instead. The concept was originally known as an "optical maser". Bell Labs filed a [[patent]] application for their proposed optical maser a year later. Schawlow and Townes sent a manuscript of their theoretical calculations to [[Physical Review]], which published their paper that year (Volume 112, Issue 6).
+
+[[Image:Gould notebook 001.jpg|thumb|right|The first page of Gordon Gould's laser notebook in which he coined the acronym LASER and described the essential elements for constructing one.]]<!--
+ FAIR USE of Gould notebook 001.jpg: see image description page at Image:Gould notebook 001.jpg for rationale -->
+At the same time [[Gordon Gould]], a graduate student at [[Columbia University]], was working on a [[doctoral thesis]] on the energy levels of excited [[thallium]]. Gould and Townes met and had conversations on the general subject of radiation [[Emission (electromagnetic radiation)|emission]]. Afterwards Gould made notes about his ideas for a "laser" in November 1957, including suggesting using an open [[resonator]], which became an important ingredient of future lasers.
+
+In 1958, Prokhorov independently proposed using an open resonator, the first published appearance of this idea. Schawlow and Townes also settled on an open resonator design, apparently unaware of both the published work of Prokhorov and the unpublished work of Gould.
+
+The term "laser" was first introduced to the public in Gould's 1959 conference paper "The LASER, Light Amplification by Stimulated Emission of Radiation".<ref>{{cite journal |last=Gould |first= R. Gordon |year=1959 |month=June |title=The LASER, Light Amplification by Stimulated Emission of Radiation | journal = The Ann Arbor Conference on Optical Pumping}}</ref> 
+<ref>{{cite book |last=Chu |first=Steven |authorlink=Steven Chu |coauthors=and Townes, Charles |editor=ed. Edward P. Lazear, |title=Biographical Memoirs |year=2003 |others=vol. 83 |publisher=National Academy of Sciences |id=ISBN 0-309-08699-X |pages=p. 202 |chapter=Arthur Schawlow }}</ref><!--
+
+Need a more complete citation for [the Gould?] paper. There were published Proceedings from this conference, but I have not been able to confirm that Gould's paper appears in it. UMich library has two copies. 
+
+--> Gould intended "-aser" to be a suffix, to be used with an appropriate prefix for the spectra of light emitted by the device (x-ray laser = xaser, ultraviolet laser = uvaser, etc.). None of the other terms became popular, although "raser" was used for a short time to describe radio-frequency emitting devices.
+
+Gould's notes included possible applications for a laser, such as [[Spectroscopy|spectrometry]], [[interferometry]], [[radar]], and [[nuclear fusion]]. He continued working on his idea and filed a [[patent application]] in April 1959. The [[United States Patent and Trademark Office|U.S. Patent Office]] denied his application and awarded a patent to [[Bell Labs]] in 1960. This sparked a legal battle that ran 28 years, with scientific prestige and much money at stake. Gould won his first minor patent in 1977, but it was not until 1987 that he could claim his first significant patent victory when a federal judge ordered the government to issue patents to him for the optically pumped laser and the [[gas discharge]] laser. 
+
+The first working laser was made by [[Theodore Maiman|Theodore H. Maiman]] in 1960<ref>Maiman, T.H. (1960) "Stimulated Optical Radiation in Ruby". ''Nature'', '''187''' 4736, pp. 493-494.</ref> at [[Hughes Research Laboratories]] in [[Malibu, California]], beating several research teams including those of [[Charles H. Townes|Townes]] at [[Columbia University]], Arthur L. Schawlow at Bell Labs,<ref>Hecht, Jeff (2005) ''Beam: The Race to Make the Laser'', USA, Oxford Univ. Press. ISBN 0-19-514210-1.</ref> and Gould at a company called TRG (Technical Research Group). Maiman used a solid-state [[flashlamp]]-pumped synthetic [[ruby]] [[crystal]] to produce red laser light at 694 nanometres wavelength. Maiman's laser, however, was only capable of pulsed operation due to its three energy level pumping scheme.
+
+Later in 1960 the [[Iran]]ian physicist [[Ali Javan]], working with [[William R. Bennett, Jr.|William R. Bennett]] and Donald Herriot, made the first [[gas laser]] using [[helium]] and [[neon]]. Javan later received the [[Albert Einstein Award]] in 1993. 
+
+The concept of the semiconductor [[laser diode]] was proposed by Basov and Javan. The first ''laser diode'' was demonstrated by [[Robert N. Hall]] in 1962. Hall's device was made of [[gallium arsenide]] and emitted at 850 nm in the near-[[infrared]] region of the spectrum. The first semiconductor laser with visible emission was demonstrated later the same year by [[Nick Holonyak|Nick Holonyak, Jr]]. As with the first gas lasers, these early semiconductor lasers could be used only in pulsed operation, and indeed only when cooled to [[liquid nitrogen]] temperatures (77 K). 
+
+In 1970, [[Zhores Ivanovich Alferov|Zhores Alferov]] in the Soviet Union and Izuo Hayashi and Morton Panish of [[Bell Telephone Laboratories]] independently developed laser diodes continuously operating  at room temperature, using the [[heterojunction]] structure.
+
+===Recent innovations===
+[[Image:History of laser intensity.svg|thumb|300px|Graph showing the history of maximum laser pulse intensity throughout the past 40 years.]]
+Since the early period of laser history, laser research has produced a variety of improved and specialized laser types, optimized for different performance goals, including:
+* new wavelength bands 
+* maximum average output power
+* maximum peak output power 
+* minimum output pulse duration
+* maximum power efficiency
+* maximum charging
+* maximum firing
+and this research continues to this day.
+
+Lasing without maintaining the medium excited into a population inversion, was discovered in 1992 in [[sodium]] gas and again in 1995 in [[rubidium]] gas by various international teams. This was accomplished by using an external maser to induce "optical transparency" in the medium by introducing and destructively interfering the ground electron transitions between two paths, so that the likelihood for the ground electrons to absorb any energy has been cancelled. 
+
+In 1985 at the [[University of Rochester]]'s [[Laboratory for Laser Energetics]] a breakthrough in creating ultrashort-pulse, very high-intensity ([[terawatt]]s) laser pulses became available using a technique called [[chirped pulse amplification]], or CPA, discovered by [[Gérard Mourou]]. These high intensity pulses can produce [[filament propagation]] in the atmosphere.
+<br style="clear:both">
+
+==Types and operating principles==
+:''For a more complete list of laser types see this [[list of laser types]].''
+
+[[Image:Laser spectral lines.svg|thumb|300px|Spectral output of several types of lasers.]]
+===Gas lasers===
+[[Gas laser]]s using many [[gas]]es have been built and used for many purposes. They are one of the oldest types of laser.
+
+The [[helium-neon laser]] (HeNe) emits at a variety of wavelengths and units operating at 633 nm are very common in education because of its low cost.
+
+[[Carbon dioxide laser]]s can emit hundreds of kilowatts<ref>{{cite web
+  | title = Air Force Research Lab's high power CO2 laser
+  | work = Defense Tech Briefs
+  | url = http://www.afrlhorizons.com/Briefs/Feb04/ML0315.html}}</ref><!-- Either link is broken or subscription is required for access --> at 9.6 [[µm]] and 10.6 µm, and are often used in industry for cutting and welding. The efficiency of a CO<sub>2</sub> laser is over 10%.
+
+[[Ion laser|Argon-ion]] lasers emit light in the range 351-528.7 nm. Depending on the optics and the laser tube a different number of lines is usable but the most commonly used lines are 458 nm, 488 nm and 514.5 nm.
+
+A nitrogen [[TEA laser|'''t'''ransverse '''e'''lectrical discharge in gas at '''a'''tmospheric pressure]]  (TEA) laser is an inexpensive gas laser producing UV Light at 337.1 nm.<ref>{{cite web
+  | last = Csele
+  | first = Mark
+  | title = The TEA Nitrogen Gas Laser
+  | work = Homebuilt Lasers Page
+  | date = 2004
+  | url = http://www.technology.niagarac.on.ca/people/mcsele/lasers/LasersTEA.htm
+  | accessdate = 2007-09-15 }}</ref>
+
+Metal ion lasers are gas lasers that generate [[deep ultraviolet]] wavelengths. [[Helium]]-[[silver]] (HeAg) 224 nm and [[neon]]-[[copper]] (NeCu) 248 nm are two examples. These lasers have particularly narrow oscillation [[linewidth]]s of less than 3 [[GHz]] (0.5 [[picometers]]),<ref>{{cite web
+  | title = Deep UV Lasers
+  | publisher = Photon Systems, Covina, Calif
+  | url = http://www.photonsystems.com/pdfs/duv-lasersource.pdf
+  | accessdate = 2007-05-27 }}</ref> making them candidates for use in [[fluorescence]] suppressed [[Raman spectroscopy]].
+
+===Chemical lasers===
+[[Chemical laser]]s are powered by a chemical reaction, and can achieve high powers in continuous operation. For example, in the [[Hydrogen fluoride laser]] (2700-2900 nm) and the [[Deuterium fluoride laser]] (3800 nm) the reaction is the combination of hydrogen or deuterium gas with combustion products of [[ethylene]] in [[nitrogen trifluoride]]. They were invented by [[George C. Pimentel]].
+
+====Excimer lasers====
+[[Excimer laser]]s are powered by a chemical reaction involving an ''excited dimer'', or ''[[excimer]]'', which is a short-lived dimeric or heterodimeric molecule formed from two species (atoms), at least one of which is in an [[excited state|excited electronic state]]. They typically produce [[ultraviolet]] light, and are used in semiconductor [[photolithography]] and in [[LASIK]] eye surgery. Commonly used excimer molecules include F<sub>2</sub> ([[fluorine]], emitting at 157 nm), and [[:Category:Noble gas compounds|noble gas compounds]] (ArF [193 nm], KrCl [222 nm], KrF [248 nm], XeCl [308 nm], and XeF [351 nm]).<ref>{{cite book 
+ | first=D. | last=Schuocker | year=1998
+ | title=Handbook of the Eurolaser Academy 
+ | publisher=Springer | id=ISBN 0412819104 }}</ref>
+
+===Solid-state lasers===
+[[Image:Starfield Optical Range - sodium laser.jpg|thumb|A 50 W [[FASOR (laser physics)|FASOR]], based on a Nd:YAG laser, used at the [[Starfire Optical Range]]]]
+
+[[Solid state laser]] materials are commonly made by doping a crystalline solid host with ions that provide the required energy states. For example, the first working laser was a [[ruby laser]], made from [[ruby]] ([[chromium]]-doped [[corundum]]).
+
+[[Neodymium]] is a common dopant in various solid state laser crystals, including [[yttrium orthovanadate]] ([[Neodymium-doped yttrium orthovanadate|Nd:YVO<sub>4</sub>]]), [[yttrium lithium fluoride]] ([[Nd:YLF]]) and [[yttrium aluminium garnet]] ([[Nd:YAG]]). All these lasers can produce high powers in the [[infrared]] spectrum at 1064 nm. They are used for cutting, welding and marking of metals and other materials, and also in [[spectroscopy]] and for pumping [[dye laser]]s. These lasers are also commonly [[nonlinear optics|frequency doubled]], [[nonlinear optics|tripled]] or [[nonlinear optics|quadrupled]] to produce 532 nm ([[green]], visible), 355 nm ([[UV]]) and 266 nm ([[UV]]) light when those wavelengths are needed.
+
+[[Ytterbium]], [[holmium]], [[thulium]], and [[erbium]] are other common dopants in solid state lasers. Ytterbium is used in crystals such as Yb:YAG, Yb:KGW, Yb:KYW, Yb:SYS, Yb:BOYS, Yb:CaF2, typically operating around 1020-1050 nm. They are potentially very efficient and high powered due to a small quantum defect. Extremely high powers in ultrashort pulses can be achieved with Yb:YAG. [[Holmium]]-doped YAG crystals emit at 2097 nm and form an efficient laser operating at [[infrared]] wavelengths strongly absorbed by water-bearing tissues. The Ho-YAG is usually operated in a pulsed mode, and passed through optical fiber surgical devices to resurface joints, remove rot from teeth, vaporize cancers, and pulverize kidney and gall stones.
+
+[[Titanium]]-doped sapphire ([[Ti-sapphire laser|Ti:sapphire]]) produces a highly [[tunable laser|tunable]] [[infrared]] laser, commonly used for [[spectroscopy]] as well as the most common [[ultrashort pulse]] laser. 
+
+Thermal limitations in solid-state lasers arise from unconverted pump power that manifests itself as heat and [[phonon]] energy.  This heat, when coupled with a high thermo-optic coefficient (d''n''/d''T'') can give rise to thermal lensing as well as reduced quantum efficiency.  These types of issues can be overcome by another novel diode-pumped solid state laser, the diode-pumped thin [[disk laser]]. The thermal limitations in this laser type are mitigated by utilizing a laser medium geometry in which the thickness is much smaller than the diameter of the pump beam. This allows for a more even thermal gradient in the material.  Thin [[disk laser]]s have been shown to produce up to kilowatt levels of power.<ref>C. Stewen, M. Larionov, and A. Giesen, “Yb:YAG thin disk laser with 1 kW output power,” in OSA Trends in Optics and Photonics, Advanced Solid State Lasers, H. Injeyan, U. Keller, and C. Marshall, ed. (Optical Society of America, Washington, DC., 2000) pp. 35-41.</ref>
+
+====Fiber-hosted lasers====
+Solid state lasers also include [[glass]] or [[optical fiber]] hosted lasers, for example, with erbium or ytterbium ions as the active species. These allow extremely long gain regions and can support very high output powers because the fiber's high surface area to volume ratio allows efficient cooling. In addition, the fiber's waveguiding properties tend to reduce thermal distortion of the beam. Quite often, the fiber is designed as a double-clad glass fiber. This type of fiber consists of a fiber core, an inner cladding and an outer cladding. The index of the three concentric layers is chosen so that the fiber core acts as a single-mode fiber for the laser emission while the outer cladding acts as a highly multimode core for the pump laser. This lets the pump propagate a large amount of power into and through the active inner core region, while still having a high numerical aperture (NA) to have easy launching conditions. Fiber lasers have a fundamental limit in that the intensity of the light in the fiber cannot be so high that optical nonlinearities induced by the local electric field strength can become dominant and prevent laser operation and/or lead to the material destruction of the fiber.
+
+====Semiconductor lasers====
+Commercial [[laser diode]]s emit at wavelengths from 375 nm to 1800 nm, and wavelengths of over 3 µm have been demonstrated. Low power laser diodes are used in [[laser printer]]s and CD/DVD players. More powerful laser diodes are frequently used to optically [[laser pumping|pump]] other lasers with high efficiency. The highest power industrial laser diodes, with power up to 10 kW, are used in industry for cutting and welding. External-cavity semiconductor lasers have a semiconductor active medium in a larger cavity. These devices can generate high power outputs with good beam quality, wavelength-tunable narrow-[[linewidth]] radiation, or ultrashort laser pulses. 
+
+Vertical cavity surface-emitting lasers ([[VCSEL]]s) are semiconductor lasers whose emission direction is perpendicular to the surface of the wafer. VCSEL devices typically have a more circular output beam than conventional laser diodes, and potentially could be much cheaper to manufacture. As of 2005, only 850 nm VCSELs are widely available, with 1300 nm VCSELs beginning to be commercialized,<ref> [http://lfw.pennnet.com/Articles/Article_Display.cfm?ARTICLE_ID=243400&p=12 "Picolight ships first 4-Gbit/s 1310-nm VCSEL transceivers"], ''Laser Focus World'', Dec. 9, 2005, accessed May 27, 2006</ref> and 1550 nm devices an area of research. [[VECSEL]]s are external-cavity VCSELs. [[Quantum cascade laser]]s are semiconductor lasers that have an active transition between energy ''sub-bands'' of an electron in a structure containing several [[quantum well]]s.
+
+The development of a [[silicon]] laser is important in the field of [[optical computing]], since it means that if silicon, the chief ingredient of [[computer chips]], were able to produce lasers, it would allow the light to be manipulated like electrons are in normal integrated circuits. Thus, photons would replace electrons in the circuits, which dramatically increases the speed of the computer. Unfortunately, silicon is a difficult lasing material to deal with, since it has certain  properties which block lasing. However, recently teams have produced silicon lasers through methods such as fabricating the lasing material from silicon and other semiconductor materials, such as [[indium(III) phosphide]] or [[gallium(III) arsenide]], materials which allow coherent light to be produced from silicon. These are called [[hybrid silicon laser]]. Another type is a [[Raman laser]], which takes advantage of [[Raman scattering]] to produce a laser from materials such as silicon.
+
+===Dye lasers===
+[[Dye laser]]s use an organic dye as the gain medium. The wide gain spectrum of available dyes allows these lasers to be highly tunable, or to produce very short-duration pulses (on the order of a few [[femtosecond]]s)
+
+===Free electron lasers===
+[[Free electron laser]]s, or FELs, generate coherent, high power radiation, that is widely tunable, currently ranging in wavelength from microwaves, through [[terahertz radiation]] and infrared, to the visible spectrum, to soft X-rays. They have the widest frequency range of any laser type. While FEL beams share the same optical traits as other lasers, such as coherent radiation, FEL operation is quite different. Unlike gas, liquid, or solid-state lasers, which rely on bound atomic or molecular states, FELs use a relativistic electron beam as the lasing medium, hence the term ''free electron''.
+
+===Nuclear reaction lasers===
+In September 2007, the [[BBC News]] reported that there was speculation about the possibility of using [[positronium]] [[annihilation]] to drive a very powerful [[gamma ray]] laser. <ref>[http://news.bbc.co.uk/2/hi/science/nature/6991030.stm Mirror particles form new matter]  
+by Jonathan Fildes, BBC News</ref> This laser is believed to be powerful enough to jump-start a nuclear reaction, with a single gamma ray laser, rather than the hundreds of conventional lasers involved in current experiments.
+
+==Continuous wave and pulsed lasers==
+A laser may either be built to emit a continuous beam or a train of short pulses. This makes fundamental differences in construction, usable laser media, and applications.
+
+=== Continuous wave operation ===
+In the ''[[continuous wave]]'' (CW) mode of operation, the output of a laser is relatively consistent with respect to time.  The population inversion required for lasing is continually maintained by a steady pump source.
+
+=== Pulsed operation ===
+In the pulsed mode of operation, the output of a laser varies with respect to time, typically taking the form of alternating 'on' and 'off' periods.  In many applications one aims to deposit as much energy as possible at a given place in as short time as possible. In [[laser ablation]] for example, a small volume of material at the surface of a work piece might evaporate if it gets the energy required to heat it up far enough in very short time. If, however, the same energy is spread over a longer time, the heat may have time to [[disperse]] into the bulk of the piece, and less material evaporates.  There are a number of methods to achieve this.  
+
+====Q-switching====
+{{main|Q-switching}}
+
+In a Q-switched laser, the population inversion (usually produced in the same way as CW operation) is allowed to build up by making the cavity conditions (the 'Q') unfavorable for lasing.  Then, when the pump energy stored in the laser medium is at the desired level, the 'Q' is adjusted (electro- or acousto-optically) to favorable conditions, releasing the pulse.  This results in high peak powers as the average power of the laser (were it running in CW mode) is packed into a shorter time frame.
+
+==== Modelocking ====
+{{main|Modelocking}}
+
+A modelocked laser emits extremely short pulses on the order of tens of [[picosecond]]s down to less than 10 [[femtoseconds]].  These pulses are typically separated by the time that a pulse takes to complete one round trip in the resonator cavity.  Due to the [[Fourier transform#Localization property|Fourier limit]] (also known as energy-time [[Uncertainty principle|uncertainty]]), a pulse of such short temporal length has a spectrum which contains a wide range of wavelengths.  Because of this, the laser medium must have a broad enough gain profile to amplify them all.  An example of a suitable material is [[titanium]]-doped, artificially grown [[sapphire]] ([[Ti-sapphire laser|Ti:sapphire]]).
+
+The modelocked laser is a most versatile tool for researching processes happening at extremely fast time scales ([[femtosecond physics]] and [[femtosecond chemistry]], also called [[ultrafast science]]), for maximizing the effect of [[nonlinear optics|nonlinearity]] in optical materials (e.g. in [[second-harmonic generation]], [[parametric down-conversion]], [[optical parametric oscillator]]s and the like), and in ablation applications.  Again, because of the short timescales involved, these lasers can achieve extremely high powers.
+
+====Pulsed pumping====
+Another method of achieving pulsed laser operation is to pump the laser material with a source that is itself pulsed, either through electronic charging in the case of flashlamps, or another laser which is already pulsed.  Pulsed pumping was historically used with dye lasers where the inverted population lifetime of a dye molecule was so short that a high energy, fast pump was needed. The way to overcome this problem was to charge up large capacitors which are then switched to discharge through flashlamps, producing a broad spectrum pump flash.  Pulsed pumping is also required for lasers which disrupt the gain medium so much during the laser process that lasing has to cease for a short period. These lasers, such as the excimer laser and the copper vapour laser, can never be operated in CW mode.
+
+==Uses==
+[[Image:Laser sizes.jpg|thumb|Lasers range in size from microscopic [[diode laser]]s (top) with numerous applications, to football field sized [[neodymium]] [[glass]] lasers (bottom) used for [[inertial confinement fusion]], [[nuclear weapon]]s research and other high energy density physics experiments.]]
+{{main|Laser applications}}
+
+When lasers were invented in 1960, they were called "a solution looking for a problem". Since then, they have become ubiquitous, finding utility in thousands of highly varied applications in every section of modern society, including [[consumer electronics]], [[information technology]], [[science]], [[medicine]], [[industry]], [[law enforcement]], [[entertainment]], and the [[military]].
+
+The first application of lasers visible in the daily lives of the general population was the supermarket [[barcode]] scanner, introduced in 1974. The [[laserdisc]] player, introduced in 1978, was the first successful consumer product to include a laser, but the [[compact disc]] player was the first laser-equipped device to become truly common in consumers' homes, beginning in 1982, followed shortly by [[laser printer]]s.
+
+Some of the other applications include:
+
+* Medicine: Bleedless surgery, laser healing, survical treatment, kidney stone treatment, [[Laser_eye_surgery|eye treatment]], dentistry
+* Industry: Cutting, welding, material heat treatment, marking parts
+* Defense: Marking targets, guiding munitions, [[Airborne_Laser|missile defence]], [[DIRCM|electro-optical countermeasures (EOCM)]], [[RADAR]] alternative
+* Research: Spectroscopy, laser ablation, Laser annealing, laser scattering, laser interferometry, [[LIDAR]]
+* Product development/Commercial: Laser Printers, [[Compact disc|CDs]], [[Barcode]] scanners, laser pointers, [[Holograms]])
+
+In 2004, excluding diode lasers, approximately 131,000 lasers were sold world-wide, with a value of US$2.19 billion.<ref>Kincade, Kathy and Stephen Anderson (2005) "Laser Marketplace 2005: Consumer applications boost laser sales 10%", ''Laser Focus World'', vol. 41, no. 1. ([http://lfw.pennnet.com/Articles/Article_Display.cfm?Section=ARCHI&ARTICLE_ID=219847&VERSION_NUM=2&p=12 online])</ref> In the same year, approximately 733 million diode lasers, valued at $3.20 billion, were sold.<ref>Steele, Robert V. (2005) "Diode-laser market grows at a slower rate", ''Laser Focus World'', vol. 41, no. 2. ([http://lfw.pennnet.com/Articles/Article_Display.cfm?Section=ARCHI&ARTICLE_ID=221439&VERSION_NUM=4&p=12 online])</ref>
+
+===Example uses by typical output power===
+Different uses need lasers with different output powers. Many lasers are designed for a higher peak output with an extremely short pulse, and this requires different technology from a ''continuous wave'' (constant output) lasers, as are used in communication, or cutting. Output power is always less than the input power needed to generate the beam.
+
+The peak power required for some uses:
+* 5 mW -  [[CD-ROM]] drive
+* 5-10 mW - [[DVD player]] 
+* 100 mW - [[CD-R]] drive
+* 250 mW - output power of Sony SLD253VL red laser diode, used in consumer 48-52 speed CD-R burner.<ref>Sony Corp. [http://www.sony.net/Products/SC-HP/laserdiodewld/products/pdf/lddvd.pdf "250 mW semiconductor laser diodes that contribute to faster data write operations in CD-R/RW and 100 mW semiconductor laser diodes for DVD+R/RW and DVD-R/RW."] Application note. URL accessed May 27, 2006.</ref>
+* 500 mW - output power of Sony SLD1332V red laser diode, used in consumer DVD-R burner.<ref>Sony Corp. [http://www.sony.net/Products/SC-HP/laserdiodewld/products/pdf/sld1332v.pdf]</ref>
+* 1 W - green laser in current [[Holographic Versatile Disc]] prototype development.
+* 100 to 3000 W (peak output 1.5 kW) - typical sealed CO<sub>2</sub> lasers used in industrial [[laser cutting]].
+* 1 kW - Output power expected to be achieved by "a single 1 cm diode laser bar"<ref>Tyrell, James, "[http://optics.org/optics/Articles.do?channel=technology&type=ole&volume=11&issue=3&article=3&page=1 Diode lasers get fundamental push to higher power]", ''Optics.org''. URL accessed May 27, 2006.</ref>
+* 700 terawatts (TW) -  The [[National Ignition Facility]] is working on a system that, when complete, will contain a 192-beam, 1.8-megajoule laser system adjoining a 10-meter-diameter target chamber.<ref>Heller, Arnie, "[http://www.llnl.gov/str/JulAug05/VanArsdall.html Orchestrating the world's most powerful laser]." ''Science and Technology Review''. Lawrence Livermore National Laboratory, July/August 2005. URL accessed May 27, 2006.</ref> The system is expected to be completed in April of 2009.
+* 1.25 petawatts (PW) - world's most powerful laser (claimed on [[23 May]] [[1996]] by [[Lawrence Livermore Laboratory]]).
+
+==Laser safety==
+[[Image:DIN 4844-2 Warnung vor Laserstrahl D-W010.svg|thumb|100px|Warning symbol for lasers]]
+{{main|Laser safety|Lasers and aviation safety}}
+Even the first laser was recognized as being potentially dangerous. [[Theodore Maiman]] characterized the first laser as having a power of one "[[List of strange units of measurement#Laser power: Gillette|Gillette]]"; as it could burn through one [[Global Gillette|Gillette]] [[razor blade]]. Today, it is accepted that even low-power lasers with only a few milliwatts of output power can be hazardous to human eyesight.  
+
+At wavelengths which the [[cornea]] and the lens can focus well, the coherence and low divergence of laser light means that it can be focused by the [[eye]] into an extremely small spot on the [[retina]], resulting in localized burning and permanent damage in seconds or even less time. Lasers are classified into safety classes numbered I (inherently safe) to IV (even scattered light can cause eye and/or skin damage). Laser products available for consumers, such as CD players and laser pointers are usually in class I, II, or III. Certain infrared lasers with wavelengths beyond about 1.4 micrometres are often referred to as being "eye-safe". This is because the intrinsic molecular vibrations of [[water]] molecules very strongly absorb light in this part of the spectrum, and thus a laser beam at these wavelengths is attenuated so completely as it passes through the eye's [[cornea]] that no light remains to be focused by the lens onto the [[retina]]. The label "eye-safe" can be misleading, however, as it only applies to relatively low power continuous wave beams and any high power or [[q-switched]] laser at these wavelengths can burn the cornea, causing severe eye damage.
+
+==Related terminology==
+In analogy with optical lasers, a device which produces any particles or [[electromagnetic radiation]] in a coherent state is also called a "laser", usually with indication of type of particle as prefix (for example, [[atom laser]].) In most cases, "laser" refers to a source of coherent light or other [[electromagnetic radiation]].
+
+The [[back-formation|back-formed]] verb '''''lase''''' means "to produce laser light" or "to apply laser light to".<ref>[http://dictionary.reference.com/browse/lase Dictionary.com - "lase"]</ref>
+
+==Popular misconceptions==
+{{Original research|date=December 2007}}
+The representation of lasers in [[popular culture]], especially in [[science fiction]] and action movies, is often misleading. Contrary to their portrayal in many science fiction movies, a laser beam would not be visible (at least to the naked eye) in the near vacuum of space as there would be insufficient matter to cause scattering, except if there were a significant amount of fine [[shrapnel]] and other organic particles in that region.
+
+In air, however, moderate intensity (tens of mW/cm²) laser beams of shorter green and blue wavelengths and high intensity beams of longer orange and red wavelengths can be visible due to [[Rayleigh scattering]]. With even higher intensity pulsed beams, the air can be heated to the point where it becomes a [[Plasma (physics)|plasma]], which is also visible. This causes rapid heating and explosive expansion of the surrounding air, which makes a popping noise analogous to the [[thunder]] which accompanies [[lightning]]. The term "[[thermal blooming]]" is used to describe these self-induced thermal distortions. This phenomenon can cause retro-reflection of the laser beam back into the laser source, possibly damaging its optics. When this phenomenon occurs in certain scientific experiments it is referred to as a "plasma mirror" or "plasma shutter". One approach for overcoming thermal distortion is to use a short-duration laser pulse. 
+
+Some action movies depict security systems using lasers of visible light (and their foiling by the hero, typically using mirrors); the hero may see the path of the beam by sprinkling some dust in the air. It is far easier and cheaper to build infrared laser diodes rather than visible light laser diodes, and such systems almost never use visible light lasers.  Additionally, putting enough dust in the air to make the beam visible is likely to be enough to "break" the beam and trigger the alarm (as demonstrated on an episode of ''[[MythBusters]]'' on the [[Discovery Channel]]).
+
+Science fiction films [[special effects]] often depict laser beams propagating at only a few metres per second—slowly enough to see their progress, in a manner reminiscent of conventional [[tracer ammunition]]—whereas in reality a laser beam travels at the [[speed of light]] and would seem to appear instantly to the naked eye from start to end.
+
+Several of these misconceptions can be found in the 1964 [[James Bond]] film ''[[Goldfinger (film)|Goldfinger]]''.  In one of the most famous scenes in the Bond films, Bond, played by [[Sean Connery]], faces a laser beam approaching his groin while melting the solid [[gold]] table to which he is strapped. The director [[Guy Hamilton]] found that a real laser beam would not show up on camera so it was added as an [[optical effect]].  The table was precut up the middle and coated with gold paint, while the melting effect was achieved by a man below the table with an [[oxyacetylene]] torch.  Goldfinger's laser makes a whirring electronic sound, while a real laser would have produced a fairly heat-free and silent cut.<ref>[http://www.mi6.co.uk/sections/movies/gf_production.php3?t=gf&s=gf Production Notes - Goldfinger] www.mi6.co.uk. Retrieved [[1 January]] 2007.</ref>
+
+In addition to movies and popular culture, laser misconceptions are present in some popular science publications or simple introductory explanations. For example, laser light is not perfectly parallel as is sometimes claimed; all laser beams spread out to some degree as they propagate due to [[diffraction]]. In addition, no laser is perfectly monochromatic (i.e. coherent); most operate at several closely spaced frequencies (colors) and even those that nominally operate a single frequency still exhibit some variation in frequency. Furthermore, [[mode locking|mode locked]] lasers are designed to operate with thousands or millions of frequencies locked together to form a short pulse.
+
+==Fictional predictions==
+For lasers in fiction, see also [[raygun]].
+
+Before [[stimulated emission]] was discovered, [[novelist]]s used to describe machines that we can identify as "lasers". 
+*The first fictional device similar to a military CO<sub>2</sub> laser (see [[Heat-Ray]]) appears in the sci-fi novel ''[[The War of the Worlds (novel)|The War of the Worlds]]'' by  [[H. G. Wells]] in [[1898]].
+*A laser-like device was described in [[Alexey Tolstoy]]'s sci-fi novel ''[[The Hyperboloid of Engineer Garin]]'' in [[1927]]: see [[Raygun#In specific scenarios]] (scroll down to alphabetical order 'H' in the left column).
+*[[Mikhail Bulgakov]] exaggerated the biological effect (laser biostimulation) of intensive red light in his sci-fi novel ''[[Fatal Eggs]]'' (1925), without any reasonable description of the source of this red light. (In that novel, the red light first appears occasionally from the illuminating system of an advanced microscope; then the protagonist Prof. Persikov arranges the special set-up for generation of the red light.)
+
+== Hobby uses ==
+In recent years, some hobbyists have taken interests in lasers. Lasers used by hobbyists are generally of class IIIa or IIIb, although some have made their own class IV types.<ref>[http://www.powerlabs.org/laser.htm PowerLabs CO2 LASER!] Sam Barros [[21 June]] 2006. Retrieved [[1 January]] 2007.</ref> However, compared to other hobbyists, laser hobbyists are far less common, due to the cost and potential dangers involved.  Due to the cost of lasers, some hobbyists use inexpensive means to obtain lasers, such as extracting diodes from [[DVD burner]]s.<ref>[http://www.felesmagus.com/pages/lasers-howto.html Howto: Make a DVD Burner into a High-Powered Laser]</ref> 
+
+==See also==
+{{portalpar|Electronics|Nuvola_apps_ksim.png}}
+<div style="-moz-column-count:3; column-count:3;">
+* [[3D scanning|Laser scanning]]
+* [[Holographic Versatile Disc]], a data storage system using green laser and [[holography]].
+* [[Holography]] - the creation and storage of 3 dimensional images using laser
+* [[Induced gamma emission]]
+* [[International Laser Display Association]]
+* [[Laser acronyms]]
+* [[Laser applications]]
+* [[Laser construction]]
+* [[Laser converting]]
+* [[Laser cutting]]
+* [[Laser lighting display]] (laser show)
+* [[Laser pointer]]
+* [[Laser science]]
+* [[Laser welding]]
+* [[List of light sources]]
+* [[Maser]]
+* [[Optical amplifier]]
+* [[Raygun]]
+* [[Selective laser sintering]]
+* [[Speckle pattern]]
+* [[Tophat beam]]
+</div>
+
+==Further reading==
+===Books===
+*Bertolotti, Mario (1999, trans. 2004). ''The History of the Laser'', Institute of Physics. ISBN 0-750-30911-3 
+*Csele, Mark (2004). ''Fundamentals of Light Sources and Lasers'', Wiley. ISBN 0-471-47660-9
+*Koechner, Walter (1992). ''Solid-State Laser Engineering'', 3rd ed., Springer-Verlag. ISBN 0-387-53756-2
+*Siegman, Anthony E. (1986). ''Lasers'', University Science Books. ISBN 0-935702-11-3
+*Silfvast, William T. (1996). ''Laser Fundamentals'', Cambridge University Press. ISBN 0-521-55617-1
+*Svelto, Orazio (1998). ''Principles of Lasers'', 4th ed. (trans. David Hanna), Springer. ISBN 0-306-45748-2
+*{{cite book |last=Taylor |first=Nick |title=LASER: The inventor, the Nobel laureate, and the thirty-year patent war |year=2000 |publisher=Simon & Schuster |location=New York |id=ISBN 0-684-83515-0 }}
+*Wilson, J. & Hawkes, J.F.B. (1987). ''Lasers: Principles and Applications'', Prentice Hall International Series in Optoelectronics, [[Prentice Hall]]. ISBN 0-13-523697-5
+*Yariv, Amnon (1989). ''Quantum Electronics'', 3rd ed., Wiley. ISBN 0-471-60997-8
+
+===Periodicals===
+*''Applied Physics B: Lasers and Optics'' (ISSN 0946-2171)
+*''IEEE Journal of Lightwave Technology'' (ISSN 0733-8724)
+*''IEEE Journal of Quantum Electronics'' (ISSN 0018-9197)
+*''IEEE Journal of Selected Topics in Quantum Electronics'' (ISSN 1077-260X)
+*''IEEE Photonics Technology Letters'' 
+*''Journal of the Optical Society of America B: Optical Physics'' (ISSN 0740-3224)
+*''[[Laser Focus World]]'' (ISSN 0740-2511)
+*''[[Optics Letters]]'' (ISSN 0146-9592)
+*''Photonics Spectra'' (ISSN 0731-1230)
+
+==Notes and references==
+<!-- ----------------------------------------------------------
+  See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a 
+  discussion of different citation methods and how to generate 
+  footnotes using the<ref>, </ref> and  <reference /> tags
+----------------------------------------------------------- -->
+<div class="references-small">
+<references />
+</div>
+
+==External links==
+*[http://www.rp-photonics.com/encyclopedia.html Encyclopedia of laser physics and technology] by Dr. Rüdiger Paschotta
+*[http://www.repairfaq.org/sam/lasersam.htm A Practical Guide to Lasers for Experimenters and Hobbyists] by Samuel M. Goldwasser
+*[http://www.technology.niagarac.on.ca/staff/mcsele/lasers/index.html Homebuilt Lasers Page] by Professor Mark Csele
+*[http://laserweb.org Laser Web] a community website for laser people
+*[http://www.directindustry.com/cat/optics/laser-sources-AC-198.html Laser sources on DirectIndustry]
+
+[[Category:Lasers| ]]
+[[Category:Optical devices]]
+[[Category:Quantum optics]]
+[[Category:Photonics]]
+[[Category:Acronyms]]
+[[Category:Directed-energy weapons]]
+[[Category:Orphan initialisms]]
+
+{{Link FA|ca}}
+{{Link FA|mk}}
+
+[[af:Laser]]
+[[ar:ليزر]]
+[[bs:Laser]]
+[[bg:Лазер]]
+[[ca:Làser]]
+[[cs:Laser]]
+[[da:Laser]]
+[[de:Laser]]
+[[et:Laser]]
+[[el:Λέιζερ]]
+[[es:Láser]]
+[[eo:Lasero]]
+[[eu:Laser]]
+[[fa:لیزر]]
+[[fr:Laser]]
+[[fy:Laser]]
+[[gl:Láser]]
+[[ko:레이저]]
+[[hi:लेसर विज्ञान]]
+[[hr:Laser]]
+[[id:Laser]]
+[[it:Laser]]
+[[he:לייזר]]
+[[lv:Lāzers]]
+[[lt:Lazeris]]
+[[hu:Lézer]]
+[[mk:Ласер]]
+[[ms:Laser]]
+[[nl:Laser (licht)]]
+[[ja:レーザー]]
+[[no:Laser]]
+[[ug:لازىر]]
+[[pl:Laser]]
+[[pt:Laser]]
+[[ro:Laser]]
+[[ru:Лазер]]
+[[sq:Lazeri]]
+[[simple:Laser]]
+[[sk:Laser]]
+[[sl:Laser]]
+[[sr:Ласер]]
+[[fi:Laser]]
+[[sv:Laser]]
+[[th:เลเซอร์]]
+[[vi:Laser]]
+[[tr:Lazer]]
+[[uk:Лазер]]
+[[zh:激光]]

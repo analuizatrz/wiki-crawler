@@ -1,0 +1,179 @@
+{{Drugbox|
+| IUPAC_name = see [[#Heparin structure|''Heparin structure'']]
+| image=Heparin-2D-skeletal.png
+| image2=Heparin-3D-vdW.png
+| CAS_number=9005-49-6
+| ATC_prefix=B01
+| ATC_suffix=AB01 
+| ATC_supplemental={{ATC|C05|BA03}} {{ATC|S01|XA14}}
+| PubChem=772
+| DrugBank=APRD00056
+| C = 12 | H = 19 | N = 1 | O = 20 | S = 3
+| molecular_weight = 12000-15000 g/mol
+| bioavailability= nil
+| metabolism = hepatic
+| elimination_half-life=1.5 hrs
+| excretion = ?
+| pregnancy_category = C
+| legal_status = ?
+| routes_of_administration= i.v., s.c.
+}}
+'''Heparin''', a highly sulfated [[glycosaminoglycan]] is widely used as an injectable [[anticoagulant]] and has the highest negative [[charge density]] of any known [[biomolecule|biological molecule]].<ref name= cox>{{cite book |last = Cox | first = M. | coauthors = Nelson D. | title = Lehninger, Principles of Biochemistry | issue=4 | publisher = Freeman | date = 2004 | pages=1100 | id=ISBN 0-71674339-6 }}</ref> It can also be used to form an inner anticoagulant surface on various experimental and medical devices such as [[test tube]]s and [[renal dialysis]] machines. Pharmaceutical grade heparin is commonly derived from [[mucosal]] tissues of [[slaughterhouse|slaughtered]] meat animals such as porcine intestine or bovine lung.<ref>{{cite journal | author = Linhardt RJ, Gunay NS. | title = Production and Chemical Processing of Low Molecular Weight Heparins | journal = Sem. Thromb. Hem. | year=1999 | volume=3 | pages=5-16 | id = PMID 10549711 }}</ref>
+
+==Heparin structure==
+Native heparin is a polymer with a molecular weight ranging from 3 [[atomic mass unit|kDa]] to 40 kDa although the average molecular weight of most commercial heparin preparations is in the range of 12 kDa to 15 kDa. 
+Heparin is a member of the [[glycosaminoglycan]] family of [[carbohydrates]] (which includes the closely related molecule [[heparan sulfate]]) and consists of a variably sulfated repeating [[disaccharide]] unit. 
+The main disaccharide units that occur in heparin are shown below. The most common disaccharide unit is composed of a 2-O-sulfated iduronic acid and 6-O-sulfated, N-sulfated glucosamine, IdoA(2S)-GlcNS(6S). For example this makes up 85% of heparins from beef lung and about 75% of those from porcine intestinal mucosa. Not shown below are the rare disaccaharides containing a 3-O-sulfated glucosamine (GlcNS(3S,6S) or a free amine group (GlcNH<sub>3</sub><sup>+</sup>). Under physiological conditions the [[ester]] and [[amide]] sulfate groups are deprotonated and attract positively charged counterions to form a heparin salt. It is in this form that heparin is usually administered as an anticoagulant.
+
+1 unit of heparin is the quantity of heparin required to keep 1 mL of cat's blood fluid for 24 hours at 0°C; it is equivalent approximately to 0.002 mg of pure heparin.
+
+<center>
+<gallery>
+Image:GlcA-GlcNAc.png|<center>'''GlcA-GlcNAc'''</center>
+Image:GlcA-GlcNS.png|<center>'''GlcA-GlcNS'''</center>
+Image:IdoA-GlcNS.png|<center>'''IdoA-GlcNS'''</center>
+Image:IdoA(2S)-GlcNS.png|<center>'''IdoA(2S)-GlcNS'''</center>
+Image:IdoA-GlcNS(6S).png|<center>'''IdoA-GlcNS(6S)'''</center>
+Image:IdoA(2S)-GlcNS(6S).png|<center>'''IdoA(2S)-GlcNS(6S)'''</center>
+</gallery>
+</center>
+
+===Abbreviations===
+
+*'''GlcA''' = β-L-[[glucuronic acid]]
+*'''IdoA''' = α-L-[[iduronic acid]]
+*'''IdoA(2S)''' = 2-O-sulfo-α-L-iduronic acid
+*'''GlcNAc''' = 2-deoxy-2-acetamido-α-D-glucopyranosyl
+*'''GlcNS''' = 2-deoxy-2-sulfamido-α-D-glucopyranosyl
+*'''GlcNS(6S)''' = 2-deoxy-2-sulfamido-α-D-glucopyranosyl-6-O-sulfate
+
+===Three-dimensional structure===
+
+The three dimensional structure of heparin is complicated by the fact that [[iduronic acid]] may be present in either of two low energy conformations when internally positioned within an oligosaccharide. The conformational equilibrium being influenced by sulfation state of adjacent glucosamine sugars.<ref>{{cite journal | author=Ferro D, Provasoli A, et al | title=Conformer populations of L-iduronic acid residues in glycosaminoglycan sequences | journal = Carbohydr. Res. | year=1990 | volume=195 | pages=157-167 | id = PMID 2331699 }}</ref> Nevertheless the solution structure of a heparin dodecasacchride composed solely of six GlcNS(6S)-IdoA(2S) repeat units has been determined using a combination of NMR spectroscopy and molecular modelling techniques.<ref>{{cite journal | author = Mulloy B, Forster MJ, Jones C, Davies DB. | title = NMR and molecular-modelling studies of the solution conformation of heparin | journal = Biochem. J. | year=1993 | volume=293 | pages=849-858 | url = http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=8352752 | id = PMID 8352752 }}</ref> Two models were constructed one in which all IdoA(2S) were in the <sup>2</sup>S<sub>0</sub> conformation ('''A''' and '''B''' below) and one in which they are in the <sup>1</sup>C<sub>4</sub> conformation ('''C''' and '''D''' below). However there is no evidence to suggest changes between these conformations occurs in a concerted fashion. These models correspond to the protein data bank code [http://www.rcsb.org/pdb/files/1hpn.pdb 1HPN.]
+
+<center>[[Image:Heparin-3D-structures.png|600px|Two different structures of heparin]]</center>
+
+In the image above:
+*'''A''' = 1HPN (all IdoA(2S) residues in <sup>2</sup>S<sub>0</sub> conformation) [http://wiki.jmol.org:81/index.php/User:K.murphy Jmol viewer]
+*'''B''' = [[van der Waals radius]] space filling model of ''A''
+*'''C''' = 1HPN (all IdoA(2S) residues in <sup>1</sup>C<sub>4</sub> conformation) [http://wiki.jmol.org:81/index.php/User:K.murphy Jmol viewer]
+*'''D''' = van der Waals radius space filling model of ''C''
+
+In these models heparin adopts a helical conformation, the rotation of which places clusters of sulfate groups at regular intervals of about 17 [[angstrom]]s (1.7 [[nanometer|nm]]) on either side of the helical axis.
+
+===Mechanism of action===
+Heparin is a naturally occurring anticoagulant produced by [[basophil]]s and [[mast cell]]s.<ref>{{cite book |last = Guyton | first = A. C. | coauthors = Hall, J. E. | title = Textbook of Medical Physiology | issue=11 | publisher = Elsevier Saunders | date = 2006 | pages=464 | id=ISBN 0-7216-0240-1}}</ref> Heparin binds to the enzyme inhibitor [[antithrombin III]] (AT-III) causing a conformational change which results in its active site being exposed. The activated AT-III then inactivates thrombin and other proteases involved in blood clotting, most notably [[factor Xa]]. The rate of inactivation of these proteases by AT-III increases 1000-fold due to the binding of heparin.<ref>{{cite journal | author = Bjork I, Lindahl U. | title = Mechanism of the anticoagulant action of heparin | url=http://www.springerlink.com/content/g67115564280w013/ | journal=Mol. Cell. Biochem. | year=1982 | volume=48 | pages=161-182}}</ref>
+
+AT-III binds to a specific pentasaccharide sulfation sequence contained within the heparin polymer
+
+GlcNAc/NS(6S)-GlcA-GlcNS(3S,6S)-IdoA(2S)-GlcNS(6S)
+
+The conformational change in AT-III on heparin binding mediates its inhibition of factor Xa. For thrombin inhibition however, thrombin must also bind to the heparin polymer at a site proximal to the pentasaccharide. The highly negative charge density of heparin contributes to its very strong [[electrostatic]] interaction with [[thrombin]].<ref name=cox/> The formation of a [[ternary complex]] between AT-III, thrombin and heparin results in the inactivation of thrombin. For this reason heparin's activity against thrombin is size dependent, the ternary complex requiring at least 18 saccharide units for efficient formation.<ref>{{cite journal | author = Petitou M, Herault JP, Bernat A, Driguez PA, et al. | title= Synthesis of Thrombin inhibiting Heparin mimetics without side effects | journal= Nature | year=1999 | volume=398 | pages=417-422 | id= PMID 10201371}}</ref> In contrast anti factor Xa activity only requires the pentasaccharide binding site. 
+
+[[Image:fondaparinux.jpeg|left|thumb|500px|Chemical structure of [[fondaparinux]]]]
+
+This size difference has led to the development of [[low molecular weight heparin]]s (LMWHs) and more recently to [[fondaparinux]] as pharmaceutical anticoagulants. Low molecular weight heparins and fondaparinux target anti factor Xa activity rather than anti thrombin (IIa) activity, with the aim of facilitating a more subtle regulation of coagulation and an improved therapeutic index. The chemical structure of fondaparinux is shown to the left. This is a synthetic pentasaccharide whose chemical structure is almost identical to the structure the AT-III binding pentasaccharide sequence that can be found within polymeric heparin and [[heparan sulfate]]. 
+
+With LMWH and fondaparinux, there is a reduced risk of [[osteoporosis]] and [[heparin-induced thrombocytopenia]] (HIT). Monitoring of the [[APTT]] is also not required and indeed does not reflect the anticoagulant effect, as APTT is insensitive to alterations in factor Xa.
+
+[[Danaparoid]], a mixture of [[heparan sulfate]], [[dermatan sulfate]] and [[chondroitin sulfate]] can be used as an anticoagulant in patients who have developed HIT. Because danaparoid does not contain heparin or heparin fragments cross-reactivity of danaparoid with heparin-induced antibodies is reported as less than 10%.<ref>Shalansky, Karen. [http://www.vhpharmsci.com/Newsletters/1990s-NEWS/article6.htm DANAPAROID (Orgaran®) for Heparin-Induced Thrombocytopenia.] Vancouver Hospital & Health Sciences Centre, February 1998 Drug & Therapeutics Newsletter.  Retrieved on [[2007-01-08]].</ref>
+
+The effects of heparin are measured in the lab by the partial thromboplastin time ([[aPTT]]), (the time it takes the [[blood plasma]] to clot).
+
+Heparin's exact physiological role is still unclear, because blood anti-coagulation is mostly achieved by endothelial cell-derived [[heparan sulfate]] proteoglycans.<ref>{{cite journal | author=Kojima T, Leone CW, et al | title= Isolation and characterisation of heparan sulfate proteoglycans produced by cloned rat microvascular endothelial cells | journal= J. Biol. Chem. | year=1992 | volume=267 | pages=4859-4569 | id = PMID 1537864 }}</ref> Heparin is usually stored within the secretory granules of [[mast cell]]s and only released into the [[vasculature]] at sites of tissue injury. It has been proposed that rather than anticoagulation the main purpose of heparin is in a defensive mechanism at sites of tissue injury against invading bacteria and other foreign materials.<ref>{{cite journal | author=Nader, HB ''et al'' | title=Heparan sulfates and heparins: similar compounds performing the same functions in vertebrates and invertebrates? | journal= Braz. J. Med. Biol. Res. | year=1999 | volume=32 | issue=5 | pages=529-538 | id = PMID 10412563 }}</ref> 
+
+==Medical use==
+Heparin acts as an anticoagulant, preventing the formation of clots and extension of existing clots within the blood. While heparin does not break down clots that have already formed ([[tissue plasminogen activator]] will), it allows the body's natural clot lysis mechanisms to work normally to break down clots that have already formed.
+Heparin is used for anticoagulation for the following conditions:
+*[[Acute coronary syndrome]], e.g., [[myocardial infarction]]
+*[[Atrial fibrillation]]
+*[[Deep-vein thrombosis]] and [[pulmonary embolism]].
+
+===History===
+Heparin is one of the oldest drugs currently still in widespread clinical use. Its discovery in 1916 predates the establishment of the [[Food and Drug Administration|United States Food and Drug Administration]], although it did not enter clinical trials until 1935.<ref>{{cite journal | author=Linhardt RJ. | title = Heparin: An important drug enters its seventh decade | journal = Chem. Indust. | year=1991 | volume=2 | pages=45-50}}</ref> It was originally isolated from canine [[liver]] cells, hence its name (''hepar'' or "ηπαρ" is Greek for "liver"). Heparin's discovery can be attributed to the research activities of two men, [[Jay McLean]] and [[William Henry Howell]]. 
+
+In 1916 McLean, a second-year medical student at [[Johns Hopkins University]], was working under the guidance of Howell investigating pro-coagulant preparations, when he isolated a fat soluble phosphatide anti-coagulant. It was Howell who coined the term heparin for this type of fat soluble anticoagulant in 1918. In the early 1920s, Howell isolated a water soluble polysaccharide anticoagulant which was also termed heparin, although it was distinct from the phosphatide preparations previously isolated. It is probable that the work of McLean changed the focus of the Howell group to look for anticoagulants, which eventually lead to the polysaccharide discovery. 
+
+Between 1933 and 1936, Connaught Medical Research Laboratories, then a part of the [[University of Toronto]], perfected a technique for producing safe non-toxic heparin that could be administered to patients in a salt solution. The first human trials of heparin began in May 1935 and by 1937 it was clear that Connaught's heparin was a safe, easily available and effective blood anticoagulant. Prior to 1933, heparin was available, but in small amounts, was extremely expensive, toxic and consequently of no medical value.<ref>{{cite web | last = Rutty | first = Christopher J.| authorlink =http://www.healthheritageresearch.com/RuttyCJ-profile.html | title =Miracle Blood Lubricant:
+Connaught and the Story of Heparin, 1928-1937 | publisher = Health Heritage Research Services | url =http://www.healthheritageresearch.com/Heparin-Conntact9608.html | accessdate = 2007-05-21}}</ref>
+
+For a full discussion of the events surrounding heparin's discovery see Marcum J. (2000).<ref>{{cite journal | author = Marcum J. | title = The origin of the dispute over the discovery of heparin | journal = J. Hist. Med. Allied. Sci. | year=2000 | volume=55 | part=1 | pages=37-66 | url= http://muse.jhu.edu/cgi-bin/access.cgi?uri=/journals/journal_of_the_history_of_medicine_and_allied_sciences/v055/55.1marcum.pdf | format = PDF | id = PMID 10734720 }}</ref>
+
+===Administration===
+Heparin is given [[parenteral]]ly, as it is degraded when taken by mouth. It can be injected intravenously or subcutaneously (under the skin). Intramuscular injections (into muscle) are avoided because of the potential for forming [[hematoma]]s. 
+
+Because of its short biologic [[half-life]] of approximately one hour, heparin must be given frequently or as a continuous [[infusion]]. However the use of [[low molecular weight heparin]] (LMWH) has allowed once daily dosing, thus not requiring a continuous infusion of the drug.  If long-term anticoagulation is required, heparin is often only used to commence anticoagulation therapy until the oral anticoagulant [[warfarin]] takes effect.
+
+===Adverse reactions===
+A serious side-effect of heparin is [[heparin-induced thrombocytopenia]] (HIT syndrome). HITS is caused by an immunological reaction that makes platelets aggregate within the blood vessels, thereby using up coagulation factors. Formation of platelet clots can lead to thrombosis, while the loss of coagulation factors and platelets may result in bleeding. HITS can (rarely) occur shortly after heparin is given, but also when a person has been on heparin for a long while. Immunologic tests are available for the diagnosis of HITS. There is also a benign form of thrombocytopenia associated with early heparin use which resolves without stopping heparin. When heparin in contraindicated, [[epoprostenol]] can be given.
+
+Other side effects include [[alopecia]] and [[osteoporosis]].
+
+As with many drugs, overdoses of heparin can be fatal. In September 2006, heparin received worldwide publicity when 3 prematurely-born infants died after they were mistakenly given overdoses of heparin at an Indianapolis hospital.<ref>{{cite news | last = Kusmer | first = Ken | publisher = Fox News (Associated Press) | title = 3rd Ind. preemie infant dies of overdose | url= http://www.foxnews.com/story/0,2933,214729,00.html | date= [[2006-09-20]] | accessdate = 2007-01-08}}</ref>
+
+===Treatment of overdose===
+In case of overdose, [[protamine sulfate]] can be given to counteract the action of heparin, in the same amount of heparin.
+
+===Heparin gel===
+Heparin gel (topical) may sometimes be used to treat sports injuries. It is known that the diprotonated form of [[histamine]] binds site specifically to heparin.<ref>{{cite journal | author= Chuang W, Christ MD, Peng J, Rabenstein DL. | title = An NMR and molecular modeling study of the site specific binding of histamine by heparin, chemically modified heparin and heparin derived oligosacchrides | journal= Biochemistry. | year=2000 | volume=39 | pages=3542-3555 | url=http://pubs.acs.org/cgi-bin/abstract.cgi/bichaw/2000/39/i13/abs/bi9926025.html | id = PMID 10736153}}</ref> The release of histamine from [[mast cells]] at a site of tissue injury contributes to an inflammatory response. The rationale behind the use of such topical gels may be to block the activity of released histamine and so help to reduce inflammation.
+
+==Evolutionary conservation of heparin==
+In addition to the bovine and porcine tissue from which pharmaceutical grade heparin is commonly extracted, heparin has also been extracted and characterised from the following species: 
+#[[turkey (bird) | Turkey]].<ref>{{cite journal | author= Warda M, Mao W. ''et al''  | title = Turkey intestine as a commercial source of heparin? Comparative structural studies of intestinal avian and mammalian glycosaminoglycans. | journal= Comp. Biochem. Physiol. B Biochem. Mol. Biol. | year=2003 | volume=134 | issue=1 | pages=189-197 | id = PMID 12524047}}</ref>
+#[[Whale]].<ref>{{cite journal | author= Ototani N, Kikuchi M, Yosizawa Z. | title = Comparative studies on the structures of highly active and relatively inactive forms of whale heparin | journal= J Biochem (Tokyo) | year=1981 | volume=90 | issue=1 | pages=241-246 | id = PMID 7287679}}</ref>
+#[[Dromedary camel]].<ref>{{cite journal | author= Warda M, Gouda EM. ''et al'' | title = Isolation and characterization of raw heparin from dromedary intestine: evaluation of a new source of pharmaceutical heparin | journal= Comp. Biochem. Physiol. C Toxicol. Pharmacol. | year=2003 | volume=136 | issue=4 | pages=357-365 | id = PMID 15012907}}</ref>
+#[[Mouse]].<ref>{{cite journal | author= Bland CE, Ginsburg H. ''et al'' | title = Mouse heparin proteoglycan. Synthesis by mast cell-fibroblast monolayers during lymphocyte-dependent mast cell proliferation. | journal= J. Biol. Chem. | year=1982 | volume=257 | issue=15 | pages=8661-8666 | id = PMID 6807978}}</ref>
+#[[Humans]].<ref>{{cite journal | author= Linhardt RJ, Ampofo SA. ''et al'' | title = Isolation and characterization of human heparin | journal= Biochemistry | year=1992 | volume=31 | issue=49 | pages=12441-12445 | id = PMID 1463730}}</ref>
+#[[Lobster]].<ref>{{cite journal | author= Hovingh P, Linker A. | title = An unusual heparan sulfate isolated from lobsters (Homarus americanus) | journal= J. Biol. Chem. | year=1982 | volume=257 | issue=16 | pages=9840-9844 | id = PMID 6213614}}</ref>
+#[[mussel | Fresh water mussel]].<ref>{{cite journal | author= Hovingh P, Linker A. | title = Glycosaminoglycans in ''Anodonta californiensis'', a freshwater mussel | journal=Biol. Bull  | year=1993 | volume=185 | issue=2 | pages=263-276 | url=http://www.biolbull.org/cgi/content/abstract/185/2/263}}</ref>
+#[[Clam]].<ref>{{cite journal | author= Pejler G, Danielsson A. ''et al'' | title =Structure and antithrombin-binding properties of heparin isolated from the clams Anomalocardia brasiliana and Tivela mactroides | journal= J. Biol. Chem. | year=1987 | volume=262 | issue=24 | pages=11413-11421 | id = PMID 3624220}}</ref>
+#[[Shrimp]].<ref>{{cite journal | author=Dietrich CP, Paiva JF. ''et al'' | title = Structural features and anticoagulant activities of a novel natural low molecular weight heparin from the shrimp Penaeus brasiliensis | journal= Biochim. Biophys. Acta. | year=1999 | volume=1428 | issue=2-3 | pages=273-283 | id = PMID 10434045}}</ref>
+#[[Mangrove crab]].<ref name=medeiros>{{cite journal | author=Medeiros GF, Mendes, A. ''et al'' | title = Distribution of sulfated glycosaminoglycans in the animal kingdom: widespread occurence of heparin-like compounds in invertebrates | journal= Biochim. Biophys. Acta. | year=2000 | volume=1475 | issue=3 | pages=287-294 | id = PMID 10913828}}</ref>
+#[[Sand dollar]].<ref name=medeiros/> 
+
+The biological activity of heparin within species 6-11 is unclear and further supports the idea that the main physiological role of heparin is not anticoagulation. These species do not possess any blood coagulation system similar to that present within the species listed 1-5. The above list also demonstrates how heparin has been highly [[conserved sequence | evolutionarily conserved]] with molecules of a similar structure being produced by a broad range of organisms belonging to many different [[phylum|phyla]].
+
+==Other uses/information==
+*Heparin gains the capacity to initiate [[angiogenesis]] when its copper salt is formed. Copper free molecules are non-angiogenic.<ref>{{cite journal | author= Alessandri, G. Raju, K. and Gullino, PM. | title = Mobilization of capillary endothelium ''in-vitro'' induced by effectors of angiogenesis ''in-vivo'' | journal= Cancer. Res. | year=1983 | volume=43 | pages=1790-1797 | id = PMID 6187439}}</ref><ref>{{cite journal | author= Raju, K. Alessandri, G. Ziche, M. and Gullino, PM. | title = Ceruloplasmin, copper ions, and angiogenesis | journal= J. Natl. Cancer. Inst. | year=1982 | volume=69 | pages=1183-1188 | id = PMID 6182332}}</ref> In contrast heparin may inhibit [[angiogenesis]] when it is administered in the presence of [[corticosteroids]].<ref>{{cite journal | author= Folkman J. | title = Regulation of angiogenesis: a new function of heparin | journal= Biochem. Pharmacol. | year=1985 | volume=34 | pages=905-909 | id = PMID 2580535}}</ref> This anti-angiogenic effect is independent of heparins anticoagulant activity.<ref>{{cite journal | author= Folkman J. and Ingber DE. | title = Angiostatic steroids. Method of discovery and mechanism of action | journal= Ann. Surg. | year=1987 | volume=206 | issue=3 | pages=374-383 | id = PMID 2443088}}</ref>
+
+*Test tubes, [[Vacutainer]]s, and [[capillary]] tubes that use the [[lithium]] salt of heparin (lithium heparin) as an anticoagulant are usually marked with green stickers and green tops. Heparin has the advantage over [[EDTA]] as an anticoagulant, as it does not affect levels of [[ion]]s (such as [[calcium]]). Heparin can interfere with some [[immunoassay]]s, however. As lithium heparin is usually used, a person's lithium levels cannot be obtained from these tubes; for this purpose, royal-blue topped Vacutainers containing [[sodium]] heparin are used.
+
+*[[Heparin-coated blood oxygenator]]s are available for use in heart-lung machines. Among other things, these specialized oxygenators are thought to improve overall biocompatibility and host homeostasis by providing characteristics similar to native endothelium.
+
+*The DNA binding sites on [[RNA polymerase]] can be occupied by heparin, preventing the polymerase binding to promoter DNA.  This property is exploited in a range of molecular biological assays.
+
+*Common diagnostic procedures require [[PCR]] amplification of a patient's DNA, which is easily extracted from white blood cells treated with heparin.  This poses a potential problem, since heparin may be extracted along with the DNA, and it has been found to interfere with the PCR reaction at levels as low as 0.002 U in a 50 μL reaction mixture.<ref>{{cite journal | author=Yokota M, Tatsumi N, Nathalang O, Yamada T, Tsuda I. | title = Effects of Heparin on Polymerase Chain Reaction for Blood White Cells | journal = J. Clin. Lab. Anal. | year=1999 | volume=13 | pages=133-140 | id = PMID 10323479}}</ref>
+
+*Immobilized heparin can be used as an affinity [[ligand]] in [[protein purification]]. In this capacity it can be used in two ways. The first of which is to use heparin to select out specific [[coagulation]] factors or other types of heparin binding proteins from a complex mixture of non-heparin binding proteins. Specific proteins can then be selectively dissociated from heparin with the use of differing salt concentrations or by use of a salt gradient. The second use is to use heparin as a high capacity cation exchanger. This use takes advantage of heparins high number of anionic sulfate groups. These groups will capture common cations such as Na<sup>+</sup> or Ca<sup>2+</sup> in solution.
+
+==Popular culture==
+* Heparin was featured in [[Dan Brown]]'s novel ''[[Angels and Demons]]'', where the intentional overdose of the drug was used in the murder of a significant character that was disguised to resemble a [[death]] by [[stroke]].
+* Was featured in the television show ''[[Scrubs (TV series)|Scrubs]]''. The protagonist (JD) was called in by a new medical student on whether low-molecular weight or fractionated heparin should be used for a patient. However both are the same.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.healthheritageresearch.com/Heparin-Conntact9608.html History of heparin]
+
+
+
+{{Antithrombotics}}
+{{Glycosaminoglycans}}
+[[Category:Anticoagulants]]
+[[Category:Glycosaminoglycans]]
+
+[[cs:Heparin]]
+[[de:Heparin]]
+[[es:Heparina]]
+[[fr:Héparine]]
+[[hu:Heparin]]
+[[nl:Heparine]]
+[[ja:ヘパリン]]
+[[no:Heparin]]
+[[nn:Heparin]]
+[[pl:Heparyna]]
+[[pt:Heparina]]
+[[ru:Гепарин]]
+[[sv:Heparin]]
+[[zh:肝磷脂]]

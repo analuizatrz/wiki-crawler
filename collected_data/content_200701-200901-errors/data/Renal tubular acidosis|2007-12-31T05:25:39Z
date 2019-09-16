@@ -1,0 +1,121 @@
+{{Infobox_Disease |
+  Name           = {{PAGENAME}} |
+  Image          = Nephrocalcinosis.jpg|
+  Caption        = Significant [[bilateral]] [[nephrocalcinosis]] (calcification of the kidneys) on a [[Coronal plane|frontal]] [[X-ray]] (radiopacities (white) in the right upper and left upper quadrant of the image), as seen in distal renal tubular acidosis.|
+  DiseasesDB     = 11687 |
+  DiseasesDB_mult = {{DiseasesDB2|11673}} {{DiseasesDB2|11705}}  |
+  ICD10          = {{ICD10|N|25|8|n|25}} |
+  ICD9           = {{ICD9|588.89}} |
+  ICDO           = |
+  OMIM           = 179800 |
+  MedlinePlus    = |
+  eMedicineSubj  = med |
+  eMedicineTopic = 1071 |
+  MeshID         = D000141 |
+}}
+'''Renal tubular acidosis''' ('''RTA''') is a medical condition that involves an accumulation of acid in the body due to a failure of the kidneys to appropriately [[wiktionary:acidify|acidify]] the [[urine]].<ref name=laing>{{cite journal |quotes= |last=Laing |first=C M |authorlink= |coauthors= |year=2005 |month=Jun |title=Renal tubular acidosis: developments in our understanding of the molecular basis. |journal=Int J Biochem Cell Biol |volume=37 |issue= 6|pages= 1151-61|id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=15778079&dopt=Citation}}</ref>  When blood is filtered by the kidney, the [[wiktionary:liquid or solution that has passed through a filter|filtrate]] passes through the [[tubules]] of the [[nephron]], allowing for exchange of salts, acid equivalents, and other [[wiktionary:solutes|solutes]] before it drains into the [[urinary bladder|bladder]] as [[urine]].  The [[metabolic acidosis]] that results from RTA may be caused either by failure to recover sufficient ([[alkaline]]) [[bicarbonate]] ions from the filtrate in the early portion of the nephron ([[proximal tubule]]) or by insufficient secretion of ([[acid]]) [[hydrogen ions]] into the latter portions of the nephron ([[distal tubule]]).  Although a metabolic acidosis also occurs in those with [[renal insufficiency]], the term RTA is reserved for individuals with poor urinary acidification in otherwise well-functioning kidneys.  Several different types of RTA exist, which all have different syndromes and different causes.
+
+The word ''[[acidosis]]'' refers to the tendency for RTA to lower the blood's pH.  When the blood pH is below normal (7.35), this is called ''[[acidemia]]''.  The metabolic acidosis caused by RTA is a [[normal anion gap acidosis]].
+
+==Type I-Distal RTA==
+[[Image:XrayRicketsLegssmall.jpg|thumb|right|150px|[[Radiograph]] of a [[rickets]] sufferer, a complication of distal RTA.]]
+Distal RTA ('''dRTA''') is the most common and also the classical form of RTA, being the first described. It has a number of causes which cause a common underlying problem, which is a failure of acid secretion by the alpha intercalated [[cell (biology)|cell]]s of the [[cortical collecting duct]] of the [[distal]] [[nephron]].
+This leads to a failure acidify the urine to a [[pH]] of less than 5.3 even if the blood is too acidic (ie there is systemic [[acidemia]]), and consequently there is a tendency towards acidemia.
+This leads to the clinical features of dRTA;<ref name=laing/>
+*Normal [[anion gap]] [[metabolic acidosis]]/acidemia
+*[[Hypokalemia]] (which may be severe)
+*[[kidney stone|Urinary stone]] formation
+*[[Nephrocalcinosis]] (deposition of [[calcium]] in the substance of the kidney)
+*[[Bone]] demineralisation (causing [[rickets]] in children and [[osteomalacia]] in adults)
+
+The acidosis is variable, and one may have dRTA with [[alpha intercalated cell]] failure without necessarily being acidemic, this is termed ''incomplete dRTA''. The diagnosis of dRTA can be made by the observation of a urinary [[pH]] of greater than 5.3 in the face of a systemic acidemia (usually taken to be a serum bicarbonate of 20 [[mmol]]/[[litre|l]] or less). In the case of an incomplete dRTA, failure to acidify the urine following an oral acid loading challenge is often used as a test.  The test usually performed is ''the short [[ammonium chloride]] test'',<ref>{{cite journal |quotes= |last=Wrong |first= O|authorlink= |coauthors=Davies HEF |year= 1959|month= |title=The Excretion of Acid in Renal Disease |journal=QJM |volume= 28|issue= |pages=259-313 |id= |url= |accessdate= }}</ref> in which ammonium chloride capsules are used as the acid load. More recently, an alternative test using furosemide and fludrocortisone has been described. <ref>{{cite journal |last=Walsh |first=S B |authorlink= |coauthors= |year=2007 |month=Apr |title=Urinary acidification assessed by simultaneous furosemide and fludrocortisone treatment: an alternative to ammonium chloride. |journal=Kidney International |volume= |issue= |pages= |id= |url=http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=PubMed&list_uids=17410104&dopt=Citation |accessdate= |quote= }}</ref>
+
+The symptoms and sequelae of dRTA are variable and ranging from being completely [[asymptomatic]], through [[loin]] pain and [[hematuria]] from [[kidney stones]] to [[failure to thrive]] and severe [[rickets]] in childhood forms as well as possible [[renal failure]] and even [[death]]. 
+
+Interestingly, dRTA has been proposed as a possible diagnosis for the unknown malady plaguing [[Tiny Tim (A Christmas Carol)|Tiny Tim]] in Charles Dickens' [[A Christmas Carol]].<ref>{{cite journal | author = Lewis D | title = What was wrong with Tiny Tim? | journal = Am J Dis Child | volume = 146 | issue = 12 | pages = 1403-7 | year = 1992 | id = PMID 1340779}}</ref><ref>http://www.time.com/time/magazine/article/0,9171,977391,00.html</ref>
+
+===Causes===
+[[Image:Alpha Intercalated Cell Cartoon.jpg|thumb|300px|Cartoon of the alpha intercalated cell, showing the apical proton pump and the basolateral band 3 (kAE1)]]
+*[[Autoimmune disease]].  Classically [[Sjögren's syndrome]], but it is also associated with [[systemic lupus erythematosus]], [[rheumatoid arthritis]] and even [[hypergammaglobulinemia]]. Hypokalaemia is often severe in these cases.<ref>{{cite journal |quotes= |last=Wrong |first=OM |authorlink= |coauthors= |year=1993 |month= |title=Immune-related potassium-losing interstitial nephritis: a comparison with distal renal tubular acidosis |journal=QJM |volume=86 |issue=8 |pages=513-542 |id= |url=http://qjmed.oxfordjournals.org/cgi/content/abstract/86/8/513 |accessdate= }}</ref>
+*Hereditary causes include mutations of [[Band 3]]<ref>{{cite journal |quotes= |last=Bruce |first= L J|authorlink= |coauthors= |year=1997 |month= |title=Familial distal renal tubular acidosis is associated with mutations in the red cell anion exchanger (Band 3, AE1) gene |journal=J Clin Invest |volume=100 |issue= |pages=1693-1707 |id= |url=http://www.jci.org/cgi/content/abstract/100/7/1693 |accessdate= }}</ref> the basolateral bicarbonate transporter of the intercalated cell, which may transmit in an [[autosomal dominant]] fashion in western European cases, or in an [[autosomal recessive]] fashion in South East Asian cases. The South East Asian cases are associated with more severe hypokaemia.<ref>{{cite journal |quotes= |last=Bruce |first=L J |authorlink= |coauthors= |year=2000 |month= |title=Band 3 mutations, renal tubular acidosis and South-East Asian ovalocytosis in Malaysia and Papua New Guinea: loss of up to 95% band 3 transport in red cells |journal=Biochem J |volume=350 |issue= |pages=41-51 |id= |url=http://www.biochemj.org/bj/350/0041/bj3500041.htm |accessdate= }}</ref> Other Hereditary causes include mutations of subunits of the [[apical_membrane|apical]] [[proton pump]] vH<sup>+</sup>-ATPase,<ref>{{cite journal|last=Wagner|first=CA |year=2004 |month=Oct|title=Renal Vacuolar H<sup>+</sup>-ATPase|journal=Physiological Reviews|volume=84 |issue=4 |pages=1263-314|url=http://physrev.physiology.org/cgi/content/full/84/4/1263}}</ref> which transmit in an autosomal recessive fashion, and may be associated with sensorineural [[deafness]].<ref>{{cite journal |quotes= |last=Karet |first=F E |authorlink= |coauthors= |year=1999 |month= |title=Mutations in the gene encoding B1 subunit of H+-ATPase cause renal tubular acidosis with sensorineural deafness |journal=Nature Genetics |volume=21 |issue= |pages=81-90 |id= |url=http://www.nature.com/ng/journal/v21/n1/abs/ng0199_84.html |accessdate= }}</ref>
+*Liver [[cirrhosis]].
+*Nephrocalcinosis.  While it is a consequence of dRTA, it can also be a cause; related to calcium-induced damage of the [[cortical collecting duct]].
+*[[Renal transplantation]].
+*[[Sickle cell anemia]].
+*Toxins, including [[ifosfamide]],<ref>{{cite journal |last=Skinner |first=R|authorlink= |coauthors= |year=1996 |month=Aug |title=Risk factors for ifosfamide nephrotoxicity in children |journal=Lancet |volume=348(9027) |issue= |pages=578-80 |id= |url=http://cat.inist.fr/?aModele=afficheN&cpsidt=3189518 |accessdate= }}</ref> [[toluene]],<ref>{{cite journal |last=Battle |first=DC |authorlink= |coauthors= |year=1988  |month= |title=On the mechanism of toluene-induced renal tubular acidosis |journal=Nephron |volume=49 |issue=3 |pages=210-8 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&list_uids=3135502&dopt=Citation |accessdate= }}</ref> [[lithium carbonate]]<ref>{{cite journal |last=Boton |first=R |authorlink= |coauthors= |year=1987 |month=Nov |title=Prevalence, pathogenesis, and treatment of renal dysfunction associated with chronic lithium therapy |journal=Am J Kidney Dis |volume=10 |issue=5 |pages=329-45 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3314489&dopt=Abstract |accessdate= }}</ref> and [[amphotericin B]].<ref>{{cite journal |last=McCurdy |first=DK |authorlink= |coauthors= |year=1968 |month=Jan |title=Renal tubular acidosis due to amphotericin B |journal=NEJM |volume=278 |issue=3 |pages=124-30 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=5634966 |accessdate= }}</ref>
+*Chronic [[urinary tract obstruction]].
+
+===Treatment===
+This is relatively straightforward. It involves correction of the acidemia with oral [[sodium bicarbonate]] or [[sodium citrate]]. This will correct the acidemia and reverse bone demineralisation. Hypokalemia and urinary stone formation and nephrocalcinosis can be treated with [[potassium citrate]] tablets which not only replace potassium but also inhibit calcium excretion and thus exacerbate stone disease as sodium bicarbonate or citrate may do.<ref>{{cite journal |quotes= |last=Morris |first= R C|authorlink= |coauthors= |year=2002 |month= |title=Alkali Therapy In Renal Tubular Acidosis: Who Needs It? |journal=J Am Soc Nephrol |volume=13 |issue= |pages=2186–2188 |id= |url=http://jasn.asnjournals.org/cgi/reprint/13/8/2186.pdf |accessdate= }}</ref>
+
+==Type 2-Proximal RTA==
+Proximal RTA ('''pRTA''') is caused by a failure of the [[proximal tubular]] cells to reabsorb filtered bicarbonate from the urine, leading to urinary bicarbonate wasting and subsequent acidemia. The distal intercalated cells function normally, so the acidemia is less severe than dRTA and the urine can acidify to a pH of less than 5.3.<ref>{{cite journal |last=Rodriguez |first=Soriano J  |authorlink= |coauthors= |year=1967 |month=Mar |title=Proximal renal tubular acidosis. A defect in bicarbonate reabsorption with normal urinary acidification. |journal=Paedatr Res |volume=1 |issue=2 |pages=81-98 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6029811 |accessdate= |quote= }}</ref> pRTA also has several causes, and may occasionally be present as a solitary defect, but is usually associated with a more generalised dysfunction of the proximal tubular cells called [[Fanconi's syndrome]] where there is also [[phosphaturia]], [[glycosuria]], aminoaciduria, uricosuria and tubular [[proteinuria]].
+The principle feature of Fanconi's syndrome is bone demineralisation due to phosphate wasting. 
+
+===Causes===
+Familial disorders
+*[[Cystinosis]]<ref>{{cite journal |last=Gahl |first=William |authorlink= |coauthors= |year=2002 |month=July |title=Cystinosis |journal=NEJM |volume=347 |issue= |pages=111-121 |id= |url=http://content.nejm.org/cgi/content/extract/347/2/111 |accessdate= |quote= }}</ref>
+*[[Galactosemia]]<ref>{{cite journal |last=Golberg |first=L |authorlink= |coauthors= |year=1956 |month=Aug |title=A clinical and biochemical study of galactosaemia; a possible explanation of the nature of the biochemical lesion |journal=Arch Dis Child |volume=31 |issue=158 |pages=254-64 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=13363463&dopt=Citation |accessdate= |quote= }}</ref>
+*[[Glycogen storage disease]] (type I)<ref>{{cite journal |last=Matsuo |first=N |authorlink= |coauthors= |year=1986 |month=Mar |title=Proximal renal tubular acidosis in a child with type 1 glycogen storage disease. |journal=Acta Paediatr Scand |volume=75 |issue=2 |pages=332-5 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3457521&dopt=Citation |accessdate= |quote= }}</ref>
+*[[Hereditary fructose intolerance]]<ref>{{cite journal |last=Morris |first=Curtis |authorlink= |coauthors= |year=1968 |month=July |title=An experimental renal acidification defect in patients with hereditary fructose intolerance |journal=J Clin Invest |volume=47 |issue=6 |pages=1389–1398 |id= |url=http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=297294&blobtype=pdf |accessdate= |quote= }}</ref>
+*[[Oculocerebrorenal syndrome|Lowe's syndrome]]<ref>{{cite journal |last=Hodgson |first=SV |authorlink= |coauthors= |year=1986 |month=Mar |title=A balanced de novo X/autosome translocation in a girl with manifestations of Lowe syndrome. |journal=Am J Med Genet |volume=23 |issue=3 |pages=837-47 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3953680&dopt=Citation |accessdate= |quote= }}</ref>
+*[[Tyrosinemia]]
+*[[Wilson's disease]]<ref>{{cite journal |last=Weibers |first=DO |authorlink= |coauthors= |year=1979 |month=Aug |title=Renal stones in Wilson's disease |journal=Am J Med |volume=67 |issue=2 |pages=249-54 |id= |url=http://www.md-journal.com/pt/re/medicine/abstract.00005792-200005000-00002.htm;jsessionid=GJqhJ2BT5PpykNC8TdC42PFLB1RXHMtrf2YyZLnQWhD0G8p6zxML!1888299356!-949856144!8091!-1 |accessdate= |quote= }}</ref>
+
+Acquired disorders
+*[[Amyloidosis]]<ref>{{cite journal |last=Rochman |first=J |authorlink= |coauthors= |year=1980 |month=Oct |title=Adult Fanconi's syndrome with renal tubular acidosis in association with renal amyloidosis: occurrence in a patient with chronic lymphocytic leukemia |journal=Arch Int Med |volume=140 |issue=10 |pages= |id= |url=http://archinte.ama-assn.org/cgi/content/abstract/140/10/1361 |accessdate= |quote= }}</ref>
+*[[Multiple myeloma]]<ref>{{cite journal |last= Messiaen  |first=Thierry |authorlink= |coauthors= |year=2000 |month=May |title=Adult Fanconi Syndrome Secondary to Light Chain Gammopathy: Clinicopathologic Heterogeneity and Unusual Features in 11 Patients.  |journal=Medicine |volume=79 |issue=3 |pages=135-154 |id= |url=http://www.md-journal.com/pt/re/medicine/abstract.00005792-200005000-00002.htm;jsessionid=GJqhJ2BT5PpykNC8TdC42PFLB1RXHMtrf2YyZLnQWhD0G8p6zxML!1888299356!-949856144!8091!-1 |accessdate= |quote= }}</ref>
+*[[Paroxysmal nocturnal hemoglobinuria]]<ref>{{cite journal |last=Riley |first=AL |authorlink= |coauthors= |year=1977 |month=Jan |title=Renal proximal tubular dysfunction and paroxysmal nocturnal hemoglobinuria |journal=Am J Med |volume=62 |issue=1 |pages=125-9 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=13653&dopt=Citation |accessdate= |quote= }}</ref>
+*Toxins, such as [[HAART]], [[ifosfamide]],<ref>{{cite journal |last=Skinner |first=R |authorlink= |coauthors= |year=2003 |month=July |title=Chronic ifosfamide nephrotoxicity in children |journal=Medical and Pediatric Oncology |volume=41 |issue=3 |pages=190-197 |id= |url=http://www3.interscience.wiley.com/cgi-bin/abstract/104546256/ABSTRACT?CRETRY=1&SRETRY=0}}</ref> [[lead]], and [[cadmium]]
+
+===Treatment===
+Again this depends on oral bicarbonate supplementation. However, this will increase urinary bicarbonate wasting and may well promote a bicarbonate [[diuresis]]. The amount of bicarbonate given may have to be very large, to stay ahead of the urinary losses. Correction with oral [[bicarbonate]] may exacerbate urinary potassium losses and precipitate [[hypokalemia]].<ref>{{cite journal |last=Rodriguez  |first=Soriano J |authorlink= |coauthors= |year=2002 |month=Aug |title=Renal tubular acidosis: the clinical entity |journal=J Am Soc Nephrol |volume=13 |issue=8 |pages=2160-70 |id= |url=http://jasn.asnjournals.org/cgi/reprint/13/8/2160.pdf |accessdate= |quote= }}</ref>As with dRTA, reversal of the chronic acidosis should reverse bone demineralisation.<ref>{{cite journal |quotes= |last=McSherry |first=E |authorlink= |coauthors= |year=1981 |month= |title=Renal tubular acidosis in childhood |journal=Kidney International |volume=20 |issue= |pages=799 |id= |url= |accessdate= }}</ref>
+
+==Type 3 RTA==
+This was previously used to designate a rare and transient mixed dRTA and pRTA of uncertain [[aetiology]]. Now it is used to describe a genetic defect in type 2 [[carbonic anhydrase]] (CA2), which is found in both the proximal and distal tubular cells, as well in bone. As a result it causes;
+*proximal renal tubular acidosis
+*distal renal tubular acidosis
+*[[osteopetrosis]]
+*cerebral [[calcification]] and subsequent [[mental impairment]];
+It is very rare and cases from all over the world have been reported, of which about 70% are from the [[Magreb]] region of [[North Africa]], possibly due to the high prevalence of [[consanguinity]] there.<ref>{{cite journal |last=Fathallah |first=D. M. |authorlink= |coauthors= |year=1997 |month= |title=Carbonic anhydrase II (CA II) deficiency in Maghrebian patients: evidence for founder effect and genomic recombination at the CA II locus |journal=Human Genetics |volume= |issue=99 |pages=634-637 |id=10.1007/s004390050419 |url=http://www.springerlink.com/content/7fvlgeehvxf5d5rt/fulltext.pdf |accessdate= }}</ref>
+The kidney problems are treated as described above. There is no treatment for the osteopetrosis or cerebral calcification.
+
+==Type 4 RTA ([[Hypoaldosteronism]])==
+Type 4 RTA is not actually a tubular disorder at all, and nor does it have a clinical syndrome similar to the other types of RTA described above. It was included in the classification of renal tubular acidoses as it is associated with a mild (normal anion gap) metabolic acidosis due to a ''physiological'' reduction in distal tubular [[ammonium]] excretion, which is secondary to [[hypoaldosteronism]].
+Its cardinal feature is [[hyperkalemia]], and measured urinary acidification is normal. 
+
+[[Image:Aldosteron.svg|thumb|300px|Aldosterone molecule]]
+
+===Causes===
+*'''[[Aldosterone]] deficiency-Primary (rare)'''
+#Primary [[adrenal insufficiency]] 
+#[[Congenital adrenal hyperplasia]] 
+#[[Aldosterone synthase]] deficiency 
+
+*'''Hyporeninemic hypoaldosteronism''' (due to decreased angiotensin 2 production as well as intra-adrenal dysfunction)<ref name="hypoaldosteronism">{{cite journal |last=DeFronzo, RA |first= |authorlink= |coauthors= |year=1980 |month= |title=Hyperkalemia in hyporeninemic hypoaldosteronism |journal=Kidney International |volume= |issue=17 |pages=118. |id= |url= |accessdate= }}</ref>
+#Renal dysfunction-most commonly [[diabetic nephropathy]]
+#[[HIV]] infection
+#[[ACE inhibitors]] 
+#[[NSAID]]s
+#[[cyclosporine|Cyclosporine]]
+
+*'''Aldosterone resistance'''
+#Drugs ([[Amiloride]], [[Spironolactone]],[[Trimethoprim]], [[Pentamidine]])
+#[[Pseudohypoaldosteronism]]
+
+===Treatment===
+*Aldosterone deficiency should be treated with a [[mineralocorticoid]] (such as fludrocortisone), as well as possibly a [[glucocorticoid]] for [[cortisol]] deficiency, if present.
+*Hyporeninemic hypoaldosteronism is ammenable to [[fludrocortisone]] treatment,<ref name="hypoaldosteronism"/> but the accompanying [[hypertension]] and [[edema]] can prove a problem in these patients, so often a [[diuretic]] (such as the [[thiazide]] diuretic, [[bendrofluazide]],or a [[loop diuretic]], such as [[furosemide]]) is used to control the [[hyperkalemia]].<ref>{{cite journal |last=Sebastian |first=A |authorlink= |coauthors= |year=1984 |month= |title=Amelioration of hyperchloremic acidosis with furosemide therapy in patients with chronic renal insufficiency and type 4 renal tubular acidosis |journal=Am J Nephrol  |volume=4 |issue=5 |pages=287-300 |id= |url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6524600&dopt=Citation |accessdate= }}</ref>
+
+==See also==
+* [[Hyperchloremic acidosis]]
+* [[Hypokalemia]]
+* [[Kidney stone]]
+
+==References==
+{{reflist|2}}
+{{Nephrology}}
+[[Category:Kidney diseases]]
+
+[[de:Renal-tubuläre Azidose]]
+[[fr:Acidose tubulaire rénale]]

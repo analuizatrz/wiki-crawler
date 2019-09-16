@@ -1,0 +1,285 @@
+'''Flight controllers''' are personnel who aid in the operations of a space flight, working in Mission Control Centers such as [[NASA]]'s [[Mission Control Center]], or [[ESA]]'s [[European Space Operations Centre|Operations Center]]. Flight controllers sit at computer consoles and use [[telemetry]] to monitor in real time various technical aspects of a manned space mission. Each controller is an expert in a specific area, and is in constant communication with additional experts in the "back room". The Flight Director is the lead flight controller, monitors the activities of others and has overall responsibility for the mission success and safety.  A Flight Director leads a team, designated by a color (e.g., [[Eugene F. Kranz]] led the White Team, and was known as "White Flight").
+
+== NASA's Flight Controllers ==
+The room where the flight controllers work was called the Mission Operations Control Room (MOCR, pronounced "moh-ker"), and now is called the Flight Control Room (FCR, pronounced "ficker").  The controllers are experts in individual systems, and make recommendations to the Flight Director involving their areas of responsibility.  Any controller may call for an [[Abort (computing)|abort]] if the circumstances require it.  Before (and at various stages during) an activity, the Flight Director will "go around the room," polling each controller for a GO / NO GO decision.  If all factors are good, each controller calls for a GO, but if there is a problem requiring a hold or an abort, the call is NO GO.  Another form of this is STAY / NO STAY, when the spacecraft has completed a maneuver and has now "parked" in relation to another body, including spacecraft (or space stations), orbiting the Earth or the Moon, or the Lunar landings. 
+
+Controllers in MOCR/FCR are supported by the "backrooms," teams of specialists located in other parts of the building or even at other facilities across the country.  These teams are able to find information and make recommendations to "their" controller.  One example of the usefulness of this system occurred during the descent of the [[Apollo 11|Eagle]] [[Lunar Module]], when "1202" and "1201" "program alarms" came from the LM.  GUIDO [[Steve Bales]], not sure whether to call for an abort, trusted the experts in the Guidance backroom, especially [[Jack Garman]], who told him that the problem was a computer overload, but could be ignored if it was intermittent.  Bales called "GO!," Flight Director Kranz accepted the call and the mission continued to success.  Without the support of the backroom, a controller might make a "bad call" based on faulty memory or information not readily available to the person on the console.  
+
+The backroom was formally called the Staff Support Room (SSR), and is now called the Multi-Purpose Support Room (MPSR, pronounced "mipser").  
+
+[[Unmanned space mission|Unmanned U.S. space missions]] also have flight controllers but are managed from separate organizations, either the [[Jet Propulsion Laboratory]] for deep-space missions or [[Goddard Space Flight Center]] for near-Earth missions.
+
+Each flight controller has a unique [[call sign]], which describes the position's responsibilities. The call sign and responsibility refer to the particular ''console'', not just the person, since missions are managed around the clock and with each shift change a different person takes over the console.
+
+Flight controller responsibilities have changed over time, and continue to evolve. New controllers are added, and tasks are reassigned to other controllers to keep up with changing technical systems. For example the EECOM handled [[Apollo Command/Service Module|Command and Service Module]] communication systems through [[Apollo 10]], which was afterward assigned to a new position called INCO.
+
+=== Shuttle and space station flight controllers ===
+There are currently two groups of flight controllers at [[Johnson Space Center]]: the [[International Space Station]] (ISS) flight controllers and the [[Space Shuttle]] flight controllers.    
+
+The Space Shuttle flight controllers work relatively brief periods: The several minutes of ascent, the few days the vehicle is in orbit, and reentry.  The duration of operations for Space Shuttle flight controllers is short and time-critical. A failure on the Shuttle could leave flight controllers little time for talking, putting pressure on them to respond quickly to potential failures. The Space Shuttle flight controllers generally have limited capability to send commands to the shuttle for system reconfigurations. 
+
+In contrast, the ISS flight controllers work 24 hours a day, 365 days a year.  This allows the ISS flight controllers time to discuss off-[[nominal]] telemetry.  The ISS flight controllers have the opportunity to interface with many groups and engineering experts.  The mentality of an ISS flight controller is to preempt a failure.  Telemetry is closely monitored for any signatures that may begin to indicate future catastrophic failures.  Generally, ISS flight controllers take a [[prophylactic]] approach to space vehicle operations.  There are command capabilities that ISS flight controllers use to preclude a potential failure.
+
+=== Responsibility ===
+Flight controllers are responsible for the success of the mission and for the lives of the astronauts under their watch. The Flight Controllers' Creed states that they must "always be aware that suddenly and unexpectedly [they] may find ourselves in a role where [their] performance has ultimate consequences". Well-known actions taken by flight controllers include the following:
+
+* During the [[Apollo 11]] moon landing, the [[Lunar Module]] guidance computer began giving errors which threatened to abort the landing. Guidance officer [[Steve Bales]] had only a few seconds to determine it was safe to proceed, which saved the mission. Bales was later honored for his role in the mission, when he was selected to accept the NASA Group Achievement Award from President [[Richard Nixon]] on behalf of the [[Apollo 11]] mission operations team.
+
+* During the launch of [[Apollo 12]], the [[Saturn V]] was struck by lightning which knocked out all [[telemetry]] and the Apollo guidance unit. This would probably have aborted the mission if EECOM controller [[John Aaron]] had not quickly determined that an obscure cockpit switch (controlling telemetry sources) could fix the problem.
+
+* During space shuttle mission [[STS-51-F]], a [[Space shuttle main engine|main engine]] failed during ascent to orbit. A second engine began showing signs of failing. If it failed it would cause an [[Space Shuttle abort modes|emergency landing in Spain]], or possibly could cause the shuttle to ditch in the ocean. Booster officer Jenny Howard Stein determined within seconds it was an incorrect sensor and not an engine problem. At her direction the crew inhibited the sensor, which saved the mission and possibly the crew.
+
+=== Common flight control positions ===
+
+There are some positions that have and will serve the same function in every vehicle's Flight Control team.  The group of individuals serving in those positions may be different, but they will be called the same thing and serve the same function.
+
+====Flight Director (FLIGHT) ====
+Leads the flight control team. "Flight" has overall operational responsibility for missions and payload operations and for all decisions regarding safe, expedient flight. This person monitors the other flight controllers, remaining in constant verbal communication with them via intercom channels called "loops".
+
+====Mission Operations Directorate (MOD) ====
+Is a representative of the senior management chain at JSC, and is there to help the flight director make those decisions that have no safety-of-flight consequences, but may have cost or public perception consequences.  In no cases can the MOD rep overrule the Flight Director during a mission.
+
+====Capsule Communicator (CAPCOM)====<!-- This section is linked from [[STS-51-L Mission timeline]] -->
+Generally the only person who communicates directly with a manned space crew. During much of the U.S. [[Human spaceflight|manned space program]], [[NASA]] felt it was important for all communication with the [[astronaut]]s in space to pass through a single individual in the [[Mission Control Center]]. That role was designated the ''Capsule Communicator'' or '''CAPCOM''' and was filled by another astronaut, often one of the backup crew members.  It is believed that an astronaut is most able to understand the situation in the spacecraft and pass information in the clearest and most efficient way.
+
+For long duration missions, there are more than one CAPCOM, each assigned to a different shift team. After control of U.S. spaceflights moved to the [[Lyndon B. Johnson Space Center]] in the early 1960s, each CAPCOM uses the radio [[call sign]] ''Houston.''  When non-astronauts are communicating directly with the spacecraft, CAPCOM acts as the communications controller.  CAPCOMs have sometimes been jokingly addressed as ''[[Uhura]]'', a reference to the communications expert in the TV show ''[[Star Trek]]''.
+
+Today, non-astronauts from the Space Flight Training branch also function as CAPCOM during ISS missions, while the role is filled solely by astronauts for shuttle missions.
+
+====Flight Surgeon (SURGEON)====
+Directs all operational medical activities concerned with the mission, including the status of the flight crew. Monitors crew health, provides crew consultation, and advises flight director of the crew's health status.  A direct communications loop can be established between the mission astronauts and the flight surgeon, in accordance with doctor-patient confidentiality.
+
+====Public Affairs Officer (PAO)====
+Provides mission commentary to supplement and explain air-to-ground transmissions and flight control operations to the news media and the public.
+
+=== Apollo flight control positions ===
+The flight control positions used during the Apollo era predominantly were identical to the positions used for the Mercury and Gemini vehicles.  This was because of the similarity of the vehicle design of the capsules used for the three programs.
+
+====Booster Systems Engineer (BOOSTER)====
+Monitored and evaluated performance of propulsion-related aspects of the launch vehicle during prelaunch and ascent. During the Apollo program there were three Booster positions, who worked only until [[Trans Lunar Injection|Trans Lunar Injection (TLI)]]; after that, their consoles were vacated. Booster had the power to send an abort command to the spacecraft.  All Booster technicians were employed at the [[Marshall Space Flight Center]] and reported to JSC for the launches.
+
+====Control Officer (CONTROL)====
+Responsible for the [[Lunar Module]] guidance, navigation and control systems. Essentially the equivalent of the GNC for the Lunar Module.
+
+====Electrical, Environmental and Consumables Manager (EECOM)====
+Monitored [[cryogenic]] levels for [[fuel cell]]s, and cabin cooling systems; electrical distribution systems; cabin pressure control systems; and vehicle lighting systems. EECOM originally stood for Electrical, Environmental and COMmunication systems. The [[Project Apollo|Apollo]] EECOM was responsible for CSM communications through [[Apollo 10]]. Afterward the communication task was moved to a new console named INCO.
+
+Perhaps the most famous NASA EECOMs are [[Seymour Liebergot|Seymour "Sy" Liebergot]], the EECOM on duty at the time of the oxygen tank explosion on [[Apollo 13]] and [[John Aaron]], who is credited with saving the [[Apollo 12]] mission after the spacecraft was struck by lightning during launch.
+
+* Apollo EECOM : Journey of a Lifetime: Apogee Books Space Series 31 (2003) ISBN 1-896522-96-3
+
+====Flight Activities Officer (FAO)====
+Planned and supported crew activities, checklists, procedures and schedules.
+
+====Flight Dynamics Officer (FDO or FIDO)====
+Responsible for the flight path of the space vehicle, both atmospheric and [[Orbital spaceflight|orbital]]. During lunar missions the FDO was also responsible for the lunar [[trajectory]]. The FDO monitored vehicle performance during the powered flight phase and assessed abort modes, calculated orbital maneuvers and resulting trajectories, and monitored vehicle flight profile and energy levels during [[re-entry]].
+
+====Guidance Officer (GUIDANCE or GUIDO)====
+Monitored onboard [[Apollo PGNCS|navigational systems]] and onboard [[Apollo Guidance Computer|guidance computer]] software. Responsible for determining the position of the spacecraft in space. One well-known Guidance officer was [[Steve Bales]], who gave the "go" call when the [[Apollo 11]] [[Apollo guidance computer|guidance computer]] came close to overloading during the first lunar descent.
+
+====Guidance, Navigation, and Controls Systems Engineer (GNC)====
+Monitored all vehicle guidance, navigation and control systems. Also responsible for propulsion systems such as the Reaction and Control System (RCS) and the CSM main engine.
+
+MPSR positions
+* ''H-Bar'' - A [[Skylab]]-only mpsr position, provided expert support monitoring of the [[Control moment gyroscope| Control Moment Gyroscopes]].
+
+====Integrated Communications Officer (INCO)====
+Responsible for all data, voice and video communications systems, including monitoring the configuration of in-flight communications and [[instrumentation]] systems. Duties also included monitoring the [[telemetry]] link between the vehicle and the ground, and overseeing the [[uplink]] command and control processes.  The position was formed from the combination of LEM and CSM Communicator positions.
+
+====Network (NETWORK)====
+Supervised the network of ground stations that relayed telemetry and communications from the spacecraft.
+
+====Organization and Procedures Officer (O&P)====
+Supervised the application of mission rules and established techniques to the conduct of the flight. 
+
+====Retrofire Officer (RETRO)====
+Drew up abort plans and was responsible for determination of [[retrorocket|retrofire ]] times. During lunar missions the RETRO planned and monitored Trans Earth Injection (TEI) maneuvers, where the [[Apollo Command/Service Module|Apollo Service Module]] fired its engine to return to earth from the moon.
+
+====Telemetry, Electrical, EVA Mobility Unit Officer (TELMU)====
+Monitored the [[Lunar Module]] electrical and environmental systems, plus lunar astronaut spacesuits. Essentially the equivalent of the EECOM for the Lunar Module.
+
+===Shuttle flight control positions===
+Many Apollo program mission control positions were carried forward to the space shuttle program. However, other positions were eliminated or redefined, and new positions were added.
+
+Positions remaining generally the same:
+* Booster
+* FAO
+* FDO
+* Guidance (became Guidance and Procedures Officer, or GPO)
+* GNC
+* INCO (became ''Instrumentation'' and Communications Officer)
+
+Positions eliminated or modified:
+* RETRO
+* EECOM (duties split up)
+* TELMU
+* CONTROL
+
+====Assembly and Checkout Officer (ACO)====
+Responsible for all shuttle-based activities related to construction and operation of the Space Station, including logistics and transfer items stored in a Multi-Purpose Logistics Module (MPLM) or [[Spacehab]]. Also responsible for all shuttle payloads, from Spacehab to the [[Hubble Space Telescope]] to deployable satellites. ACO was formerly known as PAYLOADS.
+
+====Booster Systems Engineer (BOOSTER)====
+Monitors and evaluated performance of propulsion-related aspects of the launch vehicle during prelaunch and ascent, including the main engines and solid rocket boosters.
+
+====Data Processing System Engineer (DPS)====
+Responsible for data processing systems in a space flight.  This includes monitoring the onboard [[Space Shuttle program#Computerized fly-by-wire digital flight control|General Purpose Computers (GPCs)]], flight-critical, launch and payload data buses, the Multi-function Electronic Display System (MEDS), Solid-State Mass Memory (SSMM) units, flight critical and payload Multiplexer/De-multiplexer (MDM) units, Master Timing Unit (MTU), Backup Flight Control (BFC) units and system-level software.
+
+The [[Space Shuttle program#Computerized fly-by-wire digital flight control|space shuttle general purpose computers]] are a critical subsystem, and the vehicle cannot fly without them.
+
+====Emergency, Environmental, and Consumables Management (EECOM)====
+EECOM's revamped shuttle responsibilities include the atmospheric pressure control and revitalization systems, the cooling systems (air, water, and freon), and the supply/waste water system.
+
+'''MPSR positions'''
+* ''Life Support'' - monitors atmospheric pressure control systems, O2/N2/CO2 maintenance and management, air cooling equipment, waste water systems,
+* ''Thermal'' - monitors water and freon coolant loop systems, supply water maintenance
+
+====Electrical Generation and Integrated Lighting Systems Engineer (EGIL)====
+Monitors [[cryogenic]] levels for the [[fuel cells]], electrical generation and distribution systems on the spacecraft, and vehicle lighting. This is a portion of the job formerly done by EECOM.
+
+'''MPSR positions'''
+* ''EPS'' - provides expert support monitoring of the fuel cells, cryo system, and electrical bus system
+
+====Extravehicular Activity Officer (EVA)====
+Responsible for all spacesuit and spacewalking-related tasks, equipment and plans when the EVA takes place from the shuttle.
+
+====Flight Activities Officer (FAO)====
+Plans and supports crew activities, checklists, procedures, schedules, and timelines.
+
+====Flight Dynamics Officer (FDO or FIDO)====
+Responsible for the flight path of the space shuttle, both atmospheric and [[Orbital spaceflight|orbital]]. FDO monitors vehicle performance during the powered flight phase and assesses abort modes, calculates orbital maneuvers and resulting trajectories, and monitors vehicle flight profile and energy levels during [[re-entry]].
+
+'''MPSR positions'''
+* ''Abort Support'' (ascent only) - provides expert support during the powered flight portion of an RTLS or TAL
+* ''ARD Support'' (ascent only) - maintains the Abort Region Determinator processor which is used to predict trajectory capabilities during powered flight
+* ''Ascent Support'' team (ascent only) - monitor the winds and weather at the launch site, help compute day-of-launch updates
+* ''Dynamics'' - maintains the inputs to the Mission Operation Computer for all processors
+* ''Entry Console'' - provides expert support for entry, approach, and landing
+* ''Entry Support'' team (ascent and entry) - monitor the winds and weather at the various potential landing sites, prepare trajectory adjustments
+* ''Landing Support Officer'' (LSO) team - maintain the airspace at any landing site, dispatch Search and Rescue teams if needed, act as first liaison in case of a landing outside the US
+* ''Nav Support'' team - responsible for maintaining the on-board navigation (telemetry) and the ground navigation (tracking)
+* ''Profile Support'' (rendezvous only) - assists the FDO with rendezvous profile evaluation and determination
+* ''Range Safety'' team (ascent only) - track the falling External Tank and Solid Rocket Boosters
+* ''Targeting'' (ascent only) - provides expert support for Abort to Orbit (ATO) or Abort Once Around (AOA) trajectories
+* ''Track'' - coordinates tracking site data flow and data requests
+* ''Weather'' - a member of the Spaceflight Meteorology Group who provides world-wide weather data
+
+'''External links'''
+* [http://space.balettie.com/ Former FDO Roger Balettie]
+* [http://space.balettie.com/FDO.html Orbit/Rendezvous FDO Operational Overview]
+* [http://home.houston.rr.com/edelen/me.html Current FDO Chris Edelen]
+* [http://www.geocities.com/spaceshot2000/mcc.htm Former Targeting Michael Grabois], behind the scenes at a launch from the MPSR
+
+====Ground Controller (GC)====
+Directs maintenance and operation activities affecting Mission Control hardware, software and support facilities; coordinates space flight tracking and data network, and [[Tracking and Data Relay Satellite]] system with [[Goddard Space Flight Center]].
+
+====Guidance, Navigation, and Controls Systems Engineer (GNC)====
+Monitors all shuttle guidance, navigation and control systems. 
+
+====Instrumentation and Communications Officer (INCO)====
+Responsible for all data, voice and video communications systems, including monitoring the configuration of in-flight communications and instrumentation systems. Duties also included monitoring the telemetry link between the vehicle and the ground, and overseeing the uplink command and control processes.  This position is a direct evolution of the Integrated Communications Officer from the Apollo program.
+
+====Maintenance, Mechanical, And Crew Systems (MMACS)====
+Responsible for [[Space Shuttle program|space shuttle]] structural and mechanical systems, monitoring [[auxiliary power unit]]s and [[hydraulic]] systems, managing payload bay and vent door operations, landing gear/deceleration systems, and monitoring the orbiter docking system. MMACS also follows use of onboard crew hardware and in-flight equipment maintenance. This represents another portion of the job formerly done by EECOM, with additional responsibilities added by the specific requirements of space shuttle operations.
+
+'''MPSR positions'''
+* ''MECH'' - provides expert support monitoring of mechanical, hydraulic, and landing gear systems
+* ''MECH 2'' - provides extra support during the dynamic ascent and entry phases of flight
+* ''IFM'' - In-Flight Maintenance support
+* ''Crew Systems'' - responsible for operations of onboard crew hardware and the crew's Launch and Entry Suits
+* ''Photo/TV'' - responsible for the "loose" camera operation and maintenance, such as still cameras and camcorders, and the integration of video into and out of the orbiter's TV monitors
+
+====Payload Deployment and Retrieval System (PDRS)====
+Responsible for [[Space Shuttle program|space shuttle]] [[Remote Manipulator System|remote manipulator system]], also known as the Remote Manipulator System (RMS) or "robot arm".
+
+====Propulsion Engineer (PROP)====
+Manages the [[Reaction control system|reaction control]] thrusters and [[Orbital Maneuvering System|orbital maneuvering]] engines during all phases of flight, monitors fuel usage and propellant tank status, and  calculates optimal sequences for thruster firings.
+
+====Rendezvous (RNDZ)====
+Responsible for activities such as trajectory operations related to the rendezvous and docking/capture with another spacecraft, including [[Mir]], the ISS, and satellites such as the Hubble Space Telescope.
+
+====Trajectory Officer (TRAJ)====
+Assists the FDO during time-critical operations, responsible for maintaining the various processors that help determine the shuttle's current and potential trajectories. A FDO is certified as a TRAJ first. Shares the FCR with FDO.
+
+=== ISS flight control positions ===
+The International Space Station flight control positions used by NASA in Houston are different than those used by previous NASA programs.  This is due primarily to reduce confusion from having the same name used in two different rooms during the same operations, such as when the space shuttle is conducting mated operations with the space station.  There are also differences in the control positions because of the different nature in the way the space station operates compared to the space shuttle.  The following is a list of those flight controllers located in Mission Control Center - Houston.  There are several other control centers which house dozens of other flight controllers that support the vastly complex vehicle.
+
+====Assembly and Checkout Officer (ACO)====
+Responsible for integration of assembly and activation tasks for all ISS systems and elements and coordinating with station and shuttle flight controllers on the execution of these operations.
+
+====Attitude Determination and Control Officer (ADCO)====
+Works in partnership with Russian controllers to determine and manage the station’s orientation, controlled by the onboard Motion Control Systems. This position also plans and calculates future orientations and maneuvers for the station and is responsible for docking the ISS with other vehicles.
+
+'''MPSR positions'''
+* ''HawkI'' - Pronounced (Hawk-eye) - provides expert support monitoring of all US GNC systems, leaving the ADCO to coordinate with other flight controllers and MCC-M.  Hawki is actually a strung-together set of common engineering abbreviations for quantities that affect or reflect ISS attitude, primarily chosen because they fit well enough to make a name:
+** H - Momentum.  The ISS attitude control algorithm uses momentum exchange through each orbit to minimize propellant usage.
+** a - attitude. 
+** ω - angular velocity.  
+** k - kinetic energy.
+** I - moment of inertia.
+
+====Communication and Tracking Officer (CATO)====
+Responsible for management and operations of the U.S. communication systems, including audio, video, telemetry and commanding systems.
+
+====Environmental Control and Life Support System (ECLSS)====
+Responsible for the assembly and operation of systems related to atmosphere control and supply, atmosphere revitalization, cabin air temperature and humidity control, circulation, fire detection and suppression, water collection and processing and crew hygiene equipment, among other areas.
+
+====Extravehicular Activity Officer (EVA)====
+Responsible for all spacesuit and spacewalking-related tasks, equipment and plans when the EVA takes place from the ISS.
+
+====Onboard, Data, Interfaces and Networks (ODIN)====
+Responsible for the U.S. Command and Data Handling System, including hardware, software, networks, and interfaces with International Partner avionics systems.
+
+====Operations Planner (OPSPLAN)====
+Leads the coordination, development and maintenance of the station's short-term plan, including crew and ground activities. The plan includes the production and uplink of the onboard station plan and the coordination and maintenance of the onboard inventory and stowage listings.
+
+====Operations Support Officer (OSO)====
+Charged with those logistics support functions that address on-orbit maintenance, support data and documentation, logistics information systems, maintenance data collection and maintenance analysis. The OSO is also responsible for mechanical systems -- such as those used to attach new modules or truss sections to the vehicle during assembly.
+
+====Power, Heating, Articulation, Lighting Control Officer (PHALCON)====
+Manages the power generation, storage, and power distribution capabilities.
+
+====Robotics Operations Systems Officer (ROBO)====
+Responsible for the operations of the Canadian Mobile Servicing System, which includes a mobile base system, station robotic arm, station robotic hand or special purpose dexterous manipulator. ([[Call sign]]: ROBO) represents a joint Canadian Space Agency-NASA team of specialists to plan and execute robotic operations.
+
+====Thermal Operations and Resources (THOR)====
+Responsible for the assembly and operation of multiple station subsystems which collect, distribute, and reject waste heat from critical equipment and payloads.
+
+====Trajectory Operations Officer (TOPO)====
+Responsible for the station trajectory. The TOPO works in partnership with Russian controllers, ADCO, and the U.S. Space Command to maintain data regarding the station's orbital position. TOPO plans all station orbital maneuvers.
+
+====Visiting Vehicle Officer (VVO)====
+A specialist position, the VVO is the liaison between the ISS and "visiting vehicles" such as Progress or Soyuz.
+
+== See also ==
+
+===Space Centers and Mission Control Centers===
+* [[Baikonur Cosmodrome]] (control center for the [[Russian Federal Space Agency]], [[Tyuratam]], [[Kazakhstan]])
+* [[European Space Operations Centre]] (control center for the [[European Space Agency]], [[Darmstadt]], [[Germany]])
+* [[Centre Spatial Guyanais|Guiana Space Center]] (launch center for the [[European Space Agency]], the French space agency [[CNES]], and the commercial [[Arianespace]], [[Kourou]], [[French Guiana]]) 
+* [[Tanegashima Space Center]] (launch center for [[JAXA]], [[Tanegashima Island]], [[Japan]])
+* [[Mission Control Center]] (control center for [[NASA]], [[Houston]], [[Texas]])
+* [[Johnson Space Center]] (NASA field center, [[Houston]], [[Texas]])
+* [[Kennedy Space Center]] (NASA launch center, [[Cape Canaveral]], [[Florida]])
+
+===Current and former NASA space flight programs===
+* [[Apollo program]]
+* [[Space Shuttle program]]
+
+===Former NASA Flight Controllers===
+* [[John Aaron]], EECOM
+* [[Steve Bales]], GUIDO
+* [[Jay Greene]], FDO, Range Safety, Flight Director
+* [[John Hodge (engineer)]], Flight Director
+* [[Christopher C. Kraft, Jr.]], Flight Director
+* [[Eugene Kranz]], Flight Director
+* [[Glynn Lunney]], FDO, Flight Director
+
+==References==
+* {{cite book| first = Charles | last = Murray | coauthors = Cox, Catherine Bly | title = Apollo: The Race to the Moon | location = New York | publisher = Simon and Schuster | year = 1989 | id = ISBN 0-671-61101-1}}
+
+== External links ==
+* [http://www.cr.nps.gov/nr/twhp/wwwlps/lessons/101space/101visual2.htm National Park Service mission control page]
+* [http://www.space-technology.com/projects/johnsoon/ Space-Technology.com mission control page]
+
+[[Category:NASA flight controllers| ]]
+[[Category:NASA personnel| ]]

@@ -1,0 +1,145 @@
+__NOTOC__
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{{Infobox Aircraft
+ |name=BH-6
+ |image=
+ |caption=
+ |type=Fighter
+ |manufacturer=[[Avia]]
+ |designer=[[Pavel Beneš]] and [[Miroslav Hajn]]
+ |first flight=1923
+ |introduced=
+ |retired=
+ |status=
+ |primary user=
+ |more users=
+ |produced=
+ |number built=1
+ |variants with their own articles=
+}}
+The '''Avia BH-6''' was a prototype fighter plane built in Czechoslovakia in 1923. It was a single-bay biplane of unusual configuration developed in tandem with the [[Avia BH-7|BH-7]], which shared its fuselage and tail design. The BH-6 had wings of unequal span, but unusually, the top wing was the shorter of the two; and while it was braced to the bottom wing by with a single I-strut on either side, these sloped inwards from bottom to top. Finally, the top wing was attached to the fuselage not by a set of cabane struts, but by a single large pylon.
+
+The BH-6 crashed early in its test programme, and when the related BH-7 did as well, both implementations of this design were abandoned.
+
+<!-- ==Development== -->
+
+
+<!-- ==Operational history== -->
+
+
+<!-- ==Variants== -->
+
+
+<!-- ==Aircraft markings== -->
+
+
+<!-- ==Units using this aircraft/Operators (choose)== -->
+
+
+==Specifications==
+{{aerospecs
+|met or eng?=<!-- eng for US/UK aircraft, met for all others -->met
+
+|crew=one pilot
+|capacity=
+|length m=6.47
+|length ft=21
+|length in=3
+|span m=9.98
+|span ft=32
+|span in=9
+|dia m=<!-- helicopters -->
+|dia ft=<!-- helicopters -->
+|dia in=<!-- helicopters -->
+|height m=2.88
+|height ft=9
+|height in=5
+|wing area sqm=22.6
+|wing area sqft=243
+|rot area sqm=<!-- helicopters -->
+|rot area sqft=<!-- helicopters -->
+|aspect ratio=<!-- sailplanes -->
+|empty weight kg=878
+|empty weight lb=1,936
+|gross weight kg=1,180
+|gross weight lb=2,601
+
+|eng1 number=1
+|eng1 type=[[Skoda]] licence-built [[Hispano-Suiza 8]]Fb Vee-8
+|eng1 kw=<!-- prop engines -->310
+|eng1 hp=<!-- prop engines -->231
+|eng1 kn=<!-- jet/rocket engines -->
+|eng1 lbf=<!-- jet/rocket engines -->
+|eng1 kn-ab=<!-- afterburners -->
+|eng1 lbf-ab=<!-- afterburners -->
+|eng2 number=
+|eng2 type=
+|eng2 kw=<!-- prop engines -->
+|eng2 hp=<!-- prop engines -->
+|eng2 kn=<!-- jet/rocket engines -->
+|eng2 lbf=<!-- jet/rocket engines -->
+|eng2 kn-ab=<!-- afterburners -->
+|eng2 lbf-ab=<!-- afterburners -->
+
+|max speed kmh=220
+|max speed mph=137
+|max speed mach=<!-- for supersonic aircraft -->
+|cruise speed kmh=<!-- if max speed unknown -->
+|cruise speed mph=<!-- if max speed unknown -->
+|range km=
+|range miles=
+|endurance h=<!-- if range unknown -->2
+|endurance min=<!-- if range unknown -->
+|ceiling m=7,000
+|ceiling ft=23,000
+|glide ratio=<!-- sailplanes -->
+|climb rate ms=
+|climb rate ftmin=
+|sink rate ms=<!-- sailplanes -->
+|sink rate ftmin=<!-- sailplanes -->
+
+|armament1=2 &times; fixed, forward-firing .303 [[Vickers machine gun]]s
+|armament2=
+|armament3=
+|armament4=
+|armament5=
+|armament6=
+}}
+
+==References==
+* {{cite book |last= Taylor |first= Michael J. H. |title=Jane's Encyclopedia of Aviation |year=1989 |publisher=Studio Editions |location=London |pages=86 }}
+* {{cite book |title=World Aircraft Information Files |publisher=Bright Star Publishing|location=London |pages=File 889 Sheet 86 }}
+* Němeček, V. (1968). ''Československá letadla''. Praha: Naše Vojsko.
+* [http://www.airwar.ru/enc/fww1/bh6.html airwar.ru]
+
+<!-- ==External links== -->
+
+
+==Related content==
+{{aircontent
+<!-- include as many lines are appropriate. additional lines/entries with carriage return. -->
+
+|related=<!-- related developments -->
+[[Avia BH-7|BH-7]] -
+[[Avia BH-8|BH-8]] -
+[[Avia BH-17|BH-17]]
+
+|similar aircraft=<!-- similar or comparable aircraft -->
+
+|sequence=<!-- designation sequence, if appropriate -->
+[[Avia BH-3|BH-3]] -
+[[Avia BH-4|BH-4]] -
+[[Avia BH-5|BH-5]] -
+'''BH-6''' -
+[[Avia BH-7|BH-7]] -
+[[Avia BH-8|BH-8]] -
+[[Avia BH-9|BH-9]]
+
+|lists=<!-- related lists -->
+
+|see also=<!-- other relevant information -->
+
+}}
+
+[[Category:Czechoslovakian fighter aircraft 1920-1929]]
+[[Category:Avia aircraft]]

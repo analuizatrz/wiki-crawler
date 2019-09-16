@@ -1,0 +1,154 @@
+<!-- Here is a table of data; skip past it to edit the text. -->
+{| align="right" border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+
+! {{chembox header}} | Caesium fluoride
+|-
+| align="center" colspan="2" | [[Image:Caesium fluoride.jpg|150px|Caesium fluoride]] [[Image:Caesium-fluoride-3D-ionic.png|150px|Caesium fluoride]]
+|-
+! {{chembox header}} | General
+|-
+| [[IUPAC nomenclature|Systematic name]]
+| Caesium fluoride
+|-
+| Other names
+| Cesium fluoride
+|-
+| [[Chemical formula|Molecular formula]]
+| CsF
+|-
+| [[Molar mass]]
+| 151.904 g/mol
+|-
+| Appearance
+| white crystalline solid
+|-
+| [[CAS registry number|CAS number]]
+| <nowiki>[13400-13-0]</nowiki>
+|-
+! {{chembox header}} | Properties
+|-
+| [[Density]] and [[Phase (matter)|phase]]
+| 4.115 g/cm³, solid
+|-
+| [[Soluble|Solubility]] in [[Water (molecule)|water]]
+| 367 g/100 ml (18 °C)
+|-
+| In [[methanol]]
+| soluble
+|-
+| In [[dioxane]], [[pyridine]]
+| insoluble
+|-
+| [[Melting point]]
+| 682 °C (955 K)
+|-
+| [[Boiling point]]
+| 1251 °C (1524 K)
+|-
+| [[Acid dissociation constant|Basicity]] (p''K''<sub>b</sub>) <!-- omit if not a base. If several values, be clear -->
+| ?
+|-
+
+! {{chembox header}} | Structure
+|-
+| [[Coordination geometry|Coordination<br/>geometry]]
+<!-- for a metal complex or an ionic crystal, otherwise omit -->
+| ? <!-- e.g. trigonal bipyramidal -->
+|-
+| [[Crystal structure]]
+| [[Cubic crystal system|cubic]]
+|-
+| [[Dipole#Molecular dipoles|Dipole moment]]
+|7.9 [[Debye|D]]
+|-
+
+! {{chembox header}} | Hazards <!--  Summary only- MSDS entry provides more complete information -->
+|-
+| [[Material safety data sheet|MSDS]]
+| [[Caesium fluoride chemdata supplement#Material Safety Data Sheet|External MSDS]] <!-- please replace with proper link-->
+|-
+| Main [[Worker safety and health|hazard]]s
+| toxic, forms [[HF]] with [[acid]]
+|-
+| [[NFPA 704]]
+| [[image:nfpa_h3.png]][[image:nfpa_f0.png]][[image:nfpa_r0.png]] estimated
+|-
+| [[Risk and Safety Statements|R/S statement]]
+| R: 23/24/25, 34<br/>S: 26, 36/37, 39, 45
+|-
+| [[RTECS]] number
+| FK9650000
+|-
+
+! {{chembox header}} | [[Caesium fluoride chemdata supplement|Supplementary data page]]
+|-
+| [[Caesium fluoride chemdata supplement#Structure and properties|Structure and<br/>properties]]
+| [[Refractive index|''n'']], [[Dielectric constant|''ε<sub>r</sub>'']], etc.
+|-
+| [[Caesium fluoride chemdata supplement#Thermodynamic properties|Thermodynamic data]]
+| Phase behaviour<br>Solid, liquid, gas
+
+|-
+| [[Caesium fluoride chemdata supplement#Spectral data|Spectral data]]
+| [[UV/VIS spectroscopy|UV]], [[Infrared spectroscopy|IR]], [[NMR spectroscopy|NMR]], [[Mass spectrometry|MS]]
+|-
+! {{chembox header}} | Related compounds
+|-
+| Other [[Ion|anion]]s
+| [[caesium chloride]]<br/>[[caesium bromide]]<br/>[[caesium iodide]]
+|-
+| Other [[Ion|cation]]s
+| [[sodium fluoride]]<br/>[[potassium fluoride]]<br/>[[rubidium fluoride]]
+|-
+| Related compounds
+| [[tetra-n-butylammonium fluoride|tetra-n-butyl-<br/>ammonium fluoride]]
+|-
+| {{chembox header}} | <small>Except where noted otherwise, data are given for<br> materials in their [[standard state|standard state (at 25 °C, 100 kPa)]]<br/>[[wikipedia:Chemical infobox|Infobox disclaimer and references]]</small>
+|-
+|}
+'''Caesium fluoride''' ('''cesium fluoride''' in North America), is an ionic compound usually found as a hygroscopic white solid.  It is more soluble and more readily [[Dissociation (chemistry)|dissociated]] than [[sodium fluoride]] or [[potassium fluoride]].  CsF is commercially available&mdash;on a lab scale it costs around $50 per 100 g ([http://www.synquestlabs.com/catalog/catalog.html Synquest]), cheaper than RbF.  It is available in anhydrous form, and if water has been absorbed it is easy to dry by heating at 100 °[[celsius|C]] for two hours [http://en.wiktionary.org/wiki/Vacuum ''in vacuo'']<sup>[3]</sup>.  It is therefore a useful, less [[hygroscopic]] alternative to [[tetra-n-butylammonium fluoride]] (TBAF) and [[TASF reagent|TAS-fluoride]] (TASF) when anhydrous "naked" [[fluoride]] [[ion]] is needed.  Like all soluble fluorides, it is mildly [[base (chemistry)|basic]].  Contact with [[acid]] should be avoided, as this forms highly toxic/corrosive [[hydrofluoric acid]].
+
+== Chemical properties ==
+Caesium fluoride reacts usually as a source of fluoride ion, F<sup>-</sup>.  It therefore undergoes all of the usual reactions associated with soluble fluorides such as potassium fluoride, for example:
+
+2 CsF ([[aqueous|aq]])  +  [[calcium chloride|CaCl<sub>2</sub>]] (aq)  →  2 [[caesium chloride|CsCl]] (aq)  +   [[calcium fluoride|CaF<sub>2</sub>]] ([[solid|s]])
+
+Being highly dissociated it is quite reactive as a fluoride source under anhydrous conditions too, and it will react with [[electron-deficient]] [[aryl chloride]]s to form [[aromatic|aryl]] fluorides ([[halex reaction]]).  Due to the strength of the [[silicon|Si]]–[[fluorine|F]] bond, fluoride ion is useful for desilylation reactions (removal of Si groups) in [[organic chemistry]]; caesium fluoride is an excellent source of anhydrous fluoride for such reactions (see uses below).  As with other soluble fluorides, CsF is moderately basic, due to the fact that [[hydrofluoric acid|HF]] is a weak acid.  The low [[nucleophile|nucleophilicity]] of fluoride means it can be a useful base in organic chemistry (see uses below).
+
+== Preparation ==
+Caesium fluoride may be prepared by the action of [[hydrofluoric acid]] on [[caesium hydroxide]] or [[caesium carbonate]], followed by removal of water.
+
+== Uses ==
+Caesium fluoride is a useful base in [[organic chemistry]], due the fact that fluoride [[ion]] is largely unreactive as a [[nucleophile]].  It is reported that CsF gives higher yields in [[Knoevenagel condensation]] reactions than [[potassium fluoride|KF]] or [[sodium fluoride|NaF]]<sup>[4]</sup>.
+
+Removal of silicon groups (desilylation) is a major application for CsF in the laboratory, as its [[anhydrous]] nature allows clean formation of [[water (molecule)|water]]-sensitive intermediates.  Caesium fluoride in [[THF]] or [[Dimethylformamide|DMF]] can attack a wide variety of [[organosilicon compounds]] to produce an organosilicon fluoride and a [[carbanion]], which can then react with [[electrophile]]s<sup>[3]</sup>, for example<sup>[5]</sup>:
+[[Image:CsF_desilylation.png|500px]]
+
+Desilylation is also useful for the removal of [[silyl]] [[protecting group]]s.
+
+Caesium fluoride is also a popular source of fluoride in [[organofluorine chemistry]].  For example, CsF reacts with [[hexafluoroacetone]] to form a caesium perfluoroalkoxide salt which is stable up to 60 °C, unlike the corresponding [[sodium]] or [[potassium]] salt<sup>[6]</sup>.
+
+Single crystals of the salt are transparent into the deep [[infrared]]. For this reason it is often used as the windows of cells used for [[infrared spectroscopy]].
+
+== Precautions ==
+Like soluble fluorides, CsF is moderately toxic, see [http://www.hazard.com/msds/f2/bms/bmsqc.html Elf Atochem MSDS sheet].  Contact with [[acid]] should be avoided, as this forms highly toxic/corrosive [[hydrofluoric acid]].  Caesium [[ion]] (Cs<sup>+</sup>) ''per se'' (for example as [http://www.jtbaker.com/msds/englishhtml/c1903.htm CsCl]) is not generally considered toxic.
+
+== References ==
+# N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', Pergamon Press, Oxford, UK, 1984.
+# ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.
+# G. K. Friestad, B. P. Branchaud, in: ''Handbook of Reagents for Organic Synthesis: Acidic and Basic Reagents'', (H. J. Reich, J. H. Rigby, eds.), pp99-103, Wiley, New York, 1999.
+# L. Rand, J. V. Swisher, C. J. Cronin ''Journal of Organic Chemistry'' '''27''', 3505 (1962).
+# M. Fiorenza, A. Mordini, S. Papaleo, S. Pastorelli, A. Ricci ''Tetrahedron Letters'' '''26''', 787 (1985).
+# F. W. Evans, M. H. Litt, A. M. Weidler-Kubanek, F. P. Avonda ''Journal of Organic Chemistry'' '''33''', 1837-1839 (1968).
+
+==External links==
+*[http://www.npi.gov.au/database/substance-info/profiles/44.html National Pollutant Inventory&mdash;Fluoride and compounds fact sheet]
+
+
+
+[[Category:Fluorides]]
+[[Category:Caesium compounds]]
+[[Category:Metal halides]]
+
+[[de:Caesiumfluorid]]
+[[ja:フッ化セシウム]]

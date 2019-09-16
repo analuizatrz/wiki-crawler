@@ -1,0 +1,352 @@
+[[Image:Epithelial-cells.jpg|right|thumb|160px|[[Epithelial cell]]s in culture, [[staining (biology)|stain]]ed for [[keratin]] (red) and [[DNA]] (green)]]
+
+'''Cell culture''' is the process by which [[prokaryote|prokaryotic]] or [[eukaryote|eukaryotic]] cells are grown under controlled conditions.  In practice the term "cell culture" has come to refer to the culturing of cells derived from multicellular eukaryotes, especially [[animal]] cells.  The historical development and methods of cell culture are closely interrelated to those of [[tissue culture]] and [[organ culture]].
+
+Animal cell culture became a common [[laboratory]] technique in the 1950s,<ref> {{cite web|url=http://www.bioteach.ubc.ca/Bioengineering/CellCulture/index.htm|title="Cell Culture"|accessdate=2006-04-19}}</ref> but the concept of maintaining live cell lines separated from their original tissue source was discovered in the 19th century.<ref name="NIHtimeline">{{cite web|url=http://www.ncbi.nlm.nih.gov/books/bv.fcgi?db=Books&rid=mboc4.table.1516|title="Some landmarks in the development of tissue and cell culture."|accessdate=2006-04-19}}</ref>
+
+==History==
+The 19th-century English physiologist [[Sydney Ringer]] developed [[Lactated Ringer's solution|salt solutions]] containing the chlorides of sodium, potassium, calcium and magnesium suitable for maintaining the beating of an isolated animal heart outside of the body.[http://www.whonamedit.com/synd.cfm/2119.html] 
+In 1885 [[Wilhelm Roux]] removed a portion of the [[medulla]]ry plate of an [[embryo]]nic [[chicken]] and maintained it in a warm [[saline solution]] for several days, establishing the principle of tissue culture.<ref name="Zurlow"> {{cite web|url=http://caat.jhsph.edu/pubs/animal_alts/appendix_c.htm|title="Animals and alternatives in testing."|accessdate=2006-04-19}}</ref>  [[Ross Granville Harrison]], working at [[Johns Hopkins Medical School]] and then at [[Yale University]], published results of his experiments from 1907-1910, establishing the methodology of [[tissue culture]].<ref name="Schiff"> Schiff, Judith Ann. {{cite web|title="An unsung hero of medical research."|url=http://www.yalealumnimagazine.com/issues/02_02/old_yale.html|accessdate=2006-04-19}} ''[[Yale Alumni Magazine]]'', February 2002.</ref>
+
+Cell culture techniques were advanced significantly in the 1940s and 1950s to support research in [[virology]].  Growing viruses in cell cultures allowed preparation of purified viruses for the manufacture of [[vaccine]]s. The Salk [[polio vaccine]] was one of the first products mass-produced using cell culture techniques.   This vaccine was made possible by the cell culture research of [[John Franklin Enders]], [[Thomas Huckle Weller]], and [[Frederick Chapman Robbins]], who were awarded a [[Nobel Prize]] for their discovery of a method of growing the virus in monkey [[kidney]] cell cultures.
+
+==Concepts in mammalian cell culture==
+===Isolation of cells===
+Cells can be isolated from tissues for ''[[ex vivo]]'' culture in several ways. Cells can be easily purified from blood, however only the [[white blood cell|white cells]] are capable of growth in culture. Mononuclear cells can be released from soft tissues by ''enzymatic digestion'' with [[enzyme]]s such as [[Matrix metalloproteinase|collagenase]], [[trypsin]], or [[pronase]], which break down the [[extracellular matrix]]. Alternatively, pieces of tissue can be placed in [[growth medium|growth media]], and the cells that grow out are available for culture. This method is known as ''[[explant culture]]''.
+
+Cells that are cultured directly from a subject are known as ''primary cells''. With the exception of some derived from tumours, most primary cell cultures have limited lifespan. After a certain number of population doublings cells undergo the process of [[senescence]] and stop dividing, while generally retaining viability. 
+
+An established or immortalised ''cell line'' has acquired the ability to proliferate indefinitely either through random mutation or deliberate modification, such as artificial [[Gene expression|expression]] of the [[telomerase]] [[gene]]. 
+There are numerous well established cell lines representative of particular cell types.
+
+===Maintaining cells in culture===
+Cells are grown and maintained at an appropriate [[temperature]] and gas mixture (typically, 37[[°C]], 5% [[carbon dioxide|CO<sub>2</sub>]] for mammalian cells) in a [[cell incubator]]. Culture conditions vary widely for each cell type, and variation of conditions for a particular cell type can result in different [[phenotype]]s being expressed. 
+
+Aside from temperature and gas mixture, the most commonly varied factor in culture systems is the growth medium. Recipes for growth media can vary in [[pH]], glucose concentration, [[growth factors]], and the presence of other nutrients. The growth factors used to supplement media are often derived from animal [[blood]], such as calf [[blood serum|serum]]. One complication of these blood-derived ingredients is the potential for contamination of the culture with [[viruses]] or [[prion]]s, particularly in biotechnology medical applications. Current practice is to minimize or eliminate the use of these ingredients wherever possible, but this cannot always be accomplished. 
+
+Cells can be grown in ''suspension'' or ''adherent'' cultures. Some cells naturally live in suspension, without being attached to a surface, such as cells that exist in the bloodstream. There are also cell lines that have been modified to be able to survive in suspension cultures so that they can be grown to a higher density than adherent conditions would allow. Adherent cells require a surface, such as tissue culture plastic, which may be coated with extracellular matrix components to increase adhesion properties and provide other signals needed for growth and differentiation. Most cells derived from solid tissues are adherent. Another type of adherent culture is ''organotypic culture'' which involves growing cells in a three-dimensional environment as opposed to two-dimensional culture dishes. This 3D culture system is biochemically and physiologically more similar to ''in vivo'' tissue, but is technically challenging to maintain because of many factors (e.g. diffusion).
+
+===Cell line cross-contamination===
+
+Cell line cross-contamination can be a problem for scientists working with cultured cells. Studies suggest that anywhere from 15–20% of the time, cells used in experiments have been misidentified or contaminated with another cell line.<ref>Drexler, H.G., Dirks,W.G. and MacLeod, R.A.F. (1999) False human hematopoetic cell lines: cross-contaminations and misinterpretations. ''Leukemia'' '''13''', 1601–1607. [http://www.ncbi.nlm.nih.gov/pubmed/10516762 PMID: 10516762.]</ref> <ref>Drexler, H.G. ''et al''. (2001) Cross-contamination: HS-Sultan is not a myeloma but a Burkitt lymphoma cell line. ''Blood'' '''98''', 3495–6. [http://www.ncbi.nlm.nih.gov/pubmed/11732505 PMID: 11732505] </ref><ref>Cabrera, C.M. ''et al''. (2006) Identity tests: Determination of cross contamination. ''Cytotechnology'' '''51''', 45–50. [http://dx.doi.org/10.1007/s10616-006-9013-8  DOI: 10.1007/s10616-006-9013-8]</ref> Problems with cell line cross contamination even been detected in lines from the NCI-60 panel, which are used routinely for drug-screening studies. <ref name=chatterjee>Chatterjee, R. (2007) Cell biology. Cases of mistaken identity. ''Science'' '''315''', 928–931 [http://www.ncbi.nlm.nih.gov/pubmed/17303729  PMID: 17303729]</ref> <ref>Liscovitch, M. and Ravid, D. (2007) A case study in misidentification of cancer cell lines: MCF-7/AdrR cells (re-designated NCI/ADR-RES) are derived from OVCAR-8 human ovarian carcinoma cells. ''Cancer Lett''. '''245''', 350–352.  [http://www.ncbi.nlm.nih.gov/pubmed/16504380 PMID: 16504380] </ref> Major cell line repositories including the American Type Culture Collection (ATCC) and the European Collection of Cell Cultures (ECACC) have received cell line submissions from researchers that were misidentified by the researcher.<ref name=chatterjee/><ref name=macleod>MacLeod, R.A.F. ''et al''. (1999) Widespread intraspecies cross-contamination of human tumor cell lines arising at source. ''Int. J. Cancer'' '''83''', 555–563  [http://www.ncbi.nlm.nih.gov/pubmed/10508494 PMID: 10508494]</ref> Such contamination poses a problem for the quality of research produced using cell culture lines, and the major repositories are now authenticating all cell line submissions.<ref>Masters, John R. (2002): HeLa cells 50 years on: the good, the bad and the ugly. ''[[Nature Reviews Cancer]]'' '''2''':315-319. See [[List of contaminated cell lines]].</ref> ATCC uses short tandem repeat (STR) DNA fingerprinting to authenticate its cell lines.<ref name=dunham>Dunham, J.H. and Guthmiller, P. (2008) [http://www.promega.com/cnotes/cn022/cn022_15.pdf Doing good science: Authenticating cell line identity.] ''Cell Notes'' '''22''', 15–17.</ref>
+
+To address this problem of cell line cross-contamination, researchers are encouraged to authenticate their cell lines at an early passage to establish the identity of the cell line. Authentication should be repeated before freezing cell line stocks, every two months during active culturing and before any publication of research data generated using the cell lines. There are many methods for identifying cell lines including isoenzyme analysis, human lymphocyte antigen (HLA) typing and STR analysis.<ref name=dunham/>
+
+
+
+===Manipulation of cultured cells===
+As cells generally continue to divide in culture, they generally grow to fill the available area or volume. This can generate several issues:
+
+* Nutrient depletion in the growth media
+* Accumulation of [[apoptosis|apoptotic]]/[[necrosis|necrotic]] (dead) cells.
+* Cell-to-cell contact can stimulate cell cycle arrest, causing cells to stop dividing known as [[contact inhibition]] or [[senescence]].
+* Cell-to-cell contact can stimulate [[cellular differentiation]].
+
+Among the common manipulations carried out on culture cells are media changes, passaging cells, and transfecting cells.
+These are generally performed using tissue culture methods that rely on [[sterile technique]]. Sterile technique aims to avoid contamination with bacteria, yeast, or other cell lines. Manipulations are typically carried out in a [[biosafety hood]] or [[laminar flow cabinet]] to exclude contaminating micro-organisms. [[Antibiotics]] can also be added to the growth media.
+
+As cells undergo metabolic processes, acid is produced and the pH decreases. Often, a [[pH indicator]] is added to the medium in order to measure nutrient depletion. 
+
+====Media changes====
+In the case of adherent cultures, the medium can be removed directly by aspiration and replaced.
+
+====Passaging cells====
+{{main|Passaging}}
+Passaging (also known as subculture or splitting cells) involves transferring a small number of cells into a new vessel. Cells can be cultured for a longer time if they are split regularly, as it avoids the senescence associated with prolonged high cell density. Suspension cultures are easily passaged with a small amount of culture containing a few cells diluted in a larger volume of fresh media. For adherent cultures, cells first need to be detached; this is commonly done with a mixture of [[trypsin]]-[[EDTA]], however other enzyme mixes are now available for this purpose. A small number of detached cells can then be used to seed a new culture.
+
+====Transfection and transduction====
+{{main|transfection}}
+{{main|transformation (genetics)}}
+Another common method for manipulating cells involves the introduction of foreign DNA by [[transfection]]. This is often performed to cause cells to [[protein expression|express a protein]] of interest. More recently, the transfection of [[RNAi]] constructs have been realized as a convenient mechanism for suppressing the expression of a particular gene/protein.
+
+DNA can also be inserted into cells using [[virus]]es, in methods referred to as [[transduction (genetics)|transduction]], [[infection]] or [[transformation (genetics)|transformation]]. Viruses, as parasitic agents, are well suited to introducing DNA into cells, as this is a part of their normal course of reproduction.
+
+===Established human cell lines===
+[[Image:HeLa Hoechst 33258.jpg|thumb|right|300px|One of the earliest human cell lines, descended from [[Henrietta Lacks]], who died of the cancer that those cells originated from, the cultured [[HeLa]] cells shown here have been stained with [[Hoechst stain|Hoechst]] turning their [[Cell nucleus|nuclei]] blue.]]
+Cell lines that originate with [[human]]s have been somewhat controversial in [[bioethics]], as they may outlive their parent organism and later be used in the discovery of lucrative medical treatments.  In the pioneering decision in this area, the [[Supreme Court of California]] held in [[Moore v. Regents of the University of California]] that human patients have no property rights in cell lines derived from organs removed with their consent. <ref>[http://online.ceb.com/calcases/C3/51C3d120.htm ceb]</ref>
+ 
+
+===Generation of hybridomas===
+
+{{details|Hybridoma}}
+
+It is possible to fuse normal cells with an immortalised cell line. This method is used to produce [[monoclonal antibody|monoclonal antibodies]]. In brief, lymphocytes isolated from the spleen (or possibly blood) of an [[immunization|immunised]] animal are combined with  an immortal myeloma cell line (B cell lineage) to produce a [[hybridoma]] which has the antibody specifity of the primary lymphoctye and the immortality of the myleoma. [[Selective growth medium]] (HA or HAT) is used to select against unfused myeloma cells; primary lymphoctyes die quickly in culture and only the fused cells survive. These are screened for production of the required antibody, generally in pools to start with and then after single cloning.
+
+==Applications of cell culture==
+Mass culture of animal cell lines is fundamental to the manufacture of viral [[vaccines]] and many products of biotechnology. Biological products produced by [[recombinant DNA]] (rDNA) technology in animal cell cultures include [[enzymes]], synthetic [[hormones]], [[immunobiologicals]] ([[monoclonal antibodies]], [[interleukins]], [[lymphokines]]), and [[anticancer agents]].  Although many simpler proteins can be produced using rDNA in bacterial cultures, more complex proteins that are glycosylated (carbohydrate-modified) currently must be made in animal cells.  An important example of such a complex protein is the hormone [[erythropoietin]].  The cost of growing mammalian cell cultures is high, so research is underway to produce such complex proteins in [[insect]] cells or in higher [[plants]].
+
+===Tissue culture and engineering===
+Cell culture is a fundamental component of [[tissue culture]] and [[tissue engineering]], as it establishes the basics of growing and maintaining cells ''ex vivo''.
+
+===Vaccines===
+[[Vaccine]]s for [[polio]], [[measles]], [[mumps]], [[rubella]], and [[chickenpox]] are currently made in cell cultures. Due to the [[H5N1]] [[pandemic]] threat, research into using cell culture for [[influenza vaccine]]s is being funded by the [[United States]] government.  Novel ideas in the field include [[recombinant DNA]]-based vaccines, such as one made using human adenovirus (a common cold virus) as a vector,<ref>[http://wired.com/news/wireservice/0,70102-0.html?tw=wn_index_7 cold as vector news]</ref> <ref>[http://jvi.asm.org/cgi/content/abstract/80/4/1959 cold as vector research abstract]  </ref>  or the use of [[adjuvant]]s. <ref>[http://www3.niaid.nih.gov/news/newsreleases/2004/h9n2.htm adjuvant]</ref>
+
+== Culture of non-mammalian cells ==
+=== Plant cell culture methods ===
+{{see also|Tobacco BY-2 cells}}
+Plant cell cultures are typically grown as [[cell suspension cultures]] in liquid medium or as [[Callus (cell biology)|callus cultures]] on solid medium. The culturing of undifferentiated plant cells and calli requires the proper balance of the plant growth hormones [[auxin]] and [[cytokinin]].
+
+=== Bacterial/Yeast culture methods ===
+{{main|microbiological culture}}
+
+For bacteria and yeast, small quantities of cells are usually grown on a solid support that contains nutrients embedded in it, usually a gel such as agar, while large-scale cultures are grown with the cells suspended in a nutrient broth.
+
+=== Viral culture methods ===
+The culture of [[virus]]es requires the culture of cells of mammalian, plant, fungal or bacterial origin as hosts for the growth and replication of the virus. Whole [[wild type]] viruses, [[Recombinant DNA|recombinant]] viruses or viral products may be generated in cell types other than their natural hosts under the right conditions. Depending on the species of the virus, infection and viral replication may result in host cell lysis and formation of a [[viral plaque]].
+
+==Common cell lines==
+;[[Human]] cell lines
+*[[National Cancer Institute]]'s 60 [[cancer]] cell lines
+* ESTDAB database http://www.ebi.ac.uk/ipd/estdab/directory.html
+
+*[[DU145]] ([[Prostate cancer]])
+*[[LNCaP|Lncap]] ([[Prostate cancer]])
+*[[MCF7|MCF-7]] ([[breast cancer]])
+*[[MDA-MB-438]] ([[breast cancer]])
+*[[PC3]] ([[Prostate cancer]])
+*[[T47D]] ([breast cancer])
+*[[THP-1]] (acute myeloid [[leukemia]])
+*[[U87]] ([[glioblastoma]])
+*[[SHSY5Y]] Human neuroblastoma cells, cloned from a [[myeloma]]
+*[[Saos-2 cells]] ([[bone cancer]])
+
+;[[Primate]] cell lines
+*[[Vero cell|Vero]] (African green monkey ''[[Chlorocebus]]'' kidney [[epithelial]] cell line initiated 1962)
+
+;[[Rat]] tumor cell lines
+*[[GH3 (cell line)|GH3]] ([[pituitary tumor]])
+*[[PC12 cells|PC12]] ([[pheochromocytoma]])
+
+;[[Mouse]] cell lines
+*[[MC3T3]] (embryonic [[calvarial]])
+
+;Plant cell lines
+*[[Nicotiana tabaccum cv. BY-2|Tobacco BY-2 cells]] (kept as [[cell suspension culture]], they are [[model organism|model system]] of plant cell)
+
+;Other species cell lines
+*[[zebrafish]] [[ZF4]] and [[AB9]] cells.
+*''Madin-Darby Canine [[Kidney]] (MDCK)'' [[epithelial]] cell line
+*[[Xenopus]] [[A6]] kidney [[epithelial]] cells.
+
+== List of cell lines ==
+{| width="100%" class="prettytable sortable" 
+|-  class="6" 
+! Cell line || Meaning || Organism || Origin tissue || Morphology || Link
+|- 
+| 293-T || || Human || kidney (embryonic) || || Derivative of [[HEK 293]]
+|- 
+| [[3T3 cells]] || "3-day transfer, inoculum 3 x 105 cells" || Mouse || embryonic fibroblast || || Also known as NIH 3T3
+|- 
+| 721 || || Human || melanoma || || 
+|- 
+| 9L || || Rat || glioblastoma || || 
+|- 
+| A172 || || human || glioblastoma || malignant [[glioma]] || 
+|- 
+| A20 || || murine || B [[lymphoma]] || B [[lymphocyte]] || 
+|- 
+| A253 || || human || head and neck [[carcinoma]] || submandibular duct || 
+|- 
+| A431 || || human || skin epithelium || squamous carcinoma || [http://www.biotech.ist.unige.it/cldb/cl160.html Biotech Institute]
+|- 
+| [[A549 cell|A-549]] || || human || lungcarcinoma || epithelium || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=107&from=cell_line_index&select=A&term=&preselect=human;hamster;mouse;rat;insect;other&firstload=0 DSMZ]
+|- 
+| ALC || || murine || [[bone marrow]] || stroma || [http://www.ncbi.nlm.nih.gov/pubmed/2435412 NCBI]
+|- 
+| B16 || || murine || [[Melanoma]] ||  || 
+|- 
+| B35 || || rat || [[Neuroblastoma]] ||  || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-2754 ATCC]
+|-
+| [[BCP-1 cells]] || || Human || [[PBMC]] || HIV+ lymphoma || [http://www.atcc.org/common/catalog/numSearch/numResults.cfm?atccNum=CRL-2294 ATCC]
+|- 
+| bEnd.3 || ''brain endothelial'' || mouse || brain / cerebral Cortex || endothelium || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-2299 ATCC]
+|- 
+| BHK-21 || "Baby [[Hamster]] [[Kidney]] [[Fibroblast]] cells" || [[Hamster]] || [[kidney]] || [[fibroblast]] || [http://www.olympusmicro.com/primer/techniques/fluorescence/gallery/cells/bhk/bhkcells.html Olympus]
+|- 
+| BR 293 || || human || breast || breast cancer || 
+|-  
+| BxPC3 || Biopsy xenograph of pancreatic carcinoma line 3 || human || pancreatic adenocarcinoma || epithelial || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-1687 ATCC]
+|- 
+| C3H-10T1/2 || || Mouse || Embryonic mesenchymal cell line || ||
+|- 
+| C6/36  || || [[Asian tiger mosquito]] || larval tissue || ||
+|- 
+| Cal-27 || || human || tongue || squamous cell carcinoma || [http://www.biotech.ist.unige.it/cldb/cl7086.html Biotech institute]
+|-
+| [[Chinese hamster ovary cell|CHO]] || ''Chinese hamster ovary'' || hamster || Ovary || epithelium || [http://wwwsql.iclc.it/test/iclc/det_list.php?line_id=724&x=23&y=17 ICLC]|-
+|- 
+| COS-7 || ''Cercopithecus aethiops, origin-defective SV-40'' || ape - ''Cercopithecus aethiops'' ([[Chlorocebus]]) || kidney || fibroblast || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-1651 ATCC]
+|- 
+| CML T1 || ''Chronic Myelod Leukaemia T-lymphocyte 1''  || human || CML acute phase || T cell leukaemia || [http://bloodjournal.hematologylibrary.org/cgi/reprint/74/4/1381.pdf Blood]
+|- 
+| CMT || ''canine mammary tumor''  || dog || mammary gland || epithelium || 
+|-
+| CT26 || || murine || Colorectal [[Carcinoma]] || Colon || 
+|-
+| D17 || || canine || [[osteosarcoma]] ||
+|-
+| DH82 || || canine || histiocytosis || [[monocyte]]/[[macrophage]] || [http://www.ingentaconnect.com/content/els/01660934/2001/00000095/00000001/art00288 J Vir Meth]
+|-
+| DU145 || || human || [[Androgen]] insensitive [[carcinoma]] || Prostate || 
+|-
+| EL4 || || mouse || || T cell leukaemia
+|-
+| EM2 || || human || CML blast crisis || Ph+ CML line || [http://www.biotech.ist.unige.it/cldb/cl1164.html Biotech institute]
+|-
+| EM3 || || human || CML blast crisis || Ph+ CML line || [http://www.biotech.ist.unige.it/cldb/cl1165.html Biotech institute]
+|-
+| FM3 || || human || Metastatic lymph node || melanoma || [http://www.biotech.ist.unige.it/cldb/cl1165.html Biotech institute]
+|-  
+| [[H1299]] || || human || lung || lung cancer ||
+|-
+| HB54 || || [[hybridoma]] || [[hybridoma]] || secretes L243 mAb (against HLA-DR) || [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T3B-3Y0HP3C-D&_user=2471587&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_version=1&_urlVersion=0&_userid=2471587&md5=7b99610fbfe0f0cf8f919d2412c25e8c Human Immunology]
+|-
+| HB55 || || [[hybridoma]] || [[hybridoma]] || secretes MA2.1 mAb (against HLA-A2 and HLA-B17) || [http://www.jimmunol.org/cgi/reprint/154/8/3922.pdf Journal of Immunology]
+|-  
+| HCA2 || || human || fibroblast || || [http://vir.sgmjournals.org/cgi/content/full/82/4/855 Journal of General Virology]
+|-
+| [[HEK cell|HEK-293]] || ''human embryonic kidney'' || human || kidney (embryonic) || epithelium || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-1573 ATCC]
+|-
+| [[HeLa]] || ''Henrietta Lacks'' || human || [[Cervical cancer]] || epithelium || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=57&from=cell_line_index&select=H&term=&preselect=human;hamster;mouse;rat;insect;other&firstload=0 DSMZ]
+|-  
+| Hepa1c1c7 || clone 7 of clone 1 hepatoma line 1 || mouse || Hepatoma || epithelial || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-2026 ATCC]
+|- 
+| HL-60 || ''human leukemia'' || human || [[Myeloblast]] || bloodcells || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=3&from=cell_line_index&select=H&term=&preselect=human;hamster;mouse;rat;insect;other&firstload=0 DSMZ]
+|- 
+| HMEC || ''human mammary epithelial cell'' || human || || epithelium || 
+|- 
+| HT-29 || || human || colon epithelium || adenocarcinoma || [http://www.biotech.ist.unige.it/cldb/totcl5292.html Biotech Institute]
+|- 
+| HUVEC || ''human umbilical vein endothelial cells'' || human || Umbilical cord vein || endothelium || [http://wwwsql.iclc.it/test/iclc/det_list.php?line_id=7173&x=18&y=15 ICLC]
+|-  
+| [[Jurkat cells|Jurkat]] || || human || T-Cell-[[Leukemia]]|| white blood cells || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=282&from=cell_line_index&select=J&term=&preselect=human;hamster;mouse;rat;insect;other&firstload=0 DSMZ]
+|- 
+| [[JY cells]] || || human || lymphoblastoid || EBV immortalised B cell ||
+|- 
+| [[K562 cells]] || || human || lymphoblastoid || CML blast crisis ||
+|- 
+| [[Ku812]] || || human || lymphoblastoid || erythroleukemia ||[http://www.lgcstandards-atcc.org/LGCAdvancedCatalogueSearch/ProductDescription/tabid/1068/Default.aspx?ATCCNum=CRL-2099&Template=cellBiology LGCstandards]
+|-  
+| [[KCL22]] || || human || lymphoblastoid || CML ||
+|-  
+| [[KG1]] || || human || lymphoblastoid || AML ||
+|-  
+| [[KYO1]] || Kyoto 1 || human || lymphoblastoid || CML || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=601 DSMZ]
+|-  
+| [[LNCaP|LNCap]] || || human || prostatic adenocarcinoma || epithelium || [http://www.atcc.org/common/catalog/numSearch/numResults.cfm?atccNum=CRL-1740#21889 ATCC]
+|- 
+| Ma-Mel 1, 2, 3....48|| || human || || a range of melanoma cell lines||
+|- 
+| MC-38 || || mouse || || adenocarcinoma ||
+|- 
+| MCF-10A || ''Michigan Cancer Foundation'' || human || mammary gland || epithelium || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-10317 ATCC]
+|- 
+| MDA-231 || || human || breast || cancer ||
+|- 
+| MDA-468 || || human || breast || cancer ||
+|- 
+| MDA-MB-435 || || human || breast || melanoma or carcinoma (disputed) || [http://www.path.cam.ac.uk/~pawefish/BreastCellLineDescriptions/mda-mb-435.htm Cambridge Pathology]
+|- 
+| MDCK II || ''Madin Darby canine kidney'' || dog || kidney || epithelium || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CCL-34 ATCC]
+|- 
+| MDCK II || ''Madin Darby canine kidney'' || dog || kidney || epithelium || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CCL-34 ATCC]
+|- 
+| MONO-MAC 6 || || human || WBC || myeloid metaplasic [[AML]] || [http://www.biotech.ist.unige.it/cldb/cl3535.html Biotech Institute]
+|- 
+| MTD-1A || || mouse ||  || epithelium || 
+|- 
+| MyEnd || ''myocardial endothelial''  || mouse || || endothelium || 
+|-
+| [[NIH-3T3]] || ''[[National Institutes of Health|NIH]], 3-day transfer, inoculum  3 x 10<sup>5</sup> cells'' || mouse || embryo || fibroblast || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CRL-1658 ATCC]
+|- 
+| NALM-1 || || || peripheral blood || blast-crisis CML || [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T53-4F004GT-C&_user=2471587&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_version=1&_urlVersion=0&_userid=2471587&md5=cb3b95ffacaa6d9d18592800560294b7 Cancer Genetics and Cytogenetics]
+|- 
+| NW-145 || || || || melanoma || [http://www.ebi.ac.uk/cgi-bin/ipd/estdab/print_cell.cgi?ESTDAB-057 ESTDAB]
+|-
+| OPCN / OPCT cell lines || Onyvax[http://www.onyvax.com] Prostate Cancer....|| || || Range of prostate tumour lines || [http://solutions.asterand.com/Human-Prostate-Cell-Lines-s/23.htm Asterand]
+|-
+| [[Peer]] || || human || T cell leukemia || || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=006&from=cell_line_index&select=search_for_term&term=*&preselect=human;hamster;mouse;rat;insect;other DSMZ]
+|-
+| PNT-1A / PNT 2 || || || || Prostate tumour lines ||
+|-
+| RenCa || Renal Carcinoma || mouse || || renal carcinoma ||
+|-
+| RMA/RMAS || || mouse || || T cell tumour
+|-
+| [[Saos-2 cells]]|| || human || || Osteosarcoma
+|-
+| Sf-9 || ''Spodoptera frugiperda'' || insect - ''Spodoptera frugiperda'' (moth) || Ovary ||  || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=125 DSMZ]
+|-
+| SkBr3 || || human || || breast carcinoma
+|- 
+| T2 || || human || || T cell leukemia/B cell line hybridoma || [http://www.dsmz.de/human_and_animal_cell_lines/info.php?dsmz_nr=598 DSMZ]
+|- 
+|- 
+| T84 || || human || colorectal Carcinoma / lungmetastasis || epithelium || [http://www.lgcpromochem-atcc.com/common/catalog/numSearch/numResults.cfm?atccNum=CCL-248 ATCC]
+|-
+| [[THP1 cell line]] || || human || monocyte || AML || 
+|- 
+| U373 || || human || glioblastoma-astrocytoma || epithelium || 
+|- 
+| U87 || || human || glioblastoma-astrocytoma || epithelial-like || [http://www.abcam.com/index.html?datasheet=14903 Abcam]
+|- 
+| U937 || || human || leukaemic monocytic lymphoma || || 
+|-
+| [[Vero cell]]s || 'Vera Redno' ('green kidney') / 'Vero' ('truth') || African Green Monkey || kidney epithelium || || 
+|-
+| WM39 || || human || skin || primary melanoma ||
+|-
+| WT-49 || || human || lymphoblastoid || ||
+|-
+| X63 || || mouse || melanoma || || 
+|-
+| YAC-1 || || mouse || lymphoma || || [http://www.biotech.ist.unige.it/cldb/totcl4802.html Biotech Institute]
+|-
+| YAR || || human || B-cell || EBV transofrmed || [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T3B-3VWP1CN-2&_user=2471587&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_version=1&_urlVersion=0&_userid=2471587&md5=93582a8dcb31e96760f4b9a618936c92 Human Immunology]
+|-
+|}
+'''Note:''' this list is a sample of available cell lines, and is not comprehensive
+
+==See also==
+*[[Biological immortality]]
+*[[Cell culture assays]]
+*[[List of contaminated cell lines]]
+*[[Organ culture]]
+*[[Plant tissue culture]]
+*[[Tissue culture]]
+
+==References and notes==
+{{reflist}}
+
+*MacLeod, R. A. F. ''et al.'' (1999): Widespread intraspecies cross-contamination of human tumour cell lines. ''[[International Journal of Cancer]]'' '''83''':555–563.
+*Masters, John R. (2002): HeLa cells 50 years on: the good, the bad and the ugly. ''[[Nature Reviews Cancer]]'' '''2''':315-319.
+
+==External links==
+*[http://www.hpacultures.org.uk/ Health Protection Agency Culture Collections - including ECACC (European Collection of Cell Cultures)]
+*[http://www.pubmedcentral.gov/articlerender.fcgi?artid=1139336 Witkowski JA.  Experimental pathology and the origins of tissue culture: Leo Loeb's contribution.]  ''Med Hist.'' 1983 July; 27(3): 269–288.
+*[http://www.atcc.org/ atcc]
+*[http://ccr.coriell.org/ Coriell Cell Repositories]
+*[http://www.nccs.res.in/ The National Centre for Cell Science] (NCCS), Pune, India; national repository for cell lines/hybridomas etc.
+*[http://www.natureprotocols.com/2006/08/25/neural_stem_cell_culture_neuro.php Neural Stem Cell Culture: Neurosphere generation, microscopical analysis and cryopreservation (a protocol)]
+*[http://www.natureprotocols.com/2006/09/29/rat_chromaffin_cells_primary_c.php Rat Chromaffin cells primary cultures: Standardization and quality assessment for single-cell assays (a protocol)]
+*[http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.table.1515 Table of common cell lines from Alberts 4th ed.]
+
+[[Category:Biotechnology]]
+[[Category:Cell biology]]
+[[Category:Cell cultures|*]]
+[[Category:Molecular biology techniques]]
+
+[[ar:زرع الخلايا]]
+[[cs:Buněčná kultura]]
+[[de:Zellkultur]]
+[[es:Cultivo celular]]
+[[fr:Culture cellulaire]]
+[[ko:세포 배양]]
+[[it:Coltura cellulare]]
+[[he:תרבית תאים]]
+[[ja:細胞培養]]
+[[pl:Kultura komórkowa]]
+[[pt:Cultura celular]]
+[[simple:Cell culture]]
+[[sv:Cellodling]]
+[[zh:细胞培养]]

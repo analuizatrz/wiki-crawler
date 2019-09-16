@@ -1,0 +1,371 @@
+{{seeintro}}
+'''General relativity''' (GR) [also called the '''general theory of relativity''' (GTR) and '''general relativity theory''' (GRT)] is the [[Geometry|geometrical]] [[theory]] of [[gravitation]] published by [[Albert Einstein]] in 1915/16.<ref name=Ein1915>{{cite journal|last=Einstein| first=Albert| authorlink = Albert Einstein| date=[[November 25]], [[1915]]| title=Die Feldgleichungun der Gravitation| journal=Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin| pages=844-847 | url=http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=6E3MAXK4&step=thumb | accessdate=2006-09-12}}</ref><ref name = Ein1916> {{cite journal| last = Einstein| first = Albert| title = The Foundation of the General Theory of Relativity| journal = Annalen der Physik| volume =  | issue = | pages = | date = [[1916]]| publisher = | url = http://www.alberteinstein.info/gallery/gtext3.html| format = [[PDF]]| id =  | accessdate = 2006-09-03 }} </ref> It unifies [[special relativity]] and Sir [[Isaac Newton]]'s [[law of universal gravitation]] with the insight that gravitation is not due to a [[force]] but rather is a manifestation of [[curvature|curved]] [[space]] and [[time]], with this curvature being produced by the [[mass]]-[[energy]] and [[momentum]] content of the [[space-time]].  General relativity is distinguished from other metric [[:Category:Theories of gravitation|theories of gravitation]] by its use of the [[Einstein field equations]] to relate space-time content and space-time curvature.
+
+General relativity is currently the most successful gravitational theory, being almost universally accepted and well confirmed by observations.  The first success of general relativity was in explaining the anomalous [[perihelion]] [[precession]] of [[Mercury (planet)|Mercury]].  Then in [[1919]], [[Arthur Stanley Eddington|Sir Arthur Eddington]] announced that observations of [[star]]s near the [[eclipse]]d [[Sun]] confirmed general relativity's prediction that massive objects bend [[light]].  Since then, many other [[tests of general relativity|observations and experiments]] have confirmed many of the [[#Predictions_of_general_relativity|predictions of general relativity]], including [[gravitational time dilation]], the [[gravitational redshift]] of light, [[Shapiro delay|signal delay]], and [[gravitational radiation]].  In addition, numerous observations are interpreted as confirming the weirdest prediction of general relativity, the existence of [[black hole]]s.
+
+In the [[mathematics of general relativity]], the Einstein field equations become a set of [[simultaneous equations|simultaneous]] [[differential equations]] which are solved to produce [[metric tensor (general relativity)|metric tensors]] of space-time.  These metric tensors describe the shape of the space-time, and are used to obtain the predictions of general relativity.  The [[Christoffel symbol|connections]] of the metric tensors specify the [[geodesic (general relativity)|geodesic]] paths that objects follow when traveling [[inertia]]lly. Important [[solutions of the Einstein field equations]] include the [[Schwarzschild solution]] (for the space-time surrounding a spherically symmetric uncharged and non-rotating massive object), the [[Reissner-Nordström black hole|Reissner-Nordström solution]] (for a charged spherically symmetric massive object), and the [[Kerr metric]] (for a rotating massive object).
+
+In spite of its overwhelming success, there is discomfort with general relativity in the scientific community due to its being incompatible with [[quantum mechanics]] and the reachable [[mathematical singularity|singularities]] of black holes (at which the math of general relativity breaks down).  Because of this, numerous other theories have been proposed as alternatives to general relativity.  The most successful of these was [[Brans-Dicke theory]], which appeared to have observational support in the [[1960s]].  However, those observations have since been refuted and modern measurements indicate that any Brans-Dicke type of deviation from general relativity must be very small if it exists at all.
+{{General relativity}}
+__TOC__
+</div>
+
+== Overview ==
+=== Treatment of gravitation ===
+[[image:spacetime_curvature.png|thumb|right|400px|Two-dimensional analogy of space-time distortion. The presence of matter changes the geometry of [[spacetime]], this (curved) geometry being interpreted as [[gravity]]. Note that the white lines do not represent the curvature of space, but instead represent the [[coordinate system]] imposed on the curved spacetime which would be rectilinear in a flat spacetime.]]
+
+In this theory, [[spacetime]] is treated as a 4-dimensional [[Lorentzian manifold]] which is curved by the presence of [[mass]], [[energy]] and [[momentum]] (or [[stress-energy tensor|stress-energy]]) within it. The relationship between stress-energy and the curvature of spacetime is described by the [[Einstein field equations]].  The motion of objects being influenced solely by the geometry of spacetime ([[Inertia|inertial motion]]) occurs along special paths called [[timelike]] and [[null]] [[geodesic (general relativity)|geodesics]] of spacetime.
+
+One of the defining features of general relativity is the idea that gravitational 'force' is replaced by geometry.  In general relativity, phenomena that in [[classical mechanics]] are ascribed to the action of the force of [[gravity]] (such as [[free-fall]], [[orbit]]al motion, and [[spacecraft]] [[trajectories]]) are taken in general relativity to represent inertial motion in a curved spacetime.  So what people standing on the surface of the Earth perceive as the 'force of gravity' is a result of their undergoing a [[#Coordinate vs. physical acceleration|continuous physical acceleration]] caused by the mechanical resistance of the surface on which they are standing.
+
+=== Justification ===
+The justification for creating general relativity came from the [[equivalence principle]]<ref name="Einstein:1907">{{cite journal|last=Einstein| first=Albert| date=[[1907]]| title=Über das Relativitätsprinzip und die aus demselben gezogene Folgerungen| journal=Jahrbuch der Radioaktivitaet und Elektronik | volume = 4}}</ref>, which dictates that [[free-fall]]ing observers are the ones in [[inertia]]l motion.  A consequence of this insight is that inertial observers can accelerate with respect to each other.  (Think of two balls falling on opposite sides of the Earth, for example.)  This redefinition is incompatible with [[Newton's first law of motion]], and cannot be accounted for in the [[Euclidean geometry]] of [[special relativity]].  To quote Einstein himself:
+: ''"If all accelerated systems are equivalent, then Euclidean geometry cannot hold in all of them."'' <ref> See [http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/General_relativity.html http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/General_relativity.html]</ref>
+Thus the equivalence principle led Einstein to search for a gravitational theory which involves curved space-times.
+
+Another motivating factor was the realization that relativity calls for the gravitational potential to be expressed as a symmetric rank-two [[tensor]], and not just a [[scalar field|scalar]] as was the case in Newtonian physics. (An analogy is the [[electromagnetic four-potential]] of special relativity.) Thus, Einstein sought a rank-two tensor means of describing curved space-times surrounding massive objects.<ref>{{cite journal|last=Einstein| first=Albert| coauthors = Grossmann, Marcel| date= [[1913]]| title=Entwurf einer verallgemeinerten Relativitaetstheorie und einer Theorie der Gravitation| journal=Zeitschrift fuer Mathematik und Physik| pages=225-261| url=http://www.bun.kyoto-u.ac.jp/~suchii/gen.GR3.html | accessdate=2006-09-20}}</ref> This effort came to fruition with the discovery of the Einstein field equations in 1915.<ref name=Ein1915/>
+
+=== Fundamental principles ===
+General relativity is based on the following set of fundamental principles which guided its development.<ref name = Ein1916/><ref>{{cite book | last = Einstein | first = A. | title = Relativity: The Special and General Theory | location = New York | publisher = Crown | year = 1961 | id = ISBN 0-517-02961-8 | url = http://www.gutenberg.org/etext/5001 }}</ref>  These principles are:
+* The [[general principle of relativity]]: The laws of physics must be the same for all observers (accelerated or not).
+* The [[principle of general covariance]]: The laws of physics must take the same form in all coordinate systems.
+* The principle that [[inertia|inertial motion]] is [[geodesic (general relativity)|geodesic motion]]: The world lines of particles unaffected by physical forces are timelike or null geodesics of spacetime.
+* The principle of [[local Lorentz invariance]]: The laws of [[special relativity]] apply locally for all inertial observers.
+* Spacetime is curved:  This permits gravitational effects such as free-fall to be described as a form of inertial motion. (See the discussion below of a person standing on Earth, under [[General relativity#Coordinate vs. physical acceleration|"Coordinate vs. physical acceleration."]])
+* Spacetime curvature is created by stress-energy within the spacetime:  This is described in general relativity by the Einstein field equations.
+
+(The equivalence principle, which was the starting point for the [[history of general relativity|development of general relativity]], ended up being a consequence of the general principle of relativity and the principle that inertial motion is geodesic motion.)
+
+===Spacetime as a curved Lorentzian manifold ===
+In general relativity, the [[spacetime]] concept introduced by [[Hermann Minkowski]] for special relativity is modified.  More specifically, general relativity stipulates that spacetime is:
+* [[curvature|curved]]: Spacetime has a [[non-Euclidean geometry]]. In special relativity, spacetime is flat.
+* [[Lorentzian manifold|Lorentzian]]: The [[metric tensor (general relativity)|metrics of spacetime]] must have a mixed [[metric signature]]. This is inherited from special relativity.
+* four [[dimension]]al: to cover the three spatial dimensions and time. This is also inherited from special relativity.
+
+The curvature of spacetime (caused by the presence of stress-energy) can be viewed intuitively in the following way. Placing a heavy object such as a bowling ball on a trampoline will produce a 'dent' in the trampoline. This is analogous to a large mass such as the Earth causing the local spacetime geometry to curve. This is represented by the image at the top of this article. The larger the mass, the bigger the amount of curvature. A relatively light object placed in the vicinity of the 'dent', such as a ping-pong ball, will accelerate towards the bowling ball in a manner governed by the 'dent'. Firing the ping-pong ball at just the right speed towards the 'dent' will result in the ping-pong ball 'orbiting' the bowling ball. This is analogous to the Moon orbiting the Earth, for example.
+
+Similarly, in general relativity massive objects do not directly impart a force on other massive objects as hypothesized in Newton's [[action at a distance]] idea.  Instead (in a manner analogous to the ping-pong ball's response to the bowling ball's ''dent'' rather than the bowling ball itself), other massive objects respond to how the first massive object curves spacetime.
+
+=== The mathematics of general relativity ===
+{{main|Mathematics of general relativity}}
+
+Due to the expectation that spacetime is curved, [[Riemannian geometry]] (a type of non-Euclidean geometry) must be used.  In essence, spacetime does not adhere to the "common sense" rules of Euclidean geometry, but instead objects that were initially traveling in parallel paths through spacetime (meaning that their velocities do not differ to first order in their separation) come to travel in a non-parallel fashion.  This effect is called [[geodesic deviation]], and it is used in general relativity as an alternative to gravity.  For example, two people on the Earth heading due north from different positions on the [[equator]] are initially traveling on parallel paths, yet at the [[north pole]] those paths will cross.  Similarly, two balls initially at rest with respect to and above the surface of the Earth (which are parallel paths by virtue of being at rest with respect to each other) come to have a converging component of relative velocity as both accelerate towards the center of the Earth due to
+their subsequent free-fall. (Another way of looking at this is how a single ball moving in a purely timelike fashion parallel to the center of the Earth comes through geodesic motion to be moving towards the center of the Earth.)
+
+The requirements of the mathematics of general relativity are further modified by the other principles.  Local Lorentz Invariance requires that the manifolds described in GR be 4-dimensional and Lorentzian instead of [[Riemannian manifold|Riemannian]].  In addition, the principle of [[general covariance]] forces that mathematics to be expressed using [[tensor calculus]].  Tensor calculus permits a manifold as [[map]]ped with a [[coordinate system]] to be equipped with a [[metric tensor (general relativity)|metric tensor of spacetime]] which describes the incremental (spacetime) intervals between coordinates from which both the [[geodesic equation]]s of motion and the [[curvature tensor]] of the spacetime can be ascertained.
+
+=== The Einstein field equations ===
+{{main|Einstein field equations}}
+
+The Einstein field equations (EFE) describe how stress-energy causes curvature of spacetime and are usually written in [[tensor]] form (using [[abstract index notation]]) as
+
+:<math> G_{ab} = \kappa\, T_{ab} </math>
+
+where ''G<sub>ab</sub>'' is the [[Einstein tensor]], ''T<sub>ab</sub>'' is the [[stress-energy tensor]] and <math>\kappa </math> is a constant. The tensors ''G<sub>ab</sub>''  and ''T<sub>ab</sub>'' are both rank 2 symmetric tensors, that is, they can each be thought of as 4&times;4 matrices, each of which contains 10 independent terms.
+
+The EFE reduce to [[Newton's law of gravity]] in the [[Correspondence principle#Other uses of the term|limiting cases]] of a [[weak-field approximation|weak gravitational field]] and [[slow-motion approximation|slow speed]] relative to the speed of light. In fact, the value of <math>\kappa</math>  in the EFE is determined to be <math>\kappa = 8 \pi G / c^4 \ </math> by making these two approximations.<ref name = Ein1916/> 
+
+Einstein introduced an alternative form of the field equations to accommodate a [[Einstein static universe|static universe solution]] in his theory:{{fact}}  
+
+:<math> G_{ab} + \Lambda\ g_{ab} = \kappa\, T_{ab} </math>
+
+where <math>\Lambda </math> is the [[cosmological constant]] and ''g<sub>ab</sub>''  is the [[metric tensor (general relativity)|spacetime metric]]. 
+
+The [[solutions of the Einstein field equations|solutions of the EFE]] are [[metric tensor (general relativity)|metrics of spacetime]]. These metrics describe the structure of spacetime given the stress-energy and coordinate mapping used to obtain that solution. Being non-linear differential equations, the EFE often defy attempts to obtain an [[exact solutions in general relativity|exact solution]]; however, many such solutions are known. 
+
+The EFE are the identifying feature of general relativity.  Other theories built out of the same premises include additional rules and/or constraints.  The result almost invariably is a theory with different [[field equation]]s (such as [[Brans-Dicke theory]], [[teleparallelism]], [[Rosen's bimetric theory]], and [[Einstein-Cartan theory]]).
+
+=== Coordinate vs. physical acceleration ===
+One of the greatest sources of confusion about general relativity comes from the need to distinguish between coordinate and physical accelerations.
+
+In [[classical mechanics]], space is preferentially mapped with a [[Cartesian coordinate system]].  Inertial motion then occurs as one moves through this space at a consistent coordinate rate with respect to time.  Any change in this rate of progression must be due to a force, and therefore a physical and coordinate acceleration were in classical mechanics one and the same.  It is important to note that in [[special relativity]] that same kind of Cartesian coordinate system was used, with time being added as a fourth dimension and defined for an observer using the [[Einstein synchronisation|Einstein synchronization procedure]].  As a result, physical and coordinate acceleration correspond in special relativity too, although their magnitudes may vary.
+
+In general relativity, the elegance of a flat spacetime and the ability to use a preferred coordinate system are lost (due to stress-energy curving spacetime and the principle of [[general covariance]]). Consequently, coordinate and physical accelerations become sundered.  For example:  Try using a radial coordinate system in classical mechanics.  In this system, an inertially moving object which passes by (instead of through) the origin point is found to first be moving mostly inwards, then to be moving tangentially with respect to the origin, and finally to be moving outwards, yet is moving in a straight line.  This is an example of an inertially moving object undergoing a coordinate acceleration, and the way this coordinate acceleration changes as the object travels is given by the [[geodesic]] equations for the manifold and coordinate system in use.
+
+Another more direct example is the case of someone standing on the Earth, where they are at rest with respect to the surface coordinates for the Earth (latitude, longitude, and elevation) but are undergoing a continuous physical acceleration because the mechanical resistance of the Earth's surface keeps them from free-falling.
+
+== Predictions of general relativity ==
+:''(For more detailed information about tests and predictions of general relativity, see [[tests of general relativity]]).''
+
+=== Gravitational effects ===
+==== Acceleration effects ====
+The acceleration effects are common to all accelerated frames of reference, and were described by Einstein as far back as 1907<ref name="Einstein:1907">error suppression text</ref>. As such, they are present even in special relativity.
+
+The first of these effect is the [[gravitational redshift|Gravitational redshifting]] of [[light]].  Under this effect, the frequency of light will decrease (shifting visible light towards the red end of the spectrum) as it moves to higher gravitational potentials (out of a gravity well).  This is caused by an observer at a higher gravitational potential being accelerated (with respect to the local inertial frames of reference) away from the source of a beam of light as that light is moving towards that observer.  Gravitational redshifting has been confirmed by the [[Pound-Rebka experiment]].<ref>{{cite journal|last=Pound| first=R. V.| coauthors = G. A. Rebka Jr. | authorlink = | date= [[November 1]][[1959]]| title=Gravitational Red-Shift in Nuclear Resonance| journal=Physical Review Letters| volume = 3 | issue = 9| pages=439-441| url=http://prola.aps.org/abstract/PRL/v3/i9/p439_1| accessdate=}}</ref><ref>{{cite journal|last=Pound| first=R. V.| coauthors = G. A. Rebka Jr. | authorlink = | date= [[April 1]] [[1960]]| title=Apparent weight of photons| journal=Physical Review Letters| volume = 4 | issue = 7| pages=337-341| url=http://prola.aps.org/abstract/PRL/v4/i7/p337_1| accessdate=}}</ref><ref>{{cite journal|last=Pound| first=R. V.| coauthors = J. L. Snider| authorlink = | date= [[November 2]] [[1964]]| title=Effect of Gravity on Nuclear Resonance| journal=Physical Review Letters| volume = 13 | issue = 18| pages=539-540| url=http://prola.aps.org/abstract/PRL/v13/i18/p539_1| accessdate=}}</ref>
+
+A related effect is [[gravitational time dilation]], under which clocks will run slower at lower gravitational potentials (deeper within a gravity well).  It is another way of perceiving that decrease in frequency of the gravitationally redshifted light.  This effect has been directly confirmed by the [[Hafele-Keating experiment]]<ref>{{cite journal | last=Hafele | first= J. | coauthors = Keating, R. | authorlink = | date= [[July 14]] [[1972]]| title=Around the world atomic clocks:predicted relativistic time gains | journal=Science| volume = 177 | issue = 4044| pages=166-168| url= http://www.sciencemag.org/cgi/content/abstract/177/4044/166| doi = 10.1126/science.177.4044.166| accessdate= 2006-09-18}}</ref><ref>{{cite journal | last=Hafele | first= J. | coauthors = Keating, R. | authorlink = | date= July 14 1972| title=Around the world atomic clocks:observed relativistic time gains | journal=Science| volume = 177 | issue = 4044| pages=168-170| url= http://www.sciencemag.org/cgi/content/abstract/177/4044/168 | doi = 10.1126/science.177.4044.168| accessdate=2006-09-18}}</ref> and [[Global Positioning System|GPS]].
+
+Gravitational time dilation has as a consequence another effect called the [[Shapiro effect]] (also known as gravitational time delay).  Shapiro delay occurs when signals take longer to move through a gravitational field than they would in the absence of the gravitational field.   This effect was discovered through the observations of signals from spacecraft and pulsars passing behind the Sun as seen from the Earth.<ref>{{cite journal | last=Shapiro | first= I. I. | authorlink = | date= [[December 28]] [[1964]]| title=Fourth test of general relativity| journal=Physical Review Letters| volume = 13 | issue = 26 | pages=789-791| url= http://prola.aps.org/abstract/PRL/v13/i26/p789_1| accessdate= 2006-09-18}}</ref><ref>{{cite journal | last=Shapiro | first= I. I. | authorlink = | coauthors = Gordon H. Pettengill, Michael E. Ash, Melvin L. Stone, William B. Smith, Richard P. Ingalls, and Richard A. Brockelman | date= [[May 27]] [[1968]]| title=Fourth test of general relativity:preliminary results | journal=Physical Review Letters| volume = 20 | issue = 22| pages=1265-1269| url= http://prola.aps.org/abstract/PRL/v20/i22/p1265_1| doi = 10.1103/PhysRevLett.20.1265|accessdate=2006-09-18}}</ref>
+
+==== Bending of light ====
+[[Image:1919_eclipse_negative.jpg|thumb|right|300px|The most famous early test of the general theory of relativity was made possible by observation of the 1919 solar [[eclipse]]. According to [[Arthur Stanley Eddington]], starlight could be seen to bend around the sun as it made its way to the observer on earth. Though the data in this specific experiment was later seen as being ambiguous, it vindicated Einstein's theory at the time.]]
+
+This bending also occurs in any accelerated frame of reference.  However, the details of the bending and therefore the gravitational lensing effects are governed by spacetime curvature.
+
+* The magnitude of this effect is twice the Newtonian prediction. It was confirmed by astronomical observations during [[eclipse]]s of the Sun and observations of pulsars passing behind the Sun.
+* [[Gravitational lensing]]:  One distant object in front of or close to being in front of another much more distant object can change how the more distant object is seen.  These effects include
+** Multiple views of the same object: Observations of quasars whose light passes close to an intervening galaxy.
+** Brightening of a star due to the focusing effects of a planet or another star passing in front of it:  Such "[[microlensing]]" events are now regularly observed.
+** [[Einstein ring]]s and arcs: One object directly behind another can make the more distant object's light appear as a ring.  When almost directly behind, the result is an arc.  Observed for distant galaxies.
+
+==== Orbital effects ====
+These are ways in which the [[celestial mechanics]] of general relativity differs from that of classical mechanics.
+
+* Non-Newtonian [[Precession#Precession of planetary orbits|periapsis precession]]: The [[Apsis|apsides]] of [[orbit]]s [[precess]] more than expected under Newton's theory of [[gravity]].  This has been [[Tests of general relativity#Classical tests|confirmed for Mercury]] and observed in several binary [[pulsar]]s.
+* <div id="orbital_decay">Orbital decay due to the emission of [[gravitational radiation]]:  This has been observed in binary pulsars.</div>
+* <div id="geodetic_precess">[[Geodetic precession]]:  Because of the curvature of spacetime, the orientation of an orbiting [[gyroscope]] will change over time.  This is being tested by [[Gravity Probe B]].</div>
+
+==== Rotational effects ====
+These involve the behavior of spacetime around a rotating massive object.
+
+* [[Frame dragging]]: A rotating object will drag the spacetime along with it.  This will cause the orientation of a gyroscope to change over time.  For a spacecraft in a polar orbit, the direction of this effect is perpendicular to the geodetic precession mentioned [[#geodetic precess|above]].  This prediction is also being tested by [[Gravity Probe B]].
+
+==== Black holes ====
+[[Black hole]]s are objects which have gravitationally collapsed behind an [[event horizon]]. A black hole is so massive that light cannot escape its gravitational pull.  The disappearance of light and matter within a black hole may be thought of as their entering a region where all possible world lines point inwards. [[Stephen Hawking]] has predicted that black holes can "leak" mass,<ref> {{cite journal | last = Hawking | first = Stephen | authorlink = Stephen Hawking |  title = Particle creation by black holes| journal = Communications in Mathematical Physics | volume = 43 | issue = 3 | pages = 199-220 | date = [[1975]] | publisher = | url = http://projecteuclid.org/Dienst/UI/1.0/Summarize/euclid.cmp/1103899181| id = | accessdate = 2006-09-17 }} </ref> a phenomenon called [[Hawking radiation]], a quantum effect not in violation of general relativity. Numerous black hole candidates are known.  These include the supermassive object associated with [[Sagittarius A*]] at the [[Galactic center|center of our galaxy]]<ref>See [http://www.mpe.mpg.de/ir/GC/index.php the Max Plank Institute page on stars orbiting the galaxy's central object].</ref>.
+
+=== Cosmological effects ===
+* [[Expansion of the universe]]:  This is predicted by [[Friedmann-Lemaître-Robertson-Walker|cosmological solutions]] of the Einstein field equations.  Its existence was confirmed by [[Edwin Hubble]] in 1929.<ref> {{cite journal| last = Hubble| first = Edwin| authorlink = Edwin Hubble| coauthors = | title = A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae | journal = Proceedings of the National Academy of Sciences USA| volume = 15 | issue = 3| pages = 168-173| date = [[1929-01-17]]| publisher = | url = http://www.pnas.org/cgi/reprint/15/3/168| format = [[PDF]]| id = | accessdate = 2006-09-06 }} </ref> <ref>{{cite web| last = Hubble| first = Edwin| authorlink = Edwin Hubble| title = A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae | work = | publisher = | date = [[1929-01-17]]| url = http://antwrp.gsfc.nasa.gov/diamond_jubilee/1996/hub_1929.html| format =| doi = | accessdate = 2006-11-03 }}</ref>
+** [[Cosmological redshift]]: Light from distant galaxies will be [[redshift]]ed due to their movement away from the observer according to [[Hubble's law]].
+* [[Big Bang]]: The arising of the universe from a primordial [[gravitational singularity|singularity]].
+** [[Cosmic microwave background radiation]]: The remnants of the primordial fireball.  Discovered by [[Arno Penzias]] and [[Robert Woodrow Wilson|Robert Wilson]] in 1965.<ref>{{cite journal| last = Penzias| first = Arno| authorlink = | coauthors = Wilson, R. W.| title = A Measurement of Excess Antenna Temperature at 4080 mc/s (Effective Zenith Noise Temperature of Horn-Reflector Antenna at 4080 mc Due to Cosmic Black Body Radiation, Atmospheric Aborption, etc)| journal = Astrophysical Journal| volume = 142 | issue = 3| pages = 419-421| date = [[1965-01-07]]| publisher = | url=http://adsbit.harvard.edu/cgi-bin/nph-iarticle_query?bibcode=1965ApJ...142..419P | accessdate = 2006-09-16 }}</ref>
+* [[Dark energy]]:  This is an energy field of unknown composition that may exist throughout the universe.  Recent observations of distant supernovae indicate that the expansion of the universe is currently [[deceleration parameter|"accelerating"]] {{facts}}.  The solutions of the [[Einstein field equations]] that call for this behavior for the current universe, which may require the reintroduction of the [[cosmological constant]], are for a stress-energy which is at least 70% dark energy.
+
+=== Other predictions ===
+* The equivalence of inertial mass and gravitational mass:  This follows naturally from free-fall being inertial motion.
+** The [[strong equivalence principle]]:  Even a self-gravitating object will respond to an external gravitational field in the same manner as a test particle would. (This is often violated by [[#Alternative theories|alternative theories]].)
+* [[Gravitational radiation]]:  Orbiting objects and merging neutron stars and/or black holes are expected to emit gravitational radiation.
+** Orbital decay (described [[#orbital decay|above]]).
+** Binary [[pulsar]] mergers: May create gravitational waves strong enough to be observed here on Earth. Several [[:Category:gravitational wave telescopes|gravitational wave observatories]] are (or will soon be) in operation. However, there are no confirmed observations of gravitational radiation at this time.
+** [[Gravitons]]:  According to [[quantum mechanics]], gravitational radiation must be composed of quanta called gravitons.  General relativity predicts that these will be massless spin-2 [[subatomic particle|particles]].  They have not been observed.
+** Only [[quadrupole]] (and higher order [[multipole]]) moments create gravitational radiation.
+*** [[Dipole]] gravitational radiation (prohibited by this prediction) is predicted by some alternative theories.  It has not been observed.
+
+== Relationship to other physical theories ==
+''This section will use the [[Einstein summation convention]].''
+=== Classical mechanics and special relativity ===
+Classical mechanics and special relativity are lumped together here because special relativity is in many ways intermediate between general relativity and classical mechanics, and shares many attributes with classical mechanics.
+
+In the following discussion, the [[mathematics of general relativity]] is used heavily.  Also, under the [[principle of minimal coupling]], the physical equations of special relativity can be turned into their general relativity counterparts by replacing the Minkowski metric (''η<sub>ab</sub>'') with the relevant metric of spacetime (''g<sub>ab</sub>'') and by replacing any partial derivatives with covariant derivatives.  In the discussions that follow, the change of metrics is implied.
+
+==== Inertia ====
+Inertial motion is motion free of all [[force]]s.  In Newtonian mechanics, the force ''F'' acting on a particle with mass ''m'' is given by [[Newton's second law]], <math>F=m \ddot{r}</math>, where the acceleration is given by the second derivative of position ''r'' with respect to time ''t'' . Zero force means that inertial motion is just motion with zero acceleration: 
+
+:<math>\frac{\mathrm{d}^2 r}{\mathrm{d}t^2}=0</math>
+
+The idea is the same in special relativity. Using [[Cartesian coordinate system|Cartesian coordinates]], inertial motion is described mathematically as:
+
+:<math>\frac{\mathrm{d}^2 x^a}{\mathrm{d}\tau^2} = 0</math> 
+
+where ''x<sup>a</sup>'' is the position coordinate and ''τ'' is [[proper time]]. (In Newtonian mechanics, ''τ ≡ t'', the coordinate time).
+
+In both Newtonian mechanics and special relativity, space and then spacetime are assumed to be flat, and we can construct a global Cartesian coordinate system.  In general relativity, these restrictions on the shape of spacetime and on the coordinate system to be used are lost.  Therefore a different definition of inertial motion is required.  In relativity, inertial motion occurs along timelike or null [[geodesic]]s as parameterized by proper time.  This is expressed mathematically by the [[geodesic equation]]:
+:<math>\frac{\mathrm{d}^2 x^a}{\mathrm{d}\tau^2} +  \Gamma^a_{bc} \, \frac{\mathrm{d} x^b}{\mathrm{d}\tau} \,\frac{\mathrm{d} x^c}{\mathrm{d}\tau}  = 0</math>
+where <math>\Gamma^a_{bc}</math> is a [[Christoffel symbol]].  Since general relativity describes four-dimensional spacetime, this represents four equations, with each one describing the second derivative of a coordinate with respect to proper time.  In the case of flat space in Cartesian coordinates, we have <math>\Gamma^a_{bc}=0</math>, so this equation reduces to the special relativity form.
+
+==== Gravitation ====
+For gravitation, the relationship between Newton's theory of [[gravity]] and general relativity is governed by the [[correspondence principle]]:  General relativity must produce the same results as gravity does for the cases where Newtonian physics has been shown to be accurate.
+
+Around a spherically symmetric object, the Newtonian theory of gravity predicts that objects will be physically accelerated towards the center on the object by the rule 
+
+:<math>\mathbf{\ddot r} = GM \mathbf{\hat{r}}/r^2</math> 
+
+where ''G'' is Newton's [[Gravitational constant]], ''M'' is the mass of the gravitating object, ''r'' is the distance to the gravitation object, and <math>\mathbf{\hat{r}}</math> is a unit vector identifying the direction to the massive object.
+
+In the [[weak-field approximation]] of general relativity, an identical coordinate acceleration must exist.  For the Schwarzschild solution (which is the simplest possible spacetime surrounding a massive object), the same acceleration as that which (in Newtonian physics) is created by gravity is obtained when a constant of integration is set equal to ''2MG/c^2''). For more information, see [[Deriving the Schwarzschild solution]].
+
+====Transition from Newtonian mechanics to general relativity====
+{{main|Newtonian foundation of general relativity}}
+
+Some of the basic concepts of general relativity can be outlined outside the [[Special relativity|relativistic]] domain. In particular, the idea that mass/energy generates [[curvature]] in [[Spacetime|space]] and that curvature affects the motion of masses can be illustrated in a [[Newtonian mechanics|Newtonian]] setting. 
+
+General relativity generalizes the [[geodesic equation]] and the [[Einstein field equation|field equation]] to the relativistic realm in which trajectories in space are replaced with [[Fermi-Walker transport]] along [[world line]]s in [[spacetime]]. The equations are also generalized to more complicated curvatures.
+
+====Transition from special relativity to general relativity====
+{{main|Theoretical motivation for general relativity}}
+
+The basic structure of general relativity, including the [[geodesic equation]] and [[Einstein field equation]], can be obtained from [[special relativity]] by examining the [[kinetics]] and [[dynamics (mechanics)|dynamics]] of a particle in a [[circular orbit]] about the earth.  In terms of symmetry the transition involves replacing a [[global Lorentz covariance]] by a [[local Lorentz covariance]].
+
+==== Conservation of energy-momentum ====
+In classical mechanics, conservation laws for energy and momentum are handled separately in the two principles of [[conservation of energy]] and [[Momentum#Conservation of Momentum|conservation of momentum]].
+
+Mathematically, the general relativity statement of the conservation of energy and momentum is:
+
+:<math>{T_a}^b{}_{; b} = {T_a}^b{}_{,b} + {\Gamma^b}_{cb} \, {T_a}^c - {\Gamma^c}_{ab} \, {T_c}^b = 0</math>
+
+where <math>{T_a}^b</math> is the [[stress-energy tensor]], the comma indicates a partial derivative and the semicolon indicates a [[covariant derivative]]. The terms involving the Christoffel symbols are absent in the special relativity statement of energy-momentum conservation. 
+
+Unlike classical mechanics and special relativity, it is not usually possible to unambiguously define the total energy and momentum in general relativity, so the tensorial conservation laws are ''local'' statements only (see [[ADM energy]], though). This often causes confusion in time-dependent spacetimes which apparently do not conserve energy, although the local law is always satisfied.  Exact formulation of energy-momentum conservation on an arbitrary geometry requires use of a non-unique [[stress-energy-momentum pseudotensor]].
+
+=== Electromagnetism ===
+{{main|Maxwell's equations in curved spacetime}}
+
+General relativity modifies the description of electromagnetic phenomena by employing a new version of [[Maxwell's equations]]. These differ from the [[Formulation of Maxwell's equations in special relativity|special relativity form]] in that the Christoffel symbols make their presence in the equations via the covariant derivative.  
+
+The source equations of [[Classical electromagnetism|electrodynamics]] in curved spacetime are (in [[cgs units]])
+
+:<math> F^{\,ab}{}_{;b} = {4\pi \over c }\,J^{\,a}</math> 
+
+where ''F<sup>ab</sup>'' is the [[electromagnetic field tensor]] representing the electromagnetic field and ''J<sup>a</sup>'' is a [[four-current]] representing the sources of the electromagnetic field.
+
+The source-free equations are the same as their special relativity counterparts.
+
+The effect of an [[electromagnetic field]] on a charged object is then modified to
+:<math> P^{\, a} {}_{\, ;\tau} = (q/m)\,F^{\,ab}P_b</math>, 
+
+where ''q'' is the charge on the object, ''m'' is the rest mass of the object and ''P<sup> a</sup>'' is the [[four-momentum]] of the charged object. Maxwell's equations in flat spacetime are recovered in rectangular coordinates by reverting the covariant derivatives to partial derivatives. For Maxwell's equations in flat spacetime in curvilinear coordinates see [http://www.uic.edu/classes/eecs/eecs520/textbook/node2.html]
+or
+[http://scienceworld.wolfram.com/physics/MaxwellEquations.html]
+
+=== Quantum mechanics ===
+[[Quantum mechanics]] is viewed as the fundamental theory of physics along with general relativity, but combining quantum mechanics with general relativity has presented difficulties.
+
+====Quantum field theory in curved spacetime====
+:{{main|Quantum field theory in curved spacetime}}
+Normally, [[quantum field theory]] models are considered in flat [[Minkowski space]] (or [[Euclidean space]]), which is an excellent approximation for weak gravitational fields like those on Earth.  In the presence of strong gravitational fields, the principles of quantum field theory have to be modified.  The [[spacetime]] is static so the theory is not fully relativistic in the sense of general relativity; it is neither [[background independent]] nor [[general covariance|generally covariant]] under the diffeomorphism group.  The interpretation of excitations of quantum fields as particles becomes frame dependent.  [[Hawking radiation]] is a prediction of this semiclassical approximation.
+
+====Einstein gravity is nonrenormalizable====
+{{unsolved|physics|How can the theory of [[quantum mechanics]] be merged with the theory of general relativity to produce a so-called "[[theory of everything]]"?}}
+It is often said that general relativity is incompatible with [[quantum mechanics]].  This means that if one attempts to treat the gravitational field using the ordinary rules of [[quantum field theory]], one finds that physical quantities are divergent.  Such [[Ultraviolet divergence|divergences]] are common in quantum field theories, and can be cured by adding parameters to the theory known as [[counterterms]].  These counterterms are infinities which are equal in magnitude and opposite in sign to the divergent terms.  When they are added, the infinities cancel, leaving only finite terms, but modifying the meaning of terms in the equation such as "mass" and "charge"  {{facts}}. 
+
+Many of the best understood [[quantum]] field theories, such as [[quantum electrodynamics]], contain divergences which are canceled by counterterms that have been effectively measured.  One needs to say ''effectively'' because the counterterms are formally infinite, however it suffices to measure observable quantities, such as physical particle masses and coupling constants, which depend on the counterterms in such a way that the various infinities cancel.
+
+A problem arises, however, when the cancellation of all infinities requires the inclusion of an infinite number of counterterms.  In this case the theory is said to be [[nonrenormalizable]].  
+While nonrenormalizable theories are sometimes seen as problematic, the framework of [[effective field theory|effective field theories ]] presents a way to get low-energy predictions out of non-renormalizable theories.  The result is a theory that works correctly at low energies, though such a theory cannot be considered to be a [[theory of everything]] because it cannot be self-consistently extended to the high-energy realm.
+
+====Proposed quantum gravity theories====
+General relativity fits nicely into the effective field theory formalism and makes sensible predictions at low energies [http://arxiv.org/abs/gr-qc/9512024 (Donoghue, 1995)].  However, high enough energies will "break" the theory.
+
+It is generally held that one of the most important unsolved problems in modern physics is the problem of obtaining the [[theory of everything|true quantum theory of gravitation]], that is, the theory chosen by nature, one that will work at all energies.  Discarded attempts at obtaining such theories include [[supergravity]], a [[field theory]] which unifies general relativity with [[supersymmetry]]. In the [[second superstring revolution]], supergravity has come back into fashion, with its quantum completion rebranded with a new name: [[M-theory]].  
+
+A very different approach to that described above is employed by [[loop quantum gravity]].  In this approach, one does not try to quantize the gravitational field as one quantizes other fields in quantum field theories.  Thus the theory is not plagued with divergences and one does not need counterterms.  However it has not been demonstrated that the classical limit of loop quantum gravity does in fact contain flat space Einsteinian gravity.  This being said, the universe has only one spacetime and it is not flat.
+
+Of these two proposals, M-theory is significantly more ambitious in that it also attempts to incorporate the other known [[fundamental force]]s of Nature, whereas loop quantum gravity "merely" attempts to provide a viable quantum theory of gravitation with a well-defined [[classical limit]] which agrees with general relativity.
+
+=== Alternative theories ===
+{{Main|Alternatives to general relativity}}
+Well known [[classical theories of gravitation]] other than general relativity include:
+*[[Nordström's theory of gravitation]] (1913) was one of the earliest ''metric theories'' (an aspect brought out by Einstein and Fokker in 1914).  Nordström soon abandoned his theory in favor of general relativity on theoretical grounds, but this theory, which is a ''scalar theory'', and which features a notion of ''prior geometry'', does not predict any '' light bending'', so it is solidly incompatible with observation.
+*[[Alfred North Whitehead]] formulated an alternative theory of gravity that was regarded as a viable contender for several decades, until [[Clifford Martin Will|Clifford Will]] noticed in 1971 that it predicts grossly incorrect behavior for the ocean tides.
+*[[George David Birkhoff]]'s (1943) yields the same predictions for the classical four solar system tests as general relativity, but unfortunately requires sound waves to travel at the speed of light.  Thus, like Whitehead's theory, it was never a viable theory after all, despite making an initially good impression on many experts.
+*Like Nordström's theory, the gravitation theory of [[Wei-Tou Ni]] (1971) features a notion of prior geometry, but Will soon showed that it is not fully compatible with observation and experiment.
+*The [[Brans-Dicke theory]] and the [[bimetric theory|Rosen bimetric theory]] are two alternatives to general relativity which have been around for a very long time and which have also withstood many tests.  However, they are less elegant and more complicated than general relativity, in several senses.
+*There have been many attempts to formulate consistent theories which combine gravity and electromagnetism.  The first of these, [[Weyl's gauge theory of gravitation]], was immediately shot down (on a postcard) by Einstein himself,{{fact}} who pointed out to [[Hermann Weyl]] that in his theory, hydrogen atoms would have variable size, which they do not.  Another early attempt, the original [[Kaluza-Klein theory]], at first seemed to unify general relativity with classical electromagnetism, but is no longer regarded as successful for that purpose.  Both these theories have turned out to be historically important for other reasons: Weyl's idea of [[gauge invariance]] survived and in fact is omnipresent in modern physics, while Kaluza's idea of compact extra dimensions has been resurrected in the modern notion of a [[Brane cosmology|braneworld]].
+*The [[Fierz-Pauli spin-two theory]] was an optimistic attempt to quantize general relativity, but it turns out to be internally inconsistent.  [[Pascual Jordan]]'s work toward fixing these problems eventually motivated the Brans-Dicke theory, and also influenced [[Richard Feynman]]'s unsuccessful attempts to quantize gravity.
+*[[Einstein-Cartan theory]] includes [[torsion]] terms, so it is not a metric theory in the strict sense.
+*[[Teleparallel gravity]] goes further and replaces connections with nonzero curvature (but vanishing torsion) by ones with nonzero torsion (but vanishing curvature).
+*The [[Nonsymmetric Gravitational Theory]] (NGT) of [[John Moffat|John W. Moffat]] is a dark horse in the race.
+
+Even for "weak field" observations confined to our Solar system, various alternative theories of gravity predict quantitatively distinct deviations from Newtonian gravity.  In the weak-field, slow-motion limit, it is possible to define 10 experimentally measurable parameters which completely characterize predictions of any such theory.  This system of these parameters, which can be roughly thought of as describing a kind of ten dimensional "superspace" made from a certain class of classical gravitation theories, is known as [[PPN formalism]] (Parametric Post-Newtonian formalism).  [http://relativity.livingreviews.org/open?pubNo=lrr-2001-4&page=node8.html] Current bounds on the PPN parameters [http://wugrav.wustl.edu/people/CMW/expgravpage/ppnbounds.html] are compatible with GR.
+
+See in particular [http://www.arxiv.org/abs/gr-qc/0103036|The confrontation between Theory and Experiment in Gravitational Physics], a review paper by Clifford Will.
+
+== History ==
+{{details|History of general relativity}}
+:''See also: [[Tests of general relativity]]''
+
+General relativity was developed by Einstein in a process that began in 1907 with the publication of an article on the influence of gravity and acceleration on the behavior of light in [[special relativity]].  Most of this work was done in the years 1911&ndash;1915, beginning with the publication of a second article on the effect of gravitation on light.  By 1912, Einstein was actively seeking a theory in which gravitation was explained as a geometric phenomenon.  In December of 1915, these efforts culminated in Einstein's submission of a paper presenting the [[Einstein field equations]], which are a set of differential equations .  This paper was subsequently published in 1916.<ref name = Ein1916/> Since 1915, the development of general relativity has focused on solving the field equations for various cases. This generally means finding [[metric tensor (general relativity)|metrics]] which correspond to realistic physical scenarios. The interpretation of the solutions and their possible experimental and observational testing also constitutes a large part of research in GR.
+
+The [[expansion of the universe]] created an interesting episode for general relativity.  Starting in 1922, researchers found that cosmological solutions of the Einstein field equations call for an expanding universe.  Einstein did not believe in an expanding universe, and so he added a [[cosmological constant]] to the field equations to permit the creation of static universe solutions.  In 1929, [[Edwin Hubble]] found evidence that the universe is expanding. This resulted in Einstein dropping the cosmological constant, referring to it as "the biggest blunder in my career".
+
+Progress in solving the field equations and understanding the solutions has been ongoing.  Notable solutions have included the [[Schwarzschild solution]] (1916), the [[Reissner-Nordström]] solution, the [[Friedmann-Robertson-Walker metric|Friedmann-Robertson-Walker solution]] and the [[Kerr solution]].
+
+Observationally, general relativity has a history too.  Einstein's showing that general relativity could account for the discrepancy between the Newtonian prediction for the perihelion precession of Mercury and the observed was the first evidence that general relativity is correct.  In 1919, Eddington's announcement that his observations of stars near the eclipsed Sun confirmed Einstein's prediction for the deflection of light by the Sun helped to cement the status of general relativity as a likely true theory.  Since then, many observations have confirmed the predictions of general relativity.  These include observations of [[gravitational red shift]], studies of [[binary pulsar]]s, observations of [[radio]] signals passing the limb of the [[Sun]], and even the [[Global Positioning System|GPS]] system.
+
+== Status ==
+The status of general relativity is decidedly mixed. 
+
+On the one hand, general relativity is a highly successful model of gravitation and cosmology.  It has passed every unambiguous test to which it has been subjected so far, both observationally and experimentally.  It is therefore almost universally accepted by the [[scientific community]].
+
+On the other hand, general relativity is inconsistent with quantum mechanics, and the [[gravitational singularity|singularities]] of [[black hole]]s also raise some disconcerting issues.  So while it is accepted, there is also a sense that something beyond general relativity may yet be found.
+
+Currently, better tests of general relativity are needed.  Even the most recent [[binary pulsar]] discoveries only test general relativity to the first order of deviation from Newtonian projections in the [[Parameterized post-Newtonian formalism|post-Newtonian parameterizations]].  Some way of testing second and higher order terms is needed, and may shed light on how reality differs from general relativity (if it does).
+
+==Quotes==
+:''Spacetime grips mass, telling it how to move, and mass grips spacetime, telling it how to curve'' &mdash; [[John Archibald Wheeler]].
+
+:''The theory appeared to me then, and still does, the greatest feat of human thinking about nature, the most amazing combination of philosophical penetration, physical intuition, and mathematical skill.  But its connections with experience were slender.  It appealed to me like a great work of art, to be enjoyed and admired from a distance.'' &mdash; [[Max Born]]
+
+==See also==
+{{wikibooks}}
+{{Wikisourcepar|Relativity: The Special and General Theory}}
+*[[Basic introduction to the mathematics of curved spacetime]]
+*[[Mathematics of general relativity]]
+*[[Classical theories of gravitation]]
+*[[David Hilbert]]
+*[[Einstein-Hilbert action]]
+*[[General relativity resources]], an annotated reading list giving bibliographic information on some of the most cited resources.
+*[[History of general relativity]]
+*[[Golden age of general relativity]]
+*[[Contributors to general relativity]]
+
+<div class="noprint" style="clear: right"></div>
+
+==References==
+<!-- NOTE:  THIS SECTION IS RESERVED FOR TEXTS CONSULTED IN THE CONSTRUCTION AND REVISION OF THIS ARTICLE.  ALL OTHER TEXTS/WEB SITES/RESOURCES SHOULD BE LISTED IN [[general relativity resources]] -->
+:''For a more complete list of available publications on general relativity, please see [[general relativity resources]].
+
+<div class="references-small">
+<references/>
+</div>
+
+==Bibliography==
+
+* {{cite book | last = Ohanian | first = Hans C. | coauthors = Ruffini, Remo | title = Gravitation and Spacetime | location = New York | publisher = W. W. Norton | year = 1994 | id = ISBN 0-393-96501-5 }}
+
+* {{cite book | last = Wald | first = Robert M. | title = General Relativity | location = Chicago | publisher = University of Chicago Press | year = 1984 | id = ISBN 0-226-87033-2 }}
+
+* {{cite book | author = [[Charles W. Misner]] | coauthors = [[Kip Thorne]]. & [[John Archibald Wheeler]] | title = ''[[Gravitation (book)|Gravitation]]'' | location = San Francisco | publisher = W. H. Freeman | year = 1973 | id = ISBN 0-7167-0344-0 }}
+
+* {{cite book | author=P. A. M. Dirac | title=General Theory of Relativity | publisher=Princeton University Press| year=1996 | id=ISBN 0-691-01146-X}}
+
+* {{cite web | author = Donoghue, John F| title=Introduction to the Effective Field Theory Description of Gravity | date= 1995 | url=http://arxiv.org/abs/gr-qc/9512024 | accessdate=2006-08-26}} Lectures presented at the Advanced School on Effective Field Theories (Almunecar, Spain, June 1995), to be published in the proceedings.
+
+{{Physics-footer}}
+{{theories of gravitation}}
+
+<!-- WIKIPEDIA POLICY NOTE:  This is the main article for Category:General_relativity.  Additional categorizations should be done for the category, not this article.  See Wikipedia:Categorization for current guidelines (not WP:CSL, which is only a proposal). -->
+
+[[Category:General relativity| ]]
+
+{{Link FA|fr}}
+{{Link FA|pt}}
+{{Link FA|sv}}
+
+[[ar:نظرية النسبية العامة]]
+[[bs:Opća teorija relativnosti]]
+[[bg:Обща теория на относителността]]
+[[cs:Obecná teorie relativity]]
+[[da:Almen relativitetsteori]]
+[[de:Allgemeine Relativitätstheorie]]
+[[et:Üldrelatiivsusteooria]]
+[[el:Γενική Θεωρία Σχετικότητας]]
+[[es:Teoría general de la relatividad]]
+[[eo:Fizika relativeco]]
+[[fa:نسبیت عام]]
+[[fr:Relativité générale]]
+[[gl:Relatividade Xeral]]
+[[ko:일반 상대성 이론]]
+[[id:Relativitas umum]]
+[[it:Relatività generale]]
+[[he:תורת היחסות הכללית]]
+[[la:Relativitas generalis]]
+[[lt:Bendroji reliatyvumo teorija]]
+[[hu:Általános relativitáselmélet]]
+[[nl:Algemene relativiteitstheorie]]
+[[ja:一般相対性理論]]
+[[no:Den generelle relativitetsteorien]]
+[[pl:Ogólna teoria względności]]
+[[pt:Relatividade geral]]
+[[ru:Общая теория относительности]]
+[[simple:General relativity]]
+[[sk:Všeobecná teória relativity]]
+[[sl:Splošna teorija relativnosti]]
+[[sr:Општа теорија релативности]]
+[[fi:Yleinen suhteellisuusteoria]]
+[[sv:Allmänna relativitetsteorin]]
+[[th:ทฤษฎีสัมพัทธภาพทั่วไป]]
+[[vi:Lý thuyết tương đối rộng]]
+[[tr:Genel görelilik kuramı]]
+[[uk:Теорія відносності загальна]]
+[[zh:廣義相對論]]
+[[ur: نظریہ اضافت]]

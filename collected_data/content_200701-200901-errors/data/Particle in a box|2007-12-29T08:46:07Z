@@ -1,0 +1,201 @@
+In [[physics]], the '''particle in a box''' (also known as the '''infinite potential well''' or the '''infinite square well''') is a problem consisting a single particle inside of an infinitely deep potential well, from which it cannot escape, and which loses no energy when it collides with the walls of the box. In classical mechanics, the solution to the problem is trivial: The particle moves in a straight line, always at the same speed, until it reflects from a wall. 
+
+The problem becomes very interesting when one attempts a [[quantum mechanics|quantum-mechanical]] solution, since many fundamental quantum mechanical concepts need to be introduced in order to find the solution. Nevertheless, it remains a very simple and solvable problem. This article will only be concerned with the quantum mechanical solution.
+
+The problem may be expressed in any number of dimensions, but the simplest problem is one dimensional, while the most useful solution is the particle in the three dimensional box. In one dimension this amounts to the particle existing on a line segment, with the "walls" being the endpoints of the segment.
+
+In physical terms, the particle in a box is defined as a single point particle, enclosed in a box inside of which it experiences no force whatsoever, i.e. it is at zero [[potential energy]]. At the walls of the box, the potential rises to infinity, forming an impenetrable wall. Using this description in terms of potentials allows the [[Schrödinger equation]] to be used to determine the solution.
+
+As mentioned above, if we were studying this system under the rules of [[classical mechanics]] we would apply [[Newton's laws of motion]] to the initial conditions and the result would seem reasonable and intuitive. In quantum mechanics, when the Schrödinger equation is applied to the proposed system, the results are not intuitive.  The particle's confinement leads to a quantization of its allowed energy eigenvalues, where a vanishing energy eigenvalue is not allowed. In other words, the least energy state of the system has a [[zero-point energy|non-zero energy]]. Furthermore, the probability of measuring particle in the box at a given energy level is non-uniform and probabilistic -- upon measurement, certain locations in the "box" where the particle may be found have a higher probability than others of being the location where the particle is actually found when a measurement is made. There are also places within the box where the particle cannot ever be found.  Both of these results differ from the classical description of [[mechanics|classical mechanics]] and everyday experience, but yet the results rest on principles that have been extensively experimentally verified.
+
+==Formal introduction==
+The '''particle in a box''' (or the '''infinite potential well''' or '''infinite square well''') is a simple idealized system that can be completely solved within [[quantum mechanics]]. The infinite potential well is a finite sized region in space (the box) with an infinite [[potential energy|potential]] at its boundaries (the walls).  A particle experiences no forces while inside the box, but as the walls are 'infinitely high', it is constrained to remain in the box.  This is similar to the situation of a gas confined in a non-porous container.  For simplicity we start with the 1-dimensional case, where the motion of the electron is considered only in a single dimension - the direction of the quantum confinement.  Later we extend the discussion to the 2- and 3-dimensional cases.
+
+As we shall see, the solution of the [[Schrödinger equation]] for the particle in a box problem reveals some decidedly quantum behavior of the particle that agrees with observation but contrasts sharply with the predictions of [[classical mechanics]]. This is a particularly useful illustration because this behaviour is not "forced" on the system, it arises naturally from the initial conditions. It neatly demonstrates that quantum behaviour is a natural outcome of any wave-like system, contrary to the common concept of a "[[quantum leap]]" where the behavior is almost [[magic (paranormal)|magic]]al.
+
+The quantum behavior in the box includes:
+
+# '''Energy quantization''' - It is not possible for the particle to have any arbitrary definite energy.  Instead only discrete definite energy levels are allowed (if the state is not a steady state, however, any energy past [[zero-point energy]] is allowed on average).
+#'''Zero-point energy''' - The lowest possible energy level of the particle, called the zero-point energy, is nonzero.
+#'''Spatial nodes''' - In contrast to classical mechanics the Schrödinger equation predicts that for some energy levels there are nodes, implying positions at which the particle can never be found.
+
+One can solve the Schrödinger equation analytically for such a simple potential.  However trivial, this case is both of great technical value for the insights it allows, and of paramount physical importance.  Depending on the boundary conditions, one can use the solutions to describe two important systems. If one considers real valued solutions (of which detailed derivation is given below), one describes actual potentials of [[heterostructure]]s called [[quantum well]]s which spatially confine particles - typically [[electron]]s and [[electron hole|hole]]s.  If one considers complex valued solutions, one describes conveniently a particle propagating freely in a constrained volume (like a solid).
+
+==1-dimensional box==
+===Solution===
+The eigenfunction and eigenenergies of a particle of mass ''m'' in a one dimensional box of length ''L'' are
+::<math>\psi_n = \sqrt{\frac{2}{L}} \sin{\left(\frac{n \pi x}{L} \right)} \,</math>
+::<math>E_n = \frac{\hbar^2 \pi^2}{2 m L^2} n^2 \,</math>
+
+===Derivation===
+The problem is defined as the case of a particle situated in a 1D infinite square well with [[momentum]] only in the direction of quantum confinement (the <math>x</math> direction).
+
+The 1D time-independent Schrödinger equation can be written as:
+
+::<math>-\frac{\hbar^2}{2m} \frac{\mathrm{d}^2 \psi(x)}{\mathrm{d}x^2} + V(x) \psi(x) = E \psi(x) \quad (1)</math>
+
+:where
+
+::<math>\hbar</math> is the [[Reduced Planck Constant]]
+::<math>m \,</math> is the [[mass]] of the particle
+::<math>\psi\left(x\right)\,</math> is the [[Complex number|complex-valued]] stationary time-independent [[wavefunction]] that we want to find
+::<math>V\left(x\right)\,</math> is the spatially varying potential and 
+::<math>E\,</math> is the [[energy]], a real number.  
+
+For the case of the particle in a 1-dimensional box of length ''L'', the potential is zero inside the box, but rises abruptly to infinity at ''x'' = 0 and ''x'' = ''L''.  Thus for the region inside the box ''V''(''x'') = 0 and Equation 1 reduces to:
+[[Image:Infinite potential well.svg|thumb|The potential is zero inside the box, and infinite elsewhere]]
+
+::<math>-\frac{\hbar^2}{2m} \frac{\mathrm{d}^2 \psi(x)}{\mathrm{d} x^2} = E \psi(x) \quad (2)</math>
+
+This is a well studied [[differential equation]] and [[eigenvectors|eigenvalue]] problem with a general solution of:
+
+::<math>\psi(x) = A \sin(kx) + B \cos(kx)\quad</math>
+::<math>E = \frac{k^2 \hbar^2}{2m} \quad (3)</math>
+
+Here, ''A'' and ''B'' can be any [[complex number]]s and the wavenumber, ''k'' can be any real number (''k'' must be real because ''E'' is real).
+
+Now in order to find the specific solution for the problem at hand, we must specify the appropriate boundary conditions and find the values for ''A'' and ''B'' that satisfy those conditions.  One usually resorts to one of the following two choices, describing two kinds of systems. The first case, with which we shall pursue our derivation, demands that ''&psi;''(''x'') equal zero at ''x'' = 0 and ''x'' = ''L''.  A hand-waving argument to motivate these boundary conditions is that the particle is unlikely to be found at a location with a high potential (the potential repulses the particle), thus the probability of finding the particle, |''&psi;''(''x'')|<sup>2</sup>, must be small in these regions and decreases with increasing potential.  For the case of an infinite potential, |''&psi;''(''x'')|<sup>2</sup> must be infinitesimally small or 0, thus ''&psi;''(''x'') must also be zero in this region.  In summary,
+
+::<math>\psi(0)=\psi(L)=0 \quad (4)</math>
+
+Substituting the general solution from Equation 3 into Equation 2 and evaluating at <math>x= 0</math> (<math>\psi = 0</math>), we find that <math>B = 0</math> (since <math>\sin (0)=0</math> and <math>\cos(0) = 1</math>).  It follows that the wavefunction must be of the form:
+
+::<math>\psi(x) = A \sin(kx) \quad (5) </math>
+
+and at <math>x = L</math> we find:
+
+::<math>\psi(L) = A \sin(kL) = 0 \quad (6)</math>
+
+One solution for Equation 6 is ''A'' = 0, however, this "trivial solution" would imply that <math>\psi = 0</math> everywhere (i.e. the particle isn't in the box.) and can be thrown out.  If <math>A \neq 0</math> then <math>\sin(kL) = 0</math> only when:
+
+::<math>k = \frac{n \pi}{L} \quad \mathrm{where} \quad n\in \mathbb{Z}^+ \quad (7) </math>
+
+Note that <math>n = 0</math> is ruled out because in this case, <math>\psi=0</math> everywhere, corresponding to the case where the particle is not in the box.  Negative values of <math>n</math> are also neglected, since they merely change the sign of <math>\sin(nx)</math>, giving the same probability when squared.  Now in order to find <math>A</math> we must [[Normalizable wavefunction|normalize the wavefunction]].  We recognize that the particle must exist somewhere in space.  <math>|\psi(x)|^2</math> is the probability of finding the particle at a particular point in space, so the integral of this value over all <math>x</math> must be equal to 1:
+
+[[Image:Partcle in a box probability density functions.png|thumb|thumbnail|250px|right|Probability density functions of finding a quantum particle in an infinite one dimensional potential well of width ''L'' for some energy levels ''m''.]]
+
+::<math>1 = \int_{-\infty}^{\infty} \left| \psi(x) \right|^2 \, \mathrm{d}x = \left| A \right|^2 \int_0^L \sin^2 \left(kx\right) \, \mathrm{d}x = \left| A \right|^2 \frac{L}{2}</math>
+:or
+::<math>\left| A \right| = \sqrt{\frac{2}{L}} \quad (8)</math>
+
+Thus, ''A'' may be any complex number with [[absolute value]] &radic;(2/L); these different values of ''A'' yield the same physical state, so we choose ''A'' = &radic;(2/L) to simplify.
+
+[[Image:particle_in_a_box_wavefunctions.png|thumb|thumbnail|250px|right|Energy Levels (dashed lines) and Wavefunctions (solid lines) of the one-dimensional particle in a box.]]
+
+Finally, substituting the results from Equations 7 and 8 into Equation 3, the complete set of energy
+eigenfunctions for the 1-dimensional particle in a box problem is:
+
+:<math>\psi_n(x) = \sqrt{\frac{2}{L}} \sin\left(\frac{n \pi x}{L}\right) \quad (9)</math>
+
+:<math>E_n = \frac{n^2\hbar^2 \pi ^2}{2mL^2} = \frac{n^2 h^2}{8mL^2} \quad (10)</math>
+with <math>n</math> being a positive integer.
+
+Note, that as mentioned previously, only "quantized" energy levels are possible.  Also, since ''n'' cannot be zero, the lowest energy from Equation 10 is also non-zero.  This '''zero-point energy''', as it is called, can be explained in terms of the [[uncertainty principle]]. Because the particle is constrained within a finite region, the variance in its position is upper-bounded.  Thus due to the uncertainty principle the variance in the particle's momentum cannot be zero, so the particle must contain some amount of energy that increases as the length of the box, ''L'', decreases.
+
+Also, since &psi; consists of sine waves, for any value of ''n'' greater than one, there are regions within the box for which ''&psi;''(''x'') and thus ''&psi;''(''x'')<sup>2</sup> both equal zero, indicating that for these energy levels, nodes exist in the box where the probability of finding the particle is zero. A distance between the particle and any point of the box or a distance between two particles in the box may be calculated using the [[Probability metric#A quantum particle in a box|probability metric]].
+
+=== Heuristic derivation of eigenenergies ===
+The formula for the energy eigenvalues may be derived heuristically by considering that the wavefunction must have [[node (physics)|node]]s at the boundary of the box. This is, in other words, a restatement of the continuity condition of the wavefunction at the boundaries of the box, which implies that a half-integer number of [[wavelengths]] must fit into the box:
+:<math>n\frac{\lambda}{2} = L</math>
+
+Using the [[de Broglie hypothesis|de Broglie relation]], we may write the momentum of the particle as
+:<math>p = \frac{h}{\lambda} = \frac{h}{2L}n.</math>
+
+The classical formula relating energy to momentum may then be used to give the energy eigenvalues of the system.
+:<math>E = \frac{p^2}{2m} = \frac{n^2 h^2}{8mL^2}</math>
+
+==2-dimensional box==
+===Solution===
+::<math>\psi_{n_x,n_y} = \sqrt{\frac{4}{L_x L_y}} \sin \left( \frac{n_x \pi x}{L_x} \right) \sin \left( \frac{n_y \pi y}{L_y} \right) </math>
+
+::<math>E_{n_x,n_y} = \frac{\hbar^2\pi^2}{2m} \left[ \left( \frac{n_x}{L_x} \right)^2 + \left( \frac{n_y}{L_y} \right)^2 \right] </math>
+
+===Derivation===
+For the 2-dimensional case the particle is confined to a rectangular surface of length ''L<sub>x</sub>'' in the ''x''-direction and ''L<sub>y</sub>'' in the ''y''-direction.  Again the potential is zero inside the "box" and infinite at the walls. For the region inside the box, where the potential is zero, the two dimensional analogue of Equation 2 applies:
+
+:<math>-\frac{\hbar^2}{2m} \left( \frac{\partial^2\psi}{\partial x^2}+\frac{\partial^2 \psi}{\partial y^2} \right) =E\psi \quad(11)</math>
+
+In this case ''&psi;'' is a function of both x and y, so ''&psi;''=''&psi;''(''x'',''y'').  In order to solve Equation 11, we use the method of '''[[separation of variables]]'''.  First, we assume that ''&psi;'' can be expressed as the product of two independent functions, the first depending only on ''x'' and the second depending only on ''y''; i.e.:
+
+:<math> \psi(x,y) = X(x) Y(y) \quad (12) </math>
+
+Substituting Equation 12 into Equation 11 and evaluating the partial derivatives gives:
+
+:<math>-\frac{\hbar^2}{2m} \left( Y\frac{\partial^2X}{\partial x^2}+X\frac{\partial^2 Y}{\partial y^2} \right) =E X Y \quad(13)</math>
+
+which upon dividing by XY and rewriting d<sup>2</sup>''X''/d''x''<sup>2</sup> as ''X''" and d<sup>2</sup>''Y''/d''y''<sup>2</sup> as ''Y''" becomes:
+
+:<math>-\frac{\hbar^2}{2m} \left( \frac{X''}{X}+\frac{Y''}{Y} \right) =E \quad(14)</math>
+
+Now we note that since ''X''"/''X'' is independent of ''y'', varying ''y'' can only change the ''Y''"/''Y'' term.  However, from Equation 14 we see that changing ''Y''"/''Y'' without varying ''X''"/''X'', would also change ''E'', but ''E'' is a constant, so ''Y''"/''Y'' must also be a constant, independent of ''y''.  The same argument can be applied to show that ''X''"/''X'' is independent of ''x''.  Since ''X''"/''X'' and ''Y''"/''Y'' are constants, we can write:
+
+:<math>-\frac{\hbar^2}{2m}\frac{X''}{X} = E_x \quad and \quad -\frac{\hbar^2}{2m}\frac{Y''}{Y} = E_y \quad (15)</math>
+
+where ''E''<sub>x</sub> + ''E''<sub>y</sub> = ''E''.  Expanding ''X''" and ''Y''" in terms of the derivatives and rearranging gives:
+
+:<math>-\frac{\hbar^2}{2m}\frac{\partial^2X}{\partial x^2} = E_x X\quad (16)</math>
+:<math>-\frac{\hbar^2}{2m}\frac{\partial^2Y}{\partial y^2} = E_y Y\quad (17)</math>
+
+[[Image:Particle2D.jpg|thumb|320px|right|The wavefunction of a 2D well with n<sub>x</sub>=4 and n<sub>y</sub>=4]]
+
+each of which are of the same form as the 1-dimensional Schrödinger equation (Equation 2) we solved in the previous section.  Thus, adapting the results from the previous section gives:
+
+:<math>X_{n_x}=\sqrt{\frac{2}{L_x}} \sin \left( \frac{n_x \pi x}{L_x} \right) \quad (18)</math>
+:<math>Y_{n_y}=\sqrt{\frac{2}{L_y}} \sin \left( \frac{n_y \pi y}{L_y} \right) \quad (19)</math>
+
+Finally, since ''&psi;''=''XY'' and ''E'' = ''E''<sub>x</sub> + ''E''<sub>y</sub>, we obtain the solutions:
+
+:<math>\psi_{n_x,n_y} = \sqrt{\frac{4}{L_x L_y}} \sin \left( \frac{n_x \pi x}{L_x} \right) \sin \left( \frac{n_y \pi y}{L_y} \right) \quad (20) </math>
+
+:<math>E_{n_x,n_y} = \frac{\hbar^2\pi^2}{2m} \left[ \left( \frac{n_x}{L_x} \right)^2 + \left( \frac{n_y}{L_y} \right)^2 \right] \quad (21) </math>
+
+==3-dimensional box and higher==
+
+The same '''[[separation of variables]]''' technique can be applied to the three dimensional case to give the energy eigenfunctions:
+
+:<math>\psi_{n_x,n_y,n_z} = \sqrt{\frac{8}{L_x L_y L_z}} \sin \left( \frac{n_x \pi x}{L_x} \right) \sin \left( \frac{n_y \pi y}{L_y} \right) \sin \left( \frac{n_z \pi z}{L_z} \right) \quad (22)</math>
+
+:<math>E_{n_x,n_y,n_z} = \frac{\hbar^2\pi^2}{2m} \left[ \left( \frac{n_x}{L_x} \right)^2 + \left( \frac{n_y}{L_y} \right)^2 + \left( \frac{n_z}{L_z} \right)^2 \right] \quad (23) </math>
+with
+:<math>n_i=1,2,3,\ldots</math>
+
+An interesting feature of the above solutions is that when two or more of the lengths are the same (e.g. ''L''<sub>''x''</sub> = ''L''<sub>''y''</sub>), there are multiple wavefunctions corresponding to the same total energy. For example the wavefunction with ''n''<sub>''x''</sub> = 2, ''n''<sub>''y''</sub> = 1 has the same energy as the wavefunction with ''n''<sub>''x''</sub> = 1, ''n''<sub>''y''</sub> = 2.  This situation is called '''degeneracy ''' and for the case where exactly two degenerate wavefunctions have the same energy that energy level is said to be '''doubly degenerate'''.  Degeneracy results from symmetry in the system.  For the above case two of the lengths are equal so the system is symmetric with respect to a 90° rotation.
+
+==Free propagation==
+
+If the potential is zero (or constant) everywhere, one describes a [[free particle]]. This leads to some difficulties of normalization of the momentum or energy eigenfunctions. One way around is to constrain the particle in a finite volume ''V'' of arbitrary (large) extension, in which it is free to propagate. It is expected that in the limit of ''V''&rarr; &infin; we recover the free particle while allowing in the intermediate calculations the use of properly normalized states. Also, when describing for instance a particle propagating in a solid, one does not expect spatially localized states but instead completely delocalized states (within the solid), meaning that the particles propagates inside it (since it can be everywhere with the same probability, conversely to the sine solutions we encountered where the particle has favored locations). This understanding follows from the solutions of the Schrödinger equation for zero potential following from the so-called [[Born-von_Karman_boundary_condition|Born-von Karman boundary condition]]s; i.e., the wavefunction assumes same values on opposite sides of the box but it is not required to be zero here. One can then check that the following solutions obey eq. 1:
+
+:<math>\textrm{in~1D}:\ \psi_k(x)={1\over\sqrt L}e^{ikx}; k={2n\pi\over L}; \quad n\in\mathbb{Z}</math>
+:<math>\textrm{in~3D}:\ \psi_{\mathbf{k}}(\mathbf{r})={1\over\sqrt{L^3}}e^{i\mathbf{k}\cdot\mathbf{r}}; k_x={2n_x\pi\over L}; k_y={2n_y\pi\over L}; k_z={2n_z\pi\over L}; \quad n_x, n_y, n_z\in\mathbb{Z}</math>
+
+The energy remains <math>\hbar^2 k^2/2m</math> (cf. eq. 3) but interestingly, now the ''k'' are twice as before (cf. eq. 7). This is because in the previous case, ''n'' was strictly positive whereas now it can be negative or zero (the ground state). The solutions where the sine does not superpose to itself after a translation of ''L'' can not be recovered with exponentials, since in this propagating particle interpretation, the derivative is discontinuous at the border, meaning that the particle acquires infinite velocity here. This shows how the two interpretations bear intrinsically differing behaviours.
+
+==References==
+*{{cite book | author=Griffiths, David J.|title=Introduction to Quantum Mechanics (2nd ed.) | publisher=Prentice Hall |year=2004 |id=ISBN 0-13-111892-7}}
+
+==See also==
+* [[finite potential well]]
+* [[Delta function potential]]
+* [[gas in a box]]
+* [[particle in a ring]]
+* [[Particle in a spherically symmetric potential]]
+* [[Delta potential well (QM)]]
+* [[Semicircle potential well]]
+* [[Configuration integral (statistical mechanics)]]
+
+==External links==
+* [http://scienceworld.wolfram.com/physics/InfiniteSquarePotentialWell.html Scienceworld] (Infinite Potential Well)
+* [http://scienceworld.wolfram.com/physics/FiniteSquarePotentialWell.html Scienceworld] (Finite Potential Well)
+* [http://www.falstad.com/qm1d/ 1-D quantum mechanics java applet] simulates particle in a box, as well as other 1-dimensional cases.
+* [http://www.falstad.com/qm2dbox/ 2-D particle in a box applet]
+
+[[Category:Quantum models]]
+
+[[cs:Potenciálová jáma]]
+[[de:Teilchen im Kasten]]
+[[es:Partícula en una caja]]
+[[fr:Particule dans une boîte]]
+[[he:בור פוטנציאל אינסופי]]
+[[ja:井戸型ポテンシャル]]
+[[pl:Cząstka w studni potencjału]]
+[[sv:Partikel i låda]]

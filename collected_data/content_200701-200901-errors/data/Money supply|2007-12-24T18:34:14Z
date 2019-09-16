@@ -1,0 +1,208 @@
+{{Articleissues|tone=August 2007}}
+{{TOCleft}}
+'''Money supply''', also known as '''monetary aggregates''' and '''money stock''', is the quantity of [[currency]] and the value of checking accounts owned by the non-bank public. The [[interest rate]] is the price of borrowing money. The two are related inversely: as the money supply increases interest rates will fall.
+
+==Introduction==
+
+When thinking about the "supply" of money, it is natural to think of the total of [[banknote]]s and [[coin]]s in an economy. That, however, is vastly incomplete. In the [[United States]], coins are ''minted'' by the [[United States Mint]], part of the [[United States Department of the Treasury|Department of the Treasury]], ''outside of'' the [[Federal Reserve]]. Banknotes are ''printed'' by the Bureau of Engraving & Printing ''on behalf of'' the Federal Reserve System.  The Federal Reserve can also create book-keeping credits in the reserve accounts of its member banks, on the same terms as it can issue paper banknotes (by pledging collateral, usually in the form of US Treasury securities).  As it always stands ready to exchange these book-keeping credits for paper banknotes, they are functionally equivalent.
+
+In this respect, all paper banknotes in existence are systematically linked to the expansion of the electronic, credit-based money supply. Coinage can be increased or decreased outside this system by Legal Mandate or Legislative Acts. However, at present the coin base is held in check and used as a complementary system rather than a competitive system with ''private bank issue'' of electronic, credit-based money. The common practice is to include printed and minted money supply in the same metric '''M0'''.
+
+The more accurate starting point for the concept of money supply is the total of all electronic, credit-based deposit balances in bank (and other financial) accounts (for more precise definitions, see below) plus all the minted coins and printed paper. The M1 money supply is M0, plus the total of (non-paper or coin) deposit balances without any withdrawal restrictions (restricted accounts that you can't write checks on are put in the next level of [[market liquidity|liquidity]], M2).
+
+The relationship between the M0 and M1 money supplies is the '''money multiplier''' &mdash; basically, the ratio of cash and coin in people's wallets and bank vaults and ATMs to Total balances in their financial accounts. The gap and lag between the two (M0 and M1 - M0) occurs because of the system of [[fractional-reserve banking]].
+
+==Scope==
+Because (in principle) money is anything that can be used in settlement of a [[debt]], there are varying measures of money supply. The narrowest (i.e., most restrictive) measures count only those forms of money available for immediate transactions, while broader measures include money held as a store of value 
+
+===United States===
+
+[[Image:Components of the United States money supply.svg|thumb|right|350px|Components of US money supply (M1, M2, and M3) since 1959]]The most common measures are named M0 (narrowest), M1, M2, and M3. In the United States they are defined by the Federal Reserve as follows:
+* '''M0''': The total of all physical [[currency]], plus accounts at the central bank that can be exchanged for physical currency.
+* '''M1''': M0 + those portions of M0 held as reserves or vault cash + the amount in [[demand account]]s ("checking" or "current" accounts).
+* '''M2''': M1 + most [[savings account]]s, [[money market account]]s, and small denomination time deposits ([[certificates of deposit]] of under $100,000).
+* '''M3''': M2 + all other [[Certificate of deposit|CDs]], deposits of [[eurodollars]] and [[repurchase agreement]]s.
+
+The Federal Reserve ceased publishing M3 statistics in March 2006, explaining that it costs a lot to collect the data but doesn't provide significantly useful information.<ref>[http://www.federalreserve.gov/Releases/h6/discm3.htm Discontinuance of M3]</ref> The other three money supply measures continue to be provided in detail.
+
+===United Kingdom===
+{{Mergefrom|M4 money supply|date=December 2007}}
+
+There are just two official UK measures.  M0 is referred to as the "wide monetary base" or "narrow money" and M4 is referred to as "[[broad money]]" or simply "the money supply".  
+* '''M0''': Cash outside Bank of England + Banks' operational deposits with Bank of England.  
+* '''[[M4 money supply|M4]]''': Cash outside banks (ie. in circulation with the public and non-bank firms) + private-sector retail bank and building society deposits + Private-sector wholesale bank and building society deposits and Certificate of Deposit. <ref>[http://www.bankofengland.co.uk/mfsd/iadb/notesiadb/M4.htm www.bankofengland.co.uk] Explanatory Notes - M4 retrieved [[August 13]] 2007</ref>
+
+==Link with inflation==
+===Monetary exchange equation===
+Money supply is important because it is linked to [[inflation]] by the "monetary exchange equation":
+:<math>
+\textrm{velocity} \times \textrm{money\ supply} = \textrm{real\ GDP} \times \textrm{GDP\ deflator}
+</math>
+[[Image:Us proportionate m3.svg|thumb|400px|right|U.S. M3 money supply as a proportion of gross domestic product.]]
+where:
+*[[income velocity of money|velocity]] = the number of times per year that money turns over in transactions for goods and services(if it is a number it is always simply nominal GDP / money supply)
+*nominal GDP = real [[Gross Domestic Product]] &times; GDP deflator
+*[[GDP deflator]] = measure of inflation. Money supply may be less than or greater than the demand of money in the economy
+
+In other words, if the money supply grows faster than real GDP growth (described as "unproductive debt expansion"), inflation is likely to follow ("inflation is always and everywhere a monetary phenomenon"). This statement must be qualified slightly, due to changes in velocity. While the [[monetarists]] presume that velocity is relatively stable, in fact velocity exhibits variability at business-cycle frequencies, so that the velocity equation is not particularly useful as a short run tool. Moreover, in the US, velocity has grown at an average of slightly more than 1% a year between 1959 and 2005 (which is to be expected due to the increase in population, unless money supply grows very rapidly).
+
+===Percentage===
+
+In terms of percentage changes (to a small approximation, [http://www.mhhe.com/economics/mcconnell15e/graphics/mcconnell15eco/common/dothemath/percentagechangeapproximation.html the percentage change in a product], say XY is equal to the sum of the percentage changes %X + %Y). So:
+
+:%P + %Y = %M + %V
+
+That equation rearranged gives the "basic inflation identity":
+
+:%P = %M + %V - %Y
+
+Inflation (%P) is equal to the rate of money growth (%M), plus the change in velocity (%V), minus the rate of output growth (%Y).<ref>"Breaking Monetary Policy into Pieces", May 24 2004, http://www.hussmanfunds.com/wmc/wmc040524.htm</ref>
+
+==Money supply and cash==
+In the U.S., as of December, 2006, M1 was about $1.37 trillion and M2 was about $7.02 trillion. If you split all of the money equally per person in the United States, each person would end up with roughly $4,550 ($1,370,000M/301M) using M1 or $23,320 ($7,020,000M/301M) using M2. The amount of actual physical cash, M0, was $749.6 billion in December, 2006, almost three times the $261 billion in cash and cash equivalents on [[deposit account|deposit]] at [[Citigroup]] as of the end of that year and roughly $2492 per person in the US. <ref>http://www.federalreserve.gov/releases/h6/current/</ref>
+<ref>http://www.citigroup.com/citigroup/fin/data/k04c_restated.pdf</ref>
+
+==Bank reserves at central bank==
+When a [[central bank]] is "easing", it triggers an increase in money supply by purchasing [[government bond|government securities]] on the open market thus increasing available funds for private banks to loan through fractional reserve banking (the issue of new money through loans) and thus grows the money supply. When the central bank is "tightening", it slows the process of private bank issue by selling securities on the open market and pulling money (that could be loaned) out of the private banking sector. It reduces or increases the supply of short term government debt, and inversely increases or reduces the supply of lending funds and thereby the ability of private banks to issue new money through debt.
+
+The operative notion of easy money is that the central bank creates new [[bank reserves]] (in the US known as "[[federal funds]]"), which let the banks lend out more money. These loans get spent, and the proceeds get deposited at other banks. Whatever is not required to be held as reserves is then lent out again, and through the magic of the "money multiplier", loans and bank deposits go up by many times the initial injection of reserves.
+
+However in the 1970s the reserve requirements on deposits started to fall with the emergence of [[money market funds]], which require no reserves. Then in the early 1990s, reserve requirements were dropped to zero on [[savings deposit]]s, [[Certificate of deposit|CD]]s, and [[Eurodollars|Eurodollar deposit]]. At present, reserve requirements apply only to "[[transactions deposits]]" – essentially [[checking accounts]]. The vast majority of funding sources used by private banks to create loans are not limited by bank reserves. Most [[commercial and industrial loans]] are financed by issuing large denomination [[Certificate of deposit|CD]]s. [[Money market]] deposits are largely used to lend to corporations who issue [[commercial paper]]. Consumer loans are also made using [[savings deposit]]s which are not subject to reserve requirements. These loans can be bunched into securities and sold to somebody else, taking them off of the bank's books.
+
+Therefore, neither commercial nor consumer loans are any longer limited by bank reserves. Since 1995, the volume of such loans has exploded, while bank reserves have declined.{{Fact|date=October 2007}}
+
+In recent years, the irrelevance of open market operations has also been argued by academic economists renown for their work on the implications of [[rational expectations]], including [[Robert Lucas, Jr.]], [[Thomas Sargent]], [[Neil Wallace]], [[Finn E. Kydland]], [[Edward C. Prescott]] and [[Scott Freeman]].
+
+==Arguments==
+Assuming that prices do not instantly adjust to equate supply and demand, one of the principal jobs of [[central bank]]s is to ensure that aggregate (or overall) demand matches the potential supply of an economy. Central banks can do this because overall demand can be controlled by the money supply. By putting more money into circulation, the central bank can stimulate demand. By taking money out of circulation, the central bank can reduce demand. 
+
+For instance, if there is an overall shortfall of demand relative to supply (that is, a given economy can potentially produce more goods than consumers wish to buy) then some resources in the economy will be unemployed (i.e., there will be a recession). In this case the central bank can stimulate demand by increasing the money supply. In theory the extra demand will then lead to job creation for the unemployed resources (people, machines, land), leading back to full employment (more precisely, back to the natural rate of unemployment, which is basically determined by the amount of government regulation and is different in different countries). 
+
+However, central banks have a difficult balancing act because, if they put too much money into circulation, demand will outstrip an economy's ability to supply so that, even when all resources are employed, demand still cannot be satisfied. In this case, unemployment will fall back to the natural rate and there will then be competition for the last remaining labour, leading to wage rises and inflation. This can then lead to another recession as the central bank takes money out of circulation (raising interest rates in the process) to try and damp down demand. 
+
+The main debate amongst economists in the second half of the twentieth century concerned the central banks ability to know how much money to inject into or take out of circulation under different circumstances. Some economists like Milton Friedman believed that the central bank would always get it wrong, leading to wider swings in the economy than if it were just left alone. That is why they advocated a non-interventionist approach. 
+
+Current Chairman of the U.S. Federal Reserve, [[Ben Bernanke]], has suggested that over the last 10 to 15 years, many modern central banks have become relatively adept at manipulation of the money supply, leading to a smoother business cycle, with recessions tending to be smaller and less frequent than in earlier decades, a phenomenon he terms "The Great Moderation" <ref>http://www.federalreserve.gov/boarddocs/speeches/2004/20040220/default.htm</ref>.
+
+==Recent Money Supply changes==
+===Australia===
+ Percent change at annual rates                         M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 16.35                 --                 16.0
+ [http://www.rba.gov.au/Statistics/table_3_310707.xls Source for M1]
+ [http://www.rba.gov.au/Statistics/table_1_310707.xls Source for M3]
+
+===Canada===
+ Percent change at annual rates                         M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 9.91                 7.45                10.07
+ 12 Months from November 2006 to November 2007         7.44                 6.25                12.77
+ [http://www.bankofcanada.ca/pdf/wfs.pdf Source]
+
+===China===
+ Percent change at annual rates                         M1                   M2                  M3
+ 12 Months from March 2006 TO March 2007               19.98                17.3                 --
+ [http://www.china.org.cn/e-company/07-05-10/page070321.htm Source]
+
+===Eurozone===
+ Percent change at seasonally adjusted annual rates     M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 6.1                   --                 10.9
+ 12 Months from October 2006 to October 2007           6.5                   --                 12.3 
+ [http://www.ecb.int/press/pdf/md/md0706.pdf Source]
+ [http://www.ecb.int/press/pdf/md/md0710.pdf Source]
+
+===Japan===
+ Percent change at seasonally adjusted annual rates     M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 -0.2                  1.8                 3.6
+ 12 Months from November 2006 to November 2007          0.2                  2.0                 3.5
+ [http://www.boj.or.jp/en/type/stat/boj_stat/ms/ms0706.pdf Source]
+ [http://www.boj.or.jp/en/type/stat/boj_stat/ms/ms0711.pdf Source]
+
+===Russia===
+ Percent change at seasonally adjusted annual rates     M1                   M2                  M3
+ 12 Months from May 2006 TO May 2007                    --                  59.9                 --
+ 12 Months from August 2006 TO August 2007                    --                  44.1                 --                      
+ [http://www.cbr.ru/eng/BBS/Bbs0706e.pdf Source]
+ [http://www.cbr.ru/eng/BBS/Bbs0710e.pdf Source]
+
+===Switzerland===
+ Percent change at seasonally adjusted annual rates     M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 -4.3                 -6.4                 2.4
+ 12 Months from October 2006 TO October 2007           -6.3                 -7.8                 0.8
+ [http://www.snb.ch/ext/stats/statmon/pdf/deen/B2_Geldmengen.pdf Source]
+
+===UK===
+ Percent change at seasonally adjusted annual rates     M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 11.95                15.56               15.60
+ 12 months from October 2006 to October 2007           13.11                13.33               12.35  
+ [http://www.bankofengland.co.uk/statistics/ms/2007/Jul/taba2.3.xls Source]
+ [http://www.bankofengland.co.uk/statistics/ms/current/taba2.3.xls Source]
+
+===USA===
+ Percent change at seasonally adjusted annual rates     M1                   M2                  M3
+ 12 Months from June 2006 TO June 2007                 -0.7                  6.1                12.0 
+ 12 Months from Sept 2006 TO Sept 2007                  0.4                  6.7                14.1
+ 12 Months from November 2006 to November 2007         -0.5                  6.2                15.8        
+                   
+ [http://www.federalreserve.gov/releases/h6/current/default.htm Source for M1 and M2]  
+ [http://www.nowandfutures.com/key_stats.html Source for M3]
+ [http://www.shadowstats.com/cgi-bin/sgs/data Source for M3]
+
+==See also==
+*[[Money creation]]
+*[[Seigniorage]]
+*[[Bank regulation]]
+*[[FDIC]]
+*[[Fractional-reserve banking]]
+*[[Full reserve banking]]
+*[[Money market]]
+*[[Money with zero maturity]] (MZM)
+*[[Debt levels and flows]]
+*[[Debt-based monetary system]]
+*[[Financial capital]]
+*[[M4 money supply]]
+*[[Float (money supply)|Float]]
+*[[Milton Friedman]]
+*[[Monetarism]]
+*[[Inflation]]
+*[[Core inflation]]
+*[[Index of Leading Indicators]] - money supply is a component
+
+==Notes and references==
+{{reflist}}
+
+==External links==
+===Data===
+*[http://www.federalreserve.gov/releases/h3/Current/h3.htm Aggregate Reserves Of Depository Institutions And The Monetary Base (H.3)]
+*[http://www.federalreserve.gov/releases/h6/hist/h6hist1.txt U.S. M1,M2 Money Supply Historical Table]
+*[http://www.federalreserve.gov/releases/h6/current/default.htm Money Stock Measures (H.6)]
+*[http://www.rba.gov.au/Statistics/AlphaListing/alpha_listing_m.html Data on Monetary Aggregates in Australia]
+*[http://www.info.gov.hk/hkma/eng/press/category/statistics_index.htm Monetary Statistics on Hong Kong Monetary Authority]
+*[http://www.pbc.gov.cn/english/ Monetary Survey on [[People's Bank of China]]]
+
+===Articles===
+*[http://www.frbsf.org/education/activities/drecon/2001/0111.html Do all banks hold reserves, and, if so, where do they hold them? (11/2001)]
+*[http://www.frbsf.org/education/activities/drecon/2001/0108.html What effect does a change in the reserve requirement have on the money supply? (08/2001)]
+*[http://research.stlouisfed.org/aggreg/ St. Louis Fed: Monetary Aggregates]
+*[http://www.econlib.org/library/Enc/MoneySupply.html Anna J. Schwartz on money supply]
+*[http://www.federalreserve.gov/releases/h6/discm3.htm Discontinuance of M3 Publication]
+*[http://www.lewrockwell.com/paul/paul354.html Monetary Inflation Is the Problem (12/2006)]
+
+===Video documentaries===
+*[http://video.google.com/videoplay?docid=-466210540567002553&q=money%2C+banking%2Cand+the+federal+reserve Money, Banking, and the Federal Reserve (41 minutes)]
+
+[[Category:Monetary economics]]
+[[Category:Monetary policy]]
+
+[[da:Pengemængde]]
+[[de:Geldmenge]]
+[[es:Oferta de dinero]]
+[[fr:Masse monétaire]]
+[[id:Persediaan uang]]
+[[it:Aggregati monetari]]
+[[ja:マネーサプライ]]
+[[pl:Podaż pieniądza]]
+[[ru:Денежная масса]]
+[[fi:Rahavaranto]]
+[[sv:M3]]
+[[vi:cung ứng tiền tệ]]
+[[uk:Грошові агрегати]]
+[[zh:货币供给]]

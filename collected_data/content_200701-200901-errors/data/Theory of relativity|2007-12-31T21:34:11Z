@@ -1,0 +1,118 @@
+{{wiktionary|theory of relativity}}
+[[Image:spacetime curvature.png|thumb|right|300px|[[Two-dimensional]] projection of a [[three-dimensional]] analogy of space-time curvature described in General Relativity.]]
+
+The '''theory of relativity''', or simply '''relativity''', refers specifically to two theories: [[Albert Einstein|Albert Einstein's]] [[special relativity]] and [[general relativity]]. However, "relativity" can also refer to [[Galilean relativity]].
+
+The term "theory of relativity" was coined by [[Max Planck]] in 1908 to emphasize how special relativity (and later, general relativity) uses the [[principle of relativity]].
+
+== Special relativity ==
+
+{{main|Special relativity}}
+
+Special relativity is a theory of the structure of [[spacetime]].  It was introduced in [[Albert Einstein]]'s 1905 paper "[[Annus Mirabilis Papers#Special relativity|On the Electrodynamics of Moving Bodies]]". Special relativity is based on two postulates which are contradictory in [[classical mechanics]]:
+# The laws of physics are the same for all observers in [[inertial frame of reference|uniform motion]] relative to one another ([[Galileo Galilei|Galileo]]'s [[principle of relativity]]),
+# The [[speed of light]] in a [[vacuum]] is the same for all observers, regardless of their relative motion or of the motion of the source of the [[light]]. 
+
+The resultant theory has many surprising consequences. Some of these are: 
+* [[Time dilation]]:  Moving [[clock]]s tick slower than an observer's "stationary" clock.
+* [[Length contraction]]: Objects are observed to be shortened in the direction that they are moving with respect to the observer.
+* [[Relativity of simultaneity]]: two events that appear simultaneous to an observer A will not be simultaneous to an observer B if B is moving with respect to A.
+* [[Mass-energy equivalence]]: ''E''&nbsp;=&nbsp;''mc''², energy and mass are equivalent and transmutable.
+
+The defining feature of special relativity is the replacement of the [[Galilean transformation]]s of classical mechanics by the [[Lorentz transformation]]s.  (See [[Maxwell's equations]] of [[electromagnetism]] and [[introduction to special relativity]]).
+
+== General relativity ==
+{{main|General relativity}}
+General relativity is a theory of gravitation developed by Einstein in the years 1907–1915.
+The development of general relativity began with the [[equivalence principle]], under which the states of [[acceleration|accelerated motion]] and being at rest in a [[gravity|gravitational field]] (for example when standing on the surface of the Earth) are physically identical.  The upshot of this is that [[free fall]] is [[inertia|inertial motion]]:  In other words an object in free fall is falling because that is how objects move when there is no [[force]] being exerted on them, instead of this being due to the force of [[gravity]] as is the case in [[classical mechanics]].  This is incompatible with classical mechanics and [[special relativity]] because in those theories inertially moving objects cannot accelerate with respect to each other, but objects in free fall do so.  To resolve this difficulty Einstein first proposed that spacetime is [[curvature|curved]].  In 1915, he devised the [[Einstein field equations]] which relate the curvature of spacetime with the mass, energy, and momentum within it.
+
+Some of the consequences of general relativity are:
+* Time goes slower at lower gravitational potentials.  This is called [[gravitational time dilation]].
+* Orbits [[precession|precess]] in a way unexpected in Newton's theory of gravity.  (This has been observed in the orbit of [[Mercury (planet)|Mercury]] and in [[binary pulsar]]s).
+* Even rays of [[light]] (which are weightless) [[General relativity#Bending of light|bend in the presence of a gravitational field]]. 
+* [[Expansion of the universe|The Universe is expanding]], and the far parts of it are moving away from us faster than the [[speed of light]].  This does not contradict the theory of special relativity, since it is space itself that is expanding. 
+* [[Frame-dragging]], in which a rotating mass "drags along" the space time around it.
+
+Technically, general relativity is a [[metric (mathematics)|metric]] theory of [[gravitation]] whose defining feature is its use of the Einstein field equations.  The solutions of the field equations are [[metric tensor (general relativity)|metric tensor]]s which define the [[topology]] of the spacetime and how objects move intertially.
+
+== References and links ==
+See the [[Special relativity#References|special relativity references]] and the [[General relativity#References|general relativity references]]. For information on the silent film produced on this subject, see ''[[The Einstein Theory of Relativity]]''.
+
+{{nofootnotes}}
+
+== External links ==
+{{Wikisourcepar|Relativity: The Special and General Theory}}
+*[http://video.google.com/videoplay?docid=-8550767253417678390&hl=en Yale University Video Lecture: Special and General Relativity] at Google Video
+*[http://en.wikibooks.org/wiki/Special_Relativity Wikibooks: Special Relativity]
+*[http://www.pbs.org/wgbh/nova/einstein/rela-i.html Relativity Animations]
+*[http://www.astro.ucla.edu/~wright/relatvty.htm Relativity tutorial]
+* [http://relativity.livingreviews.org/ Living Reviews in Relativity] &mdash; An open access, peer-referred, solely online physics journal publishing invited reviews covering all areas of relativity research.
+* [http://www.mathpages.com/rr/rrtoc.htm MathPages - Reflections on Relativity] &mdash; A complete online course on Relativity.
+* [http://www.muppetlabs.com/~breadbox/txt/al.html Relativity explained in words of four letters or less]
+* [http://www.fourmilab.ch/etexts/einstein/specrel/www/ On the Electrodynamics of Moving Bodies]
+* [http://www.adamauton.com/warp/ Special Relativity Simulator]
+* [http://www.black-holes.org/ A Relativity Tutorial at Caltech] &mdash; A basic introduction to concepts of Special and General Relativity, as well as astrophysics.
+* [http://web.mit.edu/mitpep/pi/courses/relativity_gravity.html Relativity Gravity and Cosmology] &mdash; A short course offered at MIT.
+* [http://www.phys.unsw.edu.au/einsteinlight Relativity in film clips and animations] from the University of New South Wales.
+* [http://www.onestick.com/relativity/ Animation easy to understand] Animation for Pirelli Ralativity Award.
+* [http://math.ucr.edu/home/baez/physics/Relativity/SR/experiments.html What is the experimental basis of Special Relativity?]
+{{cite book | author=Gal-Or, Benjamin; title=Cosmology, Physics and Philosophy, Springer Verlag, 1981, 1983, 1987, New York
+{{physics-footer}}
+
+[[Category:Relativity]]
+[[Category:Theories|Relativity]]
+[[Category:Paradigm shifts]]
+
+{{Link FA|de}}
+{{Link FA|mr}}
+[[als:Relativitätstheorie]]
+[[ar:نظرية النسبية]]
+[[az:Nisbilik nəzəriyyəsi]]
+[[zh-min-nan:Siong-tùi-lūn]]
+[[bg:Теория на относителността]]
+[[ca:Teoria de la relativitat]]
+[[cs:Teorie relativity]]
+[[da:Relativitetsteori]]
+[[de:Relativitätstheorie]]
+[[et:Relatiivsusteooria]]
+[[el:Σχετικότητα]]
+[[es:Teoría de la Relatividad]]
+[[eo:Fizika relativeco]]
+[[fa:نسبیت]]
+[[fr:Principe de relativité]]
+[[gl:Teoría da Relatividade]]
+[[ko:상대성 이론]]
+[[hr:Teorija relativnosti]]
+[[id:Teori relativitas]]
+[[is:Afstæðiskenningin]]
+[[it:Teoria della relatività]]
+[[he:תורת היחסות]]
+[[ka:ფარდობითობის თეორია]]
+[[lv:Relativitātes teorija]]
+[[lt:Reliatyvumo teorija]]
+[[hu:Relativitáselmélet]]
+[[mk:Теорија на релативитет]]
+[[ml:ആപേക്ഷികതാ സിദ്ധാന്തം]]
+[[mr:सापेक्षतावादाचा सिद्धांत]]
+[[mn:Харьцангуйн онол]]
+[[nl:Relativiteitstheorie]]
+[[ja:相対性理論]]
+[[no:Relativitetsteorien]]
+[[nn:Relativitetsteorien]]
+[[pl:Teoria względności]]
+[[pt:Teoria da relatividade]]
+[[ksh:Relativitätstheorie]]
+[[ro:Teoria relativităţii]]
+[[ru:Теория относительности]]
+[[simple:Theory of relativity]]
+[[sk:Teória relativity]]
+[[sl:Teorija relativnosti]]
+[[sr:Теорија релативитета]]
+[[fi:Suhteellisuusteoria]]
+[[sv:Relativitetsteori]]
+[[th:ทฤษฎีสัมพัทธภาพ]]
+[[vi:Lý thuyết tương đối]]
+[[tr:Özel görelilik kuramı]]
+[[uk:Теорія відносності]]
+[[ur:نظریۂ اضافیت]]
+[[zh:相对论]]

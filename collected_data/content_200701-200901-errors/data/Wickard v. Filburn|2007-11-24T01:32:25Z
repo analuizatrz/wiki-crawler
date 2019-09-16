@@ -1,0 +1,66 @@
+{{SCOTUSCase
+  |Litigants=Wickard v. Filburn
+  |ArgueDate=May 4
+  |ArgueYear=1942
+  |ReargueDate=October 13
+  |ReargueYear=1942
+  |DecideDate=November 9
+  |DecideYear=1942	
+  |FullName=Claude R. Wickard, Secretary of Agriculture, et al. v. Roscoe C. Filburn
+  |USVol=317
+  |USPage=111
+  |Citation=63 S. Ct. 82; 87 L. Ed. 122; 1942 U.S. LEXIS 1046
+  |Prior=Injunction granted to plaintiff, ''Filburn v. Helke'', 43 F. Supp. 1017 (S.D. Ohio 1942)
+  |Subsequent=
+  |Holding=Production quotas under the Agricultural Adjustment Act were constitutionally applied to agricultural production that was consumed purely intrastate, because its effect upon interstate commerce placed it within the power of Congress to regulate under the Commerce Clause. Southern District of Ohio reversed.
+  |SCOTUS=1941-1942
+  |Majority=Jackson
+  |JoinMajority= Stone, Roberts, Black, Reed, Frankfurter, Douglas, Murphy, Byrnes
+  |LawsApplied=[[First Amendment to the United States Constitution|U.S. Const. amends. I]], [[Fifth Amendment to the United States Constitution|V]]; 7 U.S.C. § 1281, et. seq. (1941) ([[Agricultural Adjustment Act]])
+}}
+'''''Wickard v. Filburn''''', [[Case citation|317 U.S. 111]] ([[1942]]), is a [[Supreme Court of the United States|United States Supreme Court]] decision interpreting the [[Commerce Clause]] of the [[United States Constitution]], which permits the [[United States Congress]] to "regulate Commerce... among the several States."
+
+==Background of the case==
+The [[Agricultural Adjustment Act of 1938]] limited the area that farmers could devote to wheat production.  The stated purpose of the act was to stabilize the price of wheat in the national market by controlling the amount of wheat produced.  
+
+'''Roscoe Filburn''' was a farmer who produced wheat in excess of the amount permitted.  Filburn however, argued that because the excess wheat was produced for his private consumption on his own farm, it never entered commerce at all, much less interstate commerce, and therefore was not a proper subject of federal regulation under the Commerce Clause.
+
+===Amount of wheat at issue===
+In July 1940, pursuant to the Agricultural Adjustment Act of 1938, Filburn's 1941 allotment was established at 11.1 acres and a normal yield of 20.1 [[bushel|bushels]] of wheat an acre. Filburn was given notice of the allotment in July of 1940 before the Fall planting of his 1941 crop of wheat, and again in July of 1941, before it was harvested. Despite these notices Filburn planted 23 acres and harvested from his 11.9 acres of excess area 239 bushels. [http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?court=us&vol=317&invol=111] [http://papers.ssrn.com/abstract=901026]
+
+==Procedural history==
+The Federal District Court ruled in favor of Filburn. The government then appealed to the [[Supreme Court of the United States]].
+
+===The Court's decision===
+The intended rationale of the Agricultural Adjustment Act is to stabilize the price of wheat on the national market.  The federal government has the power to regulate interstate commerce through the Interstate Commerce Clause of the Constitution.  In ''Filburn'' the Court unanimously reasoned that the power to regulate the price at which commerce occurs was inherent in the power to regulate commerce.
+
+Filburn argued that since the excess wheat he produced was intended solely for home consumption it could not be regulated through the interstate commerce clause.  The Supreme Court rejected this argument reasoning that if Filburn had not used home-grown wheat, he would have had to buy wheat on the open market.  This effect on interstate commerce, the Court reasoned, may not be substantial from the actions of Filburn alone but through the cumulative actions of thousands of other farmers just like Filburn its effect would certainly become substantial.  Therefore Congress could regulate wholly intrastate, non-commercial activity if such activity, viewed in the aggregate, would have a substantial effect on interstate commerce, even if the individual effects are trivial.
+
+Wickard has often been seen as marking the end to any limits on Congress's commerce clause powers.  One commentator has written: “In the wake of [[National Labor Relations Board v. Jones & Laughlin Steel Corporation|Jones & Laughlin]] and Wickard [v. Filburn], it has become clear that... Congress has authority to regulate virtually all private economic activity.”<ref>Earl M. Maltz as quoted in footnote 223 of Jim Chen, [http://papers.ssrn.com/abstract=901026  "Filburn's Legacy,"] 52 Emory Law Journal 1719 (2003)</ref>
+
+==Subsequent jurisprudence==
+In the landmark [[1995]] case of ''[[United States v. Lopez]]'', the first decision in six decades to invalidate a federal statute on the grounds that it exceeded the power of the [[United States Congress]] under the [[commerce clause]] of the [[United States Constitution]], the Supreme Court described ''Wickard v. Filburn'' as "perhaps the most far reaching example of [[commerce clause]] authority over intrastate commerce."  The Supreme Court majority that decided the [[2005]] case ''[[Gonzales v. Raich]]'' relied heavily on ''Filburn'' in upholding the power of the federal government to prosecute individuals who grow their own medicinal marijuana pursuant to state law.  In ''Raich'', the court held that, as with the home grown wheat at issue in ''Filburn'', home grown marijuana is a legitimate subject of federal regulation because it competes with marijuana that moves in interstate commerce.
+
+==See also==
+* [[List of United States Supreme Court cases, volume 317]]
+
+==References==
+{{Reflist}}
+Kommers, D. P. , Finn, J. E., Jacobsohn, G. J.  (2004) ''American Constitutional Law'' ''Volume 2 Second Edition'' United States of America: Rowman & Littlefield Publishers Inc.
+
+==Further reading==
+* Jim Chen, [http://papers.ssrn.com/abstract=901026  "Filburn's Legacy,"] 52 Emory Law Journal 1719 (2003)
+* Richard A. Epstein, ''How Progressives Rewrote the Constitution'', Cato Institute, 2006
+
+==External links==
+* {{ussc|317|111|Text of the opinion on Findlaw.com}}
+* [http://www.law.cornell.edu/supct-cgi/get-us-cite/317/111 Text of the opinion from Cornell University's Legal Information Institute]
+* [http://www.oyez.org/oyez/resource/case/443/ oyez.org on the case (short)]
+* [http://www.law.umn.edu/constitutionallaw/filburn_i.html Roscoe Filburn and his wheat]
+* [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=901026 Emory Law Journal essay on Wickard v. Filburn]
+
+[[Category:United States Supreme Court cases]]
+[[Category:Commerce Clause cases]]
+[[Category:United States federalism case law]]
+[[Category:Landmark cases]]
+[[Category:1942 in law]]

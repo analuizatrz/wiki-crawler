@@ -1,0 +1,52 @@
+A '''nuclear isomer''' is a [[metastable]] state of an [[atomic nucleus]] caused by the [[excited state|excitation]] of one or more of its [[nucleon]]s. A nuclear isomer occupies a higher energy state than the corresponding non-excited nucleus, called the [[ground state]]. The nuclear isomer will eventually release the extra energy and decay into the ground state.
+
+==Metastable isomers==
+'''Metastable isomers''' can be produced through [[nuclear fusion]] or other [[nuclear reaction]]s. A nucleus thus produced generally starts its existence in an [[excited state]] that de-excites through the emission of one or more [[gamma ray]]s (or, equivalently, [[conversion electron]]s), usually in a time far shorter than a [[picosecond]]. However, sometimes it happens that the de-excitation does not proceed rapidly all the way to the nuclear [[ground state]]. This usually occurs because of the formation of an intermediate excited state with a [[spin (physics)|spin]] far different from that of the ground state. Gamma-ray emission is far slower (is "hindered") if the spin of the post-emission state is very different from that of the emitting state, particularly if the excitation energy is low, than if the two states are of similar spin. The excited state in this situation is therefore a good candidate to be metastable, if there are no other states of intermediate spin with excitation energies less than that of the metastable state.
+
+Metastable isomers of a particular [[isotope]] are usually designated with an "m" (or, in the case of isotopes with more than one isomer, m2, m3, and so on). This designation is usually placed after the atomic symbol and number of the atom (e.g., Co-58m), but is sometimes placed as a superscript before (e.g., <sup>58m</sup>Co). Increasing indices, m, m2, etc. correlate with increasing levels of excitation energy stored in each of the isomeric states (e.g., Hf-177m2 or <sup>177m2</sup>Hf).
+
+A different kind of metastable nuclear state (isomer) is the '''[[Nuclear fission|fission]] isomer''' or '''shape isomer'''. Most [[actinide]] nuclei, in their ground states, are not spherical, but rather [[spheroid]]al — specifically, prolate, with an [[axis of symmetry]] longer than the other axes (similar to an [[American football]] or [[rugby football|rugby]] ball, although with a less pronounced departure from [[spherical symmetry]]). In some of these, quantum-mechanical states can exist in which the distribution of [[proton]]s and [[neutron]]s is farther yet from spherical (in fact, about as non-spherical as an American football), so much so that de-excitation to the nuclear ground state is strongly hindered. In general these states either de-excite to the ground state (albeit far more slowly than a "usual" excited state) or undergo [[spontaneous fission]] with [[Half-life|half lives]] of the order of [[nanosecond]]s or [[microsecond]]s — a very short time, but many orders of magnitude longer than the half life of a more usual nuclear excited state. Fission isomers are usually denoted with a postscript or superscript "f" rather than "m," so that a fission isomer in e.g. [[plutonium]] 240 is denoted Pu-240f or <sup>240f</sup>Pu.
+
+== Nearly-stable isomers ==
+Most nuclear isomers are very unstable, and radiate away the extra energy immediately (on the order of 10<sup>-12</sup>&nbsp;seconds). As a result, the term is usually restricted to refer to isomers with half-lives of 10<sup>-9</sup>&nbsp;seconds or more. [[Quantum mechanics]] predicts that certain atomic species will possess isomers with unusually long lifetimes even by this stricter standard, and so have interesting properties. By definition, there is no such thing as a "stable" isomer; however, some are so long-lived as to be ''nearly'' stable, and can be produced and observed in quantity.
+
+The only nearly-stable nuclear isomer occurring in nature is Ta-180m, which is present in all [[tantalum]] samples at about 1 part in 8,300. Its half-life is at least 10<sup>15</sup> years, markedly longer than the [[age of the universe]]. This remarkable persistence results from the fact that the excitation energy of the isomeric state is low and both gamma de-excitation to the Ta-180 ground state (which is radioactive and not particularly long lived) and [[beta decay]] to [[hafnium]] or [[tungsten]] are suppressed owing to spin mismatches. The origin of this isomer is mysterious, though it is believed to have been formed in [[supernova]]s (as are most other heavy elements). When it relaxes to its ground state, it releases a [[photon]] with an energy of 75 [[Electronvolt|keV]]. It was first reported in 1988 by Collins<ref>[http://www.hafniumisomer.org/isomer/180ta.pdf C.B. Collins et al.,'' Phys. Rev. C'', '''37''', p 2267-2269 (1988).]</ref> that Ta-180m can be forced to release its energy by weaker x-rays. After 11 years of controversy those claims were confirmed in 1999 by Belic and co-workers in the Stuttgart nuclear physics group.<ref>[http://prola.aps.org/abstract/PRL/v83/i25/p5242_1 D. Belic et al., ''Phys. Rev. Lett.'', '''83''', p 5242 (1999).]</ref>
+
+Another reasonably stable nuclear isomer (with a half-life of 31 years) is [[hafnium]]-178m2, which has the highest excitation energy of any comparably long-lived isomer. One [[gram]] of pure Hf-178-m2 contains approximately 1330 megajoules of energy, the equivalent of exploding about 317 kilograms (700 pounds) of [[Trinitrotoluene|TNT]]. Further, in the natural decay of Hf-178-m2, the energy is released as gamma rays with a total energy of 2.45&nbsp;[[Electronvolt|MeV]]. As with Ta-180m, there are disputed reports that Hf-178-m2 can be [[stimulated emission|stimulated]] into releasing its energy, and as a result the substance is being studied as a possible source for gamma ray [[laser]]s. These reports also indicate that the energy is released very quickly, so that Hf-178-m2 can produce extremely high powers (on the order of [[Orders of magnitude (power)|exawatt]]s). Other isomers have also been investigated as possible media for gamma-ray stimulated emission.<ref>{{cite web | title=UNH researchers search for stimulated gamma ray emission | work=UNH Nuclear Physics Group |year=1997|month=April| url=http://einstein.unh.edu/nuclear/NucNews/graser_news.html | accessdate=2006-06-01}}</ref>
+
+== Applications ==
+These [[hafnium]] and [[tantalum]] isomers have been considered in some quarters as weapons that could be used to circumvent the [[Nuclear Non-Proliferation Treaty]], since they can be [[induced gamma emission|induced to emit very strong gamma radiation.]] [[DARPA]] has or has had a program to investigate this usage of both isomers. However, given the difference in speed between a photon and a neutron, they can't be induced to chain react like a nuclear weapon, so there will probably never be such a weapon. Ta-180m is also one of the most expensive substances to procure in the world: It costs approximately $17 million per gram. In 1999, the entire world's supply of Ta-180m was only 6.7 milligrams.<ref>[http://www.washingtonpost.com/ac2/wp-dyn?pagename=article&contentId=A22099-2004Mar24&notFound=true Sunday Supplement Magazine [[Washington Post]] article, March 28, 2004]</ref> 
+
+[[Technetium]] isomers Tc-99m (with a half-life of 6.01 hours) and Tc-95m (with a half-life of 61 days) are used in [[Technetium#Nuclear medicine|medical]] and [[Technetium#Industrial|industrial]] applications.
+
+== Decay processes ==
+Isomers decay to lower energy states of the nuclide through two [[isomeric transition]]s:
+# γ (gamma) emission (emission of a high-energy photon)
+# [[internal conversion]] (the energy is used to ionize the atom)
+
+==See also==
+*[[induced gamma emission]]
+
+== References ==
+<references/>
+
+== External links ==
+*[http://www.utdallas.edu/research/quantum/ Research group which presented initial claims of hafnium nuclear isomer de-excitation control.] - The Center for Quantum Electronics, The University of Texas at Dallas.
+*[[JASON Defense Advisory Group]]  [http://www.fas.org/irp/agency/dod/jason/he.pdf   report on high energy nuclear materials] mentioned in the ''Washington Post''   story above
+*[http://www.physicstoday.org/vol-57/iss-5/p21.html May 2004 article in ''Physics Today'' which reviews the Hf controversy in a balanced manner.]
+*[http://www.hafniumisomer.org/Hafnium_isomer_triggering.htm Confidence for Hafnium Isomer Triggering in 2006.] - The Center for Quantum Electronics, The University of Texas at Dallas.
+*[http://www.hafniumisomer.org/isomer/isomerPubl.htm Reprints of articles about nuclear isomers in peer reviewed journals.] - The Center for Quantum Electronics, The University of Texas at Dallas.
+
+[[Category:Nuclear physics|Isomer, nuclear]]
+
+[[ar:متزامر نووي]]
+[[cs:Jaderný_izomer]]
+[[de:Kernisomer]]
+[[es:Isómero nuclear]]
+[[fa:ایزومر]]
+[[fr:Isomérie nucléaire]]
+[[it:Isomeria nucleare]]
+[[pl:Izomery jądrowe]]
+[[pt:Isomeria nuclear]]
+[[ru:Изомерия атомных ядер]]
+[[sr:Изомер (нуклеарни)]]

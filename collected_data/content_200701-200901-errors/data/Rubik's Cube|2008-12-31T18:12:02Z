@@ -1,0 +1,315 @@
+[[Image:Cubo rubik 2.jpg|300px|right|thumb|A classic Rubik's Cube, solved.]]
+The '''Rubik's Cube''' is a [[mechanical puzzle]] invented in 1974<ref name="sporting">{{cite book |author=William Fotheringham |title=Fotheringham's Sporting Pastimes |publisher=Anova Books |year=2007 |pages= 50|isbn=1-86105-953-1}}</ref> by [[Hungary|Hungarian]] sculptor and professor of architecture [[Ernő Rubik]].
+Originally called the "Magic Cube",{{Fact|date=December 2008}} the puzzle was licensed by Rubik to be sold by [[Ideal Toy Company|Ideal Toys]] in 1980<ref name="encsci">{{cite book |author=Daintith, John |title=A Biographical Encyclopedia of Scientists |publisher=Institute of Physics Pub |location=Bristol |year=1994 |pages=771|isbn=0-7503-0287-9}}</ref> and won the [[Spiel des Jahres|German Game of the Year]] special award for Best Puzzle that year. It is said to be the world's best-selling toy, with over 300,000,000 Rubik's Cubes being sold worldwide by 2005.<ref>Marshall, Ray. [http://icnewcastle.icnetwork.co.uk/1000expats/expatsfeatures/tm_objectid=15786140&method=full&siteid=50080&headline=squaring-up-to-the-rubik-challenge-name_page.html  Squaring up to the Rubchallenge]. ''icNewcastle''.  Retrieved [[August 15]] [[2005]].</ref>
+
+In a classic Rubik's Cube, each of the six faces is covered by 9 stickers, among six solid <!-- --> colours<!-- Note: It has been decided (See Talk page) that [[British English]] spelling (colours, not colors) will be used on this page. --> (traditionally white, red, blue, orange, green, and yellow).<ref name="encgrow">{{cite book |author=Michael W. Dempsey |title=Growing up with science: The illustrated encyclopedia of invention|publisher=Marshall Cavendish |location=London |year=1988 |pages=1245 |isbn=0-8747-5841-6}}</ref> A pivot mechanism enables each face to turn independently, thus mixing up the colours. For the puzzle to be solved, each face must be a solid colour.
+
+==Conception and development==
+In March 1970, Larry Nichols invented a 2×2×2 "Puzzle with Pieces Rotatable in Groups" and filed a Canadian patent application for it.  Nichols's cube was held together with magnets.  Nichols was granted {{US patent|3655201}} on April 11, 1972, two years before Rubik invented his improved cube.
+
+On April 9, 1970, Frank Fox applied to patent his "Spherical 3×3×3". He received his UK patent (1344259) on January 16, 1974.
+
+Rubik invented his "[[wikt:magic cube|Magic Cube]]" in 1974 and obtained Hungarian patent HU170062 for the Magic Cube in 1975 but did not take out international patents.  The first test batches of the product were produced in late 1977 and released to [[Budapest]] toy shops.  Magic Cube was held together with interlocking plastic pieces that were less expensive to produce than the magnets in Nichols's design.  In September 1979, a deal was signed with Ideal Toys to bring the Magic Cube to the Western world, and the puzzle made its international debut at the toy fairs of London, Paris, [[Nuremberg International Toy Fair|Nuremberg]] and New York in January and February 1980.
+[[Image:1980-Rubik's-Cube.jpg|150px|right|thumb|Packaging of Rubik's Cube, Toy of the year 1980- Ideal Toy Corp 1980, Made in Hungary.]]
+
+After its international debut, the progress of the Cube towards the toy shop shelves of the West was briefly halted so that it could be manufactured to [[Western world|Western]] safety and packaging specifications.  A lighter Cube was produced, and Ideal Toys decided to rename it. "[[Gordian Knot|The Gordian Knot]]" and "Inca Gold" were considered, but the company finally decided on "Rubik's Cube", and the first batch was exported from [[Hungary]] in May 1980.  Taking advantage of an initial shortage of Cubes, many cheap imitations appeared.
+
+Nichols assigned his patent to his employer Moleculon Research Corp., which sued Ideal Toy Company in 1982.  In 1984, Ideal lost the patent infringement suit and appealed.  In 1986, the appeals court affirmed the judgment that Rubik's 2×2×2 Pocket Cube infringed Nichols's patent, but overturned the judgment on Rubik's 3×3×3 Cube.<ref>[http://digital-law-online.info/cases/229PQ805.htm Moleculon Research Corporation v. CBS, Inc.]</ref>
+
+Even while Rubik's patent application was being processed, Terutoshi Ishigi, a self-taught engineer and ironworks owner near Tokyo, filed for a Japanese patent for a nearly identical mechanism, which was granted in 1976 (Japanese patent publication JP55-008192). Until 1999, when an amended [[Japanese patent law]] was enforced, Japan's patent office granted Japanese patents for non-disclosed technology within Japan without requiring worldwide [[Novelty (patent)|novelty]]<ref>http://www.wipo.int/clea/en/text_html.jsp?lang=EN&id=2657 Japan: Patents (PCT), Law (Consolidation), 26/04/1978 (22/12/1999), No. 30 (No. 220)</ref><ref>http://www.patents.jp/Archive/20030210-02.pdf Major Amendments to the Japanese Patent Law (since 1985)</ref>. Hence, Ishigi's patent is generally accepted as an independent reinvention at that time.<ref>
+{{cite book
+|author = Hofstadter, Douglas R.
+|title = Metamagical Themas
+|publisher = Basic Books
+|year = 1985
+}}Hofstadter gives the name as "Ishige".</ref><ref>http://cubeman.org/cchrono.txt</ref><ref>[http://inventors.about.com/library/weekly/aa040497.htm The History of Rubik's Cube - Erno Rubik<!-- Bot generated title -->]</ref>
+
+Rubik applied for another Hungarian patent on [[October 28]], [[1980]], and applied for other patents. In the United States, Rubik was granted {{US patent|4378116}} on [[March 29]], [[1983]], for the Cube.
+
+Around 1985, Greek inventor [[Panagiotis Verdes]] invented a method of creating cubes beyond the 5×5×5, up to 11×11×11, although he did not publish his designs at the time.<ref>[http://www.v-cubes.com/inventor.php]</ref> Later, in 2003, he decided to file for patents, and in 2004 he received the Greek Diploma of Invention No.&nbsp;1004581. As of 2008, he holds many patents in many countries for his designs. His designs include improved mechanisms for the 3×3×3, 4×4×4, and 5×5×5 which are suitable for [[speedcubing]], whereas other existing designs for cubes larger than 5×5×5 are prone to breaking.  As of June 19, 2008, the 5x5x5, 6x6x6, and 7x7x7 models are available for purchase from his online store.
+
+The Cube celebrated its twenty-fifth anniversary in 2005, when a special edition was released, featuring a sticker in the centre of the reflective face (which replaced the white face) with a "Rubik's Cube 1980-2005" logo, and different packaging.
+
+==Mechanics==
+
+[[Image:Disassembled-rubix-1.jpg|thumb|right|350px|Rubik's Cube partially disassembled.]]
+
+A standard cube measures 5.7 cm (approximately 2¼ inches) on each side. The puzzle consists of the twenty-six unique miniature cubes, also called "cubies" or "cubelets". However, the centre cube of each face is merely a single square façade; all are affixed to the core mechanisms.  These provide structure for the other pieces to fit into and rotate around. So there are twenty-one pieces: a single core piece consisting of three intersecting axes holding the six centre squares in place but letting them rotate, and twenty smaller plastic pieces which fit into it to form the assembled puzzle. The Cube can be taken apart without much difficulty, typically by turning one side through a 45° angle and prying an edge cube away from a centre cube until it dislodges. However, as prying loose a corner cube is a good way to break off a centre cube — thus ruining the Cube — it is far safer to lever a centre cube out using a screwdriver.  It is a very simple process to "solve" a Cube by taking it apart and reassembling it in a solved state. There are twelve edge pieces which show two coloured sides each, and eight corner pieces which show three colours. Each piece shows a unique colour combination, but not all combinations are present (for example, if red and orange are on opposite sides of the solved Cube, there is no edge piece with both red and orange sides). The location of these cubes relative to one another can be altered by twisting an outer third of the Cube 90°, 180° or 270°, but the location of the coloured sides relative to one another in the completed state of the puzzle cannot be altered: it is fixed by the relative positions of the centre squares and the distribution of colour. However, Cubes with alternative colour arrangements also exist; for example, they might have the yellow face opposite the green, and the blue face opposite the white (with red and orange opposite faces remaining unchanged).
+
+Douglas R. Hofstader, in the July 1982 issue of ''Scientific American'', pointed out that Cubes could be coloured in such a way as to emphasise the corners or edges, rather than the faces as the standard colouring does; but neither of these alternative colourings has ever become popular.
+
+==Mathematics==
+===Permutations===
+The original (3×3×3) Rubik's Cube has eight corners and twelve edges. There are [[factorial|8!]] ways to arrange the corner cubes. Seven can be oriented independently, and the orientation of the eighth depends on the preceding seven, giving 3<sup>7</sup> possibilities. There are 12!/2 ways to arrange the edges, since an odd permutation of the corners implies an odd permutation of the edges as well. Eleven edges can be flipped independently, with the flip of the twelfth depending on the preceding ones, giving 2<sup>11</sup> possibilities.<ref>Martin Schönert ''[http://www.gap-system.org/Doc/Examples/rubik.html "Analyzing Rubik's Cube with GAP"]'': the [[permutation group]] of Rubik's Cube is examined with [[GAP computer algebra system]]</ref> 
+:<math>  {8! \times 3^7 \times 12! \times 2^{10}} \approx 4.33 \times 10^{19}</math>
+
+There are exactly 43,252,003,274,489,856,000 possibilities, which is approximately forty-three [[quintillion]]. The puzzle is often advertised as having only "[[1000000000 (number)|billions]]" of positions, as the larger numbers could be regarded as incomprehensible to many. To put this into perspective, if every permutation of a 57-[[millimeter]] Rubik's Cube were lined up end to end, it would stretch out approximately 261 [[light years]]. Alternatively, if laid out on the ground, this is enough to cover the earth with Rubik's cubes 275 thick.
+
+The preceding figure is limited to permutations that can be reached solely by turning the sides of the cube. If one considers permutations reached through disassembly of the cube, the number becomes twelve times as large:
+:<math>  {8! \times 3^8 \times 12! \times 2^{12}} \approx 5.19 \times 10^{20}.</math>
+
+The full number is 519,024,039,293,878,272,000 or 519 [[quintillion]] possible arrangements of the pieces that make up the Cube, but only one in twelve of these are actually solvable. This is because there is no sequence of moves that will swap a single pair of pieces or rotate a single corner or edge cube. Thus there are twelve possible sets of reachable configurations, sometimes called "universes" or "[[orbit (group theory)|orbits]]", into which the Cube can be placed by dismantling and reassembling it.
+
+===Centre faces===
+The original Rubik's Cube had no orientation markings on the centre faces, although some carried the words "Rubik's Cube" on the centre square of the white face, and therefore solving it does not require any attention to orienting those faces correctly. However, if one has a marker pen, one could, for example, mark the central squares of an unscrambled Cube with four coloured marks on each edge, each corresponding to the colour of the adjacent face. Some Cubes have also been produced commercially with markings on all of the squares, such as the [[Lo Shu Square|Lo Shu]] [[magic square]] or [[playing card]] [[suit (cards)|suit]]s. Thus one can nominally solve a Cube yet have the markings on the centres rotated; it then becomes an additional test to solve the centers as well.
+
+Marking the Rubik's Cube increases its difficulty because this expands its set of distinguishable possible configurations.  When the Cube is unscrambled apart from the orientations of the central squares, there will always be an even number of squares requiring a quarter turn. Thus there are 4<sup>6</sup>/2 = 2,048 possible configurations of the centre squares in the otherwise unscrambled position, increasing the total number of possible Cube permutations from 43,252,003,274,489,856,000 (4.3×10<sup>19</sup>) to 88,580,102,706,155,225,088,000 (8.9×10<sup>22</sup>).
+
+===Algorithms===
+In Rubik's cubists' parlance, a memorized sequence of moves that has a desired effect on the cube is called an '''algorithm'''. This terminology is derived from the mathematical use of ''[[algorithm]]'', meaning a list of well-defined instructions for performing a task from a given initial state, through well-defined successive states, to a desired end-state. Different methods of solving the Rubik's cube each employ its own set of algorithms, together with descriptions of what the effect of the algorithm is, and when it can be used to bring the cube closer to being solved.
+
+Most algorithms are designed to transform only a small part of the cube without scrambling other parts that have already been solved, so that they can be applied repeatedly to different parts of the cube until the whole is solved. For example, there are well-known algorithms for cycling three corners without changing the rest of the puzzle, or flipping the orientation of a pair of edges while leaving the others intact.
+
+Some algorithms have a certain desired effect on the cube (for example, swapping two corners) but may also have the side-effect of changing other parts of the cube (such as permuting some edges). Such algorithms are often simpler than the ones without side-effects, and are employed early on in the solution when most of the puzzle has not yet been solved and the side-effects are not important. Towards the end of the solution, the more specific (and usually more complicated) algorithms are used instead, to prevent scrambling parts of the puzzle that have already been solved.
+
+==Move notation==
+[[Image:Rubik's cube.svg|thumb|right|200px|Rubik's Cube in a scrambled state.]]
+[[Image:Rubiks cube solved.jpg|thumb|right|200px|Rubik's Cube in solved state.]]
+
+Many 3×3×3 Rubik's Cube enthusiasts use a notation developed by David Singmaster to denote a sequence of moves. This is sometimes referred to as "cube notation" or in other literature "Singmaster notation".{{Fact|date=December 2008}} Its relative nature allows [[algorithms]] to be written in such a way that they can be applied regardless of which side is designated the top or how the colours are organized on a particular cube.
+
+*''F'' (Front): the side currently facing you
+*''B'' (Back): the side opposite the front
+*''U'' (Up): the side above or on top of the front side
+*''D'' (Down): the side opposite the top, underneath the Cube
+*''L'' (Left): the side directly to the left of the front
+*''R'' (Right): the side directly to the right of the front
+*''f'' (Front two layers): the side facing you and the corresponding middle layer
+*''b'' (Back two layers): the side opposite the front and the corresponding middle layer
+*''u'' (Up two layers) : the top side and the corresponding middle layer
+*''d'' (Down two layers) : the bottom layer and the corresponding middle layer
+*''l'' (Left two layers) : the side to the left of the front and the corresponding middle layer
+*''r'' (Right two layers) : the side to the right of the front and the corresponding middle layer
+*''x'' (rotate): rotate the Cube up
+*''y'' (rotate): rotate the Cube to the left
+*''z'' (rotate): rotate the Cube clockwise
+
+When a [[prime symbol|Prime (symbol)]] (&nbsp;′&nbsp;) follows a letter, it denotes face counter-clockwise, while a letter without an prime symbol denotes a clockwise turn. A letter followed by a 2 (occasionally a superscript ²) denotes two turns, or an 180-degree turn. ''R'' is right side clockwise, but ''R''' is right side counter-clockwise. The letters ''x'', ''y'', and ''z'' are used to indicate that the entire Cube should be turned about one of its axes. When ''x'', ''y'' or ''z'' are primed, it is an indication that the cube must be rotated in the opposite direction. When they are squared, the cube must be rotated twice.
+
+The 4×4×4 and larger cubes use an extended notation to refer to the additional middle layers. Generally speaking, uppercase letters (''F B U D L R'') refer to the outermost portions of the cube (called faces). Lowercase letters (''f b u d l r'') refer to the inner portions of the cube (called slices). For example: ''(Rr)' l2 f''' means to turn the two rightmost layers counterclockwise, then the left inner layer by a half-turn, and then the inner front layer counterclockwise.
+
+==Solutions==
+{{main|Optimal solutions for Rubik's Cube}}
+
+Although there is a significant number of possible permutations for the Rubik's Cube, there have been a number of solutions developed which allow for the cube to be solved in well under 100 moves.
+
+One method of solution was developed by [[David Singmaster]] and published in the book ''Notes on Rubik's "Magic Cube"'' in 1981. This solution involves solving the Cube layer by layer, in which one layer (designated the top) is solved first, followed by the middle layer, and then the final and bottom layer. After practice, solving the Cube layer by layer can be done in under one minute. Other general solutions include "corners first" methods or combinations of several other methods. In 1982, David Singmaster and Alexander Frey hypothesized that the number of moves needed to solve the Rubik's Cube, given an ideal algorithm, might be in "the low twenties".  In 2007, Daniel Kunkle and Gene Cooperman used computer search methods to demonstrate that any 3×3×3 Rubik's Cube configuration can be solved in a maximum of 26 moves.<ref name=D.Kunkle>{{cite conference
+  | first = D.
+  | last = Kunkle
+  | coauthors = Cooperman, C.
+  | title = Twenty-Six Moves Suffice for Rubik's Cube
+  | booktitle = Proceedings of the International Symposium on Symbolic and Algebraic Computation (ISSAC '07)
+  | year = 2007 
+  | publisher = ACM Press
+  | url = http://www.ccs.neu.edu/home/gene/papers/rubik.pdf
+}}</ref>
+<ref>{{cite conference
+  | last = KFC
+  | title = Rubik’s cube proof cut to 25 moves
+  | year = 2008 
+  | url = http://arxivblog.com/?p=332
+}}</ref>
+<ref>{{cite web
+|url=http://blog.sciencenews.org/mathtrek/2007/08/cracking_the_cube.html
+|title=Cracking the Cube
+|author=Julie J. Rehmeyer
+|publisher=MathTrek
+|accessdate=2007-08-09}}
+</ref>
+In 2008, Tomas Rokicki lowered the maximum to 22 moves.
+<ref>{{cite web
+|url=http://arxiv.org/abs/0803.3435
+|title=Twenty-Five Moves Suffice for Rubik's Cube
+|author=Tom Rokicki
+|accessdate=2008-03-24}}
+</ref>
+<ref>{{cite web
+|url=http://science.slashdot.org/article.pl?sid=08/06/05/2054249
+|title=Rubik's Cube Algorithm Cut Again, Down to 23 Moves
+|publisher=[http://slashdot.org ''Slashdot'']
+|accessdate=2008-06-05}}
+</ref>
+<ref>{{cite web
+|url=http://cubezzz.homelinux.org/drupal/?q=node/view/121
+|title=Twenty-Two Moves Suffice
+|author=Tom Rokicki
+|accessdate=2008-08-20}}
+</ref>
+
+Another common solution was developed by [[Jessica Fridrich]]. It is an efficient layer-by-layer method that employs the use of a large number of algorithms, especially for orienting and permuting the last layer.{{Fact|date=December 2008}} The first-layer corners and second layer are done simultaneously, with each corner paired up with a second-layer edge piece. [[Fridrich Method|Fridrich's solution]] requires learning roughly 120 algorithms but allows the Cube to be solved in only 55 moves on average. 
+
+Philip Marshall's solution is a modified version of Fridrich's method, averaging only 65 twists yet requiring the memorization of only ''two'' algorithms<ref>Philip Marshall (2005), [http://helm.lu/cube/MarshallPhilipp/ The Ultimate Solution to Rubik's Cube].</ref>.
+
+A solution developed by Ryan Heise teaches a set of underlying principles that can be used to solve the Cube in fewer than 40 moves.{{Fact|date=December 2008}}
+
+A now well-known method was developed by [[Lars Petrus]]. In this method, a 2×2×2 section is solved first, followed by a 2×2×3, and then the incorrect edges are solved using a three-move algorithm, which eliminates the need for a possible 32-move algorithm later. One of the advantages of this method is that it tends to give solutions in fewer moves. For this reason, the method is also popular for fewest move competitions.{{Fact|date=December 2008}}
+
+A number of complete solutions can also be found in some of the books listed in the bibliography.
+
+==Speedcubing competitions==
+[[Speedcubing]] (or speedsolving) is the practice of trying to solve a Rubik's Cube in the shortest time possible. There are a number of speedcubing competitions that take place around the world. 
+
+The first world championship organized by the ''Guinness Book of World Records'' was held in [[Munich]] on [[March 13]], [[1981]]. All Cubes were moved 40 times and lubricated with [[petroleum jelly]]. The official winner, with a record of 38 seconds, was Jury Froeschl, born in [[Munich]]. The first international world championship was held in [[Budapest]] on [[June 5]], [[1982]], and was won by [[Minh Thai]], a Vietnamese student from [[Los Angeles, California|Los Angeles]], with a time of 22.95 seconds.
+
+Since 2003, competitions are decided by the best average (middle three of five attempts); but the single best time of all tries is also recorded. 
+The [[World Cube Association]] maintains a history of world records
+<ref>
+{{cite web
+|title=World Cube Association Official Results
+|publisher=[http://www.worldcubeassociation.org/ ''World Cube Association'']
+|url=http://www.worldcubeassociation.org/results/regions.php?regionId=&eventId=333&years=&history=History
+|accessdate=2008-02-16}}
+</ref>. 
+In 2004, the WCA made it mandatory to use a special timing device called a [[Stackmat timer]].
+
+In addition to official competitions, informal alternative competitions have been held which invite participants to solve the Cube in unusual situations. Some such situations include:
+*Blindfolded solving<ref>[http://www.worldcubeassociation.org/results/events.php?eventId=333bf&regionId=&years=&show=100%2BPersons&single=Single Rubik's 3x3x3 Cube: Blindfolded records]</ref>
+*Solving the Cube with one person blindfolded and the other person saying what moves to do, known as "Team Blindfold"
+*Solving the Cube underwater in a single breath<ref>[http://www.speedcubing.com/records/recs_fun_underwater.html Rubik's Cube 3x3x3: Underwater]</ref>
+*Solving the Cube using a single hand<ref>[http://www.worldcubeassociation.org/results/events.php?eventId=333oh&regionId=&years=&show=100%2BPersons&single=Single Rubik's 3x3x3 Cube: One-handed]</ref>
+*Solving the Cube with one's feet<ref>[http://www.worldcubeassociation.org/results/events.php?eventId=333ft&regionId=&years=only%2B2006&show=100%2BPersons&single=Single Rubik's 3x3x3 Cube: With feet]</ref>
+Of these informal competitions, the World Cube Association only sanctions blindfolded, one-handed, and feet solving as official competition events.<ref>{{cite web
+|url=http://www.worldcubeassociation.org/regulations/#events
+|title=Competition Regulations, Article 9: Events
+|publisher=World Cube Association 
+|date = 2008-04-09
+|accessdate=2008-04-16}}</ref>
+
+===Record times===
+The [http://www.worldcubeassociation.org/results/regions.php current world record] for single time on a 3x3x3 Rubik's Cube was set by [[Erik Akkersdijk]] in 2008, who had a best time of 7.08 seconds at the Czech Open 2008. He also holds the record for 4x4x4 cube.{{Fact|date=December 2008}} The world record average solve is by [[Yu Nakajima]], when he set a world record average of 11.28 seconds at the Kashiwa Open on [[May 4]], [[2008]].{{Fact|date=December 2008}}
+
+==Other Records==
+On December 20th, 2008 96 people in Santa Ana, CA broke the Guiness World Record for most people solving a Rubik's cube at once.<ref>[http://www.ocregister.com/articles/record-puzzle-costa-2262658-saturday-mesa OC Register Article - Rubik's Cube Record]</ref>. The previous record was 75 people by a group in Atlanta, GA. The 76th participant to solve a cube in the Santa Ana event and officially break the previous record was Tim O'Nan of Costa Mesa, CA.<ref>[http://www.ocregister.com/articles/record-puzzle-costa-2262658-saturday-mesa OC Register Article - Rubik's Cube Record]</ref>
+
+==Rubik's cube variations==
+[[Image:Rubik's Cube variants.jpg|250px|right|thumb|Variations of Rubik's Cubes, clockwise from upper left: [[V-Cube 7]], [[Professor's Cube]], [[V-Cube 6]], [[Pocket Cube]], original Rubik's Cube, [[Rubik's Revenge]].]]
+There are different variations of Rubik's Cubes with up to seven layers: the 2×2×2 ([[Pocket Cube]] and other variants), the standard 3×3×3 cube, the 4×4×4 ([[Rubik's Revenge]], or Master Cube), and the 5×5×5 ([[Professor's Cube]]), the 6x6x6 ([[V-Cube 6]]), and 7x7x7 ([[V-Cube 7]]). 
+
+The Cube has also inspired an entire category of similar puzzles, commonly referred to as ''[[Combination puzzles|twisty puzzles]]'', which includes the cubes of different sizes mentioned above as well as various other geometric shapes. Some such shapes include the [[tetrahedron]] ([[Pyraminx]]), the [[octahedron]] ([[Skewb Diamond]]), the [[dodecahedron]] ([[Megaminx]]), and the [[icosahedron]] ([[Dogic]]). 
+
+===Custom built puzzles===
+In the past, puzzles have been built resembling the Rubik's Cube or based on its inner workings. For example, a cuboid is a puzzle based off the Rubik's Cube, but with different functional dimensions, such as, 2x3x4, 3x3x5, or 2x2x4. Many cuboids are based on 4x4x4 or 5x5x5 mechanisms, via building plastic extensions or by directly modifying the mechanism itself. 
+
+Some custom puzzles are not derived from any existing mechanism, such as the [[Gigaminx]] v1.5-v2, [[Bevel Cube]], [[SuperX]], [[Toru]], [[Rua]], and 1x2x3. These puzzles usually have a set of masters 3D printed, which then are copied using molding and casting techniques to create the final puzzle.
+
+Other Rubik's Cube modifications include cubes that have been extended or truncated to form a new shape. An example of this is the Trabjer's Octahedron, which can be built by truncating and extending portions of a regular 3x3. Most shape mods can be adapted to higher-order cubes. In the case of Tony Fisher's Rhombic Dodecahedron, there are 3x3, 4x4, 5x5, and 6x6 versions of the puzzle.
+
+===Mèffert's Puzzles===
+Mèffert's Puzzles is a well known distributor of twisty puzzles. Founded by [[Uwe Mèffert]], Mèffert's Puzzles has carried many unique puzzles over the years. 
+
+Mèffert's products include the [[Pyramorphix]], which is [[isomorphic]] with the Pocket Cube but has the shape of a [[tetrahedron]] (four of the Pocket Cube's corners have been turned into tetrahedra, the other four into flat triangles).  This makes the Pyramorphix somewhat more difficult to solve than the Pocket Cube, as the isomorphism is not obvious. Mèffert has also been a long time producer of the [[Pyraminx]], another tetrahedral twisty puzzle. More unique puzzles he has produced over the years include the [[Pyraminx Crystal]], [[Impossiball]], [[Megaminx]], [[Skewb]], and variations of the Skewb.
+
+==Rubik's Cube software==
+
+[[Image:4-cube 4^4.png|thumb|4-cube 4x4x4x4 virtual puzzle]]
+
+There are several{{Fact|date=December 2008}} software packages available which allow users to manipulate Rubik's Cubes in various ways. Some such software can handle not only the 3×3×3 cube, but N-dimensional puzzles which are impractical to build, such as 100x100x100 and 1000x1000x1000 cubes.
+
+Additional functions included in some Rubik's Cube simulation software are the recording of player metrics, storage of scrambled Cube positions, and online competition. Graphical programs can generate a static image or animate the Cube and its motions, e.g. using [[Java_(software_platform)|Java]] or Flash. Programs may also analyze sequences of moves and transform them to other notations or give player metrics.
+
+== Popular culture ==
+* In the 2000 comedy [[Dude, Where's my Car?]] the "continuum transfunctioner" that will destroy the universe appears to be a Rubik's Cube, being activated by one of the main characters as a result of solving it.
+ 	
+* In the 2004 comedy [[Anchorman: The Legend of Ron Burgundy]], Brian Fantana (character played by [[Paul Rudd]]), portrayed through much of the movie to be dim-witted, has a 2x2x2 Rubik's Cube on his desk.
+ 	
+* In the 2007 movie [[The Pursuit of Happyness]], [[Chris Gardner]] (character played by [[Will Smith]]) impresses his future employer by solving a Rubik's Cube.
+ 	
+* In the 2008 [[Walt Disney Pictures|Disney]] movie, [[Wall-E]] the main character shows the Rubik's Cube to EVE among other typical objects on Earth, and she quickly solves it.
+ 	
+* Three episodes of [[The Simpsons]] have briefly touched on Rubik's Cubes. In season 3 episode [[Homer Defined]], Homer is seen being distracted by a Rubiks cube during his Nuclear power training, making him forget how to stop an impending meltdown. In season 8 episode [[Hurricane Neddy]], the family waits in the basement during a hurricane and tries to solve a Rubik's Cube to pass the time. When they start to argue over which way to turn it first, Marge throws it away in frustration, saying "Now I remember why we put this down here in the first place!". In season 12 episode [[HOMR]], Homer has a crayon removed from his brain, increasing his IQ level. In one point of the episode, he solves a number of Rubik's Cubes in a basket while watching television.
+
+==See also==
+
+*[[Combination puzzles]]
+*[[N-dimensional sequential move puzzles]]
+*''[[Rubik, the Amazing Cube]]''
+
+==References==
+{{refbegin}}
+*''Cube Games'' by Don Taylor & Leanne Rylands 
+*''Four-Axis Puzzles'' by Anthony E. Durham.
+*''Handbook of Cubik Math'' by Alexander H. Frey, Jr. and David Singmaster
+*''Mathematics of the Rubik's Cube Design'' by [[Hana M. Bizek]]; ISBN 0-8059-3919-9
+*''Mastering Rubik's Cube'' by Don Taylor
+*''Metamagical Themas'' by [[Douglas R. Hofstadter]] contains two insightful chapters regarding Rubik's Cube and similar puzzles, "Magic Cubology" and "On Crossing the Rubicon", originally published as articles in the March 1981 and July 1982 issues of ''Scientific American''; ISBN 0-465-04566-9
+*''Notes on Rubik's 'Magic Cube' '' by David Singmaster; ISBN 0-89490-043-9
+*''Rubik's Cube Made Easy'' by Jack Eidswick, Ph.D.
+*''The Simple Solution To Rubik's Cube'' by James Nourse
+*''Speedsolving The Cube'' by Dan Harris
+*''[http://www.village.demon.co.uk/cairns/ZIP/TeachYourselfCubeBashing_CC_DG_sep1979.pdf Teach yourself cube-bashing]'', a layered solution by Colin Cairns and Dave Griffiths, from September 1979, cited by Singmaster's 'Notes on Rubik's Magic Cube'
+*''Unscrambling The Cube'' by M. Razid Black & Herbert Taylor, Introduction by Professor Solomon W. Golomb
+{{refend}}
+
+==Notes==
+{{reflist|2}}
+
+==External links==
+{{commonscat|Rubik's cube}}
+* {{dmoz|Games/Puzzles/Mechanical/Rubik}}
+* [http://www.rubiks.com/ Rubik's official site]
+* [http://www.worldcubeassociation.org World Cube Association (WCA)]
+* [http://www.speedcubing.com Speedcubing.com]
+* [http://www.wikihow.com/Solve-a-Rubik%27s-Cube-(Easy-Move-Notation) How to Solve a Rubik’s Cube]
+* [http://www.helm.lu/gallery2/main.php?g2_itemId=9236 More than 2,000 cubes and cubelike puzzles] 
+{{Rubik's Cube}}
+
+[[Category:Rubik's Cube| ]]
+[[Category:Combination puzzles]]
+[[Category:Mechanical puzzles]]
+[[Category:Puzzles]]
+[[Category:Spiel des Jahres winners]]
+[[Category:Educational toys]]
+[[Category:1980s fads]]
+[[Category:Toys of the 1980s]]
+[[Category:Hungarian inventions]]
+[[Category:1974 introductions]]
+
+{{Link FA|tr}}
+[[ar:مكعب روبيك]]
+[[bn:রুবিক্‌স কিউব]]
+[[bg:Куб на Рубик]]
+[[ca:Cub de Rubik]]
+[[cs:Rubikova kostka]]
+[[da:Rubiks terning]]
+[[de:Zauberwürfel]]
+[[es:Cubo de Rubik]]
+[[eo:Kubo de Rubik]]
+[[eu:Rubiken kuboa]]
+[[fa:مکعب روبیک]]
+[[fr:Rubik's Cube]]
+[[gl:Cubo de Rubik]]
+[[zh-classical:魔方]]
+[[ko:루빅스 큐브]]
+[[id:Kubus Rubik]]
+[[it:Cubo di Rubik]]
+[[he:קובייה הונגרית]]
+[[kk:Рубик текшесі]]
+[[la:Cubus Rubik]]
+[[lb:Rubik's Cube]]
+[[lt:Rubiko kubas]]
+[[hu:Rubik-kocka]]
+[[mk:Рубикова коцка]]
+[[ms:Kiub Rubik]]
+[[nl:Rubiks kubus]]
+[[ja:ルービックキューブ]]
+[[no:Rubiks kube]]
+[[pl:Kostka Rubika]]
+[[pt:Cubo de Rubik]]
+[[ro:Cubul Rubik]]
+[[ru:Кубик Рубика]]
+[[simple:Rubik's Cube]]
+[[sk:Rubikova kocka]]
+[[sl:Rubikova kocka]]
+[[sr:Рубикова коцка]]
+[[fi:Rubikin kuutio]]
+[[sv:Rubiks kub]]
+[[tl:Kubo ni Rubik]]
+[[ta:ரூபிக்ஸ் கியூப்]]
+[[te:రూబిక్స్ క్యూబ్]]
+[[th:ลูกบาศก์ของรูบิค]]
+[[vi:Lập phương Rubik]]
+[[tr:Rubik Küpü]]
+[[uk:Кубик Рубика]]
+[[wuu:魔方]]
+[[zh-yue:扭計骰]]
+[[zh:魔方]]

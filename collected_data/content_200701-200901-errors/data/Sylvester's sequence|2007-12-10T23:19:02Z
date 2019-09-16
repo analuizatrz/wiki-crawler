@@ -1,0 +1,361 @@
+[[Image:Sylvester-square.svg|thumb|300px|Graphical demonstration of the convergence of the sum 1/2 + 1/3 + 1/7 + 1/43 + ... to 1. Each row of ''k'' squares of side length 1/''k'' has total area 1/''k'', and all the squares together exactly cover a larger square with area 1. Squares with side lengths 1/1807 or smaller are too small to see in the figure and are not shown.]]
+In [[number theory]], '''Sylvester's sequence''' is a [[sequence]] of [[integer]]s in which each member of the sequence is the product of the previous members, plus one. The first few terms of the sequence are:
+:[[2 (number)|2]], [[3 (number)|3]], [[7 (number)|7]], [[43 (number)|43]], 1807, 3263443, 10650056950807, 113423713055421844361000443 {{OEIS|id=A000058}}.
+
+Sylvester's sequence is named after [[James Joseph Sylvester]], who first investigated it in 1880. Its values grow [[Double exponential function|doubly exponentially]], and the sum of its [[Reciprocal (mathematics)|reciprocal]]s forms a [[Series (mathematics)|series]] of [[unit fraction]]s that converges to 1 more rapidly than any other series of unit fractions with the same sum. The [[recurrence relation|recurrence]] by which it is defined allows the numbers in the sequence to be [[integer factorization|factored]] more easily than other numbers of the same magnitude, but, due to the rapid growth of the sequence, complete prime factorizations are known only for a few of its members. Values derived from this sequence have also been used to construct finite [[Egyptian fraction]] representations of 1, [[Sasakian manifold|Sasakian]] [[Einstein manifold]]s, and hard instances for [[online algorithm]]s.
+
+== Formal definitions ==
+
+Formally, Sylvester's sequence can be defined by the formula
+:<math>s_n = 1 + \prod_{i = 0}^{n - 1} s_i.</math>
+The [[empty product|product of an empty set]] is 1, so ''s''<sub>0</sub> = 2. 
+
+Alternatively, one may define the sequence by the [[recurrence relation|recurrence]]
+:<math>\displaystyle s_i = s_{i-1}(s_{i-1}-1)+1,</math> with ''s''<sub>0</sub> = 2.
+It is straightforward to show by induction that this is equivalent to the other definition.
+
+== Connection with Egyptian fractions ==
+
+The [[unit fraction]]s formed by the [[Multiplicative inverse|reciprocal]]s of the values in Sylvester's sequence generate an [[Series (mathematics)|infinite series]]:
+:<math>\sum_{i=0}^{\infty} \frac1{s_i} = \frac12 + \frac13 + \frac17 + \frac1{43} + \frac1{1807} + \cdots</math>
+The partial sums of this series have a simple form,
+:<math>\sum_{i=0}^{j-1} \frac1{s_i} = \frac{s_j-2}{s_j-1},</math>
+as may be proved by induction. Clearly this identity is true for ''j'' = 0, as both sides are zero. For larger ''j'', expanding the left side of the identity using the induction hypothesis produces
+:<math>\sum_{i=0}^{j-1} \frac1{s_i} = \frac1{s_{j-1}}+\sum_{i=0}^{j-2} \frac1{s_i} = \frac1{s_{j-1}}+\frac{s_{j-1}-2}{s_{j-1}-1} = \frac{s_{j-1}(s_{j-1}-1)-1}{s_{j-1}(s_{j-1}-1)} = \frac{s_j-2}{s_j-1},</math>
+as was to be proved. Since this sequence of partial sums (''s''<sub>''j''</sub>-2)/(''s''<sub>''j''</sub>-1) converges to one, the overall series forms an infinite [[Egyptian fraction]] representation of the number one:
+:<math>1 = \frac12 + \frac13 + \frac17 + \frac1{43} + \frac1{1807} + \cdots</math>
+One can find finite Egyptian fraction representations of one, of any length, by truncating this series and subtracting one from the last denominator:
+:<math>1 = \tfrac12 + \tfrac13 + \tfrac16, \quad 1 = \tfrac12 + \tfrac13 + \tfrac17 + \tfrac1{42}, \quad 1 = \tfrac12 + \tfrac13 + \tfrac17 + \tfrac1{43} + \tfrac1{1806},\quad \dots</math>
+The sum of the first ''k'' terms of the infinite series provides the closest possible underestimate of 1 by any ''k''-term Egyptian fraction.<ref>This claim is commonly attributed to Curtiss (1922), but Miller (1919) appears to be making the same statement in an earlier paper. See also Rosenman (1933), Salzer (1947), and Soundararajan (2005).</ref> For example, the first four terms add to 1805/1806, and therefore any Egyptian fraction for a number in the open interval (1805/1806,1) requires at least five terms.
+
+It is possible to interpret the Sylvester sequence as the result of a [[greedy algorithm for Egyptian fractions]], that at each step chooses the smallest possible denominator that makes the partial sum of the series be less than one. Alternatively, the terms of the sequence after the first can be viewed as the denominators of the [[odd greedy expansion]] of 1/2.
+
+== Closed form formula and asymptotics ==
+
+The Sylvester numbers grow [[double exponential function|doubly exponentially]] as a function of ''n''. Specifically, it can be shown that
+
+:<math>s_n = \left\lfloor E^{2^{n+1}}+\frac12 \right\rfloor,</math>
+
+for a number ''E'' that is approximately 1.264.<ref>Graham, Knuth, and Patashnik (1989) set this as an exercise; see also Golomb (1963).</ref> This formula has the effect of the following [[algorithm]]:
+:s<sub>0</sub> is the nearest integer to E<sup>2</sup>; s<sub>1</sub> is the nearest integer to E<sup>4</sup>; s<sub>2</sub> is the nearest integer to E<sup>8</sup>; for  s<sub>''n''</sub>, take E<sup>2</sup>, square it ''n'' more times, and take the nearest integer. 
+This would only be a practical algorithm if we had a better way of calculating E to the requisite number of places than calculating s<sub>''n''</sub> and taking its repeated square root.
+
+The double-exponential growth of the Sylvester sequence is unsurprising if one compares it to the sequence of [[Fermat number]]s ''F''<sub>''n''</sub>; the Fermat numbers are usually defined by a doubly exponential formula, <math>2^{2^n}+1</math>, but they can also be defined by a product formula very similar to that defining Sylvester's sequence:
+
+:<math>F_n = 2 + \prod_{i = 0}^{n - 1} F_i.</math>
+
+== Uniqueness of quickly growing series with rational sums ==
+
+As Sylvester himself observed, Sylvester's sequence seems to be unique in having such quickly growing values, while simultaneously having a series of reciprocals that converges to a rational number.
+
+To make this more precise, it follows from results of Badea (1993) that, if a sequence of integers <math>a_n</math> grows quickly enough that
+:<math>a_n\ge a_{n-1}^2-a_{n-1}+1,</math>
+and if the series
+:<math>A=\sum\frac1{a_i}</math>
+converges to a rational number ''A'', then, for all  ''n'' after some point, this sequence must be defined by the same recurrence
+:<math>a_n= a_{n-1}^2-a_{n-1}+1</math>
+that can be used to define Sylvester's sequence.
+
+[[Paul Erdős|Erdős]] (1980) [[Erdős conjecture|conjectured]] that, in results of this type, the inequality bounding the growth of the sequence could be replaced by a weaker condition,
+:<math>\lim_{n\rightarrow\infty} \frac{a_n}{a_{n-1}^2}=1.</math>
+Badea (1995) surveys progress related to this conjecture; see also Brown.
+
+== Divisibility and factorizations ==
+
+If ''i'' < ''j'', it follows from the definition that ''s''<sub>''j''</sub> ≡ 1 (mod ''s''<sub>''i''</sub>). Therefore, every two numbers in Sylvester's sequence are [[relatively prime]]. The sequence can be used to prove that there are infinitely many [[prime number]]s, as any prime can divide at most one number in the sequence.
+
+Some effort has been expended in an attempt to factor the numbers in Sylvester's sequence, but much remains unknown about their factorization. For instance, it is not known if all numbers in the sequence are [[squarefree]], although all the known terms are.
+
+As Vardi (1991) describes, it is easy to determine which Sylvester number (if any) a given prime ''p'' divides: simply compute the recurrence defining the numbers modulo ''p'' until finding either a number that is congruent to zero (mod ''p'') or finding a repeated modulus.  Via this technique he found that 1166 out of the first three million primes are divisors of Sylvester numbers,<ref>This appears to be a typo, as Andersen finds 1167 prime divisors in this range.</ref> and that none of these primes has a square that divides a Sylvester number. A general result of Jones (2006) implies that the set of prime factors of Sylvester numbers has density zero in the set of all primes.
+
+The following table shows known factorizations of these numbers, (except the first four, which are all prime):<ref>All prime factors ''p'' of Sylvester numbers ''s''<sub>''n''</sub> with ''p'' &lt; 5&times;10<sup>7</sup> and ''n'' ≤ 200 are listed by Vardi. Ken Takusagawa lists the [http://kenta.blogspot.com/2006/01/factoring-sylvesters-sequence.html factorizations up to ''s''<sub>9</sub>] and the [http://kenta.blogspot.com/2006/04/sylvester-10th-factored.html factorization of ''s''<sub>10</sub>]. The remaining factorizations are from  [http://hjem.get2net.dk/jka/math/sylvester-factors.htm a list of factorizations of Sylvester's sequence] maintained by Jens Kruse Andersen, retrieved October 2, 2007.</ref>
+
+{| class="wikitable"
+! ''n''
+! Factors of ''s''<sub>''n''</sub>
+|-
+|4
+|13 × 139
+|-
+|5
+|3263443, which is prime
+|-
+|6
+|547 × 607 × 1033 × 31051
+|-
+|7
+|29881 × 67003 × 9119521 × 6212157481
+|-
+|8
+|5295435634831 × 31401519357481261 × 77366930214021991992277
+|-
+|9
+|[[181 (number)|181]] × 1987 × 112374829138729 × 114152531605972711 × P68
+|-
+|10
+|2287 × 2271427 × 21430986826194127130578627950810640891005487 × P156
+|-
+|11
+|[[73 (number)|73]] × C416
+|-
+|12
+|2589377038614498251653 × 2872413602289671035947763837 × C785
+|-
+|13
+|52387 × 5020387 × 5783021473 × 401472621488821859737 × 287001545675964617409598279 × C1600
+|-
+|14
+|13999 × 74203 × 9638659 × 57218683 × 10861631274478494529 × C3293
+|-
+|15
+|17881 × 97822786011310111 × C6649
+|-
+|16
+|128551 × C13335
+|-
+|17
+|635263 × 1286773 × 21269959 × C26661
+|-
+|-
+|18
+|50201023123 × 139263586549 × C53339 
+|-
+|19
+|C106721
+|-
+|20
+|352867 × 6210298470888313 × C213419
+|-
+|21
+|387347773 × 1620516511 × C426863
+|-
+|22
+|91798039513 × C853750
+|}
+
+As is customary, P''n'' and C''n'' denote prime and composite numbers ''n'' digits long.
+
+== Applications ==
+
+Boyer et al. (2005) use the properties of Sylvester's sequence to define large numbers of [[Sasakian manifold|Sasakian]] [[Einstein manifold]]s having the [[differential topology]] of odd-dimensional [[hypersphere|spheres]] or [[exotic sphere]]s. They show that the number of distinct Sasakian Einstein [[Riemannian metric|metrics]] on a [[topological sphere]] of dimension 2''n'' &minus; 1 is at least proportional to ''s''<sub>''n''</sub> and hence has double exponential growth with ''n''.
+
+As Galambos and Woeginger (1995) describe, Brown (1979) and Liang (1980) used values derived from Sylvester's sequence to construct lower bound examples for [[online algorithm|online]] [[bin packing]] [[algorithm]]s. Seiden and Woeginger (2005) similarly use the sequence to lower bound the performance of a two-dimensional cutting stock algorithm.<ref>In their work, Seiden and Woeginger refer to Sylvester's sequence as "Salzer's sequence" after Salzer's (1947) paper on closest approximation.</ref>
+
+[[Znám's problem]] concerns sets of numbers such that each number in the set divides but is not equal to the product of all the other numbers, plus one. Without the inequality requirement, the values in Sylvester's sequence would solve the problem; with that requirement, it has other solutions derived from recurrences similar to the one defining Sylvester's sequence. Solutions to Znám's problem have applications to the classification of surface singularities (Brenton and Hill 1988) and to the theory of [[nondeterministic finite automata]] (Domaratzki et al. 2005).
+
+Curtiss (1922) describes an application of the closest approximations to one by ''k''-term sums of unit fractions, in lower-bounding the number of divisors of any [[perfect number]], and Miller (1919) uses the same property to lower bound the size of certain groups.
+
+== See also ==
+
+* [[Cahen's constant]]
+* [[Primary pseudoperfect number]]
+
+== Footnotes ==
+
+<references/>
+
+== References ==
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+* {{cite journal
+  | author = Badea, Catalin
+  | title = A theorem on irrationality of infinite series and applications
+  | year = 1993
+  | journal = [[Acta Arithmetica]]
+  | volume = 63
+  | pages = 313–323
+  | id = {{MathSciNet | id = 1218459}}}}
+
+* {{cite web
+  | author = Badea, Catalin
+  | title = On some criteria for irrationality for series of positive rationals: a survey
+  | year = 1995
+  | url = http://www.lacim.uqam.ca/~plouffe/OEIS/citations/caen.pdf}}
+
+* {{cite journal
+  | author = Boyer, Charles P.; Galicki, Krzysztof; Kollár, János
+  | title = Einstein metrics on spheres
+  | journal = [[Annals of Mathematics]]
+  | volume = 162
+  | issue = 1
+  | year = 2005
+  | pages = 557–580
+  | id = {{arxiv | archive = math.DG | id = 0309408}} {{MathSciNet | id = 2178969}}
+  | url = http://projecteuclid.org/Dienst/UI/1.0/Summarize/euclid.annm/1134073591}}
+
+* {{cite journal
+  | author = Brenton, Lawrence and Hill, Richard
+  | title = On the Diophantine equation 1=&Sigma;1/''n''<sub>''i''</sub> + 1/&Pi;''n''<sub>''i''</sub> and a class of homologically trivial complex surface singularities
+  | journal = [[Pacific Journal of Mathematics]]
+  | url = http://projecteuclid.org/Dienst/UI/1.0/Summarize/euclid.pjm/1102689567
+  | volume = 133
+  | issue = 1
+  | year = 1988
+  | pages = 41–67
+  | id = {{MathSciNet | id = 0936356}}}}
+
+* {{cite paper
+  | author = Brown, D. J.
+  | title = A lower bound for on-line one-dimensional bin packing algorithms
+  | version = Tech. Rep. R-864
+  | date = 1979
+  | publisher = Coordinated Science Lab., Univ. of Illinois, Urbana-Champaign}}
+
+* {{cite journal
+  | author = Curtiss, D. R.
+  | title = On Kellogg's diophantine problem
+  | journal = [[American Mathematical Monthly]]
+  | url = http://www.jstor.org/view/00029890/di991049/99p2492v/0
+  | volume = 29
+  | year = 1922
+  | pages = 380–387}}
+
+* {{cite journal
+  | author = Domaratzki, Michael; Ellul, Keith; [[Jeffrey Shallit|Shallit, Jeffrey]]; Wang, Ming-Wei
+  | title = Non-uniqueness and radius of cyclic unary NFAs
+  | journal = International Journal of Foundations of Computer Science
+  | volume = 16
+  | issue = 5
+  | pages = 883–896
+  | year = 2005
+  | url = http://www.cs.umanitoba.ca/~mdomarat/pubs/DESW_dcfs.ps 
+  | id = {{MathSciNet | id = 2174328}}
+  | doi = 10.1142/S0129054105003352}}
+
+* {{cite book
+  | author = [[Paul Erdős|Erdős, Paul]] and [[Ronald Graham|Graham, Ronald L.]]
+  | year = 1980
+  | title = Old and new problems and results in combinatorial number theory
+  | publisher = Monographies de L'Enseignement Mathématique, No. 28, Univ. de Genève
+  | id = {{MathSciNet | id = 0592420}}}}
+
+* {{cite journal
+  | author = Galambos, Gábor; Woeginger, Gerhard J.
+  | title = On-line bin packing — A restricted survey
+  | journal = Mathematical Methods of Operations Research
+  | volume = 42
+  | issue = 1
+  | year = 1995
+  | doi = 10.1007/BF01415672
+  | id = {{MathSciNet | id = 1346486}}}}
+
+* {{cite journal
+  | author = Golomb, Solomon W.
+  | authorlink = Solomon Golomb
+  | title = On certain nonlinear recurring sequences
+  | year = 1963
+  | journal = [[American Mathematical Monthly]]
+  | volume = 70
+  | issue = 4
+  | pages = 403–405
+  | url = http://www.jstor.org/view/00029890/di991478/99p1225u/0
+  | id = {{MathSciNet | id = 0148605}}}}
+
+* {{cite book
+  | author = [[Ron Graham|Graham, R.]]; [[Donald Knuth|Knuth, D. E.]]; Patashnik, O.
+  | title = Concrete Mathematics
+  | edition = 2nd ed.
+  | year = 1989
+  | publisher = Addison-Wesley
+  | pages = Exercise 4.37
+  | id = ISBN 0-201-55802-5}}
+
+* {{cite journal
+  | author = Jones, Rafe
+  | title = The density of prime divisors in the arithmetic dynamics of quadratic polynomials
+  | year = 2006
+  | id = {{arxiv | archive = math.NT | id = 0612415}}}}
+
+* {{cite journal
+  | author = Liang, Frank M.
+  | title = A lower bound for on-line bin packing
+  | year = 1980
+  | journal = Information Processing Letters
+  | volume = 10
+  | issue = 2
+  | pages = 76–79
+  | id = {{MathSciNet | id = 0564503}}
+  | doi = 10.1016/S0020-0190(80)90077-0}}
+
+* {{cite journal
+  | author = Miller, G. A.
+  | title = Groups possessing a small number of sets of conjugate operators
+  | journal = [[Transactions of the American Mathematical Society]]
+  | year = 1919
+  | volume = 20
+  | issue = 3
+  | pages = 260–270
+  | url = http://www.jstor.org/view/00029947/di962842/96p0139s/0}}
+
+* {{cite journal
+  | author = Rosenman, Martin
+  | title = Problem 3536
+  | journal = [[American Mathematical Monthly]]
+  | volume = 40
+  | issue = 3
+  | year = 1933
+  | pages = 180
+  | url = http://www.jstor.org/view/00029890/di991156/99p06113/0}}
+
+* {{cite journal
+  | author = Salzer, H. E.
+  | journal = [[American Mathematical Monthly]]
+  | year = 1947
+  | title = The approximation of numbers as sums of reciprocals
+  | volume = 54
+  | issue = 3
+  | pages = 135–142
+  | url = http://www.jstor.org/view/00029890/di991304/99p0855u/0
+  | id = {{MathSciNet | id = 0020339}}}}
+
+* {{cite journal
+  | author = Seiden, Steven S.; Woeginger, Gerhard J.
+  | title = The two-dimensional cutting stock problem revisited
+  | journal = Mathematical Programming
+  | volume = 102
+  | issue = 3
+  | year = 2005
+  | pages = 519–530
+  | doi = 10.1007/s10107-004-0548-1
+  | id = {{MathSciNet | id = 2136225}}}}
+
+* {{cite journal
+  | author = Soundararajan, K.
+  | year = 2005
+  | title = Approximating 1 from below using ''n'' Egyptian fractions
+  | id = {{arxiv|archive = math.CA|id = 0502247}}}}
+
+* {{cite journal
+  | author = Sylvester, J. J.
+  | authorlink = J. J. Sylvester
+  | title = On a point in the theory of vulgar fractions
+  | url = http://www.jstor.org/view/00029327/di994061/99p0133w/0
+  | journal = [[American Journal of Mathematics]]
+  | volume = 3
+  | issue = 4
+  | year = 1880
+  | pages = 332–335}}
+
+* {{cite book
+  | author = Vardi, Ilan
+  | title = Computational Recreations in Mathematica
+  | year = 1991
+  | publisher = Addison-Wesley
+  | pages = 82–89
+  | id = ISBN 0-201-52989-0}}
+</div>
+
+== External links ==
+
+* [http://www.mathpages.com/home/kmath455.htm Irrationality of Quadratic Sums], from K. S. Brown's MathPages.
+
+* {{mathworld | title = Sylvester's Sequence | urlname = SylvestersSequence}}
+
+[[Category:Number theory]]
+[[Category:Integer sequences]]
+[[Category:Egyptian fractions]]
+[[Category:Mathematical series]]
+[[Category:Recurrence relations]]
+
+[[he:סדרת סילבסטר]]
+[[sl:Sylvestrovo zaporedje]]
+[[tr:Sylvester'ın dizisi]]

@@ -1,0 +1,523 @@
+{{Infobox Weapon
+|name=37mm Gun M3 on Carriage M4
+|image=[[Image:M-3 Antitank Gun 37mm Towed.jpg|300px]]
+|caption=M3 on display at [[Fort Sam Houston]], Texas.
+|origin=United States 
+|type=anti-tank gun 
+<!-- Type selection -->
+|is_ranged=yes
+|is_artillery=yes
+|is_vehicle=
+<!-- Service history -->
+|service= 
+|used_by=United States
+|wars=World War II 
+<!-- Production history -->
+|designer= 
+|design_date=1938
+|manufacturer=Gun: Watervliet Arsenal,<br>Carriage: Rock Island Arsenal
+|production_date=1940–1943
+|number=18,702
+|variants=
+<!-- General specifications -->
+|weight=413.68 kg
+|length=3.92 m
+|width=1.61 m
+|height=0.96 m
+|part_length=overall: 2.1 m / 56.6 calibers <br> bore: 1.98 m / 53.5 calibers
+|crew=4-6
+<!-- Ranged weapon specifications --> 
+|cartridge=37×223R
+|caliber=37 mm
+|action= 
+|rate=up to 25 rounds per minute 
+|velocity=up to 884 m/s
+|range= 
+|max_range=6.9 km
+|feed=
+|sights=telescopic, M6
+<!-- Artillery specifications -->
+|breech=vertical block
+|recoil=hydrospring
+|carriage=split trail
+|elevation=-10° to +15°
+|traverse=60°
+<!-- Explosive specifications --> 
+|diameter=
+|filling=
+|filling_weight=
+|detonation=
+|yield=
+}}
+
+[[Image:37-mm-at-gun-fort-benning-3.jpg|thumb|right|Manhandling a gun into position during a training at [[Fort Benning]]. Note the raised wheel segments.]]
+The '''37mm Gun M3''' was the first dedicated [[anti-tank gun]] fielded by the [[United States]] forces. Introduced in 1940, it became the standard anti-tank gun of the U.S. [[infantry]]. The evolution of [[Nazi Germany|German]] [[tank]]s quickly rendered the 37 mm piece ineffective though and in 1943–44 the M3 was gradually replaced in European theaters by the more powerful British design [[Ordnance QF 6 pounder|57mm Gun M1]]. In the Pacific, where the armor threat was less significant the M3 remained in service until the end of the war. Like many other light anti-tank guns, the M3 was widely used as infantry support and an anti-personnel weapon, firing [[Shell (projectile)#High-explosive (HE)|high-explosive]] and [[canister shot|canister]] rounds.
+
+The M5 and M6 tank mounted variants were used in several models of armored vehicles most notably in the [[Stuart tank|Light Tank M3/M5]], the [[M3 Lee|Medium Tank M3]] and the [[M8 Greyhound|Light Armored Car M8]]. In addition, the M3 in its original version was mated to a number of other self-propelled carriages.
+
+==Development history==
+In the mid-1930s the [[United States Army]] had yet to field a dedicated anti-tank artillery piece; anti-tank [[Company (military unit)|companies]] of infantry [[regiment]]s were armed with .50-cal [[machine gun]]s. Although were some consideration had been given to replacing the machine guns with more a powerful [[anti-tank gun]], the situation only began to change after the outbreak of the [[Spanish Civil War]]. Combat experience from Spain suggested that a light anti-tank gun, such as the [[Nazi Germany|German]] [[3.7 cm PaK 36|PaK 35/36]], was capable of neutralizing the growing threat posed by tanks.<ref name="ZALOGADELF3to7">Zaloga - ''US Anti-tank Artillery 1941–45'', p. 3–7.</ref>
+
+In January 1937, the [[Ordnance Corps|Ordnance Committee]] recommended development of a such a weapon;<ref name="ZALOGADELF3to7">Zaloga - ''US Anti-tank Artillery 1941–45'', p. 3–7.</ref> two PaK 36 guns were acquired for study.<ref name="HOGG149">Hogg - ''Allied Artillery of World War Two'', p 149.</ref> As the projected main user of the weapon the Infantry branch was chosen to oversee the work. They wanted a lightweight gun which could be moved around by the crew, so any ideas of using a larger caliber then that of the German gun were discarded.<ref name="ZALOGADELF3to7"/>
+
+Development and testing continued until late 1938. Several variants of gun and carriage were proposed until on [[15 December]] a combination of the T10 gun and T5 carriage was officially adopted as the 37mm Gun M3 and Carriage M4.<ref name="ZALOGADELF3to7"/> Although the weapon followed the concept of the PaK 36 and often referred to as a copy of it,<ref>E.g. see Rottman - ''The US Marine Corps 1941–45'', p 17: "M3A1 ... was copied from the standard German AT gun".</ref> the M3 differed significantly from the German design and used different ammunition.
+
+The gun was manufactured by [[Watervliet Arsenal]] and the carriage by [[Rock Island Arsenal]]. The first pieces were delivered early in [[1940]],<ref name="ZALOGADELF3to7"/> the production continued until [[1943]].
+
+{| class="wikitable"
+|- style="vertical-align:top; text-align:center;"
+| colspan="6"| Production of М3, numbers of pieces.<ref>Zaloga - ''US Anti-tank Artillery 1941-45'', p 21.</ref>
+|- 
+!  Year
+! 1940
+!  1941
+!  1942
+!   1943
+!  Total
+|- style="vertical-align:top; border:1px solid #996; text-align:center;"
+|  Produced.
+|  340
+|  2,252
+|  11,812
+|  4,298
+|  18,702
+|}
+
+Some minor changes in the gun construction were introduced during the production period. The carriage received a modified shoulder guard and traverse controls (carriage M4A1, standardized on [[29 January]] [[1942]]). Although Ordnance requested an upgrade of all M4 carriages to M4A1, this process was not completed.<ref name="ZALOGADELF3to7"/> Another change was a threaded [[Gun barrel|barrel]] end to accept a big five-port [[muzzle brake]] (gun M3A1, adopted on [[5 March]] [[1942]]). According to some sources, the latter was intended to avoid kicking too much dust under dry ground conditions. However it turned out to be a safety problem when firing [[Case shot|canister ammunition]] and consequently the M3A1 went into combat without muzzle brake.<ref name="ZALOGADELF3to7"/> Other sources mention the muzzle brake was intended to soften a recoil and they say that it was dropped simply because additional recoil control measures weren't really needed.<ref name="HOGG149"/><ref name="CHAMBERLAINGANDER47">Chamberlain, Gander - ''Anti-Tank Weapons'', p 47.</ref>
+
+In an attempt to increase the armor penetration of the M3 several squeeze bore adapters (including the British [[Littlejohn adaptor]]) were tested; none were adopted. Experiments with rocket launchers on the M4 carriage (e.g. 4.5in rocket projector T3) did not produce anything practical either.<ref name="ZALOGADELF3to7"/>
+
+==Description==
+The barrel was of one-piece forged construction, with uniform rifling (12 grooves, right-hand twist, one turn in 25 calibers). The breech end of the barrel was screwed into a breech ring. The breech mechanism was of vertical sliding block type. The barrel was fitted with a hydrospring recoil system.<ref name=TM-9-2005>''Technical Manual TM 9-2005 volume 3, Infantry and Cavalry Accompanying Weapons'', p 11-15.</ref>
+
+The carriage was of split trail type, with pneumatic tires.<ref name=TM-9-2005/> Mounted on the axle next to the wheels were the "wheel segments" -  segment-shaped supports that could be lowered to provide more stability in the firing position or raised so that they would not impede movement of the gun.
+
+The telescopic sight on the M6 and both elevation and traverse controls were located on the left side, so one gunner was able to aim the gun. The traverse gear had a release mechanism which allowed free movement of the barrel in case a quick traverse was needed.<ref name=TM-9-2005/>
+
+==Organization==
+[[Image:Front line of Kwajalein.jpg|thumb|right|Men of the [[7th Infantry Division (United States)|7th Division, US Army]] move a gun up to the front line on [[Kwajalein]].]]
+===US Army===
+Early in World War II, each infantry [[battalion]] had an anti-tank [[platoon]] with four 37 mm guns and each [[regiment]] an anti-tank [[Company (military unit)|company]] with twelve.<ref name="ANDERSON">Anderson - ''US Army in World War II; Cavalry and Infantry''.</ref> 3/4 ton trucks were assigned as [[Artillery tractor|prime movers]], but many units received the [[Willys MB|1/4 ton truck]] (better known as the jeep) instead. Two companies of 37 mm guns were initially a part of the divisional anti-tank battalion (along with one company of [[Canon de 75 modèle 1897|75 mm guns]]); however in December 1941 AT battalions were removed from divisional structure and reorganized as independent tank destroyer battalions; their towed guns were replaced with self-propelled ones as soon as the latter became available.<ref name="ZALOGADELF9to12">Zaloga - ''US Anti-tank Artillery 1941-45'', p 9-12.</ref>
+
+In 1942 the first airborne divisions were formed. According to their organizational structure of October 1942, an airborne division had 36 37 mm anti-tank guns: four in divisional artillery, eight in [[glider]] infantry regiment and 24 in AA/AT battalion.<ref name="ZALOGADELF23to24">Zaloga - ''US Anti-tank Artillery 1941-45'', p 23, 24.</ref>
+
+37 mm guns were also issued to the infantry regiments of the only mountain division formed in the United States - the [[10th Mountain Division]].<ref name="ANDERSON"/>
+
+===US Marine Corps===
+Under the D-series Tables of Organization (TO) from [[1 July]] [[1942]], the role of AT weapons in [[United States Marine Corps|Marine Corps]] service was officially entrusted to 20 mm automatic guns, in regimental weapon company (three platoons) and battalion weapon company (one platoon). In practice units used the World War I era [[Canon d'Infanterie de 37 modèle 1916 TRP|37mm M1916]] for training. They were equipped with the M3 (four in each platoon) before being sent to the frontline. Additionally, a divisional special weapons battalion was equipped with self-propelled [[M6 Fargo|37mm GMC M6]].<ref>Rottman - ''US Marine Corps Pacific Theater of Operations 1941-43'', p 25-30.</ref>
+
+Under the E-series TO from [[15 April]] [[1943]], self-propelled guns in the divisional special weapons battalion were replaced with 18 37 mm towed guns in three batteries of six; an infantry regiment had a weapons company with 12, in three platoons of four. The battalion-level AT guns were removed. In total, a division possessed 54 pieces. The F-series Table of Organization (TO) from [[5 May]] [[1944]] removed the special weapons battalion from the divisional organization, resulting in a total of 36 guns per division. The subsequent G-series TO reduced regimental weapon companies to two platoons, meaning 24 pieces per division. Although the G-series TO was only adopted on [[4 September]] [[1945]], in practice in some divisions this change was introduced early in 1945.<ref>History of U.S. Marine Corps Operations in World War II, Vol II: Table of Organization E-100, p 571, 572; Vol III: Table of Organization F-100, p 618, 619; Rottman - ''The US Marine Corps 1941-45'', p 5-8; ww2gyrene: The Marine Division; ww2gyrene: M3A1 37mm Antitank Gun.</ref>
+
+===Other operators===
+The only major [[lend lease]] recipient of the M3 was the Chinese [[Kuomintang|Kuomintang Army]] (1,669 pieces). The gun was also supplied to [[Bolivia]] (4), [[Canada]] (3), [[Chile]] (198), [[Colombia]] (4), [[Cuba]] (1), [[El Salvador]] (9), [[France]] (130), [[United Kingdom]] (78), [[USSR]] (63) and other countries (100).<ref>Zaloga - ''US Anti-tank Artillery 1941-45'', p 44.</ref> Some nations still had it in service in early 1970s.<ref name="CHAMBERLAINGANDER47"/>
+
+==Combat Service==
+[[Image:Japanese-tanks-matanikau.gif|thumb|right|Japanese tanks knocked out by 37 mm guns near the mouth of the [[Matanikau River]], Guadalcanal.]]
+[[Image:37mm gun crew in battle lg.jpg|thumb|right|US 37mm gun crew in combat at [[Battle of Saipan|Saipan]], 1944. From left to right are two ammunition carriers, gunner and assistant gunner. The shield is fitted with some kind of extension plate.]]
+The M3 saw action for the first time during the [[Battle of the Philippines (1941-42)|defense of the Philippines]] in December 1941.<ref name="ZALOGADELF9to12"/> It went on to become a factor in the [[Guadalcanal Campaign]], where it was successfully employed  against both [[Japan]]ese armor and infantry.<ref>History of U.S. Marine Corps Operations in World War II, Vol I: The Battle of the Tenaru, p 290; Vol I: Japanese Counteroffensive, p 330, 332.</ref> Throughout the war it remained effective against Japanese vehicles, which were thinly armored and were rarely committed in large groups. The light weight of the gun made it easy to move through difficult terrain; for example, when attacked by Japanese tanks on Betio during the [[Battle of Tarawa]], Marines were able to heave the M3 over the five-foot-high seawall<ref name="ROTTMANCHAPELL12">Rottman - ''The US Marine Corps 1941-45'', p 12-13.</ref>. While canister ammunition proved useful in stopping Japanese infantry attacks, against enemy fortifications the M3 was only somewhat effective because of its small high explosive projectile. Its overall effectiveness and ease of use meant the gun remained in service with the Marine Corps and with some Army units in the Pacific until the end of the war.<ref name="ZALOGADELF9to12"/> Unhappy with the unusually low shield of the M3, some Marine Corps units extended it to provide better protection. A standard kit was tested in 1945, but was never issued.<ref>Zaloga - ''US Anti-tank Artillery 1941-45'', p 6, 46.</ref>
+
+The experience of the M3 in the [[North African Campaign]] was completely different. The gun was not powerful enough to deal with late production [[Panzer III]] and [[Panzer IV]]. After the nearly disastrous [[Battle of Kasserine Pass]] in February [[1943]], reports from some of the involved units mentioned 37 mm projectiles "bouncing off like marbles" from the turret and front armor of German medium tanks and proclaimed the gun "useless unless you have gun crews with the guts to stand and shoot from 100 yards". The Army was initially uncertain if these reports reflected the obsolescence of the weapon, or whether unrefined tactics and lack of experience were to blame. Yet on [[26 May]] 1943 a new organization had the M3 replaced by the ''57mm Gun M1'' (the US-produced version of the [[United Kingdom|British]] [[Ordnance QF 6 pounder|QF 6 pounder]]), with Dodge 1 1/2 ton trucks as prime movers. But only by spring [[1944]] did the 57mm gun reach the battlefield in large numbers.<ref name="ZALOGADELF9to12"/>
+
+Meanwhile, the [[Italian Campaign (World War II)|Italian campaign]] was launched, and M3 guns saw action from the day of the [[Allied invasion of Sicily|Sicily landing]] on [[10 July]] [[1943]]. That day the 37 mm guns demonstrated once again both their effectiveness against pre-war tanks &ndash; when they helped to repel an attack by Italian [[Renault R 35]]s &ndash; and inability to cope with modern threats in a subsequent encounter with [[Tiger I|Tigers]] from the [[Fallschirm-Panzer Division 1 Hermann Göring|Herman Göring division]]. The Italian theater had a lower priority for reequipment than Northwest Europe, and some M3s were still in use in Italy in late 1944.<ref>Zaloga - ''US Anti-tank Artillery 1941-45'', p 21, 22.</ref>
+
+By mid-1944 the M3 had fallen out of favor even with airborne troops, despite their strong preference for compact and lightweight weapon systems. The Airborne Command had rejected the 57 mm M1 in the summer of 1943 claiming its unfitness for airlifting<ref>Zaloga - ''US Anti-tank Artillery 1941-45'', p 14.</ref> and the organization of February 1944 still had airborne divisions keeping their 37 mm guns. Nevertheless, the [[U.S. 82nd Airborne Division|82nd]] and the [[101st Airborne Division|101st]], were reequipped with a version of the British-manufactured 6 pounders designed to fit into the [[Airspeed Horsa|Horsa glider]] for the [[Battle of Normandy#Airborne landings|Normandy airdrops]].<ref name="ZALOGADELF23to24"/>
+
+The M3 was phased out of US service soon after the end of the war.<ref name="CHAMBERLAINGANDER47"/>
+
+==Variants==
+*Gun variants:
+**T3 - the first prototype.<ref name="ZALOGADELF3to7"/>
+**T7 - a prototype with semi-automatic horizontal sliding block breech.<ref name="HOGG149"/>
+**T8 - a prototype with [[Thorsten Nordenfelt|Nordenfelt]] eccentric screw breech.<ref name="HOGG149"/>
+**T10, standardized as M3 (1938) - an adopted version, with manual vertical block breech.<ref name="ZALOGADELF3to7"/><ref name="HOGG149"/>
+**M3A1 (1942) - version with threaded barrel end to accept a muzzle break, which was never issued.<ref name="ZALOGADELF3to7"/>
+**M5 (1939) - tank mounted variant with shorter barrel.<ref name="HUNNICUTT-STUART-118and143">Hunnicutt - ''Stuart: A History of the American Light Tank'', p 118, 143.</ref>
+**M6 (1940) - tank mounted variant with barrel of the original length and with semi-automatic breech.<ref name="HUNNICUTT-STUART-118and143"/>
+
+*Carriage variants:
+**T1, T1E1 - prototypes.<ref name="ZALOGADELF3to7"/>
+**T5, standardized as M4 - first adopted version.<ref name="ZALOGADELF3to7"/>
+**M4A1 (1942) - carriage with improved traverse controls.<ref name="ZALOGADELF3to7"/>
+**In 1942 the Airborne Command requested a version with removable trails. A prototype was tested, but in 1943 the project was dropped as unnecessary.<ref name="ZALOGADELF3to7"/>
+
+==Self-propelled mounts==
+[[Image:A-FM-23-80-37mm-Gun-M5-left.jpg|right|thumb|37mm Gun M5, as mounted in Light Tank M2A4.]]
+[[Image:M6-37mm-GMC.jpg|right|thumb|37mm GMC M6 with improvised machine gun mount.]]
+Two tank gun variants were developed based on the barrel of the M3. The first, initially designated M3A1 but renamed M5 on [[13 October]] [[1939]], was shortened by 5.1 inches (3.5 calibers) to avoid damage to the tube in wooden areas. Later a variant with a semi-automatic breech (with empty cartridge ejection) was developed. This variant - initially designated M5E1, adopted as M6 on [[14 November]] 1940 - received a full length barrel. The tubes were interchangeable, but replacing M5 with M6 and vice versa would result in an unbalanced mount and was therefore prohibited.<ref name="HUNNICUTT-STUART-118and143"/> These guns were mounted on several models of tanks and other armored vehicles:
+*[[M2 Light Tank|Light Tank M2A4]]: M5 in mount M20. The recoil mechanism, protruding beyond the gun mask, had to be protected by an armored casing.<ref>Hunnicutt - ''Stuart: A History of the American Light Tank'', p 119, 143.</ref>
+*[[Stuart tank|Light Tank M3]]: M5 in mount M22, in late production vehicles M6 in mount M23. These mounts were fitted with more compact recoil mechanism, eliminating the need for the protective casing.<ref>Hunnicutt - ''Stuart: A History of the American Light Tank'', p 127, 143.</ref>
+*[[Stuart tank|Light Tank M3A1, M5]]: M6 in mount M23.<ref name="HUNNICUTT-STUART-496">Hunnicutt - ''Stuart: A History of the American Light Tank'', p 496.</ref>
+*[[Stuart tank|Light Tank M3A3, M5A1]]: M6 in mount M44.<ref name="HUNNICUTT-STUART-496"/>
+*[[M22 Locust|Light Tank (Airborne) M22]]: M6 in mount M53.<ref>Hunnicutt - ''Stuart: A History of the American Light Tank'', p 484.</ref>
+*[[Lee tank|M3 series medium tanks]] (as a secondary weapon): M5 or M6 in mount M24.<ref name="HUNNICUTT-SHERMAN-528">Hunnicutt - ''Sherman: A History of the American Medium Tank'', p 528.</ref>
+*[[M6 Heavy Tank|Heavy Tank M6]] (as a secondary weapon): M6 in mount T49.<ref>Hunnicutt - ''Firepower: A History of the American Heavy Tank'', p 193, 194.</ref>
+*[[Landing Vehicle Tracked|LVT(A)-1 "amtank"]]: M6 in mount M44.<ref name="HUNNICUTT-STUART-496"/>
+*37mm Gun Motor Carriage T22 - eventually [[M8 Greyhound|Light Armored Car M8]]: M6 in mount M23A1; the competing designs 37mm Gun Motor Carriage T43 / Light Armored Car T21 and 37mm Gun Motor Carriage T23 / Light Armored Car T23 mounted the same weapon.<ref name="HUNNICUTT-AC-108, 319">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 108.</ref>
+*Armored Car T13.<ref name="HUNNICUTT-AC-71">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 71, 73.</ref>
+*[[T17 Armored Car|Armored Car T17]]: M6 in mount M24.<ref name="HUNNICUTT-AC-315">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 315.</ref>
+*[[T17 Armored Car|Armored Car T17E1]] in the "Staghound Mk I" configuration: M6 in mount M24A1.<ref name="HUNNICUTT-AC-316">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 316.</ref>
+*The first pilot of the [[T18 Boarhound|Armored Car T18]]: M6. The production variant T18E2 received the 57mm M1.<ref name="HUNNICUTT-AC-98">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 98.</ref>
+*Armored Car T19: M6 in mount M23A1.<ref name="HUNNICUTT-AC-324">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 324.</ref>
+*[[T27 Armored Car|Armored Car T27]]: M6 in mount M23A1 modified.<ref name="HUNNICUTT-AC-322">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 322.</ref>
+*[[M38 Wolfhound|Armored Car T28 / M38]]: M6 in mount M23A2.<ref name="HUNNICUTT-AC-323">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 323.</ref>
+*[[United Kingdom|British]] [[Humber Armoured Car|Humber Armoured Car Mk IV]]: M6.<ref>Moschanskiy - ''Armored vehicles of the Great Britain 1939-1945 part 2'', p 9.</ref>
+
+Versions of the gun in turret mounts were also used in the [[Medium Tank T5|Medium Tank T5 Phase III]] (T3 barrel, mount T1)<ref>Hunnicutt - ''Sherman: A History of the American Medium Tank'', p 34.</ref>, in the [[M2 Medium Tank|Medium Tank M2 / M2A1]] (M3 barrel, M2A1: mount M19),<ref>Hunnicutt - ''Sherman: A History of the American Medium Tank'', p 36, 40.</ref> and in the 37mm Gun Motor Carriage T42 (mount M22).<ref>Hunnicutt - ''Stuart: A History of the American Light Tank'', p 303.</ref>
+
+[[Image:1942Jeep.jpg|right|thumb|Soldiers of the [[3rd United States Infantry Regiment|US 3rd Infantry]] on maneuvers, 1942. Their Willys / Ford jeep is fitted with M3 on a pedestal mount.]]
+In addition, M3 on different pedestal mounts was mated to a number of other vehicles resulting in an assortment of 37mm gun motor carriages. Only the [[M6 Fargo|M6]] reached mass production.
+*37mm Gun Motor Carriage T2 ([[Willys MB|Bantam jeep]]).<ref name="HUNNICUTT-AC-152">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 152.</ref>
+*37mm Gun Motor Carriage T8 (Ford 4x4 "Swamp Buggy").<ref name="HUNNICUTT-AC-153">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 153.</ref>
+*37mm Gun Motor Carriage T13, T14 (Willys 6x6 "Super Jeep").<ref name="HUNNICUTT-AC-158">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 158.</ref>
+*[[M6 Fargo|37mm Gun Motor Carriage T21 / M4 / M6]] (Fargo 3/4 ton 4x4 truck).<ref name="HUNNICUTT-AC-154">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 154, 155.</ref>
+*37mm Gun Motor Carriage T33 (Ford 3/4 ton 4x4 cargo carrier).<ref name="HUNNICUTT-AC-160">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 160.</ref>
+*[[M3 Scout Car|M3A1E3 Scout Car]].<ref name="HUNNICUTT-AC-58">Hunnicutt - ''Armored Car: A History of American Wheeled Combat Vehicles'', p 58.</ref>
+*The gun was sometimes mounted on [[M2 Half Track Car|M2 Halftrack]],<ref name="HUNNICUTT-HT-230">Hunnicutt - ''Half-Track: A History of American Semi-Tracked Vehicles'', p 230.</ref> [[M29 Weasel]]<ref name="CHAMBERLAINGANDER47"/> and on the [[Willys MB|1/4 ton Willys MB / Ford GPW jeep]] (see photo on the right).
+
+On several occasions the M3 was mounted on [[PT boat]]s to increase their firepower. One of these boats was [[John F. Kennedy]]'s [[Motor Torpedo Boat PT-109|PT-109]].<ref>PT108LilDuck.com.</ref>
+ 
+==Ammunition==
+The M3 utilized fixed ammunition. Projectiles were fitted with a 37x223R cartridge case, designated Cartridge Case M16. Available projectiles included armor piercing, high explosive and canister.
+
+{| border=0 cellspacing=0 cellpadding=2 style="margin:0 0 .5em 1em; width:95%; background:#fff; border-collapse:collapse; border:1px solid #996; line-height:1.5; font-size:95%"
+|- style="vertical-align:top; text-align:center; border:1px solid #996; background-color:#996; color:#fff" 
+| colspan="6" | '''Available ammunition'''<ref name="HUNNICUTT-STUART-496"/><ref>''Field Manual FM 23-81, 37-mm Gun, Tank, M6'', p 45-51.</ref><ref>''Technical Manual TM 1-1901'', Artillery Ammunition.</ref>''
+|- style="vertical-align:top; text-align:center; border:1px solid #996;" 
+| width="20%"  style="border:1px solid #996" | Type
+| width="20%"  style="border:1px solid #996" | Model
+| width="20%"  style="border:1px solid #996" | Weight, kg (round/projectile)
+| width="20%"  style="border:1px solid #996" | Filler
+| width="20%"  style="border:1px solid #996" | Muzzle velocity, m/s (M3&M6/M5)
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | [[Shell (projectile)#Armour-piercing (AP)|AP-T]]
+| style="border:1px solid #996" | AP M74 Shot
+| style="border:1px solid #996" | 1.51 / 0.87
+| style="border:1px solid #996" | -
+| style="border:1px solid #996" | 884 / 870
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | APCBC-T
+| style="border:1px solid #996" | APC M51 Shot
+| style="border:1px solid #996" | 1.58 / 0.87
+| style="border:1px solid #996" | -
+| style="border:1px solid #996" | 884 / 870
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | [[Shell (projectile)#High-explosive (HE)|HE]]
+| style="border:1px solid #996" | HE M63 Shell
+| style="border:1px solid #996" | 1.42 / 0.73
+| style="border:1px solid #996" | [[Trinitrotoluene|TNT]], 39 g
+| style="border:1px solid #996" | 792 / 782
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | HE
+| style="border:1px solid #996" | HE Mk II Shell
+| style="border:1px solid #996" | 1.23 / 0.56
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | [[Canister shot|Canister]]
+| style="border:1px solid #996" | Canister M2
+| style="border:1px solid #996" | 1.58 / 0.88
+| style="border:1px solid #996" | 122 steel balls
+| style="border:1px solid #996" | 762 / 752
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | Target practice with tracer
+| style="border:1px solid #996" | TP M51 Shot
+| style="border:1px solid #996" | 1.54 / 0.87
+| style="border:1px solid #996" | -
+| style="border:1px solid #996" | 
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | Drill (simulates APC M51)
+| style="border:1px solid #996" | Drill Cartridge M13
+| style="border:1px solid #996" | 1.45 / 0.87
+| style="border:1px solid #996" | -
+| style="border:1px solid #996" | -
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | Drill (simulates HE M63)
+| style="border:1px solid #996" | Drill Cartridge T5
+| style="border:1px solid #996" | 1.45 / 0.73
+| style="border:1px solid #996" | -
+| style="border:1px solid #996" | -
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | Blank
+| style="border:1px solid #996" | Blank Cartridge 10-[[Gauge (bore diameter)|gage]] with adapter M2
+| style="border:1px solid #996" | 0.93 / -
+| style="border:1px solid #996" | -
+| style="border:1px solid #996" | -
+|}
+
+:&nbsp;
+:
+
+{| border=0 cellspacing=0 cellpadding=2 style="margin:0 0 .5em 1em; width:95%; background:#fff; border-collapse:collapse; border:1px solid #996; line-height:1.5; font-size:95%;"
+|- style="vertical-align:top; text-align:center; border:1px solid #996; background-color:#996; color:#fff" 
+| colspan="5" | '''Armor penetration table, M3 or M6'''
+|- style="vertical-align:top; text-align:center; border:1px solid #996;"
+| width="44%"  style="border:1px solid #996" | Ammunition \ Distance, m
+| width="14%"  style="border:1px solid #996" | 457
+| width="14%"  style="border:1px solid #996" | 914
+| width="14%"  style="border:1px solid #996" | 1,371
+| width="14%"  style="border:1px solid #996" | 1,828
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | AP M74 Shot (meet angle 0°)<ref name="HOGG149"/>
+| style="border:1px solid #996" | 36
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | AP M74 Shot (meet angle 20°)<ref name="CHAMBERLAINGANDER47"/>
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 25
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | APC M51 Shot (meet angle 0°)<ref name="HOGG149"/>
+| style="border:1px solid #996" | 61
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | APC M51 Shot (meet angle 20°)<ref name="CHAMBERLAINGANDER47"/>
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 53
+| style="border:1px solid #996" | 
+| style="border:1px solid #996" | 
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | APC M51 Shot (meet angle 30°, homogeneous armor)<ref name="HUNNICUTT-STUART-496"/>
+| style="border:1px solid #996" | 53
+| style="border:1px solid #996" | 46
+| style="border:1px solid #996" | 40
+| style="border:1px solid #996" | 35
+|- style="vertical-align:top; text-align:center;"
+| style="border:1px solid #996; text-align:left" | APC M51 Shot (meet angle 30°, face-hardened armor)<ref name="HUNNICUTT-STUART-496"/>
+| style="border:1px solid #996" | 46
+| style="border:1px solid #996" | 40
+| style="border:1px solid #996" | 38
+| style="border:1px solid #996" | 33
+|- style="vertical-align:top; text-align:center;"
+| colspan="5" | Different methods of armor penetration measurement were used in different countries / periods. Therefore, direct comparison is often impossible.
+|}
+
+Armor penetration of the M5 was about 3 mm less at all ranges.<ref name="HUNNICUTT-STUART-496"/>
+
+==Gallery==
+<gallery>
+Image:Philippine Scouts at Fort McKinley.jpg|[[Philippine Scouts]] at [[Fort McKinley]] firing a 37mm gun in training. Note the lowered wheel segments.
+Image:TrainingatCampCarson.gif|A dug in 37mm gun at [[Camp Carson]].
+Image:37-mm-at-gun-fort-benning-4.jpg|Loading the gun (crew training, Fort Benning).
+Image:37-mm-at-gun-fort-benning-2.jpg|Aiming the gun (crew training, Fort Benning).
+Image:A-FM-23-81-37mm-ammo-1.jpg|HE Mk II Shell and APC M51 Shot.
+Image:A-FM-23-81-37mm-ammo-2.jpg|TP M51 Shot and 10-gage adapter M2.
+</gallery>
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book
+  | last = Chamberlain
+  | first = Peter
+  | authorlink = 
+  | coauthors = Terry Gander
+  | others = 
+  | title = Anti-Tank Weapons
+  | publisher = Arco Publishing Company, New York
+  | series = WWII Fact Files
+  | date = 1974 
+  | isbn = 0-668-03505-6
+}}
+* {{cite book
+  | last = Hogg
+  | first = Ian V.
+  | authorlink = Ian V. Hogg
+  | coauthors =
+  | others = 
+  | title = Allied Artillery of World War Two
+  | publisher = Crowood Press, Ramsbury
+  | series = 
+  | date = 1998
+  | isbn = 1-86126-165-9
+}}
+* {{cite book
+  | last = Hunnicutt
+  | first = R. P.
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Firepower: A History of the American Heavy Tank.
+  | publisher = Presidio Press
+  | series = 
+  | date = 1988
+  | isbn = 0-89141-304-9
+}}
+* {{cite book
+  | last = Hunnicutt
+  | first = R. P.
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Stuart: A History of the American Light Tank.
+  | publisher = Presidio Press
+  | series = 
+  | date = 1992
+  | isbn = 0-89141-462-2
+}}
+* {{cite book
+  | last = Hunnicutt
+  | first = R. P.
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Sherman: A History of the American Medium Tank.
+  | publisher = Presidio Press
+  | series = 
+  | date = 1994
+  | isbn = 0-89141-080-5
+}}
+* {{cite book
+  | last = Hunnicutt
+  | first = R. P.
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Half-Track: A History of American Semi-Tracked Vehicles.
+  | publisher = Presidio Press
+  | series = 
+  | date = 2001
+  | isbn = 0-89141-742-7
+}}
+* {{cite book
+  | last = Hunnicutt
+  | first = R. P.
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Armored Car: A History of American Wheeled Combat Vehicles.
+  | publisher = Presidio Press
+  | series = 
+  | date = 2002
+  | isbn = 0-89141-777-X
+}}
+*Moschanskiy, I. (1999). ''Armored vehicles of the Great Britain 1939-1945 part 2'', Modelist-Konstruktor, Bronekollektsiya 1999-02 ({{cite book 
+  | last = Мощанский 
+  | first = И.
+  | authorlink =
+  | coauthors =
+  | others =
+  | title = Бронетанковая техника Великобритании 1939-1945 часть 2
+  | publisher =
+  | series = Моделист-Конструктор, Бронеколлекция 1999-02
+  | date = 1999
+  | isbn =
+}}).
+* {{cite book
+  | last = Rottman
+  | first = Gordon
+  | authorlink = 
+  | coauthors =
+  | others = illustrated by Mike Chapell
+  | title = The US Marine Corps 1941-45
+  | publisher = Osprey Publishing
+  | series = Elite 59
+  | date = 1995
+  | isbn = 1-85532-497-0
+}}
+* {{cite book
+  | last = Rottman
+  | first = Gordon
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = US Marine Corps Pacific Theater of Operations 1941-43
+  | publisher = Osprey Publishing
+  | series = Battle Orders 1
+  | date = 2004
+  | isbn = 1-84176-518-X
+}}
+* {{cite book
+  | last = Zaloga
+  | first = Steven J.
+  | authorlink = Steven Zaloga
+  | coauthors =
+  | others = illustrated by Brian Delf
+  | title = US Anti-tank Artillery 1941-45
+  | publisher = Osprey Publishing
+  | series = New Vanguard 107
+  | date = 2005
+  | isbn = 1-84176-690-9
+}}
+* {{cite book
+  | last =
+  | first = 
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Field Manual FM 23-81, 37-mm Gun, Tank, M6
+  | publisher = War Department, 1942
+  | series = 
+  | date =
+  | isbn = 
+}}
+* {{cite book
+  | last =
+  | first = 
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Technical Manual TM 1-1901, Artillery Ammunition
+  | publisher = War Department, 1944
+  | series = 
+  | date =
+  | isbn = 
+}}
+* {{cite book
+  | last =
+  | first = 
+  | authorlink = 
+  | coauthors =
+  | others = 
+  | title = Technical Manual TM 9-2005 volume 3, Infantry and Cavalry Accompanying Weapons
+  | publisher = War Department, 1942
+  | series = 
+  | date =
+  | isbn = 
+}}
+* {{cite web
+  | title=Anderson, Rich - ''US Army in World War II; Cavalry and Infantry''
+  | url=http://www.militaryhistoryonline.com/wwii/usarmy/cavalry.aspx
+  | accessdate=2007-09-27
+}}
+* {{cite web
+  | title=History of U.S. Marine Corps Operations in World War II at HyperWar website
+  | url=http://www.ibiblio.org/hyperwar/USMC/
+  | accessdate=2007-07-01
+}}
+* {{cite web
+  | title=The Marine Division at WW2Gyrene website
+  | url=http://www.ww2gyrene.org/Division_structure.htm
+  | accessdate=2007-07-01
+}}
+* {{cite web
+  | title=M3A1 37mm Antitank Gun at WW2Gyrene website
+  | url=http://www.ww2gyrene.org/weapons_37mm.htm
+  | accessdate=2007-07-01
+}}
+* {{cite web
+  | title=PT-108 specs at PT108LilDuck.com website
+  | url=http://www.pt108lilduck.com/specs.html
+  | accessdate=2007-07-01
+}}
+
+==External links==
+{{Commons|M3 37 mm gun}}
+*[http://www.fightingiron.com/FO-37mmCannon.htm Photo gallery at Fightingiron.com]
+*[http://svsm.org/gallery/37mm_M3 Photo gallery at SVSM.org].
+
+{{WWIIUSGuns}}
+
+[[Category:World War II anti-tank guns]]
+[[Category:Anti-tank guns of the United States]]
+[[Category:37 mm artillery]]
+
+{{Link FA|ru}}
+[[it:M3 37 mm (cannone controcarri)]]
+[[pt:M3 37mm Gun]]
+[[ru:37 mm Gun M3]]

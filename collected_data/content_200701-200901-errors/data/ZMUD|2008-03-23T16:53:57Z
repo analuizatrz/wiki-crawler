@@ -1,0 +1,28 @@
+{{Infobox Software
+| name = zMUD
+| logo = 
+| screenshot = 
+| caption = 
+| developer = Mike Potter (Zugg)
+| latest_release_version = 7.21
+| latest_release_date = September 26th, 2005
+| operating_system = [[Microsoft Windows]]
+| platform = 
+| genre = [[MUD client]]
+| license =
+| website = http://www.zuggsoft.com/
+}}
+
+{{lowercase|title=zMUD}}
+'''Zugg's MUD Client''' ('''zMUD''') is a [[MUD client]] developed by [[Zuggsoft]]. It was first developed in [[1995]], and was made into [[shareware]] in [[1996]].  It supports several enhancements to standard [[telnet]] such as the [[MUD eXtension Protocol]] (MXP), the [[MUD Compression Protocol]] (MCCP), [[MUD Sound Protocol]] (MSP) and features advanced mapping capabilities.
+
+A new client has been released by Zugg and continues development, named [[CMUD]], which officially supports Vista.
+
+== External links ==
+*[http://www.zuggsoft.com/zmud/zmudinfo.htm zMUD homepage]
+
+[[Category:Multiplayer online games]]
+[[Category:MUD clients]]
+
+{{videogame-software-stub}}
+{{network-software-stub}}

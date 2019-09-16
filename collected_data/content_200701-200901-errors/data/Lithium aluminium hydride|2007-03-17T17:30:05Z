@@ -1,0 +1,239 @@
+<!-- Here is a table of data; skip past it to edit the text. -->
+{| align="right" border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;" width=300px
+! {{chembox header}} | Lithium aluminium hydride
+|-
+| align="center" colspan="2" | [[Image:lialh4_sem.png|120px|Lithium aluminium hydride]] [[Image:lithium-aluminium-hydride.png|160px|Structure of lithium aluminium hydride]]
+|-
+! {{chembox header}} | General
+|-
+| [[IUPAC nomenclature|Systematic name]]
+| Lithium aluminium hydride
+|-
+| Other names
+| LAH, lithium alanate,<br/>lithium tetrahydridoaluminate<br/>Lithal (UK slang)
+|-
+| [[Chemical formula|Molecular formula]]
+| LiAlH<sub>4</sub>
+|-
+| [[Molar mass]]
+| 37.95 g/mol
+|-
+| Appearance
+| white crystals (pure samples)<br/>grey powder (commercial material)
+|-
+| [[CAS registry number|CAS number]]
+| <nowiki>[16853-85-3]</nowiki>
+|-
+! {{chembox header}} | Properties
+|-
+| [[Density]] and [[Phase (matter)|phase]]
+| 0.917 g/cm<sup>3</sup>, solid
+|-
+| [[Soluble|Solubility]] in [[Water (molecule)|water]]
+| reactive
+|-
+| in [[diethyl ether]], [[THF]]
+| 5.92 and 2.96 mol/L
+|-
+| [[Melting point]]
+| 150 °C (423 K), decomposing
+|-
+| [[Boiling point]]
+| n/a
+|-
+! {{chembox header}} | Structure
+|-
+| [[Coordination geometry]]
+<!-- for a metal complex or an ionic crystal, otherwise omit -->
+| ? <!-- e.g. trigonal bipyramidal -->
+|-
+| [[Crystal structure]]
+| [[monoclinic]]
+|-
+| [[Dipole#Molecular dipoles|Dipole moment]]
+| ? [[Debye|D]]
+|-
+
+! {{chembox header}} | Hazards <!--  Summary only- MSDS entry provides more complete information -->
+|-
+| [[Material safety data sheet|MSDS]]
+| |[http://msds.ehs.cornell.edu/msds/MSDSDOD/A441/M220131.htm External MSDS] 
+|-
+| Main [[Worker safety and health|hazard]]s
+| highly flammable
+|-
+| [[NFPA 704]]
+| {{ NFPA 704 | Health=3 | Flammability=2 | Reactivity=2 | Other=<s>W</s> }}
+|-
+| [[Flash point]]
+| n/a
+|-
+| [[Risk and Safety Statements|R/S statement]]
+| R: 15 S: 7/8, 24/25, 43
+|-
+| [[RTECS]] number
+| BD0100000
+|-
+
+! {{chembox header}} | [[Lithium aluminium hydride chemdata supplement|Supplementary data page]]
+|-
+| [[Lithium aluminium hydride chemdata supplement#Structure and properties|Structure & properties]]
+| [[Refractive index|''n'']], [[Dielectric constant|''ε<sub>r</sub>'']], etc.
+|-
+| [[Lithium aluminium hydride chemdata supplement#Thermodynamic properties|Thermodynamic data]]
+| Phase behaviour<br>Solid, liquid, gas
+
+|-
+| [[Lithium aluminium hydride chemdata supplement#Spectral data|Spectral data]]
+| [[UV/VIS spectroscopy|UV]], [[Infrared spectroscopy|IR]], [[NMR spectroscopy|NMR]], [[Mass spectrometry|MS]]
+|-
+! {{chembox header}} | Related compounds
+|-
+| Related [[hydride]]
+| [[sodium borohydride]]<br/>[[sodium hydride]]
+|-
+| {{chembox header}} | <small>Except where noted otherwise, data are given for<br> materials in their [[standard state|standard state (at 25°C, 100 kPa)]]<br/>[[wikipedia:Chemical infobox|Infobox disclaimer and references]]</small>
+|-
+|}
+'''Lithium aluminium hydride''' ([[Lithium|Li]][[Aluminium|Al]][[Hydride|H<sub>4</sub>]]), commonly abbreviated to '''LAH''', is a powerful [[reducing agent]] used in [[organic chemistry]]. It is more powerful than the related reducing agent [[sodium borohydride]] due to the weaker Al-H bond compared to the B-H bond. It will convert [[ester]]s, [[carboxylic acid]]s and [[ketone]]s to [[alcohol]]s; and [[nitro compound]]s into [[amine]]s.
+
+LAH violently reacts with [[water]], including atmospheric moisture, and the pure material is [[pyrophoric]]. Commercial material is inhibited with [[mineral oil]] to allow  handling in air.
+
+Pure, recrystallized (from diethyl ether) LAH is a white solid. Commercial samples are almost always grey due to trace contamination with [[aluminium]] metal. White air-exposed commercial samples of LAH have absorbed enough moisture to become a mixture of [[lithium hydroxide]] and [[aluminium hydroxide]].
+
+==Preparation==
+LAH is usually produced by the reaction between [[lithium hydride]] (LiH) and [[aluminium chloride]] (AlCl<sub>3</sub>)
+:'''4 LiH + AlCl<sub>3</sub> → LiAlH<sub>4</sub> + 3 LiCl''' <br>
+which proceeds with a high yield of LAH (97% ''w''/''w''). LiCl is removed by [[filtration]] from an [[ether]]eal solution of LAH,
+with subsequent precipitation of LAH to yield a product with around 1% ''w''/''w'' LiCl.
+
+==Inorganic reactions==
+
+LAH and [[Sodium hydride|NaH]] can be used to produce sodium aluminium hydride (NaAlH<sub>4</sub>) by [[Metathesis (chemistry)|metathesis]] in [[THF]] with a yield of 90.7% ''w''/''w''
+:'''LiAlH<sub>4</sub> + NaH → NaAlH<sub>4</sub> + LiH''' <br>
+Potassium aluminium hydride (KAlH<sub>4</sub>) can be produced with a yield of 90% ''w''/''w'' by reaction in [[diglyme]] in a similar way
+:'''LiAlH<sub>4</sub> + KH → KAlH<sub>4</sub> + LiH''' <br>
+
+The reverse, i.e., production of LAH from either sodium aluminium hydride or potassium aluminium hydride can be obtained by reaction with LiCl in [[diethyl ether]] and [[THF]] with a yield of 93.5 and 91% ''w''/''w'', respectively.
+:'''NaAlH<sub>4</sub> + LiCl → LiAlH<sub>4</sub> + NaCl''' <br>
+:'''KAlH<sub>4</sub> + LiCl → LiAlH<sub>4</sub> + KCl''' <br>
+
+Magnesium alanate (Mg(AlH<sub>4</sub>)<sub>2</sub>) can be synthezised from LAH and MgBr<sub>2</sub>
+:'''2 LiAlH<sub>4</sub> + MgBr<sub>2</sub> → Mg(AlH<sub>4</sub>)<sub>2</sub> + 2 LiBr
+
+==Use in organic chemistry==
+
+Lithium aluminium hydride is widely used in organic chemistry as a very powerful [[reducing agent]].  Despite handling problems associated with its reactivity, it is even used at the small-industrial scale, although for large scale reductions the related reagent '''sodium bis(2-methoxyethoxy)aluminium hydride''' or '''Red-Al''' is more usual.  For such purposes it is usually used in solution in [[diethyl ether]], and an [[aqueous]] workup is usually performed after the reduction in order to remove inorganic by-products.  It is most commonly used for the reduction of [[ester]]s<ref>Reetz, M. T.; Drewes, M. W.; Schwickardi, R. ''[[Organic Syntheses]]'', Coll. Vol. 10, p.256 (2004); Vol. 76, p.110 (1999). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=v76p0110 Article])</ref><ref>Oi, R.; [[K. Barry Sharpless|Sharpless, K. B.]] ''[[Organic Syntheses]]'', Coll. Vol. 9, p.251 (1998); Vol. 73, p.1 (1996). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv9p0251 Article])</ref> and [[carboxylic acid]]s<ref>Koppenhoefer, B.; Schurig, V. ''[[Organic Syntheses]]'', Coll. Vol. 8, p.434 (1993); Vol. 66, p.160 (1988). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv8p0434 Article])</ref> to primary alcohols; prior to the advent of LiAlH<sub>4</sub> this was a difficult conversion involving [[sodium]] metal in boiling [[ethanol]] (the [[Bouveault-Blanc reduction]]).  [[Aldehyde]]s and [[ketone]]s<ref>Barnier, J. P.; Champion, J.; Conia, J. M. ''[[Organic Syntheses]]'', Coll. Vol. 7, p.129 (1990); Vol. 60, p.25 (1981). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv7p0129 Article])</ref> can also be reduced to alcohols by LAH, but this is usually done using milder reagents such as [[Sodium borohydride|NaBH<sub>4</sub>]].  α,β-Unsaturated ketones are reduced to allylic alcohols.<ref>Elphimoff-Felkin, I.; Sarda, P. ''[[Organic Syntheses]]'', Coll. Vol. 6, p.769 (1988); Vol. 56, p.101 (1977). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0769 Article])</ref>  When [[epoxide]]s are reduced using LAH, the reagent attacks the less [[Steric effects|hindered]] end of the epoxide, usually producing a secondary or tertiary alcohol. It reduces by progressive breakup of the complex AlH<sub>4</sub><sup>−</sup> and transfer of hydride ions to the positive centre in an organic compound which may have a low density of electrons due to [[inductive effect|inductive]] or [[mesomeric effect]]s.
+
+[[Image:LAH_rxns.png|450px|Organic reactions of lithium aluminium hydride]]
+
+[[Amine]]s can be prepared by the LAH reduction of [[amide]]s<ref>Seebach, D.; Kalinowski, H.-O.; Langer, W.; Crass, G.; Wilka, E.-M. ''[[Organic Syntheses]]'', Coll. Vol. 7, p.41 (1990); Vol. 61, p.24 (1983). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv7p0041 Article])</ref><ref>Park, C. H.; Simmons, H. E. ''[[Organic Syntheses]]'', Coll. Vol. 6, p.382 (1988); Vol. 54, p.88 (1974). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0382 Article])</ref>, [[oxime]]s<ref>Chen, Y. K.; Jeon, S.-J.; Walsh, P. J.; Nugent, W. A. ''[[Organic Syntheses]]'', Vol. 82, p.87 (2005). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=v82p0087 Article])</ref>, [[nitrile]]s, nitro compounds or alkyl [[azide]]s.  LAH is also able to reduce primary [[alkyl halide]]s to [[alkane]]s.
+
+Lithium aluminium hydride is '''not''' able to reduce simple [[alkene]]s or [[benzene]] rings, and [[alkyne]]s are only reduced if an [[alcohol]] group is nearby.<ref>Wender, P. A.; Holt, D. A.; Sieburth, S. Mc N. ''[[Organic Syntheses]]'', Coll. Vol. 7, p.456 (1990); Vol. 64, p.10 (1986). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv7p0456 Article])</ref>
+
+==Thermal decomposition==
+At room temperature LAH is [[Metastability in molecules|metastable]]. During prolonged storage it may slowly decompose to Li<sub>3</sub>AlH<sub>6</sub> and LiH.
+This process can be accelerated by the presence of [[catalysis|catalytic]] elements e.g. [[Titanium|Ti]], [[Iron|Fe]], [[Vanadium|V]].
+
+When heated LAH decompose in a three step [[reaction mechanism]]. <br>
+:'''LiAlH<sub>4</sub> → ⅓ Li<sub>3</sub>AlH<sub>6</sub> + ⅔ Al + H<sub>2</sub> (R1)''' <br>
+:'''⅓ Li<sub>3</sub>AlH<sub>6</sub>  → LiH + ⅓ Al + ½ H<sub>2</sub> (R2)''' <br>
+:'''LiH + Al → LiAl + ½ H<sub>2</sub> (R3) '''
+
+R1 is usually initiated by the [[melting]] of LAH around a temperature of 150-170<sup>o</sup>C immediately followed by decomposition into solid Li<sub>3</sub>AlH<sub>6</sub>. From 200-250<sup>o</sup>C Li<sub>3</sub>AlH<sub>6</sub> decompose into LiH (R2) which subsequently decompose into LiAl above 400<sup>o</sup>C (R3). R1 is effectively irreversible, because LiAlH<sub>4</sub> is metastable. The reversibility of R2 has not yet been conclusively established. R3 is reversible with an equilibrium pressure of about 0.25 bar at 500<sup>o</sup>C.  R1 and R2 can occur at room temperature with suitable catalysts.
+
+According to reactions R1-R3 LiAlH<sub>4</sub> contains 10.6 wt% hydrogen thereby making LAH a potential [[hydrogen]] storage medium for future [[fuel cell]] powered [[vehicle]]s. Cycling only R2 would store 5.6 wt% in the material in a single step (comparable to the two steps of NaAlH<sub>4</sub>).
+
+==Solubility data==
+LAH is soluble in many [[ether]]al solutions. However, it may spontaneously decompose due to the presence of catalytic impurities, though, it appears to be more stable in [[THF]]. Thus, [[THF]] is preferred over e.g. [[diethyl ether]] even despite the lower solubility.
+<center>
+{|border="1" cellspacing="0" cellpadding="3" style="background: #ffffff; border-collapse: collapse; margin-left: auto; margin-right: auto; margin-top: 0.5em; margin-bottom: 0.5em;"
+|+ align="center" | '''Solubility data for LiAlH<sub>4</sub>  (mol/l)'''
+|-align="center" bgcolor="#ffdead"
+|  || colspan="5" | '''Temperature (<sup>o</sup>C)'''
+|-align="center"  bgcolor="#ffdead"
+| '''Solvent''' || '''0'''  || '''25''' || '''50''' || '''75''' || '''100'''
+|- align="center"
+| bgcolor="#ffdead" align="left" | [[Diethyl ether]] || -- || 5.92 || -- || -- || --
+|- align="center"
+| bgcolor="#ffdead" align="left" | [[THF]] || -- || 2.96 || -- || -- || --
+|- align="center"
+| bgcolor="#ffdead" align="left" | [[Monoglyme]] || 1.29 || 1.80 || 2.57 || 3.09 || 3.34
+|- align="center"
+| bgcolor="#ffdead" align="left" | [[Diglyme]] || 0.26 || 1.29 || 1.54 || 2.06 || 2.06
+|-  align="center"
+| bgcolor="#ffdead" align="left" | Triglyme || 0.56 || 0.77 || 1.29 || 1.80 || 2.06
+|-align="center"
+| bgcolor="#ffdead" align="left" | Tetraglyme || 0.77 || 1.54 || 2.06 || 2.06 || 1.54
+|- align="center"
+| bgcolor="#ffdead" align="left" | [[Dioxane]] || -- || 0.03 || -- || -- || --
+|- align="center"
+| bgcolor="#ffdead" align="left" | Dibutyl ether || -- || 0.56 || -- || -- || --
+|}
+</center>
+
+Note that water '''should not be used''' as a solvent for lithium aluminium hydride, which would react as in the following equation.
+: LiAlH<sub>4</sub> + 4 H<sub>2</sub>O → Li<sup>+</sup> + Al<sup>3+</sup> + 4 OH<sup>-</sup> + 4 H<sub>2</sub>
+
+==Crystal structure==
+[[Image:Lialh4struct.jpg|thumb|The crystal structure of LAH. Li atoms are blue and AlH<sub>4</sub> tetrahedra are red. The unit cell border is marked by a black line.]] 
+
+The [[crystal structure]] of LAH belongs to the [[monoclinic]] crystal system and the [[space group]] is P2<sub>1</sub>c. The crystal structure of LAH is illustrated to the right. The structure consists of [[Li]] [[atom]]s surrounded by five AlH<sub>4</sub> [[tetrahedron|tetrahedra]]. The Li atoms are bonded to one [[hydrogen]] atom from each of the surrounding tetrahedra creating a [[bipyramid]] arrangement. The side lengths of the [[unit cell]] are approx. a=4.82, b=7.81 and c=7.92, and the β angle is approx. 112 °. At high pressures (&gt;2.2GPa) a phase transition into β-LAH occurs.
+
+==Thermodynamic data==
+The table summarizes [[thermodynamics|thermodynamic]] data for LAH and reactions involving LAH, in the form of [[Standard state|standard]] [[enthalpy]], [[entropy]] and [[Gibbs free energy]] change, respectively.
+
+<center>
+{|border="1" cellspacing="0" cellpadding="3" style="background: #ffffff; border-collapse: collapse; margin-left: auto; margin-right: auto; margin-top: 0.5em; margin-bottom: 0.5em;"
+|+ align="center" | '''Thermodynamic data for reactions involving LiAlH<sub>4</sub>'''
+|-align="center"  bgcolor="#ffdead"
+| '''Reaction''' || '''ΔH<sup>o</sup> (kJ/mol)'''  || '''ΔS<sup>o</sup> (J/(mol K))''' || '''ΔG<sup>o</sup> (kJ/mol)''' || '''Comment'''
+|- align="center"
+| bgcolor="#ffdead" align="left" | Li (''s'') + Al (''s'') + 2 H<sub>2</sub>(''g'') → LiAlH<sub>4</sub> (''s'') || -116.3 || -240.1  || -44.7 || Standard formation from the elements.
+|- align="center"
+| bgcolor="#ffdead" align="left" | LiH (''s'') + Al (''s'') + 3/2 H<sub>2</sub> (''g'') → LiAlH<sub>4</sub> (''s'') || -25.6 || -170.2  || 23.6 || Using ΔH<sup>o</sup><sub>f</sub>(LiH) = -90.5, ΔS<sup>o</sup><sub>f</sub>(LiH) = -69.9, and ΔG<sup>o</sup><sub>f</sub>(LiH) = -68.3.
+|- align="center"
+| bgcolor="#ffdead" align="left" | LiAlH<sub>4</sub> (''s'') → LiAlH<sub>4</sub> (''l'') || 22 || --  || -- || Heat of fusion. Value is probably unreliable.
+|- align="center"
+| bgcolor="#ffdead" align="left" | LiAlH<sub>4</sub> (''l'') → ⅓ Li<sub>3</sub>AlH<sub>6</sub> (''s'') + ⅔ Al (''s'') + H<sub>2</sub> (''g'') || 3.46 || 104.5  || -27.68 || ΔS<sup>o</sup> calculated from reported values of ΔH<sup>o</sup> and ΔG<sup>o</sup>.
+|}
+</center>
+
+==References==
+<references />
+
+==General references and further reading==
+*{{cite book | author=Wiberg, Egon & Amberger, Eberhard | title=Hydrides of the elements of main groups I-IV | publisher=Elsevier | year=1971 | id=ISBN 0-444-40807-X}}
+*{{cite book | author=Hajos, Andor | title=Complex Hydrides and Related Reducing Agents in Organic Synthesis | publisher=Elsevier | year=1979 | id=ISBN 0-444-99791-1}}
+*{{cite book | author=Lide (ed.), David R. | title=Handbook of chemistry and physics | publisher=CRC Press | year=1997 | id=ISBN 0-8493-0478-4}}
+*{{cite book | author=Carey, Francis A. | title=Organic Chemistry with Online Learning Center and Learning by Model CD-ROM | publisher= McGraw-Hill | year=2002 | id=ISBN 0-07-252170-8}} [http://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html on-line version]
+*Chapter 5 in {{cite book | author=Andreasen, Anders | title=Hydrogen Storage Materials with Focus on Main Group I-II Elements | publisher=Risoe National Laboratory | year=2005 | id=ISBN 87-550-3498-5}} [http://www.risoe.dk/rispubl/AFM/ris-phd-21.htm Full text version]
+
+==See also==
+*[[Sodium borohydride]]
+*[[Sodium hydride]]
+*[[Hydride]]
+
+==External links==
+*Usage of LiAlH<sub>4</sub> in [http://www.orgsyn.org/orgsyn/chemname.asp?nameID=36257 Organic Syntheses]
+*[http://webbook.nist.gov/cgi/cbook.cgi?Formula=LiAlH4&NoIon=on&Units=SI Condensed phase thermochemistry data from Nist webbook]
+*[http://msds.ehs.cornell.edu/msds/MSDSDOD/A441/M220131.htm Materials Safety Data Sheet from Cornell University]
+*[http://hydpark.ca.sandia.gov/ Sandia National Laboratory - Hydride information center]
+*[http://designer-drugs.com/pte/12.162.180.114/dcd/chemistry/lah.synthesis.html Synthesis of LAH]
+*[http://www.chem.bham.ac.uk/labs/cox/Teaching/4th_Year/II/Reduction_Reactions.htm Reduction reactions, University of Birmingham, Teaching Resources - 4th Year]
+*[http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=28112 PubChem LiAlH<sub>4</sub> summary]
+
+{{ChemicalSources}}
+
+[[Category:Lithium compounds]]
+[[Category:Aluminium compounds]]
+[[Category:Metal hydrides]]
+[[Category:Reagents for organic chemistry]]
+
+[[de:Lithiumaluminiumhydrid]]
+[[fr:Tétrahydruroaluminate de lithium]]
+[[ja:水素化アルミニウムリチウム]]
+[[pl:Tetrahydroglinian litu]]
+[[ru:Алюмогидрид лития]]
+[[sr:Тетрахидроалуминат литијума]]
+[[sv:Litiumaluminiumhydrid]]

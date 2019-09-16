@@ -1,0 +1,13 @@
+'''Go-Back-N ARQ''' is a specific instance of the [[ARQ|Automatic Repeat-reQuest (ARQ)]] Protocol, in which the sending process continues to send a number of [[frame (telecommunications)|frames]] specified by a ''window size'' without receiving an [[ACK (computing)|ACK]] packet from the receiver.
+
+The receiver process keeps track of the sequence number of the next [[frame (telecommunications)|frame]] it expects to receive, and sends that number with every ACK it sends. If a [[frame (telecommunications)|frame]] from the sender does not reach the receiver, the receiver will stop [[ACK (computing)|acknowledging]] received [[frame (telecommunications)|frames]]. Once the sender has sent all of the [[frame (telecommunications)|frames]] in its ''window'', it will detect that all of the [[frame]]s since the first lost [[frame (telecommunications)|frame]] are ''outstanding'', and will go back to sequence number of the last ACK it received from the receiver process and fill its window starting with that [[frame (telecommunications)|frame]] and continue the process over again.
+
+The sending window size must be the number of sequence numbers (if they are numbered from zero to n-1) to verify transmission in cases of any packet (any data or ACK packet) being dropped. (Source: Tannenbuam, Andrew S. Computer Networks 4th ed. ISBN 0-13-066102-3)
+
+This is a more efficient use of a connection, since unlike waiting for an acknowledgement for each packet, the connection is still being utilized as packets are being sent. In other words, During the time that would otherwise be spent waiting, more packets are being sent. However, this method also results in sending frames multiple times (if they were dropped the first time, or the ACK acknowledging them was dropped). To avoid this, [[Selective Repeat ARQ]] can be used. (Source: Tanenbaum, Andrew S. Computer Networks 4th ed. ISBN 0-13-066102-3)
+
+==External links==
+* [http://media.pearsoncmg.com/aw/aw_kurose_network_2/applets/go-back-n/go-back-n.html Go-Back-N ARQ demonstration in a Java applet]
+* [http://www.cse.ohio-state.edu/~sharpr/classes/677/applets/ Another Go-Back-N ARQ demonstration in a Java applet]
+
+[[Category:Network protocols]]

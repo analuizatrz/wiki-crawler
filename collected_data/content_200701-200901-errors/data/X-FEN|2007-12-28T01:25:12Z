@@ -1,0 +1,56 @@
+'''X-FEN''' is an extension of [[Forsyth-Edwards Notation]] (FEN).
+
+The traditional Forsyth-Edwards Notation is not sufficient to represent all possible positions in 8x8 [[Chess960]] (aka Fischer Random [[Chess]]) or 10x8 [[Capablanca random chess]] (CRC). Consequently, an extension of FEN was needed, with the requirement of being fully downward compatible. X-FEN (formerly FRC-FEN), introduced by [[Reinhard Scharnagl]] in [[2003]], accomplishes this.
+
+== X-FEN definition ==
+X-FEN is based on traditional FEN. It differs only in the way that castling and e.p. tags are used. Moreover, 10x8 positions, which rely on [[Jose Raul Capablanca]]'s extended piece set (additional pieces Chancellor and Archbishop), are supported.
+
+=== X-FEN inside of PGN ===
+Games are translated into [[Portable_Game_Notation|PGN]] format (Portable Game Notation). Unlike traditional chess games, [[Chess960]] or CRC games ([[Capablanca random chess]]) require storing the particular starting positions. This is done using a SetUp tag and a FEN string, using the definitions for traditional chess games.
+
+=== Encoding en-passant ===
+To enhance the uniqueness of a specification of an e.p. coordinate only is valid here, if the affected Pawn would have been placed immediately beside an opponent's Pawn and the e.p. square is empty.
+
+=== Encoding castling rights ===
+Castling tags "KkQq" are used as known from FEN. As usual lower case letters indicate castling rights for Black, and upper case letters those for White. "Kk" identifies the ability of ''g-castling'', and "Qq" indicates ''c-castling'' (rsp. ''i-castling'' at 10x8 Chess). The new and crucial point of the arrangement is, that the castling rights provided by this as default are related to the outermost Rook of the affected side. If instead an inner Rook is associated with that right, the traditional castling tag will be replaced by the file letter of the involved Rook, using upper case for White.
+
+[[image:Rochaden.png|frame|89px|left|castling types]]
+
+Usually the King's castling target is either two squares away from the left (white) border or one square from the right border. But there are also variants having symmetrically distributed target squares (e.g. [[Janus Chess]]), both a single field distant each. Then an additional "s" has to precede the castling tokens. Another prefix "m" means: modern castling (e.g. Embassy Chess or Chess480). Here the King will move a regular castling distance (8x8: 2 steps, 10x8: 3 steps) aside, but at most just before the border.
+
+=== 10x8 chess ===
+Ten consecutive free squares in a rank are encoded by "'''10'''", and nine free squares are represented with a "'''9'''". For an Archbishop (Knight + Bishop) the letter "'''A'''" is used; a Chancellor (Knight + Rook) is encoded using the letter "'''C'''". As usual, lowercase letters are used for black pieces.
+
+== Compatibility ==
+The starting position of traditional chess and moreover all of the 18 Pseudo FRC starting position arrays (with castling enabled Rooks and Kings situated in their traditional places) and positions resulting from those entirely will be identically encoded by X-FEN just as usual. Thus X-FEN is fully downwards compatible with traditional FEN.
+
+== Selecting games ==
+To use only traditional chess games from within a PGN file (a problem present since [[Shuffle chess]]), simply select only PGN entries that do not include any FEN tags.
+
+== X-FEN example ==
+Castling Right inner Rook before 11. O-O
+
+[[image:InnerCastle.png|frame|337px|left|Example for needed X-FEN in Chess960]]
+<br style="clear:both;" />
+'''X-FEN''' = rn2k1r1/ppp1pp1p/3p2p1/5bn1/P7/2N2B2/1PPPPP2/2BNK1RR w Gkq - 4 11
+
+ [Event "SmirfGUI Computerchess Game"]
+ [Site "CHESSBOX"]
+ [Date "2005.06.19"]
+ [Time "10:22:29"]
+ [Round "Test"]
+ [White "White"]
+ [Black "Black"]
+ [Result "*"]
+ [Annotator "R. Scharnagl"]
+ [SetUp "1"]
+ [FEN "rnbnkqrb/pppppppp/8/8/8/8/PPPPPPPP/RNBNKQRB w KQkq - 0 1"]
+ 1. h4 g6 2. g3 Bf6 3. a4 Qh6 4. Ra3 Bxh4 5. gxh4 Qxh4 6. Qh3 Qxh3 7. Rxh3 Ne6
+ 8. Bf3 d6 9. Nbc3 Ng5 10. Rhh1 Bf5 11. O-O *
+
+[[Category:Computer chess]]
+[[Category:Capablanca chess variants]]
+[[Category:Chess notation]]
+[[Category:Computer file formats]]
+
+[[de:X-FEN]]

@@ -1,0 +1,74 @@
+[[Image:Gap cell junction.svg|thumb|right|351px|gap junction]]
+
+A '''gap junction''' or '''nexus''' is a junction between certain animal [[cell (biology)|cell]]-types that allows different [[molecule]]s and [[ion]]s, mostly small intracellular signaling molecules (intracellular mediators), to pass freely between cells. The junction connects the [[cytoplasm]] of cells. One gap junction is composed of two [[connexon]]s (or hemichannels) which connect across the [[intercellular space]]. They are analogous to the [[plasmodesmata]] that join plant cells<ref name="mbc">{{cite book | author = Bruce Alberts | title = Molecular biology of the cell | publisher = Garland Science | location = New York | year = 2002 | edition = 4th edition | id = ISBN 0-8153-3218-1}}</ref>.
+
+==Structure==
+In [[vertebrate]]s, gap junction hemichannels are primarily [[homomer|homo]]- or [[heteromer|hetero]]-[[hexamer]]s of [[connexin]] [[protein]]s.  [[Invertebrate]] gap junctions comprise proteins from the hypothetical [[innexin]] [[protein family|family]].  However, the recently characterized [[pannexin]] family, functionally similar but genetically distinct from connexins and expressed in both vertebrates and invertebrates, probably encompasses the innexins.
+
+At gap junctions, the [[intercellular space]] narrows from [[nanometer | 25nm to 3nm]] and unit [[connexons]] in the membrane of each cell are lined up with one another.
+
+Gap junctions formed from two identical hemichannels are called [[homotypic]], while those with differing hemichannels are [[heterotypic]].  In turn, hemichannels of uniform connexin composition are called [[homomeric]], while those with differing connexins are [[heteromeric]]. Channel composition is thought to influence the function of gap junction channels but it is not yet known how.
+
+Generally, the [[gene]]s coding for gap junctions are classified in one of three groups, based on [[sequence similarity]]: A, B and C (for example, {{Gene|GJA1}}, {{Gene|GJC1}}). However, genes do not code directly for the expression of gap junctions; genes can only produce the proteins which make up gap junctions (connexins). An alternative naming system based on this protein's molecular weight is also popular (for example: connexin43, connexin30.3).
+
+==Levels of organization==
+# DNA to RNA to Connexin protein.
+# One connexin protein has four [[Transmembrane protein|transmembrane]] [[protein domain|domains]]
+# 6 Connexins create one Connexon (hemichannel). When different connexins join together to form one connexon, it is called a heteromeric connexon
+# Two hemichannels, joined together across a cell membrane comprise a Gap Junction.
+::When two identical connexons come together to form a Gap junction, it is called a homotypic GJ. When one homomeric connexon and one heteromeric connexon come together, it is called a heterotypic gap junction. When two heteromeric connexons join, it is also called a heteromeric Gap Junction.
+# Several gap junctions (hundreds) assemble into a macromolecular complex called a plaque.
+
+==Properties==
+# Allows for direct electrical communication between cells, although different connexin subunits can impart different single channel conductances, from about 30 pS to 500 pS.
+# Allows for chemical communication between cells, through the transmission of small [[second messenger]]s, such as [[inositol triphosphate|IP<sub>3</sub>]] and [[calcium|Ca<sup>2+</sup>]]<ref name="mbc"/>, although different connexin subunits can impart different selectivity for particular small molecules.
+# Generally allows molecules smaller than 1,000 [[Atomic mass unit|Daltons]] to pass through, although different connexin subunits can impart different pore sizes and different charge selectivity.  Large biomolecules, for example, [[nucleic acid]] and [[protein]], are precluded from cytoplasmic transfer between cells.
+# Ensures that molecules and current passing through the gap junction do not leak into the intercellular space.
+
+==Areas of electrical coupling==
+===Heart===
+Gap junctions are particularly important in the [[heart|cardiac muscle]]: the signal to contract is passed efficiently through the gap junctions, allowing the heart muscle cells to contract in tandem.  However, gap junctions are now known to be expressed in virtually all tissues of the body, with the exception of mobile cell types such as [[spermatozoon|sperm]] or [[erythrocytes]]. Several human genetic disorders are now associated with mutations in gap junction genes. Many of those affect the skin, because this tissue is heavily dependent upon gap junction communication for the regulation of [[cell differentiation|differentiation]] and [[cell proliferation|proliferation]].
+
+===Neurons===
+Few locations have been discovered where there is significant coupling between [[neuron]]s in the brain. Structures in the brain that have been shown to contain electrically coupled neurons include the [[vestibular nucleus]], the nucleus of [[trigeminal nerve]], the [[inferior olivary nucleus]], and the [[ventral_tegmentum | Ventral Tegmental Area]]. There has been some observation of weak neuron to [[glial cell]] coupling in the [[locus coeruleus]], and in the [[cerebellum]] between [[Purkinje neuron]]s and [[Astrocyte#Bergmann glia|Bergmann glial cell]]s. It now seems that [[astrocyte]]s are strongly coupled by gap junctions. Experimental data show strong gap junction expression in astrocytes. Moreover, mutations in the gap junction genes Cx43 and Cx56.6 cause white matter degeneration similar to that observed in [[Pelizaeus-Merzbacher disease]] and [[multiple sclerosis]].
+
+Connexin proteins expressed in neurons include:
+# mCX26
+# mCX43
+# mCX36
+# mCX56.6
+# mCX57
+# mCX45
+
+====Retina====
+Neurons within the [[retina]] show extensive coupling, both within populations of one cell type, and between different cell types.
+
+==See also==
+* [[Electrical synapse]]
+* [[Ion channel]]
+* [[Junctional complex]]
+* [[Intercalated disc]]
+* [[Cardiac muscle]]
+* [[Tight junction]]
+* [[Desmosomes]]
+
+==References==
+<references/>
+
+==External links==
+* {{MeshName|Gap+Junctions}}
+
+{{CellJunction}}
+
+[[Category:Cell communication]]
+[[Category:Cell signaling]]
+[[Category:Cell anatomy]]
+
+
+[[de:Gap junction]]
+[[fr:Jonction communicante]]
+[[hr:Gap junction]]
+[[ja:ギャップ結合]]
+[[fi:Aukkoliitos]]
+[[sv:Gap junction]]
+[[zh:间隙连接]]

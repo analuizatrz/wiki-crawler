@@ -1,0 +1,116 @@
+<!-- Additional parameters for this template  are available at [[Template:Infobox Planet]]. -->
+{{Infobox Planet | discovery=yes | physical_characteristics = yes | bgcolour=#FFFFC0 |
+| name= 3 Juno
+| symbol= [[Image:Juno symbol.svg|25px]]
+| image=[[Image:Juno mpl anim.gif|140px]]
+| caption=Juno moving among background stars
+| discoverer=[[Karl Ludwig Harding]]
+| discovered=[[September 1]], [[1804]]
+| alt_names=''none''
+| mp_category=[[Main belt]] ([[Juno family|Juno clump]])
+| epoch=[[November 25]], [[2005]] ([[Julian day|JD]] 2453699.5)
+| semimajor=399.155 [[Giga|G]][[metre|m]] (2.668 [[Astronomical unit|AU]])
+| perihelion=296.03 Gm (1.979 AU)
+| aphelion=502.276 Gm (3.358 AU)
+| eccentricity=0.2583
+| period=1591.93 d (4.36 [[Julian year (astronomy)|a]])
+| inclination=12.971[[degree (angle)|°]]
+| asc_node=170.125°
+| arg_peri=247.839°
+| mean_anomaly=7.879°
+| avg_speed=17.93 km/s
+| dimensions=290×240×190 [[km]]
+| mass=3.0×10<small><sup>19</sup></small> [[kilogram|kg]]<ref name="Pitjeva05">{{cite journal | last= Pitjeva | first=E. V. | authorlink= Elena V. Pitjeva | title= High-Precision Ephemerides of Planets—EPM and Determination of Some Astronomical Constants | journal= Solar System Research | year= 2005 | volume= 39 | issue= 3 | pages= 176 | url= http://iau-comm4.jpl.nasa.gov/EPM2004.pdf | format= [[PDF]] | doi= 10.1007/s11208-005-0033-2}}</ref><ref name="Pitjeva04">{{cite conference | first=E. V. | last= Pitjeva | authorlink= Elena V. Pitjeva | title= Estimations of masses of the largest asteroids and the main asteroid belt from ranging to planets, Mars orbiters and landers | booktitle= 35th COSPAR Scientific Assembly. Held 18 - 25 July 2004, in [[Paris, France]] | pages= 2014 | year= 2004 | url= http://adsabs.harvard.edu/abs/2004cosp.meet.2014P}}</ref>
+| density=3.4 g/[[cubic centimetre|cm³]]
+| surface_grav=0.12 m/s²
+| escape_velocity=0.18 km/s
+| rotation=0.3004 d<ref name="lc">{{cite web | last= Harris | first= A. W. | authorlink= | coauthors= Warner, B.D.; Pravec, P.; Eds. | title= Asteroid Lightcurve Derived Data. EAR-A-5-DDR-DERIVED-LIGHTCURVE-V8.0. | work= | publisher= [[Planetary Data System|NASA Planetary Data System]] | date= 2006 | url= http://www.psi.edu/pds/resource/lc.html | format= | doi= | accessdate= 2007-03-15}}</ref>
+| spectral_type=[[S-type asteroid]]<ref name="tax">{{cite web | last= Neese | first= C. | authorlink= | coauthors= Ed. | title= Asteroid Taxonomy.EAR-A-5-DDR-TAXONOMY-V5.0. | work= | publisher= [[Planetary Data System|NASA Planetary Data System]] | date= 2005 | url= http://www.psi.edu/pds/resource/taxonomy.html | format= | doi= | accessdate= 2007-03-15}}</ref>
+| magnitude = 7.5<ref name="Pasachoff1983">{{cite book | author=Donald H. Menzel and Jay M. Pasachoff | year=1983 | title=A Field Guide to the Stars and Planets | edition=2nd edition | publisher=Houghton Mifflin | pages=p. 391 | location=Boston, MA | id=ISBN 0395348358 }}</ref> to 11.55
+| abs_magnitude=5.33<ref name="iras">{{cite web | last= Davis | first= D. R. | authorlink= | coauthors= Neese, C., Eds. | title= Asteroid Albedos. EAR-A-5-DDR-ALBEDOS-V1.1. | work= | publisher= [[Planetary Data System|NASA Planetary Data System]] | date= 2002 | url= http://www.psi.edu/pds/resource/albedo.html | format= | doi= | accessdate= 2007-02-18}}</ref>
+| albedo=0.238&nbsp;([[geometric albedo|geometric]])<ref name="iras" />
+| angular_size = 0.30" <!-- Horizons 2018-Oct-28 --> to 0.07"
+| single_temperature=~163 [[kelvin|K]]<br>''max:'' 301 K (+28° [[Celsius|C]])<ref name="lim2005">{{cite journal | last= Lim | first= Lucy F. | authorlink= | coauthors= McConnochie, Timothy H.; Bell, James F.; Hayward, Thomas L. | title= Thermal infrared (8-13 µm) spectra of 29 asteroids: the Cornell Mid-Infrared Asteroid Spectroscopy (MIDAS) Survey | journal= Icarus | year= 2005 | volume= 173 | issue= 2| pages= 385-408 | url= http://adsabs.harvard.edu/abs/2005Icar..173..385L | doi= 10.1016/j.icarus.2004.08.005}}</ref>}}
+'''Juno''' ({{pronEng|ˈdʒuːnoʊ}}, {{lang-la|Iūno}}), designated '''3 Juno''' in the Minor Planet Center catalogue system, was the third [[asteroid]] to be discovered and is one of the largest [[main belt]] asteroids, being the second heaviest of the stony [[S-type asteroid|S-type]]. It was discovered on [[September 1]], [[1804]] by [[Germany|German]] [[astronomer]] [[Karl Ludwig Harding|Karl L. Harding]] and named after the mythological figure [[Juno (mythology)|Juno]], the highest Roman goddess. The adjectival form of the name is ''Junonian''. 
+
+==Characteristics==
+[[Image:Moon and Asteroids 1 to 10.svg|thumb|left|Size comparison: the first 10 asteroids profiled against Earth's [[Moon]]. Juno is third from the left.]]<!-- [[Image:3AS.jpg|Artist's concept of 3 Juno|thumb|left]] -->
+
+Juno is one of the largest asteroids, containing about 1.0% the mass of the entire asteroid belt. In a ranking by size, it is tenth. It vies with [[15 Eunomia]] for the honour of being the largest of the stony [[S-type asteroid]]s, although the newest estimates put Juno in second place.  
+
+Amongst S-types it is unusually reflective, which may be indicative of different surface properties. This high reflectivity explains its relatively high [[apparent magnitude]] for a small object not near the inner edge of the asteroid belt. Juno can reach +7.5 at a favourable opposition, which is brighter than [[Neptune#Observation|Neptune]] or [[Titan (moon)#Observation_and_exploration|Titan]], and explains it discovery predating the larger asteroids [[10 Hygiea|Hygiea]], [[52 Europa|Europa]], [[511 Davida|Davida]] and [[704 Interamnia|Interamnia]]. At most oppositions, however, Juno reaches around +8.7 - only just visible with [[binoculars]] - and at smaller [[elongation]]s a 3-inch [[telescope]] will be required to resolve it. It is the main body in the [[Juno family]].
+
+Juno was originally considered a planet, along with [[1 Ceres]], [[2 Pallas]], and [[4 Vesta]].  It was re-classified as an asteroid, with the other three, when many more additional asteroids were discovered.  Juno's small size and irregular shape preclude it from being considered a [[dwarf planet]] under the [[2006 redefinition of planet|IAU classification]].
+
+Juno orbits at a slightly closer mean distance to the [[Sun]] than Ceres or Pallas. Its orbit is moderately inclined at around 12° to the [[ecliptic]], but has an eccentricity higher than that of [[Pluto]]. This high eccentricity brings Juno closer to the Sun at [[perihelion]] than Vesta and further out at [[aphelion]] than Ceres. Juno had the most eccentric orbit of any known body until [[33 Polyhymnia|Polyhymnia]] was discovered in 1854, and of asteroids over 200 km in diameter only [[324 Bamberga]] has a more eccentric orbit.
+
+Juno rotates in a [[prograde and retrograde motion|prograde]] direction, with the north pole pointing towards [[ecliptic coordinate system|ecliptic coordinates]] (β, λ) = (27°, 103°)  with a 10° uncertainty.<ref name="kaasalainen2002">{{cite journal | last= Kaasalainen | first= M. | authorlink= | coauthors= J. Torppa; J. Piironen | title= Models of Twenty Asteroids from Photometric Data | journal= Icarus | volume= 159 | issue= 2 | pages= 369–395 | date= 2002 | publisher= | url= http://www.rni.helsinki.fi/~mjk/IcarPIII.pdf | format= [[PDF]] | doi= 10.1006/icar.2002.6907}}</ref> This gives an [[axial tilt]] of 51°.
+
+Spectroscopic studies of the Junonian surface permit the conclusion that Juno could be the body of origin of ordinary [[chondrite]]s, a common group of stony meteorites composed of iron-containing [[silicate]]s such as [[olivine]] and [[pyroxene]].<ref name="gaffey1993">{{cite journal | last= Gaffey | first= Michael J. | authorlink= | coauthors= Burbine, Thomas H.; Piatek, Jennifer L.; Reed, Kevin L.; Chaky, Damon A.; Bell, Jeffrey F.; Brown, R. H. | title= Mineralogical variations within the S-type asteroid class | journal= Icarus | year= 1993 | volume= 106 | issue= 2 | pages= 573 | url= http://adsabs.harvard.edu/abs/1993Icar..106..573G | doi= 10.1006/icar.1993.1194}}</ref> The maximum temperature on the surface, when the sun is overhead, was measured at about 293 [[Kelvin|K]] on [[October 2]], [[2001]]. Taking into account also the [[heliocentric]] distance at the time, this gives an estimated maximum of 301 K (+28 °[[Celsius|C]]) at perihelion.<ref name="lim2005" />
+
+Infrared images reveal that it possesses an approximately 100 km wide crater or ejecta feature, the result of a geologically young impact.<ref name="harvard-pr0318">{{cite web | last= | first= | authorlink= | coauthors= | title= Asteroid Juno Has A Bite Out Of It | work= | publisher= Harvard-Smithsonian Center for Astrophysics | date= 2003-08-06| url= http://cfa-www.harvard.edu/press/pr0318.html | format= | doi= | accessdate= 2007-02-18}}</ref><ref name="baliunas2003">{{cite journal | last= Baliunas | first= Sallie | authorlink= | coauthors= Donahue, Robert; Rampino, Michael R.; Gaffey, Michael J.; Shelton, J. Christopher; Mohanty, Subhanjoy | title= Multispectral analysis of asteroid 3 Juno taken with the 100-inch telescope at Mount Wilson Observatory | journal= Icarus | year= 2003 | volume= 163 | issue= 1 | pages= 135-141 | url= http://pubs.giss.nasa.gov/docs/2003/2003_Baliunas_etal.pdf | format= [[PDF]] | doi= 10.1016/S0019-1035(03)00049-6}}</ref>
+
+==Observations==
+Some notable observation milestones for Juno include:
+
+*Juno was the first asteroid for which an [[occultation]] was observed. It passed in front of a dim [[star]] (SAO 112328) on [[February 19]], [[1958]]. Since then, several occultations by Juno have been observed, the most fruitful being on [[December 11]], [[1979]] which was registered by 18 observers.<ref name="millis1981">{{cite journal | last= Millis | first= R. L. | authorlink= | coauthors= Wasserman, L. H.; Bowell, E.; Franz, O. G.; White, N. M.; Lockwood, G. W.; Nye, R.; Bertram, R.; Klemola, A.; Dunham, E.; Morrison, D. | title= The diameter of Juno from its occultation of AG+0°1022 | journal= Astronomical Journal | volume= 86 | issue= | pages= 306-313 | year= 1981 | month= February | url= http://adsabs.harvard.edu/abs/1981AJ.....86..306M | doi= 10.1086/112889}}</ref>
+
+*Radio signals from spacecraft in orbit around [[Mars]] and/or on its surface have been used to estimate the mass of Juno from the tiny perturbations induced by it onto the motion of [[Mars]].<ref name="Pitjeva04" />
+
+*A study by [[James L. Hilton|James Hilton]] suggests that Juno's [[orbit]] changed (slightly) around 1839, "very likely" due to perturbations from a passing asteroid, whose identity has not been determined yet. An alternate yet unlikely explanation is an impact by a sizeable body.<ref name="usno1999">{{cite journal | last= Hilton | first= James L. | authorlink= James L. Hilton | title= US Naval Observatory Ephemerides of the Largest Asteroids | journal= Astronomical Journal | volume= 117 | pages= 1077-1086 | year= 1999 | month= February | publisher= | url= http://aa.usno.navy.mil/publications/reports/asteroid_ephemerides.html | doi= 10.1086/300728}}</ref>
+
+*In 1996, Juno was imaged by the [[Hooker Telescope]] at [[Mount Wilson Observatory]] at visible and near-IR wavelengths, using [[adaptive optics]]. The images spanned a whole rotation period and revealed an irregular (lumpy) shape with a dark feature, interpreted as a fresh impact site.<ref name="baliunas2003" />
+
+==References==
+* {{cite web | last = Yeomans | first = Donald K. | url = http://ssd.jpl.nasa.gov/?horizons | title = Horizons system | publisher = NASA JPL | accessdate = 2007-03-20 }} &ndash; Horizons can be used to obtain a current ephemeris
+{{reflist}}
+
+==External links==
+{{Commons|3 Juno|3 Juno}}
+* [http://www.cfa.harvard.edu/press/pr0318image.html Well resolved images from four angles] taken at [[Mount Wilson observatory]]
+* [http://www.psi.edu/pds/resource/spin.html NASA Planetary Data System asteroid data sets]
+* [http://www.rni.helsinki.fi/~mjk/IcarPIII.pdf Shape model deduced from light curve]
+
+==See also==
+* [[Asteroids in fiction#Juno|Juno in fiction]]
+* [[List of Solar System bodies formerly considered planets]]
+
+{{MinorPlanets Navigator|2 Pallas|4 Vesta}}
+{{MinorPlanets Footer}}
+
+[[Category:Juno asteroids|Juno]]
+[[Category:Asteroids named from Roman mythology|Juno]]
+[[Category:S-type asteroids|J]]
+
+[[als:(3) Juno]]
+[[ast:3 Juno]]
+[[be-x-old:Юнона (астэроід)]]
+[[br:Juno (asteroidenn)]]
+[[bg:3 Юнона]]
+[[ca:(3) Juno]]
+[[cs:Juno (planetka)]]
+[[co:Juno]]
+[[de:Juno (Asteroid)]]
+[[el:3 Ήρα]]
+[[es:(3) Juno]]
+[[eo:Juno (asteroido)]]
+[[fr:(3) Junon]]
+[[ko:3 유노]]
+[[hr:3 Juno]]
+[[ia:3 Juno]]
+[[it:3 Juno]]
+[[he:יונו (אסטרואיד)]]
+[[la:3 Iuno]]
+[[hu:3 Juno]]
+[[nl:Juno (planetoïde)]]
+[[ja:ジュノー (小惑星)]]
+[[nn:3 Juno]]
+[[pl:3 Juno]]
+[[pt:3 Juno]]
+[[ru:Юнона (астероид)]]
+[[simple:3 Juno]]
+[[sk:3 Juno]]
+[[fi:3 Juno]]
+[[sv:3 Juno]]
+[[uk:3 Юнона]]
+[[zh:婚神星]]

@@ -1,0 +1,64 @@
+{{Taxobox
+| color = lightgreen
+| name = ''Nepenthes inermis''
+| status = VU
+| status_system = iucn2.3
+| image =  Nepenthes inermis1.jpg
+| image_caption = Upper pitchers of ''Nepenthes inermis'' from [[Mount Belirang]].
+| regnum = [[Plant]]ae
+| divisio = [[Magnoliophyta]]
+| classis = [[Magnoliopsida]]
+| ordo = [[Caryophyllales]]
+| familia = [[Nepenthaceae]]
+| genus = ''[[Nepenthes]]''
+| species = '''''N. inermis'''''
+| binomial = ''Nepenthes inermis''
+| binomial_authority = [[Danser]] (1928)
+| synonyms =
+*''Nepenthes bongso''<br><small>''auct. non'' Korth.: Tamin & M.Hotta ''in'' M.Hotta (1986)<br>[=''[[Nepenthes bongso|N. bongso]]/[[Nepenthes dubia|N. dubia]]/N. inermis'']</small>
+}}
+
+'''''Nepenthes inermis''''' ([[Latin]]: ''inermis'' = unarmed; referring to the reduced [[peristome]]) is a highland ''[[Nepenthes]]'' [[pitcher plant]] species, native to [[Sumatra]]. It is closely related to ''[[Nepenthes dubia|N. dubia]]'', but completely lacks a peristome in its upper pitchers unlike the latter.  The pitchers are also usually green, while those of ''N. dubia'' tend to be yellow to orange in colour.
+
+==Taxonomy==
+
+In 2001, [[Charles Clarke (botanist)|Charles Clarke]] performed a [[cladistic analysis]] of the ''Nepenthes'' species of Sumatra and [[Peninsular Malaysia]] using 70 morphological characteristics of each taxon. The following is part of the resultant [[cladogram]], showing "Clade 1", which has 51% bootstrap support. Its most strongly supported subclade is the sister pair of ''N. inermis'' and ''N. dubia'', having 95% support.<ref name=Clarke>Clarke, C.M. 2001. ''Nepenthes of Sumatra and Peninsular Malaysia''.  Natural History Publications (Borneo), Kota Kinabalu.</ref>
+
+{{clade| style=font-size:100%;line-height:80%
+|label1=
+|1={{clade
+ |label1=51%
+ |1={{clade
+    |1=''[[Nepenthes aristolochioides|N. aristolochioides]]''
+    |label3=<font color="white">unnamed</font>
+    |3={{clade
+       |label1=<font color="white">unnamed</font>
+       |1={{clade
+          |1=''[[Nepenthes tenuis|N. tenuis]]''
+          }} 
+       |label2=<font color="white">unnamed</font>
+       |2={{clade
+          |label1=95%
+          |1={{clade
+             |1=''[[Nepenthes dubia|N. dubia]]''
+             |2=''N. inermis''
+             }}
+          }}     
+       }}
+    }}
+ }}
+}}
+
+<gallery>
+Image:Nepenthes inermis3.jpg|Unopened upper pitcher
+Image:Nepenthes inermis.gif|Herbarium specimens of ''N. inermis'' (including holotype)
+</gallery>
+
+==References==
+{{reflist}}
+* {{IUCN2006|assessors=Schnell, D., Catling, P., Folkerts, G., Frost, C., Gardner, R., ''et al.'' |year=2000|id=40112|title=Nepenthes inermis|downloaded=11 May 2006}} Listed as Vulnerable (VU A1c v2.3)
+
+{{Commons|Nepenthes inermis}}
+{{Nepenthes}}
+{{Caryophyllales-stub}}
+[[Category:Nepenthes]]

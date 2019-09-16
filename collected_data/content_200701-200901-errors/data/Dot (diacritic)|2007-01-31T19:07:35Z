@@ -1,0 +1,48 @@
+{{Diacritical marks}}
+When used as a [[diacritic]] mark, the term '''dot''' is usually reserved for the ''[[Interpunct]]'' (·), or to the [[glyph]]s 'combining dot above' ( {{unicode|&nbsp;̇}}) and 'combining dot below' ( {{unicode|&nbsp;̣}}) which may be combined with some [[letter]]s of the extended [[Latin alphabet]]s in use in Central European languages and [[Vietnamese language|Vietnamese]].
+
+==Dot above==
+Language scripts or transcription schemes that use the dot as a diacritic mark:
+
+* In [[Arabic romanization]], ''{{Semxlit|[[ġ]]}}'' stands for the letter ''[[ghayin]]''.
+* [[Irish orthography#The alphabet|Traditional Irish typography]], where the dot denotes [[lenition]], and is called a <em>ponc séimhithe</em> 'dot of lenition': ''{{Unicode|ḃ ċ ḋ ḟ ġ ṁ ṗ ṡ ṫ}}''
+* [[Lithuanian language|Lithuanian]]: ''[[ė]]''
+* [[Maltese language|Maltese]]: ''[[ċ]] ġ ż''
+* [[Polish language|Polish]]: ''ż''
+* The dot above lowercase ''[[i]]'' and ''[[j]]'' (and uppercase ''[[I-dot|İ]]'' in [[Turkish language|Turkish]]) is not regarded as an independent diacritic, but rather as an integral part of the letter.
+
+In [[mathematics]] and [[physics]] the dot denotes the [[time derivative]] as in <math>v=\dot{x}</math>.
+
+==Dot below==
+* In [[IAST]] and [[National Library at Calcutta romanization]], transcribing [[Indic languages]], a dot below a letter indicates [[retroflex consonant]]s, while an underdot {{Semxlit|}} signifies an [[emphatic consonant]].
+** [[Ḍ]], also used in the [[O'odham language]].
+** [[Ḷ]], also used in unofficial transcriptions of [[Asturian language|Asturian]].
+
+* In [[romanization]]s of [[Semitic languages]], a dot below a consonant is used to indicate [[emphatic consonant]]s. For example, ''{{unicode|ṣ}}'' represents an emphatic ''s''.
+** [[Ḍ]]
+** [[Ṛ]]
+** [[Ṣ]]
+** [[Ṭ]]
+
+* [[Vietnamese language|Vietnamese]]. The ''nặng'' [[tone (linguistics)|tone]] (low, glottal) is represented with a dot below the base vowel: ''ạ ặ ậ ẹ ệ ị ọ ộ ợ ụ ự ỵ''.
+* In [[Yoruba language|Yoruba]], the dot is used below the ''o'', the ''e'' and the ''s'': those three letters can also occur without dot as another letter.
+
+==See also==
+* [[Anunaasika]]
+* [[Anusvara]]
+* [[Tittle]]
+
+{{Latin alphabet}}
+
+==External links ==
+* [http://diacritics.typo.cz Diacritics Project — All you need to design a font with correct accents]
+
+[[Category:Diacritics]]
+
+[[br:Pik (sin diakritek)]]
+[[bg:Точка (диакритичен знак)]]
+[[de:Punkt (Akzent)]]
+[[fr:Point suscrit]]
+[[nl:Punt (diakritisch teken)]]
+[[ja:ドット符号]]
+[[ru:Точка (диакритический знак)]]

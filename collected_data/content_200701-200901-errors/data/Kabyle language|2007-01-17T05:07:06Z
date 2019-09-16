@@ -1,0 +1,116 @@
+{{language
+|name=Kabyle
+|nativename= {{Audio|Taqbaylit.ogg|'''Taqbaylit'''}}
+|states=[[Algeria]]; immigrant communities in [[France]], [[Belgium]] and elsewhere
+|region=[[Kabylie]] (''[[Provinces]]'' of [[Tizi Ouzou Province|Tizi Ouzou]], [[Béjaïa Province|Bejaia]], [[Bouira Province|Bouira]], [[Boumerdès Province|Boumerdes]], [[Sétif Province|Sétif]], [[Bordj Bou Arréridj Province|BBA]], and parts of [[Jijel Province|Jijel]])
+|speakers=3,123,000 (1995) [http://www.ethnologue.com/show_language.asp?code=kab]—5.5 millions in Algeria, about 7 millions worldwide [http://www.tlfq.ulaval.ca/AXL/AFRIQUE/algerie-1demo.htm] [http://www.inalco.fr/crb/pages_html/langue.htm]
+|familycolor=Afro-Asiatic
+|fam2=[[Berber languages|Berber]]
+|fam3=[[Northern Berber languages|Northern]]
+|iso2=kab|iso3=kab
+|map=[[Image:Kabyle.gif|thumb|center|300px|Kabyle-speaking areas (in 1936)]]}} 
+
+'''Kabyle''' is a [[Berber language]] (Kabyle: ''{{unicode|Ṯaq<u>b</u>ayliṯ}}'', {{Audio|Taqbaylit.ogg|'''Taqbaylit'''}}, [[International Phonetic Alphabet|pronounced]] {{IPA|/ˌθaq.βajˈliθ/}}) spoken by the [[Kabyle people]]. In [[1995]], there were 3,123,000 speakers worldwide, the majority in [[Algeria]], where there were more than 2,000,000. However, according to [[INALCO]] estimates, there are 5.5 million speakers in Algeria and about 7 million worldwide.
+
+Kabyle was (with some exceptions) rarely written before the [[20th century]]; however, in recent years a small but increasing body of literature has been printed. The originally [[Oral literature|oral poetry]] of [[Si Mohand]] is particularly notable in this respect. Famous Kabyle singers include [[Lounès Matoub|Matoub Lounes]], [[Idir]] and [[Ait Menguellet]].
+
+== Grammar ==
+
+===Nouns and adjectives===
+====Gender====
+As an [[Afro-asiatic languages|Afro-Asiatic language]], Kabyle has only two [[Grammatical gender|genders]], Masculine and Feminine. Like most [[Berber languages]], masculine nouns and adjectives generally start with a vowel (''a-'', ''i-'', ''u-''), while the feminine nouns generally start with ''t-'' and end with a ''-t'' (there are some exceptions, however). Note that most feminine nouns are in fact feminized versions of masculine nouns.
+
+Examples: 
+*''Aqcic'' "a boy", '''''t'''aqcic'''t''''' "a girl".
+*''Amγar'' "an old man", '''''t'''amγar'''t''''' "an old woman".
+*''Argaz'' "a man", Tame{{unicode|ṭṭ}}ut "a woman".
+*''Izi'' "a fly", ''Tizit'' "mosquito".
+
+====Pluralization====
+Singular nouns generally start with an ''a-'', and do no have a suffix. Plural nouns generally start with an ''i-'' and often have a suffix such as ''-en''. There are three types of plural : external, internal, mix:
+
+*External: '''''a'''mγar'' "an old man"; '''''i'''mγar'''en''''' "old men". Notice that the ''a-'' has turned into an ''i-'', and the suffix "-en" has been added.
+
+*Internal: '''''a'''mic'''i'''c'' "a cat"; '''''i'''mc'''a'''c'' "cats". Notice that the ''a'' and ''i'' have traded positions, but there is no suffix added.
+
+*Mix: ''igen'''ni''''' "sky"; ''igen'''wan''''' "skies". Notice that the "i-" has been kept, and the previous suffix, ''-ni'' has been replaced.
+
+====Free and annexed state====
+Depending on the role of the noun in the sentence, it takes either its free or annexed state:
+
+*Free: ''Yewwet '''a'''qcic''. "He has beaten a boy".
+*Annexed: ''Yewwet '''we'''qcic''. "The boy has beaten".
+
+After a preposition (at the exception of "ar" and "s"), all nouns take their annexed state:
+
+*Free state: '''A'''man (water), Kas n '''wa'''man (a glass of water).
+
+===Verbs===
+There are three tenses : the [[Preterite]] (past), intensive Aorist (present perfect, present continuous, past continuous) and the future (Ad+Aoriste). Unlike other berber languages, the [[aorist]] alone is rarely used in Kabyle (In the other languages it is used to express the present). 
+
+"Weak verbs" have their preterite the same as their aoriste, the examples of weak verbs that follows are conjugated at the first person of the singular:
+
+{| class="wikitable" border="1" cellpadding="2" cellspacing="0" align="left"
+|-
+! style="background:#CFCFCF;" | ''Verb''
+! style="background:#CFCFCF;" | ''Preterite''
+! style="background:#CFCFCF;" | ''Intensive aoriste'' 
+! style="background:#CFCFCF;" | ''ad + aoriste''
+|-
+|
+
+If
+ 
+Muqel
+
+Krez
+
+|
+
+ifeγ
+
+muqleγ
+
+kerzeγ
+
+|
+
+ttifeγ
+
+ttmuqleγ
+
+kerrzeγ
+
+|
+
+ad ifeγ
+
+ad muqleγ
+
+ad kerzeγ
+
+|-
+|-
+|}
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+== External links ==
+{{Incubator|code=kab|prefix=Wp}}
+*[http://www.imyura.com imyura.com], a website written in Kabyle.
+*[http://www.tamazight.fr tamazight.fr], another website written in Kabyle.
+*[http://www.kabylia.info/index.php/Axxam Unofficial Kabyle wikipedia]
+
+[[Category:Berber languages]]
+[[Category:Languages of Algeria]]
+
+[[de:Kabylische Sprache]]
+[[eo:kabila lingvo]]
+[[fr:Kabyle (langue)]]
+[[hu:Kabil nyelv]]
+[[nn:Kabyle]]
+[[pl:Język kabylski]]
+
+
+{{berber-stub}}
+{{Algeria-stub}}
+{{AfroAsiatic-lang-stub}}

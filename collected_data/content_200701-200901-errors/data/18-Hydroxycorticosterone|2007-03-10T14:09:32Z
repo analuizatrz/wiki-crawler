@@ -1,0 +1,40 @@
+{{Chembox new
+| ImageFile = 18-hydroxycorticosterone.PNG
+| ImageSize = full
+| IUPACName = 
+| OtherNames = 
+| Section1 = {{Chembox Identifiers
+|   CASNo = 561-65-9
+|   PubChem = 11222
+|   SMILES = 
+|   MeSHName = 18-hydroxycorticosterone
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>21</sub>H<sub>30</sub>O<sub>5</sub>
+|   MolarMass = 362.46 g/mol
+|   Appearance = 
+|   Density = 
+|   MeltingPt = 
+|   BoilingPt = 
+  }}
+| Section3 = {{Chembox Hazards
+|   Solubility = 
+|   MainHazards = 
+|   FlashPt = 
+|   Autoignition = 
+  }}
+}}
+
+'''18-Hydroxycorticosterone''' is a derivative of [[corticosterone]].
+
+It serves as an intermediate in the synthesis of [[aldosterone]] by the enzyme [[aldosterone synthase]] in the [[zona glomerulosa]]:
+
+[[Image:Corticosteroid-biosynthetic-pathway-rat.png|thumb|left|560px|Corticosteroid biosynthetic pathway in rat]]
+
+{{corticosteroids}}
+
+{{DEFAULTSORT:Hydroxycorticosterone, 18-}}
+[[Category:Corticosteroids]]
+
+
+{{biochem-stub}}

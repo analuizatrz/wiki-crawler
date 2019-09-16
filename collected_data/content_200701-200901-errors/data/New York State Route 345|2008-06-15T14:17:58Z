@@ -1,0 +1,64 @@
+{{Infobox road
+|state=NY
+|type=NY
+|route=345
+|length_mi=17.87
+|length_round=2
+|length_ref=<ref name=2006tdr />
+|established=1930<ref name=renum />
+|direction_a=South
+|starting_terminus={{jct|state=NY|US|11}} in [[Potsdam (village), New York|Potsdam]]
+|direction_b=North
+|ending_terminus={{jct|state=NY|NY|37}} in [[Waddington (village), New York|Waddington]]
+|counties=[[St. Lawrence County, New York|St. Lawrence]]
+|previous_type=NY
+|previous_route=344
+|next_type=NY
+|next_route=346
+}}
+'''New York State Route 345''' is a [[state highway]] located entirely within [[St. Lawrence County, New York|St. Lawrence County]] in the [[North Country, New York|North Country]] of [[New York]], [[USA]]. This road is a north-south route connecting the towns of [[Waddington (town), New York|Waddington]] and [[Potsdam (town), New York|Potsdam]]. The northern terminus of NY 345 is at [[New York State Route 37|NY 37]] in the village of [[Waddington (village), New York|Waddington]] by the [[St. Lawrence River]]. The southern terminus of NY 345 is at [[U.S. Route 11 (New York)|U.S. Route 11]] in the village of [[Potsdam (village), New York|Potsdam]].
+
+==Route description==
+NY&nbsp;345 begins at [[U.S. Route 11 (New York)|U.S. Route 11]] in [[Potsdam (village), New York|Potsdam]], just north of [[Clarkson University]]. The route heads northeastward on ''Madrid Avenue'' into the hamlet of [[Hewittville, New York|Hewittville]]. NY&nbsp;35 intersects CR 84 and subsequently turns slightly more towards the north. On a very straight path, it intersects CR 35 and crosses a small stream. NY&nbsp;35 enters a more rural, undeveloped area, shortly before intersecting [[New York State Route 310|NY 310]] in [[Madrid, New York|Madrid]]. The route receives the name ''Bridge Street'' as it crosses a minor river and passes north of the Madrid Golf Club. It then becomes known as ''Main Street'' and turns sharply northeast. Where it intersects with CR 14, it turns northwestward. The highway once again enters a rural area, intersecting a few local streets before finally coming to an end at [[New York State Route 37|NY 37]] in [[Waddington (village), New York|Waddington]], just southeast of the [[United States|U.S.]]/[[Canadian]] border.<ref>{{Cite web|author=Google Maps|title=''Google Maps''|year=2008|publisher=[Map]|accessdate=2008-05-10|url=http://maps.google.com/maps?hl=en&q=from:+RT-345%20@44.668210,%20-74.995000+to:+RT-345%20@44.863040,%20-75.202806}}</ref>
+==History==
+When NY 345 was assigned as part of the [[1930 renumbering (New York)|1930 renumbering]], it began at [[U.S. Route 11 (New York)|U.S. Route 11]] in [[Canton (village), New York|Canton]]. From there, NY 345 followed modern County Route 27 and CR 14 north to [[Madrid, New York|Madrid]], where it joined its modern alignment north to [[Waddington (village), New York|Waddington]]. At the same time, the current alignment of NY 345 from modern [[NY 310]] in Madrid to [[Potsdam (village), New York|Potsdam]] was designated as the southern half of [[New York State Route 56A|NY 56A]].<ref name=renum>{{cite news|author=Leon A. Dickinson|title=New Signs for State Highways|work=[[New York Times]]|date=[[1930-01-12]]|page=136}}</ref><ref>{{cite map |title=Road Map & Historical Guide - New York |publisher=[[Sun Oil Company]] |year=1935 |cartography=[[Rand McNally and Company]]}}</ref> The short piece of Bridge Street not part of NY 56A in Madrid was a state-maintained [[reference route (New York)|reference route]]<!--what number?-->.<ref name=morleyquad>{{cite map |publisher=[[New York State Department of Transportation]] |title=Morley Quadrangle - New York - St. Lawrence Co. |year=1969 |url=http://www.nysgis.state.ny.us/gisdata/quads/drg24/dotpreview/index.cfm?code=c37 |accessdate=2008-03-30}}</ref>
+
+On [[April 10]], [[1980]], the NY 56A designation was deleted.<ref>{{cite web|url=https://www.nysdot.gov/portal/page/portal/ver-STAGE/divisions/operating/oom/transportation-systems/repository/2007%20tour-bk.pdf|title=Official Description of Highway Touring Routes, Bicycling Touring Routes, Scenic Byways, & Commemorative/Memorial Designations in New York State|author=[[New York State Department of Transportation]]|date=October 2007|accessdate=2008-03-30}}</ref> The portion of former NY 56A from Madrid to Potsdam, as well as the state-maintained Bridge Street connector, became part of a rerouted NY 345 on [[September 1]], [[1982]], as a result of a highway maintenance swap between [[New York State]] and [[St. Lawrence County, New York|St. Lawrence County]].<ref name=law /><ref>{{cite map |publisher=[[Rand McNally]] |title=New York |year=1985 |isbn=0-528-91040-X}}</ref> As part of the swap, the pre-1982 routing of NY 345 between the Canton village line and Bridge Street in Madrid was turned over to the county while the portion of former NY 345 within Canton was transferred to the village.<ref name=morleyquad /><ref>{{cite web|author=[[New York State Legislature]]|url=http://public.leginfo.state.ny.us/menugetf.cgi?COMMONQUERY=LAWS|title=Highway Law, Article 12, Section 341|accessdate=2008-03-30}}</ref><ref name=law>{{cite map |publisher=[[New York State Department of Transportation]] |title=Canton Quadrangle - New York - St. Lawrence Co. |year=1969 |url=http://www.nysgis.state.ny.us/gisdata/quads/drg24/dotpreview/index.cfm?code=d37 |accessdate=2008-03-30}}</ref>
+
+==Major intersections==
+{{NYinttop|length_ref=<ref name="2006tdr">{{cite web |url=https://www.nysdot.gov/portal/page/portal/divisions/engineering/technical-services/hds-respository/06tdreport.pdf |title=2006 Traffic Data Report for New York State |date=[[2007-07-16]] |format=PDF |publisher=[[New York State Department of Transportation]] |pages=p. 284 | accessdate=2008-03-30}}</ref>}}
+{{NYint
+|county=St. Lawrence
+|cspan=4
+|location=Potsdam
+|area=village
+|mile=0.00
+|road={{jct|state=NY|US|11}}
+}}
+{{NYint
+|location=Madrid
+|lspan=2
+|mile=8.54
+|road={{jct|state=NY|NY|310}}
+}}
+{{NYint
+|mile=8.89
+|road=CR 14
+|notes=Former routing of NY 345
+}}
+{{NYint
+|location=Waddington
+|area=village
+|mile=17.87
+|road={{jct|state=NY|NY|37}}
+}}
+{{NYintbtm}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gribblenation.net/nyends/345.html NY State Route 345 Ends]
+
+[[Category:State highways in New York|345]]
+[[Category:St. Lawrence County, New York]]

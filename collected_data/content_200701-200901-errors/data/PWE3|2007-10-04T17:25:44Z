@@ -1,0 +1,13 @@
+In 2001, the [[Internet Engineering Task Force|IETF]] set up the [[pseudowire]] emulation edge to edge [[working group]], and this group was given the acronym '''PWE3''' (the 3 standing for the third power of E, i.e. EEE). The working group was chartered to develop an architecture for service provider edge-to-edge PWs, and service-specific documents detailing the encapsulation techniques. 
+
+In [[computer networking]] and [[telecommunications]], a pseudowire (PW) is an emulation of a native service over a [[packet-switching|packet switched network]] (PSN). The native service may be [[Asynchronous Transfer Mode|ATM]], [[frame relay]], [[Ethernet]], low-rate [[Time-division multiplexing|TDM]], or [[Synchronous optical networking|SONET/SDH]], while the PSN may be [[Multi-protocol label switching|MPLS]], [[Internet Protocol|IP]] (either IPv4 or IPv6), or [[L2TPv3]].
+
+The working group chairs were originally Danny McPherson and Luca Martini, 
+but following Martini's resignation Stewart Bryant became co-chair.
+
+==External links==
+*http://www.ietf.org/html.charters/pwe3-charter.html
+* [http://www.inspirethenewlife.com/videogallery/index.cfm?id=4D52BB6C-F8C7-7CD3-2C2BDB7B3B89FF7F Get Schooled - Pseudowires: The Building Blocks to Mobile and Transport Convergence]
+* [http://www.inspirethenewlife.com/videogallery/index.cfm?id=54E51B80-E0CB-91F4-2DCF8050B1BCE162 Get Schooled - Packet Transport Technologies: Pseudowires, T-MPLS and PBT]
+
+[[Category:Computer network organizations]]

@@ -1,0 +1,93 @@
+{{redirect|IFR}}
+'''Instrument Flight Rules (IFR)''' are a set of regulations and procedures for flying [[aircraft]] whereby separation to other aircraft and terrain is maintained with reference to aircraft instruments only. It is an alternative to [[visual flight rules]] (VFR), where the [[aviator|pilot]] is primarily or exclusively responsible for ''see-and-avoid''. A flight operating IFR is allowed to fly through [[cloud]]s; which is not permitted under VFR.
+
+The vast majority of commercial traffic (a flight carrying paying passengers or cargo) operate exclusively under IFR. Commercial aircraft usually operate under VFR if providing sight seeing flights, aerial photography, or lift services for parachute jumping.
+
+==Separation==
+
+The distance by which an aircraft avoids obstacles or other aircraft is termed ''separation''. The most important concept of IFR flying is that separation is maintained regardless of meteorological visibility conditions. In [[controlled airspace]], [[Air Traffic Control]] (ATC) separates IFR aircraft from obstacles and other IFR aircraft by applying a flight ''clearance'' based on route, time, distance, speed, and altitude differences between aircraft. ATC monitors IFR flights by relying either on [[radar]] or aircraft position reports. Aircraft position reports are traditionally sent as voice radio transmissions, but increasingly also as electronic data exchanges. Aircraft position reports are not necessary if ATC has an aircraft in radar contact. In the United States a flight operating under IFR is required to fall back to position reports if advised that ''radar services [are] terminated''.
+
+IFR flights require an ATC ''clearance'' for each part of the flight. A clearance always specifies a ''clearance limit'', which is the farthest the aircraft can fly without a new clearance. In addition, a clearance typically provides a heading or route to follow, altitude, and communication parameters, such as frequencies and transponder codes. An aircraft operating [[VFR]] must also obtain a clearance to enter ''[[Airspace classes|class B]]'' airspace, and is required to maintain an assigned heading or altitude restriction as long as it does not conflict with the safe operation of the aircraft.
+
+In uncontrolled airspace, IFR aircraft do not require clearances, and they separate themselves from each other by using charted minimum altitudes to avoid terrain and obstacles, standard cruising altitudes to avoid aircraft flying in different directions, and radio reports over mandatory locations.
+
+In the United States and Canada, airspace from 18,000 to 60,000 feet (5,586 to 18,288 meters) is designated as ''[[Airspace classes|class A]]'', requiring an IFR clearance for all aircraft.
+
+In the United States even when on a filed IFR flight plan, if conditions permit the pilot is responsible to maintain a watch for, and avoid other air traffic and obstructions.
+
+==Weather==
+One main purpose of IFR is the safe operation of aircraft in [[Instrument meteorological conditions|Instrument Meteorological Conditions]] (IMC). The weather is considered to be IMC when it does not meet the minimum requirements for [[Visual meteorological conditions|Visual Meteorological Conditions]]. To operate safely in IMC, a pilot controls the aircraft relying on [[flight instruments]], and ATC provides ''separation''.
+
+[[Image:IFR on top.jpg|thumb|right|280px|<center>Flying IFR in VMC</center>]]
+It is important to not to confuse IFR with IMC. The vast majority of IFR flying is done under Visual meteorological conditions (VMC). Under VMC, ATC will not provide separation between IFR and VFR aircraft, and the crew is responsible for seeing and avoiding other traffic.
+
+During flight under IFR, there are no visibility requirements, and as such flying through clouds is permitted. There are still minimum conditions that must be present in order for the aircraft to take off and land; these will vary according to the type of electronic navigation aids available, the location and height of terrain and obstructions in the vicinity of the airport, equipment on the aircraft, and according to qualifications of the crew. For example, mountain airports such as Reno ([[KRNO]]) offer significantly different [[Instrument Landing System|instrument approaches]] for aircraft and crew that are specifically qualified. In the case of Reno, the "Silver ILS" allows a flight to continue an approach to 4,612 feet, as opposed to the "standard" ILS with a minimum altitude of 5,515 feet.
+
+Although large airliners and, increasingly, smaller aircraft now carry their own terrain- and collision-avoidance systems such as [[TCAS]], these are primarily backup systems providing a last layer of defense if a sequence of errors or omissions caused a dangerous situation.
+
+==Navigation==
+
+Under IFR, the primary means of navigation are either via radio beacons on the ground, such as [[VHF omnidirectional range|VOR]]s and [[Non-directional beacon|NDB]]s, or [[Global Positioning System|GPS]]. In areas of radar coverage, ATC may also assign headings to IFR aircraft, also known as ''radar vectors''. ''Radar vectors'' are the primary method for ATC to provide separation between aircraft for landing.
+
+Modern [[Flight Management System|Flight Management Systems]] have evolved sufficiently to allow a crew to plan a flight not only as to route and altitude, but to specific time of arrival at specific locations. This capability is used in several trial projects experimenting with ''four dimensional'' approach clearances for commercial aircraft, with time as the fourth dimension. These clearances allow ATC to optimize the arrival of aircraft at major airports, which increases airport capacity, and uses less fuel providing monetary and environmental benefits to airlines and the public at large respectively.
+
+==Procedures==
+
+There are three stages to an IFR flight: departure, en route, and approach.  For each stage there are standard, published procedures to allow IFR aircraft to move in a safe, orderly way, from the moment the wheels leave the runway to the moment they touch down again. These procedures also allow an IFR aircraft to complete a flight predictably in case of communication failure (''lost-comm'') with ATC, with default altitudes and headings for every stage. An IFR flight typically starts with an IFR clearance, which specifies the departure instructions, and any modifications to the route. Here is an example of an IFR clearance, for a Cessna aircraft traveling from Palo Alto airport (KPAO) to Stockton airport (KSCK). <br />
+
+{| class="wikitable"
+|-
+| Cessna 6253G is cleared to Stockton Airport. On takeoff, turn right heading zero-six-zero within one mile of the airport. Radar Vectors San Jose, Victor-334 SUNOL, Victor-195 Manteca, direct. Climb and maintain 3,000 expect 5,000 five minutes after departure. Departure frequency is 121.3, squawk 4263.
+|}
+
+Departures are described in an IFR clearance issued by ATC prior to takeoff. The departure clearance may contain an assigned heading, one or more waypoints, and an initial altitude to fly. The clearance can also specify a [[departure procedure]] (DP), or [[standard instrument departure]] (SID) that should be followed.
+
+En route flight is described by IFR charts showing navigation aids, fixes, and standard routes called ''[[Airway (aviation)|airways]]''. Aircraft with appropriate navigational equipment such as GPS, are also often cleared for a ''direct-to'' routing, where only the destination, or a few navigational waypoints are used to describe the route that the flight will follow. ATC will assign altitudes in its initial clearance or amendments thereto, and navigational charts indicate minimum safe altitudes for airways.
+
+The approach portion of an IFR flight may begin with a [[Standard Terminal Arrival Route]] (STAR), describing common routes to fly to arrive at an [[Initial Approach Fix]] (IAF) from which an [[instrument approach]] commences. ''Instrument approaches'' are categorized as ''precision'' and ''non-precision'', indicating the capabilities of the navigational equipment that is used for lateral and vertical guidance during the approach. A higher accuracy allows instruments to be used closer to the ground and potential obstructions.
+
+In either case, an instrument approach will terminate either in visual conditions sufficient for a normal landing of the airplane, or in a [[missed approach]] if such conditions are not encountered in time. The point at which the crew of an aircraft has to make a decision to either proceed visually, or "miss" the approach is called either the [[Decision altitude|Decision Altitude]] (DA) for precision approaches, or [[Missed Approach Point]] (MAP) for non-precision approaches. During precision approaches the altitude of the aircraft is determined by the navigational instruments. For non-precision approaches the crew will descend to specific altitudes during the approach procedure, with the final altitude termed the [[Minimum Descent Altitude]] (MDA).
+
+Some commercial aircraft are equipped with automatic landing systems that allow the aircraft to land without transitioning from instruments to visual conditions for a normal landing. Such [[Autoland]] operations require specialized equipment, procedures and training, and involve the aircraft, airport, and the crew. Autoland is the only way some major airports such as [[Charles de Gaulle International Airport|Paris CDG]] remain operational every day of the year. Some modern aircraft are equipped with [[enhanced vision]] systems based on infrared sensors, that provide a day-like visual environment and allow operations in conditions and at airports that would otherwise not be suitable for a landing. Commercial aircraft also frequently use such equipment for takeoffs when ''takeoff minimums'' are not met.<ref>For example, Southwest Airlines flies [[Head Up Display]] (HUD) equipped Boeing 737 aircraft to fog-prone airports such as Sacramento International ([[KSMF]]), allowing flights to take off when they would otherwise be unable to do so.</ref>
+
+Documents describing the approach procedure are also frequently called [[approach plate|approach plates]] in reference to the plate-like appearance of single-page sheet that it is printed on.
+
+An instrument approach that terminates in a ''missed approach'' will continue using ''missed approach procedure'' information shown on the approach procedure. Typically it describes a transition to a nearby navigational fix, from which the instrument approach can be attempted again. In practice an approach that terminates in a missed approach rarely flies the missed approach procedure ''as published''. Instead, ATC will assign headings and altitudes that will weave the aircraft into the arriving traffic for a repeated approach attempt. The crew may also request an alternate destination, either a previously stated ''alternate airport'', or other suitable airport considering the prevailing weather conditions.
+
+==Qualifications==
+
+To fly under IFR, a pilot must have an [[instrument rating]], and must meet recency of experience requirements. In the United States, these recency of experience requirements include six [[instrument approach]]es, [[NAVAID]] intercepting and tracking, and [[hold (aviation)|holding]] procedures in the past six months.  The aircraft must also be equipped and type-certified for instrument flight, and the related navigational equipment must have been inspected within a specific period of time prior to the instrument flight.
+
+The UK differs from pilot licensing practice in the U.S.  In the UK any pilot can decide to which flight rules he adheres given that the meteorological conditions for those rules are met.  The pilot does need an instrument rating to fly in instrument meteorological conditions, and under IFR in controlled airspace.  The upshot of this is that non-instrument qualified pilots can elect to fly under IFR in visual meteorological conditions outside controlled airspace.  Compared to the rest of the world the UK's flight crew licensing regime is somewhat unusual in this respect by licensing for meteorological conditions and airspace, rather than flight rules.  As a partial alternative to the [[instrument rating]], the UK issues an "IMC rating", the privileges of which include flight under IFR in controlled (classes D and E) airspace and flight outside controlled airspace in instrument meteorological conditions.
+
+==References==
+{{Reflist}}
+
+== See also ==
+* [[Visual flight rules]] (VFR)
+* [[Special visual flight rules]] (SVFR)
+* [[VHF omnidirectional range|VHF Omni-directional Range]] (VOR)
+* [[Instrument Landing System]] (ILS)
+* [[Non-directional beacon|Non-Directional Beacon]] (NDB)
+* [[Distance Measuring Equipment]] (DME)
+* [[Global Positioning System]] (GPS)
+* [[Airspace class|Airspace classes]]
+* [[Helmet fire]]
+
+[[Category:Aviation terminology]]
+[[Category:Aviation]]
+[[Category:Airport terminology]]
+
+[[cs:Let podle přístrojů]]
+[[de:Instrumentenflug]]
+[[es:Reglas de vuelo instrumental]]
+[[fr:Vol aux instruments]]
+[[ko:계기 비행]]
+[[hr:Let pomoću instrumenata]]
+[[it:Regole del volo strumentale]]
+[[he:טיסת מכשירים]]
+[[nl:Instrument flight rules]]
+[[ja:計器飛行方式]]
+[[no:Instrumentinnflygning]]
+[[pl:IFR]]
+[[pt:IFR]]

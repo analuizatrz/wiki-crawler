@@ -1,0 +1,199 @@
+{{Infobox Software2|name=ITunes
+|logo=[[Image:iTunes-700-icon.png|60px|iTunes 7 icon]]<!--newest icon only, please-->
+|screenshot=[[Image:iTunes 7.3.png|250px]]
+|caption=iTunes 7.3 under Mac OS X
+|developer=[[Apple Inc.]]
+[[Mac OS X]], [[Windows 2000]], [[Windows XP|XP]], and [[Windows Vista|Vista]] <ref>http://www.apple.com/itunes/download/</ref>
+|genre=[[Media player]]
+|license=[[Proprietary software|Proprietary]] ([[freeware]])
+|website=[http://www.apple.com/itunes/ Apple's Official iTunes Website]
+}}
+{{otheruses4|about the iTunes application|the online media service|iTunes Store}}
+{{lowercase}}
+'''ITunes''' is a [[Digital media|digital]] [[media player]] application, introduced by [[Apple Inc.|Apple]] on [[January 10]], [[2001]] at the [[Macworld Expo]] in San Francisco,<ref>{{cite web|title=Macworld Expo San Francisco 2001|work=[[Ars Technica]]|url=http://arstechnica.com/reviews/01q1/macwldsf/mwsf-7.html#itunes|accessdate=2006-06-16}}</ref> for playing and organizing digital music and video files. The program is also an interface to manage the contents on Apple's popular [[iPod]] digital media players. Additionally, iTunes can connect to the [[iTunes Store]] (provided an [[internet connection]] is present) in order to download purchased [[digital audio|digital music]], [[music video]]s, [[television shows]], [[iPod games]], [[audiobook]]s, various [[podcast]]s, and [[film|feature length films]].
+
+iTunes is available as a free download for [[Mac OS X]], [[Windows Vista]], [[Windows XP]] and [[Windows 2000]] from Apple's website. It is also [[bundling (marketing)|bundled]] with all [[Macintosh]] computers, and some [[HP]] and [[Dell]] computers.
+
+==Features==
+[[Image:Coverflow-Full Screen.png|thumb|[[Cover Flow]] in Full Screen mode.]]Users are able to organize their music into [[playlist]]s within one or more libraries, edit file information, record [[Compact Disc|compact discs]], copy files to a [[digital audio player]], purchase music and videos through its built-in music store, download [[podcast]]s, back up songs onto a [[Compact Disk|CD]] or [[DVD]], run a visualizer to display graphical effects in time to the music, and encode music into a number of different audio formats.
+
+===Playlists===
+In addition to static playlist support, iTunes supports 'Smart playlists'. Smart playlists are playlists that can be set to automatically update (live updating, like a [[database]] query) based on a customized list of selection criteria. Different criteria can be entered to control many aspects of the playlist.<ref>{{cite web|title=Creating Smart Playlists|url=http://www.apple.com/ilife/tutorials/itunes/it2-2.html|accessdate=2006-07-02}}</ref>
+
+Playlists can also be published by a user of iTunes with his or her own preferences.
+
+Playlists can be played [[random]]ly or [[sequential]]ly. The "randomness" of the shuffle algorithm can be biased for or against playing multiple tracks from the same album or artists in sequence (a new feature in iTunes 5.0). Party Shuffle can also be biased towards selecting tracks with a higher star rating. With this bias enabled, each star rating increases the preference for that particular song about 4% over that of a one-star-less rated song. Unrated songs are the least likely to be played. Inter-star ratings are stored by iTunes, but only affect this feature in the range of zero to one star.
+
+The Party Shuffle playlist is intended as a simple [[Disc Jockey|DJing]] aid.<ref>{{cite web|title=DJ a Party with iTunes|url=http://www.apple.com/ilife/tutorials/itunes/it4-6.html|accesseate=2006-07-02}}</ref> By default, it selects tracks randomly from other playlists or the library; users can override the automatic selections by deleting tracks (iTunes will choose new ones to replace them) or by adding their own via [[drag-and-drop]] or [[contextual menu]]. This allows a mixture of both preselected and random tracks in the same meta-playlist. The playlist Party Shuffle draws from can be changed on the fly; this will cause all randomly chosen tracks to disappear and be replaced.
+
+===Music library===
+iTunes keeps track of songs by creating a virtual library, allowing users to access and edit a song's attributes. These attributes, known as [[metadata (computing)|metadata]], are stored in two library files.
+
+The first is a binary file called ''iTunes Library'' and it uses a proprietary file format. It caches information like artist and genre from the audio format's tag capabilities (the [[ID3]] tag, for example) and stores iTunes-specific information like play count and rating. iTunes typically reads library data only from this file.
+
+The second file, ''iTunes Music Library.xml'', is refreshed whenever information in iTunes is changed. It uses an [[XML]] format, allowing developers to easily write applications that can access the library information (including play count, last played date, and rating, which are not standard fields in the ID3v2.3 format). Apple's own [[iDVD]], [[iMovie]], and [[iPhoto]], and Freshly Squeezed Software's Rock Star<ref>{{cite web|title=Rock Star: Musical Game Software for Mac OS X|work=Freshly Squeezed Software|url=http://freshsqueeze.com/products/rockstar/|accessdate=2006-01-12}}</ref> are examples of applications that access the library.
+
+If the first file is corrupted, iTunes will attempt to reconstruct it from the XML file. Detailed third-party instructions regarding this are documented elsewhere.<ref>[http://hifiblog.com/past/2006/05/11/howto-move-your-itunes-music-while-preserving-library-data-when-you-dont-let-itunes-manage-your-music-library/ HOWTO: Move your iTunes music while preserving library data (when you don’t let iTunes manage your music library)]</ref>
+
+For [[MP3]] files, iTunes writes tags in [[Unicode]] ID3v2.2 by default, but converting them to ID3v2.3 and ID3v2.4 is possible via its "Advanced" > "Convert ID3 Tags" toolbar menu. If both ID3v2.x and ID3v1.x tags are in a file, iTunes ignores the ID3v1.x tags.
+
+[[Advanced Audio Coding|AAC]] and [[Apple Lossless]] files support Unicode metadata, stored in the [[MP4]] container as so-called "Atoms". iTunes can play [[Vorbis]] or [[FLAC]] if the required QuickTime plugins are installed.
+
+===Printing===
+To compensate for the lack of a physical CD, iTunes can print custom-made [[jewel case]] inserts as well as song lists and album lists. After burning a CD from a playlist, one can select that playlist and bring up a dialogue box with several print options. The user can choose to print either a single album cover (for purchased iTunes albums) or a compilation cover (for user-created playlists). iTunes then automatically sets up a template with art on one side and track titles on the other.
+
+===iMix===
+An iMix is a user-created playlist published in the iTunes Store. iMixes were first introduced in iTunes version 4.5. Anyone can create an iMix free of charge. iMixes are limited to 100 songs and support both music downloaded from the music store as well as music that has been imported from CDs (provided it is available on the iTunes Store). iMixes are public and searchable by any iTunes user. Users may also rate any iMix using a five-star system. iMixes are active for one year from their original published date.  Users can publish their iTunes iMix to their blog, profile page or website.
+
+===Internet radio===
+iTunes 1.0 came with support for the [[Kerbango]] Internet radio tuner service, giving iTunes users a selection of some of the more popular online [[Streaming media|radio streams]] available.<ref>{{cite web|last=Munger|first=Michael|title=iTunes, Part 1|date=[[2001-04-04]]|url=http://www.lowendmac.com/ibasics/010404.html|accessdate=2006-07-02}}</ref> When Kerbango went out of business in 2001, Apple created its own Web radio service for use with iTunes 2.0 and later.<ref>{{cite web|last=Alvear|first=José|title=3Com Drops Kerbango|date=[[2001-03-23]]|url=http://www.streamingmedia.com/article.asp?id=6991|accessdate=2006-07-02}}</ref> As of February 2006, the iTunes radio service features around 300-400 distinct "radio stations" (with a total of over 700 streams, allowing for multiple bit rates), mostly in MP3 streaming format. Programming covers many genres of music and talk, including streams from both internet-only sources as well as streamed traditional stations.  iTunes also supports the .pls and .m3u stream file formats used by [[Winamp]], enabling iTunes to access almost any stream using that format.
+
+Up until iTunes 7, Apple no longer promoted the Internet radio feature, and no mention of it appeared on the iTunes website. However, it remains in the [[QuickTime]] 7.0.4 & iTunes [[EULA]] used by iTunes 6.0.5.20. With iTunes 7, the "Radio" item has reappeared as an optional source in the preferences, along with its stations.
+
+===File format support===
+iTunes 7 can currently read, write, and convert between [[MP3]], [[AIFF]], [[WAV]], [[MPEG-4]], [[Advanced audio coding|AAC]], and [[Apple Lossless]].
+
+iTunes can also play any audio files that [[QuickTime]] can play (as well as some video formats), including [[FairPlay (DRM)|Protected AAC]] files from the iTunes Store and [[Audible.com]] audio books. In order to play other formats such as the [[Ogg]]-contained [[Vorbis]] or [[Speex]] codecs, iTunes requires the [[Xiph QuickTime Components]] to be installed. iTunes currently will not play back [[AacPlus|HE-AAC/aacPlus]] audio streams correctly. HE-AAC/aacPlus format files will play back as 22 kHz AAC files (effectively having no high end over 11 kHz). HE-AAC streaming audio (which a number of [[Internet Radio]] stations use) will not play back at all.
+
+There has been some criticism of the quality of Apple's MP3 encoder, with regards to [[variable bitrate]] encoding. In a January 2004 [[double-blind]] public listening test of six MP3 encoders encoding at 128 kbit/s, conducted by Roberto Amorim, the iTunes MP3 VBR encoder came last. The author has later acknowledged that there may have been serious issues with how iTunes was tested.<ref>{{cite web|author=Amorim, Roberto|year=2003|title=Results of MP3 at 128 kbit/s public Listening Test|work=Roberto's public listening tests page|url=http://www.rjamorim.com/test/mp3-128/results.html|accessdate=2006-01-12}}</ref>
+
+The Windows version of iTunes can automatically convert unprotected [[Windows Media Audio|WMA]] (including version 9) files to other audio formats, but it does not support direct playback or encoding of WMA format.
+
+===Sound processing===
+iTunes includes sound processing features, such as [[equalization]], "sound enhancement" ("sound improvement" in some languages) and crossfade. There is also a feature called "Sound Check" which automatically adjusts the playback volume of all songs to the same level. Like "sound enhancement", this can be turned on in the 'Playback' section of iTunes' preferences.
+
+===Music sharing===
+iTunes Library songs can be shared over a local network using the closed, proprietary [[Digital Audio Access Protocol]] (DAAP), created by Apple for this purpose. DAAP relies on the [[Bonjour (protocol)|Bonjour]] network service discovery framework, Apple's implementation of the [[Zeroconf]] open network standard. Apple has not made the DAAP specification available to the general public, only to third-party licensees such as [[Roku]]. However, the protocol has been [[reverse engineering|reverse-engineered]] and is now used to stream playlists from non-Apple software (mainly on the [[Linux]] platform).<ref>{{cite web|title=Digital Audio Access Protocol|work=DAAP|url=http://daap.sourceforge.net/|accessdate=2006-01-12}}</ref>
+
+DAAP allows shared lists of songs within the same [[subnetwork|subnet]] to be automatically detected. When a song is shared, iTunes can stream the song but won't save it on the local hard drive, in order to prevent unauthorized copying. Songs in [[FairPlay (DRM)|Protected AAC]] format can also be accessed but authentication is required. A maximum of five users may connect to a single user every 24 hours.
+
+Originally with iTunes 4.0, users could freely access shared music anywhere over the Internet, in addition to one's own subnet, by specifying [[IP address]]es of remote shared song libraries. Apple quickly removed this feature with version 4.0.1, claiming that users were violating the [[End User License Agreement]].
+
+With the release of iTunes 7.0, Apple changed their implementation of DAAP. This change prevents any third-party client, such as a computer running Linux, a modified [[Xbox]], or any computer without iTunes installed, from connecting to a remote iTunes repository. iTunes will still connect as a client to other iTunes servers and to third-party servers.<ref>{{cite web|title=Snorp.net - iTunes 7|work=DAAP|url=http://www.snorp.net/log/2006/09/12/itunes-7/|date=[[2006-09-12]]|accessdate=2007-01-23}}</ref>
+
+===Video===
+On [[May 9]] [[2005]], video support was introduced to iTunes with the release of iTunes 4.8. Users can drag and drop movie clips from the computer into the iTunes Library for cataloging and organization. They can be viewed in a small frame in the main iTunes display, in a separate window, or fullscreen. Before version 7 provided separate libraries for media types, videos were only distinguished from audio in the Library by a small icon resembling a TV screen and grouped with music in the library, organized by the same musical categories (such as "album" and "composer"). iTunes relies on QuickTime and is therefore incompatible with some common video formats, including [[WMV]].
+
+On [[October 12]] [[2005]], Apple introduced iTunes 6.0, which added support for purchasing and viewing of video content from the iTunes Music Store. The iTunes Music Store initially offered a selection of several thousand Music Videos and five [[television|TV]] shows including most notably the ABC network's ''[[Lost (TV series)|Lost]]'' and ''[[Desperate Housewives]]''. Disney channels shows were also offered (''[[The Suite Life of Zack and Cody]]'' and ''[[That's So Raven]]'') 24 hours after airing as well as episode packs from past seasons; since that time, the collection has expanded with content from numerous television networks. The iTunes Music Store also gives the ability to view Apple's large collection of movie trailers.
+
+As of [[September 12]] [[2006]], the newly renamed iTunes Store offers over 200 television shows for download, including, most recently, additions from [[Discovery Channel]], [[Comedy Central]], [[MTV]], [[E!]], and [[Fox Broadcasting Company|FOX]]. Additionally, a catalog of 75 feature-length movies from [[Disney]]-owned studios was introduced. As of [[April 11]] [[2007]], over 500 feature-length movies are available through iTunes.<ref> {{cite web|work=[[Apple Inc.]]|title=Award-Winning MGM Films Now on the iTunes Store: Most Popular Online Movie Store Offers Over 500 Movies|url=http://www.apple.com/pr/library/2007/04/11itunes.html|accessdate=2007-04-11}}</ref>
+
+[[As of 2007|As of April 2007]], movies and TV shows are only available to U.S. customers, with the only video content available to non-U.S. customers being music videos and Pixar's short films.
+
+Video content available from the store used to be encoded as 540 kbit/s Protected [[MPEG-4]] video ([[H.264]]) with an approximately 128 kbit/s AAC audio track. Many videos and video podcasts currently require the latest version of QuickTime, QuickTime 7, which is incompatible with older versions of Mac OS (only v10.3.9 and later are supported). On [[September 12]] [[2006]], the resolution of video content sold on the iTunes Store was increased from 320x240 ([[QVGA]]) to 640x480 ([[VGA]]). The higher resolution video content is encoded as 1.5 Mbit/s(minimum) Protected [[MPEG-4]] video ([[H.264]]) with an min. 128 kbit/s AAC audio track.
+
+=== Plugins ===
+[[Image:ITunes_Viz.jpg|thumb|309px|iTunes visualizers: the default Apple visualiser is in the top left, LED Spectrum Analyzer on the right, and Gaslight in the bottom left.]]iTunes supports visualizer plugins and device plugins. Visualizer plugins allow developers to create music-driven visual displays. The visualizer plug-in software development kits for Mac and Windows can be downloaded for free from Apple.<ref>{{cite web|title=Development Kits|work=[[Apple Developer Connection]]|url=http://developer.apple.com/sdk/|accessdate=2006-01-12}}</ref> Device plugins allow support for additional music player devices, but Apple will only license the [[Application Programming Interface|API]]s to ''bona fide'' [[Original Equipment Manufacturer|OEM]]s who sign a [[non-disclosure agreement]].
+
+===Podcasting===
+Version 4.9 of iTunes, released on [[June 28]] [[2005]], added built-in support for podcasting. It allows users to subscribe to [[podcast]]s in the iTunes Music Store or by entering the [[RSS]] feed [[Uniform Resource Locator|URL]]. Once subscribed, the podcast will be downloaded automatically. Users can choose to update podcasts weekly, daily, hourly, or manually.
+
+Users can select podcasts to listen to from the Podcast Directory, to which anyone can submit their podcast for placement. In this directory, Apple maintains four "official" podcasts: Podfinder (with [[Adam Curry]]), Street Official Real Talk (interviews with [[hip hop music|hip-hop]] artists), iTunes New Music Tuesday, and Apple Quarterly Earnings Call. The front page of the directory also displays high-profile podcasts from commercial broadcasters and independent podcasters. It also allows users to browse the podcasts by category or popularity.
+
+The addition of podcasting functionality to a mainstream audio application like iTunes greatly helped bring podcasting to a much wider audience.<ref>{{cite web|title=The iTunes Effect|url=http://www.hawaiiup.com/2005/07/01/the-itunes-effect/|date=[[2005-07-01]]|work=HawaiiUP.com|accessdate=2006-07-04}}</ref>  Within days after iTunes 4.9 was released, podcasters were reporting that the number of downloads of their audio files had tripled, sometimes even quadrupled.<ref>{{cite web|title=Podcasts Get Lift From 'iTunes Effect'|url=http://www.redorbit.com/news/display/?id=168564&source=r_technology|publisher=Saint Paul Pioneer Press|date=[[2005-07-08]]|accessdate=2006-07-04}}</ref>
+
+===Video podcasting===
+Version 6 of iTunes introduced official support for [[video podcast]]ing, although video and [[RSS (file format)|RSS]] support was already unofficially there in version 4.9. Users can subscribe to RSS feeds through the iTunes Music Store or by entering the feed [[Uniform Resource Locator|URL]]. Video podcasts can contain downloadable video files (in [[QuickTime|MOV]], [[MP4]], [[MP4|M4V]], or [[MPEG-1|MPG]] format), but also streaming sources and even [[IPTV]]. Downloadable files can be synchronized to a video-capable iPod and both downloadable files and streams can be shown in [[Front Row]].
+
+===Synchronizing iPod and other players===
+iTunes can automatically [[synchronize]] its music and video library with an iPod every time it is connected. (The OS X version of iTunes can also synchronize with a number of other [[digital music player]]s;<ref>{{cite web|title=iTunes for Mac OS X: Compatible Players|work=[[Apple Inc.]]|url=http://docs.info.apple.com/article.html?artnum=93548|accessdate=2006-02-13}}</ref> the Windows version will support only the iPod.)<ref>{{cite web|title=MP3 player compatibility with iTunes for Windows|work=[[Apple Inc.]]|url=http://docs.info.apple.com/article.html?artnum=93377| accessdate=2006-02-13}}</ref> New songs and playlists are automatically copied to the iPod and songs that have been deleted from the library on the computer are also deleted from the iPod. Ratings awarded to songs on the iPod will sync back to the iTunes library and [[audiobook]]s will remember the current playback position.
+
+Automatic synchronization can be turned off in favor of manually copying individual songs or complete playlists. iTunes supports copying music to the iPod; however, only purchased music and videos can be transferred from the iPod back to iTunes. This functionality was added much after third party software was available which allowed users to copy all content back to your computer. It is also possible to copy from the iPod using ordinary [[Unix]] command line tools, or by simply enabling the "Show hidden files and folders" option under "Folder Options" in [[Windows Explorer]], then copying music from the iPod drive to a local disk for backup. However, doing this can be confusing because the original titles are not kept and the files are organized in a very unfriendly way. Also, when music or video purchased through the iTunes Store is copied from an iPod, it will only play on computers that are authorized with the account that was used to purchase them.
+
+When an iPod is connected that does not contain enough free space to sync the entire iTunes music library, a playlist will be created and given a name matching that of the connected iPod. This playlist can then be modified to the user's preference in song selection to fill the available space.
+
+iTunes supports a number of other popular portable music players with some limitations, most notably the inability to play music purchased from the iTunes Store. Supported players include a number of [[Creative NOMAD|NOMAD]] players from [[Creative Labs]], some players from [[Rio Audio]] and [[Archos]], and the [[Nakamichi]] SoundSpace 2 device. Other manufacturers may also offer integration by way of a device plugin. A number of third party programs have been created to help a user of iTunes to synchronize songs with any music player that can be mounted as an external drive.
+
+Though iTunes is the only official method for synchronizing with the iPod, there are other programs available that allow the iPod to sync with other software players.
+
+As of iTunes 7 purchased music can be copied from the iPod onto the computer. The computer must be authorized by that iTunes account. iTunes currently allows up to 5 computers to be authorized on one account. It does not allow you to transfer imported music files between computers. This may be necessary to back songs up, transfer songs to a new computer, or restore music after a disk failure using an iPod as the backup source. A number of shareware or freeware [[comparison of iPod Managers|applications]] exist that complement iTunes.
+
+===iTunes Store===
+[[Image:iTunes-aacp.png|right|thumb|Mac OS X icon for a protected [[Advanced Audio Coding|AAC]] file from the iTunes Store.]]
+{{main|iTunes Store}}
+Version 4 of iTunes introduced the [[iTunes Store|iTunes Music Store]] from which iTunes users can buy and download songs for use on a limited number of computers and an unlimited number of iPods. Songs purchased from the iTunes Store are copy protected with Apple's [[FairPlay (DRM)|FairPlay]] [[digital rights management]] (DRM) system. As of [[January 9]] [[2007]], over 2 billion have been downloaded since the service first launched on [[April 28]] [[2003]].<ref name="2007macword">{{cite web|url=http://www.engadget.com/2007/01/09/live-from-macworld-2007-steve-jobs-keynote/|title=Live from Macworld 2007: Steve Jobs keynote|date=[[2007-01-09]]|work=[[Engadget]]|accessdate=2007-03-02}}</ref>
+
+Those who use an operating system other than Mac OS X or [[Microsoft Windows]] such as [[Linux]] cannot use music purchased from the iTunes Store, since a Linux version of iTunes is not available. This has resulted in the development of a number of alternative player software as well as published hacks or workarounds that allow customers of the iTunes Store to use the audio software or operating system software of their choice. The most notable of these hacks is [[PyMusique]], which Apple has made several unsuccessful attempts at blocking.{{fact|date=April 2007}} Software has been developed by third parties to decrypt purchased music, to allow it to be played or shared on other programs. However, this software is illegal in some countries.
+
+iPod owners in U.S. markets are taken to a one-time page within the iTunes Store when first connecting it to their computer. This page currently offers a free album sampler from Lava and [[Atlantic Records]] where either the whole album or individual tracks can be downloaded. An album sampler from [[Universal Records]] was previously available and may still be accessed via a special link on the web.{{fact|date=April 2007}}
+
+There are currently iTunes Stores available in the [[United States]], [[United Kingdom]], [[France]], [[Germany]], [[Austria]], [[Belgium]], [[Finland]], [[Greece]], [[Republic of Ireland|Ireland]], [[Italy]], [[Luxembourg]], the [[Netherlands]], [[Portugal]], [[Spain]], [[Canada]], [[Denmark]], [[Norway]], [[Sweden]], [[Switzerland]], [[Japan]], [[Australia]], and [[New Zealand]].
+
+In 2006, a controversy erupted about [[DADVSI#Interoperability and Apple controversy|a French draft law]] aimed at reinforcing the protection of works of art against "piracy", or illegal copying; some clauses of the law could possibly be used to request Apple to provide information about its FairPlay system to manufacturers of competitor players.
+
+The MiniStore feature was added in iTunes version 6.0.2. It adds a small window to the bottom of the main window, which can be turned on or off. When the user selects an item in their library, information about that particular item is sent to the iTunes Store, and the MiniStore shows related songs or videos. Initially, the MiniStore caused controversy because people feared it could be used as [[spyware]].<ref>{{cite web|title=MiniStore in iTunes 6.0.2 comes with privacy concerns|work=[[Ars Technica]]|url=http://arstechnica.com/news.ars/post/20060111-5957.html| accessdate=2006-01-20}}</ref> Apple clarified that the MiniStore did not collect any information from users and later made it opt-in.<ref>{{cite web|title=iTunes MiniStore now asks for your permission|work=The Unofficial Apple Weblog|url=http://www.tuaw.com/2006/01/18/itunes-ministore-now-asks-for-your-permission/|accessdate=2006-01-20}}</ref>
+
+On [[September 12]] [[2006]], the store began offering movie and game downloads. To reflect the changes and to emphasize it as more than just an online music store, the iTunes Music Store was renamed as the iTunes Store. Apple announced on the same day that iTunes had become the first digital music store to be in the top 5 sellers of music in the U.S. At the January 2007 Macworld Expo, Steve Jobs announced that Apple had moved to the number four position.<ref name="2007macword"/>
+
+On [[April 2]] [[2007]], [[Steve Jobs]] announced that in May of 2007, the Store would offer 256&nbsp;kbit/s, DRM-free music licensed from [[EMI]].<ref>{{cite web|url=http://www.apple.com/pr/library/2007/04/02itunes.html/|title=Apple Unveils Higher Quality DRM-Free Music on the iTunes Store|date=[[2007-01-02]]|work=Apple press release|accessdate=2007-04-02}}</ref> On [[May 30]] [[2007]], the 7.2 iTunes Update created iTunes Plus, a way of labeling the higher quality, DRM-free music. iTunes Plus tracks are sold for 30 cents more than the versions with DRM, which iTunes continues to offer for 99 cents. In the same update, a feature called iTunes U was announced, allowing educators to upload audio or video course material to be available free of charge for their students and all iTunes Store customers.
+
+===Gracenote===
+iTunes uses the [[Gracenote]] interactive audio CD database to provide track name listings for audio CDs. The service can be set to activate when a CD is inserted into the computer and an Internet connection is available. Track names for albums imported to iTunes while not connected to the Internet can be obtained later when connected, by a manual procedure. For any album loaded into iTunes for which there is not an existing Gracenote track listing, the user can choose to submit track name data to Gracenote.
+
+===Integration with other applications===
+[[Image:ITunes widget.png|thumb|iTunes [[Dashboard (software)|Dashboard]] [[widget (computing)#Desktop widgets|Widget]].]]In Mac OS X, iTunes is tightly integrated with Apple's [[iWork]] suite of applications and the rest of the applications in [[iLife]]. These applications can access the iTunes Library directly, allowing access to the playlists and songs stored within (including encrypted music purchased from the iTunes Music Store). Music files from iTunes can be embedded directly into [[Pages]] documents and can supply the score for [[iDVD]], [[iMovie]], and [[Keynote (software)|Keynote]] productions. iTunes is also integrated with [[Front Row]] (Front Row compiles its information from the user's iTunes and [[iPhoto]] libraries). In addition, any song exported from [[GarageBand]], Apple's music-making program, is automatically added to the user's iTunes music library. iTunes' Artwork.saver is a screen saver included in [[Mac OS X v10.4]] that displays album artwork as a screen saver. iTunes.widget is a [[Dashboard (software)|Dashboard]] [[widget (computing)#Desktop widgets|Widget]] that controls iTunes. The development of [[Senuti]] for Mac OS X allows iTunes to be integrated so the iPod and iTunes can transfer songs to each other. A browser add-on called [[FoxyTunes]] integrates between iTunes and [[Mozilla Firefox|Firefox]], [[Flock (web browser)|Flock]], and [[Internet Explorer]]. Moreover, iTunes can be scripted, using [[AppleScript]] for Mac OS X or using the Apple-provided SDK for iTunes on Windows via [[Visual Basic]], [[JavaScript]], or [[C (programming language)|C]].
+
+==History==
+{{details|iTunes version history}}
+It was originally developed by [[Jeff Robbin]] and [[Bill Kincaid]] as an MP3 player called [[SoundJam MP]],<ref>{{cite web|url=http://panic.com/extras/audionstory/popup-sjstory.html|title=The True Story of SoundJam|author=Bill Kincaid|work=[[Panic (company)|Panic]]|accessdate=2007-01-28}}</ref> and released by [[Casady & Greene]] in 1999. It was purchased by Apple in 2000, given a new user interface and the ability to burn CDs, had its recording feature and [[skin (computing)|skin]] support removed, and released as iTunes.<ref>{{cite web|url=http://panic.com/extras/audionstory/|title=The true story of Audion|author=[[Cabel Sasser]]|work=[[Panic (company)|Panic]]|accessdate=2007-01-28}}</ref> Originally a [[Mac OS 9]]-only application, Mac OS X support was added with the release of version 2 nine months later,<ref>{{cite web|url=http://www.apple.com/pr/library/2001/oct/23itunes.html|title=Apple Announces iTunes 2|author=[[Apple Inc.]]|date=[[2001-10-23]]|accessdate=2007-01-28}}</ref> and Mac OS 9 support was dropped with the release of version 3.<ref>{{cite web|url=http://www.apple.com/pr/library/2002/jul/17itunes.html|title=Apple Announces iTunes 3|author=[[Apple Inc.]]|date=[[2002-07-17]]|accessdate=2007-01-28}}</ref> In October 2003, with the release of iTunes 4.1, Apple added support for [[Microsoft|Microsoft's]] [[Windows 2000]] and [[Windows XP]]. Also in March 2007 added support for [[Windows Vista]]  with iTunes 7.1 .<ref>{{cite web|url=http://arstechnica.com/news/posts/1066328428.html|title=iTunes and the iTunes Music Store comes to Windows|author=Ken Fisher|date=[[2003-10-16]]|work=[[Ars Technica]]|accessdate=2007-01-28}}</ref>
+
+Apple also developed iTunes branded software which runs on mobile phones such as the [[Motorola ROKR]], [[Motorola RAZR]], and [[Motorola SLVR L7|Motorola SLVR]].{{fact|date=April 2007}}
+
+==See also==
+{{wikibooks|iTunes}}
+*[[Comparison of iPod Managers]]
+*[[Comparison of media players]]
+*[[iTunes Store]]
+*[[List of audio conversion software]]
+*[[Music visualization]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.apple.com/itunes/ Apple — iTunes]
+*[http://www.apple.com/applescript/itunes/index.html Apple — AppleScripts for the Macintosh version of iTunes]
+
+{{iLife}}
+{{Apple software}}
+
+[[Category:Apple Inc. software]]
+[[Category:Digital audio]]
+[[Category:Mac OS media players]]
+[[Category:Mac OS X media players]]
+[[Category:Mac OS X CD ripping software]]
+[[Category:Online music database clients]]
+[[Category:Podcasting software]]
+[[Category:Tag editors]]
+[[Category:Windows CD/DVD writing software]]
+[[Category:Windows CD ripping software]]
+[[Category:Windows media players]]
+
+[[af:ITunes]]
+[[ar:آيتون]]
+[[da:ITunes]]
+[[de:ITunes]]
+[[el:ITunes]]
+[[es:ITunes]]
+[[fr:ITunes]]
+[[ko:아이튠즈]]
+[[hr:ITunes]]
+[[id:ITunes]]
+[[is:ITunes]]
+[[it:ITunes]]
+[[he:ITunes]]
+[[hu:ITunes]]
+[[nl:ITunes]]
+[[ja:ITunes]]
+[[no:ITunes]]
+[[nn:ITunes]]
+[[pl:ITunes]]
+[[pt:ITunes]]
+[[ru:ITunes]]
+[[sk:ITunes]]
+[[fi:ITunes]]
+[[sv:ITunes]]
+[[th:ไอทูนส์]]
+[[tr:Apple iTunes]]
+[[uk:ITunes]]
+[[zh:ITunes]]

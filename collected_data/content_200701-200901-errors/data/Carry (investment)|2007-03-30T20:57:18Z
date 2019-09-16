@@ -1,0 +1,39 @@
+The '''carry''' of an [[asset]] is the return obtained from holding it (if positive), or the [[cost]] with holding it (if negative).
+
+For instance, [[commodities]] are usually negative carry assets, as they incur storage costs, but in some circumstances, commodities can be positive carry assets as the market is willing to pay a premium for availability.
+
+This can also refer to a trade with more than one leg, where you earn the [[spread]] between borrowing a low carry asset and lending a high carry one.
+
+Carry trades are not [[arbitrage]]s: they make money ''if nothing changes'', but things may change.
+
+==Interest rates==
+''See [[interest rates]]''
+
+For instance, the traditional income stream from commercial [[bank]]s is to borrow cheap (at the low overnight rate, i.e., the rate at which they pay depositors) and lend expensive (at the long-term rate).
+
+This works in an upward-sloping [[yield curve]], but loses money if the curve becomes inverted. The floating of short-term rates when [[Paul Volcker]] was the chairman of [[Federal Reserve]] caused exactly this problem, and was the seed of the [[Savings and Loan crisis]].
+
+Some characterized traditional commercial banking as a "3-6-3" business: borrow at 3%, lend at 6% (thus earning the 3% spread), be on the golf course by 3 pm.
+
+==Currency==
+''See [[foreign exchange market]]''
+
+The term '''carry trade''' without further modification refers to currency carry trade: investors borrow low-yielding [[currency|currencies]] and lend high-yielding ones. It tends to correlate with global financial and [[exchange rate]] stability, and retracts in use during global [[liquidity]] shortages.<ref>[http://www.cfr.org/publication/12842/effect_of_the_rising_yen.html?breadcrumb=%2F CFR Effect of the Rising Yen March 14, 2007 retrieved 3-15-2007]</ref>
+
+The risk of carry trades is that foreign exchange rates will change, and the investor will have to pay back now more expensive currency with less valuable currency. In theory, carry trades should not yield a predictable [[profit]] because the difference in interest rates between two countries should equal the rate at which investors expect the low-interest-rate currency to rise against the high-interest-rate one. However, carry trades weaken the target currency, because investors sell what they have borrowed, and convert it into other currencies.
+
+For example, a trader borrows 1,000 [[yen]] from a Japanese bank, converts the funds into [[U.S. dollars]] and buys a [[Bond (finance)|bond]] for the equivalent amount. Assuming the bond pays 4.5% and the Japanese [[interest rate]] is set at 0%,<ref>[http://news.bbc.co.uk/1/hi/business/5178822.stm Japan scraps zero interest rates.] ''[[BBC News]]'' ([[2006-07-14]]).  Retrieved on [[2007-02-15]].</ref> the trader stands to make a profit of 4.5% (4.5% - 0%), as long as the exchange rate between the countries does not change. [[Leverage (finance)|Leverage]] can make this type of [[trade]] very profitable. If the trader above uses a leverage factor of 10:1, then he/she can stand to make a profit of 45% (4.5% * 10). However, if the U.S. dollar were to fall in value relative to the Japanese yen, then the trader would run the risk of losing money. Furthermore, because of the leverage, small movements in exchange rates can magnify these losses immensely unless [[hedging|hedged]] appropriately.
+
+As of early [[2007]], it is estimated that as much as US$1 [[trillion]] may be staked on the yen carry trade.<ref>[http://economist.com/finance/displaystory.cfm?story_id=8633485 What keeps bankers awake at night?], ''The Economist'', Feb 1st 2007</ref>
+
+==Notes==
+<references/>
+
+[[Category:Finance]]
+
+[[de:Currency Carry Trade]]
+[[zh:融资套利交易]]
+
+==External links==
+* [http://www.marketthoughts.com/z20060921.html The Yen Carry Trade Revisited]
+* [http://www.theglobalguru.com/article.php?id=104&offer=GURU001 The Trade of the Decade] by [[Nicholas Vardy]] - March 6, 2007

@@ -1,0 +1,74 @@
+{{Citations missing|date=October 2007}}
+{{Cleanup-jargon|date=October 2007}}
+{{drugbox
+| IUPAC_name = 7-[(4''Z'')-3-(aminomethyl)- 4-methoxyimino-pyrrolidin-1-yl]- 1-cyclopropyl-6-fluoro-4-oxo- 1,8-naphthyridine-3-carboxylic acid
+| image = Gemifloxacin.svg
+| CAS_number = 175463-14-6
+| ATC_prefix = J01
+| ATC_suffix = MA15
+| ATC_supplemental = 
+| PubChem = 5464436
+| DrugBank = APRD00053
+| C = 18 | H = 20 | F = 1 | N = 5 | O = 4
+| molecular_weight = 389.381 g/mol
+| bioavailability = 71%
+| protein_bound = 60-70%
+| metabolism = Limited metabolism by the liver to minor metabolites| half-life = 7 Hours 
+| elimination = hepatic and renal
+| pregnancy_category = C
+| legal_status = CAP/AECB
+| routes_of_administration = Oral/IV under development
+}}
+'''Gemifloxacin mesylate''' (trade name '''Factive®''', [[Oscient Pharmaceuticals]]) is an oral [[broad-spectrum]] [[quinolone]] [[antibacterial]] agent used in the treatment of acute bacterial exacerbation of chronic [[bronchitis]] and mild-to-moderate [[pneumonia]].
+
+==Microbiology==
+
+Gemifloxacin has been shown to be active against most strains of the following microorganisms: 
+
+:Aerobic [[gram-positive]] microorganisms - ''[[Streptococcus pneumoniae]]'' including [[multi-drug resistant]] ''Streptococcus pneumoniae''  (MDRSP). MDRSP includes isolates previously known as PRSP (penicillin-resistant ''Streptococcus pneumoniae''), and are strains resistant to two or more of the following antibiotics: penicillin, 2nd generation [[cephalosporins]], e.g., [[cefuroxime]], [[macrolides]], [[tetracyclines]] and [[trimethoprim]]/[[sulfamethoxazole]].
+
+:''[[Staphylococcus aureus]]'' ([[methicillin]]-susceptible strains only) and ''[[Streptococcus pyogenes]]''
+
+:Aerobic [[gram-negative]] microorganisms - ''[[Haemophilus influenzae]]'', ''[[Haemophilus parainfluenzae]]'', [[Klebsiella pneumoniae]] (many strains are moderately susceptible), [[Moraxella catarrhalis]], ''[[Acinetobacter lwoffii]]'', ''[[Klebsiella oxytoca]]'', ''[[Legionella pneumophila]]'', ''[[Proteus vulgaris]]''.
+:Other microorganisms - ''[[Chlamydia pneumoniae]]'', ''[[Mycoplasma pneumoniae]]''
+
+Comparative [[minimum inhibitory concentration]]s (MICs) (μg/ml) of gemifloxacin versus commonly used [[fluoroquinolones]] against major [[pathogens]]:
+
+Compared with currently available fluoroquinolones, gemifloxacin demonstrated improved [[in vitro]] activity (Gemifloxacin > [[Garenofloxacin]] > [[Moxifloxacin]] > [[Gatifloxacin]] as in following table) against ''S. pneumoniae'' (MIC for 90% eradication 0.03 µg/mL) and similar activity against gram-negative [[respiratory]] pathogens (''Haemophilus influenzae'', ''Moraxella catarrhalis'') and atypical pathogens such as ''Chlamydia pneumoniae'', ''Legionella pneumophila'', and ''Mycoplasma pneumoniae''.
+
+It is reported that penicillin-resistant ''S. pneumoniae'' clinical isolates, also resistant to [[ciprofloxacin]] (MICs, 2 to 64 μg/ml), are highly susceptible to gemifloxacin (MICs, 0.03 to 0.12 μg/ml). It is also reported that other fluoroquinolones like [[levofloxacin]] and moxifloxacin (with AUC(0-24)/MIC = 4.4-7.4) provide little or no inhibition of ciprofloxacin-resistant strains, while gemifloxacin is the only fluoroquinolone (with AUC(0-24)/MIC ≥ 32) to eradicate all ciprofloxacin-resistant strains.
+
+As it is obvious from the above, that gemifloxacin is the most potent fluoroquinolone against S. pneumoniae esp. against multidrug resistant-, ciprofloxacin-resistant, and even levofloxacin-resistant strains.
+
+The [[pharmacokinetics]] of gemifloxacin are linear over the dose range from 40 mg to 640 mg, thus having predictable pharmacokinetics.
+
+==Mechanism of action==
+
+Gemifloxacin acts by inhibiting [[DNA synthesis]] through the inhibition of both [[DNA gyrase]] and [[topoisomerase IV]] (TOPO IV), which are essential for bacterial growth. ''S. pneumoniae'' showing [[mutations]] in both DNA gyrase and TOPO IV (double mutants) are resistant to most fluoroquinolones. 
+
+Gemifloxacin is the only fluoroquinolone which has the ability to inhibit both [[enzyme]] systems (dual targeting of both DNA Gyrase & TOPO IV) at therapeutically relevant drug levels in ''S. pneumoniae'', and has MIC values that are still in the susceptible range for some of these double mutants.
+Inhibitory activities of fluoroquinolones against ''S. pneumoniae'' DNA gyrase and topoisomerase IV (TOPO IV)
+
+[[IC50]] (µM)†
+Fluoroquinolone	DNA Gyrase	DNA Topoisomerase IV
+Gemifloxacin	5-10	          2.5-5
+Moxifloxacin	20	          10
+Gatifloxacin	20-40	          10-20
+Levofloxacin	80	          40
+
+(†Inhibitory concentration (IC50) is the concentration at which 50% of the activity of a target enzyme is inhibited. The lower the IC50, the greater the inhibitory effect)
+
+Less risk of development of resistance
+Compared to other fluoroquinolones, resistance to gemifloxacin is low as the resistance is via multistep mutations and efflux.  The frequency of spontaneous mutation is low (10<sup>-7</sup> to <10<sup>-10</sup>). Some microorganisms resistant to other fluoroquinolones may be susceptible to gemifloxacin.
+
+==Indication and usage==
+
+GEMIMAC is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below. Success has been achieved in the treatment of [[viral]] fever with Gemimac with good patient [[compliance]].
+Acute bacterial exacerbation of [[chronic bronchitis]] caused by ''S. pneumoniae'', ''Haemophilus influenzae'', ''Haemophilus parainfluenzae'', or ''Moraxella catarrhalis''.
+[[Community-acquired pneumonia]] (of mild to moderate severity) caused by ''S. pneumoniae'' (including multi-drug resistant strains, ''Haemophilus influenzae'', ''Moraxella catarrhalis'', ''Mycoplasma pneumoniae'', ''Chlamydia pneumoniae'', or ''Klebsiella pneumoniae''.
+
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+
+[[th:เจมิฟลอกซาซิน]]

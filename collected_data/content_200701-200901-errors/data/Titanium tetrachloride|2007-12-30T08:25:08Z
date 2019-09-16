@@ -1,0 +1,136 @@
+{{Chembox new
+|   Name = Titanium tetrachloride
+|   ImageFile = Titanium-tetrachloride-3D-vdW.png
+|   ImageSize = 200px
+|   ImageName = Titanium tetrachloride
+|   IUPACName = Titanium tetrachloride<br />Titanium(IV) chloride
+|   Name = '''Safety data'''
+| Section1 = {{Chembox Identifiers
+|   CASNo = 7550-45-0
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = TiCl<sub>4</sub>
+|   MolarMass = 189.71&nbsp;g/mol
+|   Appearance = colourless fuming liquid
+|   Density = 1.730&nbsp;g/ml, liquid
+|   Solubility = Decomposes
+|   MeltingPt = -24&nbsp;°C
+|   BoilingPt = 136.4&nbsp;°C
+|   Viscosity = 
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Tetrahedral
+|   Dipole = zero
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = -804.16&nbsp;kJ/mol
+|   Entropy = 221.93&nbsp;J·K<sup>&minus;1</sup>·mol<sup>&minus;1</sup>
+  }}
+| Section7 = {{Chembox Hazards
+|   EUClass = Corrosive
+|   RPhrases = {{R14}}, {{R34}}
+|   SPhrases = {{S1}}/{{S2}}, {{S7}}/{{S8}}, {{S26}},<br />{{S36}}/{{S37}}/{{S39}}, {{S45}}
+|   NFPA-H = 3
+|   NFPA-R = 2
+|   NFPA-O =<s>W</s>
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Titanium(IV) fluoride]]<br />[[Titanium(IV) bromide]]<br />[[Titanium(IV) iodide]]
+|   OtherCations = [[Zirconium(IV) chloride]]<br />[[Hafnium(IV) chloride]]
+|   OtherCpds = [[Titanium(II) chloride]]<br />[[Titanium(III) chloride]]}}
+}}
+
+'''Titanium tetrachloride''' or '''titanium(IV) chloride''' is the [[chemical compound]] with the [[chemical formula|formula]] TiCl<sub>4</sub>.
+
+TiCl<sub>4</sub> is an important intermediate in the production of [[titanium]] metal and other titanium compounds. It is an unusual example of a [[liquid]] [[metal halide]] that is very [[Volatility (chemistry)|volatile]] in air, where it forms spectacular opaque clouds of [[titanium dioxide]] (TiO<sub>2</sub>) and [[hydrogen chloride]] (HCl). It is sometimes humourously referred to as "tickle".<ref>[http://www.americanchemistry.com/s_chlorine/science_sec.asp?CID=1241&DID=4719&CTYPEID=113] American Chemistry</ref>
+
+==Properties and structure==
+TiCl<sub>4</sub> is a dense, colourless [[distillation|distillable]] liquid, although crude samples may be yellow or even red-brown. It is one of the rare transition metal chlorides that is in liquid state at room temperature, [[vanadium tetrachloride|VCl<sub>4</sub>]] being another example. This distinctive property arises from the fact that TiCl<sub>4</sub> is molecular; that is, each TiCl<sub>4</sub> molecule is relatively weakly associated with its neighbours. Most metal chlorides are [[polymer]]s, where the chloride atoms bridge between the metals. The attraction between the individual TiCl<sub>4</sub> molecules is weak, primarily [[van der Waals forces]], and these weak interactions result in low [[melting point|melting]] and [[boiling point]]s, similar to those of [[CCl4|CCl<sub>4</sub>]].
+
+TiCl<sub>4</sub> is [[tetrahedral]], which is consistent with its description as Ti<sup>4+</sup> surrounded by four Cl<sup>-</sup> ligands. Ti<sup>4+</sup> has a "closed" electronic shell, with the same number of electrons as the [[inert gas]] [[argon]].  This configuration leads to highly [[symmetry|symmetrical]] structures, hence the tetrahedral shape of the molecule.
+
+TiCl<sub>4</sub> is soluble in [[toluene]] and [[chlorocarbon]]s, as are other non-[[polarity|polar]] species.  Evidence exists that certain [[arene]]s form complexes of the type [(C<sub>6</sub>R<sub>6</sub>)TiCl<sub>3</sub>]<sup>+</sup>. TiCl<sub>4</sub> reacts [[exothermic]]ally with donor [[solvent]]s such as [[THF]] to give hexacoordinated [[adduct]]s.<ref>{{cite journal | author= L. E. Manzer | title= Tetrahydrofuran Complexes of Selected Early Transition Metals | journal=Inorganic Synthesis | year=1982| volume=21| pages=135-40|doi= }}</ref>  Bulkier [[ligand]]s (L) give pentacoordinated derivatives TiCl<sub>4</sub>L.
+
+The main problem with handling TiCl<sub>4</sub>, aside from its tendency to release corrosive [[hydrogen chloride]], is the formation of [[titanium oxide]]s and [[oxychloride]]s that cement [[stopper]]s and [[syringe]]s.
+
+==Production==
+TiCl<sub>4</sub> is produced by the [[Chloride process]], which involves the [[redox|reduction]] of titanium oxide ores, typically [[ilmenite]] or [[rutile]], with [[carbon]] under flowing [[chlorine]] at 900&nbsp;°C. Impurities are removed by [[distillation]] to afford pure TiCl<sub>4</sub>.
+
+2[[Ilmenite|FeTiO<sub>3</sub>]]  + 7[[Chlorine|Cl<sub>2</sub>]] + 6[[Carbon|C]] → 2TiCl<sub>4</sub> + 2[[Iron(III) chloride|FeCl<sub>3</sub>]] + 6[[Carbon monoxide|CO]]
+
+TiCl<sub>4</sub> is inexpensive, thus it is typically purchased for laboratory operations.
+
+==Applications==
+===Production of titanium metal===
+:[[titanium dioxide|TiO<sub>2</sub>]] +  2[[chlorine|Cl<sub>2</sub>]] + 2C → TiCl<sub>4</sub> + 2CO
+
+Reduction of TiCl<sub>4</sub> using [[magnesium]] metal produces titanium metal; this is in fact the final step of the [[Kroll process]].
+
+:2[[magnesium|Mg]] + TiCl<sub>4</sub> → 2[[magnesium chloride|MgCl<sub>2</sub>]](l) + Ti
+
+Liquid [[sodium]] has sometimes been used instead of magnesium as the reducing agent in the production of titanium metal.
+
+:4[[sodium|Na]] + TiCl<sub>4</sub> → 4[[sodium chloride|NaCl]] + Ti
+
+===Production of titanium dioxide===
+Around 90% of the TiCl<sub>4</sub> production is used to make pigment; [[titanium dioxide|titanium(IV) oxide]] (TiO<sub>2</sub>).  Key is the reaction of TiCl<sub>4</sub> with water to form [[hydrochloric acid]]:
+
+TiCl<sub>4</sub> + 2[[Water (molecule)|H<sub>2</sub>O]] → TiO<sub>2</sub>  +  4HCl
+
+Or sometimes it is oxidised directly with pure oxygen:
+
+TiCl<sub>4</sub> + 2O<sub>2</sub> → TiO<sub>2</sub>  +  2Cl<sub>2</sub>
+
+===Smoke-screens===
+In the past titanium tetrachloride has also been used to create naval [[smoke-screen|smokescreens]]. When sprayed into the air, TiCl<sub>4</sub>  rapidly reacts with atmospheric moisture:
+
+:TiCl<sub>4</sub> + 2[[Water (molecule)|H<sub>2</sub>O]] → TiO<sub>2</sub>  +  4HCl
+
+The hydrogen chloride immediately absorbs more water to form tiny droplets of [[hydrochloric acid]], which (depending on humidity) may absorb still more water, to produce large droplets that efficiently scatter light. In addition, the intensely white titanium dioxide is also an efficient light scatterer.  Due to the corrosiveness of this smoke, however, TiCl<sub>4</sub> is no longer used.
+
+==Chemical reactions==
+===Organometallic and inorganic chemistry===
+TiCl<sub>4</sub> adopts similar structures to [[Titanium tetrabromide|TiBr<sub>4</sub>]] and [[Titanium tetraiodide|TiI<sub>4</sub>]]; the three compounds share many similarities.  TiCl<sub>4</sub> and TiBr<sub>4</sub> react to give mixed halides TiCl<sub>4-x</sub>Br<sub>x</sub>, where x = 0, 1, 2, 3, 4.  Magnetic resonance measurements also indicate that halide exchange is also rapid between TiCl<sub>4</sub> and VCl<sub>4</sub>.<ref>{{cite journal | author= S. P. Webb, M. S. Gordon  | title= Intermolecular Self-Interactions of the Titanium Tetrahalides TiX4 (X = F, Cl, Br) | journal=[[J. Am. Chem. Soc.]] | year=1999 | volume=121| pages=2552-2560 |doi=10.1021/ja983339i}}</ref>
+
+TiCl<sub>4</sub> is a superb and versatile [[Lewis acid]], as indicated by its tendency to hydrolyze, which implicates the intermediacy of TiCl<sub>4</sub>(H<sub>2</sub>O).  With THF, TiCl<sub>4</sub> forms yellow crystals of TiCl<sub>4</sub>(THF)<sub>2</sub>.  With Cl<sup>-</sup> donors, TiCl<sub>4</sub> reacts to form sequentially [Ti<sub>2</sub>Cl<sub>9</sub>]<sup>-</sup>,  [Ti<sub>2</sub>Cl<sub>10</sub>]<sup>2-</sup>, and [TiCl<sub>6</sub>]<sup>2-</sup>.<ref>{{cite journal | author= C. S. Creaser , J. A. Creighton | title= Pentachloro- and Pentabromotitanate(IV) ions | journal= Journal of the Chemical Society, Dalton Transactions| year=1975|  pages= 1402-1405|doi= 10.1039/DT9750001402  }}</ref>  Interestingly, the reaction of chloride ions with TiCl<sub>4</sub> depends on the counterion.  NBu<sub>4</sub>Cl reacts with TiCl<sub>4</sub> to give the pentacoordinate complex NBu<sub>4</sub>TiCl<sub>5</sub>, whereas smaller NEt<sub>4</sub> reacts to give (NEt<sub>4</sub>)<sub>2</sub>Ti<sub>2</sub>Cl<sub>10</sub>. These reactions highlight the influence of electrostatic forces on the structures of compounds with highly ionic bonding.
+
+Much of the extensive [[organometallic chemistry]] of titanium starts from TiCl<sub>4</sub>. Its most important reaction is with sodium [[cyclopentadiene|cyclopentadienyl]] to give '''titanocene dichloride''', TiCl<sub>2</sub>(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>. This compound is used in organic synthesis ([[Tebbe's reagent]]).  Arenes, such as C<sub>6</sub>(CH<sub>3</sub>)<sub>6</sub> reacts to give [Ti(C<sub>6</sub>(CH<sub>3</sub>)<sub>6</sub>)Cl<sub>3</sub>]<sup>+</sup>, which is a [[sandwich complex|piano-stool complex]].<ref>{{cite journal | author= F. Calderazzo, I. Ferri, G. Pampaloni, S. Troyanov  | title= η<sup>6</sup>-Arene Derivatives of Titanium(IV), Zirconium(IV) and Hafnium(IV) | journal=Journal of Organometallic Chemistry| year=1996| volume=518| pages=189-196|doi= 10.1016/0022-328X(96)06194-3 }}</ref> This reaction illustrates the extraordinary Lewis acidity of the TiCl<sub>3</sub><sup>+</sup> entity, which is derived from  TiCl<sub>4</sub> using the even stronger chloride-abstracting agent AlCl<sub>3</sub>.
+
+TiCl<sub>4</sub> reacts with four equivalents LiNMe<sub>2</sub> to give Ti(NMe<sub>2</sub>)<sub>4</sub>, a yellow, benzene-soluble liquid.<ref>{{cite journal | author= D. C. Bradey, M. Thomas | title= Some Dialkylamino-derivatives of Titanium and Zirconium | journal=Journal of the Chemical Society| year=1960|  pages=3857-3861|doi= 10.1039/JR9600003857 }}</ref>  This molecule is tetrahedral, with planar nitrogen centers.<ref>{{cite journal | author= M. E. Davie, T. Foerster, S. Parsons, C. Pulham, D. W. H. Rankin, B. A. Smart | title= The Crystal Structure of Tetrakis(dimethylamino)titanium(IV) | journal=Polyhedron| year=2006| volume=25| pages=923-929|doi= 10.1016/j.poly.2005.10.019 }}</ref>
+
+===Reagent in organic synthesis===
+It is widely used in [[organic synthesis]] as a [[Lewis acid]],<ref>{{cite book | author= L.-L. Gundersen, F. Rise, K. Undheim  | title= Encyclopedia of Reagents for Organic Synthesis | publisher = J. Wiley & Sons| year=2004| volume=| | chapter = Titanium(IV) chloride|edition =L. Paquette |location New York}}</ref> for example in the [[Aldol reaction#Mukaiyama aldol reaction|Mukaiyama aldol reaction]]. Key to this application is the tendency of TiCl<sub>4</sub> to interact with [[aldehyde]]s, RCHO,  to give [[adduct]]s such (RCHO)TiCl<sub>4</sub>OC(H)R.  It is also used in the [[McMurry reaction]] in conjunction with Zn, LiAlH<sub>4</sub>, or another reducing agent in order to join two carbonyls in making a [[carbon-carbon double bond]].
+
+===Olefin polymerisation===
+This compound and many of its derivatives are important precursors to [[Ziegler-Natta catalyst]]s.
+
+===Reduction===
+Reduction of TiCl<sub>4</sub> yields [[Titanium(III) chloride|TiCl<sub>3</sub>]].  Reduction of TiCl<sub>4</sub> with [[aluminium]] in [[Tetrahydrofuran|THF]] results in the light-blue THF-adduct TiCl<sub>3</sub>(THF)<sub>3</sub>.
+
+==Toxicity and safety considerations==
+Given the tendency of TiCl<sub>4</sub> to hydrolyze,  the hazards generally arise from the effect of [[hydrogen chloride]]. TiCl<sub>4</sub> is a strong [[Lewis acid]], exothermically forming adducts with even weak bases such as [[THF]] and explosively with water, again releasing HCl.
+
+==References==
+<references/>
+
+==General reading==
+*Holleman, A. F.; Wiberg, E. "Inorganic Chemistry" Academic Press: San Diego, 2001. ISBN 0-12-352651-5.
+*{{Greenwood&Earnshaw}}
+
+==External links==
+*[http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc12/icsc1230.htm International Chemical Safety Card 1230]
+* [http://ecb.jrc.it/ European Chemicals Bureau]
+* [http://webbook.nist.gov/chemistry/ NIST Standard Reference Database]
+* [http://www.sumitomocorp.co.jp/o-hitetsu/tetrachl.htm Sumitomo Titanium Corporation information sheet]
+
+[[Category:Titanium compounds]]
+[[Category:Chlorides]]
+[[Category:Metal halides]]
+[[Category:Reagents for organic chemistry]]
+
+[[de:Titan(IV)-chlorid]]
+[[es:Tetracloruro de titanio]]
+[[it:Tetracloruro di titanio]]
+[[lv:Titāna tetrahlorīds]]
+[[ja:塩化チタン(IV)]]
+[[fi:Titaanitetrakloridi]]

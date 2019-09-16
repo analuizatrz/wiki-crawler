@@ -1,0 +1,92 @@
+{{unreferenced|date=March 2007}}
+{{Infobox VG
+|title = Sinistar
+|image = [[Image:Sinistar_2.png|225 px|Arcade version of Sinistar]]
+|developer = [[Williams (gaming company)|Williams Electronics]]
+|publisher = [[Williams (gaming company)|Williams Electronics]]
+|designer = [[Noah Falstein]] and [[John Newcomer]]
+|release = [[1982]]
+|genre = [[Shoot 'em up#Multi-directional shooter|Multi-directional shooter]]
+|modes = Up to 2 players, alternating turns
+|cabinet = Standard and sit-down
+|arcade system = 
+|display = [[Raster graphics|Raster]], standard resolution (used 240 × 292) (Vertical)
+|input = [[Joystick]]
+|platforms = [[Arcade game|Arcade]], [[Game Boy Advance]], [[PC]], [[Super NES]], [[Sega Genesis]], [[Sega Saturn]], [[Nintendo 64]], [[Sega Dreamcast]], [[Sony PlayStation 2]], [[Nintendo GameCube]], [[Microsoft Xbox]], [[Sony PSP]]
+}}
+'''''Sinistar''''' is an [[arcade game]] released by [[Williams (gaming company)|Williams]] in [[1982]]. It belongs to a class of [[video games]] from the [[1980s]] called "[[twitch games]]". Other "twitch games" include ''[[Tempest (arcade game)|Tempest]]'', ''[[Defender (arcade game)|Defender]]'', and ''[[Robotron: 2084]]''.  Sinistar was developed by [[Robert_J._Mical|RJ Mical]], Sam Dicker, Jack Haeger, and [[Noah_Falstein|Noah Falstein]].<ref>Burnham (2003) p.320</ref> Sinistar's voice was supplied by [[John Doremus]].
+
+== Description ==
+The player pilots a lone fighter ship through a quadrant of the galaxy, initially blasting away at drifting planetoids to "mine" Sinisite Crystals from them, which, when harvested, create Sinibombs.  Sinibombs are the only weapon capable of damaging Sinistar. The fighter's bomb bay can hold 20 Sinibombs.
+
+The player creates Sinibombs by shooting at the drifting planetoids and catching the crystals released. Each shot makes a planetoid shake, and if too many shots are fired at a planetoid at too fast of a firing rate, it will cause the planetoid to explode and no crystals will be released. At the same time, a planetoid must shake a certain amount to actually release any crystals. It normally takes between 3 to 6 shots (depending on the size of the planetoid) to release between 1 and 10 crystals. Additional crystals can also be obtained from the same planetoid, as long as the number of shots and firing rate do not cause it to explode.
+
+At the same time that the player is trying to get crystals, the "worker" ships are also trying to take the crystals. They use these crystals to create Sinistar, the skeletal-looking Boss who is trying to destroy you. At the same time that all of this is going on, other ships (called "warrior ships") are trying to shoot the player's ship, and the warriors can also been seen shooting at planetoids to mine crystals when they aren't trying to attack the player or guard the Sinistar.
+
+If the player's ship is destroyed before the Sinistar is formed, the game shows how far along the worker ships are in building the Sinistar. The workers must harvest 20 crystals before the Sinistar is completely formed. Once it is completely formed, a digitized voice says "Beware, I live". While he is trying to collide with the player's ship in order to eat it, he says further things. His seven sayings are  "Rawr!!!", "Beware, I live!", "I am Sinistar!", "Run! Run! Run!", "Beware, coward!", "I hunger!" and "Run, coward!" If the Sinistar succeeds in colliding with the player's ship, the ship spins out of control and then the Sinistar eats the ship, which also causes the ship to explode.
+
+A total of 13 Sinibombs are required to destroy a fully built Sinistar (12 Sinibombs for each piece plus one additional Sinibomb for the entire face). Each Sinibomb attempts to target and hit the Sinistar, but each Sinibomb can also be intercepted by a collision with a worker, warrior, warrior shot, or a planetoid. If the player's ship is shot by a warrior or eaten by the Sinistar, the status screen will show the number of Sinibombs remaining and the number of Sinistar pieces remaining.
+
+There are four zones that repeat over and over again. You move from one zone to the next after you have defeated the Sinistar. These zones are Worker Zone, Warrior Zone, Planetoid Zone, and Void Zone. The first three zones have more workers, warriors and planetoids, respectively. The Void Zone is especially difficult because it has almost no planetoids. A partially destroyed Sinistar can also be rebuilt, starting with the Worker Zone and continuing for all subsequent zones.
+
+==255 Lives Bug==
+''Sinistar'' contains a [[computer bug|bug]] that grants the player many lives (ships). It happens only if the player is down to one life and Sinistar is about to eat the player's ship. If a warrior ship shoots and destroys the ship at this moment, it immediately takes the player to zero lives, and Sinistar eating the player subtracts another life. Since the number of lives is stored in the game as an 8 [[bit]] [[unsigned integer]], the subtraction from zero will cause the integer to [[integer overflow|wrap around]] to the largest value representable with 8 bits, which is 255 in decimal.
+
+==Legacy==
+Because the game came out relatively close to the [[video game crash of 1983]], it became a somewhat hard game to find.  For similar reasons, Sinistar also was not widely ported. It was commercially available in the mid-1990's as part of ''Williams Arcade's Greatest Hits'' for the [[Super NES]], [[Sega Genesis]], [[Sega Saturn]], [[Sony PlayStation]], and PC. (On the PC, the collection's title was ''Williams Arcade Classics'', and there were separate versions for DOS and Windows.) It is also available as part of Williams Arcade Classics for the Tiger Game.com, ''[[Midway Arcade Treasures]]'', which was released for the  [[Xbox]], [[GameCube]] and [[PlayStation 2|PS2]] in [[2003]], and for the [[PC]] in 2004, and part of ''[[Midway Arcade Treasures: Extended Play]]'' for the PlayStation Portable, in late 2005.  
+
+''Sinistar'' represented a number of firsts in game design. It was the first game to use [[Stereophonic sound|stereo]] sound (in the sitdown version), with two independent front and back sound boards for this purpose. In addition, Sinistar was the first game to use digitized speech as successfully as it did. It was also the first to use the 49-way, custom-designed optical [[joystick]] that Williams had produced specifically for this game.
+
+In July [[2000]], [[Midway Games|Midway]] licensed ''Sinistar'', along with other [[Williams Electronics]] games,  to [[Macromedia Shockwave]] for use in an online applet to demonstrate the power of the shockwave web content platform, entitled ''Shockwave Arcade Collection''. The conversion was created by [[Digital Eclipse]]. It is currently freely available to be played within the shockwave web applet.
+
+Like most arcade games of the era, unofficial clones were made for home computers. One of the best was Peter Johnson's ''Deathstar'' for the [[BBC Micro]] and [[Acorn Electron]] which was published by [[Superior Software]] in [[1984]]. The quality of the clone is not too surprising as it was originally developed as an official port to be released by ''Atarisoft'' but they decided to abandon the BBC platform while a number of games were still in development. Atari also programmed a version for the [[Atari 2600]] console that was never officially offered for sale.
+
+The line "Run, coward!" was named the fourth best game line ever in the January 2002 issue of ''[[Electronic Gaming Monthly]]''.
+
+A 3D pseudo-sequel was released for the [[Personal Computer|PC]] in [[1999]], ''[[Sinistar: Unleashed]]''.  The original authors were not involved in the development of this game.
+
+===Game Boy Advance===
+
+Sinistar was released as part of [[Midway's Greatest Arcade Hits]] on the [[Game Boy Advance]]. However, many popular features were removed. Sinistar no longer has glowing eyes and his mouth no longer moves (except for the game over screen). Many of his phrases have been omitted, leaving just "I Am Sinistar!" at the opening, "I Hunger!" upon pressing start, "Run! Run! Run!" during the game, and "Beware! I live!" when the user receives a game over.
+
+===Video game tributes===
+Many of Sinistar's iconic quotations have been included in subsequent video games.
+
+In the game [[Warcraft III: The Frozen Throne]], the neutral hero [[Firelord]]'s birth sound is him saying "Beware, I live." [[World of Warcraft]] paid tribute to the same quote: The [[Boss (video games)|boss]] enemy Reliquary of Souls shouts it when engaged. "Beware, cowards!" is one of his alternate lines. This boss strongly resembles Sinistar.[http://www.wowwiki.com/Reliquary_of_Souls]
+
+In [[Telltale Games]]' [[Sam & Max Season One|Sam & Max]] episode [[Reality 2.0]], one of the C.O.P.S. computers is an arcade machine referencing Sinistar, including his catchphrase "I hunger!"
+
+In tribute to Sinistar the entire game was cloned as the public domain ''Xenostar'', released for the Amiga computer in [[1994]].
+
+In [[Team Fortress 2]], The Heavy Weapons Guy says the phrases "I Live!" and "Run, Cowards!"
+
+===Other media===
+Sinistar's sound effects have been used in a number of other media projects, both for their iconic status and for their emotional effectiveness.
+
+The film [[We Are the Strange]] uses "Beware, I live" and Sinistar's roar. 
+
+A number of samples from the game have been used in song productions, such as the [[Buckethead]] song 'Revenge of the Double Man' which samples "Beware coward!" The game's theme music was sampled in the 2005 
+
+Many quotes from the game are used in the Panzer Division song "I am Sinistar."
+
+The theme music to the game was sampled by hip-hop artist [[Cage Kennylz|Cage]] in the track "Grand Ol' Party Crash" from his 2006 album ''Hell's Winter'' featuring [[Jello Biafra]] and [[DJ Shadow]].
+
+Sinistar makes several appearances in the [[webcomic]] [[Bob the Angry Flower]], and also appears as the title of one of the print editions of the comic.
+
+==References==
+* Burnham, Van (2003) "Supercade: A Visual History of the Videogame Age 1971-1984" ISBN 0-262-52420-1
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=9553}}
+*{{StrategyWiki}}
+*[http://www.schoenke.com/tyler/sinistar/index.html Tyler's Sinistar Page], another Sinistar site
+*[http://onastick.net/drew/sinistar/ The Philosophical Revelations of Sinistar]
+*[http://www.midway.com/classicGames/sinistar/sinistar.html The ''Sinistar'' Shockwave Applet]
+*[http://www.wayoftherodent.com/guests/bob_scary.htm Thrills, Chills & Pant-Spills] — Sinistar elected as one of the scariest games ever by the [[Way of the Rodent]] gaming magazine
+
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Arcade games]]
+[[Category:1982 video games]]
+[[Category:Williams games]]
+[[Category:Multidirectional shooters]]

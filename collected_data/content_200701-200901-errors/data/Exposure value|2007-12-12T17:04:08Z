@@ -1,0 +1,878 @@
+{{Portal|Photography|Large format camera lens.jpg}}
+
+
+
+In [[photography]], '''exposure value (EV)''' denotes all combinations of
+[[camera]] [[shutter speed]] and relative [[aperture]] that give the same
+[[exposure (photography)|exposure]].  The concept was developed in Germany in the 1950s
+[[#CITEREFRay2000|(Ray 2000)]],
+in attempt to simplify choosing among combinations of equivalent camera settings. Exposure value also is used to
+indicate an interval on the photographic exposure scale, with 1 EV
+corresponding to a standard power-of-2 exposure step, commonly referred to as
+a &ldquo;stop.&rdquo;<ref>
+In optics, the term &ldquo;stop&rdquo; properly
+refers to the aperture itself, while the term &ldquo;step&rdquo; refers to a
+division of the exposure scale.
+Some authors, e.g., [[#CITEREFDavis1999|Davis (1999)]],
+prefer the term &ldquo;stop&rdquo; because they refer to steps (e.g., on a step tablet)
+that are other than powers of 2. ISO standards generally use
+&ldquo;step,&rdquo; while photographers normally use &ldquo;stop.&rdquo;</ref>
+
+Exposure value was originally indicated by the quantity symbol
+<math>E_v</math>; this symbol continues to be used in [[ISO standard]]s, but
+the [[acronym]] EV is now more common elsewhere.
+
+[[Image:High speed03.jpg|thumb|250px|Fast shutter speed, short exposure]]
+[[Image:Slow speed03.jpg|thumb|250px|Slow shutter speed, long exposure]]
+
+Although all camera settings with the same exposure value nominally give
+the same exposure, they do not necessarily give the same picture.  The
+exposure time (&ldquo;[[shutter speed]]&rdquo;) determines the amount of
+[[motion blur]], as illustrated by
+the two images at the right, and the relative aperture determines the
+[[depth of field]].
+
+==Formal definition==
+
+Exposure value is a base-2 [[logarithm]]ic scale defined by
+
+:<math>\mathrm {EV} = \log_2 {\frac {N^2} {t} }</math>
+
+where
+
+* <math>N</math> is the relative [[aperture]] ([[f-number]])
+* <math>t</math> is the exposure time (&ldquo;[[shutter speed]]&rdquo;)
+
+EV 0 corresponds to an exposure time of 1
+[[second|s]] and a relative aperture of <math>f</math>/1.0.  If the EV is
+known, it can be used to select combinations of exposure time and
+<var>f</var>-number, as shown in Table 1.
+
+Each increment of 1 in exposure value corresponds to a change of one &ldquo;step&rdquo; (or, more commonly, one &ldquo;stop&rdquo;) in exposure, i.e., half as much exposure, either by halving the exposure time or halving the aperture area, or a combination of such changes. Greater exposure values are appropriate for photography in more brightly lit situations, or for higher film speeds.
+
+==EV as an indicator of camera settings==
+
+:{| class="wikitable" style="text-align: right;"
+|+ Table 1. Exposure times, in seconds<sup style="vertical-align: 30%">*</sup>, for various exposure values and <var>f</var>-numbers (ISO independent)
+! rowspan="2" style="padding: 0.1em 0.5em;" | EV
+! colspan="13" | <var>f</var>-number
+|-
+! 1.0 !! 1.4 !! 2.0 !! 2.8 !! 4.0 !! 5.6 !! 8.0 !! 11 !! 16 !! 22 !! 32 !! 45 !! 64
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  &minus;6
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+| style="padding: 0.1em 0.5em;" |  128 m
+| style="padding: 0.1em 0.5em;" |  256 m
+| style="padding: 0.1em 0.5em;" |  512 m
+| style="padding: 0.1em 0.5em;" |  1024 m
+| style="padding: 0.1em 0.5em;" |  2048 m
+| style="padding: 0.1em 0.5em;" |  4096 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  &minus;5
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+| style="padding: 0.1em 0.5em;" |  128 m
+| style="padding: 0.1em 0.5em;" |  256 m
+| style="padding: 0.1em 0.5em;" |  512 m
+| style="padding: 0.1em 0.5em;" |  1024 m
+| style="padding: 0.1em 0.5em;" |  2048 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  &minus;4
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+| style="padding: 0.1em 0.5em;" |  128 m
+| style="padding: 0.1em 0.5em;" |  256 m
+| style="padding: 0.1em 0.5em;" |  512 m
+| style="padding: 0.1em 0.5em;" |  1024 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  &minus;3
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+| style="padding: 0.1em 0.5em;" |  128 m
+| style="padding: 0.1em 0.5em;" |  256 m
+| style="padding: 0.1em 0.5em;" |  512 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  &minus;2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+| style="padding: 0.1em 0.5em;" |  128 m
+| style="padding: 0.1em 0.5em;" |  256 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  &minus;1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+| style="padding: 0.1em 0.5em;" |  128 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  0
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+| style="padding: 0.1em 0.5em;" |  64 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+| style="padding: 0.1em 0.5em;" |  32 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+| style="padding: 0.1em 0.5em;" |  16 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  3
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+| style="padding: 0.1em 0.5em;" |  8 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+| style="padding: 0.1em 0.5em;" |  4 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  5
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+| style="padding: 0.1em 0.5em;" |  2 m
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  6
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+| style="padding: 0.1em 0.5em;" |  60
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  7
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |  30
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+| style="padding: 0.1em 0.5em;" |  15
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  9
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+| style="padding: 0.1em 0.5em;" |  8
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  10
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+| style="padding: 0.1em 0.5em;" |  4
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  11
+| style="padding: 0.1em 0.5em;" |  1/2000
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+| style="padding: 0.1em 0.5em;" |  2
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  12
+| style="padding: 0.1em 0.5em;" |  1/4000
+| style="padding: 0.1em 0.5em;" |  1/2000
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+| style="padding: 0.1em 0.5em;" |  1
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  13
+| style="padding: 0.1em 0.5em;" |  1/8000
+| style="padding: 0.1em 0.5em;" |  1/4000
+| style="padding: 0.1em 0.5em;" |  1/2000
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+| style="padding: 0.1em 0.5em;" |  1/2
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  14
+| style="padding: 0.1em 0.5em;" |
+| style="padding: 0.1em 0.5em;" |  1/8000
+| style="padding: 0.1em 0.5em;" |  1/4000
+| style="padding: 0.1em 0.5em;" |  1/2000
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+| style="padding: 0.1em 0.5em;" |  1/4
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  15
+| style="padding: 0.1em 0.5em;" |
+| style="padding: 0.1em 0.5em;" |
+| style="padding: 0.1em 0.5em;" |  1/8000
+| style="padding: 0.1em 0.5em;" |  1/4000
+| style="padding: 0.1em 0.5em;" |  1/2000
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+| style="padding: 0.1em 0.5em;" |  1/8
+|-
+! style="text-align: right; padding: 0.1em 0.5em;" |  16
+| style="padding: 0.1em 0.5em;" |
+| style="padding: 0.1em 0.5em;" |
+| style="padding: 0.1em 0.5em;" |
+| style="padding: 0.1em 0.5em;" |  1/8000
+| style="padding: 0.1em 0.5em;" |  1/4000
+| style="padding: 0.1em 0.5em;" |  1/2000
+| style="padding: 0.1em 0.5em;" |  1/1000
+| style="padding: 0.1em 0.5em;" |  1/500
+| style="padding: 0.1em 0.5em;" |  1/250
+| style="padding: 0.1em 0.5em;" |  1/125
+| style="padding: 0.1em 0.5em;" |  1/60
+| style="padding: 0.1em 0.5em;" |  1/30
+| style="padding: 0.1em 0.5em;" |  1/15
+|}
+
+<nowiki>*</nowiki> An appended &lsquo;m&rsquo; indicates exposure time in minutes.
+
+==Tabulated exposure values==
+
+An exposure meter may not always be available, and using a meter to
+determine exposure for some scenes with unusual lighting distribution may
+be difficult.  However, natural light, as well as many scenes with
+artificial lighting, is predictable, so that exposure often can be
+determined with reasonable accuracy from tabulated values.
+
+: '''Table 2.  Exposure values (ISO 100 speed) for various lighting conditions'''<ref>
+    Exposure values in Table 2 are taken from ANSI exposure
+    guides [[#CITEREFANSI PH2.7-1973|PH2.7-1973]] and
+    [[#CITEREFANSI PH2.7-1986|PH2.7-1986]]; where the two guides differ, ranges of values have been given or extended.
+    The ANSI guides were derived from studies by L.A. Jones and H.R. Condit, described in
+    [[#CITEREFJones and Condit1941|Jones and Condit (1941)]],
+    [[#CITEREFJones and Condit1948|Jones and Condit (1948)]], and
+    [[#CITEREFJones and Condit1949|Jones and Condit (1949)]].</ref>
+:{| class="wikitable" style="text-align: left"
+|-
+! Lighting Condition || EV<sub style="font-size: 70%">100</sub>
+|-
+! colspan="2" | Daylight
+|-
+| style="padding: 0.1em 0.5em;" | Light sand or snow in full or slightly hazy sunlight (distinct shadows)<sup>a</sup>
+| style="text-align: center; padding: 0.1em 0.5em;" | 16
+|-
+| style="padding: 0.1em 0.5em;" | Typical scene in full or slightly hazy sunlight (distinct shadows)<sup>a,b</sup>
+| style="text-align: center; padding: 0.1em 0.5em;" | 15
+|-
+| style="padding: 0.1em 0.5em;" | Typical scene in  hazy sunlight (soft shadows)
+| style="text-align: center; padding: 0.1em 0.5em;" | 14
+|-
+| style="padding: 0.1em 0.5em;" | Typical scene, cloudy bright (no shadows)
+| style="text-align: center; padding: 0.1em 0.5em;" | 13
+|-
+| style="padding: 0.1em 0.5em;" | Typical scene, heavy overcast
+| style="text-align: center; padding: 0.1em 0.5em;" | 12
+|-
+| style="padding: 0.1em 0.5em;" | Areas in open shade, clear sunlight
+| style="text-align: center; padding: 0.1em 0.5em;" | 12
+|-
+! colspan="2" | Outdoor, Natural light
+|-
+| colspan="2" style="padding: 0.1em 0.5em;" | Rainbows
+|-
+| style="padding: 0.1em 1.5em;" | Clear sky background
+| style="text-align: center; padding: 0.1em 0.5em;" | 15
+|-
+| style="padding: 0.1em 1.5em;" | Cloudy sky background
+| style="text-align: center; padding: 0.1em 0.5em;" | 14
+|-
+| colspan="2" style="padding: 0.1em 0.5em;" | Sunsets and skylines
+|-
+| style="padding: 0.1em 1.5em;" | Just before sunset
+| style="text-align: center; padding: 0.1em 0.5em;" | 12&ndash;14
+|-
+| style="padding: 0.1em 1.5em;" | At sunset
+| style="text-align: center; padding: 0.1em 0.5em;" | 12
+|-
+| style="padding: 0.1em 1.5em;" | Just after sunset
+| style="text-align: center; padding: 0.1em 0.5em;" | 9&ndash;11
+|-
+| colspan="2" style="padding: 0.1em 0.5em;" | The Moon,<sup>c</sup> [[altitude (astronomy)|altitude]] > 40&deg;
+|-
+| style="padding: 0.1em 1.5em;" | Full
+| style="text-align: center; padding: 0.1em 0.5em;" | 15
+|-
+| style="padding: 0.1em 1.5em;" | Gibbous
+| style="text-align: center; padding: 0.1em 0.5em;" | 14
+|-
+| style="padding: 0.1em 1.5em;" | Quarter
+| style="text-align: center; padding: 0.1em 0.5em;" | 13
+|-
+| style="padding: 0.1em 1.5em;" | Crescent
+| style="text-align: center; padding: 0.1em 0.5em;" | 12
+|-
+| colspan="2" style="padding: 0.1em 0.5em;" | Moonlight, Moon altitude > 40&deg;
+|-
+| style="padding: 0.1em 1.5em;" | Full
+| style="text-align: center; padding: 0.1em 0.5em;" | &minus;3 to &minus;2
+|-
+| style="padding: 0.1em 1.5em;" | Gibbous
+| style="text-align: center; padding: 0.1em 0.5em;" | &minus;4
+|-
+| style="padding: 0.1em 1.5em;" | Quarter
+| style="text-align: center; padding: 0.1em 0.5em;" | &minus;6
+|-
+| colspan="2" style="padding: 0.1em 0.5em;" | Aurora borealis and australis
+|-
+| style="padding: 0.1em 1.5em;" | Bright
+| style="text-align: center; padding: 0.1em 0.5em;" | &minus;4 to &minus;3
+|-
+| style="padding: 0.1em 1.5em;" | Medium
+| style="text-align: center; padding: 0.1em 0.5em;" | &minus;6 to &minus;5
+|-
+! colspan="2" | Outdoor, Artificial Light
+|-
+| style="padding: 0.1em 0.5em;" | Neon and other bright signs
+| style="text-align: center; padding: 0.1em 0.5em;" | 9&ndash;10
+|-
+| style="padding: 0.1em 0.5em;" | Night sports
+| style="text-align: center; padding: 0.1em 0.5em;" | 9
+|-
+| style="padding: 0.1em 0.5em;" | Fires and burning buildings
+| style="text-align: center; padding: 0.1em 0.5em;" | 9
+|-
+| style="padding: 0.1em 0.5em;" | Bright street scenes
+| style="text-align: center; padding: 0.1em 0.5em;" | 8
+|-
+| style="padding: 0.1em 0.5em;" | Night street scenes and window displays
+| style="text-align: center; padding: 0.1em 0.5em;" | 7&ndash;8
+|-
+| style="padding: 0.1em 0.5em;" | Night vehicle traffic
+| style="text-align: center; padding: 0.1em 0.5em;" | 5
+|-
+| style="padding: 0.1em 0.5em;" | Fairs and amusement parks
+| style="text-align: center; padding: 0.1em 0.5em;" | 7
+|-
+| style="padding: 0.1em 0.5em;" | Christmas tree lights
+| style="text-align: center; padding: 0.1em 0.5em;" | 4&ndash;5
+|-
+| style="padding: 0.1em 0.5em;" | Floodlit buildings, monuments, and fountains
+| style="text-align: center; padding: 0.1em 0.5em;" | 3&ndash;5
+|-
+| style="padding: 0.1em 0.5em;" | Distant views of lighted buildings
+| style="text-align: center; padding: 0.1em 0.5em;" | 2
+|-
+! colspan="2" | Indoor, Artificial Light
+|-
+| style="padding: 0.1em 0.5em;" | Galleries
+| style="text-align: center; padding: 0.1em 0.5em;" | 8&ndash;11
+|-
+| style="padding: 0.1em 0.5em;" | Sports events, stage shows, and the like
+| style="text-align: center; padding: 0.1em 0.5em;" | 8&ndash;9
+|-
+| style="padding: 0.1em 0.5em;" | Circuses, floodlit
+| style="text-align: center; padding: 0.1em 0.5em;" | 8
+|-
+| style="padding: 0.1em 0.5em;" | Ice shows, floodlit
+| style="text-align: center; padding: 0.1em 0.5em;" | 9
+|-
+| style="padding: 0.1em 0.5em;" | Offices and work areas
+| style="text-align: center; padding: 0.1em 0.5em;" | 7&ndash;8
+|-
+| style="padding: 0.1em 0.5em;" | Home interiors
+| style="text-align: center; padding: 0.1em 0.5em;" | 5&ndash;7
+|-
+| style="padding: 0.1em 0.5em;" | Christmas tree lights
+| style="text-align: center; padding: 0.1em 0.5em;" | 4&ndash;5
+|}
+
+<ol type="a">
+<li>Values for direct sunlight apply between approximately two hours after
+    sunrise and two hours before sunset, and assume front lighting.  As a
+    rough general rule, decrease EV by 1 for side lighting, and decrease EV
+    by 2 for back lighting</li>
+<li>This is approximately the value given by the [[sunny 16]] rule.</li>
+<li>These values are appropriate for pictures of the Moon taken at night
+    with a long lens or telescope, and will render the Moon as a medium
+    tone.  They will not, in general, be suitable for landscape pictures
+    that include the Moon.  In a landscape photograph, the Moon typically
+    is near the horizon, where its luminance changes considerably with
+    [[altitude (astronomy)|altitude]].  Moreover, a landscape photograph
+    usually must take account of the sky and foreground as well as the
+    Moon.  Consequently, it is nearly impossible to give a single correct
+    exposure value for such a situation.</li>
+</ol>
+
+Exposure values in Table 2 are reasonable general guidelines, but they
+should be used with caution.  For simplicity, they are rounded to the
+nearest integer, and they omit numerous considerations described in the
+ANSI exposure guides from which they are derived.  Moreover, they take no
+account of color shifts or [[reciprocity (photography)|reciprocity]]
+failure.  Proper use of tabluated exposure values is explained in detail in
+the ANSI exposure guide, [[#CITEREFANSI PH2.7-1986|ANSI PH2.7-1986]].
+
+The exposure values in Table 2 are for ISO 100 speed
+(&ldquo;EV<sub style="font-size: 70%">100</sub>&rdquo;).  For a different ISO speed, increase the
+values by the number of exposure steps by which the speed is greater than
+ISO 100, formally<ref>
+If base-2 [[logarithm]]s are not available, the base-2 logarithm can be
+computed using [[common logarithm]]s
+
+:<math>\log_2 x = \frac {\log x} {\log 2}</math>
+
+or [[natural logarithm]]s
+
+:<math>\log_2 x = \frac {\ln x} {\ln 2}</math>
+</ref>
+
+:<math>\mathrm{EV}_{S} = \mathrm{EV}_{100} + \log_2 \frac {S} {100}</math>
+
+For example, ISO 400 speed is two steps greater than ISO 100:
+
+:<math>\mathrm{EV}_{400} = \mathrm{EV}_{100} + \log_2 \frac {400} {100}
+= \mathrm{EV}_{100} + 2</math>
+
+To photograph outdoor night sports with an ISO 400&ndash;speed imaging medium,
+find the tabular value of 9 and add 2 to get
+EV<sub style="font-size: 70%">400</sub>&nbsp;=&nbsp;11.
+
+For lower ISO speed, decrease the values by the number of exposure steps by
+which the speed is less than ISO 100.  For example, ISO 50 speed is one
+step less than ISO 100:
+
+:<math>\mathrm{EV}_{50} = \mathrm{EV}_{100} + \log_2 \frac {50} {100}
+= \mathrm{EV}_{100} - 1</math>
+
+To photograph a rainbow against a cloudy sky with an ISO 50&ndash;speed imaging
+medium, find the tabular value of 14 and subtract 1 to get
+EV<sub style="font-size: 70%">50</sub>&nbsp;=&nbsp;13.
+
+==Setting EV on a camera==
+
+On most cameras, there is no direct way to transfer an EV to camera settings;
+however, some medium-format cameras from [[Rollei]] ([[Rolleiflex]], [[Rolleicord]] models) and [[Hasselblad]] 
+allowed EV to be set on the lenses.  The set EV could be locked, coupling shutter and aperture
+settings, such that adjusting either the [[shutter speed]] or [[aperture]]
+made a corresponding adjustment in the other to maintain a constant
+exposure.  Use of the EV scale on Hasselblad cameras is discussed briefly by
+[[#CITEREFAdams1981|Adams (1981, 39)]].
+
+Many current cameras allow for [[exposure compensation]], and usually state it in terms of EV. In this context, EV refers to the ''difference'' between the indicated and set exposures.
+
+==Meter indication in EV==
+
+Some [[light meter]]s (e.g., Pentax [[spot meter]]s) indicate directly in
+EV at ISO 100.  Some other meters, especially digital models, can indicate
+EV for the selected ISO speed.  In most cases, this difference is
+irrelevant; with the Pentax meters, camera settings usually are determined
+using the exposure calculator, and most digital meters directly display
+shutter speeds and <math>f</math>-numbers.
+
+Recently, articles on many web sites have used ''[[light value]]'' (LV) to
+denote EV at ISO 100.  However, this term does not derive from a standards
+body, and has had several conflicting definitions.
+
+==Relationship of EV to lighting conditions==
+
+The recommended <var>f</var>-number and exposure time for given lighting conditions
+and ISO speed are given  by the exposure equation
+
+:<math>
+\frac {N^2} {t} = \frac {L S} {K}
+</math>,
+
+where<ref>
+Symbols for the quantities in the exposure equation have varied over time;
+the symbols used in this article reflect current practice for many authors,
+such as [[#CITEREFRay2000|Ray (2000)]].
+</ref>
+
+* <math>N</math> is the relative [[aperture]] ([[f-number]])
+* <math>t</math> is the exposure time (&ldquo;[[shutter speed]]&rdquo;)
+* <math>L</math> is the average scene [[luminance]]
+* <math>S</math> is the ISO linear [[film speed|speed]]
+* <math>K</math> is the reflected-light meter [[Light meter#Calibration constants|calibration constant]]
+
+Applied to the right-hand side of the exposure equation, exposure value is
+
+:<math>\mathrm {EV} = \log_2 {\frac {L S} {K} } </math>
+
+Camera settings also can be determined from incident-light measurements,
+for which the exposure equation is
+
+:<math>
+\frac {N^2} {t} = \frac {E S} {C}
+</math>
+
+where
+
+* <math>E</math> is the [[illuminance]]
+* <math>C</math> is the incident-light meter calibration constant
+
+In terms of exposure value, the right-hand side becomes
+
+:<math>\mathrm {EV} = \log_2 {\frac {E S} {C} } </math>
+
+When applied to the left-hand side of the exposure equation, EV denotes
+actual combinations of camera settings; when applied to the right-hand
+side, EV denotes combinations of camera settings required to give the
+nominally &ldquo;correct&rdquo; exposure.  The formal relationship of EV to
+luminance or illuminance has limitations.  Although it usually works well
+for typical outdoor scenes in daylight, it is less applicable to scenes
+with highly atypical luminance distributions, such as city skylines at
+night.  In such situations, the EV that will result in the best picture
+often is better determined by subjective evaluation of photographs than by
+formal consideration of luminance or illuminance.
+
+Note that for a given luminance and film speed, a greater EV results in
+less exposure, and for fixed exposure (i.e., fixed camera settings),
+a greater EV corresponds to greater luminance or illuminance.
+
+==EV and APEX==
+
+{{main|APEX system}}
+
+The ''Additive system of Photographic EXposure'' ([[APEX system|APEX]])
+proposed in the 1960 [[American Standards Association|ASA]] standard
+for monochrome film speed, [[#CITEREFASA PH2.5-1960|ASA PH2.5-1960]],
+extended the concept of exposure value to all quantities in the
+exposure equation by taking base-2 logarithms, reducing application of the
+equation to simple addition and subtraction.  In terms of exposure value,
+the left-hand side of the exposure equation became
+
+:<math>\mathrm{EV} = \mathrm{TV} + \mathrm{AV}</math>,
+
+where TV (time value) and AV (aperture value) were defined as:
+
+:<math>\mathrm{TV} = -\log_2(t)</math>
+:<math>\mathrm{AV} = 2\log_2(N)</math>
+
+the numbers of stops from 1 second and {{f/}}1, respectively.
+
+Use of APEX required logarithmic markings on aperture and shutter controls,
+however, and these never were incorporated in consumer cameras.  With the
+inclusion of built-in exposure meters in most cameras shortly after APEX
+was proposed, the need to use the exposure equation was eliminated, and
+APEX saw little actual use.
+
+==EV as a measure of luminance and illuminance==
+
+For a given ISO speed, exposure value can be used as a measure of
+luminance.  Common practice among photographic equipment manufacturers is
+to express luminance in EV for ISO 100 speed (e.g., when specifying
+metering range or autofocus sensitivity).  The relationship between EV and
+luminance also depends on the calibration constant <math>K</math>;
+values vary slightly among manufacturers; a common value is 12.5
+([[Canon Inc.|Canon]], [[Nikon]], and [[Sekonic]]<ref>Specifications for
+Sekonic light meters are available on the [http://www.sekonic.com/ Sekonic]
+web site under &ldquo;Products.&rdquo;</ref>)
+The relationship between EV at ISO 100 and luminance then is
+
+:<math>L = 2^{\mathrm {EV} - 3}</math>
+
+Values of luminance at various values of EV using this relationship are
+shown in Table 3.
+
+For a given ISO speed, EV also can be interpreted as a measure of
+illuminance.  As with luminance, common practice among photographic
+equipment manufacturers is to express illuminance in EV for ISO 100 speed
+(e.g., when specifying metering range<ref>The metering range for an
+incident-light meter specified in EV at ISO 100 usually applies to a
+hemispherical sensor, so strictly speaking, it is not a measure of
+illuminance</ref>).
+
+As with luminance, the relationship between EV and illuminance also depends
+on the calibration constant <math>C</math>.  The situation is more
+complicated than that for reflected-light meters, because the calibration
+constant depends on the sensor type.  Two sensor types are common: flat
+([[cosine]]-responding) and hemispherical ([[cardioid]]-responding).
+Illuminance is measured with a flat sensor; a typical value for
+<math>C</math> is 250 with illuminance in [[lux]].  The relationship between EV
+at ISO 100 and luminance then is
+
+:<math>E = 2.5 \cdot 2^{\mathrm {EV}}</math>
+
+Values of illuminance at various values of EV using this relationship are
+shown in Table 3.
+
+Although illuminance measurements may indicate appropriate exposure for a
+flat subject, they are less useful for a typical scene in which many
+elements are not flat and are at various orientations to the camera.  For
+determining practical photographic exposure, a hemispherical sensor has
+proven more effective.  With a hemispherical sensor, typical values for
+<math>C</math> are between 320 (Minolta) and 340 (Sekonic) with illuminance
+in lux.  If illuminance is interpreted loosely, measurements with a
+hemispherical sensor indicate &ldquo;scene illuminance.&rdquo;
+
+[[Light meter#Exposure meter calibration|Exposure meter calibration]] is
+discussed in detail in the [[Light meter]] article.
+
+: '''Table 3. Exposure value vs. luminance (ISO 100, <var>K</var> = 12.5) and illuminance (ISO 100, <var>C</var> = 250)'''
+:{| class="wikitable" style="text-align: center"
+|-
+! &nbsp; EV &nbsp; !! &nbsp; Luminance,<br>[[Candela per square metre|cd/m<sup>2</sup>]] &nbsp;
+! &nbsp; Illuminance,[[Lux|<br>lx]]</sup> &nbsp;
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  &minus;4 ||    0.008 ||      0.156
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  &minus;3 ||    0.016 ||      0.313
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  &minus;2 ||    0.031 ||      0.625
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  &minus;1 ||    0.063 ||      1.25
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  0 ||    0.125 ||      2.5
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  1 ||    0.25  ||      5
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  2 ||    0.5   ||     10
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  3 ||    1     ||     20
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  4 ||    2     ||     40
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  5 ||    4     ||     80
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  6 ||    8     ||    160
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  7 ||   16     ||    320
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  8 ||   32     ||    640
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" |  9 ||   64     ||   1280
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 10 ||  128     ||   2560
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 11 ||  256     ||   5120
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 12 ||  512     ||  10,240
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 13 || 1024     ||  20,480
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 14 || 2048     ||  40,960
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 15 || 4096     ||  81,920
+|-
+| style="text-align: right; padding: 0.1em  0.5em;" | 16 || 8192     || 163,840
+|}
+
+==Notes==
+
+<references />
+
+==References==
+
+* <span id="CITEREFAdams1981">Adams, Ansel.  1981. ''The Negative.'' Boston: New York Graphic Society.</span> ISBN 0-8212-1131-5
+
+* <span id="CITEREFANSI PH2.7-1973">ANSI PH2.7-1973. ''American National Standard Photographic Exposure Guide''. New York: American National Standards Institute.</span> Superseded by ANSI PH2.7-1986
+
+* <span id="CITEREFANSI PH2.7-1986">ANSI PH2.7-1986. ''American National Standard for Photography &mdash; Photographic Exposure Guide''. New York: American National Standards Institute</span>
+
+* <span id="CITEREFASA PH2.5-1960">ASA PH2.5-1960.  ''American Standard Method for Determining Speed of photographic Negative Materials (Monochrome, Continuous Tone)''.  New York: United States of America Standards Institute</span>
+
+* <span id="CITEREFDavis1999">Davis, Phil. 1999. '' [http://books.elsevier.com/us/focalbooks/us/subindex.asp?isbn=0240803434 Beyond the Zone System]'', 4th ed. Boston: Focal Press.</span>  ISBN 0-240-80343-4
+
+* <span id="CITEREFJones_and_Condit1941">Jones, Loyd A., and H. R. Condit. 1941. The Brightness Scale of Exterior Scenes and the Computation of Correct Photographic Exposure. ''Journal of the Optical Society of America'' 31:11, Nov. 1941, 651&ndash;678</span>
+
+* <span id="CITEREFJones_and_Condit1948">&mdash;&mdash;&mdash;. 1948. Sunlight and skylight as determinants of Photographic exposure. I. Luminous density as determined by solar altitude and atmospheric conditions. ''Journal of the Optical Society of America'' 38:2, Feb. 1948, 123&ndash;178</span>
+
+* <span id="CITEREFJones_and_Condit1949">&mdash;&mdash;&mdash;. 1949. Sunlight and skylight as determinants of Photographic exposure. II. Scene structure, directional index, photographic efficiency of daylight, safety factors, and evaluation of camera exposure. ''Journal of the Optical Society of America'' 39:2, Feb. 1949, 94&ndash;135</span>
+
+* <span id="CITEREFRay2000">Ray, Sidney F. 2000. Camera Exposure Determination. In ''[http://books.elsevier.com/us/focalbooks/us/subindex.asp?isbn=0240515749 The Manual of Photography]'', 9th ed.  Oxford: Focal Press.</span> ISBN 0-240-51574-9
+
+==Further reading==
+
+* Eastman Kodak Company. ''Existing-Light Photography'', 3rd ed.  Rochester, NY : Silver Pixel Press, 1996.  ISBN 0-87985-744-7
+
+==See also==
+
+* [[APEX system]]
+* [[Exposure compensation]]
+* [[Light meter#Exposure meter calibration|Exposure meter calibration]]
+
+== External links ==
+
+* Doug Kerr's [http://doug.kerr.home.att.net/pumpkin/APEX.pdf The Additive System for Photographic Exposure] ([[PDF]])
+* Fred Parker's [http://www.fredparker.com/ultexp1.htm#Light%20Intensity%20Chart table of exposure values] for various lighting situations
+
+[[Category:Science of photography]]
+[[Category:Photometry]]
+
+[[da:Eksponeringsværdi]]
+[[de:Lichtwert]]
+[[es:Valor de exposición]]
+[[fr:APEX (photographie)]]
+[[it:Valore di esposizione]]
+[[no:Eksponeringsverdi]]
+[[pl:EV (fotografia)]]

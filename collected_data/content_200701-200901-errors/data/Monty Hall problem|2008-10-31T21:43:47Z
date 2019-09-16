@@ -1,0 +1,447 @@
+[[Image:Monty open door.svg|thumb|right|In search of a new car, the player picks door 1. The game host then opens door 3 to reveal a goat and offers to let the player pick door 2 instead of door 1.]]
+The '''Monty Hall problem''' is a [[probability]] puzzle loosely based on the American television game show ''[[Let's Make a Deal]]''. The name comes from the show's host, [[Monty Hall]]. The problem is also called the '''Monty Hall paradox''', as it is a [[paradox#Logical paradox|veridical paradox]] in that the solution is counterintuitive.
+
+A well-known statement of the problem was published in ''[[Parade (magazine)|Parade]]'' magazine:
+{{quote|Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice? ([[#refWhitaker1990|Whitaker 1990]])}}
+
+Because there is no way for the player to know which of the two unopened doors is the winning door, most people assume that each door has an equal probability and conclude that switching does not matter. In fact, in the usual interpretation of the problem the player ''should'' switch&mdash;doing so doubles the probability of winning the car from 1/3 to 2/3. Switching is only ''not'' advantageous if the player initially chooses the winning door, which happens with probability 1/3. With probability 2/3, the player initially chooses one of two losing doors; when the other losing door is revealed, switching yields the winning door with certainty. The total probability of winning when switching is thus 2/3.
+
+When the problem and the solution appeared in ''Parade'', approximately 10,000 readers, including nearly 1,000 with Ph.D.s, wrote to the magazine claiming the published solution was wrong. Some of the controversy was because the ''Parade'' version of the problem is technically ambiguous since it leaves certain aspects of the host's behavior unstated, for example whether the host must open a door and must make the offer to switch.  Variants of the problem involving these and other assumptions have been published in mathematical literature. 
+
+The standard Monty Hall problem is mathematically equivalent to the earlier [[Three Prisoners problem]] and both are related to the much older [[Bertrand's box paradox]]. These and other problems involving unequal distributions of probability are notoriously difficult for people to solve correctly, and have led to numerous psychological studies. Even when given a completely unambiguous statement of the Monty Hall problem, explanations, simulations, and formal mathematical proofs, many people still meet the correct answer with disbelief.
+
+==Problem==
+Steve Selvin wrote a letter to the ''[[The American Statistician|American Statistician]]'' in 1975 describing a problem loosely based on the game show ''[[Let's Make a Deal]]'' ([[#refSelvin1975a|Selvin 1975a]]). In a subsequent letter he dubbed it the "Monty Hall problem" ([[#refSelvin1975b|Selvin 1975b]]). The problem is mathematically equivalent ([[#refMorganetal1991|Morgan et al., 1991]]) to the [[Three Prisoners Problem]] described in [[Martin Gardner]]'s ''Mathematical Games'' column in ''[[Scientific American]]'' in 1959 ([[#refGardner1959a|Gardner 1959a]]). 
+
+Selvin's ''Monty Hall problem'' was restated in its well-known form in a letter to [[Marilyn vos Savant]]'s ''Ask Marilyn'' column in ''[[Parade (magazine)|Parade]]'':
+{{quote|Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice? ([[#refWhitaker1990|Whitaker 1990]])}}
+
+There are certain ambiguities in this formulation of the problem: it is unclear whether or not the host would always open another door, always offer a choice to switch, or even whether he would ever open the door revealing the car ([[#refMueserandGranberg1999|Mueser and Granberg 1999]]). The standard analysis of the problem assumes that the host is indeed constrained always to open a door revealing a goat, always to make the offer to switch, and to open one of the remaining two doors randomly if the player initially picked the car ([[#refBarbeau2000|Barbeau 2000:87]]). Hence a more exact statement of the problem is as follows:
+{{quote|Suppose you're on a game show and you're given the choice of three doors. Behind one door is a car; behind the others, goats. The car and the goats were placed randomly behind the doors before the show. The rules of the game show are as follows: After you have chosen a door, the door remains closed for the time being. The game show host, Monty Hall, who knows what is behind the doors, now has to open one of the two remaining doors, and the door he opens must have a goat behind it. If both remaining doors have goats behind them, he chooses one randomly. After Monty Hall opens a door with a goat, he will ask you to decide whether you want to stay with your first choice or to switch to the last remaining door. Imagine that you chose Door 1 and the host opens Door 3, which has a goat. He then asks you "Do you want to switch to Door Number 2?" Is it to your advantage to change your choice? ([[#refKraussandWang2003|Krauss and Wang 2003:10]])}}
+
+Note that the player may initially choose any of the three doors (not just Door 1), that the host opens a different door revealing a goat (not necessarily Door 3), and that he gives the player a second choice between the two remaining unopened doors.
+
+==Solution==
+According to the problem statement above, a car and two goats are arranged behind three doors and then the player initially picks a door.  Assuming the player's initial pick is Door 1 (the same analysis applies for any other door the player picks):
+* The player originally picked the door hiding the car. The game host must open one of the two remaining doors randomly.  
+* The car is behind Door 2 and the host must open Door 3.
+* The car is behind Door 3 and the host must open Door 2.
+Players who choose to switch win if the car is behind either of the two unchosen doors rather than the one that was originally picked.  In two cases with 1/3 probability switching wins, so the overall probability of winning by switching is 2/3 as shown in the diagram below. In other words, there is a 2/3 chance of being ''wrong'' initially, and thus a 2/3 chance of being ''right'' when changing to the other door.
+<br/>
+{| class="wikitable" style="margin:auto; text-align: center;" width="90%"
+|-
+! colspan=2 width="33%" | Car hidden behind Door 1
+! width="33%" | Car hidden behind Door 2
+! width="33%" | Car hidden behind Door 3
+|-
+! colspan=4 | Player initially picks Door 1
+|- 
+| colspan=2 | [[Image:Monty-LeftCar.svg|150px|Player has picked Door 1 and the car is behind it]]
+| [[Image:Monty-MiddleCar.svg|150px|Player has picked Door 1 and the car is behind Door 2]]
+| [[Image:Monty-RightCar.svg|150px|Player has picked Door 1 and the car is behind Door 3]]
+|-
+| colspan=2 | Host opens either goat door
+| Host must open Door 3
+| Host must open Door 2
+|-
+| width=16% | [[Image:Monty-LeftCarSwitch2.svg|88px|Host opens Door 2 half the time if the player picks Door 1 and the car is behind it]] 
+| width=16% | [[Image:Monty-LeftCarSwitch1.svg|88px|Host opens Door 3 half the time if the player picks Door 1 and the car is behind it]]
+| [[Image:Monty-MiddleCarSwitch.svg|177px|Host must open Door 3 if the player picks Door 1 and the car is behind Door 2]]
+| [[Image:Monty-RightCarSwitch.svg|177px|Host must open Door 2 if the player picks Door 1 and the car is behind Door 3]]
+|-
+| Switching loses with probability 1/6
+| Switching loses with probability 1/6
+| Switching wins with probability 1/3
+| Switching wins with probability 1/3
+|-
+| colspan=2 | Switching loses with probability 1/3
+| colspan=2 | Switching wins with probability 2/3
+|}
+
+The reasoning above applies to all players at the start of the game without regard to which door the host opens, specifically before the host opens a particular door and gives the player the option to switch doors ([[#refMorganetal1991|Morgan et al. 1991]]).  This means if a large number of players randomly choose whether to stay or switch, then approximately 1/3 of those choosing to stay with the initial selection and 2/3 of those choosing to switch would win the car.  This result has been verified experimentally using computer and other simulation techniques (see [[#Simulation|Simulation]] below).
+
+[[Image:Monty tree door1.svg|right|thumb|350px|Tree showing the probability of every possible outcome if the player initially picks Door 1]]
+A subtly different question is which strategy is best for an individual player after being shown a particular open door.  Answering this question requires determining the [[conditional probability]] of winning by switching, given which door the host opens. This probability may differ from the overall probability of winning depending on the exact formulation of the problem (see [[#Sources of confusion|Sources of confusion]], below). 
+
+Referring to the figure above or to an equivalent decision tree as shown to the right ([[#refChun1991|Chun 1991]]; [[#refGrinsteadandSnell2006|Grinstead and Snell 2006:137-138]]) and considering only the cases where the host opens Door 2, switching loses in a 1/6 case where the player initially picked the car and otherwise wins in a 1/3 case.  Similarly if the host opens Door 3 switching wins twice as often as staying, so the conditional probability of winning by switching given either door the host opens is 2/3 — the same as the overall probability. A formal proof of this fact using [[Bayes' theorem]] is presented below (see [[#Bayesian analysis|Bayesian analysis]]).
+
+==Sources of confusion==
+When first presented with the Monty Hall problem an overwhelming majority of people assume that each door has an equal probability and conclude that switching does not matter ([[#refMueserandGranberg1999|Mueser and Granberg, 1999]]). Out of 228 subjects in one study, only 13% chose to switch ([[#refGranbergandBrown1995|Granberg and Brown, 1995:713]]). In her book ''The Power of Logical Thinking'', vos Savant ([[#refvosSavant1996|1996:15]]) quotes cognitive psychologist [[Massimo Piattelli-Palmarini]] as saying "... no other statistical puzzle comes so close to fooling all the people all the time" and "that even Nobel physicists systematically give the wrong answer, and that they ''insist'' on it, and they are ready to berate in print those who propose the right answer." 
+
+Most statements of the problem, notably the one in ''Parade Magazine'', do not match the rules of the actual game show ([[#refKraussandWang2003|Krauss and Wang, 2003:9]]), and do not 
+fully specify the host's behavior or that the car's location is randomly selected ([[#refGranbergandBrown1995|Granberg and Brown, 1995:712]]). Krauss and Wang ([[#refKraussandWang2003|2003:10]]) conjecture that people make the standard assumptions even if they are not explicitly stated.  Although these issues are mathematically significant, even when controlling for these factors nearly all people still think each of the two unopened doors has an equal probability and conclude switching does not matter ([[#refMueserandGranberg1999|Mueser and Granberg, 1999]]). This "equal probability" assumption is a deeply rooted intuition ([[#refFalk1992|Falk 1992:202]]).  People strongly tend to think probability is evenly distributed across as many unknowns as are present, whether it is or not ([[#refFoxandLevav2004|Fox and Levav, 2004:637]]).
+
+A competing deeply rooted intuition at work in the Monty Hall problem is the belief that exposing information that is already known does not affect probabilities ([[#refFalk1992|Falk 1992:207]]). This intuition is the basis of solutions to the problem that assert the host's action of opening a door does not change the player's initial 1/3 chance of selecting the car. For the fully explicit problem this intuition leads to the correct numerical answer, 2/3 chance of winning the car by switching, but leads to the same solution for other variants where this answer is not correct ([[#refFalk1992|Falk 1992:207]]).
+
+Another source of confusion is that the usual wording of the problem statement asks about the [[conditional probability]] of winning
+given which door is opened by the host, as opposed to the overall or unconditional probability.
+These are mathematically different questions and can have different answers depending on how the host chooses which door to open if the player's initial choice is the car ([[#refMorganetal1991|Morgan et al., 1991]]; [[#refGillman1992|Gillman 1992]]).  For example, if the host opens Door 3 whenever possible then the probability of winning by switching for players initially choosing Door 1 is 2/3 overall, but only 1/2 if the host opens Door 3.  In its usual form the problem statement does not specify this detail of the host's behavior, making the answer that switching wins the car with probability 2/3 mathematically unjustified.  Many commonly presented solutions address the unconditional probability, ignoring which door the host opens; Morgan et al. call these "false solutions" ([[#refMorganetal1991|1991]]).
+
+==Aids to understanding==
+===Why the probability is not 1/2===
+The most commonly voiced objection to the solution is that the past can be ignored when assessing the probability&mdash;that it is irrelevant which doors the player initially picks and the host opens. However, in the problem as originally presented, the player's initial choice does influence the host's available choices subsequently.
+
+This difference can be demonstrated by contrasting the original problem with a variation that appeared in vos Savant's column in November 2006. In this version, Monty Hall forgets which door hides the car. He opens one of the doors at random and is relieved when a goat is revealed. Asked whether the contestant should switch, vos Savant correctly replied, "If the host is clueless, it makes no difference whether you stay or switch. If he knows, switch" ([[#refvosSavant2006|vos Savant, 2006]]).
+
+In this version of the puzzle, the player has an equal chance of winning whether switching or not. Assuming the player picks Door 1 there are six possible outcomes that can occur, each with probability 1/6:
+
+{| class="wikitable" style="margin:auto; text-align: center;" width="90%"
+|-
+|
+! colspan=6 | Player picks Door 1                         
+|-
+|
+! colspan=2 width="25%" | Car behind Door 1
+! colspan=2 width="25%" | Car behind Door 2
+! colspan=2 width="25%" | Car behind Door 3
+|-
+! Host opens:
+| width="12.5%" | Door 2
+| width="12.5%" | Door 3
+| width="12.5%" | Door 2
+| width="12.5%" | Door 3
+| width="12.5%" | Door 2
+| width="12.5%" | Door 3
+|-
+! Host reveals:
+| Goat
+| Goat
+| Car
+| Goat
+| Goat
+| Car
+|-
+! Switching:
+| loses
+| loses
+| ?
+| wins
+| wins
+| ?
+|}
+
+In two cases above, the host reveals the car. What might happen in these cases is unknown&mdash;perhaps the contestant immediately wins or immediately loses. However, in the problem as stated, the host has revealed a goat, so only four of the six cases remain possible, and they are equally likely. In two of these four cases, switching results in a win, and in the other two, switching results in a loss. Staying with the original pick gives the same odds: a loss in two cases and a win in two others.
+
+The player's probability of winning by switching increases to 2/3 in the original problem because in the two cases above where the host would reveal the car, he is forced to reveal the remaining goat instead. In the table below, these two cases are highlighted:
+{| class="wikitable" style="margin:auto; text-align: center;" width="90%"
+|-
+|
+! colspan=6 | Player picks Door 1
+|-
+|
+! colspan=2 width="25%" | Car behind Door 1
+! colspan=2 width="25%" | Car behind Door 2
+! colspan=2 width="25%" | Car behind Door 3
+|-
+! Host opens:
+| width="12.5%" | Door 2
+| width="12.5%" | Door 3
+| width="12.5%" | <FONT 
+style="BACKGROUND-COLOR: yellow"> Door 3 </font>
+| width="12.5%" | Door 3
+| width="12.5%" | Door 2
+| width="12.5%" | <FONT 
+style="BACKGROUND-COLOR: yellow"> Door 2 </font>
+|-
+! Host reveals:
+| Goat
+| Goat
+| <FONT 
+style="BACKGROUND-COLOR: yellow"> Goat </font>
+| Goat
+| Goat
+| <FONT 
+style="BACKGROUND-COLOR: yellow"> Goat </font>
+|-
+! Switching:
+| loses
+| loses
+| <FONT 
+style="BACKGROUND-COLOR: yellow"> wins </font>
+| wins
+| wins
+| <FONT 
+style="BACKGROUND-COLOR: yellow"> wins </font>
+|}
+
+This change in the host's behavior causes the car to be twice as likely to be behind the "third door", and is what makes switching twice as likely to win in the "host knows" variation of the problem.
+
+===Increasing the number of doors===
+It may be easier to appreciate the solution by considering the same problem with 1,000,000 doors instead of just three ([[#refvosSavant1990|vos Savant 1990]]). In this case there are 999,999 doors with goats behind them and one door with a prize. The player picks a door. The game host then opens 999,998 of the other doors revealing 999,998 goats—imagine the host starting with the first door and going down a line of 1,000,000 doors, opening each one, skipping over only the player's door and one other door. The host then offers the player the chance to switch to the only other unopened door. On average, in 999,999 out of 1,000,000 times the other door will contain the prize, as 999,999 out of 1,000,000 times the player first picked a door with a goat. A rational player should switch. Intuitively speaking, the player should ask how likely is it, that given a million doors, he or she managed to pick the right one. 
+
+Stibel et al. ([[#refStibeletal2008|2008]]) propose working memory demand is taxed during the Monty Hall problem and that this forces people to "collapse" their choices into two equally probable options.  They report that when increasing the number of options to over 7 choices (7 doors) people tend to switch more often, however most still incorrectly judge the probability of success at 50/50.
+
+===Combining doors===
+[[Image:Monty closed doors.svg|176px|right|Player's pick has a 1/3 chance while the other two doors have a 2/3 chance.]]
+Instead of one door being opened and shown to be a losing door, an equivalent action is to combine the two unchosen doors into one since the player cannot, and will not, choose the opened door ([[#refAdams1990|Adams 1990]]; [[#refDevlin2003|Devlin 2003]]; [[#refWilliams2004|Williams 2004]]; [[#refStibeletal2008|Stibel et al., 2008]]). The player therefore has the choice of either sticking with the original choice of door with a 1/3 chance of winning the car, or choosing the sum of the contents of the two other doors with a 2/3 chance as shown.
+
+The game assumptions play a role here&mdash;switching is equivalent to taking the combined contents if and only if the game host knows what is behind the doors, must open a door with a goat, and chooses between two losing doors randomly with equal probabilities.
+
+[[Image:Monty open door chances.svg|197px|right|Player's pick has a 1/3 chance, other two doors a 2/3 chance split 2/3 for the still unopened one and 0 for the one the host opened]]
+The only difference between trading for both doors and the trade that is actually offered is whether the host opens one of the two doors.  Opening one shows which of these doors the car must be behind if it is behind either. At least one of the two unpicked doors contains a goat, and the host is equally likely to open either of these doors so opening one gives the player no additional information; opening one does not change the 2/3 probability that the car is behind one of them ([[#refDevlin2003|Devlin 2003]]).
+
+===Simulation===
+A simple way to demonstrate that a switching strategy really does win two out of three times on the average is to simulate the game with [[playing cards]] ([[#refGardner1959b|Gardner 1959b]]; [[#refvosSavant1996|vos Savant 1996:8]]). Three cards from an ordinary deck are used to represent the three doors; one 'special' card such as the Ace of Spades should represent the door with the car, and ordinary cards, such as the two red twos, represent the goat doors.
+
+The simulation, using the following procedure, can be repeated several times to simulate multiple rounds of the game. One card is dealt at random to the 'player', to represent the door the player picks initially. Then, looking at the remaining two cards at least one of which must be a red two, the 'host' discards a red two. If the card remaining in the host's hand is the Ace of Spades, this is recorded as a round where the player would have won by switching; if the host is holding a red two, the round is recorded as one where staying would have won.
+
+By the [[law of large numbers]], this experiment is likely to approximate the probability of winning, and running the experiment over enough rounds should not only verify that the player ''does'' win by switching two times out of three, but show why. After one card has been dealt to the player, it is ''already determined'' whether switching will win the round for the player; and two times out of three the Ace of Spades is in the host's hand.
+
+If this is not convincing, the simulation can be done with the entire deck, dealing one card to the player and keeping the other 51 ([[#refGardner1959b|Gardner 1959b]]; [[#refAdams1990|Adams 1990]]). In this variant the Ace of Spades goes to the host 51 times out of 52, and stays with the host no matter how many ''non''-Ace cards are discarded.
+
+== Variants ==
+===Other host behaviors===
+In some versions of the Monty Hall problem, the host's behavior is not fully specified. For example, the version published in ''Parade'' in 1990 did not specifically state that the host would always open another door, or always offer a choice to switch, or even never open the door revealing the car. Without specifying these rules, the player does not have enough information to conclude that switching will be successful two-thirds of the time ([[#refMueserandGranberg1999|Mueser and Granberg, 1999]]). The table shows possible host behaviors and the impact on the success of switching.
+
+<div align="center">
+{| width="80%" class="wikitable"
+!colspan=2|Possible host behaviors in unspecified problem
+|-
+!Host behavior
+!Result
+|-
+|The host offers the option to switch only when the player's initial choice is the winning door ([[#refTierney1991|Tierney 1991]]).
+|Switching always yields a goat.
+|-
+|The host offers the option to switch only when the player has chosen incorrectly ([[#refGranberg1996|Granberg 1996:185]]).
+|Switching always wins the car.
+|-
+|The host does not know what lies behind the doors, and opens one at random without revealing the car ([[#refGranbergandBrown1995|Granberg and Brown, 1995:712]]).
+|Switching wins the car half of the time.
+|-
+|The host opens a known door with probability ''p'', unless the car is behind it ([[#refMorganetal1991|Morgan et al. 1991]]).
+|If the host opens his "usual" door, switching wins with probability 1/(1+''p''). If the host opens the other remaining door, switching wins with probability ''p''/(1+''p'').
+|-
+|The host acts as noted in the specific version of the problem.
+|Switching wins the car two-thirds of the time.
+|}
+</div>
+
+===N doors===
+D. L. Ferguson (1975 in a letter to Selvin cited in [[#refSelvin1975b|Selvin 1975b]]) suggests an ''N'' door generalization of the original problem in which the host opens ''p'' losing doors and then offers the player the opportunity to switch; in this variant switching wins with probability (''N''-1)/''N''(''N''-''p''-1).  If the host opens even a single door the player is better off switching, but the advantage approaches zero as ''N'' grows large ([[#refGranberg1996|Granberg 1996:188]]).  At the other extreme, if the host opens all but one losing door the probability of winning by switching approaches 1.
+
+Bapeswara Rao and Rao ([[#refBapeswaraRao1992|1992]]) suggest a different ''N'' door version where the host opens a losing door different from the player's current pick and gives the player an opportunity to switch after each door is opened until only two doors remain. With four doors the optimal strategy is to pick once and switch only when two doors remain. With ''N'' doors this strategy wins with probability (''N''-1)/''N'' and is asserted to be optimal.
+
+This problem appears similar to the television show ''[[Deal or No Deal]]''; however, with each selection the ''Deal or No Deal'' player is just as likely to open the winning box as a losing one. Monty on the other hand, knows the contents and is forbidden from revealing the winner. Assuming the grand prize is still left with two boxes remaining, the ''Deal or No Deal'' player has a 50/50 chance that the initially selected box contains the grand prize.
+
+=== Quantum version ===
+A quantum version of the paradox illustrates some points about the relation between classical or non-quantum information and [[quantum information]], as encoded in the states of quantum mechanical systems. The formulation is loosely based on [[Quantum game theory]]. The three doors are replaced by a quantum system allowing three alternatives; opening a door and looking behind it is translated as making a particular measurement. The rules can be stated in this language, and once again the choice for the player is to stick with the initial choice, or change to another "orthogonal" option. The latter strategy turns out to double the chances, just as in the classical case. However, if the show host has not randomized the position of the prize in a fully quantum mechanical way, the player can do even better, and can sometimes even win the prize with certainty ([[#refFlitney2002|Flitney and Abbott 2002]], [[#refDArianoetal2002|D'Ariano et al. 2002]]).
+
+==History of the problem==
+The earliest of several probability puzzles related to the Monty Hall problem is [[Bertrand's box paradox]], posed by [[Joseph Bertrand]] in 1889 in his ''Calcul des probabilités'' ([[#refBarbeau1993|Barbeau 1993]]).  In this puzzle there are three boxes: a box containing two gold coins, a box with two silver coins, and a box with one of each. After choosing a box at random and withdrawing one coin at random that happens to be a gold coin, the question is what is the probability that the other coin is gold.  As in the Monty Hall problem the intuitive answer is 1/2, but the probability is actually 2/3. 
+
+The [[Three Prisoners problem]], published in [[Martin Gardner]]'s ''Mathematical Games'' column in ''[[Scientific American]]'' in 1959 ([[#refGardner1959a|1959a]], [[#refGardner1959b|1959b]]), is [[isomorphic]] to the Monty Hall problem. This problem involves three condemned prisoners, a random one of whom has been secretly chosen to be pardoned. One of  the prisoners begs the warden to tell him the name of one of the others who will be executed, arguing that this reveals no information about his own fate but increases his chances of being pardoned from 1/3 to 1/2.  The warden obliges, (secretly) flipping a coin to decide which name to provide if the prisoner who is asking is the one being pardoned.  The question is whether knowing the warden's answer changes the prisoner's chances of being pardoned. This problem is equivalent to the Monty Hall problem; the prisoner asking the question still has a 1/3 chance of being pardoned but his unnamed cohort has a 2/3 chance.
+
+Steve Selvin posed the Monty Hall problem in a pair of letters to the ''[[The American Statistician|American Statistician]]'' in 1975 ([[#refSelvin1975a|1975a]], [[#refSelvin1975b|1975b]]). The first presented the problem in a version close to its presentation in ''Parade'' 15 years later. The second letter appears to be the first use of the term "Monty Hall problem". The problem is actually an extrapolation from the game show. Monty Hall ''did'' open a wrong door to build excitement, but offered a known lesser prize—such as $100 cash—rather than a choice to switch doors. As Monty Hall wrote to Selvin:<blockquote>
+And if you ever get on my show, the rules hold fast for you—no trading boxes after the selection. ([[#refHall1975|Hall 1975]])</blockquote>
+
+A version of the problem very similar to the one that appeared three years later in ''Parade'' was published in 1987 in the Puzzles section of ''The Journal of Economic Perspectives'' ([[#refNalebuff1987|Nalebuff 1987]]).
+
+Phillip Martin's article in a 1989 issue of ''Bridge Today'' magazine titled "The Monty Hall Trap" ([[#refMartin1989|Martin 1989]]) presented Selvin's problem, with the correct solution, as an example of how one can fall into the trap of treating non-random information as if it were random. Martin then gives examples in the game of [[Contract bridge|bridge]] where players commonly miscalculate the odds by falling into the same trap, such as the [[Principle of Restricted Choice]]. Given the controversy that would arise over this problem a year later, Martin showed a lack of prescience when he stated, "Here {{interp|in the Monty Hall problem}} the trap is easy to spot. But the trap can crop up more subtly in a bridge setting."
+
+A restated version of Selvin's problem appeared in [[Marilyn vos Savant]]'s ''Ask Marilyn'' question-and-answer column of ''Parade'' in September 1990 ([[#refvosSavant1990|vos Savant 1990]]). Though vos Savant gave the correct answer that switching would win two-thirds of the time, she estimates the magazine received 10,000 letters including close to 1,000 signed by Ph.D.s, many on letterheads of mathematics and science departments, declaring that her solution was wrong ([[#refTierney1991|Tierney 1991]]). Due to the overwhelming response, ''Parade'' published an unprecedented four columns on the problem ([[#refvosSavant1996|vos Savant 1996:xv]]).  As a result of the publicity the problem earned the alternative name Marilyn and the Goats.
+
+In November 1990, an equally contentious discussion of vos Savant's article took place in [[Cecil Adams]]'s column ''[[The Straight Dope]]'' ([[#refAdams1990|Adams 1990]]). Adams initially answered, incorrectly, that the chances for the two remaining doors must each be one in two. After a reader wrote in to correct the mathematics of Adams' analysis, Adams agreed that mathematically, he had been wrong, but said that the ''Parade'' version left critical constraints unstated, and without those constraints, the chances of winning by switching were not necessarily 2/3. Numerous readers, however, wrote in to claim that Adams had been "right the first time" and that the correct chances were one in two.
+
+The ''Parade'' column and its response received considerable attention in the press, including a front page story in the ''[[New York Times]]'' ([[#refTierney1991|Tierney 1991]]) in which Monty Hall himself was interviewed. He appeared to understand the problem quite well, giving the reporter a demo with car keys and explaining how actual game play on ''Let's Make a Deal'' differed from the rules of the puzzle.
+
+Over 40 papers have been published about this problem in academic journals and the popular press ([[#refMueserandGranberg1999|Mueser and Granberg 1999]]).
+
+The problem continues to resurface outside of academia. The syndicated [[National Public Radio|NPR]] program ''[[Car Talk]]'' featured it as one of their weekly "Puzzlers," and the answer they featured was quite clearly explained as the correct one ([[#refMagliozziandMagliozzi1998|Magliozzi and Magliozzi, 1998]]). An account of mathematician [[Paul Erdos]]'s first encounter of the problem can be found in ''[[The Man Who Loved Only Numbers]]''—like many others, he initially got it wrong. The problem is discussed, from the perspective of a boy with [[Asperger syndrome]], in ''[[The Curious Incident of the Dog in the Night-time]]'', a 2003 novel by [[Mark Haddon]]. The problem is also addressed in a lecture by the character [[Charlie Eppes]] in an episode of the CBS drama ''[[NUMB3RS]]'' (Episode 1.13) and in [[Derren Brown]]'s 2006 book ''Tricks Of The Mind''. [[Penn Jillette]] explained the Monty Hall Problem on the "Luck" episode of Bob Dylan's [[Theme Time Radio Hour]] radio series. The Monty Hall problem appears in the film ''[[21 (2008 film)|21]]'' ([[#refBloch2008|Bloch 2008]]). Economist M. Keith Chen identified a potential flaw in hundreds of experiments related to [[cognitive dissonance]] that use an analysis with issues similar to those involved in the Monty Hall problem ([[#refTierney2008|Tierney 2008]]).
+<!-- The popular [[Deal or No Deal]] game show is essentially unrelated to the Monty Hall problem. It is mentioned in the "Sequential doors" section, above. -->
+
+==Bayesian analysis==
+An analysis of the problem using the formalism of [[Bayesian probability]] theory ([[#refGill2002|Gill 2002]]) makes explicit the role of the assumptions underlying the problem. 
+
+In Bayesian terms, a probability <math>P(A | I)\,</math> is a number in <math>[0, 1]\,</math> associated to a proposition <math>A\,</math>. The number expresses a degree of belief in the truth of <math>A\,</math>, subject to whatever ''background'' information <math>I\,</math> happens to be known. 
+
+For this problem the background is provided by the rules of the game, and the propositions of interest are:
+
+:<math>C_i\,</math> : The car is behind Door ''i'', for ''i'' equal to 1, 2 or 3.
+
+:<math>H_{ij}\,</math> : The host opens Door ''j'' after the player has picked Door ''i'', for ''i'' and ''j'' equal to 1, 2 or 3.
+
+For example, <math>C_1\,</math> denotes the proposition ''the car is behind Door 1'', and <math>H_{12}\,</math> denotes the proposition ''the host opens Door 2 after the player has picked Door 1''. 
+
+The assumptions underlying the common interpretation of the Monty Hall puzzle are then formally stated as follows.
+
+First, the car can be behind any door, and all doors are ''[[A priori (statistics)|a priori]]'' equally likely to hide the car. In this context ''a priori'' means ''before the game is played'', or ''before seeing the goat''. Hence, the [[prior probability]] of a proposition <math>C_i\,</math> is:
+
+:<math>P(C_i | I)\,= \frac{1}{3}.</math>
+
+Second, the host will always open a door that has no car behind it, chosen from among the two not picked by the player. If two such doors are available, each one is equally likely to be opened. This rule determines the [[conditional probability]] of a proposition <math>H_{ij}\,</math> subject to where the car is &mdash; i.e., ''conditioned'' on a proposition <math>C_k\,.</math> Specifically, it is:
+
+<dl><dd>
+{|
+|-
+| rowspan="4" valign="center" | <math>P(H_{ij} | C_k,\, I)\,\, =\,\begin{cases}
+\, \\
+\, \\
+\, \\
+\, 
+\end{cases}</math>
+| <math>\,0\,</math> || &nbsp; || if ''i'' = ''j'', (the host cannot open the door picked by the player)
+|-
+| <math>\,0\,</math> || &nbsp; || if ''j'' = ''k'', (the host cannot open a door with a car behind it)
+|-
+| <math>\,1/2\,</math> || &nbsp; || if ''i'' = ''k'', (the two doors with no car are equally likely to be opened)
+|-
+| <math>\,1\,</math> || &nbsp; || if ''i'' <math>\ne</math>''k'' and ''j'' <math>\ne</math> ''k'', (there is only one door available to open)
+|}
+</dd></dl>
+
+The problem can now be solved by scoring each strategy with its associated [[posterior probability]] of winning, that is with its probability subject to the host's opening of one of the doors. Without loss of generality, assume, by re-numbering the doors if necessary, that the player picks Door 1, and that the host then opens Door 3, revealing a goat. In other words, the host ''makes'' proposition <math>H_{13}\,</math> true.
+
+The posterior probability of winning by ''not'' switching doors, subject to the game rules and <math>H_{13}\,</math>, is then <math>P(C_1 | H_{13},\,I)</math>. Using [[Bayes' theorem]] this is expressed as:
+
+:<math> P(C_1|H_{13},\,I) = \frac{P(H_{13}| C_1,\,I) \, P(C_1 | I)}{P(H_{13} | I)}.</math>
+
+By the assumptions stated above, the numerator of the right-hand side is:
+
+:<math>P(H_{13}| C_1,\,I) \, P(C_1 | I) = \frac12 \times \frac13 = \frac16.</math>
+
+The [[normalizing constant]] at the denominator can be evaluated by expanding it using the definitions of [[marginal probability]] and conditional probability:
+
+:<math>\begin{array}{lcl}
+P(H_{13}|I) &{}= &P(H_{13},\,C_1 | I) + P(H_{13},\,C_2|I) + P(H_{13},\,C_3|I) \\
+ &{}= &P(H_{13}|C_1,\,I) \, P(C_1|I)\, + \\
+ &&P(H_{13}|C_2,\,I) \, P(C_2|I)\, + \\
+ &&P(H_{13}|C_3,\,I) \, P(C_3|I) \\
+ &{}= &{\displaystyle \frac12 \times \frac13 + 1 \times \frac13 + 0 \times \frac13 }\ = \ {\displaystyle\frac12\ .}
+\end{array}</math>
+
+Dividing the numerator by the normalizing constant yields:
+
+:<math>P(C_1|H_{13},\,I) = \frac16\,/\,\frac12 = \frac13.</math>
+
+Note that this is equal to the prior probability of the car's being behind the initially chosen door, meaning that the host's action has not contributed any novel information with regard to this eventuality. In fact, the following argument shows that the effect of the host's action consists entirely of redistributing the probabilities for the car's being behind either of the ''other'' two doors.
+
+The probability of winning by switching the selection to Door 2, <math>P(C_2 | H_{13},\,I)</math>, can be evaluated by requiring that the posterior probabilities of all the <math>C_i\,</math> propositions add to 1. That is:
+
+:<math>1 = P(C_1|H_{13},\,I) + P(C_2 | H_{13},\,I) + P(C_3|H_{13},\,I).</math>
+
+There is no car behind Door 3, since the host opened it, so the last term must be zero. This can be proven using Bayes' theorem and the previous results:
+
+:<math>
+\begin{align}
+P(C_3|H_{13},\,I) &= \frac{P(H_{13}|C_3,\,I)\,P(C_3|I)}{P(H_{13}|I)} \\
+ &= \left(0\times\frac13\right) /\, \frac12 = 0\ .
+\end{align}
+</math>
+
+Hence:
+
+:<math>P(C_2 | H_{13},\,I) = 1 - \frac13 - 0 = \frac23.</math>
+
+This shows that the winning strategy is to switch the selection to Door 2. It also makes clear that the host's showing of the goat behind Door 3 has the effect of ''transferring'' the 1/3 of winning probability ''a-priori'' associated with that door to the remaining unselected and unopened one, thus making it the most likely winning choice.
+
+== See also ==
+=== Similar problems ===
+* [[Bertrand's box paradox]] (also known as the Three cards problem)
+* [[Boy or Girl]]
+* [[Three Prisoners Problem]]
+* [[Two envelopes problem]]
+
+==References==
+<!--
+
+Please note that these are books and papers that the article actually refers to, not a general bibliography.
+
+-->
+*<cite id=refAdams1990>[[Cecil Adams|Adams, Cecil]] (1990).[http://www.straightdope.com/classics/a3_189.html "On 'Let's Make a Deal,' you pick Door #1. Monty opens Door #2—no prize. Do you stay with Door #1 or switch to #3?",] ''The Straight Dope'', (November 2, 1990). Retrieved July 25, 2005.</cite>
+*<cite id=refBapeswaraRao1992>Bapeswara Rao, V. V. and Rao, M. Bhaskara (1992). "A three-door game show and some of its variants". ''The Mathematical Scientist'' '''17'''(2): 89–94.</cite>
+*<cite id=refBarbeau1993>Barbeau, Edward (1993). "Fallacies, Flaws, and Flimflam: The problem of the Car and Goats". ''The College Mathematics Journal'' '''24'''(2): 149-154.</cite> 
+*<cite id=refBarbeau2000>Barbeau, Edward (2000). ''Mathematical Fallacies, Flaws and Flimflam''. The Mathematical Association of America. ISBN 0-8838-5529-1.</cite>
+*<cite id=refBloch2008>{{cite web
+|url=http://www.andybloch.com/gl/pub/article.php?story=2008031308241327
+|title=21 - The Movie (my review)
+|first=Andy
+|last=Bloch
+|authorlink=Andy Bloch
+|year=2008
+|accessdate=2008-05-05}}</cite>
+*<cite id=refChun1991>Chun, Young H. (1991). "Game Show Problem," ''OR/MS Today'' '''18'''(3): 9.</cite>
+*<cite id=refDArianoetal2002>D'Ariano, G.M et al. (2002). [http://xxx.lanl.gov/pdf/quant-ph/0202120 "The Quantum Monty Hall Problem"] (PDF). Los Alamos National Laboratory, (February 21, 2002). Retrieved January 15, 2007.</cite>
+*<cite id=refDevlin2003>{{cite web
+|url=http://www.maa.org/devlin/devlin_07_03.html
+|title=Devlin's Angle: Monty Hall
+|publisher=The Mathematical Association of America
+|first=Keith
+|last=Devlin
+|authorlink=Keith Devlin
+|date=July – August 2003
+|accessdate=2008-04-25}}</cite>
+*<cite id=refFalk1992>Falk, Ruma (1992). "A closer look at the probabilities of the notorius three prisoners," ''Cognition'' '''43''': 197–223.</cite>
+*<cite id=refFlitney2002>Flitney, Adrian P. and [[Derek Abbott|Abbott, Derek]] (2002).  "Quantum version of the Monty Hall problem," ''Physical Review A'', '''65''', Art. No. 062318, 2002.</cite>
+*<cite id=refFoxandLevav2004>Fox, Craig R. and Levav, Jonathan (2004). "Partition-Edit-Count: Naive Extensional Reasoning in Judgment of Conditional Probability," ''Journal of Experimental Psychology: General'' '''133'''(4): 626-642.</cite>
+*<cite id=refGardner1959a>[[Martin Gardner|Gardner, Martin]] (1959a). "Mathematical Games" column, ''Scientific American'', October 1959, pp. 180–182. Reprinted in ''The Second Scientific American Book of Mathematical Puzzles and Diversions''.</cite>
+*<cite id=refGardner1959b>[[Martin Gardner|Gardner, Martin]] (1959b). "Mathematical Games" column, ''Scientific American'', November 1959, p. 188.</cite>
+*<cite id=refGill2002>[[Jeff Gill|Gill, Jeff]] (2002). ''Bayesian Methods'', pp. 8–10. CRC Press. ISBN 1-5848-8288-3.</cite>
+*<cite id=refGillman1992>[[Leonard Gillman|Gillman, Leonard]] (1992). "The Car and the Goats," ''American Mathematical Monthly'' '''99''': 3–7.</cite>
+*<cite id=refGranberg1996>Granberg, Donald (1996). "To Switch or Not to Switch". Appendix to vos Savant, Marilyn, ''The Power of Logical Thinking''. St. Martin's Press. ISBN 0-612-30463-3.</cite>
+*<cite id=refGranbergandBrown1995>Granberg, Donald and Brown, Thad A. (1999). "The Monty Hall Dilemma," ''Personality and Social Psychology Bulletin'' '''21'''(7): 711-729.</cite>
+*<cite id=refGrinsteadandSnell2006>{{cite book | author=Grinstead, Charles M. and Snell, J. Laurie | title = Grinstead and Snell’s Introduction to Probability | url=http://www.math.dartmouth.edu/~prob/prob/prob.pdf | accessdate=2008-04-02 | date=[[2006-07-04]] | format=PDF | others=Online version of ''Introduction to Probability, 2nd edition'', published by the American Mathematical Society, Copyright (C) 2003 Charles M. Grinstead and J. Laurie Snell.}}</cite>
+*<cite id=refHall1975>[[Monty Hall|Hall, Monty]] (1975). [http://www.letsmakeadeal.com/problem.htm The Monty Hall Problem.] LetsMakeADeal.com. Includes May 12, 1975 letter to Steve Selvin. Retrieved January 15, 2007.</cite>
+*<cite id=refKraussandWang2003>Krauss, Stefan and Wang, X. T. (2003). "The Psychology of the Monty Hall Problem: Discovering Psychological Mechanisms for Solving a Tenacious Brain Teaser," ''Journal of Experimental Psychology: General'' '''132'''(1). Retrieved from http://www.usd.edu/~xtwang/Papers/MontyHallPaper.pdf March 30, 2008.</cite>
+*<cite id=refMagliozziandMagliozzi1998>{{cite book | author=Magliozzi, Tom; Magliozzi, Ray | authorlink=Tom Magliozzi | title = Haircut in Horse Town: & Other Great Car Talk Puzzlers | publisher = Diane Pub Co. | year=1998 | id=ISBN 0-7567-6423-8}}</cite>
+*<cite id=refMartin1989>Martin, Phillip (1989). "The Monty Hall Trap", ''Bridge Today'', May–June 1989. Reprinted in Granovetter, Pamela and Matthew, ed. (1993), ''For Experts Only'', Granovetter Books.</cite>
+*<cite id=refMorganetal1991>Morgan, J. P., Chaganty, N. R., Dahiya, R. C., & Doviak, M. J. (1991). [http://links.jstor.org/sici?sici=0003-1305(199111)45%3A4%3C284%3ALMADTP%3E2.0.CO%3B2-7 "Let's make a deal: The player's dilemma,"] ''American Statistician'' '''45''': 284-287.</cite>
+*<cite id=refMueserandGranberg1999>Mueser, Peter R. and Granberg, Donald (May 1999). [http://econwpa.wustl.edu:80/eps/exp/papers/9906/9906001.html "The Monty Hall Dilemma Revisited: Understanding the Interaction of Problem Definition and Decision Making",] University of Missouri Working Paper 99-06. Retrieved July 5, 2005.</cite>
+*<cite id=refNalebuff1987>[[Barry Nalebuff|Nalebuff, Barry]] (1987). "Puzzles: Choose a Curtain, Duel-ity, Two Point Conversions, and More," ''Journal of Economic Perspectives'' '''1'''(2): 157-163 (Autumn, 1987).</cite>
+*<cite id=refSelvin1975a>Selvin, Steve (1975a). "A problem in probability" (letter to the editor). ''American Statistician'' '''29'''(1): 67 (February 1975).</cite>
+*<cite id=refSelvin1975b>Selvin, Steve (1975b). "On the Monty Hall problem" (letter to the editor). ''American Statistician'' '''29'''(3): 134 (August 1975).</cite>
+*<cite id=refStibeletal2008>[[Jeff Stibel|Stibel, Jeffrey]], Dror, Itiel, & Ben-Zeev, Talia (2008). "[http://www.springerlink.com/content/v65v2841q3820622/ The Collapsing Choice Theory: Dissociating Choice and Judgment in Decision Making]," ''Theory and Decision''.  Full paper can be found at http://users.ecs.soton.ac.uk/id/TD%20choice%20and%20judgment.pdf.</cite>
+*<cite id=refTierney1991>[[John Tierney (journalist)|Tierney, John]] (1991). "[http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDD1E3FF932A15754C0A967958260  Behind Monty Hall's Doors: Puzzle, Debate and Answer?]", ''The New York Times'', [[1991-07-21]]. Retrieved on [[2008-01-18]].</cite>
+*<cite id=refTierney2008>Tierney, John (2008). "[http://www.nytimes.com/2008/04/08/science/08tier.html And Behind Door No. 1, a Fatal Flaw]", ''The New York Times'', [[2008-04-08]]. Retrieved on [[2008-04-08]].</cite>
+*<cite id=refvosSavant1990>[[Marilyn vos Savant|vos Savant, Marilyn]] (1990). "Ask Marilyn" column, ''Parade Magazine'' p. 16 (9 September 1990).</cite>
+*<cite id=refvosSavant1996>{{cite book | author =vos Savant, Marilyn | title = The Power of Logical Thinking | publisher = St. Martin's Press | year=1996 | id= ISBN 0-612-30463-3}}</cite>
+*<cite id=refvosSavant2006>vos Savant, Marilyn (2006). "Ask Marilyn" column, ''Parade Magazine'' p. 6 (26 November 2006).</cite>
+*<cite id=refWilliams2004>{{cite web
+|url=http://www.nd.edu/~rwilliam/stats1/appendices/xappxd.pdf
+|title=Appendix D: The Monty Hall Controversy
+|first=Richard
+|last=Williams
+|year=2004
+|format=PDF
+|work=Course notes for Sociology Graduate Statistics I
+|accessdate=2008-04-25}}</cite>
+*<cite id=refWhitaker1990>Whitaker, Craig F. (1990). [Letter]. "Ask Marilyn" column, ''Parade Magazine'' p. 16 (9 September 1990).</cite>
+<!-- {{cite journal | author = Marilyn vos Savant | date = [[November 26]]–[[December 2]] [[2006]] | title = Ask Marilyn | journal = Parade Classroom Teacher's Guide | pages = 3 | url = http://www.paradeclassroom.com/tg_folders/2006/1126/TG_11262006.pdf | format = [[PDF]] | accessdate = 2006-11-27 }} -->
+
+==External links==
+{{wikibooks|Algorithm implementation|Simulation/Monty Hall problem|Monty Hall problem simulation}}
+{{commons|Monty Hall problem}}
+{{Spoken Wikipedia|Monty Hall problem.ogg|2006-08-06}}
+* [http://www.letsmakeadeal.com/problem.htm The Monty Hall Problem] at [http://www.letsmakeadeal.com letsmakeadeal.com]
+* [http://www.marilynvossavant.com/articles/gameshow.html The Game Show Problem]–the original question and responses on Marilyn vos Savant's web site
+* {{dmoz|Science/Math/Recreations/Famous_Problems/Monty_Hall/|Monty Hall}}
+* "[http://demonstrations.wolfram.com/MontyHallParadox/ Monty Hall Paradox]" by Matthew R. McDougal, [[The Wolfram Demonstrations Project]] (simulation)
+* [http://www.nytimes.com/2008/04/08/science/08monty.html The Monty Hall Problem] at The New York Times (simulation)
+
+{{featured article}}
+
+[[Category:Probability theory paradoxes]]
+[[Category:Let's Make a Deal]]
+
+{{Link FA|de}}
+[[cs:Monty Hallův problém]]
+[[da:Monty Hall-problemet]]
+[[de:Ziegenproblem]]
+[[es:Problema de Monty Hall]]
+[[fr:Problème de Monty Hall]]
+[[ko:몬티 홀 문제]]
+[[id:Masalah Monty Hall]]
+[[it:Problema di Monty Hall]]
+[[he:בעיית מונטי הול]]
+[[hu:Monty Hall-paradoxon]]
+[[nl:Driedeurenprobleem]]
+[[ja:モンティ・ホール問題]]
+[[no:Monty Hall-problemet]]
+[[pl:Paradoks Monty Halla]]
+[[pt:Problema de Monty Hall]]
+[[ru:Парадокс Монти Холла]]
+[[simple:Monty Hall Problem]]
+[[fi:Monty Hallin ongelma]]
+[[sv:Monty Hall-problemet]]
+[[th:ปัญหามอนตี ฮอลล์]]
+[[zh:蒙提霍爾問題]]

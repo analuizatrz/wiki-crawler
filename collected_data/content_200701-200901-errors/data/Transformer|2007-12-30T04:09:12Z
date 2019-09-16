@@ -1,0 +1,443 @@
+{{otheruses}}
+
+{{clear}}
+[[Image:PoleMountTransformer02.jpg|thumb|250px|right|Three-phase pole-mounted step-down transformer.]] 
+
+A '''transformer''' is a device that transfers [[electrical energy]] from one [[Electrical network|circuit]] to another through [[inductive coupling|inductively coupled]] wires. A changing [[electric current|current]] in the first circuit (the ''primary'') creates a changing magnetic field; in turn, this magnetic field [[electromagnetic induction|induces]] a changing voltage in the second circuit (the ''secondary''). By adding a [[electrical load|load]] to the secondary circuit, one can make current flow in the transformer, thus transferring energy from one circuit to the other.
+
+The secondary induced voltage ''V<sub>S</sub>'' is scaled from the primary ''V<sub>P</sub>'' by a factor ideally equal to the ratio of the number of turns of wire in their respective windings:
+
+:<math>
+\frac{V_{S}}{V_{P}} = \frac{N_{S}}{N_{P}}
+</math>
+
+By appropriate selection of the numbers of turns, a transformer thus allows an [[alternating current|alternating voltage]] to be stepped up &mdash; by making ''N<sub>S</sub>'' more than ''N<sub>P</sub>'' &mdash; or stepped down, by making it less.
+
+A key application of transformers is to reduce the current before transmitting electrical energy over long distances through wires. Most wires have [[Electrical resistance|resistance]] and so dissipate electrical energy at a rate proportional to the square of the current through the wire.  By transforming electrical power to a high-voltage, and therefore low-current form for transmission and back again afterwards, transformers enable the economic [[Electric power transmission|transmission of power]] over long distances. Consequently, transformers have shaped the [[Electrical power industry|electricity supply industry]], permitting [[electrical generator|generation]] to be located remotely from points of [[electrical load|demand]].<ref>{{cite book| last = Heathcote| title = J & P Transformer Book | pages = p1}}</ref> All but a fraction of the world's [[electric power|electrical power]] has passed through a series of transformers by the time it reaches the consumer.<ref name="nailen">{{Citation| last = Nailen| first = Richard| title = Why we must be concerned with transformers| journal = Electrical Apparatus| date = May 2005| url = http://findarticles.com/p/articles/mi_qa3726/is_200505/ai_n13636839/pg_1}}</ref>
+
+Transformers are some of the most [[Electrical efficiency|efficient]] electrical 'machines',<ref>{{cite book | last = Flanagan | title = Handbook of Transformer Design and Applications | pages = Chap. 1 p1}}</ref> with some large units able to transfer 99.75% of their input power to their output.<ref name="energie">{{cite paper | author= ENERGIE | title = The scope for energy saving in the EU through the use of energy-efficient electricity distribution transformers | date = 1999 | url = http://www.leonardo-energy.org/drupal/files/Full%20project%20report%20-%20Thermie.pdf?download | format = pdf}}</ref>  Transformers come in a range of sizes from a thumbnail-sized coupling transformer hidden inside a stage [[microphone]] to huge units weighing hundreds of tonnes used to interconnect portions of national [[power grid]]s. All operate with the same basic principles, though a variety of designs exist to perform specialized roles throughout home and industry.
+{{TOClimit|limit=3}}
+
+==Basic principles==
+
+The transformer is based on two principles: first, that an [[electric current]] can produce a [[magnetic field]] ([[electromagnetism]]) and, second, that a changing magnetic field within a coil of wire induces a voltage across the ends of the coil ([[electromagnetic induction]]).  By changing the current in the primary coil, one changes the strength of its magnetic field; since the secondary coil is wrapped around the same magnetic field, a voltage is induced across the secondary.
+
+[[Image:Transformer3d col3.svg|right|thumb|350px|An ideal step-down transformer showing magnetic flux in the core]]
+
+A simplified transformer design is shown to the right.  A current passing through the primary coil creates a [[magnetic field]]. The primary and secondary coils are wrapped around a core of very high [[Permeability (electromagnetism)|magnetic permeability]], such as [[iron]]; this ensures that most of the magnetic field lines produced by the primary current are within the iron and pass  through the secondary coil as well as the primary coil.
+
+===Induction law===
+
+The voltage induced across the secondary coil may be calculated from [[Faraday's law of induction]], which states that 
+
+:<math>
+V_{S} = N_{S} \frac{d\Phi}{dt}
+</math>
+
+where ''V<sub>S</sub>'' is the instantaneous [[voltage]], ''N''<sub>''S''</sub> is the number of turns in the secondary coil and ''Φ'' equals the total [[magnetic flux]] through one turn of the coil.  If the turns of the coil are oriented perpendicular to the magnetic field lines, the flux is the product of the [[magnetic field]] strength ''B'' and the area ''A'' through which it cuts.  The area is constant, being equal to the cross-sectional area of the transformer core, whereas the magnetic field varies with time according to the excitation of the primary.  
+
+Since the same magnetic flux passes through both the primary and secondary coils in an ideal transformer,<ref name= "flanagan_p2.1">{{cite book | last = Flanagan | title = Handbook of Transformer Design and Applications | pages = Chap. 1 pp1&ndash;2}}</ref> the instantaneous voltage across the primary winding equals 
+
+:<math>
+V_{P} = N_{P} \frac{d\Phi}{dt}
+</math>
+
+Taking the ratio of the two equations for ''V<sub>S</sub>'' and ''V<sub>P</sub>'' gives the basic equation<ref name="winders">{{cite book | last = Winders | title = Power Transformer Principles and Applications | pages = pp20&ndash;21}}</ref> for stepping up or stepping down the voltage
+
+:<math>
+\frac{V_{S}}{V_{P}} = \frac{N_{S}}{N_{P}}
+</math>
+
+===Ideal power equation===
+
+[[Image:Transformer under load.svg|thumb|280px|right|The ideal transformer as a circuit element]]
+
+If the secondary coil is attached to a load that allows current to flow, electrical power is transmitted from the primary circuit to the secondary circuit.  Ideally, the transformer is perfectly efficient; all the incoming energy is transformed from the primary circuit to the [[magnetic field]] and thence to the secondary circuit.  If this condition is met, the incoming [[electric power]] must equal the outgoing power
+
+:<math>
+P_{\mathrm{incoming}} = I_{P} V_{P} = P_{\mathrm{outgoing}} = I_{S} V_{S}
+</math>
+
+giving the ideal transformer equation
+
+:<math>
+\frac{V_{S}}{V_{P}} = \frac{N_{S}}{N_{P}} = \frac{I_{P}}{I_{S}}
+</math>
+
+Thus, if the voltage is stepped up (''V<sub>S</sub>'' > ''V<sub>P</sub>''), then the current is stepped down (''I<sub>S</sub>'' < ''I<sub>P</sub>'') by the same factor.  In practice, most transformers are very efficient (see below), so that this formula is a good approximation.
+
+The impedance in one circuit is transformed by the ''square'' of the turns ratio.<ref name="flanagan_p2.1"/> For example, if an impedance ''Z<sub>S</sub>'' is attached across the terminals of the secondary coil, it appears to the primary circuit to have an impedance of <math>Z_S\!\left(\!\tfrac{N_P}{N_S}\!\right)^2\!\!</math>. This relationship is reciprocal, so that the impedance ''Z<sub>P</sub>'' of the primary circuit appears to the secondary to be <math>Z_P\!\left(\!\tfrac{N_S}{N_P}\!\right)^2\!\!</math>.
+
+===Technical discussion===
+The simplified description above avoids several complicating factors, in particular the primary current required to establish a magnetic field in the core, and the contribution to the field due to current in the secondary circuit.
+
+Models of an ideal transformer typically assume a core of negligible [[magnetic reluctance|reluctance]] with two windings of zero [[electrical resistance|resistance]].<ref name="say">{{cite book | last = Say| title = Alternating Current Machines, Fifth Edition}}</ref> When a voltage is applied to the primary winding, a small current flows, driving  [[magnetic flux|flux]] around the [[magnetic circuit]] of the core.<ref name="say"/>. The current required to create the flux is termed the ''magnetising current''; since the ideal core has been assumed to have near-zero reluctance, the magnetising current is negligible, although a presence is still required to create the magnetic field. 
+
+The changing magnetic field induces an [[electromotive force]] (EMF) across each winding.<ref name="J&P_p2-3">{{cite book | last = Heathcote | title = J & P Transformer Book, Twelfth edition | pages = pp2&ndash;3}}</ref> Since the ideal windings have no impedance, they have no associated voltage drop, and so the voltages V<sub>P</sub> and V<sub>S</sub> measured at the terminals of the transformer, are equal to the corresponding EMFs. The primary EMF, acting as it does in opposition to the primary voltage, is sometimes termed the "[[Counter-electromotive force|back EMF]]".<ref name="calvert">{{cite web | last = Calvert | first = James | title = Inside Transformers | publisher = University of Denver | date = 2001 | url = http://www.du.edu/~jcalvert/tech/transfor.htm | accessdate =  2007-05-19}}</ref> This is due to [[Lenz's law]] which states that the induction of EMF would always be such that it will oppose development of any such change in magnetic field.
+
+==Practical considerations==
+[[Image:Flux leakage.svg|left|thumb|250px|Flux leakage in a two-winding transformer]]
+===Flux leakage===
+{{main|Leakage inductance}}
+The ideal transformer model assumes that all flux generated by the primary winding links all the turns of every winding, including itself. In practice, some flux traverses paths that take it outside the windings.<ref name="mclaren">{{cite book | last = McLaren | title = Elementary Electric Power and Machines| pages = pp68&ndash;74}}</ref> Such flux is termed ''leakage flux'', and manifests itself as [[self-inductance]] in [[series and parallel circuits|series]] with the mutually coupled transformer windings.<ref name="calvert"/> Leakage results in energy being alternately stored in and discharged from the [[magnetic field]]s with each cycle of the power supply. It is not itself directly a source of power loss, but results in poorer [[voltage regulation]], causing the secondary voltage to fail to be directly proportional to the primary, particularly under heavy load.<ref name="mclaren"/> Distribution transformers are therefore normally designed to have very low [[leakage inductance]]. 
+
+However, in some applications, leakage can be a desirable property, and long magnetic paths, air gaps, or magnetic bypass shunts may be deliberately introduced to a transformer's design to limit the [[short-circuit]] current it will supply.<ref name="calvert"/> Leaky transformers may be used to supply loads that exhibit [[negative resistance]], such as [[electric arc]]s, [[mercury vapor lamp]]s, and [[neon sign]]s; or for safely handling loads that become periodically short-circuited such as [[arc welding|electric arc welders]].<ref>{{cite book | last = Say| title = Alternating Current Machines, Fifth Edition | pages = p485}}</ref> Air gaps are also used to keep a transformer from saturating, especially audio-frequency transformers that have a DC component added.
+
+===Effect of frequency===
+The time-derivative term in [[Faraday's law of induction|Faraday's Law]] shows that the flux in the core is the [[integral]] of the applied voltage.<ref name="dixon">{{Citation | first = Lloyd | last = Dixon | contribution = Magnetics Design Handbook | contribution-url = http://focus.ti.com/lit/ml/slup126/slup126.pdf | publisher = Texas Instruments}}</ref> An ideal transformer would, at least hypothetically, work under direct-current excitation, with the core flux increasing linearly with time.<ref name="billings">{{cite book | last=Billings | first=Keith | title=Switchmode Power Supply Handbook | publisher=McGraw-Hill | year=1999 | id=ISBN 0-0700-6719-8}}</ref> In practice, the flux would rise very rapidly to the point where [[saturation (magnetic)|magnetic saturation]] of the core occurred, causing a huge increase in the magnetising current and overheating the transformer. All practical transformers must therefore operate under alternating (or pulsed) current conditions.<ref name="billings"/>
+
+<div style="float:right; padding:1em; margin:0em 0em 0em 1em; width:300px; border:1px solid; background-color:#FFFFF0">
+{{anchor|Transformer universal EMF equation}}<!-- This section is linked from [[Transformer]] -->
+'''Transformer universal EMF equation'''
+
+If the flux in the core is [[sinusoidal]], the relationship for either winding between its [[root mean square|rms]] EMF ''E'', and the supply frequency ''f'', number of turns ''N'', core cross-sectional area ''a'' and peak [[magnetic flux density]] ''B'' is given by the universal EMF equation:<ref name="say"/> 
+
+:<math> E={\frac {2 \pi f N a B} {\sqrt{2}}} \!=4.44 f N a B</math>
+</div>
+The EMF of a transformer at a given flux density increases with frequency, an effect predicted by the [[Transformer#Transformer universal EMF equation|universal transformer EMF equation]].<ref name="say"/>  By operating at higher frequencies, transformers can be physically more compact because a given core is able to transfer more power without reaching saturation, and fewer turns are needed to achieve the same impedance. However properties such as core loss and conductor [[skin effect]] also increase with frequency. Aircraft and military equipment traditionally employ 400&nbsp;Hz power supplies which are less efficient but this is more than offset by the reduction in core and winding weight.<ref>{{cite web | title = 400 Hz Electrical Systems | work = Aerospaceweb.org | url = http://www.aerospaceweb.org/question/electronics/q0219.shtml | accessdate = 2007-05-21}}</ref>
+
+In general, operation of a transformer at its designed voltage but at a higher frequency than intended will lead to reduced magnetising current. At a frequency lower than the design value, with the rated voltage applied, the magnetising current may increase to an excessive level. Operation of a transformer at other than its design frequency may require assessment of voltages, losses, and cooling to establish if safe operation is practical. For example, transformers may need to be equipped with "volts per hertz" over-excitation [[relay]]s to protect the transformer from overvoltage at higher than rated frequency.
+
+Knowledge of natural frequencies of transformer windings is of importance for the determination of the transient response of the windings to impulse and switching surge voltages.
+{{clear}}
+
+===Energy losses===
+An ideal transformer would have no energy losses, and would therefore be 100% efficient. Despite the transformer being amongst the most efficient of electrical machines, with experimental models using [[superconductivity|superconducting]] windings achieving efficiencies of 99.85%,<ref>{{Citation | last = Riemersma | first =H., ''et al.'' | title =  Application of Superconducting Technology to Power Transformers | journal = IEEE Transactions on Power Apparatus and Systems | volume = PAS-100 | issue = 7  | year=1981  | url = http://md1.csa.com/partners/viewrecord.php?requester=gs&collection=TRD&recid=0043264EA&q=superconducting+transformer&uid=790516502&setcookie=yes}}</ref> energy is dissipated in the windings, core, and surrounding structures. Larger transformers are generally more efficient, and those rated for electricity distribution usually perform better than 95%.<ref>{{Citation | last = Kubo | first = T. | last2 = Sachs | first2 = H. | last3 = Nadel | first3 = S. | title = Opportunities for new appliance and equipment efficiency standards | publisher = American Council for an Energy-Efficient Economy | pages = p39 | year = 2001 | url = http://www.aceee.org/pubs/a016full.pdf}}</ref> A small transformer, such as a plug-in "power brick" used for low-power consumer electronics, may be no more than 85% efficient; although individual power loss is small, the aggregate losses from the very large number of such devices is coming under increased scrutiny.<ref>Calwell C. & Reeder T., (2002) ''Power Supplies: A Hidden Opportunity for Energy Savings'' [[Natural Resources Defense Council|NRDC]]</ref>
+
+Transformer losses are attributable to several causes and may be differentiated between those originating in the windings, sometimes termed ''[[copper loss]]'', and those arising from the magnetic circuit, sometimes termed ''[[iron loss]]''. The losses vary with load current, and may furthermore be expressed as "no-load" or "full-load" loss, respectively.  Winding [[electrical resistance|resistance]] dominates load losses, whereas [[hysteresis]] and [[eddy current]]s losses contribute to over 99% of the no-load loss. The no-load loss can be significant, meaning that even an idle transformer constitutes a drain on an electrical supply, and lending impetus to development of low-loss transformers (also see [[energy efficient transformer]]).<ref name="j&p_p41-42">{{cite book| last = Heathcote| title = J & P Transformer Book | pages = pp41&ndash;42}}</ref>
+
+[[Image:Polemount-singlephase-closeup.jpg|thumb|left|Transformers are amongst the most efficient of machines, but all exhibit losses]]
+Losses in the transformer arise from:
+; '''Winding resistance'''
+:Current flowing through the windings causes [[resistive heating]] of the conductors. At higher frequencies, [[skin effect]] and [[proximity effect (electromagnetism)|proximity effect]] create additional winding resistance and losses. 
+; '''Hysteresis losses'''
+:Each time the magnetic field is reversed, a small amount of energy is lost due to [[hysteresis]] within the core. For a given core material, the loss is proportional to the frequency, and is a function of the peak flux density to which it is subjected.<ref name="j&p_p41-42"/>
+; '''Eddy currents'''
+:[[Ferromagnetic]] materials are also good [[electrical conductor|conductors]], and a solid core made from such a material also constitutes a single short-circuited turn throughout its entire length. [[Eddy current]]s therefore circulate within the core in a plane normal to the flux, and are responsible for [[resistive heating]] of the core material. The eddy current loss is a complex function of the square of supply frequency and inverse square of the material thickness.<ref name="j&p_p41-42"/>
+; '''Magnetostriction'''
+:Magnetic flux in a ferromagnetic material, such as the core, causes it to physically expand and contract slightly with each cycle of the magnetic field, an effect known as [[magnetostriction]]. This produces the buzzing sound commonly associated with transformers,<ref name="winders"/> and in turn causes losses due to frictional heating in susceptible cores. 
+; '''Mechanical losses'''
+:In addition to magnetostriction, the alternating magnetic field causes fluctuating electromagnetic forces between the primary and secondary windings. These incite vibrations within nearby metalwork, adding to the buzzing noise, and consuming a small amount of power.<ref>{{cite book | last = Pansini | title = Electrical Transformers and Power Equipment | pages = p23}}</ref>
+; '''Stray losses'''
+:Leakage inductance is by itself lossless, since energy supplied to its magnetic fields is returned to the supply with the next half-cycle. However, any leakage flux that intercepts nearby conductive materials such as the transformer's support structure will give rise to eddy currents and be converted to heat.<ref name="nailen"/>
+
+== Equivalent circuit==
+:''Refer to the diagram below''
+The physical limitations of the practical transformer may be brought together as an equivalent circuit model (shown below) built around an ideal lossless transformer.<ref name="daniels">{{cite book | last=Daniels | first= A.R. | title=Introduction to Electrical Machines| pages=pp47&ndash;49}}</ref> Power loss in the windings is current-dependent and is easily represented as in-series resistances ''R<sub>P</sub>'' and ''R<sub>S</sub>''. Flux leakage results in a fraction of the applied voltage dropped without contributing to the mutual coupling, and thus can be modeled as [[self-inductance]]s ''X<sub>P</sub>'' and ''X<sub>S</sub>'' in series with the perfectly-coupled region. Iron losses are caused mostly by hysteresis and eddy current effects in the core, and tend to be proportional to the square of the core flux for operation at a given frequency.<ref name="say_p142_143">{{cite book | last = Say| title = Alternating Current Machines, Fifth Edition | pages = pp142&ndash;143}}</ref> Since the core flux is proportional to the applied voltage, the iron loss can be represented by a resistance ''R<sub>C</sub>'' in parallel with the ideal transformer.
+
+A core with finite [[Permeability (electromagnetism)|permeability]] requires a magnetizing current ''I<sub>M</sub>'' to maintain the mutual flux in the core. The magnetizing current is in phase with the flux; saturation effects cause the relationship between the two to be non-linear, but for simplicity this effect tends to be ignored in most circuit equivalents.<ref name="say_p142_143"/> With a [[sinusoidal]] supply, the core flux lags the induced EMF by 90° and this effect can be modeled as a magnetising reactance ''X<sub>M</sub>'' in [[series and parallel circuits|parallel]] with the core loss component. ''R<sub>C</sub>'' and ''X<sub>M</sub>'' are sometimes together termed the ''magnetising branch'' of the model. If the secondary winding is made open-circuit, the current ''I<sub>0</sub>'' taken by the magnetising branch represents the transformer's [[no-load current]].<ref name="daniels"/>
+
+The secondary [[electrical impedance|impedance]] ''R<sub>S</sub>'' and ''X<sub>S</sub>'' is frequently moved (or "referred") to the primary side after multiplying the components by the impedance scaling factor <math>\left(\!\tfrac{N_P}{N_S}\!\right)^2\!\!</math>. 
+{{wide image|Transformer equivalent circuit.svg|750px|Transformer equivalent circuit, with secondary impedances referred to the primary side}}
+The resulting model is sometimes termed the "exact equivalent circuit", though it retains a number of approximations, such as an assumption of [[linearity]].<ref name="daniels"/> Analysis may be simplified by moving the magnetising branch to the left of the primary impedance, an implicit assumption that the magnetising current is low, and then summing primary and referred secondary impedances, resulting in so-called equivalent impedance.
+
+The parameters of equivalent circuit of a transformer can be calculated from the results of two transformer tests: [[open circuit test|open-circuit test]] and [[short circuit test|short-circuit test]].
+
+== Types ==
+{{details|Transformer types}}
+A variety of specialised transformer designs has been created to fulfil certain engineering applications, though they share several commonalities. Several of the more important transformer types include:
+
+=== Autotransformer ===
+{{main|Autotransformer}}
+[[Image:Variable Transformer 01.jpg|thumb|right|An [[autotransformer]] with a sliding brush contact]]
+An [[autotransformer]] has only a single winding with two end terminals, plus a third at an intermediate tap point. The primary voltage is applied across two of the terminals, and the secondary voltage taken from one of these and the third terminal. The primary and secondary circuits therefore have a number of windings turns in common.<ref>{{cite book | last = Pansini | title = Electrical Transformers and Power Equipment | pages = pp89&ndash;91}}</ref> Since the volts-per-turn is the same in both windings, each develops a voltage in proportion to its number of turns. By exposing part of the winding coils and making the secondary connection through a sliding [[brush (electric)|brush]], an autotransformer with a near-continuously variable turns ratio is obtained, allowing for very fine control of voltage.<ref>{{cite book | last = Bakshi, M.V. & Bakshi, U.A. | title = Electrical Machines - I | pages = p330 | id = ISBN 8-1843-1009-9}}</ref>
+
+=== Polyphase transformers ===
+{{more|Three-phase electric power}}
+For [[three-phase]] supplies, a bank of three individual single-phase transformers can be used, or all three phases can be incorporated as a single three-phase transformer. In this case, the magnetic circuits are connected together, the core thus containing a three-phase flow of flux.<ref name="k&k_p36-7">{{cite book | last = Kulkarni & Khaparde | title = Transformer Engineering: design and practice | pages = pp36&ndash;37}}</ref> A number of winding configurations are possible, giving rise to different attributes and [[Phase (waves)|phase shift]]s.<ref>{{cite book | last = Say| title = Alternating Current Machines, Fifth Edition|pages=p166}}</ref> One particular polyphase configuration is the [[zigzag transformer]], used for [[Ground (electricity)|grounding]] and in the suppression of [[harmonic]] currents.<ref>{{cite book | last = Hindmarsh | title = Electrical Machines and their Applications | pages = p173}}</ref>
+
+=== Resonant transformers ===
+A [[Electrical resonance|resonant]] transformer uses the inductance of its windings in combination with external capacitors connected in series or parallel with the windings, and/or the capacitance of the windings themselves, to create one or more [[resonant circuit]]s.  For example, it may use the inductance of the primary winding in series with a capacitor.  Resonance can aid in achieving a very high voltage across the secondary. Resonant transformers such as the [[Tesla coil]] can generate very high voltages, and are able to provide much higher current than electrostatic high-voltage generation machines such as the [[Van de Graaff generator]].<ref>{{cite book | last = Abdel-Salam, M. ''et al.''| title = High-Voltage Engineering: Theory and Practice|pages=pp523&ndash;524}|id=ISBN 0-8247-4152-8}}</ref> Another application of the resonant transformer is to couple between stages of a [[superheterodyne receiver]], where the selectivity of the receiver is provided by tuned transformers in the intermediate-frequency amplifiers.<ref>{{cite book | last = Carr | first = Joseph| title = Secrets of RF Circuit Design|pages=pp193&ndash;195}|id=ISBN 0-0713-7067-6}}</ref>
+
+=== Leakage transformers ===
+A leakage transformer, also called a stray-field transformer, has a significantly higher [[leakage inductance]] than other transformers, sometimes increased by a magnetic bypass or shunt in its core between primary and secondary, which is sometimes adjustable with a set screw. This provides a transformer with an inherent current limitation due to the loose coupling between its primary and the secondary windings. The output and input currents are low enough to prevent thermal overload under all load conditions &ndash; even if the secondary is shorted.
+
+Leakage transformers are used for [[arc welding]] and high voltage discharge lamps ([[cold cathode fluorescent lamp]]s, which are series-connected up to 7.5&nbsp;kV AC). It acts then both as a voltage transformer and as a [[Electrical_ballast#Reactive_ballasts|magnetic ballast]].
+
+Other applications are short-circuit-proof [[SELV|extra-low voltage]] transformers for toys or [[doorbell]] installations.
+
+===Instrument transformers===
+[[Image:Stromwandler.jpg|thumb|Current transformers, designed to be looped around conductors]]A [[current transformer]] is a measurement device designed to provide a current in its secondary coil proportional to the current flowing in its primary. Current transformers are commonly used in [[Electricity meter|metering]] and [[Power system protection|protective relaying]], where they facilitate the safe measurement of large currents. The current transformer isolates measurement and control circuitry from the high voltages typically present on the circuit being measured.<ref>{{cite book | last = Guile, A. & Paterson, W.| title = Electrical Power Systems Volume One | pages = pp330&ndash;331 |id=ISBN 0-0802-1729-X}}</ref>
+
+Voltage transformers (VTs) are used for metering and protection in high-voltage circuits. They are designed to present negligible load to the supply being measured and to have a precise voltage ratio to accurately step down high voltages so that metering and protective relay equipment can be operated at a lower potential.<ref>{{cite book | last = [[Institution of Electrical Engineers]] | title = Power System Protection | pages = pp38&ndash;39 |id=ISBN 0-8529-6834-5}}</ref>
+
+==Classification==
+
+The many uses to which transformers are put leads them to be classified in a number of different ways:
+
+* ''By power level'': from a fraction of a [[volt-ampere]] (VA) to over a thousand MVA;
+* ''By frequency range'': [[Utility frequency|power-]], [[audio frequency|audio-]], or [[radio frequency]];
+* ''By voltage class'': from a few volts to hundreds of kilovolts;
+* ''By cooling type'': air cooled, oil filled, fan cooled, or water cooled;
+* ''By application function'': such as power supply, impedance matching, output voltage and current stabilizer, or circuit isolation;
+* ''By end purpose'': [[Electricity distribution|distribution]], [[rectifier]], [[arc furnace]], amplifier output;
+* ''By winding turns ratio'': step-up, step-down, isolating (near equal ratio), variable.
+{{clear}}
+
+== Construction ==
+===Cores===
+[[Image:Transformer.filament.agr.jpg|thumb|220px|Laminated core transformer showing edge of laminations at top of unit.]]
+==== Laminated steel cores ====
+Transformers for use at power or audio frequencies typically have cores made of high [[Permeability (electromagnetism)|permeability]] [[silicon steel]].<ref name="hindmarsh_29-31">{{cite book | last = Hindmarsh | title = Electrical Machines and their Applications | pages = pp29&ndash;31}}</ref> The steel has a permeability many times that of [[free space]], and the core thus serves to greatly reduce the magnetising current, and confine the flux to a path which closely couples the windings.<ref>{{cite book|last = Gottlieb|title = Practical Transformer Handbook|pages = p4}}</ref> Early transformer developers soon realised that cores constructed from solid iron resulted in prohibitive eddy-current losses, and their designs mitigated this effect with cores consisting of bundles of insulated iron wires.<ref name="allan"/> Later designs constructed the core by stacking layers of thin steel laminations, a principle that has remained in use. Each lamination is insulated from its neighbors by a thin non-conducting layer of insulation.<ref name="k&k_p36-7"/> The [[Transformer#Transformer universal EMF equation|universal transformer equation]] indicates a minimum cross-sectional area for the core to avoid saturation.
+
+The effect of laminations is to confine eddy currents to highly elliptical paths that enclose little flux, and so reduce their magnitude. Thinner laminations reduce losses,<ref name="hindmarsh_29-31"/> but are more laborious and expensive to construct.<ref name="mcLyman">{{cite book | last = McLyman | title = Transformer and Inductor Design Handbook | pages = Chap. 3 pp9&ndash;14}}</ref> Thin laminations are generally used on high frequency transformers, with some types of very thin steel laminations able to operate up to 10&nbsp;kHz. 
+
+[[Image:Lamination eddy currents.svg|thumb|220px|left|Laminating the core greatly reduces eddy-current losses]]
+One common design of laminated core is made from interleaved stacks of [[E-shaped]] steel sheets capped with [[I-shaped]] pieces, leading to its name of "E-I transformer".<ref name="mcLyman"/> Such a design tends to exhibit more losses, but is very economical to manufacture. The cut-core or C-core type is made by winding a steel strip around a rectangular form and then bonding the layers together. It is then cut in two, forming two C shapes, and the core assembled by binding the two C halves together with a steel strap.<ref name="mcLyman"/> They have the advantage that the flux is always oriented parallel to the metal grains, reducing reluctance.
+
+A steel core's [[remanence]] means that it retains a static magnetic field when power is removed. When power is then reapplied, the residual field will cause a high [[inrush current]] until the effect of the remanent magnetism is reduced, usually after a few cycles of the applied alternating current.<ref name="harlow">{{cite book|last = Harlow|title = Electric Power Transformer Engineering|pages=Chap. 2, pp20&ndash;21}}</ref> [[Relay|Overcurrent protection]] devices such as [[fuse (electrical)|fuses]] must be selected to allow this harmless inrush to pass. On transformers connected to long, overhead power transmission lines, induced currents due to [[Geomagnetically induced current|geomagnetic disturbances]] during [[solar storm]]s can cause saturation of the core and operation of transformer protection devices.<ref>{{Citation | last = Botelera | first = D. H. | last2 = Pirjolab, R. J. & Nevanlinnab, H. | title = The effects of geomagnetic disturbances on electrical systems at the Earth's surface | journal = Advances in Space Research | volume = 22 | pages = 17&ndash;27 | year = 1998}}</ref>
+
+Distribution transformers can achieve low no-load losses by using cores made with low-loss high-permeability [[silicon steel]] or [[Amorphous#Metallic glass|amorphous (non-crystalline) metal alloy]]. The higher initial cost of the core material is offset over the life of the transformer by its lower losses at light load.<ref>{{cite journal | last =Hasegawa | first = Ryusuke | title = Present status of amorphous soft magnetic alloys | journal =Journal of Magnetism and Magnetic Materials | volume =215-216 | pages = 240-245 | date = [[5 June]] [[2000]] | url = http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TJJ-41WCDD2-2F&_user=5613324&_coverDate=06%2F02%2F2000&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000067901&_version=1&_urlVersion=0&_userid=5613324&md5=a1b472562801587b6feafe23f9340 | doi = 10.1016/S0304-8853(00)00126-8 }}</ref>
+
+==== Solid cores ====
+Powdered [[iron]] cores are used in circuits (such as switch-mode power supplies) that operate above main frequencies and up to a few tens of kilohertz. These materials combine high magnetic [[Permeability (electromagnetism)|permeability]] with high bulk electrical [[resistivity]]. For frequencies extending beyond the [[Very high frequency|VHF band]], cores made from non-conductive magnetic [[ceramic]] materials called [[ferrite (magnet)|ferrites]] are common.<ref name="mcLyman"/> Some radio-frequency transformers also have moveable cores (sometimes called 'slugs') which allow adjustment of the coupling coefficient (and bandwidth) of tuned radio-frequency circuits.
+
+==== Toroidal cores ====
+
+[[Image:Small toroidal transformer.jpg|thumb|right|Small transformer with toroidal core]]
+Toroidal transformers are built around a ring-shaped core, which, depending on operating frequency, is made from a long strip of silicon [[steel]] or [[permalloy]] wound into a coil, powdered iron, or [[ferrite (magnet)|ferrite]].<ref>{{cite book | last = McLyman | title = Transformer and Inductor Design Handbook | pages = Chap. 3 p1}}</ref> A strip construction ensures that the [[grain boundary|grain boundaries]] are optimally aligned, improving the transformer's efficiency by reducing the core's [[reluctance]]. The closed ring shape eliminates air gaps inherent in the construction of an E-I core.<ref>{{cite book | last = Say| title = Alternating Current Machines, Fifth Edition | pages = p485}}</ref> The cross-section of the ring is usually square or rectangular, but more expensive cores with circular cross-sections are also available. The primary and secondary coils are often wound concentrically to cover the entire surface of the core. This minimises the length of wire needed, and also provides screening to minimize the core's magnetic field from generating [[electromagnetic interference]].  
+
+Toroidal transformers are more efficient than the cheaper laminated E-I types for a similar power level. Other advantages compared to E-I types, include smaller size (about half), lower weight (about half), less mechanical hum (making them superior in audio amplifiers), lower exterior magnetic field (about one tenth), low off-load losses (making them more efficient in standby circuits), single-bolt mounting, and greater choice of shapes. The main disadvantages are higher cost and limited rating. 
+
+Ferrite toroidal cores are used at higher frequencies, typically between a few tens of kilohertz to a megahertz, to reduce losses, physical size, and weight of [[Switched-mode power supply|switch-mode power supplies]]. A drawback of toroidal transformer construction is the higher cost of windings. As a consequence, toroidal transformers are uncommon above ratings of a few kVA. Small distribution transformers may achieve some of the benefits of a toroidal core by splitting it and forcing it open, then inserting a bobbin containing primary and secondary windings.
+
+==== Air cores ====
+A physical core is not an absolute requisite and a functioning transformer can be produced simply by placing the windings in close proximity to each other, an arrangement termed an "air-core" transformer. The air which comprises the magnetic circuit is essentially lossless, and so an air-core transformer eliminates loss due to [[hysteresis]] in the core material.<ref name="calvert"/> The leakage inductance is inevitably high, resulting in very poor regulation, and so such designs are unsuitable for use in power distribution.<ref name="calvert"/> They have however very high [[bandwidth]], and are frequently employed in radio-frequency applications,<ref>{{cite web | first = Reuben | last = Lee | title = Air-Core Transformers | work = Electronic Transformers and Circuits | url = http://www.vias.org/eltransformers/lee_electronic_transformers_07b_22.html | accessdate=2007-05-22}}</ref> for which a satisfactory coupling coefficient is maintained by carefully overlapping the primary and secondary windings.
+
+=== Windings ===
+[[Image:Transformer-hightolow smaller.jpg|thumb|right|250px|Windings are usually arranged concentrically to minimise flux leakage]]
+
+[[Image:transformer_min_stray_field_geometry.svg|thumb|250px|
+Cut view through transformer windings.
+White: insulator.
+Green spiral: [[Electrical steel|Grain oriented silicon steel]].
+Black: Primary winding made of [[oxygen-free copper]].
+Red: Secondary winding.
+Top left: Toroidal transformer.
+Right: C-core, but E-core would be similar. The black windings are made of film.
+Top: Equally low capacitance between all ends of both windings. Since most cores are (bad) conductors they also need insulation.
+Bottom: Lowest capacitance for one end of the secondary winding needed for low-power high-voltage transformers.
+Bottom left: Reduction of [[leakage inductance]] would lead to increase of capacitance.
+]]
+
+The [[electrical conductor|conducting material]] used for the windings depends upon the application, but in all cases the individual turns must be electrically insulated from each other to ensure that the current travels throughout every turn.<ref name="dixon">{{Citation | first = Lloyd | last = Dixon | contribution = Magnetics Design Handbook | contribution-url = http://focus.ti.com/lit/ml/slup197/slup197.pdf | publisher = Texas Instruments}}</ref> For small power and signal transformers, in which currents are low and the potential difference between adjacent turns is small, the coils are often wound from [[enameled wire|enamelled magnet wire]], such as Formvar wire. Larger power transformers operating at high voltages may be wound with copper rectangular strip conductors insulated by oil-impregnated paper and blocks of [[Transformerboard|pressboard]].<ref name ="cegb_1982">{{cite book | author=CEGB | title=Modern Power Station Practice}}</ref>
+
+High-frequency transformers operating in the tens to hundreds of kilohertz often have windings made of braided [[Skin effect#Mitigation|litz wire]] to minimize the skin-effect and [[proximity effect]] losses.<ref name="dixon"/> Large power transformers use multiple-stranded conductors as well, since even at low power frequencies non-uniform distribution of current would otherwise exist in high-current windings.<ref name ="cegb_1982"/> Each strand is individually insulated, and the strands are arranged so that at certain points in the winding, or throughout the whole winding, each portion occupies different relative positions in the complete conductor. The transposition equalizes the current flowing in each strand of the conductor, and reduces eddy current losses in the winding itself. The stranded conductor is also more flexible than a solid conductor of similar size, aiding manufacture.<ref name ="cegb_1982"/>
+
+For signal transformers, the windings may be arranged in a way to minimise leakage inductance and stray capacitance to improve high-frequency response. This can be done by splitting up each coil into sections, and those sections placed in layers between the sections of the other winding. This is known as a stacked type or interleaved winding.
+
+Both the primary and secondary windings on power transformers may have external connections, called [[Tap (transformer)|taps]], to intermediate points on the winding to allow selection of the voltage ratio. The taps may be connected to an automatic on-load [[tap changer]] for voltage regulation of distribution circuits. Audio-frequency transformers, used for the distribution of audio to public address loudspeakers, have taps to allow adjustment of impedance to each speaker. A [[Center tap|center-tapped transformer]] is often used in the output stage of an audio power [[amplifier]] in a [[Push-pull converter|push-pull circuit]]. Modulation transformers in [[Amplitude modulation|AM]] transmitters are very similar.
+
+Certain transformers have the windings protected by epoxy resin. By [[Resin casting|impregnating]] the transformer with epoxy under a [[vacuum]], one can replace air spaces within the windings with epoxy, thus sealing the windings and helping to prevent the possible formation of corona and absorption of dirt or water.  This produces transformers more suited to damp or dirty environments, but at increased manufacturing cost.<ref>{{cite book| last = Heathcote| title = J & P Transformer Book | pages = pp720-723}}</ref>
+
+[[Image:Drehstromtransformater im Schnitt Hochspannung.jpg|thumb|180px|left|Three-phase oil-cooled transformer with cover cut away. The oil reservoir is visible at the top. Radiative fins aid the dissipation of heat.]]
+
+=== Coolant ===
+Extended operation at high temperatures is particularly damaging to transformer insulation.<ref name="kulk-khap">{{cite book | last = Kulkarni & Khaparde | title = Transformer Engineering: design and practice | pages = pp2&ndash;3 }}</ref> Small signal transformers do not generate significant heat and need little consideration given to their [[Thermal management of electronic devices and systems|thermal management]]. Power transformers rated up to a few kVA can be adequately cooled by natural [[convection|convective]] air-cooling, sometimes assisted by fans.<ref>{{cite book | last = Pansini | title = Electrical Transformers and Power Equipment | pages = p32}}</ref> Specific provision must be made for cooling high-power transformers, the larger physical size requiring careful design to transport heat from the interior. Some power transformers are immersed in specialized [[transformer oil]] that acts both as a cooling medium, thereby extending the lifetime of the insulation, and helps to reduce [[corona discharge]].<ref name="willis">{{cite book | last = Willis | first = H. Lee | title = Power Distribution Planning Reference Book | publisher = CRC Press  | date = 2004 | pages = p403 | id = ISBN 0-8247-4875-1 }}</ref> The oil is a highly refined [[mineral oil]] that remains stable at high temperatures so that internal [[arcing]] will not cause breakdown or fire; transformers to be used indoors must use a non-flammable liquid.<ref name="energie"/>
+
+The oil-filled tank often has radiators through which the oil circulates by natural convection; large transformers employ forced circulation of the oil by electric pumps, aided by external fans or water-cooled [[heat exchangers]].<ref name="willis"/> Oil-filled transformers undergo prolonged drying processes to ensure that the transformer is completely free of [[water vapor]] before the cooling oil is introduced. This helps prevent electrical breakdown under load. Oil-filled transformers may be equipped with [[Buchholz relay]]s, which detect gas evolved during internal arcing and rapidly de-energize the transformer to avert catastrophic failure.<ref name="harlow"/>
+
+[[Polychlorinated biphenyl]]s have properties that once favored their use as a coolant, though concerns over their toxicity and [[Persistent organic pollutant|environmental persistence]] led to a widespread ban on their use.<ref>{{Citation | author-link = [[Agency for Toxic Substances and Disease Registry]] | title = ASTDR ToxFAQs for Polychlorinated Biphenyls | year = 2001 | url = http://www.atsdr.cdc.gov/tfacts17.html | accessdate = [[2007-06-10]] }}</ref> Today, non-toxic, stable [[silicone]]-based oils, or [[fluorocarbon|fluorinated hydrocarbons]] may be used where the expense of a fire-resistant liquid offsets additional building cost for a transformer vault.<ref name="kulk-khap"/><ref name="energie"/> Before 1977, even transformers that were nominally filled only with mineral oils commonly also contained polychlorinated biphenyls as contaminants at 10-20 [[parts per million|ppm]].<ref>{{cite book | author= C J McDonald and R E Tourangeau | title=PCBs: Question and Answer Guide Concerning Polychlorinated Biphenyls | publisher=Government of Canada: Environment Canada Department | year=1986 | pages=p.9 | isbn=0-662-14595-X | url=http://www.ec.gc.ca/wmd-dgd/default.asp?lang=En&n=AD2C1530-1&offset=3&toc=show#anchor6 | accessdate=2007-11-07}}</ref>
+
+Some "dry" transformers are enclosed in pressurized tanks and cooled by [[nitrogen]] or [[sulfur hexafluoride]] gas.<ref name="kulk-khap"/> To ensure that the gas does not leak and its insulating capability deteriorate, the transformer casing is completely sealed. Experimental power transformers in the 2&nbsp;MVA range have been built with [[superconductivity|superconducting]] windings which eliminates the copper losses, but not the core steel loss. These are cooled by [[liquid nitrogen]] or [[liquid  helium|helium]].<ref>{{cite book | last = Pansini | title = Electrical Transformers and Power Equipment | pages = pp66&ndash;67}}</ref>
+
+===Terminals===
+Very small transformers will have wire leads connected directly to the ends of the coils, and brought out to the base of the unit for circuit connections. Larger transformers may have heavy bolted terminals, bus bars or high-voltage insulated [[Bushing (electrical)|bushings]] made of polymers or porcelain. A large bushing can be a complex structure since it must provide careful control of the [[electric field gradient]] without letting the transformer leak oil.<ref>{{cite book| last = Ryan| first=H.M.| title = High Voltage Engineering and Testing| pages = pp416&ndash;417}}</ref>
+
+==History==
+The transformer principle was demonstrated in 1831 by [[Michael Faraday]], although he used it only to demonstrate the principle of [[electromagnetic induction]] and did not foresee its practical uses. Viable designs would not appear until the 1880s.<ref name="Coltman">{{Citation | last = Coltman | first = J.W. | title = The Transformer | newspaper = Scientific American | pages = pp86&ndash;95 | year = 1988 | id = {{OSTI|6851152}} | date = Jan 1988}}</ref>  Within less than a decade, the transformer was instrumental during the "[[War of Currents]]" in seeing [[alternating current]] systems triumph over their [[direct current]] counterparts, a position in which they have remained dominant. 
+
+<ref name="Coltman"/> Russian engineer [[Pavel Yablochkov]] in 1876 invented a lighting system based on a set of [[induction coil]]s, where primary windings were connected to a source of alternating current and secondary windings could be connected to several [[Yablochkov candle|"electric candles"]]. The patent claimed the system could "provide separate supply to several lighting fixtures with different luminous intensities from a single source of electric power". Evidently, the induction coil in this system operated as a transformer.  
+
+[[Image:StanleyTransformer.png|thumb|250px|left|A historical Stanley transformer.]] 
+[[Lucien Gaulard]] and [[John Dixon Gibbs]], who first exhibited a device with an open iron core called a 'secondary generator' in London in 1882 and then sold the idea to American company [[Westinghouse Electric Corporation|Westinghouse]].<ref name="allan">{{Citation | last = Allan | contribution = Power transformers &ndash; the second century | title = Power Engineering Journal}}</ref> They also exhibited the invention in Turin in 1884, where it was adopted for an electric lighting system.
+
+[[William Stanley (physicist)|William Stanley]], an engineer for Westinghouse, built the first commercial device in 1885 after George Westinghouse had bought Gaulard and Gibbs' patents. The core was made from interlocking E-shaped iron plates. This design was first used commercially in 1886.<ref name="Coltman"/> [[Hungary|Hungarian]] engineers [[Károly Zipernowsky|Zipernowsky]], [[Ottó Bláthy|Bláthy]] and [[Miksa Déri|Déri]] from the [[Ganz company]] in Budapest created the efficient "ZBD" closed-core model in 1885 based on the design by Gaulard and Gibbs.<ref>{{cite web | last = International Electrotechnical Commission | authorlink = International Electrotechnical Commission | title = Otto Blathy, Miksa Déri, Károly Zipernowsky | work = IEC History | url = http://www.iec.ch/cgi-bin/tl_to_htm.pl?section=technology&item=144 | accessdate = 2007-05-17}}</ref> Their patent application made the first use of the word "transformer".<ref name="allan"/> Russian engineer [[Mikhail  Dolivo-Dobrovolsky|Mikhail Dolivo-Dobrovolsky]] developed the first [[three-phase]] transformer in 1889. In 1891 [[Nikola Tesla]] invented the [[Tesla coil]], an air-cored, dual-tuned resonant transformer for generating very [[high voltage]]s at high frequency. [[Audio frequency]] transformers (at the time called [[repeating coil]]s) were used by the earliest experimenters in the development of the [[telephone]].
+
+While new technologies have made transformers in some electronics applications obsolete, transformers are still found in many electronic devices. Transformers are essential for high voltage [[power transmission]], which makes long distance transmission economically practical.
+
+==See also==
+* [[Electromagnetism]]
+* [[Inductor]]
+* [[Polyphase system]]
+* [[Balun]]
+* [[Load profile]]
+* [[Transformer types]]
+
+== Notes ==
+{{reflist|2}}
+
+==References==
+* {{cite book
+  | author=Central Electricity Generating Board 
+  | authorlink = CEGB
+  | title=Modern Power Station Practice
+  | publisher=Pergamon
+  | year=1982 | id=ISBN 0-08-016436-6}}
+* {{cite book 
+  | last=Daniels 
+  | first= A.R. 
+  | title=Introduction to Electrical Machines
+  |publisher=Macmillan
+  | year=1985
+  | id=ISBN 0-333-19627-9}}
+* {{cite book
+  | last = Flanagan
+  | first = William
+  | title = Handbook of Transformer Design and Applications
+  | publisher = McGraw-Hill 
+  | date = 1993
+  | id = ISBN 0-0702-1291-0}}
+* {{cite book
+  | last = Gottlieb
+  | first = Irving
+  | title = Practical Transformer Handbook
+  | publisher = Elsevier 
+  | date = 1998
+  | id = ISBN 0-7506-3992-X}}
+* {{cite book
+  | first = James
+  | last = Harlow
+  | title = Electric Power Transformer Engineering
+  | publisher = CRC Press
+  | date = 2004
+  | id = ISBN 0-8493-1704-5}}
+* {{cite book
+  | first = Martin
+  | last = Heathcote
+  | title = J & P Transformer Book, Twelfth edition
+  | publisher = Newnes
+  | date = 1998
+  | id = ISBN 0-7506-1158-8}}
+* {{cite book
+  | last=Hindmarsh
+  | first=John
+  | title=Electrical Machines and their Applications, 4th edition
+  | publisher=Pergammon
+  | date=1977
+  | location=Exeter
+  | id=ISBN 0-08-030573-3}}
+* {{cite book
+  | last = Kulkarni, S.V. & Khaparde, S.A.
+  | title = Transformer Engineering: design and practice
+  | publisher = CRC Press
+  | date = 2004
+  | id = ISBN 0-8247-5653-3 }}
+* {{cite book
+  | last = McLaren
+  | first = Peter
+  | title = Elementary Electric Power and Machines
+  | publisher = Ellis Horwood
+  | date = 1984
+  | id = ISBN 0-4702-0057-X }}
+* {{cite book
+  | last = McLyman
+  | first = Colonel William 
+  | title = Transformer and Inductor Design Handbook
+  | publisher = CRC
+  | date = 2004
+  | id = ISBN 0-8247-5393-3}}
+* {{cite book
+  | first = Anthony
+  | last = Pansini
+  | title = Electrical Transformers and Power Equipment
+  | publisher = CRC Press
+  | date = 1999
+  | pages = p23
+  | id = ISBN 0-8817-3311-3}}
+* {{cite book
+  | last = Ryan
+  | first=H.M.
+  | title = High Voltage Engineering and Testing
+  | date = 2004
+  | publisher = CRC Press
+  | id=ISBN 0-8529-6775-6}}
+* {{cite book
+  | last = Say
+  | first = M.G.
+  | title = Alternating Current Machines, Fifth Edition
+  | publisher = Pitman
+  | date = 1983
+  | location = London
+  | id =  ISBN 0-273-01969-4}}
+* {{cite book
+  | last = Winders
+  | first = John
+  | title = Power Transformer Principles and Applications
+  | publisher = CRC
+  | date = 2002
+  | id = ISBN 0-8247-0766-4}}
+* {{cite journal
+  | last=Gururaj
+  | first=B.I.
+  | title=Natural Frequencies of 3-Phase Transformer Windings
+  | journal=IEEE Transactions on Power Apparatus and Systems
+  | volume=82
+  | issue=66
+  | month=June
+  | year=1963
+  | pages=318-329
+  | issn=0018-9510
+  | doi=10.1109/TPAS.1963.291359
+  | url=http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?isnumber=4072786&arnumber=4072800&count=25&index=12}}
+
+==External links==
+{{Commonscat|Transformers}}
+'''{{Portal|Energy}}'''
+{{portalpar|Electronics|Nuvola_apps_ksim.png}}
+{{wikibookspar||School science/How to make a transformer}}
+<!-- NOTE: No commercial links, please, eg to transformer manufacturer websites. They will be removed. -->
+*[http://www.btbplaza.com/web2/content/view/13/14/lang,en/ ''Transformer Learning Centre'' Learn more about Transformers and how they work]
+*[http://www.du.edu/~jcalvert/tech/transfor.htm ''Inside Transformers'' from Denver University]
+*[http://www.conformity.com/artman/publish/printer_47.shtml ''Understanding Transformers: Characteristics and Limitations'' from Conformity Magazine]
+*[http://www.3phasepower.org/3phasetransformers.htm 3 Phase Transformer Information and Construction — The 3 Phase Power Resource Site]
+*{{dmoz|Business/Electronics_and_Electrical/Substation_and_Transmission/|Substation and Transmission}}
+*{{PDFlink|[http://www.itee.uq.edu.au/~aupec/aupec00/edwards00.pdf J.Edwards and T.K Saha, ''Power flow in transformers via the Poynting vector'']|264&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 270966 bytes -->}}
+*{{PDFlink|[http://www.elkor.net/pdfs/AN0305-Current_Transformers.pdf Introduction to Current Transformers]|94.6&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 96971 bytes -->}}
+*[http://www.youtube.com/watch?v=BH5UudSEMQw A transformer explodes]
+*[http://www.phy.hk/wiki/englishhtm/Transformer.htm Java applet of transformer]
+
+[[Category:Transformers (electrical)|*]]
+[[Category:Power engineering]]
+
+[[af:Transformator]]
+[[ar:محوّل]]
+[[bs:Transformator]]
+[[bg:Трансформатор]]
+[[ca:Transformador]]
+[[cs:Transformátor]]
+[[da:Transformator]]
+[[de:Transformator]]
+[[et:Transformaator]]
+[[es:Transformador]]
+[[eo:Transformatoro]]
+[[fr:Transformateur électrique]]
+[[gl:Transformador]]
+[[hr:Transformator]]
+[[id:Transformator]]
+[[it:Trasformatore]]
+[[he:שנאי]]
+[[lv:Transformators]]
+[[hu:Transzformátor]]
+[[mn:Трансформатор]]
+[[nl:Transformator]]
+[[ja:変圧器]]
+[[no:Transformator]]
+[[nn:Transformator]]
+[[pl:Transformator]]
+[[pt:Transformador]]
+[[ru:Трансформатор]]
+[[sk:Transformátor]]
+[[sl:Transformator]]
+[[sr:Трансформатор]]
+[[sh:Transformator]]
+[[su:Trafo]]
+[[fi:Muuntaja]]
+[[sv:Transformator]]
+[[ta:மின்மாற்றி]]
+[[th:หม้อแปลงไฟฟ้า]]
+[[vi:Máy biến thế]]
+[[tr:Transformatör]]
+[[uk:Трансформатор]]
+[[zh-yue:火牛]]
+[[zh:变压器]]

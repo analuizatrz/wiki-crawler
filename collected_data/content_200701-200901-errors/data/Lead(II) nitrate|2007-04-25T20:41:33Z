@@ -1,0 +1,159 @@
+{{chembox new
+| ImageFile = Lead(II) nitrate.jpg
+| ImageSize = 
+| IUPACName = Lead(II) nitrate
+| OtherNames = Lead nitrate<br/>Plumbous nitrate<br/>Lead dinitrate<br/>Plumb dulcis
+| Section1 = {{Chembox Identifiers
+| Abbreviations = 
+| CASNo = 10099-74-8
+| EINECS = 
+| PubChem = 
+| SMILES = 
+| InChI = 
+| RTECS = OG2100000
+| MeSHName =
+| ChEBI =
+| KEGG = 
+| ATCCode_prefix = 
+| ATCCode_suffix = 
+| ATC_Supplemental =}}
+| Section2 = {{Chembox Properties
+| Pb = 1 | N = 2 | O = 6
+| Appearance = White odourless solid
+| Density = 4.53 g/cm<sup>3</sup>, solid
+| MeltingPtC = 470
+| Melting_notes =
+| BoilingPt = 
+| Boiling_notes = 
+| Solubility = 52 g/100 ml (20 °C)
+| SolubleOther = insoluble<br/>1 g/2500 ml<br/>1 g/75 ml
+| Solvent = [[nitric acid]]<br/>in [[alcohol]]<br />in [[methanol]]
+| pKa = 
+| pKb = }}
+| Section3 = {{Chembox Structure
+| CrystalStruct = [[Cubic crystal system|Face-centered cubic]] 
+| Coordination = cuboctahedral
+| MolShape = }}
+| Section7 = {{Chembox Hazards
+| EUClass = 
+| EUIndex = 
+| MainHazards = Poisonous
+| NFPA-H = 3
+| NFPA-F = 
+| NFPA-R = 3
+| NFPA-O = OX
+| RPhrases = {{R20/22}}, {{R50/53}},<br/>{{R33}}, {{R61}}, {{R62}}
+| SPhrases = {{S45}}, {{S53}}, {{S60}}, {{S61}}
+| RSPhrases =
+| FlashPt = Non-flammable
+| Autoignition = 
+| ExploLimits = 
+| PEL = }}
+| Section8 = {{Chembox Related
+| OtherAnions = [[Lead(II) phosphate]]<br/>[[Lead(II) sulfide]]
+| OtherCations = [[Sodium nitrate]]<br/>[[Magnesium nitrate]]
+| OtherFunctn = 
+| Function = 
+| OtherCpds = [[Lead(II) oxide]]<br/>[[Nitric acid]]}}
+}}
+'''Lead(II) nitrate''' is a [[chemical compound]], the [[inorganic compound|inorganic]] salt of [[nitric acid]] and [[lead]], with the formula Pb(NO<sub>3</sub>)<sub>2</sub>. It is a colourless [[crystal]] or white powder and a strong, stable [[oxidizing agent|oxidizer]]. Unlike most other lead(II) salts, it is [[solubility|soluble]] in [[water (molecule)|water]]. Its main use from the [[Middle Ages]], under the name '''plumbum dulce''', has been as raw material in the production of many [[pigment]]s. Since the 20th century, it has been industrially used as a heat [[stabilizer (chemistry)|stabilizer]] in [[nylon]] and [[polyester]]s, and in coatings of [[thermography|photothermographic]] paper. Commercial production did not take place until the [[19th century]] in [[Europe]], and in the [[United States]] until after [[1943]], with a typical production process of metallic lead or [[lead oxide]] in [[nitric acid]].
+
+Lead(II) nitrate is [[toxicity|toxic]] and [[List of IARC Group 2A carcinogens|probably carcinogenic to humans]]. Therefore, it is to be handled and stored with the appropriate safety precautions.
+
+==History==
+Since the Middle Ages, lead(II) nitrate has been produced on a very small scale as a raw material for the production of coloured pigments, such as [[chrome yellow]] (lead(II) chromate), [[chrome orange]] (lead(II) hydroxide chromate) and similar lead compounds. As early as the [[15th century]], the [[Germany|German]] [[alchemy|alchemist]] [[Andreas Libavius]] synthesized the compound, coining the mediaeval names of ''plumb dulcis'' and ''calx plumb dulcis''.<ref name="pigments">{{cite web | url = http://webexhibits.org/pigments | title = Pigment through the ages | publisher = WebExhibits | accessdate = 2006-10-11}}</ref> Although the production process is chemically straightforward, production was minimal until the 19th century, and no non-European production before the 20th century is reported.<ref name=britannica1911>{{cite web | url = http://www.1911encyclopedia.org/Lead | title = Lead | publisher = [[Encyclopædia Britannica Eleventh Edition]] | accessdate = 2006-10-11}}</ref><ref>{{cite book | first = Andreas | last = Libavius | authorlink = Andreas Libavius | title = Alchemia Andreæ Libavii | location = Francofurti | year = 1595}}</ref>
+
+==Chemistry==
+When lead(II) nitrate is heated, it decomposes to [[lead(II) oxide]], accompanied by a crackling noise referred to as [[decrepitation]]. Because of this property, lead nitrate is sometimes used in [[pyrotechnics]] such as [[fireworks]]. 
+
+:2 Pb(NO<sub>3</sub>)<sub>2</sub>([[Solid|s]])  →  2 [[Lead(II) oxide|PbO]](s)  +  4 [[Nitrogen dioxide|NO<sub>2</sub>]]([[Gas|g]])  +  [[Oxygen#Allotropes|O<sub>2</sub>]](g)
+
+===Aqueous chemistry===
+Lead(II) nitrate readily [[solvation|dissolves]] in water to give a clear colourless solution.<ref name='ferris'>{{cite journal | first = L.M. | last = Ferris | publisher = Oak Ridge National Laboratory | title = Lead nitrate&mdash;Nitric acid&mdash;Water system | journal = Journal of Chemicals and Engineering Date| month = December | year = 1959 | url = http://pubs.acs.org/cgi-bin/abstract.cgi/jceaax/1960/5/i03/f-pdf/f_je60007a002.pdf | format = PDF | accessdate = 2006-10-11}}</ref> This solution reacts with soluble [[iodide]]s such as [[potassium iodide]] to produce a [[precipitation (chemistry)|precipitate]] of the bright orange-yellow [[lead(II) iodide]]. This reaction is often used to demonstrate precipitation, because of the striking colour change observed. It also takes place in solid phase, when solid lead nitrate and potassium iodide are finely ground and mixed in a [[Mortar and pestle|mortar]].
+:[[lead|Pb]]([[nitrate|NO<sub>3</sub>]])<sub>2</sub>([[aqueous solution|aq]])  +  2[[potassium iodide|KI]](aq) → [[lead(II) iodide|PbI<sub>2</sub>]]([[solid|s]]) +  2 [[potassium nitrate|KNO<sub>3</sub>]](aq)
+
+Apart from lead(II) nitrate, [[lead(II) acetate]] is the only other common soluble lead compound. All other lead compounds are insoluble in water; even when coupled with commonly very soluble anions such as [[chloride]], [[bromide]] and [[iodide]],[[lead(II) chloride]], [[lead (II) bromide]] and [[lead(II) iodide]] (collectively known as lead [[halides]])are only soluble in hot water approaching boiling. This means that lead(II) nitrate has particular importance as a starting point for the production of insoluble lead compounds via [[Metathesis reaction (chemistry)#Aqueous metathesis|double decomposition]]. Incidentally, hot solutions of lead halides can be brought to precipitation on cooling to create feathery, iridescent crystals suspended in water, the colour of which crystal is dependent on the particular halide (chloride = white, bromide = buff, iodide = yellow). These crystals appear suddenly, when the solutions dip below the recrystallization temperature, and can be extremely beautiful to observe.
+
+When 1 [[Concentration#Molarity|M]] [[sodium hydroxide]] solution is added to 0.1 M lead nitrate, [[Alkali salts|basic nitrate]]s are formed, even well past the [[equivalence point]]. Up through the half equivalence point, Pb(NO<sub>3</sub>)<sub>2</sub>·Pb(OH)<sub>2</sub> predominates, then after this point Pb(NO<sub>3</sub>)<sub>2</sub>·5Pb(OH)<sub>2</sub> is formed. Surprisingly, no simple Pb(OH)<sub>2</sub> is formed up to at least [[pH]] 12.<ref>{{cite journal | title = Basic Salts of Lead Nitrate Formed in Aqueous Media | first = J. L. | last = Pauley | coauthors = M. K. Testerman | journal = [[Journal of the American Chemical Society]] | year = 1954 | vol = 76(16) | pages = pp4220-4222 }}</ref>
+
+===Crystal structure===
+[[Image:LeadNitrateCrystalStructure.png|300px|left|thumb|Crystal structure <nowiki>[111]</nowiki> plane]]
+The [[crystal structure]] of solid lead(II) nitrate has been determined by [[neutron diffraction]].<ref>{{cite journal | first = W.C. | last = Hamilton | title = A neutron crystallographic study of lead nitrate | journal = Acta Cryst. | year = 1957 | volume = 10 | pages = 103-107 | doi = 10.1107/S0365110X57000304}}</ref> <!--<ref>{{cite journal | title = Structure refinement of lead nitrate | first = H. | last = Nowotny | coauthors = G. Heger | journal = Acta Cryst. | year = 1986 | volume = C42 | pages =  p133-135 | doi = 10.1107/S0108270186097032| url = http://journals.iucr.org/c/issues/1986/02/00/a25608/a25608.pdf}}</ref>--> The compound [[crystallization|crystallizes]] in the cubic system with the lead atoms in a [[cubic crystal system|face-centered cubic]] system. Its [[space group]] is Pa3 ([[Bravais lattice]] notation) with each side of the cube with length 784 [[picometre|picometers]]<!-- Z = 4 but what does that mean?-->.
+
+The black dots represent the lead atoms, while the white dots represent the nitrate groups 27 pm above the plane of the lead atoms, and the blue dots represent the nitrate groups the same distance below this plane. In this configuration every lead atom is [[chemical bond|bonded]] to 12 oxygen atoms ([[bond length]]: 281 pm). All N-O bond lengths are identical: 125 pm.
+
+Academic interest in the crystal structure of this compound was partly based on the possibility of free internal rotation of the nitrate groups within the crystal lattice at elevated temperatures, but this did not materialise.<ref>{{cite journal | url = http://journals.iucr.org/c/issues/1986/02/00/a25608/a25608.pdf | format = pdf | title = Structure refinement of lead nitrate | first = H. | last = Nowotny | coauthors = G. Heger | journal = Acta Cryst. | year = 1986 | volume = C42 | pages = p133-135| doi = 10.1107/S0108270186097032}}</ref>
+
+===Complexation===
+Lead(II) nitrate has some interesting [[supramolecular chemistry]] associated with it because of its [[complex (chemistry)|coordination]] to [[nitrogen]] and [[oxygen]] electron donating compounds. The interest is largely academic but with some potential applications. For example, combining lead nitrate and [[diethylene glycol|pentaethylene glycol]] in a solution of [[acetonitrile]] and [[methanol]] followed by slow [[evaporation]] produces a new crystalline material [Pb(NO<sub>3</sub>)<sub>2</sub>(EO<sub>5</sub>)].<ref>{{cite journal | title = Structural Chemistry of Poly (ethylene glycol). Complexes of Lead(II) Nitrate and Lead(II) Bromide | first = Robin D. | last = Rogers | coauthors = Andrew H. Bond, and Debra M. Roden | journal = Inorg. Chem. | year = 1996 | vol = 35(24) | pages = pp6964-6973 | doi = 10.1021/ic960587b}}</ref> The crystal structure for this compound has the PEO chain wrapped around the lead ion in an equatorial plane similar to a [[crown ether]]. The two bidentate nitrate [[ligand]]s are situated in a [[geometric isomerism|trans configuration]]. The total [[coordination number]] is 10 with the lead ion in a [[bicapped square antiprism molecular geometry]].
+
+The complex formed by lead(II) nitrate, [[lead(II) perchlorate]] and a [[thiazole|bithiazole]] bidentate N-donor ligand<ref>{{cite journal | title = A Dimeric Mixed-Anions Lead(II) Complex: Synthesis and Structural Characterization of [Pb2(BTZ)4(NO3)(H2O)](ClO4)3 {BTZ = 4,4'-Bithiazole} | first = Ali Reza | last = Mahjoub | coauthors = Ali Morsali | journal = Chemistry Letters | volume = 30(12) | year = 2001| pages= 1234 | doi=10.1246/cl.2001.1234}}</ref> is binuclear with a nitrate group forming a bridge between the lead atoms with coordination number of 5 and 6. One interesting aspect of this type of complexes is the presence of a physical gap in the [[coordination sphere]] (i.e., the ligands are not placed symmetrically around the metal ion), and it is suggested that this is due to a lead [[lone pair]] of electrons. The same phenomenon is described in lead complexes with an [[imidazole]] ligand.<ref>{{cite journal | title = 2D 4.8<sup>2</sup> Network with threefold parallel interpenetration from nanometer-sized tripodal ligand and lead(II) nitrate | first = Shuang-Yi | last = Wan | coauthors = Jian Fan, Taka-aki Okamura, Hui-Fang Zhu, Xing-Mei Ouyang, Wei-Yin Sun and Norikazu Ueyama | journal = [[Chem. Commun.]] | year = 2002 | pages = 2520–2521 | doi = 10.1039/b207568g}}</ref>
+
+This type of chemistry is not always unique to lead nitrate; other lead(II) compounds such as [[lead(II) bromide]] also form complexes, but the nitrate is frequently used because of its solubility properties and its bidentate nature.
+
+==Preparation==
+The compound is normally obtained by dissolving lead as the metal or [[lead(II) oxide|oxide]] in aqueous [[nitric acid]].<ref>{{cite book | last = Adlam | first = G.H.J. | coauthors = Price, L.S. | title = Higher School Certificate Inorganic Chemistry | year = 1945}}</ref> Anhydrous Pb(NO<sub>3</sub>)<sub>2</sub> can be crystallised directly from the solution. There is no known industrial scale production.
+:3 Pb + 8 HNO<sub>3</sub> → 3 Pb(NO<sub>3</sub>)<sub>2</sub> + 2 NO + 4H<sub>2</sub>O
+:PbO + 2 HNO<sub>3</sub> → Pb(NO<sub>3</sub>)<sub>2</sub> + H<sub>2</sub>O
+
+==Applications==
+Historically lead(II) nitrate is used in the manufacture of [[match]]es and special [[explosive material|explosives]] such as [[lead(II) azide|lead azide]], in [[mordant]]s and [[pigment]]s (e.g., in [[lead paint]]s), for [[dyeing]] and printing [[calico (textile)|calico]] and other textiles, and in the general manufacture of lead compounds. More recent applications include use as a [[stabilizer (chemistry)|heat stabilizer]] in [[nylon]] and [[polyester]]s, as a coating for [[thermography|photothermograpic]] paper, and in [[rodenticide]]s.
+
+Lead(II) nitrate also provides a reliable source of pure [[dinitrogen tetroxide]] in the laboratory. When the salt is carefully dried, and heated in a steel vessel, it produces [[nitrogen dioxide]] along with [[Oxygen#Allotropes|dioxygen]]. The gases are condensed and fractionally distilled to give pure N<sub>2</sub>O<sub>4</sub>.<ref>{{cite book| first = N.N. | last = Greenwood | coauthors = Earnshaw, A. | year = 1997 | title = Chemistry of the Elements | edition = 2nd edition | pages = p456 | location = Oxford | publisher = Butterworth-Heinemann | id = ISBN 0-7506-3365-4}}</ref>
+
+:2 Pb(NO<sub>3</sub>)<sub>2</sub>([[Solid|s]]) → 2 [[Lead(II) oxide|PbO]](s) + 4 [[Nitrogen dioxide|NO<sub>2</sub>]]([[Gas|g]]) +  [[Oxygen#Allotropes|O<sub>2</sub>]](g)
+
+:2 NO<sub>2</sub> {{unicode|⇌}} [[Dinitrogen tetroxide|N<sub>2</sub>O<sub>4</sub>]]
+
+==Safety==
+The hazards of lead(II) nitrate are those of soluble lead compounds in general and, to a lesser extent, those of other inorganic nitrates. It is toxic, and ingestion may lead to acute [[lead poisoning]].  Symptoms include: [[intestine|intestinal]] malfunction, strong [[abdomen|abdominal]] pains, [[appetite]] loss, [[nausea]], [[vomiting]] and cramps, while longer-term exposure may lead to [[neurology|neurological]] and [[kidney|renal]] problems. Lead compounds are known to be [[Bioaccumulation|cumulative poisons]], as more than 90% of absorbed lead is fixed in [[bone]] tissue from which it is only slowly released over a period of years.
+
+Children are more efficient at absorbing lead from the [[gastrointestinal tract]] than adults, thus they are more at risk from lead poisoning. Exposure to lead compounds during pregnancy has been linked to increased rates of [[miscarriage|spontaneous abortion]], [[prenatal development|fetal malformation]] and low [[birth weight]]. Given the cumulative nature of lead toxicity, children and pregnant women should be exposed to soluble lead compounds as little as possible — this is a legal requirement in many countries.<ref> e.g. France: [http://www.legifrance.gouv.fr/WAspad/RechercheSimpleArticleCode?code=CTRAVAIR.rcv&art=R234-20&indice=7# Art.&nbsp;R234-20, ''Code du travail''].</ref>
+
+[[Inorganic compound|Inorganic]] [[Inorganic compounds by element#Lead (Plumbum)|lead compounds]] are classified by the [[International Agency for Research on Cancer]] (IARC) as [[List of IARC Group 2A carcinogens|probably carcinogenic to humans]] (Category&nbsp;2A). They have been linked to [[renal cell carcinoma|renal cancer]] and [[glioma]] in experimental animals and to renal cancer, [[brain tumor|brain cancer]] and [[lung cancer]] in humans, although studies of workers exposured to lead are often complicated by a concurrent exposure to [[arsenic]].<ref>{{cite book | title = Monographs on the Evaluation of Carcinogenic Risks to Humans: Inorganic and organic lead compounds | volume = 87 | date = [[2004-02-10]] | publisher = IARC | url = http://monographs.iarc.fr/ENG/Meetings/vol87.php | accessdate = 2006-11-02}}</ref> Lead is known to substitute for [[zinc]] in a number of [[enzyme]]s, including [[porphobilinogen synthase|δ-aminolevulinic acid dehydratase]] (porphobilinogen synthase) in the [[heme]] biosynthetic pathway and [[pyrimidine-5′-nucleotidase]], important for the correct metabolism of [[DNA]].
+
+Due care should be taken before and during handling of lead(II) nitrate, including the use of protective equipment such as eye and face protection and rubber gloves. Experiments with lead(II) nitrate should be conducted in [[fume hood]]s, and spillages must not be discharged to the environment (details in the [[material safety data sheet]]s, as listed under external links).
+
+==See also==
+{{portal|Chemistry}}
+*[[Lead paint|Lead white]]
+*[[Naples Yellow|Naples yellow]]
+<!--* [[Cremnitz white]] is the same as [[Lead white]]-->
+*[[Red lead]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://digicoll.library.wisc.edu/cgi-bin/EcoNatRes/EcoNatRes-idx?type=div&did=ECONATRES.0056.0927.0047&isize=text Lead mineral yearbook metals and minerals 1981, vol 1]
+*[http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc10/icsc1000.htm International Chemical Safety Card 1000]
+*{{PDFlink|[http://monographs.iarc.fr/ENG/Monographs/suppl7/suppl7.pdf IARC Monograph: "Lead and Lead Compounds"]|0.99&nbsp;[[Mebibyte|MiB]]<!-- application/pdf, 1045082 bytes -->}}
+*{{PDFlink|[http://monographs.iarc.fr/ENG/Meetings/87-lead.pdf Draft IARC Monograph: "Inorganic and Organic Lead Compounds"]|49.6&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 50826 bytes -->}}
+*[http://www.cdc.gov/niosh/npg/npgd0368.html NIOSH Pocket Guide to Chemical Hazards]
+*[http://www.npi.gov.au/database/substance-info/profiles/50.html National Pollutant Inventory - Lead and Lead Compounds Fact Sheet]
+*[http://www.afhh.org  Lead Poisoning Prevention Information]
+*{{ecb}}
+*{{ChemicalSources}}
+
+;Material Safety Data Sheets
+*[http://www.jtbaker.com/msds/englishhtml/l3130.htm MSDS for lead nitrate, Mallinckrodt/J.T.Baker]
+*[http://physchem.ox.ac.uk/MSDS/LE/lead_nitrate.html MSDS for lead nitrate, PTCL, Oxford University]
+*{{PDFlink|[http://www.proscitech.com.au/catalogue/msds/c151.pdf MSDS for lead nitrate, ProSciTech]|126&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 129167 bytes -->}}
+*[http://www.sciencestuff.com/msds/C1980.html MSDS for lead nitrate, Science Stuff Inc]
+*[http://avogadro.chem.iastate.edu/MSDS/Pb(NO3)2.htm MSDS for lead nitrate, Iowa State University]
+*[https://srmors.nist.gov/msds/view_msds2pdf.cfm?msds=991 MSDS for lead nitrate, NIST]
+
+{{featured article}}
+
+[[Category:IARC Group 2A carcinogens]]
+[[Category:Lead compounds]]
+[[Category:Nitrates]]
+
+[[de:Blei(II)-nitrat]]
+[[es:Nitrato de plomo (II)]]
+[[fr:Nitrate de plomb (II)]]
+[[ja:硝酸鉛(II)]]
+[[nl:Loodnitraat]]
+[[no:Blynitrat]]
+[[nn:Blynitrat]]
+[[pl:Azotan ołowiu(II)]]

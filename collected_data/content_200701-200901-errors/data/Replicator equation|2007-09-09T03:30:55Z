@@ -1,0 +1,68 @@
+In mathematics, the '''replicator equation''' is deterministic monotone non-linear and non-innovative game dynamic used in [[evolutionary game theory]]. The replicator equation differs from other equations used to model replication, such as the [[quasispecies]] equation, in that it allows the [[fitness landscape]] to incorporate the distribution of the population types rather than setting the fitness of a particular type constant. This important property allows the replicator equation to capture the essence of [[selection]]. Unlike the quasispecies equation, the replicator equation does not incorporate [[mutation]] and so is not able to innovate new types or pure strategies. 
+
+== Equational forms ==
+
+The most general continuous form is given by the [[differential equation]]
+
+:<math> \dot{x_i} = x_i [ f_i(x) - \phi(x)], \quad \phi(x) = \sum_{i=1}^{n}{x_i f_i(x)}</math>
+
+where <math>x_i</math> is the proportion of type <math> i </math> in the population, <math>x=(x_1, \ldots, x_n)</math> is the vector of the distribution of types in the population, <math>f_i(x)</math> is the fitness of type <math>i</math> (which is dependent on the population), and <math>\phi(x)</math> is the average population fitness (given by the weighted average of the fitness of the <math>n</math> types in the population). Since the elements of the population vector <math>x</math> sum to unity by definition, the equation is defined on the n-dimensional [[simplex]].
+
+Analogously, there is a discrete version which is given by the following [[difference equation]]:
+
+:<math> x_{i}^{'} = x_i \frac{f_i(x)}{\phi(x)}. </math>
+
+The replicator equation assumes a uniform population distribution; that is, it does not incorporate population structure into the fitness. The fitness landscape does incorporate the population distribution of types, in contrast to other similar equations, such as the quasispecies equation.
+
+In application, populations are generally finite, making the discrete version more realistic. The analysis is more difficult and computationally intensive in the discrete formulation, so the continuous form is often used, although there are significant properties that are lost due to this smoothing. Note that the continuous form can be obtained from the discrete form by a limiting process.
+
+To simplify analysis, fitness is often assumed to depend linearly upon the population distribution, which allows the replicator equation to be written in the form:
+
+:<math>\dot{x_i}=x_i\left(\left(Ax\right)_i-x^TAx\right),</math>
+
+where the [[payoff matrix]] <math>A</math> holds all the fitness information for the population: the expected payoff can be written as <math>\left(Ax\right)_i</math> and the mean fitness of the population as a whole can be written as <math>x^TAx</math>.
+
+== Analysis ==
+
+{{Main|Evolutionarily stable state}}
+
+The analysis differs in the continuous and discrete cases: in the former, methods from differential equations are utilized, whereas in the latter the methods tend to be stochastic. Since the replicator equation is non-linear, an exact solution is difficult to obtain (even in simple versions of the continuous form) so the equation is usually analyzed in terms of stability. The replicator equation (in its continuous and discrete forms) satisfies the [[folk theorem]] of evolutionary game theory which characterizes the stability of equilibria of the equation. The solution of the equation is often given by the set of [[evolutionarily stable state|evolutionarily stable states]] of the population.
+
+In general nondegenerate cases, there can be at most one interior evolutionary stable state (ESS), though there can be many equilibria on the boundary of the simplex. All the faces of the simplex are forward-invariant which corresponds to the lack of innovation in the replicator equation: once a strategy becomes extinct there is no way to revive it.
+
+Phase portrait solutions for the continuous linear-fitness replicator equation have been classified in the two and three dimensional cases. Classification is more difficult in higher dimensions because the number of distinct portraits increases rapidly.
+
+== Relationships to other equations ==
+
+The continuous replicator equation on <math>n</math> types is equivalent to the [[Lotka-Volterra equation]] in <math>n-1</math> dimensions. The transformation is made by the change of variables 
+:<math>x_i = \frac{y_i}{1 + \sum_{j=1}^{n-1}{y_j}} \quad i=1, \ldots,n-1 </math>
+:<math>x_n = \frac{1}{1 + \sum_{j=1}^{n-1}{y_j}},</math>
+where <math>y_i</math> is the Lotka-Volterra variable.
+
+The continuous replicator dynamic is also equivalent to the [[Price equation]].
+
+== Generalizations ==
+
+A generalization of the replicator equation which incorporates mutation is given by the replicator-mutator equation, which takes the following form in the continuous version:
+
+:<math> \dot{x_i} = \sum_{j=1}^{n}{x_j f_j(x) Q_{ji}} - \phi(x)x_i, </math>
+
+where the matrix <math>Q</math> gives the [[transition probabilities]] for the mutation of type <math>j</math> to type <math> i </math>. This equation is a simultaneous generalization of the replicator equation and the quasispecies equation, and is used in the mathematical analysis of language.
+
+The replicator equation can easily be generalized to [[asymmetric games]]. A recent generalization that incorporates population structure is used in [[evolutionary graph theory]].
+
+==References==
+
+* Nowak, M. (2006) ''Evolutionary Dynamics: Exploring the Equations of Life'' Belknap Press.
+* Cressman, R. (2003) ''Evolutionary Dynamics and Extensive Form Games'' The MIT Press.
+* Hofbauer, J., and [[Karl Sigmund|Sigmund, K.]] (2003) ''Evolutionary game dynamics'' Bull. Am. Math. Soc. 40, 479-519.
+* Nowak, M and Page, K. (2002) ''Unifying Evolutionary Dynamics'' Journal of  Theoretical Biology 219: 93-98 .
+* Bomze, I.M. (1983) ''Lotka-Volterra equations and replicator dynamics: A two dimensional classification.'' Biol. Cybern. 48:201-11.
+* Bomze, I.M. (1995) ''Lotka-Volterra equations and replicator dynamics: New issues in classification.'' Biol. Cybern. 72:447-53.
+
+
+{{game theory}}
+[[Category:Game theory]]
+[[Category:Differential equations]]
+[[Category:Evolutionary game theory]]
+[[Category:Evolutionary dynamics]]

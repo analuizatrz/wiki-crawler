@@ -1,0 +1,246 @@
+[[Image:Maimonides-2.jpg|frame|Commonly used image indicating one artist's conception of Maimonides's appearance]]
+'''Maimonides''' ([[March 30]], [[1135]] or [[1138]]&ndash;[[December 13]], [[1204]]) was a [[Jew]]ish [[rabbi]], [[physician]], and [[philosopher]] in [[Spain]], [[Morocco]] and [[Egypt]] during the [[Middle Ages]]. He was one of the various medieval [[Judaism|Jewish]] philosophers who also influenced the non-Jewish world. Although his copious works on Jewish law and ethics were initially met with opposition during his lifetime, he was posthumously acknowledged to be one of the foremost rabbinical [[posek|arbiters]] and philosophers in Jewish history. Today, his works and his views are considered a cornerstone of [[Orthodox Judaism|Orthodox Jewish]] thought and study.
+
+Maimonides' full name was ''Moshe ben Maimon'' ([[Hebrew language|Hebrew]]: '''משה בן מימון''') and his [[Arabic language|Arabic]] name was أبو عمران موسى بن ميمون بن عبد الله القرطبي الإسرائيلي (''Abu Imran Mussa bin Maimun ibn Abdallah al-Qurtubi al-Israili''). However, he is most commonly known by his [[Greek language|Greek]] name, '''Moses Maimonides''' (Μωυσής Μαϊμονίδης), which literally means, "Moses, son of Maimon", like his name in Hebrew and Arabic. Several Jewish works call him Maimoni, מימוני. However, more Jewish works refer to him by the Hebrew acronym of his title and name &mdash; '''R'''abbi '''M'''oshe '''b'''en '''M'''aimon &mdash; calling him the '''RaMBaM''' or the '''Rambam''' (רמב"ם). 
+ 
+==Biography==
+[[Image:Maimonides-Statue.jpg|thumb|Statue of Maimonides in Córdoba, Spain]]
+
+Maimonides was born in [[1135]] in [[Córdoba, Spain]], during what some scholars {{who}} consider to be the end of the [[golden age of Jewish culture in Spain]], after the first centuries of the Moorish rule. Maimonides [[Torah study|studied Torah]] under his father Maimon who had in turn studied under [[Rabbi]] [[Joseph ibn Migash]]. The [[Almohades]] conquered Córdoba in 1148, and threatened the Jewish community with the choice of [[conversion to Islam]], [[martyrdom|death]], or [[exile]]. Maimonides' family, along with most other Jews, chose exile. For the next ten years they moved about in southern Spain, avoiding the conquering Almohades, but eventually settled in [[Fez]] in [[Morocco]], where Maimonides acquired most of his secular knowledge, studying at the [[University of Al Karaouine]]. During this time, he composed his acclaimed [[Bible commentary|commentary]] on the [[Mishnah]].
+
+Following this sojourn in Morocco, he lived briefly in the Holy Land, before settling in [[Fostat]], [[Egypt]], where he was [[physician]] of the [[Grand Vizier]] Alfadhil and  [[Sultan]] [[Saladin]] of Egypt as well, and considered to be the greatest physician of his time. He composed most of his ''oeuvre'' in this last locale, including the [[Mishneh Torah]]. He died in Fostat, and was buried in [[Tiberias]] (today in [[land of Israel|Israel]]).  His son [[Avraham son of Rambam|Avraham]], recognized as a great scholar, succeeded Maimonides as ''[[Nagid]]'' (head of the [[Egypt]]ian Jewish Community); he also took up his father's role as court [[physician]], at the tender age of eighteen. He greatly honored the memory of his father, and throughout his career defended his father's writings against all critics.  The office of ''Nagid'' was held by the Maimonides family for four successive generations until the end of the 14th century.
+
+He is widely respected in Spain and a statue of him was erected in Córdoba alongside his synagogue, which is no longer functioning as a Jewish house of worship but is open to the public.  There is no Jewish community in Córdoba now, but the city is proud of its historical connection to Rambam.  
+:See: ''[[History of the Jews in Egypt#Arab Rule .28641 CE - 1250 CE.29|History of the Jews in 
+Egypt]]''.
+
+==Works and bibliography==
+[[Image:Manuscript page by Maimonides Arabic in Hebrew letters.jpg|thumb|150px|Manuscript page by Maimonides. [[Judeo-Arabic language]] in [[Hebrew alphabet|Hebrew]] letters.]]
+
+Maimonides composed both works of Jewish scholarship, and medical texts. Most of Maimonides' works were written in [[Arabic language|Arabic]]. However, the ''Mishneh Torah'' was written in [[Hebrew language|Hebrew]]. His Jewish texts were:
+* ''The Commentary on the Mishna'', in Hebrew ''Pirush Hamishnayos'',  written in Arabic. This text was one of the first commentaries of its kind; its introductory sections are widely quoted. See [[Mishnah#Commentaries|Mishnah Commentaries]] for details;
+* ''[[Sefer Hamitzvot]]'' ("The Book of Commandments"). See ''[[613 mitzvot]]'' for details;
+* ''The [[Mishneh Torah]]'' (also known as " Sefer Yad ha-Chazaka"), a comprehensive code of Jewish law;
+* ''The [[Guide for the Perplexed]]'', a philosophical work harmonising and differentiating [[Aristotle|Aristotle's]] philosophy and Jewish theology;
+* ''Teshuvot'', collected correspondence and [[responsa]], including a number of public letters (on resurrection and the [[after-life]], on conversion to other faiths, and ''[[The Yemen Epistle|Iggereth Teiman]]'' - addressed to the oppressed Jewry of [[Yemen]]).
+
+Maimonides also wrote a number of medical texts; some of which are still in existence. The best known is his collection of [[medical]] [[aphorism]]s, titled ''Fusul Musa'' in Arabic ("Chapters of Moses", ''Pirkei Moshe'' in Hebrew).
+
+==Influence==
+<div style="text-align: center; ">
+<timeline>
+ImageSize  = width:590 height:120
+PlotArea   = width:570 height:25 left:5 bottom:60
+TimeAxis   = orientation:horizontal
+DateFormat = yyyy
+Period     = from:-250 till:2000
+AlignBars  = early
+ScaleMajor = unit:year increment:200 start:-200
+ScaleMinor  = unit:year increment:50 start:-200
+
+Colors =
+  id:turkiz    value:rgb(0,0.76,0.76)
+  id:treaty    value:rgb(0.6,0.8,0.6)
+  id:lightgrey value:rgb(0.6,0.8,0.4)
+  id:darkgrey  value:rgb(0.6,0.8,0)
+  id:Celadon  value:rgb(0.67,1,0.68)
+  id:TeaGreen  value:rgb(0.81,0.94,0.75)
+
+Define $hx = 15 # shift text to right side of bar
+
+PlotData =
+  bar:Leaders color:blue width:20 align:left fontsize:s 
+  from:-250 till:0 color:treaty shift:(-10,$hx) text:[[Zugot]]
+   from:0 till:220 color:turkiz shift:(-15,$hx) text:[[Tannaim]]
+   from:220 till:500 color:TeaGreen  shift:(-20,$hx) text:[[Amoraim]]
+   from:500 till:625 color:darkgrey shift:(-20,$hx) text:[[Savoraim]]
+   from:625 till:1050 color:turkiz shift:(-15,$hx) text:[[Geonim]]
+   from:1050 till:1500 color:TeaGreen shift:(-20,$hx) text:[[Rishonim]]
+  from:1500 till:2000 color:treaty shift:(-20,$hx) text:[[Acharonim]]
+
+LineData =
+  layer:front  # all lines in front of bars unless stated otherwise
+  from:1138 till:1204 atpos:65  color:red    width:2 
+
+Legend     = columns:4 left:125 top:25 columnwidth:150
+
+Colors =
+ id:aaa value:red   legend:Maimonides
+
+</timeline>
+</div>
+[[Image:Guide for the Perplexed by Maimonides.jpg|thumb|The title page of ''The Guide for the Perplexed'']]
+Maimonides was by far the most influential figure in medieval Jewish philosophy. A popular medieval saying that also served as his [[epitaph]] states, ''From [[Moses|Moshe]] (of the Torah) to Moshe (Maimonides) there was none like Moshe.''
+
+Radical Jewish scholars in the centuries that followed can be characterised as "Maimonideans" or "anti-Maimonideans".  Moderate scholars were eclectics who largely accepted Maimonides' [[Aristotelianism|Aristotelian]] world-view, but rejected those elements of it which they considered to contradict the religious tradition.  Such eclecticism reached its height in the 14th-15th centuries.
+
+The most rigorous medieval critique of Maimonides is [[Crescas|Hasdai Crescas]]' ''[[Or Hashem]]''.  Crescas bucked the eclectic trend, by demolishing the certainty of the Aristotelian world-view, not only in religious matters, but even in the most basic areas of medieval [[science]] (such as physics and geometry). [[Crescas]]' critique provoked a number of 15th century scholars to write defenses of Maimonides. A translation of Crescas was produced by [[Harry Austryn Wolfson]] of [[Harvard University]], in 1929.
+
+:''See also [[Maimonides School]]''
+
+==The 13 principles of faith==
+{{main|Jewish principles of faith}}
+
+In his commentary on the Mishna (tractate Sanhedrin, chapter 10), Maimonides formulates his '''13 principles of faith'''. They summarized the basic premises of Jewish belief with regards to:
+# The existence of God
+# God's unity
+# God's [[spirituality]] and [[incorporeal]]ity
+# God's [[eternity]]
+# God alone should be the object of [[worship]]
+# [[Revelation]] through God's [[prophet]]s
+# The preeminence of [[Moses]] among the prophets
+# God's law given on [[Mount Sinai]]
+# The immutability of the [[Torah]] as God's Law
+# God's foreknowledge of human actions
+# Reward of good and [[retributive justice|retribution]] of evil
+# The coming of the [[Jewish Messiah]]
+# The [[resurrection]] of the dead
+
+These principles were controversial when first proposed, evoking criticism by [[Hasdai Crescas]] and [[Joseph Albo]], and were effectively ignored by much of the Jewish community for the next few centuries. ("Dogma in Medieval Jewish Thought", Menachem Kellner). However, these principles became widely held; today, [[Orthodox Judaism]] holds these beliefs to be obligatory. Two poetic restatements of these principles (''[[Ani Ma'amin]]'' and ''[[Yigdal]]'') eventually became canonized in the "[[siddur]]" (Jewish prayer book).
+
+==Legal works==
+[[Image:Mishna tora44.jpg|thumb|right|A recent newly corrected version of Mishneh Torah, Maimonides' main work of Halakha]]
+{{main|Mishneh Torah}}
+With Mishneh Torah, Maimonides composed a code of Jewish law with the widest-possible scope and depth. The work gathers all the binding laws from the [[Talmud]], and incorporates the positions of the [[Geonim]] (post-Talmudic early Medieval scholars, mainly from Mesopotamia). It is a highly-systematised work, and employs a very clear Hebrew, reminiscent of the style of the [[Mishnah]].
+
+While Mishneh Torah is now considered the fore-runner of the [[Arbaah Turim]] and the [[Shulchan Arukh]]{{Fact|date=February 2007}} (two later codes), it met initially with much opposition{{Fact|date=February 2007}}. There were two main reasons for this opposition. Firstly, Maimonides had refrained from adding references to his work for the sake of brevity {{Fact|date=February 2007}}. Secondly, in the introduction, he gave the impression of wanting to "cut out" study of the Talmud{{Fact|date=February 2007}}, to arrive at a conclusion in Jewish law. His most forceful opponents were the rabbis of [[Provence]] (Southern France), and a running critique by Rabbi [[Abraham ben David]] (Raavad III) is printed in virtually all editions of Mishneh Torah.  However, it was recognized as a monumental contribution to the systemized writing of [[Halakha]].  Throughout the centuries, it has been widely studied and its halakhic decisions have weighed heavily in later rulings.
+
+==Philosophy==
+Through the ''[[Guide for the Perplexed]]'' and the philosophical introductions to sections of his commentaries on the Mishna, Maimonides exerted an important influence on the [[Scholasticism|Scholastic]] philosophers, especially on [[Albertus Magnus|Albert the Great]], [[Thomas Aquinas]], and [[Duns Scotus]]. He was himself a Jewish Scholastic. Educated more by reading the works of Arab Muslim philosophers than by personal contact with Arabian teachers, he acquired an intimate acquaintance not only with Arab Muslim philosophy, but with the doctrines of [[Aristotle]]. Maimonides strove to reconcile [[Wiktionary:Aristotelian|Aristotelian]] [[philosophy]] and science with the teachings of the [[Bible|Torah]].
+
+===Negative theology===
+The principle which inspired his philosophical activity was identical with the fundamental tenet of Scholasticism: there can be no contradiction between the truths which [[God]] has revealed, and the findings of the human mind in science and philosophy. Maimonides primarily relied upon the science of [[Aristotle]] and the teachings of the [[Talmud]] and [[Aristotle]], commonly finding basis in the former for the latter. In some important points, however, he departed from the teaching of Aristotle; for instance, he rejected the Aristotelian doctrine that God's provident care extends only to humanity, and not to the individual.
+
+Maimonides was led by his admiration for the [[neo-Platonism|neo-Platonic]] commentators to maintain many doctrines which the Scholastics could not accept. For instance, Maimonides was an adherent of "[[negative theology]]" (also known as "Apophatic theology".) In this theology, one attempts to describe God through negative attributes. For instance, one should not say that God exists in the usual sense of the term; all we can safely say is that God is not non-existent. We should not say that "God is wise"; but we can say that "God is not ignorant", i.e. in some way, God has some properties of knowledge. We should not say that "God is One", but we can state that "there is no multiplicity in God's being". In brief, the attempt is to gain and express knowledge of God by describing what God is not; rather than by describing what God "is".
+
+The Scholastics agreed with him that no predicate is adequate to express the nature of God; but they did not go so far as to say that no term can be applied to God in the affirmative sense. They admitted that while "eternal", "omnipotent", etc., as we apply them to God, are inadequate, at the same time we may say "God is eternal" etc., and need not stop, as Moses did, with the negative "God is not not-eternal", etc.  In essence what Maimonides wanted to express is that when people give God anthropomorphic qualities they do not do justice to His greatness.
+
+===Prophecy===
+He agrees with "the philosophers" in teaching that, man's intelligence being one in the series of intelligences emanating from God, the prophet must, by study and meditation, lift himself up to the degree of perfection required in the prophetic state. But here, he invokes the authority of "the Law", which teaches that, after that perfection is reached, there is required the "free act of God", before the man actually becomes a prophet.
+
+===The problem of evil===
+Maimonides wrote on [[theodicy]] (the philosophical attempt to reconcile the existence of a god with the existence of evil in the world). He took the premise that an omnipotent and good god exists. He completely rejects the neo-Platonic dualism of evil matter and good soul. Instead he adopts the Aristotelian view that defines evil as the lack of, or the reduced presence of a god, as exhibited by those who exercise the free choice of rejecting belief.
+
+===Astrology===
+Maimonides answered an inquiry concerning [[astrology]], addressed to him from [[Marseille]]. He responded that man should believe only what can be supported either by rational proof, by the evidence of the senses, or by trustworthy authority. He affirms that he had studied astrology, and that it does not deserve to be described as a science. The supposition that the fate of a man could be dependent upon the constellations is ridiculed by him; he argues that such a theory would rob life of purpose, and would make man a slave of destiny. (See also [[fatalism]], [[predestination]].)
+
+===True beliefs versus necessary beliefs===
+In "[[Guide for the Perplexed]]" Book III, Chapter 28, Maimonides explicitly draws a distinction between "true beliefs", which were beliefs about God which produced intellectual perfection, and "necessary beliefs", which were conducive to improving social order. Maimonides places anthropomorphic statements about God in the latter class.  He uses as an example the notion that God becomes "angry" with people who do wrong.  In the view of Maimonides (taken from [[Avicenna]]) God does not actually become angry with people, as God has no human passions; but it is important for them to believe God does, so that they desist from sinning.
+
+=== Resurrection, acquired immortality, and the afterlife ===
+Maimonides distinguishes two kinds of intelligence in man, the one material in the sense of being dependent on, and influenced by, the body, and the other immaterial, that is, independent of the bodily organism. The latter is a direct emanation from the universal active intellect; this is his interpretation of the ''noûs poietikós'' of [[Aristotle|Aristotelian]] philosophy. It is acquired as the result of the efforts of the soul to attain a correct knowledge of the absolute, pure intelligence of [[God]].
+
+The knowledge of God is a form of knowledge which develops in us the immaterial intelligence, and thus confers on man an immaterial, spiritual nature. This confers on the soul that perfection in which human happiness consists, and endows the soul with immortality. One who has attained a correct knowledge of God has reached a condition of existence which renders him immune from all the accidents of fortune, from all the allurements of sin, and even from death itself. Man, therefore is in a position not only to work out his own salvation and immortality. 
+
+The resemblance between this doctrine and [[Baruch Spinoza|Spinoza]]'s doctrine of immortality is so striking as to warrant the hypothesis that there is a causal dependence of the later on the earlier doctrine. The differences between the two Jewish thinkers are, however, as remarkable as the resemblance. While Spinoza teaches that the way to attain the knowledge which confers immortality is the progress from sense-knowledge through scientific knowledge to philosophical intuition of all things ''sub specie æternitatis'', Maimonides holds that the road to perfection and immortality is the path of duty as described in the [[Torah]] and the rabbinic understanding of the [[oral law]].
+
+Religious Jews not only believed in immortality in some spiritual sense, but most believed that there would at some point in the future be a messianic era, and a resurrection of the dead. This is the subject of [[Jewish eschatology]]. Maimonides wrote much on this topic, but in most cases he wrote about the immortality of the soul for people of perfected intellect; his writings were usually ''not'' about the resurrection of dead bodies.  This prompted hostile criticism from the rabbis of his day, and sparked a controversy over his true views.
+
+Rabbinic works usually refer to this afterlife as "Olam Haba" (the World to Come).  Some rabbinic works use this phrase to refer to a messianic era, an era of history right here on Earth; in other rabbinic works this phrase refers to a purely spiritual realm.  It was during Maimonides's lifetime that this lack of agreement flared into a full blown controversy, with Maimonides charged as a [[heresy|heretic]] by some Jewish leaders.
+
+Some Jews at this time taught that [[Judaism]] did not require a belief in the physical resurrection of the dead, as the afterlife would be a purely spiritual realm.  They used Maimonides' works on this subject to back up their position.  In return, their opponents claimed that this was outright heresy;  for them the afterlife was right here on Earth, where God would raise dead bodies from the grave so that the resurrected could live eternally. Maimonides was brought into this dispute by both sides, as the first group stated that his writings agreed with them, and the second group portrayed him as a heretic for writing that the afterlife is for the immaterial spirit alone. Eventually, Maimonides felt pressured to write a treatise on the subject, the "''Ma'amar Tehiyyat Hametim''" "The Treatise on Resurrection."
+
+Chapter two of the treatise on resurrection refers to those who believe that the world to come involves physically resurrected bodies. Maimonides refers to one with such beliefs as being an "utter fool" whose belief is "folly".
+
+:If one of the multitude refuses to believe [that angels are incorporeal] and prefers to believe that angels have bodies and even that they eat, since it is written (Genesis 18:8) 'they ate', or that those who exist in the World to Come will also have bodies&mdash;we won't hold it against him or consider him a heretic, and we will not distance ourselves from him.  May there not be many who profess this folly, and let us hope that he will go no farther than this in his folly and believe that the Creator is corporeal.
+
+However, Maimonides also writes that those who claimed that he altogether believed the verses of the [[Tanakh|Hebrew Bible]] referring to the resurrection were only allegorical were spreading falsehoods and "revolting" statements.  Maimonides asserts that belief in resurrection is a fundamental truth of Judaism about which there is no disagreement, and that it is not permissible for a Jew to support anyone who believes differently. He cites [[Book of Daniel|Daniel]] 12:2 and 12:13 as definitive proofs of physical resurrection of the dead when they state "many of them that sleep in the earth shall awake, some to everlasting life and some to reproaches and everlasting abhorrence" and "But you, go your way till the end; for you shall rest, and will arise to your inheritance at the end of the days."
+
+While these two positions may be seen as in contradiction (non-corporeal eternal life, versus a bodily resurrection), Maimonides resolves them with a then unique solution: Maimonides believed that the resurrection was not permanent or general. In his view, God never violates the laws of nature. Rather, divine interaction is by way of [[angel]]s, which Maimonides holds to be metaphors for the laws of nature, the principles by which the physical universe operates, or Platonic eternal forms. Thus, if a unique event actually occurs, even if it is perceived as a miracle, it is not a violation of the world's order (Commentary on the Mishna, Avot 5:6.)
+
+In this view, any dead who are resurrected must eventually die again. In his discussion of the 13 principles of faith, the first five deal with knowledge of God, the next four deal with prophecy and the Torah, while the last four deal with reward, punishment and the ultimate redemption. In this discussion Maimonides says nothing of a universal resurrection. All he says it is that whatever resurrection does take place, it will occur at an indeterminate time before the world to come, which he repeatedly states will be purely spiritual.
+
+He writes "It appears to us on the basis of these verses (Daniel 12:2,13) that those people who will return to those bodies will eat, drink, copulate, beget, and die after a very long life, like the lives of those who will live in the Days of the Messiah." Maimonides thus disassociated the resurrection of the dead from both the World to Come and the Messianic era.
+
+In his time, many Jews believed that the physical resurrection was identical to the world to come; thus denial of a permanent and universal resurrection was considered tantamount to denying the words of the Talmudic sages. However, instead of denying the resurrection, or maintaining the current dogma, Maimonides posited a third way: That resurrection had nothing to do with the messianic era (here in this world) nor to do with Olam Haba (the purely spiritual afterlife). Rather, he considered resurrection to be a miracle that the book of Daniel predicted; thus at some point in time we could expect some instances of resurrection to occur temporarily, which would have no place in the final eternal life of the righteous.
+
+==Maimonides and the Modernists==
+Maimonides remains the most widely debated and controversial Jewish thinker among modern scholars.  He has been adopted as a symbol and an intellectual hero by almost all major movements in modern Judaism, and has proven immensely important to philosophers such as [[Leo Strauss]].  Maimonides' importance to diverse systems of thought lies in the philosopher's embrace of paradoxical and often contradictory ideas. Maimonides' reconciliation of the philosophical and the traditional has given his legacy an extremely diverse and dynamic quality.
+
+==References==
+* Marvin Fox ''Interpreting Maimonides'', Univ. of Chicago Press 1990.
+* [[Julius Guttman]], ''Philosophies of Judaism'' Translated by David Silverman, JPS, 1964
+* ''Maimonides' Principles: The Fundamentals of Jewish Faith'', in "The Aryeh Kaplan Anthology, Volume I", Mesorah Publications 1994
+* ''Dogma in Medieval Jewish Thought'', Menachem Kellner, Oxford University press, 1986
+* ''Maimonides Thirteen Principles: The Last Word in Jewish Theology?'' Marc. B. Shapiro, ''The Torah U-Maddah Journal'', Vol. 4, 1993, Yeshiva University
+* ''A History of Jewish Philosophy'', [[Isaac Husik]], Dover Publications, Inc., 2002. Originally published in 1941 by the Jewish Publication of America, Philadelphia, pp. 236-311
+* ''Persecution and the Art of Writing'', Leo Strauss, University of Chicago Press, 1988 reprint
+* "How to Begin to Study ''the Guide''", [[Leo Strauss]], from ''The Guide of the Perplexed, Vol. 1'', Maimonides, translated from the Arabic by Shlomo Pines, University of Chicago Press, 1974
+*{{JewishEncyclopedia}}
+
+==See also==
+* [[Golden age of Jewish culture in Spain]]
+* [[Thomas Aquinas]]
+* [[Averroes]]
+
+
+==External links==
+{{linkfarm}}
+{{commonscat}}
+{{wikiquote}}
+
+'''About Maimonides'''
+*[http://www.jewishencyclopedia.com/view.jsp?artid=905&letter=M Maimonides entry in Jewish Encyclopedia]
+*[http://www.encyclopaediajudaica.com/sample-articles/article_view.php?sid=moses-ben-maimon Maimonides entry in the Encyclopaedia Judaica, 2nd edition]
+*[http://plato.stanford.edu/entries/maimonides Maimonides as a Philosopher]
+*[http://plato.stanford.edu/entries/maimonides-islamic The Influence of Islamic Thought on Maimonides]
+*[http://www.sacred-texts.com/jud/gfp/gfp004.htm Maimonides' Life from Friedlander translation of the Guide]
+*[http://www.jewishvirtuallibrary.org/jsource/biography/Maimonides.html Maimonides/Rambam] from the Jewish Virtual Library
+*[http://www.themystica.com/mystica/articles/m/maimonidean_controversy.html Maimonidean controversy]
+*[http://www.radicaltorahthought.com/Sodo%20Shel%20Moreh%20Nevukhim%20Yaqov%20Beker.pdf Rambam's Secret Teachings], a possibly unconventional interpretation of Rambam by Yaakov Bekker ([[Hebrew]])
+*{{web cite|author=William Turner|retrieved=2002.02.25|url=http://www.newadvent.org/cathen/09540b.htm|title=Teaching of Moses Maimonides|work=[[Catholic Encyclopedia]]}}
+
+'''Chabad About Maimonides''' 
+*[http://www.askmoses.com/article.html?h=245&o=144 Who was Maimonides?]
+*[http://www.askmoses.com/article.html?h=245&o=2406 Why did Maimonides live in Egypt if the Torah forbids returning there?]
+*[http://www.chabad.org/library/article.asp?AID=107769 A brief Biography of Maimonides]
+*[http://www.chabad.org/multimedia/livingtorah.asp?AID=160609 Maimonides’ Universal Acceptance]
+*[http://www.chabad.org/multimedia/livingtorah.asp?AID=323919 Maimonides – A Light Unto the Nations ]
+*[http://www.chabad.org/dailystudy/rambam.asp? Daily Study of Rambam - Text and Audio (English and Hebrew)]
+*[http://www.chabad.org/library/article.asp?AID=107769 Maimonides Mishneh (or Mishnah) Torah or Rambam - the codified laws compiled by Maimonides]
+
+'''Texts by Maimonides'''
+* [http://www.mishnetorah.com/en Mishnetorah Project, one volume of the accurate text and 8 indexes]
+* [http://www.derushah.com/siddurmesoratmoshe.html Siddur Mesorat Moshe], a prayerbook based on the early Jewish liturgy as found in Maimonides' Mishneh Torah
+*[http://www.panix.com/~jjbaker/rambam.html Maimonides Page: links to online resources]
+*[http://members.aol.com/LazerA/13yesodos.html The Foundations of Jewish Belief]
+
+*[http://www.mechon-mamre.org/e/e0000.htm Rambam's introduction to the Mishnah Torah (English translation])
+*[http://www.daat.ac.il/daat/mahshevt/hakdama/tohen-m-2.htm Rambam's introduction to the Commentary on the Mishnah (Hebrew Fulltext)]
+*[http://www.rambaminrussian.org Rambam (Maimonides) In Russian Translation]
+*[http://www.sacred-texts.com/jud/gfp/gfp.htm The Guide For the Perplexed by Moses Maimonides translated into English by Michael Friedländer]
+*[http://www.library.dal.ca/kellogg/Bioethics/codes/maimonides.htm Oath and Prayer of Maimonides, as a choice instead of the Hippocratic Oath in medical profession.] (Considered by historians an 18th century forgery)
+*[http://www.jnul.huji.ac.il/dl/mss/html/rambam_l.htm Writings of Maimonides; manuscripts and early print editions. Jewish National and University Library]
+
+[[Category:Maimonides| ]]
+[[Category:Sephardi Jews]]
+[[Category:Spanish and Portuguese Jews]]
+[[Category:Andalusian people]]
+
+[[ar:موسى بن ميمون]]
+[[ca:Maimònides]]
+[[cs:Maimonides]]
+[[de:Moses Maimonides]]
+[[el:Μαϊμονίδης]]
+[[es:Maimónides]]
+[[fr:Maïmonide]]
+[[hr:Majmonid]]
+[[id:Moses Maimonides]]
+[[it:Mosè Maimonide]]
+[[he:רמב"ם]]
+[[ku:Îbn-î Meymûn]]
+[[la:Maimonides]]
+[[hu:Moses Maimonides]]
+[[nl:Maimonides]]
+[[ja:モーシェ・ベン＝マイモーン]]
+[[no:Maimonides]]
+[[nn:Maimonides]]
+[[pl:Mojżesz Majmonides]]
+[[pt:Maimónides]]
+[[ro:Moise Maimonide]]
+[[ru:Рамбам]]
+[[sk:Maimonides]]
+[[fi:Maimonides]]
+[[sv:Maimonides]]
+[[tr:İbn Meymun]]
+[[yi:רמב"ם]]

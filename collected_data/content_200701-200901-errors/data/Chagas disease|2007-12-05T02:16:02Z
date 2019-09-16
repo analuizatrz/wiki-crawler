@@ -1,0 +1,213 @@
+{{featured article}}
+{{Infobox_Disease |
+ Name = {{PAGENAME}} |
+ Image = Trypanosoma cruzi crithidia.jpeg |
+ Caption = Photomicrograph of [[Giemsa]]-stained ''Trypanosoma cruzi'' ([[Centers for Disease Control and Prevention|CDC]]) |
+ DiseasesDB = 13415 |
+ ICD10 = {{ICD10|B|57||b|50}} |
+ ICD9 = {{ICD9|086}} |
+ ICDO = |
+ OMIM = |
+ MedlinePlus = 001372 |
+ eMedicineSubj = med|
+ eMedicineTopic = 327|
+ MeshID = D014355 |
+}}
+'''Chagas' disease''' (also called '''''American trypanosomiasis''''') is a human [[tropical disease|tropical]] [[parasitic disease]] which occurs in [[the Americas]], particularly in [[South America]]. Its [[pathogen]]ic [[Vector (biology)|agent]] is a [[flagellate]] [[protozoa]]n named ''[[Trypanosoma cruzi]]'', which is transmitted to humans and other [[mammal]]s mostly by [[hematophagy|blood-sucking]] [[assassin bug]]s of the subfamily [[Triatominae]] (Family [[Reduviidae]]). Those insects are known by numerous common names varying by country, including benchuca, vinchuca, kissing bug, chipo, chupança, and barbeiro. The most common insect species belong to the genera ''[[Triatoma]]'', ''[[Rhodnius]]'', and ''[[Panstrongylus]]''. However, other methods of transmission are possible, such as ingestion of food contaminated with [[parasite]]s, [[blood transfusion]] and [[fetus|fetal]] transmission.
+
+The symptoms of Chagas' disease vary over the course of the infection. In the early, acute stage symptoms are mild and are usually no more than local swelling at the site of infection. As the disease progresses, over as much as twenty years, the serious chronic symptoms appear, such as heart disease and malformation of the intestines. If untreated, the chronic disease is often fatal. Current drug treatments for this disease are generally unsatisfactory, with the available drugs being highly toxic and often ineffective, particularly in the chronic stage of the disease.
+
+''Trypanosoma cruzi'' is a member of the same [[genus]] as the infectious agent of African [[sleeping sickness]] and the same [[Order (biology)|order]] as the infectious agent of [[leishmaniasis]], but its clinical manifestations, geographical distribution, life cycle and insect [[vector (biology)|vectors]] are quite different.
+
+==History==
+The disease was named after the [[Brazil]]ian [[physician]] and [[Infectology|infectologist]] [[Carlos Chagas]], who first described it in 1909<ref name=Chagas_1909>{{cite journal | author = Chagas C| title = Neue Trypanosomen | journal = Vorläufige Mitteilung. Arch. Schiff. Tropenhyg. | year = 1909 | volume = 13 | issue = | pages = 120–122 }}</ref><ref name=Redhead_2006>{{cite journal | author=Redhead SA, Cushion MT, Frenkel JK, Stringer JR | title=''Pneumocystis'' and ''Trypanosoma cruzi'': nomenclature and typifications | journal=J Eukaryot Microbiol | year=2006 | pages=2–11 | volume=53 | issue=1 | id=PMID 16441572}}</ref><ref name=WHO>WHO. [http://www.who.int/tdr/diseases/chagas/ Chagas.] Accessed 24 September 2006.</ref> but, the disease was not seen as a major [[public health]] problem in humans until the 1960s (the outbreak of Chagas' disease in Brazil in the 1920s went widely ignored<ref>{{cite web|url=http://links.jstor.org/sici?sici=0021-1753%28199906%2990%3A2%3C397%3AHAOAT%28%3E2.0.CO%3B2-H|title=Historical Aspects of American Trypanosomiasis (Chagas' Disease)}}</ref>). He discovered that the intestines of Triatomidae harbored a flagellate protozoan, a new species of the ''[[Trypanosoma]]'' genus, and was able to prove experimentally that it could be transmitted to [[marmoset]] monkeys that were bitten by the infected bug. Later studies showed that squirrel monkeys were also vulnerable to infection.<ref name=Hulsebos_1989>{{cite journal | author = Hulsebos LH| title = The effect of interleukin-2 on parasitemia and myocarditis in experimental Chagas' disease | journal = Journal of Protozoology | year = 1989 | volume = 36 | issue = 3 | pages = 293-298 }} </ref>
+
+Chagas named the [[pathogen]]ic parasite that causes the disease ''Trypanosoma cruzi ''<ref name=Chagas_1909 /> and later that year as ''Schizotrypanum cruzi'',<ref name=Chagas_1909b>{{cite journal | author = Chagas C| title = Nova tripanozomiase humana: Estudos sobre a morfolojia e o ciclo evolutivo do Schizotrypanum cruzi n. gen., n. sp., ajente etiolojico de nova entidade morbida do homem | journal = Mem Inst Oswaldo Cruz | year = 1909 | volume = 1 | issue =2 | pages = 159-218 (New human trypanosomiasis. Studies about the morphology and life-cycle of ''Schizotripanum cruzi'', etiological agent of a new morbid entity of man }}</ref> both honoring [[Oswaldo Cruz]], the noted Brazilian physician and [[epidemiologist]] who fought successfully [[epidemics]] of [[yellow fever]], [[smallpox]], and [[bubonic plague]] in [[Rio de Janeiro]] and other cities in the beginning of the 20th century. Chagas’ work is unique in the [[history of medicine]] because he was the only researcher so far to describe completely a new [[infectious disease]]: its [[pathogen]], [[Vector (biology)|vector]], [[Host (biology)|host]], clinical manifestations, and [[epidemiology]]. Nevertheless, he at least believed falsely until 1925, that the main infection route is by the bite of the insect - and not by its [[feces]], as was proposed by his colleague [[Emile Brumpt]] 1915 and assured by [[Silveira Dias]] 1932, [[Cardoso]] 1938 and Brumpt himself 1939. Chagas was also the first to unknowingly discover and illustrate the parasitic fungal genus [[Pneumocystis pneumonia|''Pneumocystis'']], later to infamously be linked to PCP ([[Pneumocystis pneumonia]] in AIDS victims).<ref name=Redhead_2006 /> Confusion between the two pathogens' life-cycles led him to briefly recognize his genus ''Schizotrypanum'', but following the description of ''Pneumocystis'' by others as an independent genus, Chagas returned to the use of the name ''Trypanosoma cruzi''.
+
+On another historical point of view, it has been hypothesized that [[Charles Darwin]] might have suffered from this disease as a result of a bite of the so-called Great Black Bug of the [[Pampas]] (vinchuca) (see [[Charles Darwin's illness]]). The episode was reported by Darwin in his diaries of [[the Voyage of the Beagle]] as occurring in March 1835 to the east of the [[Andes]] near [[Mendoza Province|Mendoza]]. Darwin was young and in general good health though six months previously he had been ill for a month near [[Valparaiso]], but in 1837, almost a year after he returned to [[England]], he began to suffer intermittently from a strange group of [[symptom]]s, becoming incapacitated for much of the rest of his life. Attempts to test Darwin's remains at the [[Westminster Abbey]] by using modern [[PCR]] techniques were met with a refusal by the Abbey's [[curator]].<ref>{{cite journal | author=Adler D | title=Darwin's Illness | journal=Isr J Med Sci | volume=25 | issue=4 | pages=218-21 | year=1989 | id=PMID 2496051}}</ref>
+
+==Epidemiology and geographical distribution==
+[[Image:Carte maladie Chagas.png|thumb|250px|Chagas in [[Latin America]] (A:[[Endemic (epidemiology)|Endemic]] zones)]]
+Chagas' disease currently affects 16–18 million people, with some 100 million (25% of the Latin American population) at risk of acquiring the disease,<ref name=WHO/> killing around 50,000 people annually.<ref>Carlier, Yves. [http://www.emedicine.com/med/topic327.htm Chagas Disease (American Trypanosomiasis).] eMedicine (27 February 2003).</ref> Chronic Chagas' disease remains a major health problem in many [[Latin America]]n countries, despite the effectiveness of hygienic and preventive measures, such as eliminating the transmitting insects, which have reduced to zero new infections in at least two countries of the region. With increased population movements, however, the possibility of transmission by blood transfusion has become more substantial in the United States.<ref>Kirchhoff LV. "American trypanosomiasis (Chagas disease)—a tropical disease now in the United States." N Engl J Med. 1993 August 26;329(9):639-44. PMID 8341339 [http://content.nejm.org/cgi/content/extract/329/9/639 Online.]</ref> Approximately 500,000 infected people live in the [[USA]], which is likely the result of [[immigration]] from Latin American countries.<ref>National Institutes of Health. [http://www.nlm.nih.gov/medlineplus/ency/article/001372.htm Medical Encyclopedia] Accessed 9/25/2006</ref> Also, ''T. cruzi'' has already been found infecting wild [[opossum]]s and [[raccoon]]s as far north as the state of North Carolina.<ref>Karsten V, Davis C, Kuhn R. "Trypanosoma cruzi in wild raccoons and opossums in North Carolina." J Parasitol. 1992 Jun;78(3):547-9. PMID 1597808</ref>
+
+The disease is distributed in the [[The Americas|Americas]], ranging from the southern [[United States]] to southern [[Argentina]], mostly in poor, [[rural]] areas of [[Central America|Central]] and [[South America]].<ref name=CDC>Centers for Disease Control (CDC). [http://www.dpd.cdc.gov/dpdx/HTML/TrypanosomiasisAmerican.htm American Trypanosomyasis Fact Sheet.] Accessed 24 September 2006.</ref>
+
+The disease is almost exclusively found in rural areas, where the Triatominae can breed and feed on the [[natural reservoir]]s (the most common ones being [[opossum]]s and [[armadillo]]s) of ''T.cruzi''. Depending on the special local interactions of the vectors and their hosts, other infected humans, domestic animals like [[cat]]s, [[dog]]s, [[guinea pig]]s and wild animals like [[rodent]]s, [[monkey]]s, [[ground squirrel]]s (''[[Spermophilus beecheyi]]'') and many others could also serve as important parasite reservoirs. Though Triatominae bugs feed on birds, these seem to be immune against infection and therefore are not considered to be a ''T. cruzi'' reservoir; but there remain suspicions of them being a feeding resource for the vectors near human habitations.
+
+The triatomine insects are known popularly in the different countries as ''vinchuca'', ''barbeiro'' (the barber), ''chipo'' and other names,<ref name=WHO/> so called because it sucks the blood at night by biting the face of its victims. The insects, who develop a predominantly domiciliary and [[anthropophilic]] behaviour once they have infested a house,<ref>Grijalva MJ, Palomeque-Rodriguez FS, Costales JA, ''et al.'' "High household infestation rates by synanthropic vectors of Chagas disease in southern Ecuador." J Med Entomol. 2005 Jan;42(1):68–74. PMID 15691011</ref> usually hide during the day in crevices and gaps in the walls and roofs of poorly constructed homes. More rarely, better constructed houses may harbor the insect vector, because of the use of rough materials for making roofs, such as [[bamboo]] and [[thatch]]. A [[mosquito net]], wrapped under the mattress, will provide protection in these situations, when the adult insect might sail down from above, but one of the five nymphal stages ([[instars]]) could crawl up from the floor.
+
+Even when the colonies of insects are eradicated from a house and surrounding domestic animal shelters, they can arrive again (e.g., by flying) from plants or animals that are part of the ancient, natural sylvatic infection cycle. This can happen especially in zones with mixed open savannah, clumps of trees, etc., interspersed by human habitation.
+
+Dense vegetation, like in tropical [[rain forest]]s, and urban habitats, are not ideal for the establishment of the human transmission cycle. However, in regions where the sylvatic [[Habitat (ecology)|habitat]] and its fauna are thinned out by economical exploitation and human habitation, such as in newly [[deforestation|deforested]], [[piassava palm]] (''[[Leopoldinia piassaba]]'') culture areas, and some parts of the [[Amazon River|Amazon]] region, this may occur, when the insects are searching for new prey.<ref>Teixeira AR, Monteiro PS, Rebelo JM, ''et al.'' "Emerging Chagas Disease: Trophic Network and Cycle of Transmission of Trypanosoma cruzi from Palm Trees in the Amazon." Emerg Infect Dis. 2001 Jan-Feb;7(1):100-12. PMID 11266300.
+ [http://www.cdc.gov/ncidod/EiD/vol7no1/pdfs/teixeira.pdf PDF full text.]</ref>
+
+==Clinical manifestations==
+[[Image:Chagoma.jpg|thumb|right|This child from Panama is suffering from Chagas' disease manifested as an acute infection with swelling of the right eye (Romaña's sign). Source: CDC.]]
+The human [[disease]] occurs in two stages: the acute stage shortly after the [[infection]], and the chronic stage that may develop over 10 years.
+
+In the acute phase, a local skin nodule called a ''chagoma'' can appear at the site of [[inoculation]]. When the inoculation site is the [[conjunctiva]]l mucous membranes, the patient may develop unilateral [[periorbital edema]], [[conjunctivitis]], and [[preauricular lymphadenitis]]. This constellation of symptoms is referred to as [[Romaña's sign]]. The acute phase is usually [[asymptomatic]], but may present symptoms of [[fever]], [[anorexia (symptom)|anorexia]], [[lymphadenopathy]], mild [[hepatosplenomegaly]], and [[myocarditis]]. Some acute cases (10 to 20%) resolve over a period of 2 to 3 months into an asymptomatic chronic stage, only to reappear after several years.
+
+The symptomatic chronic stage may not occur for years or even decades after initial infection. The disease affects the [[nervous system]], [[digestive system]] and [[heart]]. Chronic infections result in various neurological disorders, including [[dementia]], damage to the heart muscle ([[cardiomyopathy]], the most serious manifestation), and sometimes dilation of the [[digestive tract]] ([[megacolon]] and [[megaesophagus]]), as well as [[weight loss]]. [[Swallowing]] difficulties may be the first symptom of digestive disturbances and may lead to [[malnutrition]]. After several years of an asymptomatic period, 27% of those infected develop cardiac damage, 6% develop digestive damage, and 3% present peripheral nervous involvement. Left untreated, Chagas' disease can be fatal, in most cases due to the [[cardiomyopathy]] component.
+
+==Infection cycle==
+An infected triatomine insect vector feeds on blood and releases [[trypomastigote]]s in its feces near the site of the bite wound. The victim, by scratching the site of the bite, causes trypomastigotes to enter the host through the wound, or through intact mucosal membranes, such as the [[conjunctiva]]. Then, inside the host, the trypomastigotes invade cells, where they differentiate into intracellular [[amastigote]]s. The amastigotes multiply by [[binary fission]] and differentiate into trypomastigotes, then are released into the circulation as bloodstream trypomastigotes. These trypomastigotes infect cells from a variety of [[biological tissue]]s and transform into intracellular amastigotes in new infection sites. Clinical manifestations and cell death at the target tissues can occur because of this infective cycle. For example, it has been shown by Austrian-Brazilian pathologist Dr. [[Fritz Köberle]] in the 1950s at the [[Faculdade de Medicina de Ribeirão Preto|Medical School of the University of São Paulo at Ribeirão Preto]], Brazil, that intracellular amastigotes destroy the intramural neurons of the [[autonomic nervous system]] in the intestine and heart, leading to megaintestine and heart [[aneurysm]]s, respectively.
+
+The bloodstream trypomastigotes do not replicate (unlike the [[African]] [[trypanosomes]]). Replication resumes only when the parasites enter another cell or are ingested by another vector. The “kissing” bug becomes infected by feeding on human or animal blood that contains circulating parasites. Moreover the bugs might be able to spread the infection to each other through their cannibalistic predatory behaviour. The ingested trypomastigotes transform into [[epimastigote]]s in the vector’s midgut. The parasites multiply and differentiate in the midgut and differentiate into infective metacyclic trypomastigotes in the hindgut.
+
+''[[Trypanosoma cruzi]]'' can also be transmitted through [[blood transfusions]], organ [[transplantation]], [[placenta|transplacentally]], [[breast milk]],<ref>Santos Ferreira C, Amato Neto V, Gakiya E, ''et al.'' "Microwave treatment of human milk to prevent transmission of Chagas disease." Rev Inst Med Trop São Paulo. 2003 Jan-Feb;45(1):41-2. PMID 12751321</ref> and in laboratory accidents. According to the [[World Health Organization]], the infection rate in Latin American [[blood bank]]s varies between 3% and 53%, a figure higher than of [[HIV]] infection and [[hepatitis]] B and C.<ref name=WHO>WHO. [http://www.who.int/tdr/diseases/chagas/ Chagas.] Accessed 24 September 2006.</ref>
+
+Children can also acquire Chagas' Disease while still in the womb. Chagas' disease accounts for approximately 13% of stillborn deaths in parts of Brazil. It is recommended that pregnant women be tested for the disease.<ref>Hudson L, Turner MJ. "Immunological Consequences of Infection and Vaccination in South American Trypanosomiasis [and Discussion]". Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, Vol. 307, No. 1131, Towards the Immunological Control of Human Protozoal Diseases. ([[November 13]], [[1984]]), pp. 51–61. JSTOR. Accessed 2/22/07. PMID 6151688 </ref>
+
+[[Image:Trypanosoma cruzi LifeCycle.gif|Life cycle of [[Trypanosima cruzi]]. Source: CDC]]
+
+===Alternative infection mechanism===
+Researchers suspected since 1991 that the transmission of the trypanosome by the oral route might be possible,<ref>Shikanai-Yasuda MA, Marcondes CB, Guedes LA, ''et al.'' "Possible oral transmission of acute Chagas disease in Brazil." Rev Inst Med Trop São Paulo. 1991 Sep-Oct;33(5):351-7. PMID 1844961</ref> due to a number of micro-epidemics restricted to particular times and places (such as a farm or a family dwelling), particularly in non-endemic areas such as the [[Amazonia]] (17 such episodes recorded between 1968 and 1997). In 1991, farm workers in the state of [[Paraíba]], Brazil, were apparently infected by contamination of food with [[opossum]] feces; and in 1997, in [[Macapá]], state of [[Amapá]], 17 members of two families were probably infected by drinking [[acai]] palm fruit juice contaminated with crushed triatomine vector insects.<ref>da Silva Valente S, de Costa Valente V, Neto H. "Considerations on the epidemiology and transmission of Chagas disease in the Brazilian Amazon." Mem Inst Oswaldo Cruz 94 Suppl 1: 395-8. PMID 10677763</ref> In the beginning of 2005, a new outbreak with 27 cases was detected in [[Amapá]]. Despite many warnings in the press and by health authorities, this source of infection continues unabated. In August 2007 the Ministry of Health released the information that in the previous one year and half 15 clusters of Chagas infection in 116 people via ingestion of assai have been detected in the Amazon region <ref>[http://www1.folha.uol.com.br/fsp/cotidian/ff1808200701.htm Açaí faz 1 vítima de Chagas a cada 4 dias na Amazônia. ''Jornal Folha de São Paulo''] </ref>
+
+In March 2005, a new startling outbreak was recorded in the state of [[Santa Catarina (state)|Santa Catarina]], Brazil, that seemed to confirm this alternative mechanism of transmission. Several people in Santa Catarina who had ingested [[sugar cane]] juice ("[[garapa]]", in Portuguese) by a roadside kiosk acquired Chagas' disease.<ref>UK Health Protection Agency (HPA).[http://www.hpa.org.uk/cdr/archives/archive05/News/news1305.htm Chagas’ disease (American trypanosomiasis) in southern Brazil.] Accessed 24 September 2006.</ref> Between [[February 30]] and [[March 30]], [[2005]], 31 cases had been confirmed in Santa Catarina, including 5 deaths and 64 suspected cases.<ref>{{cite journal |year=2005 |month=April |title=Chagas’ disease (American trypanosomiasis) in southern Brazil |journal=CDR Weekly |volume=15 |issue=13 |url=www.hpa.org.uk/CDR/archives/2005/cdr1305.pdf |accessdate= 2007-11-26}}</ref> The hypothesized mechanism, so far, is that trypanosome-bearing insects were crushed into the raw preparation. The health authorities of Santa Catarina have estimated that around 60,000 people might have had contact with the [[food safety|contaminated food]] in Santa Catarina and urged everyone in this situation to submit to blood tests. They have prohibited the sale of sugar cane juice in the state until the situation is rectified.
+
+The unusual severity of the disease outbreak has been blamed on a hypothetical higher parasite load achieved by the oral route of infection. Brazilian researchers at the [[Instituto Oswaldo Cruz]], [[Rio de Janeiro]], were able to infect [[mouse|mice]] via a gastrointestinal tube with trypanosome-infected oral preparations.
+
+==Laboratory diagnosis==
+Demonstration of the causal agent is the diagnostic procedure in acute Chagas' disease. It almost always yields positive results, and can be achieved by:
+* [[microscope|Microscopic]] examination: a) of fresh anticoagulated [[blood]], or its [[buffy coat]], for motile parasites; and b) of thin and thick blood smears stained with [[Giemsa stain|Giemsa]], for visualization of [[parasites]]; it can be confused with the 50% longer ''[[Trypanosoma rangeli]]'', which has not shown any pathogenicity in humans yet.
+* Isolation of the agent by: a) inoculation into [[mouse|mice]]; b) culture in specialized media (e.g., NNN, LIT); and c) [[xenodiagnosis]], where uninfected [[Reduviidae]] bugs are fed on the patient's blood, and their gut contents examined for parasites 4 weeks later.
+*Various [[Immunodiagnostic]] tests; (also trying to distinguish [[Strain (biology)|strains]] ([[zymodeme]]s) of ''T.cruzi'' with divergent pathogenicities).
+**[[Complement fixation]]
+**indirect [[hemagglutination]]
+**[[Indirect fluoresence assay|IFA]], [[Indirect fluorescent assay]]
+**[[Radioimmunoassay|RIA]], Radio-immunoassay
+**[[ELISA]], Enzyme-Linked Immunosorbent Assay
+*Diagnosis based on [[Molecular Biology]] techniques.
+**[[PCR]], Polymerase chain reaction, most promising
+
+==Prognosis==
+An index for classification of patients who have Chagas' disease was published in the August 24, 2006 edition of the ''[[New England Journal of Medicine]]''.<ref>{{cite journal | author = Rassi A Jr, Rassi A, Little W, Xavier S, Rassi S, Rassi A, Rassi G, Hasslocher-Moreno A, Sousa A, Scanavacca M | title = Development and validation of a risk score for predicting death in Chagas' heart disease | journal = N Engl J Med | volume = 355 | issue = 8 | pages = 799–808 | year = 2006 | id = PMID 16928995}}</ref> Based on over 500 patients, this index includes clinical aspects, [[X-ray]] findings, [[Electrocardiogram|EKG]], [[echocardiography]] and [[Holter monitor|Holter]].
+
+{|border="1" cellpadding="5" cellspacing="0"
+|+ '''Chagas' risk factors'''
+|-
+!style="background:#efefef;" |Risk factor!!style="background:#efefef;"|points
+|-
+|[[New York Heart Association Functional Classification|NYHA class]] III or IV||5
+|-
+|[[Cardiomegaly]]||5
+|-
+|Wall motion abnormalities||3
+|-
+|non-sustained [[ventricular tachycardia]]||3
+|-
+|low voltage on [[electrocardiogram|ECG]]||2
+|-
+|male sex||2
+|}
+
+{|border="1" cellpadding="5" cellspacing="0"
+|- style="background:#efefef;"
+!Total points!!Risk of death in 10 years
+|-
+|0–6||10%
+|-
+|7–11||40%
+|-
+|12–20||85%
+|}
+
+==Treatment==
+Medication for Chagas' disease is usually only effective when given during the [[Acute (medical)|acute]] stage of infection. The drugs of choice are azole or nitroderivatives such as [[benznidazole]]<ref>Garcia S, Ramos CO, Senra JF, ''et al.'' "Treatment with benznidazole during the chronic phase of experimental Chagas disease decreases cardiac alterations." Antimicrob Agents Chemother. 2005 Apr;49(4):1521–8. PMID 15793134 [http://aac.asm.org/cgi/content/abstract/49/4/1521 Online]</ref> or [[nifurtimox]] (under an Investigational New Drug protocol from the [[Centers for Disease Control and Prevention|CDC]] Drug Service), but resistance to these drugs has already been reported.<ref>Buckner FS, Wilson AJ, White TC, Van Voorhis WC. "Induction of resistance to azole drugs in Trypanosoma cruzi." Antimicrob Agents Chemother. 1998 Dec;42(12):3245–50. PMID 9835521 [http://aac.asm.org/cgi/content/abstract/42/12/3245 Online]</ref> Furthermore, these agents are very toxic and have many [[adverse effect (medicine)|adverse effects]], and cannot be taken without medical supervision. The antifungal agent [[Amphotericin B]] has been proposed as a second-line drug, but cost and this drug's relatively high toxicity have limited its use. Moreover, 10-year study of chronic administration of drugs in Brazil has revealed that current chemotherapy does not totally remove [[parasitemia]].<ref>Lauria-Pires L, Braga MS, Vexenat AC, ''et al.'' "Progressive chronic Chagas heart disease ten years after treatment with anti-Trypanosoma cruzi nitroderivatives." Am J Trop Med Hyg. 2000 Sep-Oct;63(3-4):111-8. PMID 11388500 [http://www.ajtmh.org/cgi/reprint/63/3/111.pdf PDF Full text]</ref> Thus, the decision about whether to use [[antiparasitic]] therapy should be individualized in consultation with an expert.
+
+In the [[chronic (medicine)|chronic]] stage, treatment involves managing the clinical manifestations of the disease, e.g., drugs and [[heart pacemaker]] for [[chronic heart failure]] and [[heart arryhthmia]]s; [[surgery]] for megaintestine, etc., but the disease per se is not curable in this phase. Chronic heart disease caused by Chagas' disease is now a common reason for [[heart transplantation]] surgery. Until recently, however, Chagas' disease was considered a [[contraindication]] for the procedure, since the heart damage could recur as the parasite was expected to seize the opportunity provided by the [[immunosuppression]] that follows surgery. The research that changed the indication of the transplant procedure for Chagas' disease patients was conducted by Dr. [[Adib Jatene]]'s group at the [[Heart Institute of the University of São Paulo]], in [[São Paulo]], Brazil.<ref>Bocchi EA, Bellotti G, Mocelin AO, Uip D, ''et al.'' "Heart transplantation for chronic Chagas' heart disease." Ann Thorac Surg. 1996 Jun;61(6):1727–33. PMID 8651775[http://ats.ctsnetjournals.org/cgi/content/abstract/61/6/1727 Online]</ref> The research noted that survival rates in Chagas' patients can be significantly improved by using lower dosages of the immunosuppressant drug [[cyclosporin]]. Recently, direct [[stem cell therapy]] of the heart muscle using [[bone marrow]] cell transplantation has been shown to dramatically reduce risks of heart failure in Chagas patients.<ref>Vilas-Boas F, Feitosa GS, Soares MB, Mota A, ''et al.'' "[Early results of bone marrow cell transplantation to the myocardium of patients with heart failure due to Chagas disease]." Arq Bras Cardiol. 2006 Aug;87(2):159-66. PMID 16951834 [http://publicacoes.cardiol.br/abc/2004/8202/8202010i.pdf PDF Full text.] [http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2004000200010&tlng=en&lng=en&nrm=iso Also available here.]</ref> Patients have also been shown to benefit from the strict prevention of reinfection, though the reason for this is not yet clearly understood.
+
+Some examples for the struggle for advances:
+*Use of [[oxidosqualene cyclase]] inhibitors and [[cysteine protease]] inhibitors has been found to cure experimental infections in animals.<ref>Engel JC, Doyle PS, Hsieh I, McKerrow JH. "Cysteine protease inhibitors cure an experimental Trypanosoma cruzi infection." J Exp Med. 1998 August 17;188(4):725-34. PMID 9705954[http://www.jem.org/cgi/content/abstract/188/4/725 Online.]</ref>
+*[[Dermaseptin]]s from frog species ''[[Phyllomedusa]] oreades'' and ''P. distincta''. Anti-''Trypanosoma cruzi ''activity without [[cytotoxicity]] to mammalian cells.<ref>PMID 12379643</ref>
+*Design of inhibitors to enzymes involved in [[trypanothione]] metabolism, which is unique to the kinetoplastid group of parasites.<ref>Fairlamb AH, Cerami A. "Metabolism and functions of trypanothione in the Kinetoplastida." Annu Rev Microbiol. 1992;46:695–729. PMID 1444271</ref>
+*The sesquiterpene lactone dehydroleucodine (DhL) affects the growth of cultured [[epimastigote]]s of ''Trypanosoma cruzi''<ref>Brengio SD, Belmonte SA, Guerreiro E, ''et al.'' "The sesquiterpene lactone dehydroleucodine (DhL) affects the growth of cultured epimastigotes of Trypanosoma cruzi." J Parasitol. 2000 Apr;86(2):407-12. PMID 10780563</ref>
+* The [[genome]] of Trypanosoma cruzi has been sequenced.<ref>El-Sayed NM, Myler PJ, Bartholomeu DC, ''et al.'' (2005). "The genome sequence of Trypanosoma cruzi, etiologic agent of Chagas disease". Science 309 (5733): 409-15. PMID 16020725</ref> Proteins that are produced by the disease but not by humans have been identified as possible drug targets to defeat the disease.<ref>El-Sayed, ''et al.'', 2005</ref>
+
+In November, 2007, the Olive View-UCLA Medical Center in Sylmar in the San Fernando Valley area of Los Angeles county, California has opened the first clinic in the nation that studies and treats Chagas disease gratis for LA county residents<ref>[http://www.latimes.com/search/la-me-chagas6nov06,1,7138768.story?ctrack=2&cset=true L.A. clinic the nation's first to treat Chagas disease], LA Times, 11-7-2007</ref><ref>[http://www.dailynews.com/news/ci_7389330 Kissing bug leaves not so sweet effects: Heart disease, possibly death] LA Daily News, 11-7-2007</ref>.
+
+==Prevention==
+[[Image:Triatoma infestans.jpg|thumb|Vector insect ''[[Triatoma infestans]]'' (Kissing Bug)]]
+A reasonably effective [[vaccine]] was developed in [[Ribeirão Preto]] in the 1970s, using cellular and subcellular fractions of the parasite, but it was found economically unfeasible. More recently, the potential of DNA vaccines for [[immunotherapy]] of acute and chronic Chagas' disease is being tested by several research groups.
+
+Prevention is centered on fighting the vector (''Triatoma'') by using sprays and paints containing [[insecticide]]s (synthetic [[pyrethrum|pyrethroids]]), and improving housing and sanitary conditions in the rural area. For urban dwellers, spending vacations and [[camping]] out in the wilderness or sleeping at hostels or mud houses in endemic areas can be dangerous, a [[mosquito net]] is recommended. If the traveller intends to travel to the area of prevalence, he/she should get information on endemic rural areas for Chagas' disease in traveller advisories, such as the [[Centers for Disease Control and Prevention|CDC]].
+
+In most countries where Chagas' disease is endemic, [[blood tests|testing]] of [[blood donation|blood donors]] is already mandatory, since this can be an important route of transmission. The United States FDA has recently licensed a test for antibodies against T. cruzi for use on blood donors but has not yet mandated its use.  The AABB recommends that past recipients of blood components from donors found to be infected be notified and themselves tested.  
+In the past, donated blood was mixed with 0,25 g/L of [[gentian violet]] successfully to kill the parasites.
+
+With all these measures, some landmarks were achieved in the fight against Chagas' disease in Latin America: a reduction by 72% of the incidence of human infection in children and young adults in the countries of the Initiative of the [[Southern Cone]], and at least two countries ([[Uruguay]], in 1997, and [[Chile]], in 1999), were certified free of vectorial and transfusional transmission. In Brazil, with the largest population at risk, 10 out of the 12 endemic states were also certified free.
+
+Some stepstones of vector control:
+*A yeast trap has been tested for monitoring infestations of certain species of the bugs:"Performance of yeast-baited traps with ''Triatoma sordida'', ''Triatoma brasiliensis'', ''Triatoma pseudomaculata'', and ''Panstrongylus megistus'' in laboratory assays."<ref>Pires HH, Lazzari CR, Diotaiuti L, Lorenzo MG. "Performance of yeast-baited traps with Triatoma sordida, Triatoma brasiliensis, Triatoma pseudomaculata, and Panstrongylus megistus in laboratory assays." Rev Panam Salud Publica. 2000 Jun;7(6):384-8. PMID 10949899</ref>
+*Promising results were gained with the treatment of vector habitats with the fungus ''[[Beauveria bassiana]]'', (which is also in discussion for [[malaria]]- prevention):"Activity of oil-formulated ''Beauveria bassiana'' against ''Triatoma sordida'' in peridomestic areas in Central Brazil."<ref>Luz C, Rocha LF, Nery GV, Magalhaes BP, Tigano MS. "Activity of oil-formulated Beauveria bassiana against Triatoma sordida in peridomestic areas in Central Brazil." Mem Inst Oswaldo Cruz. 2004 Mar;99(2):211-8. PMID 15250478 [http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02762004000200017&tlng=es&lng=en&nrm=iso Online.]</ref>
+*Targeting the [[symbiont]]s of [[Triatominae]] through [[paratransgenesis]].<ref>{{cite web|url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=PubMed&term=Triatominae%20symbiosis|title=PubMed Search on Triatominae symbiosis}}</ref>
+
+==See also==
+*[[Tropical disease]]
+*[[Drugs for Neglected Diseases Initiative]]
+* Distinguish from: [[Chaga mushroom]]
+
+==Notes==
+<!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+<references/>
+</div>
+
+==References==
+* CDC, Division of Parasitic Diseases. [http://www.cdc.gov/NCIDOD/DPD/PARASITES/chagasdisease/factsht_chagas_disease.htm Chagas Disease Fact Sheet.] ([[23 September]] [[2004]]). Accessed [[24 September]] [[2006]].
+* {{cite journal | author=Dumonteil E, Escobedo-Ortegon J, Reyes-Rodriguez N, Arjona-Torres A, Ramirez-Sierra M | title=Immunotherapy of Trypanosoma cruzi infection with DNA vaccines in mice. | journal=Infect Immun | volume=72 | issue=1 | pages=46–53 | year=2004 | id=PMID 14688079}}
+
+==Further reading==
+<div class="references-small">
+* {{cite journal | author=Bern C, Montgomery SP, Herwaldt BL, et al | title=Evaluation and treatment of chagas disease in the United States: a systematic review. |journal=JAMA | volume=298 | issue=18 | pages=2171-81 | year=2007 Nov 14|id=PMID 18000201}}
+* {{cite journal | author=Coutinho M | title=Ninety years of Chagas disease: a success story at the periphery. | journal=Soc Stud Sci | volume=29 | issue=4 | pages=519-49 | year=1999 | id=PMID 11623933}}
+* {{cite journal | author=Dias J, Silveira A, Schofield C | title=The impact of Chagas disease control in Latin America: a review. | journal=Mem Inst Oswaldo Cruz | volume=97 | issue=5 | pages=603-12 | year=2002 | id=PMID 12219120 | url=http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02762002000500002&tlng=es&lng=en&nrm=iso}}
+* {{cite journal | author=Kropf S, Azevedo N, Ferreira L | title=Biomedical research and public health in Brazil: the case of Chagas' disease (1909–50). | journal=Soc Hist Med | volume=16 | issue=1 | pages=111-29 | year=2003 | id=PMID 14598820}}
+* {{cite journal | year = 1999 | title = International Symposium to commemorate the 90th anniversary of the discovery of Chagas disease (Rio de Janeiro, April 11–16, 1999) | journal = Memorias do Instituto Oswaldo Cruz | volume = 94 | issue = Suppl. I | url =http://www.dbbm.fiocruz.br/tropical/chagas/memmain.html}}
+* {{cite journal | author=Moncayo A | title=Progress towards interruption of transmission of Chagas disease. | journal=Mem Inst Oswaldo Cruz | volume=94 Suppl 1 | pages=401-4 | id=PMID 10677765 | url=http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02761999000700079&lng=en&nrm=iso}}
+* {{cite journal | author=Prata A | title=Evolution of the clinical and epidemiological knowledge about Chagas disease 90 years after its discovery. | journal=Mem Inst Oswaldo Cruz | volume=94 Suppl 1 | pages=81-8 | id=PMID 10677694 | url=http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02761999000700008&lng=en&nrm=iso}}
+* {{cite journal | author=Franco-Paredes C | title=Chagas disease: an impediment in achieving the Millennium Development Goals in Latin America. | journal=BMC International Health and Human Rights | volume=7 | pages=7 | year=2007 | id=PMID 17725836 | url=http://http://www.biomedcentral.com/1472-698X/7/7/abstract}}
+* {{cite book | editor = Kevin M. Tyler & Michael A. Miles | title = World Class Parasites. Volume 7: American Trypanosomiasis | publisher = Kluwer Academic Publishers | id = ISBN 1-4020-7323-2}} [http://www.amazon.com/dp/1402073232/ Amazon review]
+</div>
+
+==External links==
+* [http://www.vcu.edu/csbc/vpp/ VCU Virtual Parasite Project]
+* [http://www.allaboutchagasdisease.com''All About Chagas Disease''], Chagas' disease Information & Prevention, Identification, also in Spanish.
+* [http://chagaspace.org/eng/index.htm ''Chagaspace''], also in Spanish.
+* [http://www.unibio.unam.mx/chagmex ChagMex: Database on-line]. UNAM-Instituto de Biología.
+* [http://www.paho.org/english/ad/dpc/cd/chagas.htm Chagas Disease]. PanAmerican Health Organization.
+* [http://www.phac-aspc.gc.ca/tmp-pmv/info/am_trypan_e.html Disease Information. American Trypanosomiasis or Chagas' Disease]. Travel Medicine Program. Health Canada.
+* [http://www.lib.uiowa.edu/hardin/md/trypanosomiasisAmer.html Links to Chagas' Disease pictures (Hardin MD/Univ of Iowa)]
+* [http://www.uta.edu/chagas Link to "The Kiss of Death"]. An anthropological view of Chagas' disease (Joseph Bastien/Univ of Texas at Arlington).
+
+===Recent news and events===
+* [http://www.pe.com/localnews/rivcounty/stories/PE_News_Local_S_blood18.3d5c374.html/ Chagas' disease parasite found in desert blood samples]
+* ''Chagas Control in the Southern Cone Countries: History of an International Initiative, 1991/2001'', PAHO. ([http://www.paho.org/English/AD/DPC/CD/dch-historia-incosur.htm Full text e-book])
+* [http://cruzi.unsam.edu.ar/ Genome Sequencing Project]
+* [http://news.bbc.co.uk/2/hi/health/4681707.stm Parasites' genetic code 'cracked'] From BBC
+*Catholic Relief Services. [http://www.crs.org/our_work/where_we_work/overseas/latin_america_and_the_caribbean/bolivia/improvement.cfm Housing Improvement and Chagas' Disease Prevention Project]
+*2006: [http://www.nature.com/nature/journal/v440/n7081/full/440153a.html Nature.com / Scott M. Landfear: ''Flagella are whip-like structures that power the movement of certain cells. Analysis of a single-cell parasite, the African trypanosome, reveals that flagella are also essential for viability in this organism.''] (restricted commercial access now)
+*[http://www.sciencemag.org/cgi/search?fulltext=chagas&collection_num=MEDICINE&collections_search_keyword_go.x=0&collections_search_keyword_go.y=0 Science Magazine Search Results: ''Chagas'']
+
+{{Protozoal diseases}}
+
+[[Category:Parasitic diseases]]
+[[Category:Zoonoses]]
+[[Category:Tropical disease]]
+[[Category:Neglected diseases]]
+[[Category:Insect-borne diseases]]
+
+{{Link FA|pl}}
+[[ar:شاجاس]]
+[[ca:Malaltia de Chagas]]
+[[de:Chagas-Krankheit]]
+[[es:Enfermedad de Chagas]]
+[[fr:Maladie de Chagas]]
+[[it:Malattia di Chagas]]
+[[lt:Čagaso liga]]
+[[ms:Penyakit Cagas]]
+[[nl:Ziekte van Chagas]]
+[[ja:シャーガス病]]
+[[pl:Choroba Chagasa]]
+[[pt:Doença de Chagas]]
+[[sv:Chagas sjukdom]]

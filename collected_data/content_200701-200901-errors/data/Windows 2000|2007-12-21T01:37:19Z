@@ -1,0 +1,409 @@
+{{Infobox OS version
+| name = Windows 2000
+| family = Microsoft Windows
+| logo = Windows 2000 logo.png
+| screenshot = Win2000.png<!-- 1024x768 has more detail than a 800x600 picture, which creates clutterness; this picture also has an explorer window -->
+| caption = Screenshot of Windows 2000 Professional
+| developer = Microsoft
+| website = [http://www.microsoft.com/windows2000 www.microsoft.com/windows2000]
+| first_release_date = [[February 17]] [[2000]]
+| first_release_url = http://www.microsoft.com/presspass/press/1999/Dec99/W2KrtmPR.mspx
+| release_version = 5.0 SP4 Rollup 1 v2 (5.0.3700.6690)
+| release_date = [[September 13]] [[2005]]
+| release_url = http://support.microsoft.com/kb/891861
+| source_model = [[Shared source]]<ref>{{cite web|url=http://www.microsoft.com/resources/sharedsource/Licensing/Enterprise.mspx|title=Enterprise Source Licensing Program|accessdate=2007-04-05|publisher=Microsoft}}</ref>
+| license = Microsoft [[EULA]]
+| kernel_type = [[Hybrid kernel]]
+| support_status = Extended Support Period until June/July 2010,<ref name=Support>{{cite web|url=http://www.microsoft.com/windows2000/server/evaluation/news/bulletins/extendedsupport.mspx|title=Windows 2000 Transitions to Extended Support}}</ref><ref name=Lifecycle>{{cite web|url=http://support.microsoft.com/lifecycle/search/?sort=PN&alpha=Windows+2000&Filter=FilterNO|title=Microsoft Product Lifecycle for Windows 2000 family}}</ref> security updates will be provided free of cost and paid support is still available.
+}}
+'''Windows 2000''' (also referred to as '''Win2K''') is a [[Preemption (computing)|preemptive]], interruptible, [[Graphical user interface|graphical]] and business-oriented [[operating system]] designed to work with either [[uniprocessor]] or [[Symmetric multiprocessing|symmetric multi-processor]] computers. It is part of the [[Microsoft]] [[Windows NT]] line of operating systems and was released on [[February 17]] [[2000]]. It was succeeded by [[Windows XP]] in October 2001 and [[Windows Server 2003]] in April 2003. Windows 2000 is classified as a [[hybrid kernel]] [[operating system]].
+
+Four editions of Windows 2000 have been released: Professional, Server, Advanced Server, and Datacenter Server. Additionally, Microsoft offered Windows 2000 Advanced Server Limited Edition and Windows 2000 Datacenter Server Limited Edition, which were released in 2001 and run on [[64-bit]] Intel [[Itanium]] [[microprocessor]]s.<ref name="Win2k64bitItanium">{{cite press release |title=Microsoft and Intel Announce Preview Release of 64-Bit Windows for Intel Itanium Processor |publisher=Microsoft |date=July 12, 2000 |url=http://www.microsoft.com/Presspass/press/2000/jul00/itaniumpr.mspx |accessdate=2007-10-04}}</ref> Whilst all editions of Windows 2000 are targeted to different markets, they each share a core set of common functionality, including many system utilities such as the [[Microsoft Management Console]] and standard [[system administration]] applications. Support for people with disabilities was improved over [[Windows NT 4.0]] with a number of new [[assistive technology|assistive technologies]], and Microsoft included increased support for different languages and locale information. All versions of the operating system support the Windows NT filesystem, [[NTFS]] 3.0,<ref name=NTFS3>{{cite web|url=http://support.microsoft.com/kb/253845|title=New Capabilities and Features of the NTFS 3.0 File System}}</ref> the [[Encrypting File System]], as well as basic and dynamic [[Logical Disk Manager|disk storage]]. The Windows 2000 Server family has additional functionality, including the ability to provide [[Active Directory]] services (a hierarchical framework of resources) , [[Distributed File System (Microsoft)|Distributed File System]] (a file system that supports sharing of files) and fault-redundant storage volumes. Windows 2000 can be installed and deployed to corporate desktops through either an attended or unattended installation. Unattended installations rely on the use of [[answer file]]s to fill in installation information, and can be performed through a bootable CD using Microsoft [[Systems Management Server]], by the [[Sysprep|System Preparation Tool]]. Windows 2000 is the last NT-kernel based version of Microsoft Windows that does not include [[Windows Product Activation]].
+
+At the time of its release, Microsoft marketed Windows 2000 as the most secure Windows version they had ever shipped,<ref name="cybersafepr">{{cite press release
+| url = http://www.microsoft.com/Presspass/press/2000/jan00/cybersafepr.mspx
+| title = Microsoft and CyberSafe Extend Windows 2000 Security Across the Enterprise
+| date = [[January 17]] [[2000]]
+| accessdate = 2006-09-17
+| publisher = Microsoft
+|}}</ref> however it became the target of a number of high-profile virus attacks such as [[Code Red (computer worm)|Code Red]] and [[Nimda (computer worm)|Nimda]]. More than seven years after its release, it continues to receive patches for security vulnerabilities on a near-monthly basis.
+
+{{TOClimit|limit=2}}
+== History ==
+{{seealso|History of Microsoft Windows}}
+
+Windows 2000 is a continuation of the Microsoft [[Windows NT]] line of operating systems, replacing its predecessor, [[Windows NT 4.0]]. Originally called Windows NT 5.0, then Windows NT 2000, Microsoft changed the name to Windows 2000 on [[October 27]] [[1998]].<ref name="infoworldnt5">{{cite web
+| url = http://www.infoworld.com/cgi-bin/displayStory.pl?981027.wcwin2000.htm
+| title = It's official: NT 5.0 becomes Windows 2000
+| year = [[October 27]] [[1998]]
+| accessdate = 2006-04-22
+| last = Trott
+| first = Bob
+| publisher = infoWorld
+}}</ref> It was also the first Windows version that was released without a [[Microsoft codenames|code name]], though Windows 2000 [[Service pack|Service Pack]] 1 was codenamed "Asteroid" and Windows 2000 64-bit was codenamed "Janus" (not to be confused with [[Windows 3.1]], which had the same codename). The first beta for Windows 2000 was released on [[September 27]] [[1997]] and several further betas were released until Beta 3 which was released on [[April 29]] [[1999]]. [[DEC Alpha]] support was removed from the final build. From here, Microsoft issued three release candidates between July and November 1999, and finally released the operating system to partners on [[December 12]] [[1999]].<ref>{{cite web
+| url = http://www.activewin.com/win2000/history.shtml
+| title = Windows 2000 history
+| publisher = ActiveWin
+| accessdate = 2006-04-22
+}}</ref> The public received the full version of Windows 2000 on [[February 17]] [[2000]]. Three days before the launch of Windows 2000, which Microsoft advertised as "a standard in reliability", a leaked memo from Microsoft reported on by Mary Jo Foley revealed that Windows 2000 had "over 63,000 potential known defects".<ref>[http://news.zdnet.co.uk/software/0,1000000121,2076967,00.htm Bugfest! Win2000 has 63,000 'defects'] February 14, 2000</ref> After Foley's article was published, Microsoft [[blacklist]]ed her for a considerable time:<ref>[http://www.windows-now.com/blogs/robert/archive/2006/09/20/Mary-Jo-Foley-Exit-Interview.aspx Mary Jo Foley: The Exit Interview] September 20, 2006</ref> [[InformationWeek]] summarized the release "our tests show the successor to NT 4.0 is everything we hoped it would be. Of course, it isn't perfect either."<ref>[http://www.informationweek.com/story/showArticle.jhtml?articleID=16000334 InformationWeek], December 28, 1999, "Special Report"</ref> [[Wired News]] later described the results of the February launch as "lackluster".<ref>[http://www.wired.com/wired/archive/8.11/microsoft_pr.html Wired News], November 2000, "The Truth, The Whole Truth, and Nothing But The Truth"</ref> [[Novell]] criticized Microsoft's [[Active Directory]], the new directory service architecture to be less scalable or reliable than their own [[Novell Directory Services]] (NDS) technology.<ref>{{cite web
+| url = http://www.novell.com/coolsolutions/qna/6222.html
+| title = NDS eDirectory vs. Microsoft Active Directory?
+| year = [[November 17]] [[1999]]
+| accessdate = 2006-04-22
+| publisher = Novell
+}}
+{{"|NDS eDirectory is a cross-platform directory solution that works on NT 4.0, Windows 2000 when available, Solaris and NetWare 5. Active Directory will only support the Windows 2000 environment. In addition, eDirectory users can be assured they are using the most trusted, reliable and mature directory service to manage and control their e-business relationships  — not a 1.0 release.}}</ref>
+
+Originally, Windows 2000 was planned to replace both [[Windows 98]] and Windows NT 4.0. However, that was later changed. Instead, an updated version of Windows 98 called Windows 98 Second Edition was released in 1999 as a successor to Windows 98. Microsoft released Windows 2000 Datacenter Server, targeted at large-scale computing systems with support for 32 processors, on [[September 29]], [[2000]].
+
+On or shortly before [[February 12]], [[2004]], "portions of the Microsoft Windows 2000 and Windows NT 4.0 [[source code]] were illegally made available on the Internet".<ref name="msstmt">{{cite web
+| url = http://www.microsoft.com/presspass/press/2004/Feb04/02-12windowssource.mspx
+| title = Statement from Microsoft Regarding Illegal Posting of Windows 2000 Source Code
+| year = [[February 20]] [[2004]]
+| accessdate = 2007-01-11
+| publisher = Microsoft
+}}</ref> The source of the leak remains unannounced. Microsoft issued the following statement:
+
+{{cquote|Microsoft source code is both copyrighted and protected as a trade secret. As such, it is illegal to post it, make it available to others, download it or use it.}}
+
+Despite the warnings, the archive containing the leaked code spread widely on the [[File sharing|file-sharing]] networks. Consequentially, on [[February 16]], [[2004]], an [[Exploit (computer security)|exploit]] "allegedly discovered by an individual studying the leaked source code"<ref name="msstmt"/> for certain versions of Microsoft Internet Explorer was reported.
+
+== Architecture ==
+[[Image:Windows 2000 architecture.svg|thumb|350px|The Windows 2000 operating system architecture consists of two layers (user mode and kernel mode) , with many different modules within both of these layers.]]
+{{seealso|Architecture of Windows NT}}
+Windows 2000 is a highly modular system that consists of two main layers: a [[user mode]] and a [[kernel mode]]. The user mode refers to the mode in which user programs are run. Such programs are limited in terms of what system resources they have access to, while the kernel mode has unrestricted access to the system memory and external devices. All user mode applications access system resources through the executive which runs in kernel mode.
+
+=== User mode ===
+User mode in Windows 2000 is made of subsystems capable of passing [[Input/output|I/O]] requests to the appropriate kernel mode drivers by using the I/O manager. Two subsystems make up the user mode layer of Windows 2000: the environment subsystem and the integral subsystem.
+
+The environment subsystem was designed to run applications written for many different types of operating systems. These applications, however, run at a lower priority than kernel mode processes. There are three main environment subsystems:<ref name="win2kreskit-appendixd">{{cite web
+|url=http://www.microsoft.com/technet/prodtechnol/Windows2000Pro/reskit/part8/proch36.mspx?mfr=true
+| title = Appendix D - Running Nonnative Applications in Windows 2000 Professional
+| work = Microsoft Windows 2000 Professional Resource Kit
+| publisher = [[Microsoft]]
+}}</ref>
+# [[Win32]] subsystem runs [[Microsoft Windows|32-bit Windows]] applications and also supports [[Virtual DOS Machine]]s (VDMs) , which allows [[MS-DOS]] and [[16-bit]] [[Windows 3.1x]] ([[Win16]]) applications to run on Windows.
+# [[OS/2]] environment subsystem supports 16-bit character-based OS/2 applications and emulates OS/2 1.3 and 1.x, but not 32-bit or graphical OS/2 applications as used on OS/2 2.x or later.
+# [[POSIX]] environment subsystem supports applications that are strictly written to either the POSIX.1 standard or the related [[International Organization for Standardization|ISO]]/[[International Electrotechnical Commission|IEC]] standards.
+The integral subsystem looks after operating system specific functions on behalf of the environment subsystem. It consists of a ''security subsystem'' (grants/denies access and handles logons) , ''workstation service'' (helps the computer gain network access) and a
+''server service'' (lets the computer provide network services).
+
+=== Kernel mode ===
+[[Kernel mode]] in Windows 2000 has full access to the hardware and system resources of the computer. The kernel mode stops user mode services and applications from accessing critical areas of the operating system that they should not have access to.
+
+[[Image:Winobj.PNG|thumb|Each object in Windows 2000 exists in its own [[Namespace (computer science)|namespace]], as illustrated by this screenshot from ''SysInternal's'' <span class="plainlinksneverexpand">[http://www.microsoft.com/technet/sysinternals/SystemInformation/WinObj.mspx WinObj]</span>]]
+The executive interfaces with all the user mode subsystems. It deals with I/O, object management, security and process management. It contains various components, including:
+* '''[[Object Manager (Windows)|Object manager]]''': a special executive subsystem that all other executive subsystems must pass through to gain access to Windows 2000 resources. This is essentially a resource management infrastructure service that allows Windows 2000 to be an [[object oriented]] operating system.
+* '''I/O Manager:''' allows devices to communicate with user-mode subsystems by translating user-mode read and write commands and passing them to [[device driver]]s.
+* '''Security Reference Monitor (SRM) :''' the primary authority for enforcing the security rules of the security integral subsystem.<ref>''Microsoft''. "[http://www.microsoft.com/resources/documentation/Windows/2000/server/reskit/en-us/Default.asp?url=/resources/documentation/Windows/2000/server/reskit/en-us/distrib/dsbg_dat_brlr.asp Active Directory Data Storage]".</ref>
+* '''IPC Manager:''' short for [[Inter-Process Communication]] Manager, manages the communication between clients (the environment subsystem) and servers (components of the executive).
+* '''Virtual Memory Manager:''' manages [[virtual memory]], allowing Windows 2000 to use the [[hard disk]] as a [[primary storage]] device (although strictly speaking it is [[secondary storage]]).
+* '''Process Manager:''' handles [[process (computing)|process]] and [[thread (computer science)|thread]] creation and termination
+* '''PnP Manager:''' handles [[Plug and Play]] and supports device detection and installation at [[Booting|boot time]].
+* '''Power Manager:''' the power manager coordinates power events and generates power [[I/O request packets|IRPs]].
+* The display system is handled by a device driver contained in ''Win32k.sys''. The '''Window Manager''' component of this driver is responsible for drawing windows and menus while the '''[[Graphics Device Interface|GDI]]''' ([[Graphics Device Interface]]) component is responsible for tasks such as drawing [[line (mathematics)|lines]] and [[curve]]s, rendering [[font]]s and handling [[Palette (computing)|palettes]]. Windows 2000 also introduced [[alpha blending]] into the [[Graphics Device Interface]] which reflects in the fade effect in menus.
+
+The Windows 2000 [[Hardware Abstraction Layer]], or HAL, is a layer between the physical hardware of the computer and the rest of the operating system. It was designed to hide differences in hardware and therefore provide a consistent platform to run applications on. The HAL includes hardware specific code that controls I/O interfaces, [[interrupt controller]]s and multiple processors.
+
+The [[hybrid kernel]] sits between the HAL and the executive and provides multiprocessor synchronization, thread and interrupt scheduling and dispatching, trap handling and exception dispatching. The hybrid kernel often interfaces with the process manager<ref>''Inside Microsoft Windows 2000'' (Third Edition). ''Microsoft Press''.</ref>
+and is responsible for initializing device drivers at bootup that are necessary to get the operating system up and running.
+
+A stripped down variant of the Windows 2000 kernel was used on the [[Xbox]].
+
+== Common functionality ==
+[[Image:Win2000 logo.png|200px|right]]
+Windows 2000 introduced many of the [[Windows 98]] new features into the NT line, such as, the [[Windows Desktop Update]], [[Windows Driver Model]], [[Internet Connection Sharing]], [[Windows Media Player]], [[WebDAV]] support etc. Certain features are common across all editions of Windows 2000, among them being NTFS 3.0,<ref name=NTFS3> </ref> the [[Microsoft Management Console]] (MMC) , the [[Encrypting File System]] (EFS) , [[Logical Disk Manager]], usability enhancements and multi-language and locale support. Windows 2000 also has several system utilities included as standard. As well as these features, Microsoft introduced a new feature to protect critical system files, called [[Windows File Protection]]. This prevents programs (with the exception of Microsoft's update programs) from replacing critical Windows system files and thus making the system inoperable.<ref>{{cite web|url=http://support.microsoft.com/kb/222193|title=Microsoft KB article 222193: Description of the Windows File Protection Feature}}</ref>
+
+Microsoft recognized that the infamous [[Blue Screen of Death]] (or stop error) could cause serious problems for servers that needed to be constantly running and so provided a system setting that would allow the server to automatically reboot when a stop error occurred. Also included is an option to dump any of the first 64 [[kilobyte|KB]] of memory to disk (the smallest amount of memory that is useful for [[debugging]] purposes, also known as a minidump) , a dump of only the kernel's memory, or a dump of the entire contents of memory to disk, as well as write that this event happened to the Windows 2000 event log. In order to improve performance on computers running Windows 2000 as a server operating system, Microsoft gave administrators the choice of optimizing the operating system's memory and processor usage patterns for background services or for applications. Windows 2000 also introduced such technologies as the [[Windows Installer]], [[Windows Management Instrumentation]], [[OpenType]] PostScript fonts (<tt>.OTF</tt>) , [[Data protection application programming interface|Data protection API]] (DPAPI) and the [[Indexing Service]] into the operating system.
+
+=== Improvements to Windows Explorer ===
+[[Image:Windows 2000 Explorer.png|thumb|[[Windows Explorer]] had a built-in media player in Windows 2000]] 
+
+The [[Windows Explorer]] received a number of enhancements in Windows 2000. It was the first [[Windows NT]] release to include [[Active Desktop]], a component first introduced as a part of [[Internet Explorer]] 4.0, and only pre-installed in [[Windows 98]] by that time. Renamed in Windows 2000 as "[[Windows Desktop Update]]" <ref name="ActiveDesktop">{{citation|first=Dino|last=Esposito|url=http://msdn.microsoft.com/msdnmag/issues/0600/w2kui2/|title=More Windows 2000 UI Goodies: Extending Explorer Views by Customizing Hypertext Template Files|publisher=MSDN Magazine|date=June 2000|accessdate=2007-08-26}}</ref>, it allowed the users to customize the way folders look and behave by using [[HTML]] templates, having the [[file extension]] <tt>HTT</tt>. This feature had been abused by [[computer virus]]es that employed malicious scripts, [[Java (programming language)|Java]] applets, or [[ActiveX]] controls in folder template files as their infection vector. Two such viruses are VBS/Roor-C<ref name="VBS/Roor-C">''[[Sophos]]'', [http://www.sophos.com/security/analyses/vbsroorc.html VBS/Roor-C threat analysis]. Accessed 2007-08-26.</ref> and VBS.Redlof.a.<ref name="VBS.Redlof.a">{{cite encyclopedia | title = Virus.VBS.Redlof.a | encyclopedia = Virus Encyclopedia | publisher = Viruslist.com | date = January 15, 2004 | url = http://www.viruslist.com/viruses/encyclopedia?virusid=25409 | accessdate = 2007-08-26}}</ref>
+
+The "Web-style" folders view, with the left Explorer pane displaying details for the object currently selected, is turned on by default in Windows 2000. For certain file types, such as pictures and media files, the preview is also displayed in the left pane. Until the dedicated interactive preview pane appeared in [[Windows Vista]], Windows 2000 had been the only Windows release to feature an interactive media player as the previewer for sound and video files. However, such a previewer can be enabled in [[Windows Me]] and [[Windows XP]] through the use of third-party shell extensions, as the extensibility of the updated Windows Explorer allows for custom thumbnail previewers and [[tooltip]] handlers. The default file tooltip displays file title, author, subject and comments;<ref name="ToolTipHandlers">{{citation|title = Windows 2000 Registry: Latest Features and APIs Provide the Power to Customize and Extend Your Apps | publisher = MSDN Magazine | date = November 2000 | url = http://msdn.microsoft.com/msdnmag/issues/1100/Registry/ | accessdate = 2007-08-26}}</ref> these metadata may be read from a special [[NTFS]] stream, in case the file is located on an NTFS volume, or from an OLE [[structured storage]] stream, in case the file is a structured storage document. All [[Microsoft Office]] documents since Office 95 <ref name="OLEStructuredStorage">{{citation|first=Charlie|last=Kindel | title = OLE Property Sets Exposed | publisher = MSDN Magazine | date = August 27, 1993 | url = http://msdn.microsoft.com/archive/en-us/dnarolegen/html/msdn_propset.asp?frame=true | accessdate = 2007-08-26}}</ref> are stored in structured storages, so that their metadata are displayable in Windows 2000 Explorer default tooltip.
+
+The right pane of Windows 2000 Explorer, which usually just lists files and folders, can also be customized. For example, the contents of the system folders aren't displayed by default, instead showing in the right pane a cautionary message telling the user that modifying the contents of the system folders could harm their computer. It's possible to define additional Explorer panes by using [[Div (HTML tag)|DIV]] elements in folder template files <ref name="ActiveDesktop"/> Other Explorer UI elements that can be customized include columns in "Details" view, icon overlays, and search providers: the new DHTML-based search pane is integrated into Windows 2000 Explorer, unlike the separate search dialog found in all previous Explorer versions. This degree of customizability is new to Windows 2000; neither Windows 98 nor the Desktop Update could provide it.<ref name="WindowsShellExtensions">{{citation|title="Figure 1 Windows Shell Extensions"|url=http://msdn.microsoft.com/msdnmag/issues/0300/w2kui/w2kuifigs.asp|publisher=MSDN Magazine|accessdate=2007-08-26|date=June 2000}}</ref>
+
+=== NTFS 3.0 ===
+[[Image:NT Quota Management.png|thumb|Windows 2000 supports [[disk quota]]s, which can be set via the "Quota" tab found in the hard disk properties [[dialog box]].]]
+{{main|NTFS}}
+Microsoft released the version 3.0 of the NTFS file system<ref name=NTFS3> </ref> (sometimes incorrectly referred to as NTFS 5 in relation to the kernel version number) as part of Windows 2000; this introduced [[disk quota]]s, [[Encrypting File System|file-system-level encryption]], [[sparse file]]s and [[NTFS reparse point|reparse points]]. Sparse files allow for the efficient storage of data sets that are very large yet contain many areas that only have zeros. [[NTFS reparse point|Reparse points]] allow the [[Object Manager (Windows)|object manager]] to reset a file namespace lookup and let file system drivers implement changed functionality in a transparent manner. Reparse points are used to implement volume mount points, [[NTFS junction point|junctions]], [[Hierarchical Storage Management]], Native [[Structured storage|Structured Storage]] and [[Single Instance Storage]]. Volume mount points and directory junctions allow for a file to be transparently referred from one file or directory location to another.
+
+=== Encrypting File System ===
+{{main|Encrypting File System}}
+The Encrypting File System (EFS) introduced strong [[file system]]-level [[encryption]] to Windows. It allows any folder or drive on an NTFS volume to be encrypted transparently by the end user. EFS works in conjunction with the EFS service, Microsoft's [[Cryptographic Application Programming Interface|CryptoAPI]] and the EFS File System [[Runtime]] Library (FSRTL). As of May 2007, its encryption has not been compromised.
+
+EFS works by encrypting a file with a bulk [[symmetric key]] (also known as the File Encryption Key, or FEK) , which is used because it takes a relatively smaller amount of time to encrypt and decrypt large amounts of data than if an [[asymmetric key]] cipher is used. The symmetric key that is used to encrypt the file is then encrypted with a [[public key]] that is associated with the user who encrypted the file, and this encrypted data is stored in the header of the encrypted file. To decrypt the file, the file system uses the private key of the user to decrypt the symmetric key that is stored in the file header. It then uses the symmetric key to decrypt the file. Because this is done at the file system level, it is transparent to the user.<ref>"[http://www.microsoft.com/resources/documentation/Windows/2000/server/reskit/en-us/Default.asp?url=/resources/documentation/windows/2000/server/reskit/en-us/distrib/dsck_efs_XHKD.asp Encrypting File System]". ''Microsoft''.</ref>
+
+In case of a user losing access to their key, support for recovery agents that can decrypt files is built in to EFS.
+
+=== Basic and dynamic disk storage ===
+{{main|Logical Disk Manager}}
+
+Windows 2000 introduced the [[Logical Disk Manager]] for [[Logical Disk Manager|dynamic storage]]. All versions of Windows 2000 support three types of [[Logical Disk Manager|dynamic]] disk volumes (along with basic disks) : ''simple volumes'', ''spanned volumes'' and ''striped volumes'':
+* '''Simple volume''', a volume with disk space from one disk.
+* '''Spanned volumes''', where multiple disks (up to 32) show up as one, increasing it in size but not enhancing performance. When one disk fails, the array is destroyed. Some data may be recoverable. This corresponds to [[JBOD#Concatenation (JBOD or SPAN)|JBOD]] and not to [[Redundant array of independent disks#RAID 1|RAID-1]].
+* '''Striped volumes''', also known as [[Redundant array of independent disks#RAID 0|RAID-0]], store all their data across several disks in ''stripes''. This allows better performance because disk read and writes are balanced across multiple disks.
+
+Windows 2000 also added support for the [[iSCSI]] protocol.
+
+=== Accessibility support ===
+[[Image:Win2kkeyboardmap.png|300px|thumb|A Pre-SP4 Windows 2000 onscreen keyboard map allows users who have problems with using the keyboard to use a mouse to input text.]]
+Microsoft made an effort to increase the usability of Windows 2000 over [[Windows NT 4.0]] for people with visual and auditory impairments and other [[disability|disabilities]]. They included several utilities designed to make the system more [[Computer accessibility|accessible]], although many of these accessibility features were already available with previous versions of Windows:
+* '''FilterKeys:''' These are a group of [[computer keyboard|keyboard]] related features for people with typing issues, and include:
+** '''SlowKeys:''' Ignore keystrokes that are not held down for a certain time period.
+** '''BounceKeys:''' Multiple keystrokes to one key to be ignored within a certain timeframe.
+** '''RepeatKeys:''' allows users to slow down the rate at which keys are repeated via the keyboard's keyrepeat feature.
+* '''ToggleKeys:''' when turned on, Windows will play a sound when either the <tt>CAPS LOCK</tt>, <tt>NUM LOCK</tt> or <tt>SCROLL LOCK</tt> keys are pressed.
+* '''[[Mouse keys|MouseKeys]]:''' allows the cursor to be moved around the screen via the [[Keypad|numeric keypad]] instead of the mouse.
+* '''[[On-screen keyboard]]:''' allows users to use a mouse to use the keyboard and enter on-screen keyboard characters.
+* '''SerialKeys:''' gives Windows 2000 the ability to support speech augmentation devices.
+* '''[[Sticky keys|StickyKeys]]:''' makes modifier keys (<tt>ALT</tt>, <tt>CTRL</tt> and <tt>SHIFT</tt>) become "sticky"  — in other words a user can press the [[modifier key]], release that key and then press the combination key. Normally the modifier key must remain pressed down to activate the sequence (Activated by pressing Shift 5 times quickly).
+* '''[[Microsoft Magnifier]]:''' A [[screen magnifier]] that assists users with [[visual impairment]]s by magnifying the part of the screen they place their mouse over.
+* '''Narrator:''' [[Microsoft Narrator]], introduced in Windows 2000, assists users with visual impairments with system messages, as when these appear the narrator will read this out via the sound system.
+* '''High contrast theme:''' to assist users with visual impairments.
+* '''SoundSentry:''' designed to help users with auditory impairments, Windows 2000 will show a visual effect when a sound is played through the sound system.
+
+=== Language and locale support ===
+Windows 2000 has support for many languages other than [[English language|English]]. It supports [[Arabic language|Arabic]], [[Armenian language|Armenian]], [[Baltic languages|Baltic]], [[Central Europe]]an, [[Cyrillic]], [[Georgian language|Georgian]], [[Greek language|Greek]], [[Hebrew language|Hebrew]], [[Indic]], [[Japanese language|Japanese]], [[Korean language|Korean]], [[Simplified Chinese]], [[Thai language|Thai]], [[Traditional Chinese]], [[Turkic languages|Turkic]], [[Vietnamese language|Vietnamese]] and [[Western Europe]]an languages.<ref>[http://support.microsoft.com/kb/292246 Microsoft Support KB 292264: List of Languages Supported in Windows 2000, Windows XP and Windows Server 2003].</ref>
+It also has support for many different [[locale]]s, a list of which can be found on [http://www.microsoft.com/globaldev/reference/win2k/setup/lcid.mspx Microsoft's website].
+
+=== Games support ===
+Windows 2000 included version 7.0 of the [[DirectX]] [[Applications Programming Interface|API]], commonly used by [[video game developer|game developer]]s on [[Windows 98]].<ref>[http://www.microsoft.com/technet/archive/community/columns/askdev/ask1208.mspx?mfr=true Ask the Windows 2000 Dev Team].</ref> The last supported version of DirectX that Windows 2000 supports is DirectX 9.0c (Shader Model 3.0) , the same version as the one shipped with Windows XP Service Pack 2.<ref>However, as of mid-2007, Microsoft continues to publish bimonthly minor updates to DirectX 9.0c files; these updates do not advance the overall DirectX version number.</ref> The majority of games written for recent versions of DirectX could therefore run on Windows 2000, in contrast to Windows NT 4.0, which only provided support for DirectX 3.0.
+
+=== System utilities ===
+[[Image:Win2k mmc.png|thumb|The Microsoft Management Console (MMC) is used for administering Windows 2000 computers.]]
+Windows 2000 introduced the [[Microsoft Management Console]] (MMC) , which is used to create, save, and open administrative tools. Each of the tools is called a ''console'', and most consoles allow an administrator to administer other Windows 2000 computers from one centralised computer. Each console can contain one or many specific administrative tools, called ''snap-ins''. Snap-ins can be either standalone (performs one function) , or extensions (adds functionality to an existing snap-in). In order to provide the ability to control what snap-ins can be seen in a console, the MMC allows consoles to be created in author mode or created in user mode. Author mode allows snap-ins to be added, new windows to be created, all portions of the console tree can be displayed and for consoles to be saved. User mode allows consoles to be distributed with restrictions applied. User mode consoles can grant full access to the user so they can make whatever changes they desire, or they can grant limited access to users which prevents users adding snapins to the console, though they can view multiple windows in a console. Alternatively users can be granted limited access, preventing them from adding to the console and stopping them viewing multiple windows in a single console.<ref>''Microsoft Press'' (2000). ''MCSE 70-210, Microsoft Windows 2000 Professional'', pages 58-63.</ref>
+
+[[Image:Win2kDefrag.png|thumb|left|The Windows 2000 Computer Management console is capable of performing many system tasks. It is pictured here starting a [[disk defragmentation]].]]
+The main tools that come with Windows 2000 can be found in the Computer Management console (found in Administrative Tools in the Control Panel). This contains the [[Event Viewer]]  — a means of seeing events and the Windows equivalent of a [[log file]], a system information utility, a backup utility, a ''task scheduler'' and management consoles to view open shared folders and shared folder sessions, configure and manage [[COM+]] applications, configure [[Group policy]], manage all the local users and user groups, and a [[Device Manager|device manager]]. It also contains a disk management snap-in, a ''Removable Storage'' snap-in, a [[Disk Defragmenter (Windows)|disk defragmenter]] as well a performance diagnostic console, which displays graphs of system performance and configures data logs and alerts. Lastly, it also contains a [[Windows service|service]] configuration console, which allows users to view all installed services and to stop and start them on demand, as well as configure what those services should do when the computer starts.
+
+[[Image:Windows 2000 REGEDIT.png|thumb|The REGEDIT.EXE utility on Windows 2000.]]
+Windows 2000 comes bundled with two utilities to edit the [[Windows registry]], ''REGEDIT.EXE'' and ''REGEDT32.EXE''. REGEDIT.EXE was directly ported from [[Windows 98]], and therefore does not support editing registry permissions. REGEDT32.EXE has the older multiple document interface (MDI) and can edit registry permissions in the same manner that Windows NT's REGEDT32.EXE program could. REGEDIT.EXE has a left-side [[tree view]] of the [[Windows registry]], lists all loaded hives and represents the three components of a value (its name, type, and data) as separate columns of a table. REGEDT32.EXE has a left-side tree view, but each hive has its own window, so the tree displays only keys and it represents values as a list of strings. REGEDIT.EXE supports right-clicking of entries in a tree view to adjust properties and other settings. REGEDT32.EXE requires all actions to be performed from the top [[menu bar]].
+[[Windows XP]] was the first system to integrate these two programs into a single utility, adopting the REGEDIT.EXE behavior with the additional NT functionality.
+
+The [[System File Checker]] (SFC) also comes bundled with Windows 2000. It is a [[command line]] utility that scans system files and verifies whether they were signed by Microsoft and works in conjunction with the [[Windows File Protection]] mechanism. It can also repopulate and repair all the files in the ''Dllcache'' folder.<ref>{{cite web|url=http://support.microsoft.com/kb/222471|title=Microsoft KB article 222471: Description of the Windows 2000 System File Checker (Sfc.exe) }}</ref>
+
+=== Recovery Console ===
+[[Image:Windows 2000 Recovery Console.png|thumb|The Recovery Console is usually used to recover unbootable systems.]]
+{{main|Recovery Console}}
+The [[Recovery Console]] is an application that is run from outside the installed copy of Windows and that enables a user to perform maintenance tasks that cannot be run from inside of the installed copy, or cannot be feasibly run from another computer or copy of Windows 2000. It is usually used to recover the system from errors causing booting to fail, which would render other tools useless.
+
+It presents itself as a simple [[command line]] interface. The commands are limited to ones for checking and repairing the hard drive(s) , repairing boot information (including [[NTLDR]]) , replacing corrupted system files with fresh copies from the CD, or enabling/disabling services and drivers for the next boot.
+
+The console can be accessed in one of two ways:
+# Starting from the Windows 2000 CD, and choosing to enter the Recovery Console instead of continuing with setup, or
+# Installing the Recovery Console via Winnt32.exe, with the /cmdcons switch. However, the console can then only be used if the system boots to the point where NTLDR can start it.
+
+== Server family functionality ==
+[[Image:Win2kserver logo.jpg|right|200px]]
+The Windows 2000 server family consists of Windows 2000 Server, Windows 2000 Advanced Server and Windows 2000 Datacenter Server.
+
+All editions of Windows 2000 Server have the following services and functionality built-in:
+* Routing and [[Remote Access Service]] (RRAS) support, facilitating [[Dial-up access|dial-up]] and [[Virtual Private Network|VPN]] connections, support for [[RADIUS]] authentication, network connection sharing, [[Network Address Translation]], [[unicast]] and [[multicast]] [[routing]] schemes.
+* [[Microsoft DNS|DNS]] server, including support for [[Dynamic DNS]]. [[Active Directory]] relies heavily on DNS.
+* [[IPsec]] support and TCP/IP filtering
+* [[Smart card]] support
+* Microsoft Connection Manager Administration Kit (CMAK) and Connection Point Services
+* Support for [[Distributed File System (Microsoft)|distributed file systems]] (DFS)
+* [[Hierarchical Storage Management]] support, a service that runs in conjunction with [[NTFS]] that automatically transfers files that are not used for some period of time to less expensive storage media
+* [[Fault-tolerant design|Fault tolerant]] volumes, namely it supports [[Redundant array of independent disks#RAID 1|Mirrored]] and [[Redundant array of independent disks#RAID-5|RAID-5]]
+* [[Group policy]] (part of [[Active Directory]])
+* ''IntelliMirror'', a collection of technologies for [[Granularity|fine-grained]] management of Windows 2000 Professional desktops ([[Roaming profile]]s, [[Microsoft Message Queuing|MSMQ 2.0]], ''Offline files'' (also known as ''Client Side Caching'' or CSC) , [[TAPI]] 3.0, [[COM+]] and [[Microsoft Transaction Server|MTS]] application host, software installation, settings management).
+* [[Integrated Windows Authentication]] (including [[Kerberos (protocol)|Kerberos]] and [[SPNEGO]] authentication).
+* [[MS-CHAP]] v2 protocol
+* [[Public Key Infrastructure]] (PKI) and [[Certificate authority|Enterprise Certificate Authority]] support
+* [[Terminal Services]] and support for the [[Remote Desktop Protocol]] (RDP)
+* [[Internet Information Services]] (IIS) 5.0
+
+[[Image:Windows 2000 Server.png|thumb|right|Screenshot of Windows 2000 Server]]
+The Server editions include more features and components, including the Microsoft Distributed File System (DFS) , Active Directory support and fault tolerant storage.
+
+=== Distributed File System ===
+{{main|Distributed File System (Microsoft) }}
+The Distributed File System, or DFS, allows [[Server Message Block|shares]] in multiple different locations to be logically grouped under one folder, or ''DFS root''. When users try to access a share that exists off the DFS root, the user is really looking at a ''DFS link'' and the DFS server transparently redirects them to the correct [[file server]] and share. A DFS root can only exist on a Windows 2000 version that is part of the server family, and only one DFS root can exist on that server.
+
+There can be two ways of implementing DFS on Windows 2000: through standalone DFS, or through domain-based DFS. Standalone DFS allows for only DFS roots that exist on the local computer, and thus does not use Active Directory. Domain-based DFS roots exist within Active Directory and can have their information distributed to other [[domain controller]]s within the domain  — this provides [[Fault-tolerant system|fault tolerance]] to DFS. DFS roots that exist on a domain must be hosted on a domain controller or on a domain member server. The file and root information is replicated via the Microsoft [[File Replication Service]] (FRS).<ref>{{cite web|url=http://support.microsoft.com/kb/812487|title=Microsoft KB article 812487: Overview of DFS in Windows 2000}}</ref>
+
+=== Active Directory ===
+{{main|Active Directory}}
+A new way of organizing [[Windows Server domain|Windows network domains]], or groups of resources, called Active Directory, was introduced with Windows 2000 and obsoleted Windows NT's traditional domain model. Active Directory's hierarchical nature allowed administrators a built-in way to manage user and computer policies, user accounts, and to automatically deploy programs and updates with a greater degree of scalability and centralization than provided in previous [[List of Microsoft Windows versions|Windows versions]]. It is one of the main reasons many corporations migrated to Windows 2000. User information stored in Active Directory also provided a convenient phone book-like function to end users. Active Directory domains can vary from small installations with a few hundred objects, to large installations with millions of objects. Active Directory contains the ability to organise and link groups of domains into a contiguous [[domain name]] space to form ''trees''. Groups of trees existing outside of the same namespace can be linked together to form ''forests''.
+
+Active Directory services could only be installed on a Windows 2000 Server, Advanced Server, or Datacenter Server computer, and cannot be installed on a Windows 2000 Professional computer. However, Windows 2000 Professional was the first client operating system able to exploit Active Directory's new functionality. As part of an organization's migration, Windows NT clients continued to function until all clients were upgraded to Windows 2000 Professional, at which point the Active Directory domain could be switched to [[native mode]] and maximum functionality achieved.
+
+Active Directory requires a DNS server that supports [[SRV resource record]]s, or that an organization's existing DNS infrastructure be upgraded to support this functionality. It also requires that one or more domain controllers exist to hold the Active Directory database and provide Active Directory [[directory services]].
+
+=== Volume fault tolerance ===
+Along with support for simple, spanned and striped volumes, the server family of Windows 2000 also supports fault tolerant volume types. The types supported are ''mirrored volumes'' and ''RAID-5 volumes'':
+* '''Mirrored volumes:''' the volume contains several disks, and when data is written to one it is also written to the other disks. This means that if one disk fails, the data can be totally recovered from the other disk. Mirrored volumes are also known as [[Redundant array of independent disks#RAID 1|RAID-1]].
+* '''RAID-5 volumes:''' a [[Redundant array of independent disks#RAID 5|RAID-5]] volume consists of multiple disks, and it uses [[Block (data storage)|block]]-level striping with parity data distributed across all member disks. Should a disk fail in the array, the parity blocks from the surviving disks are combined mathematically with the data blocks from the surviving disks to reconstruct the data on the failed drive "on-the-fly".
+
+== Deployment ==
+Windows 2000 can be deployed to a site via various methods. It can be installed onto servers via traditional media (such as via CD) or via distribution folders that reside on a shared folder. Installations can be attended or unattended. An attended installation requires the manual intervention of an operator to choose options when installing the operating system. Unattended installations are scripted via an [[answer file]], or predefined script in the form of an [[initialization file|INI file]] that has all the options filled in already. An answer file can be created manually or using the graphical ''Setup manager''. The Winnt.exe or Winnt32.exe program then uses that answer file to automate the installation. Unattended installations can be performed via a bootable CD, using Microsoft [[Systems Management Server]] (SMS) , via the [[Sysprep|System Preparation Tool (Sysprep)]], via running the Winnt32.exe program using the /syspart switch or via running [[Remote Installation Services]] (RIS). The ability to [[Slipstream (computing)|slipstream]] a [[service pack]] into the original operating system setup files is also introduced in Windows 2000. <ref> [http://www.microsoft.com/technet/prodtechnol/windows2000pro/deploy/depopt/easydep.mspx#EKFAC Make deployment easier in Windows 2000] </ref>
+
+The Sysprep method is started on a standardised reference computer  — though the hardware need not be similar  — and it copies the required installation files from the reference computer's hard drive to the target computer's hard drive. The hard drive does not need to be in the target computer and may be swapped out to it at any time, with hardware configuration still needing to be done later. The Winnt.exe program must also be passed a /unattend switch that points to a valid answer file and a /s file to point to the location of one or more valid installation sources.
+
+Sysprep allows the duplication of a [[disk image]] on an existing Windows 2000 Server installation to multiple servers. This means that all applications and system configuration settings will be copied across to the new Windows 2000 installations, but it also means that the reference and target computers must have the same HALs, [[ACPI]] support, and mass storage devices  — though Windows 2000 automatically detects [[Plug and Play]] devices. The primary reason for using Sysprep is for deploying Windows 2000 to a site that has standard hardware and that needs a fast method of installing Windows 2000 to those computers. If a system has different HALs, mass storage devices or ACPI support, then multiple images would need to be maintained.
+
+Systems Management Server can be used to upgrade system to Windows 2000 to multiple systems. Those operating systems that can be upgraded in this process must be running a version of Windows that can be upgraded (Windows NT 3.51, Windows NT 4.0, Windows 98 and Windows 95 OSR2.x) and those versions must be running the SMS client agent that can receive software installation operations. Using SMS allows installations to happen over a wide geographical area and provides centralised control over upgrades to systems.
+
+[[Remote Installation Services]] (RIS) are a means to automatically install Windows 2000 Professional (and not Windows 2000 Server) to a local computer over a network from a central server. Images do not have to support specific hardware configurations and the security settings can be configured after the computer reboots as the service generates a new unique security ID (SID) for the machine. This is required so that local accounts are given the right identifier and do not clash with other Windows 2000 Professional computers on a network.<ref>Mark Minasi. ''Installing Windows 2000 On Workstations with Remote Installation Services''.</ref>
+RIS requires that client computers are able to boot over the network via either a [[network interface card]] that has a [[Pre-Boot Execution Environment]] (PXE) boot [[Read-only memory|ROM]] installed or that it has a network card installed that is supported by the remote [[boot disk]] generator. The [[remote computer]] must also meet the [[Net PC]] specification. The server that RIS runs on must be Windows 2000 Server and the server must be able to access a network [[Domain Name System|DNS]] Service, a [[Dynamic Host Configuration Protocol|DHCP]] service and the Active Directory services.<ref>''Microsoft Press'' (2000). ''MCSE 70-210, Microsoft Windows 2000 Professional'', pages 543-551.</ref>
+
+== Editions ==
+Microsoft released various versions of Windows 2000 to cater to different markets and business needs. It released Windows 2000 Professional, Windows 2000 Server, Windows 2000 Advanced Server and Windows 2000 Datacenter Server. Each edition was packaged separately.
+[[Image:Windows 2000 Professional Box Art.png|125px|thumb|right|Professional edition box]]
+* '''Windows 2000 Professional''' was designed as the desktop operating system for businesses and power users. It is the basic unit of Windows 2000, and the most common. It offers greater security and stability than many of the previous Windows desktop operating systems. It supports up to two [[central processing unit|processors]], and can address up to 4 [[Gigabyte|GB]] of [[Random Access Memory|RAM]]. The system requirements were a Pentium Processor @133&nbsp;MHz or greater, at least 64&nbsp;MB of RAM, 650&nbsp;MB of hard drive space, and a [[CD-ROM]] drive (recommended: [[Pentium II]], 128&nbsp;MB of RAM, 1&nbsp;GB of hard drive space, and CD-ROM drive).
+[[Image:Windows 2000 Server Box Art.png|125px|thumb|right|Server edition box]]
+* '''Windows 2000 Server''' products share the same [[user interface]] with Windows 2000 Professional, but contain additional components for running infrastructure and [[application software]]. A significant component of the server products is [[Active Directory]], which is an enterprise-wide directory service based on [[Lightweight Directory Access Protocol|LDAP]]. Additionally, Microsoft integrated [[Kerberos (protocol)|Kerberos]] network authentication, replacing the often-criticised [[NTLM]] authentication system used in previous versions. This also provided a purely transitive-trust relationship between Windows 2000 [[Windows Server domain|domains]] in a ''forest'' (a collection of one or more Windows 2000 domains that share a common schema, configuration, and global catalogue, being linked with two-way transitive trusts). Furthermore, Windows 2000 introduced a [[Domain Name System|DNS]] server which allows dynamic registration of [[Internet Protocol|IP]] addresses.
+[[Image:Windows 2000 Advanced Server Box Art.png|125px|thumb|right|Advanced Server edition box]]
+* '''Windows 2000 Advanced Server''' is a variant of Windows 2000 Server operating system designed for medium-to-large businesses. It offers [[Computer clustering|clustering]] infrastructure for [[high availability]] and scalability of applications and services, including main memory support of up to 8 gigabytes (GB) on [[Physical Address Extension]] (PAE) systems and the ability to do 8-way [[Symmetric multiprocessing|SMP]]. It has support for [[TCP/IP]] [[load balancing (computing)|load balancing]] and enhanced two-node server clusters based on the [[Microsoft Cluster Server]] (MSCS) in the Windows NT Server 4.0 Enterprise Edition.<ref>''Microsoft''. Windows 200 Resource Kit, Chap. 1, "Introducing Windows 2000 Deployment Planning".</ref> A limited edition [[64-bit]] version of Windows 2000 Advanced Server was made available via the OEM Channel. It also supports failover and load balancing.
+[[Image:Windows 2000 Datacenter Server Box Art.png|125px|thumb|right|Datacenter Server edition box]]
+* '''Windows 2000 Datacenter Server''' is a variant of the Windows 2000 Server that is designed for large businesses that move large quantities of confidential or sensitive data frequently via a central [[Server (computing)|server]]. As with Advanced Server, it supports clustering, [[failover]] and load balancing. Its minimum [[system requirements]] are normal, but it was designed to be capable of handing more advanced hardware - for instance it was capable of supporting computers with up to 32 CPUs and 64 [[gigabyte|GBs]] RAM. A limited edition [[64-bit]] version of Windows 2000 Datacenter Server was made available via the OEM Channel.
+
+== System Requirements ==
+
+'''Windows 2000 Professional''':
+:*133 MHz or higher Pentium-compatible CPU
+:*64 megabytes (MB) of RAM recommended minimum
+:*2 GB hard disk space<ref>
+{{cite web
+| url = http://www.dewassoc.com/support/win2000/require.htm
+| title = Windows 2000 Hardware Requirements
+| accessdate = 2007-09-22}}
+</ref>
+'''Windows 2000 Server''':
+:*133 MHz CPU
+
+:*256 MB of RAM minimum
+
+:*2 GB hard disk space <ref>
+{{cite web
+| url = http://www.dewassoc.com/support/win2000/require.htm
+| title = Windows 2000 Hardware Requirements
+| accessdate = 2007-09-22}}
+</ref>
+
+'''Windows 2000 Advanced Server''':
+:*133 MHz CPU
+
+:*256 MB of RAM recommended minimum 
+
+:*2 GB hard disk space<ref>
+{{cite web
+| url = http://www.dewassoc.com/support/win2000/require.htm
+| title = Windows 2000 Hardware Requirements
+| accessdate = 2007-09-22}}
+</ref>
+
+== Total cost of ownership ==
+{{seealso|Studies related to Microsoft}}
+
+In October 2002, Microsoft commissioned [[International Data Corporation|IDC]] to determine the [[total cost of ownership]] (TCO) for enterprise applications on Windows 2000 versus the TCO of [[Linux]] on the same enterprise applications. IDC looked at security and other infrastructure tasks, and Web Serving. According to the report, Windows 2000 had a lower TCO for four infrastructure items and Linux had a lower TCO for web serving. IDC's report was based on telephone interviews of IT executives and managers of 104 [[North America]]n companies in which they determined what they were using for a specific workload for file, print, security and networking services.
+
+IDC determined that the four areas where Windows 2000 had a better TCO than Linux  — over a period of five years for an average organization of 100 employees  — were in the use of file, print, network infrastructure and security infrastructure. They determined, however, that Linux had a better TCO than Windows 2000 when it came to web serving. The report also found that the greatest cost was not in the procurement of software and hardware, but in staffing costs and downtime. The report did not take into consideration the impact of downtime to the profitability of the business (although they did apply a 40% productivity factor, in order to recognize that employees are not entirely unproductive during periods of IT infrastructure downtime) though it did find that Linux servers had less unplanned downtime than Windows 2000 Servers. They found that most Linux servers ran less workload per server than Windows 2000 servers and also found that none of the businesses they interviewed used 4-way SMP Linux computers. IDC also did not take into account specific [[application server]]s  — servers that need low maintenance and are provided by a specific vendor  — when they performed their study. The report did emphasise that TCO was only one factor in considering whether to use a particular IT platform, and also noted that as management and server software improved and became better packaged the overall picture that was being shown in their report could change.<ref>"[http://www.microsoft.com/windows2000/docs/TCO.pdf Windows 2000 Versus Linux in Enterprise Computing]", ''IDC''.</ref>
+
+== Current status ==
+Windows 2000 has now been superseded by newer Microsoft operating systems. Microsoft replaced Windows 2000 Server products with [[Windows Server 2003]], and Windows 2000 Professional with [[Windows XP|Windows XP Professional]].
+The Windows 2000 family of operating systems moved from mainstream support to the extended support phase on June 30, 2005. Microsoft says that this marks the progression of Windows 2000 through the Microsoft Lifecycle policy. Under the extended support phase, Microsoft continues to provide critical security updates on a monthly basis and pay per incident telephone support. However, free [[technical support]] and design changes are no longer provided. Because of its old age, Microsoft is not offering current components such as [[Internet Explorer 7]] for Windows 2000. They claim that IE 7 is reliant on security features designed only for Windows XP Service Pack 2 and [[Windows Vista]], and is thus non-trivial to port back to the Windows 2000 platform.<ref>{{cite web|url=http://news.com.com/Windows+2000+users+to+miss+out+on+IE+7/2100-1032_3-5729544.html|title=Windows 2000 users to miss out on IE 7|accessdate=2007-01-11|publisher=news.com}}</ref> Microsoft is strongly advising all businesses still running Windows 2000 to consider upgrading their operating system to [[Windows Server 2003]] or [[Windows Vista]] for increased security. All Windows 2000 support including security updates will be terminated on July 13, 2010.<ref name=Support> </ref><ref name=Lifecycle> </ref>
+
+Throughout its life, Windows 2000 has received four full service packs and one rollup update package following SP4, which is the latest service pack for Windows 2000. These were: Service Pack 1 (SP1) on [[August 15]] [[2000]], Service Pack 2 (SP2) on [[May 16]] [[2001]], Service Pack 3 (SP3) on [[August 29]] [[2002]] and its last Service Pack (SP4) on [[June 26]] [[2003]]. Microsoft phased out all development of their [[Java Virtual Machine]] (JVM) from Windows 2000 in Service Pack 3.
+
+Many Windows 2000 users were hoping for a Windows 2000 Service Pack 5, but Microsoft cancelled this project early on in its development, and instead released Update Rollup 1 for Service Pack 4 which is a collection of all the security-related [[hotfix]]es and some other significant issues. The Update Rollup, however, does not include all non-security related hotfixes and is not subjected to the same extensive regression testing as a full service pack. Microsoft states that this update will meet customers needs better than a whole new service pack, and will still help Windows 2000 customers secure their PCs, reduce support costs, and allow their systems to support the current generation of [[computer hardware]].<ref>{{cite web|url=http://www.microsoft.com/windows2000/server/evaluation/news/bulletins/rollup.mspx|title=Windows 2000 Update Rollup 1 for Service Pack 4|accessdate=2006-09-27|publisher=Microsoft}}</ref>
+
+== Security criticisms ==
+A number of potential security issues have been noted in Windows 2000. A common complaint is that "by default, Windows 2000 installations contain numerous potential security problems. Many unneeded services are installed and enabled, and there is no active local security policy".<ref>{{cite web|url=http://www.governmentsecurity.org/articles/Windows2000Security.php|title=governmentsecurity.org}}</ref> In addition to the choice of insecure defaults, according to the [[SANS Institute]], the most common flaws found in the OS are remotely exploitable [[buffer overflow]] vulnerabilities.<ref>{{cite web|url=http://www.sans.org/top20/|title=SANS Institute}}</ref> Other flaws in the operating system that have received criticism include the use of vulnerable encryption techniques.<ref>[http://www.wired.com/news/technology/0,1282,36336,00.html Wired News], May, 16, 2000, "Critics Blast MS Security"</ref>
+
+[[Computer worms]] first came into the public spotlight during the period where Windows 2000 was the dominant server operating system. [[Code Red (computer worm)|Code Red]] and [[Code Red II (computer worm)|Code Red II]] were famous (and highly visible to the worldwide [[news|press]]) worms that exploited vulnerabilities of the [[Windows Indexing Service]] of Windows 2000s [[Internet Information Services]] (IIS). In August 2003, two major worms named the [[Sobig (computer worm)|Sobig worm]] and the [[Blaster (computer worm)|Blaster worm]] began to attack millions of Microsoft Windows computers, resulting in the largest down-time and clean-up cost to that date. The 2005 [[Zotob (computer worm)|Zotob]] worm was blamed for security compromises on Windows 2000 machines at [[Homeland Security]], the [[New York Times]], [[American Broadcasting Company|ABC]] and [[CNN]].<ref>[http://www.wired.com/news/technology/1,70642-0.html Wired News], April 12, 2006, "Border Security System Left Open"</ref>
+
+== See also ==
+* [[Comparison of operating systems]]
+* [[Microsoft Servers]]
+* [[DEC Multia]] - Windows 2000 Beta ran on Alpha-PUs
+
+== Notes and references ==
+;Notes
+{{reflist|2}}
+;References
+* Bolosky, William J.; Corbin, Scott; Goebel, David; & Douceur, John R. "[http://research.microsoft.com/sn/Farsite/WSS2000.pdf Single Instance Storage in Windows 2000]". ''Microsoft Research'' & ''Balder Technology Group, Inc.'' (white paper).
+* Bozman, Jean; Gillen, Al; Kolodgy, Charles; Kusnetzky, Dan; Perry, Randy; & Shiang, David (October 2002). "[http://www.microsoft.com/windows2000/docs/TCO.pdf Windows 2000 Versus Linux in Enterprise Computing: An assessment of business value for selected workloads]". ''IDC'', sponsored by ''Microsoft Corporation''. White paper.
+* Finnel, Lynn (2000). ''MCSE Exam 70-215, Microsoft Windows 2000 Server''. [[Microsoft Press]]. ISBN 1-57231-903-8.
+* ''Microsoft''. [http://www.microsoft.com/resources/documentation/Windows/2000/server/reskit/en-us/Default.asp?url=/resources/documentation/Windows/2000/server/reskit/en-us/prork/pric_run_almc.asp Running Nonnative Applications in Windows 2000 Professional]. Windows 2000 Resource Kit. Retrieved [[May 4]] [[2005]].
+* ''Microsoft''. "[http://www.microsoft.com/resources/documentation/Windows/2000/server/reskit/en-us/Default.asp?url=/resources/documentation/Windows/2000/server/reskit/en-us/distrib/dsbg_dat_brlr.asp Active Directory Data Storage]". Retrieved [[May 9]] [[2005]].
+* Minasi, Mark (1993). ''Installing Windows 2000 of Mastering Windows 2000 Server''. Sybex. Chapter 3  — [http://www.microsoft.com/technet/prodtechnol/windows2000pro/deploy/depopt/ris.mspx Installing Windows 2000 On Workstations with Remote Installation Services].
+* Russinovich, Mark (October 1997). "[http://www.windowsitpro.com/Articles/Index.cfm?ArticleID=299 Inside NT's Object Manager]". ''Windows IT Pro''.
+* Russinovich, Mark (2002). "[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnw2kmag00/html/NTFSPart1.asp Inside Win2K NTFS, Part 1]". ''Windows IT Pro'' (formerly ''Windows 2000 Magazine'').
+* Saville, John ([[January 9]] [[2000]]). "[http://www.windowsitpro.com/Article/ArticleID/13785/13785.html What is Native Structure Storage?]". ''Windows IT Pro'' (formerly ''Windows 2000 Magazine'').
+* Siyan, Kanajit S. (2000). "Windows 2000 Professional Reference". ''New Riders''. ISBN 0-7357-0952-1.
+* Salomon, David; & Russinovich, Mark E. (2000). ''[http://mipagina.cantv.net/jjaguilerap/w2k_arq.html Inside Microsoft Windows 2000]'' (Third Edition). ''Microsoft Press''. ISBN 0-7356-1021-5.
+* Tanenbaum, Andrew S. (2001) , ''Modern Operating Systems'' (2nd Edition) , Prentice-Hall
+* Trott, Bob ([[October 27]] [[1998]]). "[http://www.infoworld.com/cgi-bin/displayStory.pl?981027.wcwin2000.htm It's official: NT 5.0 becomes Windows 2000]". ''InfoWorld''.
+* Wallace, Rick (2000). ''MCSE Exam 70-210, Microsoft Windows 2000 Professional''. Microsoft Press. ISBN 1-57231-901-1.
+</div>
+
+== External links ==
+<!--===========================({{NoMoreLinks}}) ===============================
+    | DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |
+    | LINKS. If you think that your link might be useful, do not add it here, |
+    | but put it on this article's discussion page first or submit your link  |
+    | to the appropriate category at the Open Directory Project (www.dmoz.org)|
+    | and link back to that category using the {{dmoz}} template.             |
+    |                                                                         |
+    |           Links that have not been verified WILL BE DELETED.            |
+    |  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details    |
+    ===========================({{NoMoreLinks}}) ===============================-->
+* [http://www.microsoft.com/windows2000/ Windows 2000 official product page]
+* [http://www.microsoft.com/technet/prodtechnol/windows2000pro/evaluate/default.mspx Windows 2000 Professional feature list]
+* [http://web.archive.org/web/20051209040410/http://www.microsoft.com/windows2000/server/howtobuy/choosing/default.asp Choosing the Right Windows 2000 Operating System]
+* [http://web.archive.org/web/20050825062124/http://www.microsoft.com/windows2000/serverfamily/default.asp Windows 2000 Server Family]
+* [http://www.microsoft.com/technet/prodtechnol/windows2000serv/default.mspx Windows 2000 Server information at Technet]
+* [http://support.microsoft.com/ph/1131 Official support page]
+* [http://www.microsoft.com/windows2000/server/evaluation/news/bulletins/extendedsupport.mspx Windows 2000 Transitions to Extended Support.]
+* [http://www.winsupersite.com/reviews/win2k_gold.asp The Road to Gold: Development of Windows 2000]
+* [http://download.microsoft.com/download/e/6/a/e6a04295-d2a8-40d0-a0c5-241bfecd095e/W2KSP4_EN.EXE Windows 2000 Service Pack 4]
+* [http://download.microsoft.com/download/2/7/b/27b1d1a3-0299-4336-b88a-22b9f09817e2/Windows2000-KB891861-v2-x86-ENU.EXE Windows 2000 Update Rollup 1 Version 2]
+
+{{History of Windows}}
+
+{{featured article}}
+
+[[Category:2000 software]]
+[[Category:Discontinued versions of Microsoft Windows]]
+[[Category:Windows NT]]
+[[Category:Windows Server]]
+[[Category:Microsoft Windows]]
+
+
+[[az:Windows 2000]]
+[[ca:Windows 2000]]
+[[cs:Windows 2000]]
+[[da:Windows 2000]]
+[[de:Microsoft Windows 2000]]
+[[es:Windows 2000]]
+[[fa:مایکروسافت ویندوز ۲۰۰۰]]
+[[fr:Microsoft Windows 2000]]
+[[gl:Windows 2000]]
+[[ko:윈도 2000]]
+[[id:Windows 2000]]
+[[it:Windows 2000]]
+[[ku:Windows 2000]]
+[[lt:Windows 2000]]
+[[hu:Microsoft Windows 2000]]
+[[nl:Windows 2000]]
+[[ja:Microsoft Windows 2000]]
+[[no:Windows 2000]]
+[[uz:Windows 2000]]
+[[pl:Microsoft Windows 2000]]
+[[pt:Windows 2000]]
+[[ru:Windows 2000]]
+[[simple:Windows 2000]]
+[[sr:Windows 2000]]
+[[fi:Windows 2000]]
+[[sv:Windows 2000]]
+[[ta:வின்டோஸ் 2000]]
+[[th:วินโดวส์ 2000]]
+[[vi:Windows 2000]]
+[[tr:Windows 2000]]
+[[yi:ווינדאוס 2000]]
+[[zh:Windows 2000]]

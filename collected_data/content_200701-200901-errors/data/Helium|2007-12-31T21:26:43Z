@@ -1,0 +1,294 @@
+:''For other uses of this term, see [[Helium (disambiguation)]].''
+{{Infobox helium}}
+
+'''Helium''' ('''He''') is a colorless, odorless, tasteless, non-toxic, [[inert]] [[monatomic]] [[chemical element]] that heads the [[noble gas]] series in the [[periodic table]] and whose  [[atomic number]] is 2. Its [[boiling point|boiling]] and [[melting point|melting]] points are the lowest among the elements and it exists only as a [[gas]] except in extreme conditions. Extreme conditions are also needed to create the small handful of helium [[compound (chemistry)|compound]]s, which are all unstable at [[standard temperature and pressure]]. It has a second, rare, [[stable isotope]] which is called [[helium-3]].  The behavior of liquid [[helium-4]]'s two fluid phases, helium I and helium II, is important to researchers studying [[quantum mechanics]] (in particular the phenomenon of [[superfluidity]]) and to those looking at the effects that temperatures near [[absolute zero]] have on [[matter]] (such as [[superconductivity]]).
+
+Helium is the second most [[chemical abundance|abundant]] and second lightest element in the universe, and is one of the elements believed to have been created in the [[Big Bang]]. In the modern universe almost all new helium is created as a result of the [[nuclear fusion]] of hydrogen in [[star]]s. On [[Earth]] it is created by the [[radioactive decay]] of much heavier elements ([[alpha particle]]s are helium nuclei). After its creation, part of it is trapped with [[natural gas]] in concentrations up to 7% by volume.  It is extracted from the natural gas by a low temperature separation process called [[fractional distillation]].
+
+In 1868 the French astronomer [[Pierre Janssen]] [[discovery of the chemical elements|first detected]] helium as an unknown yellow  [[spectroscopy|spectral line]] signature in light from a [[solar eclipse]]. Since then large reserves of helium have been found in the [[natural gas field]]s of the United States, which is by far the largest supplier of the gas. It is used in [[cryogenics]], in deep-sea breathing systems, to cool [[superconducting magnet]]s, in [[helium dating]], for inflating balloons, for providing lift in [[airship]]s and as a protective gas for many industrial uses (such as  [[arc welding]] and growing [[silicon]] wafers).
+
+==Notable characteristics==
+===Gas and plasma phases===
+Helium is the least reactive member of the [[noble gas]] elements, and thus also the least reactive of all elements; it is [[inert]] and [[monatomic]] in virtually all conditions. Due to helium's relatively low molar (molecular) mass, in the gas phase it has a [[thermal conductivity]], [[specific heat]], and [[Speed of sound|sound conduction velocity]] that are all greater than any gas, except [[hydrogen]]. For similar reasons, and also due to the small size of its molecules, helium's [[diffusion]] rate through [[solid]]s is three times that of air and around 65% that of hydrogen.<ref name="Encyc 261">''The Encyclopedia of the Chemical Elements'', edited by Cifford A. Hampel, "Helium" entry by L. W. Brandt (New York; Reinhold Book Corporation; 1968; page 261) Library of Congress Catalog Card Number: 68-29938</ref>
+
+Helium is less water [[solubility|soluble]] than any other gas known{{Fact|date=November 2007}}, and helium's [[index of refraction]] is closer to unity than that of any other gas{{Fact|date=November 2007}}. Helium has a negative [[Joule-Thomson coefficient]] at normal ambient temperatures, meaning it heats up when allowed to freely expand. Only below its [[Joule-Thomson inversion temperature]] (of about 40 [[Kelvin|K]] at 1 atmosphere) does it cool upon free expansion. Once precooled below this temperature, helium can be liquefied through expansion cooling.
+[[Image:HeTube.jpg|thumb|left|Helium discharge tube shaped like the element's atomic symbol]]
+
+Throughout the universe, helium is found mostly in a [[Plasma (physics)|plasma]] state whose properties are quite different from atomic helium. In a plasma, helium's electrons and protons are not bound together, resulting in very high electrical conductivity, even when the gas is only partially ionized. The charged particles are highly influenced by magnetic and electric fields. For example, in the [[solar wind]] together with ionized hydrogen, they interact with the Earth's [[magnetosphere]] giving rise to [[Birkeland current]]s and the [[Aurora (phenomenon)|aurora]].
+
+===Solid and liquid phases===
+{{Main article|Liquid helium}}
+Helium solidifies only under great pressure. The resulting colorless, almost invisible [[solid]] is highly [[Compressibility|compressible]]; applying pressure in a laboratory can decrease its volume by more than 30%.<ref name="LANL.gov">Los Alamos National Laboratory (LANL.gov): Periodic Table, "[http://periodic.lanl.gov/elements/2.html Helium]" (viewed [[10 October]] [[2002]] and [[25 March]] [[2005]])</ref> With a [[bulk modulus]] on the order of 5×10<sup>7</sup> [[Pascal (unit)|Pa]]<ref>{{cite journal | author = C. Malinowska-Adamska, P. Soma, J. Tomaszewski | title = Dynamic and thermodynamic properties of solid helium in the reduced all-neighbours approximation of the self-consistent phonon theory | journal = physica status solidi (b) | volume = 240 | issue = 1 | pages = 55-67 | doi = 10.1002/pssb.200301871}}</ref> it is 50 times more compressible than water. Unlike any other element, helium will fail to solidify and remain a liquid down to [[absolute zero]] at normal pressures. This is a direct effect of quantum mechanics: specifically, the [[zero point energy]] of the system is too high to allow freezing. Solid helium requires a temperature of 1&ndash;1.5&nbsp;K (about &minus;272&nbsp;°C or &minus;457&nbsp;°F) and about 25&nbsp;bar (2.5&nbsp;MPa) of pressure.<ref>''[http://www.phys.ualberta.ca/~therman/lowtemp/projects1.htm Solid Helium]'', [http://www.phys.ualberta.ca/ Dept. of Physics,] at the University of Alberta</ref> It is often hard to distinguish solid from liquid helium since the [[refractive index]] of the two phases are nearly the same. The solid has a sharp [[melting point]] and has a [[crystal]]line structure.
+
+Solid helium has a density of 0.214 &nbsp;±0.006&nbsp;g/ml (1.15&nbsp;K, 66&nbsp;atm) with a mean isothermal compressibility of the solid at 1.15&nbsp;K between the solidus and 66&nbsp;atm of 0.0031&nbsp;±0.0008/atm. Also, no difference in density was noted between 1.8&nbsp;K and 1.5&nbsp;K. This data projects that ''T''=0 solid helium under 25&nbsp;bar of pressure (the minimum required to freeze helium) has a density of 0.187&nbsp;±0.009&nbsp;g/ml.<ref>''Structure of Solid Helium by Neutron Diffraction'', D. G. Henshaw, Physical Review Letters '''109''', Pg.&nbsp;328 – 330 (Issue 2 – January 1958)</ref>
+
+====Helium I state====
+Below its [[boiling point]] of 4.22 [[kelvin]] and above the [[lambda point]] of 2.1768 kelvin, the [[isotope]] helium-4 exists in a normal colorless [[liquid]] state, called ''helium I''. Like other [[cryogenic]] liquids, helium I boils when it is heated. It also contracts when its temperature is lowered until it reaches the [[lambda point]], when it stops boiling and suddenly expands. The rate of expansion decreases below the lambda point until about 1&nbsp;K is reached; at which point expansion completely stops and helium I starts to contract again.
+
+Helium I has a gas-like [[index of refraction]] of 1.026 which makes its surface so hard to see that floats of [[styrofoam]] are often used to show where the surface is.<ref name="Encyc Chem Elem">''The Encyclopedia of the Chemical Elements'', page 262</ref> This colorless liquid has a very low [[viscosity]] and a [[density]] one-eighth that of water, which is only one-fourth the value expected from [[classical physics]].<ref name="Encyc Chem Elem"/> [[Quantum mechanics]] is needed to explain this property and thus both types of liquid helium are called ''quantum fluids'', meaning they display atomic properties on a macroscopic scale. This is probably due to its boiling point being so close to absolute zero, which prevents random molecular motion ([[heat]]) from masking the atomic properties.<ref name="Encyc Chem Elem"/>
+
+====Helium II state====
+Liquid helium below its lambda point begins to exhibit very unusual characteristics, in a state called ''helium II''. Boiling of helium II is not possible due to its high [[thermal conductivity]]; heat input instead causes [[evaporation]] of the liquid directly to gas.  The isotope helium-3 also has a [[superfluid]] phase, but only at much lower temperatures; as a result, less is known about such properties in the isotope helium-3.
+[[Image:helium-II-creep.svg|thumb|right|200px|Helium II will "creep" along surfaces in order to find its own level; after a short while, the levels in the two containers will equalize. The [[Rollin film]] also covers the interior of the larger container; if it were not sealed, the helium II would creep out and escape.]]
+
+Helium II is a [[superfluid]], a quantum-mechanical state of matter with strange properties. For example, when it flows through even capillaries of 10<sup>−7</sup> to 10<sup>−8</sup> m width it has no measurable [[viscosity]]. However, when measurements were done between two moving discs, a viscosity comparable to that of gaseous helium was observed. Current theory explains this using the ''two-fluid model'' for helium II. In this model, liquid helium below the lambda point is viewed as containing a proportion of helium atoms in a [[ground state]], which are superfluid and flow with exactly zero viscosity, and a proportion of helium atoms in an excited state, which behave more like an ordinary fluid.<ref>Yuan, Sidney. [http://www.yutopian.com/Yuan/TFM.html The Two Fluid Model of Superfluid Helium (He II, Superfluidity).] Yutiopian.com. Retrieved on 5 January 2007.</ref>
+
+Helium II also exhibits a "creeping" effect. When a surface extends past the level of helium II, the helium II moves along the surface, seemingly against the force of [[gravity]]. Helium II will escape from a vessel that is not sealed by creeping along the sides until it reaches a warmer region where it evaporates. It moves in a 30&nbsp;[[nanometre|nm]]-thick film regardless of surface material. This film is called a [[Rollin film]] and is named after the man who first characterized this trait, Bernard V. Rollin.<ref name="Encyc 263">''The Encyclopedia of the Chemical Elements'', page 263</ref><ref>{{cite journal |authors=Fairbank H.A.; Lane C.T. | doi = 10.1103/PhysRev.76.1209  |title=Rollin Film Rates in Liquid Helium |journal=Physical Review |volume=76 |issue=8 |year=1949 |month=October |pages=1209–1211 |date=October 1949}}</ref> As a result of this creeping behavior and helium&nbsp;II's ability to leak rapidly through tiny openings, it is very difficult to confine liquid helium. Unless the container is carefully constructed, the helium&nbsp;II will creep along the surfaces and through valves until it reaches somewhere warmer, where it will evaporate.  Waves propagating across a Rollin film are governed by the same equation as [[gravity wave]]s in shallow water, but rather than gravity, the restoring force is the [[Van der Waals force]].<ref>Ellis, Fred M. [http://fellis.web.wesleyan.edu/research/thrdsnd.html Third sounds]. Wesleyan Quantum Fluids Laboratory.  Retrieved on [[2007-11-08]].</ref>  These waves are known as ''third sound''.
+
+In the ''fountain effect'', a chamber is constructed which is connected to a reservoir of helium&nbsp;II by a [[sintered]] disc through which superfluid helium leaks easily but through which non-superfluid helium cannot pass. If the interior of the container is heated, the superfluid helium changes to non-superfluid helium. In order to maintain the equilibrium fraction of superfluid helium, superfluid helium leaks through and increases the pressure, causing liquid to fountain out of the container.<ref>{{cite web |author=Warner, Brent|url=http://cryowwwebber.gsfc.nasa.gov/introduction/liquid_helium.html |title=Introduction to Liquid Helium |publisher=NASA|accessdate=2007-01-05 |archiveurl=http://web.archive.org/web/20050901062951/http://cryowwwebber.gsfc.nasa.gov/introduction/liquid_helium.html |archivedate=2005-09-01}}</ref>
+
+The thermal conductivity of helium II is greater than that of any other known substance, a million times that of helium I and several hundred times that of [[copper]]. This is because heat conduction occurs by an exceptional quantum-mechanical mechanism. Most materials that conduct heat well have a [[valence band]] of free electrons which serve to transfer the heat. Helium II has no such valence band but nevertheless conducts heat well. The [[heat transfer|flow of heat]] is governed by equations that are similar to the [[wave equation]] used to characterize sound propagation in air. So when heat is introduced, it will move at 20&nbsp;meters per second at 1.8&nbsp;K through helium&nbsp;II as waves in a phenomenon called ''[[second sound]]''.<ref name="Encyc 263"/>
+
+==Applications==
+[[Image:Goodyear-blimp.jpg|thumb|right|Because of its low density and incombustibility, helium is the gas of choice to fill [[airship]]s such as the [[Goodyear blimp]], as opposed to [[Hydrogen]]]]
+
+Helium is used for many purposes that require some of its unique properties, such as its low [[boiling point]], low [[density]], low [[solubility]], high [[thermal conductivity]], or [[inert]]ness. Helium is commercially available in either liquid or gaseous form. As a liquid, it can be supplied in small containers called dewars which hold up to 1,000 liters of helium, or in large ISO containers which have nominal capacities as large as 11,000 gallons (41,637 liters). In gaseous form, small quantities of helium are supplied in high pressure cylinders holding up to 300 standard cubic feet, while large quantities of high pressure gas are supplied in tube trailers which have capacities of up to 180,000 standard cubic feet.
+
+*Because it is [[lighter than air]], [[airship]]s and [[balloon]]s are inflated with helium for lift. In airships, helium is preferred over hydrogen because it is not flammable and has 92.64% of the [[buoyancy]] (or lifting power) of the alternative [[hydrogen]] (see [[Lighter than air#Hydrogen and helium|calculation]].)
+
+*For its low solubility in water, the major part of human [[blood]], air mixtures of helium with [[oxygen]] and [[nitrogen]] (''[[Trimix]]''), with oxygen only (''[[Heliox]]''), with common air (''[[heliair]]''), and with [[hydrogen]] and oxygen (''[[hydreliox]]''), are used in deep-sea breathing systems to reduce the high-pressure risk of [[nitrogen narcosis]], [[decompression sickness]], and [[oxygen toxicity]].
+
+*At extremely low temperatures, liquid helium is used to cool certain metals to produce [[superconductivity]], such as in [[superconducting magnet]]s used in [[magnetic resonance imaging]]. Helium at low temperatures is also used in [[cryogenics]].
+
+*For its inertness and high [[thermal conductivity]], [[neutron]] transparency, and because it does not form radioactive isotopes under reactor conditions, helium is used as a coolant in some [[nuclear reactors]], such as [[pebble-bed reactor]]s.
+
+*Helium is used as a [[shielding gas]] in [[arc welding]] processes on materials that are contaminated easily by air. It is especially useful in [[overhead welding]], because it is lighter than air and thus floats, whereas other shielding gases sink.
+
+*Because it is inert, helium is used as a protective gas in growing [[silicon]] and [[germanium]] crystals, in [[titanium]] and [[zirconium]] production, in [[gas chromatography]], and as an atmosphere for protecting historical documents. This property also makes it useful in supersonic [[wind tunnel]]s.
+
+*In [[rocketry]], helium is used as an [[ullage motor|ullage]] medium to displace fuel and oxidizers in storage tanks and to condense [[hydrogen]] and [[oxygen]] to make [[rocket fuel]]. It is also used to purge fuel and oxidizer from ground support equipment prior to launch and to pre-cool liquid hydrogen in [[space vehicle]]s. For example, the [[Saturn V]] booster used in the [[Apollo program]] needed about 13 million cubic feet (370,000 m³) of helium to launch.<ref name="LANL.gov"/>
+
+*The [[gain medium]] of the [[helium-neon laser]] is a mixture of helium and [[neon]].
+
+*Because it [[diffusion|diffuses]] through solids at a rate three times that of air, helium is used as a tracer gas to detect leaks in high-vacuum equipment and high-pressure containers, as well as in other applications with less stringent requirements such as heat exchangers, valves, gas panels, etc.
+
+*Because of its extremely low [[index of refraction]], the use of helium reduces the distorting effects of temperature variations in the space between [[lens (optics)|lens]]es in some [[telescope]]s.
+
+*The age of [[rock (geology)|rocks]] and [[mineral]]s that contain [[uranium]] and [[thorium]], [[radioactive]] elements that emit helium nuclei called [[alpha particle]]s, can be discovered by measuring the level of helium with a process known as [[helium dating]].
+
+*The high thermal conductivity and sound velocity of helium is also desirable in [[thermoacoustic refrigeration]]. The inertness of helium adds to the environmental advantage of this technology over conventional refrigeration systems which may contribute to ozone depleting and global warming effects.
+
+*Because helium alone is less dense than atmospheric air, it will change the [[timbre]] (not [[Pitch (music)|pitch]]<ref name="Wolfe">[http://www.phys.unsw.edu.au/PHYSICS_!/SPEECH_HELIUM/speech.html Physics in speech], phys.unsw.edu.au. Retrieved on [[5 January]] [[2007]]. </ref>) of a person's voice when inhaled. However, inhaling it from a typical commercial source, such as that used to fill balloons, can be dangerous due to the risk of [[asphyxiation]] from lack of oxygen, and the number of contaminants that may be present. These could include trace amounts of other gases, in addition to aerosolized lubricating oil.
+
+==History==
+===Scientific discoveries===
+Evidence of helium was first detected on [[August 18]], [[1868]] as a bright yellow line with a [[wavelength]] of 587.49 nanometres in the [[Emission spectrum|spectrum]] of the [[chromosphere]] of the [[Sun]], by French astronomer [[Pierre Janssen]] during a total [[solar eclipse]] in [[Guntur]], [[India]]. This line was initially assumed to be [[sodium]]. On October 20 of the same year, English astronomer [[Norman Lockyer]] observed a yellow line in the solar spectrum, which he named the D<sub>3</sub> [[Fraunhofer lines|line]], for it was near the known D<sub>1</sub> and D<sub>2</sub> lines of sodium,<ref>''The Encyclopedia of the Chemical Elements'', page 256</ref> and concluded that it was caused by an element in the Sun unknown on Earth. He and English chemist [[Edward Frankland]] named the element with the Greek word for the Sun, ἥλιος (''helios'')<ref>''Oxford English Dictionary'' (1989), s.v. "helium". Retrieved on December 16, 2006, from Oxford English Dictionary Online. Also, from quotation there: Thomson, W. (1872). ''Rep. Brit. Assoc.'' xcix: "Frankland and Lockyer find the yellow prominences to give a very decided bright line not far from D, but hitherto not identified with any terrestrial flame. It seems to indicate a new substance, which they propose to call Helium."</ref>
+
+On [[26 March]] [[1895]] British chemist [[William Ramsay]] isolated helium on Earth by treating the mineral [[cleveite]] with mineral [[acid]]s. Ramsay was looking for [[argon]] but, after separating [[nitrogen]] and [[oxygen]] from the gas liberated by [[sulfuric acid]], noticed a bright-yellow line that matched the D<sub>3</sub> line observed in the spectrum of the Sun.<ref name="Encyc 257">''The Encyclopedia of the Chemical Elements'', page 257</ref><ref>{{cite journal | title = On a Gas Showing the Spectrum of Helium, the Reputed Cause of D3 , One of the Lines in the Coronal Spectrum. Preliminary Note | author = [[William Ramsay]] | journal = Proceedings of the Royal Society of London  | volume = 58 | issue =  | pages = 65-67 | year = 1895}}</ref><ref>{{cite journal  | title = Helium, a Gaseous Constituent of Certain Minerals. Part I | author = [[William Ramsay]] | journal = Proceedings of the Royal Society of London  | volume = 58 | pages = 80-89 | year = 1895}}</ref><ref>{{cite journal  | title = Helium, a Gaseous Constituent of Certain Minerals. Part II-- | author = [[William Ramsay]] | journal = Proceedings of the Royal Society of London  | volume = 59 | issue =  | pages = 325-330 | year = 1895}}</ref><ref name="Encyc 257"/> These samples were identified as helium by Lockyer and British physicist [[William Crookes]]. It was independently isolated from cleveite the same year by chemists [[Per Teodor Cleve]] and [[Abraham Langlet]] in [[Uppsala, Sweden]], who collected enough of the gas to accurately determine its [[atomic mass|atomic weight]].<ref name="Nature's 177">Emsley, ''Nature's Building Blocks'', 177</ref> Helium was also isolated by the American geochemist William Francis Hillebrand prior to Ramsay's discovery when he noticed unusual spectral lines while testing a sample of the mineral uraninite. Hillebrand, however, attributed the lines to nitrogen. His letter of congratulations to Ramsay offers an interesting case of discovery and near-discovery in science.<ref> [[Pat Munday]] (1999). Biographical entry for W.F. Hillebrand (1853–1925), geochemist and US Bureau of Standards administrator in [http://www.anb.org/ American National Biography], ed. John A. Garraty and Mark C. Carnes, 24 vols. (Oxford University Press: 1999): v. 10, pp. 808–9; v. 11, pp. 227-8. </ref>
+
+In 1907, [[Ernest Rutherford]] and [[Thomas Royds]] demonstrated that an [[alpha particle]] is a helium [[atomic nucleus|nucleus]]. In 1908, helium was first liquefied by Dutch physicist [[Heike Kamerlingh Onnes]] by cooling the gas to less than one [[kelvin]]. He tried to solidify it by further reducing the temperature but failed because helium does not have a [[triple point]] temperature where the solid, liquid, and gas phases are at equilibrium. It was first solidified in 1926 by his student [[Willem Hendrik Keesom]] by subjecting helium to 25 [[atmosphere (unit)|atmospheres]] of pressure.
+
+In 1938, Russian physicist [[Pyotr Leonidovich Kapitsa]] discovered that [[helium-4]] has almost no [[viscosity]] at temperatures near [[absolute zero]], a phenomenon now called [[superfluidity]]. In 1972, the same phenomenon was observed in helium-3 by American physicists [[Douglas D. Osheroff]], [[David M. Lee]], and [[Robert C. Richardson]].
+
+===History of extraction and use===
+After an oil drilling operation in 1903 in [[Dexter, Kansas|Dexter]], [[Kansas]], [[United States|U.S.]] produced a gas geyser that would not burn, Kansas state geologist [[Erasmus Haworth]] collected samples of the escaping gas and took them back to the University of Kansas at Lawrence where, with the help of chemists [[Hamilton Cady]] and [[David McFarland]], he discovered that the gas contained, by volume, 72% nitrogen, 15% methane—insufficient to make the gas combustible, 1% hydrogen, and 12% of an unidentifiable gas.<ref name="Emsley 179">Emsley, ''Nature's Building Blocks'', 179</ref> With further analysis, Cady and McFarland discovered that 1.84% of the gas sample was helium.<ref>{{cite web|author=[[American Chemical Society]]|date=2004|url=http://acswebcontent.acs.org/landmarks/landmarks/helium/helium.html|title=The Discovery of Helium in Natural Gas|accessdate=2006-05-17}}</ref> Far from being a rare element, helium was present in vast quantities under the American Great Plains, available for extraction from natural gas.
+
+This put the [[United States]] in an excellent position to become the world's leading supplier of helium. Following a suggestion by Sir [[Richard Threlfall]], the [[United States Navy]] sponsored three small experimental helium production plants during [[World War I]]. The goal was to supply [[barrage balloon]]s with the non-flammable lifting gas. A  total of 200,000 cubic feet (5700 m³) of 92% helium was produced in the program even though only a few cubic feet (less than 100 liters) of the gas had previously been obtained.<ref name="Encyc 257"/> Some of this gas was used in the world's first helium-filled [[airship]], the U.S. Navy's C-7, which flew its maiden voyage from [[Hampton Roads, Virginia|Hampton Roads]], [[Virginia]] to [[Bolling Field]] in [[Washington, D.C.]] on [[1 December]] [[1921]].<ref>{{cite book |editor=Eugene M. Emme, comp. |title=Aeronautics and Astronautics: An American Chronology of Science and Technology in the Exploration of Space, 1915-1960 |year=1961 |pages=11–19 |chapter=Aeronautics and Astronautics Chronology, 1920-1924 |chapterurl=http://www.hq.nasa.gov/office/pao/History/Timeline/1920-24.html |publisher=[[NASA]] |location=Washington, DC |accessdate=2007-01-05 }}</ref>
+
+Although the extraction process, using low-temperature gas liquefaction, was not developed in time to be significant during World War I, production continued. Helium was primarily used as a lifting gas in lighter-than-air craft. This use increased demand during World War II, as well as demands for shielded arc [[welding]]. Helium was also vital in the atomic bomb [[Manhattan Project]].
+
+The [[government of the United States]] set up the [[National Helium Reserve]] in 1925 at [[Amarillo, Texas|Amarillo]], [[Texas]] with the goal of supplying military [[airship]]s in time of [[war]] and commercial airships in peacetime. Due to a US military embargo against Germany that restricted helium supplies, the [[LZ 129 Hindenburg|Hindenburg]] was forced to use [[hydrogen]] as the lift gas. Helium use following [[World War II]] was depressed but the reserve was expanded in the 1950s to ensure a supply of liquid helium as a coolant to create oxygen/hydrogen [[rocket fuel]] (among other uses) during the [[Space Race]] and [[Cold War]]. Helium use in the United States in 1965 was more than eight times the peak wartime consumption.
+
+After the "Helium Acts Amendments of 1960" (Public Law 86–777), the [[United States Bureau of Mines|U.S. Bureau of Mines]] arranged for five private plants to recover helium from natural gas. For this ''helium conservation'' program, the Bureau built a 425-mile (684&nbsp;km) pipeline from [[Bushton, Kansas|Bushton]], [[Kansas]] to connect those plants with the government's partially depleted Cliffside gas field, near [[Amarillo, Texas|Amarillo]], [[Texas]]. This helium-nitrogen mixture was injected and stored in the Cliffside gas field until needed, when it then was further purified.
+
+By 1995, a billion cubic metres of the gas had been collected and the reserve was US$1.4 billion in debt, prompting the [[Congress of the United States]] in 1996 to phase out the reserve.<ref name="Emsley 179"/><ref>''Guide to the Elements: Revised Edition'', by Albert Stwertka (New York; Oxford University Press; 1998; page 24) ISBN 0-19-512708-0</ref> The resulting "Helium Privatization Act of 1996"<ref>{{cite web |title=Helium Privatization Act of 1996|url=http://www7.nationalacademies.org/ocga/Laws/PL104_273.asp|accessdate=2007-01-05}}</ref> (Public Law 104–273) directed the [[United States Department of the Interior]] to start liquidating the reserve by 2005.<ref>[http://www.nap.edu/openbook/0309070384/html/index.html Executive Summary], nap.edu. Retrieved on [[5 January]] [[2007]].</ref>
+
+Helium produced before 1945 was about 98% pure (2% [[nitrogen]]), which was adequate for airships. In 1945 a small amount of 99.9% helium was produced for welding use. By 1949 commercial quantities of Grade A 99.995% helium were available.
+
+For many years the United States produced over 90% of commercially usable helium in the world. Extraction plants created in [[Canada]], [[Poland]], [[Russia]], and other nations produced the remaining helium. In the mid 1990s, A new plant in Arzew, Algeria producing 600mmcf came on stream, with enough production to cover all of Europe's demand. Subsequently, in 2004–2006 two additional plants, one in Ras Laffen, Qatar and the other in Skikda, Algeria were built, but as of early 2007, Ras Laffen is functioning at 50%, and Skikda has yet to start up. Algeria quickly became the second leading producer of helium. Through this time, both helium consumption and the costs of producing helium increased and during 2007 the major suppliers, Air Liquide, Airgas and Praxair all raised prices from 10 to 30%.
+
+==Occurrence and production==
+===Natural abundance===
+Helium is the second most abundant element in the known Universe after [[hydrogen]] and constitutes 23% of the elemental [[mass]] of the universe. It is concentrated in stars, where it is formed from [[hydrogen]] by the [[nuclear fusion]] of the [[proton-proton chain reaction]] and [[CNO cycle]]. According to the [[Big Bang]] model of the early development of the universe, the vast majority of helium was formed during [[Big Bang nucleosynthesis]], from one to three minutes after the Big Bang. As such, measurements of its abundance contribute to cosmological models.
+
+In the [[Earth's atmosphere]], the concentration of helium by volume is only 5.2 parts per million.<ref>{{cite web |url=http://www.srh.weather.gov/jetstream/atmos/atmos_intro.htm |title=The Atmosphere: Introduction |work=JetStream - Online School for Weather |publisher=[[National Weather Service]] }}</ref> The concentration is low and fairly constant despite the continuous production of new helium because most helium in the Earth's atmosphere [[atmospheric escape|escapes]] into space by several processes.<ref>{{cite journal |author=Lie-Svendsen, Ø.; Rees, M. H. |year=1996 |title=Helium escape from the terrestrial atmosphere: The ion outflow mechanism |journal=[[Journal of Geophysical Research]] |volume=101 |issue=A2 |pages=2435–2444 |doi=10.1029/95JA02208}}</ref><ref>{{cite web|url=http://www.astronomynotes.com/solarsys/s3.htm|chapter=Atmospheres|title=Nick Strobel's Astronomy Notes|year=2007|accessdate=2007-09-25|last=Strobel|first=Nick}}</ref>
+In the Earth's [[heterosphere]], a part of the upper atmosphere, helium and other lighter gases are the most abundant elements.
+
+Nearly all helium on Earth is a result of [[radioactive decay]]. The [[decay product]] is primarily found in minerals of [[uranium]] and [[thorium]], including [[cleveite]]s, [[pitchblende]], [[carnotite]], [[monazite]] and [[beryl]], because they emit [[alpha particle]]s, which consist of helium nuclei (He<sup>2+</sup>) to which electrons readily combine. In this way an estimated 3.4 litres of helium per year are generated per cubic kilometer of the Earth's crust. In the Earth's crust, the concentration of helium is 8 parts per billion. In seawater, the concentration is only 4 parts per trillion. There are also small amounts in mineral [[spring (hydrosphere)|springs]], [[volcano|volcanic]] gas, and meteoric iron. The greatest concentrations on the planet are in [[natural gas]], from which most commercial helium is derived.
+
+===Modern extraction===
+
+For large-scale use, helium is extracted by [[fractional distillation]] from [[natural gas]], which contains up to 7% helium.<ref>[http://www.webelements.com/webelements/elements/text/He/key.html WebElements Periodic Table: Professional Edition: Helium: key information]</ref> Since helium has a lower boiling point than any other element, low temperature and high pressure are used to liquefy nearly all the other gases (mostly [[nitrogen]] and [[methane]]). The resulting crude helium gas is purified by successive exposures to lowering temperatures, in which almost all of the remaining nitrogen and other gases are precipitated out of the gaseous mixture. [[Activated charcoal]] is used as a final purification step, usually resulting in 99.995% pure, Grade-A, helium.<ref>''The Encyclopedia of the Chemical Elements'', page 258</ref> The principal impurity in Grade-A helium is [[neon]]. In a final production step, most of the helium that is produced is liquefied via a [[cryogenic]] process.  This is necessary for  applications requiring liquid helium and also allows helium suppliers to reduce the cost of long distance transportation, as the largest liquid helium containers have more than five times the capacity of the largest gaseous helium tube trailers.
+
+
+In 2005, approximately one hundred and sixty million cubic meters of helium were extracted from natural gas or withdrawn from helium reserves, with approximately 83% from the United States, 11% from Algeria, and most of the remainder from Russia and Poland. In the United States, most helium is extracted from natural gas in Kansas and Texas.
+
+Diffusion of crude natural gas through special [[semipermeable membrane]]s and other barriers is another method to recover and purify helium. Helium can be synthesized by bombardment of [[lithium]] or [[boron]] with high-velocity [[proton]]s, but this is not an economically viable method of production.
+
+==Isotopes==
+{{Main article|Isotopes of helium}}
+Although there are eight known [[isotope]]s of helium, only [[helium-3]] and [[helium-4]] are [[stable isotope|stable]]. In the Earth's atmosphere, there is one He-3 atom for every million He-4 atoms.<ref name="Nature's 178">Emsley, John. ''Nature's Building Blocks: An A-Z Guide to the Elements''. Oxford: Oxford University Press, 2001. Page 178. ISBN 0-19-850340-7</ref> However, helium is unusual in that its isotopic abundance varies greatly depending on its origin. In the [[interstellar medium]], the proportion of He-3 is around a hundred times higher.<ref>{{cite journal | title=Isotopic Composition and Abundance of Interstellar Neutral Helium Based on Direct Measurements |authors=Zastenker G.N.; Salerno E.; Buehler F.; Bochsler P.; Bassi M.; Agafonov Y.N.; Eismont N.A.; Khrapchenkov V.V.; Busemann H.|journal=Astrophysics|volume=45|issue=2|date=April 2002|pages=131–142|url=http://www.ingentaconnect.com/content/klu/asys/2002/00000045/00000002/00378626|accessdate=2007-01-05 }}</ref> Rocks from the Earth's crust have isotope ratios varying by as much as a factor of ten; this is used in [[geology]] to study the origin of such rocks.
+
+The most common isotope, helium-4, is produced on Earth by [[alpha decay]] of heavier radioactive elements; the [[alpha particle]]s that emerge are fully ionized helium-4 nuclei. Helium-4 is an unusually stable nucleus because its [[nucleon]]s are arranged into [[shell model|complete shells]]. It was also formed in enormous quantities during [[Big Bang nucleosynthesis]].
+
+[[Evaporative cooling]] of liquid helium-4, in a so-called [[1-K pot]], cools the liquid to about 1&nbsp;[[kelvin]].  In a [[helium-3 refrigerator]], similar cooling of helium-3, which has a lower boiling point, reaches a temperature of about 0.2&nbsp;kelvin.  Equal mixtures of liquid helium-3 and helium-4 below 0.8&nbsp;K will separate into two immiscible phases due to their dissimilarity (they follow different [[quantum statistics]]: helium-4 atoms are [[boson]]s while helium-3 atoms are [[fermion]]s).<ref>''The Encyclopedia of the Chemical Elements'', page 264</ref> [[Dilution refrigerator]]s take advantage of the immiscibility of these two isotopes to achieve temperatures of a few millikelvins. There is only a trace amount of helium-3 on Earth, primarily present since the formation of the Earth, although some falls to Earth trapped in cosmic dust.<ref name="heliumfundamentals">http://www.mantleplumes.org/HeliumFundamentals.html</ref> Trace amounts are also produced by the [[beta decay]] of [[tritium]].<ref>http://environmentalchemistry.com/yogi/periodic/Li-pg2.html</ref> In [[star]]s, however, helium-3 is more abundant, a product of [[nuclear fusion]]. Extraplanetary material, such as [[Moon|lunar]] and [[asteroid]] [[regolith]], have trace amounts of helium-3 from being bombarded by [[solar wind]]s.
+
+The different formation processes of the two stable isotopes of helium produce the differing isotope abundances.  These differing isotope abundances can be used to investigate the origin of rocks and the composition of the Earth's [[Mantle (geology)|mantle]].<ref name="heliumfundamentals"/>
+
+It is possible to produce [[exotic helium isotopes]], which rapidly decay into other substances. The shortest-lived heavy helium isotope is helium-5 with a [[half-life]] of 7.6×10<sup>&minus;22</sup> second. Helium-6 decays by emitting a [[beta particle]] and has a half life of 0.8 second. Helium-7 also emits a beta particle as well as a [[gamma ray]]. Helium-7 and helium-8 are hyperfragments that are created in certain [[nuclear reaction]]s.<ref>''The Encyclopedia of the Chemical Elements'', page 260</ref>
+
+The exotics helium-6 and helium-8 are known to exhibit a [[nuclear halo]].
+Helium-2 is a [[radioisotope]] of helium that decays by [[proton emission]] into [[protium]] with a [[half-life]] of 3x10<sup>&minus;27</sup> second.<ref>''The Encyclopedia of the Chemical Elements'', page 264</ref>
+
+==Biological effects==
+The voice of a person who has inhaled helium temporarily sounds high-pitched. This is because the [[speed of sound]] in helium is nearly three times the speed of sound in air. Because the [[fundamental frequency]] of a gas-filled cavity is proportional to the speed of sound in the gas, when helium is inhaled there is a corresponding increase in the [[resonant frequency|resonant frequencies]] of the [[vocal tract]].<ref name="Nature's 177"/> (The opposite effect, lowering frequencies, can be obtained by inhaling [[sulfur hexafluoride]].)
+
+Inhaling helium, e.g. to produce the [[#Vocal effect|vocal effect]], can be dangerous if done to excess since helium is a simple [[asphyxiant]], thus it displaces [[oxygen]] needed for normal [[respiration (physiology)|respiration]]. Death by [[asphyxiation]] will result within minutes if pure helium is breathed continuously. In mammals (with the notable exceptions of [[Pinniped|seal]]s and many burrowing animals) the breathing reflex is triggered by excess of [[carbon dioxide]] rather than lack of oxygen, so asphyxiation by helium progresses without the victim experiencing [[air hunger]]. Inhaling helium directly from pressurized cylinders is extremely dangerous as the high flow rate can result in [[barotrauma]], fatally rupturing [[lung]] tissue.<ref>[http://www.slate.com/id/2143631/ Stay Out of That Balloon! The dangers of helium inhalation], Slate.com. Retrieved on [[18 September]] [[2007]].</ref>
+
+Neutral helium at standard conditions is non-toxic, plays no biological role and is found in trace amounts in human blood. At high pressures, a mixture of helium and oxygen ([[heliox]]) can lead to [[high pressure nervous syndrome]]; however, increasing the proportion of nitrogen can alleviate the problem.<ref>[http://www.scuba-doc.com/HPNS.html HPNS], scuba-doc.com. Retrieved on [[5 January]] [[2007]]. </ref>
+
+Containers of helium gas at 5 to 10 K should be handled as if they contain liquid helium due to the rapid and significant [[thermal expansion]] that occurs when helium gas at less than 10 K is warmed to [[room temperature]].<ref name="LANL.gov"/>
+
+==Compounds==
+Helium is chemically unreactive under all normal conditions due to its [[Valence (chemistry)|valence]] of zero. It is an electrical insulator unless [[ion]]ized. As with the other noble gases, helium has metastable [[energy level]]s that allow it to remain ionized in an electrical discharge with a [[voltage]] below its [[ionization potential]]. Helium can form unstable [[compound (chemistry)|compound]]s with [[tungsten]], [[iodine]], [[fluorine]], [[sulfur]] and [[phosphorus]] when it is subjected to an [[electric glow discharge]], through electron bombardment or is otherwise a [[Plasma physics|plasma]]. HeNe, HgHe<sub>10</sub>, WHe<sub>2</sub> and the molecular ions He<sub>2</sub><sup>+</sup>, He<sub>2</sub><sup>2+</sup>, [[Hydrohelium(1+) ion|HeH<sup>+</sup>]], and HeD<sup>+</sup> have been created this way. This technique has also allowed the production of the neutral molecule He<sub>2</sub>, which has a large number of [[spectral band|band systems]], and HgHe, which is apparently only held together by polarization forces.<ref name="Encyc 261"/> Theoretically, other compounds may also be possible, such as helium fluorohydride (HHeF) which would be analogous to [[Argon fluorohydride|HArF]], discovered in 2000.
+
+Helium has been put inside the hollow carbon cage molecules (the fullerenes) by heating under high pressure of the gas. The neutral molecules formed are stable up to high temperatures. When chemical derivatives of these fullerenes are formed, the helium stays inside. If [[helium-3]] is used, it can be readily observed by helium NMR spectroscopy. Many fullerenes containing helium-3 have been reported. These substances fit the definition of compounds in the Handbook of Chemistry and Physics. They are the first stable neutral helium compounds to be formed.
+
+==References==
+<div class="references-small">
+;Prose
+*''The Elements: Third Edition'', by John Emsley (New York; Oxford University Press; 1998; pages 94–95) ISBN 0-19-855818-X
+*United States Geological Survey (usgs.gov): [http://minerals.usgs.gov/minerals/pubs/commodity/helium/heliumcs04.pdf Mineral Information for Helium] (PDF) (viewed [[31 March]] [[2005]])
+*''[http://www.oma.be/BIRA-IASB/Public/Research/Thermo/Thermotxt.en.html The thermosphere: a part of the heterosphere]'', by J. Vercheval (viewed [[1 April]] [[2005]])
+*''Isotopic Composition and Abundance of Interstellar Neutral Helium Based on Direct Measurements'',  Zastenker G.N. ''et al.'', [http://www.ingentaconnect.com/content/klu/asys/2002/00000045/00000002/00378626], published in [http://www.ingentaconnect.com/content/klu/asys Astrophysics], April 2002, vol. 45, no. 2, pp. 131–142(12)
+*''[http://www3.interscience.wiley.com/cgi-bin/abstract/105558571/ABSTRACT Dynamic and thermodynamic properties of solid helium in the reduced all-neighbours approximation of the self-consistent phonon theory]'', C. Malinowska-Adamska, P. Sŀoma, J. Tomaszewski, physica status solidi (b), Volume 240, Issue 1 , Pages 55–67; Published Online: [[19 September]] [[2003]]
+*''[http://www.yutopian.com/Yuan/TFM.html The Two Fluid Model of Superfluid Helium]'', S. Yuan, (viewed [[4 April]] [[2005]])
+*''Rollin Film Rates in Liquid Helium'', Henry A. Fairbank and C. T. Lane, Phys. Rev. 76, 1209&ndash;1211 (1949), [http://prola.aps.org/abstract/PR/v76/i8/p1209_1 from the online archive]
+*''[http://cryowwwebber.gsfc.nasa.gov/introduction/liquid_helium.html Introduction to Liquid Helium]'', at the NASA Goddard Space Flight Center (viewed [[4 April]] [[2005]])
+*''[http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1983ApOpt..22...10E&amp;db_key=AST Tests of vacuum VS helium in a solar telescope]'', Engvold, O.; Dunn, R. B.; Smartt, R. N.; Livingston, W. C.. Applied Optics, vol. 22, [[1 January]] [[1983]], p. 10–12
+*{{cite book | author = Bureau of Mines | title = Minerals yearbook mineral fuels Year 1965, Volume II (1967) | publisher = U. S. Government Printing Office | year = 1967 }}
+*''[http://www.mantleplumes.org/HeliumFundamentals.html Helium: Fundamental models]'', Don L. Anderson, G. R. Foulger & Anders Meibom (viewed [[5 April]] [[2005]])
+*''[http://www.scuba-doc.com/HPNS.html High Pressure Nervous Syndrome]'', Diving Medicine Online (viewed [[5 April]] [[2005]])
+
+;Table
+* ''[http://chartofthenuclides.com/default.html Nuclides and Isotopes] Fourteenth Edition: Chart of the Nuclides'', General Electric Company, 1989
+*WebElements.com and EnvironmentalChemistry.com per the guidelines at [http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Elements Wikipedia's WikiProject Elements] (viewed [[10 October]] [[2002]])
+</div>
+
+==Notes==
+{{reflist}}
+
+==See also==
+*[[Leidenfrost effect]]
+*[[Superfluid]]
+*[[Tracer-gas leak testing method]]
+*[[abiogenic petroleum origin]]
+
+==External links==
+{{Commons|Helium}}
+{{wiktionary|helium}}
+;General
+*[http://www.blm.gov/wo/st/en/info/newsroom/2007/january/NR0701_2.html US Government' Bureau of Land Management: Sources, Refinement, and Shortage.] With some History of Helium.
+*[http://www.webelements.com/webelements/elements/text/He/key.html WebElements: Helium]
+*[http://education.jlab.org/itselemental/ele002.html It's Elemental &ndash; Helium]
+
+;More detail
+*[http://boojum.hut.fi/research/theory/helium.html Helium] at the [[Helsinki University of Technology]]; includes pressure-temperature phase diagrams for helium-3 and helium-4
+*[http://www.lancs.ac.uk/depts/physics/research/condmatt/ult/index.html Lancaster University, Ultra Low Temperature Physics] - includes a summary of some low temperature techniques
+
+;Miscellaneous
+*[http://www.phys.unsw.edu.au/PHYSICS_!/SPEECH_HELIUM/speech.html Physics in Speech] with audio samples that demonstrate the unchanged voice pitch
+*[http://www.du.edu/~jcalvert/phys/helium.htm Article about helium and other noble gases]
+
+{{E number infobox 930-949}}
+
+{{featured article}}
+
+[[Category:Chemical elements]]
+[[Category:Noble gases]]
+[[Category:Coolants]]
+[[Category:Helium]]
+[[Category:Airship technology]]
+
+{{Link FA|de}}
+{{Link FA|ar}}
+
+[[cv:Гели]]
+[[af:Helium]]
+[[ar:هيليوم]]
+[[ast:Heliu (elementu)]]
+[[bn:হিলিয়াম]]
+[[zh-min-nan:He (goân-sò͘)]]
+[[be:Гелій]]
+[[be-x-old:Гелій]]
+[[bs:Helijum]]
+[[bg:Хелий]]
+[[ca:Heli]]
+[[cs:Helium]]
+[[co:Eliu]]
+[[cy:Heliwm]]
+[[da:Helium]]
+[[de:Helium]]
+[[et:Heelium]]
+[[el:Ήλιο]]
+[[es:Helio]]
+[[eo:Heliumo]]
+[[eu:Helio]]
+[[fa:هلیوم]]
+[[fo:Helium]]
+[[fr:Hélium]]
+[[fur:Eli]]
+[[ga:Héiliam]]
+[[gd:He]]
+[[gl:Helio (elemento)]]
+[[gu:હીલિયમ]]
+[[zh-classical:氦]]
+[[ko:헬륨]]
+[[hy:Հելիում]]
+[[hi:हीलियम]]
+[[hr:Helij]]
+[[io:Helio]]
+[[id:Helium]]
+[[is:Helín]]
+[[it:Elio]]
+[[he:הליום]]
+[[ka:ჰელიუმი]]
+[[sw:Heli]]
+[[ht:Elyòm]]
+[[ku:Hêlyûm]]
+[[la:Helium]]
+[[lv:Hēlijs]]
+[[lb:Helium]]
+[[lt:Helis]]
+[[li:Helium]]
+[[ln:Eliyúmu]]
+[[jbo:solnavni]]
+[[lmo:Éli]]
+[[hu:Hélium]]
+[[mk:Хелиум]]
+[[ml:ഹീലിയം]]
+[[mi:Haumāmā]]
+[[mr:हेलियम]]
+[[ms:Helium]]
+[[nah:Tōnatiuyoh]]
+[[nl:Helium]]
+[[ja:ヘリウム]]
+[[no:Helium]]
+[[nn:Helium]]
+[[nov:Helium]]
+[[oc:Èli]]
+[[uz:Geliy]]
+[[nds:Helium]]
+[[pl:Hel]]
+[[pt:Hélio]]
+[[ksh:Helium]]
+[[ro:Heliu]]
+[[qu:Ilyu]]
+[[ru:Гелий]]
+[[simple:Helium]]
+[[sk:Hélium]]
+[[sl:Helij]]
+[[sr:Хелијум]]
+[[sh:Helij]]
+[[su:Hélium]]
+[[fi:Helium]]
+[[sv:Helium]]
+[[ta:ஹீலியம்]]
+[[th:ฮีเลียม]]
+[[vi:Heli]]
+[[tg:Гелий]]
+[[tr:Helyum]]
+[[uk:Гелій]]
+[[vls:Helium]]
+[[zh-yue:氦]]
+[[zh:氦]]

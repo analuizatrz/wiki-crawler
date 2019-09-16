@@ -1,0 +1,457 @@
+The '''romanization of Japanese''' or {{nihongo|'''rōmaji'''|ローマ字|}} ({{Audio|Romaji.ogg|listen}}) is the use of the [[Latin alphabet]]  to write the [[Japanese language]]. Japanese is normally written in [[logogram|logographic characters]] borrowed from Chinese ([[kanji]]) and [[syllabary|syllabic]] scripts ([[kana]]). The romanization of Japanese is done in any context where Japanese text is targeted at those who do not know the language, such as for names on street signs and passports, and in dictionaries and textbooks for foreign learners of the language. The word "rōmaji" is sometimes incorrectly [[transliteration|transliterated]] as ''roma'''n'''ji'' or ''rōma'''n'''ji'' (note the "n" before the "j").
+
+There are several different [[romanization]] systems. The three main ones are [[Hepburn romanization]], [[Kunrei-shiki Rōmaji]] (ISO 3602), and [[Nihon-shiki Rōmaji]] (ISO 3602 Strict).  Variants of the ''Hepburn'' system are the most widely used.  
+
+All Japanese who have attended elementary school since [[World War II]] have been taught to read and write romanized Japanese. Romanization is also the most common way to input Japanese into word processors and computers. Therefore, almost all Japanese are able to read and write Japanese using rōmaji.  The primary usage of rōmaji is on computers and other electronic devices that for whatever reason do not support the display or input of Japanese characters, in educational materials for foreigners, and in academic papers in [[English language|English]] written on the topic of Japanese (i.e. linguistics or literature).
+
+{{Japanese writing}}
+
+==History==
+
+The earliest Japanese romanization system was based on the [[orthography of Portuguese]]. It was developed around 1548 by a [[Japanese people|Japanese]] [[Roman Catholic|Catholic]] named Yajiro. [[Society of Jesus|Jesuit]] presses used the system in a series of printed [[Roman Catholicism|Catholic]] books so that [[missionary|missionaries]] could preach and teach their converts without learning to read Japanese ideographs. The most useful of these books for the study of early modern Japanese pronunciation and early attempts at romanization was the ''[[Nippo jisho]]'', a Japanese-[[Portuguese language|Portuguese]] [[dictionary]] written in 1603. In general, the early Portuguese system was similar to Nihon-shiki in its treatment of [[vowel]]s. Some [[consonant]]s were transliterated differently: for instance, the /k/ consonant was rendered as "c", and the {{IPA|/ɸ/}} consonant  (now pronounced /h/) as "f", so ''Nihon no kotoba'' ("The language of Japan") was spelled "Nifon no cotoba". The Jesuits also printed some secular books in romanized Japanese, including the first printed edition of the Japanese classic ''[[The Tale of the Heike]]'', romanized as ''Feiqe no monogatari'', and a collection of ''[[Aesop's Fables]]'' (romanized as ''Esopo no fabvlas''). The latter continued to be printed and read after the suppression of [[Christianity]] in Japan (Chibbett, 1977).
+
+Following the expulsion of [[Christian]]s from Japan in the late 1590s and early 1600s, ''rōmaji'' fell out of use, and were only used sporadically in foreign texts until the mid-1800s, when Japan opened up again. The systems used today all developed in the latter half of the [[19th century]].
+
+The first system to be developed was the ''Hepburn'' system, developed for [[James Curtis Hepburn]]'s dictionary of Japanese words and intended for foreigners to use.
+
+In the [[Meiji era]], some Japanese scholars advocated abolishing the Japanese writing system entirely and using ''rōmaji'' in its stead. The ''Nihon shiki'' romanization was an outgrowth of this movement. Several Japanese texts were published entirely in ''rōmaji'' during this period, but it failed to catch on. Later, in the early [[20th century]], some scholars devised syllabary systems with characters derived from Latin; these were even less popular, because they were not based on any historical use of the [[Latin alphabet]].
+
+==Modern systems==
+===Hepburn===
+{{main|Hepburn romanization}}
+
+The '''Revised Hepburn''' system of romanization uses a [[macron]] to indicate some [[long vowel]]s, and an [[apostrophe]] to note the separation of easily-confused [[phoneme]]s. For example, the name じゅんいちろう, is written with the kana characters ''ju''-''n''-''i''-''chi''-''ro''-''u'', and romanized as ''Jun'ichirō'' in Revised Hepburn. This system is widely used in Japan and among foreign students and academics.
+
+Hepburn romanization generally follows English phonology with [[Romance languages|Romance]] vowels, and is an intuitive method of showing [[Anglophone]]s the pronunciation of a word in Japanese. It was standardized in the [[United States|USA]] as ''American National Standard System for the Romanization of Japanese (Modified Hepburn)'', but this status was abolished on [[October 6]], [[1994]]. Hepburn is the most common romanization system in use today, especially in the English-speaking world.
+
+===Nihon-shiki===
+{{main|Nihon-shiki}}
+
+'''Nihon-shiki''' is probably the least used of the three main systems. It was originally invented as a method for the Japanese to write their own language. It follows Japanese phonology and the syllabary order very strictly and is hence the only major system of romanization that allows lossless mapping to and from kana.  It has also been standardized as ISO 3602 strict form.
+
+===Kunrei-shiki===
+{{main|Kunrei-shiki Rōmaji}}
+
+'''Kunrei-shiki''' is a slightly modified version of Nihon-shiki which eliminates differences between the kana syllabary and modern pronunciation.  For example, when the words ''kana'' かな and ''tsukai'' つかい are combined, the result is written in kana as かなづかい with a ''[[dakuten]]'' (voicing sign) ゛on the つ (tsu) kana to indicate that the tsu つ is now voiced. The づ kana is pronounced in the same way as a different kana, す (su), with ''dakuten'', ず. Kunrei-shiki and Hepburn ignore the difference in kana and represent the sound in the same way, as ''kanazukai'', using the same letters "zu" as are used to romanize ず. Nihon-shiki retains the difference, and romanizes the word as ''kanadukai'', differentiating the づ and ず kana, which is romanized as ''zu'', even though they are pronounced identically. Similarly for the pair じ and ぢ, which are both ''zi'' in Kunrei-shiki and both ''ji'' in Hepburn romanization, but are ''zi'' and ''di'' respectively in Nihon-shiki. See the table below for full details.
+
+Kunrei-shiki has been standardized by the [[Japanese Government]] and the [[International Standards Organization]] (ISO 3602).  Kunrei-shiki is taught to Japanese elementary school students in their fourth year of education.
+
+===Other variants===
+
+It is possible to elaborate these romanizations to enable non-native speakers to pronounce Japanese words more correctly.  Typical additions include [[tone (linguistics)|tone]] marks to note the [[Japanese pitch accent]] and [[diacritic mark]]s to distinguish phonological changes, such as the assimilation of the moraic nasal /n/ (see [[Japanese phonology]]).
+
+===JSL===
+{{main|JSL romanization}}
+
+'''JSL''' is a romanization system based on Japanese phonology, designed using the linguistic principles used by linguists in designing writing systems for languages that do not have any. It is a purely [[phoneme|phonemic]] system, using exactly one symbol for each phoneme, and marking pitch accent using [[diacritic]]s. It was created for [[Eleanor Jorden|Eleanor Harz Jorden]]'s system of Japanese language teaching. Its principle is that such a system enables students to better internalize the phonology of Japanese. Since it does not have any of the advantages for non-native speakers that the other rōmaji systems have, and the Japanese already have a writing system for their language, JSL is not widely used outside the educational environment.
+
+==Non-standard romanization==
+
+In addition to the standardized systems above, there are many variations in romanization, used either for simplification, in error or confusion between different systems, or for deliberate stylistic reasons.
+
+Notably, the various mappings that [[Japanese input methods]] use to convert keystrokes on a Roman keyboard to kana often combine features of all of the systems; when used as plain text rather than being converted, these are usually known as ''[[wāpuro rōmaji]]''. (''Wāpuro'' is a [[portmanteau]] of '''''wā'''do '''puro'''sessā'' [word processor].) Unlike the standard systems, wāpuro rōmaji requires no characters from outside the [[ASCII]] character set.
+
+While there may be arguments in favour of some of these variant romanizations in specific contexts, their use, especially if mixed, leads to confusion when romanized Japanese words are indexed. Note that this confusion never occurs when inputting Japanese characters with word processor, because inputted roman alphabets are transcribed into Japanese kana characters as soon as [[Input Method Editor|IME]] decides what character is input.
+
+The following variant romanizations are common:
+
+*Japanese words and names that have established English spellings, such as [[kudzu]] and [[jiu jitsu]], or loanwords such as ''kyatto'' for "cat", are sometimes written as they are in English, without regard for the rules of romanization.
+*''Jya'' for じゃ, which is ''ja'' in Hepburn and ''zya'' in Nihon-shiki and Kunrei-shiki, and similarly ''jyu'' for じゅ and ''jyo'' for じょ. The extraneous ''y'' seems to be the result of confusion between the romanization systems.
+*''Cchi'' for っち (Hepburn ''tchi'') and so on. This is ''wāpuro rōmaji'', but is often used for stylistic reasons when rendering nicknames (for example, あきこ ''Akiko'' becoming あっちゃん ''Acchan'' rather than ''Atchan'').
+*''La'' for ら (Hepburn ''ra'') and so on. The Japanese consonant {{IPA|/r/}} has a sound (IPA {{IPA|[ɺ]}}) that is near, but not identical, to both of English "r" and "l". "R" and "l" are both transcribed into Japanese using the Japanese {{IPA|/r/}}. Examples of "l" in romanized Japanese include Japanese children's doll リカ, romanized as ''Licca''.
+*''Na'' for んあ (Hepburn ''n'a'') and so on. This form of romanized Japanese is used in public information such as road and railway signs in Japan.
+*''Nn'' for ん (Hepburn ''n''). This is also an example of ''wāpuro rōmaji'' (although many Japanese input methods also accept the Hepburn ''<nowiki>n'</nowiki>''). This leads to ambiguity with the more widespread Hepburn system. For example, the cluster ''nna'', which is んな in Hepburn, represents んあ in this system. The double n is sometimes seen in names.
+
+===Long vowels===
+
+The most common variant romanization is to omit the macrons or circumflexes used to indicate a long vowel. This is extremely common in the romanized version of Japanese words used in English. For example the capital city of Japan, correctly written Tōkyō in romanized Japanese, is universally written as Tokyo. In Japan, since romanized Japanese is seen mostly as a convenience for foreigners to be able to read signs easily, macrons and circumflexes are usually omitted for simplification.
+
+Many [[typewriter]]s, [[word processor]]s, and computerized systems cannot easily deal with the macron used in Hepburn romanization. Nihon-shiki and Kunrei-shiki use a [[circumflex]] accent (thus, Tôkyô). This may allow for easier input, since all of â, î, û, ê, and ô are in the [[ISO-8859-1]] character set, and may be easily input on a variety of systems. 
+
+The following methods of representing long vowels also commonly occur:
+*''Oh'' for おお or おう (Hepburn ''ō''). This is sometimes known as "passport Hepburn", as the Japanese Foreign Ministry has authorized (but not required) this usage in passports [http://www.seikatubunka.metro.tokyo.jp/hebon/]
+*''Ou'' for おう (also Hepburn ''ō''). This is also an example of ''wāpuro rōmaji''.
+*''Ô'' for おお or おう (Hepburn ''ō''). This is valid Nihon-shiki and Kunrei-shiki, but occasionally occurs in otherwise Hepburn-romanized words (as described above).
+
+===Archaic variants===
+{{main|Historical kana usage}}
+
+In older texts, other variant romanizations which are now no longer used are sometimes seen. Some of them have survived to the present day, although few of them are still actively used. Examples include:
+* The vowel ''i'' plus ''o'' was sometimes used to represent the Japanese [[yōon]] sound: hence [[Tokyo]] becomes "Tokio" and [[Kyoto]] becomes "Kioto". This romanization can still be seen in the species name "mioga" of the Japanese vegetable ''[[myoga|myōga]]''.
+* The kana ゑ was rendered as ''ye''. The actual pronunciation of this kana was once ''we'', but the ''w'' had already been lost by the time that (e.g.) ゑど "''[[Edo|Wedo]]''" was first romanized as ''Yedo''.
+* The kana づ (Nihon-shiki ''du'') was romanized as ''dzu'', as seen in the plant names ''adzuki'' and ''kudzu''. This enjoys some currency even today as Hepburn-like ''wāpuro rōmaji'', and has a phonetic value distinct from ''zu'' in many dialects of Japanese.
+* "e" has sometimes been rendered "ye"—e.g. "Iyeyasu" instead of "Ieyasu", "Inouye" instead of "Inoue", and "[[yen]]" instead of "en"
+
+===Romanization of Japanese names===
+
+[[Japanese names|Names]] can be subject to even more variation, with spellings depending on the individual's preference. For example, the [[manga]] artist [[Yasuhiro Nightow]]'s family name would be more conventionally written in Hepburn romanization as ''Naitō''. 
+
+Other variations seen in names include the substitution of K with C, as in the name of television celebrity [[Ricaco]] or the [[Japanese snack food|snack food]] [[Jagarico]].
+
+==Example words written in each romanization system==
+{| class=wikitable
+!rowspan="2"|English
+!rowspan="2"|Japanese
+!rowspan="2"|Kana spelling
+!colspan="3"|Romanization
+|-
+!Revised Hepburn
+!Kunrei-shiki
+!Nihon-shiki
+|- valign="top" align="center"
+|Roman characters
+|ローマ字
+|ローマじ
+|''rōmaji''
+|''rômazi''
+|''rômazi''
+|- valign="top" align="center"
+|[[Mount Fuji]]
+|富士山
+|ふじさん
+|''Fujisan''
+|''Huzisan''
+|''Huzisan''
+|- valign="top" align="center"
+|[[tea]]
+|お茶
+|おちゃ
+|''ocha''
+|''otya''
+|''otya''
+|- valign="top" align="center"
+|[[governor]]
+|知事
+|ちじ
+|''chiji''
+|''tizi''
+|''tizi''
+|- valign="top" align="center"
+|to shrink
+|縮む
+|ちぢむ
+|''chijimu''
+|''tizimu''
+|''tidimu''
+|- valign="top" align="center"
+|to continue
+|続く
+|つづく
+|''tsuzuku''
+|''tuzuku''
+|''tuduku''
+|}
+
+==Chart of romanizations==
+
+This chart shows the significant differences between the major romanization systems.
+
+{| class=wikitable
+!Kana            !! Revised Hepburn !! Kunrei-shiki !! Nihon-shiki
+|- valign="top" align="center"
+|うう||''ū''||''û''    ||''û''       
+|- valign="top" align="center"
+|おう, おお||''ō''||''ô''||''ô''
+|- valign="top" align="center"
+|し        ||''shi''||''si''      ||''si''      
+|- valign="top" align="center"
+|しゃ||''sha''||''sya''     ||''sya''     
+|- valign="top" align="center"
+|しゅ||''shu''||''syu''     ||''syu''     
+|- valign="top" align="center"
+|しょ||''sho''||''syo''     ||''syo''     
+|- valign="top" align="center"
+|じ        ||''ji'' ||''zi''      ||''zi''      
+|- valign="top" align="center"
+|じゃ||''ja'' ||''zya''     ||''zya''     
+|- valign="top" align="center"
+|じゅ||''ju'' ||''zyu''     ||''zyu''     
+|- valign="top" align="center"
+|じょ||''jo'' ||''zyo''     ||''zyo''     
+|- valign="top" align="center"
+|ち        ||''chi''||''ti''      ||''ti''      
+|- valign="top" align="center"
+|つ        ||''tsu''||''tu''      ||''tu''      
+|- valign="top" align="center"
+|ちゃ||''cha''||''tya''     ||''tya''     
+|- valign="top" align="center"
+|ちゅ||''chu''||''tyu''     ||''tyu''     
+|- valign="top" align="center"
+|ちょ||''cho''||''tyo''     ||''tyo''     
+|- valign="top" align="center"
+|ぢ        ||''ji'' ||''zi''      ||''di''      
+|- valign="top" align="center"
+|づ        ||''zu'' ||''zu''      ||''du''      
+|- valign="top" align="center"
+|ぢゃ||''ja'' ||''zya''     ||''dya''     
+|- valign="top" align="center"
+|ぢゅ||''ju'' ||''zyu''     ||''dyu''     
+|- valign="top" align="center"
+|ぢょ||''jo'' ||''zyo''     ||''dyo''     
+|- valign="top" align="center"
+|ふ        ||''fu'' ||''hu''      ||''hu''      
+|}
+
+==Historical romanizations==
+
+:'''1603''': ''[[Nippo jisho|Vocabvlario da Lingoa de Iapam]]'' (1603)
+:'''1604''': ''Arte da Lingoa de Iapam'' (1604-1608)
+:'''1620''': ''Arte Breve da Lingoa Iapoa'' (1620)
+
+{| class=wikitable
+|-
+!  || あ || い || う || え || お ||  ||  ||  ||
+|-
+| 1603 || rowspan=3 | a || i, j, y || v, u || rowspan=3 | ye || vo, uo ||  ||  ||  ||
+|-
+| 1604 || i || rowspan=2 | v || rowspan=2 | vo ||  ||  ||  ||
+|-
+| 1620 || y ||  ||  ||  ||
+|-
+!  || か || き || く || け || こ || きゃ ||  || きょ || くゎ
+|-
+| 1603 || rowspan=2 | ca || qi, qui || rowspan=2 | cu, qu || qe,que || rowspan=3 | co || qia ||  || qio, qeo || rowspan=3 | qua
+|-
+| 1604 || qui || que || quia ||  || quio
+|-
+| 1620 || ca, ka || ki || cu, ku || ke || kia ||  || kio
+|-
+!  || が || ぎ || ぐ || げ || ご || ぎゃ || ぎゅ || ぎょ || ぐゎ
+|-
+| 1603 || rowspan=2 | ga || rowspan=2 | gui || gu, gv || rowspan=2 | gue || rowspan=2 | go || guia || rowspan=2 | guiu || rowspan=2 | guio || rowspan=3 | gua
+|-
+| 1604 || gu ||
+|-
+| 1620 || ga, gha || ghi || gu, ghu || ghe || go, gho || ghia || ghiu || ghio
+|-
+!  || さ || し || す || せ || そ || しゃ || しゅ || しょ ||
+|-
+| 1603 || rowspan=3 | sa || rowspan=3 | xi || rowspan=3 | su || rowspan=3 | xe || rowspan=3 | so || rowspan=3 | xa || rowspan=3 | xu || rowspan=3 | xo ||
+|-
+| 1604 ||
+|-
+| 1620 ||
+|-
+!  || ざ || じ || ず || ぜ || ぞ || じゃ || じゅ || じょ ||
+|-
+| 1603 || rowspan=3 | za || ii, ji || rowspan=3 | zu || ie, ye || rowspan=3 | zo || ia, ja || iu, ju || io, jo ||
+|-
+| 1604 || rowspan=2 | ji ||  || rowspan=2 | ia || ju || jo ||
+|-
+| 1620 || ie || iu || io ||
+|-
+!  || た || ち || つ || て || と || ちゃ || ちゅ || ちょ ||
+|-
+| 1603 || rowspan=3 | ta || rowspan=3 | chi || rowspan=3 | tçu || rowspan=3 | te || rowspan=3 | to || rowspan=3 | cha || rowspan=3 | chu || rowspan=3 | cho ||
+|-
+| 1604 ||
+|-
+| 1620 ||
+|-
+!  || だ || ぢ || づ || で || ど || ぢゃ || ぢゅ || ぢょ ||
+|-
+| 1603 || rowspan=3 | da || rowspan=3 | gi || zzu || rowspan=3 | de || rowspan=3 | do || rowspan=3 | gia || rowspan=3 | giu || rowspan=3 | gio ||
+|-
+| 1604 || rowspan=2 | dzu ||
+|-
+| 1620 ||
+|-
+!  || な || に || ぬ || ね || の || にゃ || にゅ || にょ ||
+|-
+| 1603 || rowspan=3 | na || rowspan=3 | ni || rowspan=3 | nu || rowspan=3 | ne || rowspan=3 | no || nha || nhu, niu || nho, neo ||
+|-
+| 1604 || rowspan=2 | nha || rowspan=2 | nhu || rowspan=2 | nho ||
+|-
+| 1620 ||
+|-
+!  || は || ひ || ふ || へ || ほ || ひゃ || ひゅ || ひょ ||
+|-
+| 1603 || rowspan=3 | fa || rowspan=3 | fi || rowspan=3 | fu || rowspan=3 | fe || rowspan=3 | fo || fia || fiu || fio, feo ||
+|-
+| 1604 ||  ||  || rowspan=2 | fio ||
+|-
+| 1620 ||  ||  ||
+|-
+!  || ば || び || ぶ || べ || ぼ || びゃ || びゅ || びょ ||
+|-
+| 1603 || rowspan=3 | ba || rowspan=3 | bi || rowspan=3 | bu || rowspan=3 | be || rowspan=3 | bo || bia || biu || bio, beo ||
+|-
+| 1604 ||  ||  ||  ||
+|-
+| 1620 || bia || biu ||  ||
+|-
+!  || ぱ || ぴ || ぷ || ぺ || ぽ || ぴゃ || ぴゅ || ぴょ ||
+|-
+| 1603 || rowspan=3 | pa || rowspan=3 | pi || rowspan=3 | pu || rowspan=3 | pe || rowspan=3 | po || pia ||  || pio ||
+|-
+| 1604 ||  ||  ||  ||
+|-
+| 1620 || pia ||  ||  ||
+|-
+!  || ま || み || む || め || も || みゃ ||  || みょ ||
+|-
+| 1603 || rowspan=3 | ma || rowspan=3 | mi || rowspan=3 | mu || rowspan=3 | me || rowspan=3 | mo || mia, mea ||  || mio, meo ||
+|-
+| 1604 ||  ||  ||  ||
+|-
+| 1620 ||  ||  || mio ||
+|-
+!  || や ||  || ゆ ||  || よ ||  ||  ||  ||
+|-
+| 1603 || rowspan=3 | ya ||  || rowspan=3 | yu ||  || rowspan=3 | yo ||  ||  ||  ||
+|-
+| 1604 ||  ||  ||  ||  ||  ||
+|-
+| 1620 ||  ||  ||  ||  ||  ||
+|-
+!  || ら || り || る || れ || ろ || りゃ || りゅ || りょ ||
+|-
+| 1603 || rowspan=3 | ra || rowspan=3 | ri || rowspan=3 | ru || rowspan=3 | re || rowspan=3 | ro || ria, rea || riu || rio, reo ||
+|-
+| 1604 ||  ||  || rowspan=2 | rio ||
+|-
+| 1620 ||  || riu ||
+|-
+!  || わ || ゐ ||  || ゑ || を ||  ||  ||  ||
+|-
+| 1603 || va, ua ||  ||  ||  || vo, uo ||  ||  ||  ||
+|-
+| 1604 || rowspan=2 | va || rowspan=2 | y ||  || rowspan=2 | ye || rowspan=2 | vo ||  ||  ||  ||
+|-
+| 1620 ||  ||  ||  ||  ||
+|-
+!  || colspan=9 | ん
+|-
+| 1603 || colspan=9 | n, m, ~ (tilde)
+|-
+| 1604 || colspan=9 | n
+|-
+| 1620 || colspan=9 | n, m
+|-
+! || colspan=9 | っ
+|-
+| 1603 || colspan=9 | -t, -cc-, -cch-, -cq-, -dd-, -pp-, -ss-, -tt, -xx-, -zz-
+|-
+| 1604 || colspan=9 | -t, -cc-, -cch-, -pp-, -cq-, -ss-, -tt-, xx-
+|-
+| 1620 ||colspan=9 | -t, -cc-, -cch-, -pp-, -ck-, -cq-, -ss-, -tt-, -xx-
+|}
+
+== Alphabet letter names in Japanese ==
+
+The list below shows how to spell Latin character words or acronyms in Japanese. For example, [[NHK]] is spelled ''enu-eichi-kei'', (エヌエイチケイ).
+
+*A; ''ē'' or ''ei'' (エー or エイ)
+*B; ''bī'' (ビー, alternative pronunciation ''bē'', ベー)
+*C; ''shī'' (シー or シィー, sometimes pronounced ''sī'', スィー)
+*D; ''dī'' (ディー, alternative pronunciation ''dē'', デー)
+*E; ''ī'' (イー)
+*F; ''efu'' (エフ)
+*G; ''jī'' (ジー)
+*H; ''eichi'' or ''etchi'' (エイチ or エッチ)
+*I; ''ai'' (アイ)
+*J; ''jē'' or ''jei'' (ジェー or ジェイ)
+*K; ''kē'' or ''kei'' (ケー or ケイ)
+*L; ''eru'' (エル)
+*M; ''emu'' (エム)
+*N; ''enu'' (エヌ)
+*O; ''ō'' (オー)
+*P; ''pī'' (ピー, alternative pronunciation ''pē'', ペー)
+*Q; ''kyū'' (キュー)
+*R; ''āru'' (アール)
+*S; ''esu'' (エス)
+*T; ''tī'' (ティー, though sometimes pronounced ''chī'', チー, and alternatively pronounced ''tē'', テー)
+*U; ''yū'' (ユー)
+*V; ''vi'' (ヴィ, though often pronounced ''bui'', ブイ)
+*W; ''daburyū'' (ダブリュー, often pronounced ''daburu'', ダブル)
+*X; ''ekkusu'' (エックス)
+*Y; ''wai'' (ワイ)
+*Z; ''zetto'', ''zeddo'', or ''zī'' (ゼット, ゼッド, or ズィー, though sometimes pronounced ''jī'', ジー)
+
+==Kana without romanized forms==
+
+There is no generally accepted form of romanization for some forms of kana. In particular there is no form of romanization for full-sized kana combined with smaller versions of the vowel kana, "ぁ", "ぃ", "ぅ", "ぇ" and "ぉ", the smaller versions of the ''y'' kana, "ゃ", "ゅ", and "ょ", and the [[sokuon]] or small ''tsu'' kana "っ". Although these are usually regarded as merely phonetic marks or diacritics, they do appear on their own, such as at the end of sentences or in some names. 
+
+There is also no commonly accepted way of romanizing common combinations such as "トゥ" of katakana ''to'' and small ''u'', used to represent sounds as in the English word "too". Some people write this pair as ''tu'', but this is likely to be confused with the ''tu'' Nihon-shiki and Kunrei-shiki romanizations of the kana ツ, romanized as ''tsu'' in Hepburn romanization. 
+
+On a computer or word processor, these smaller kana may be produced in various ways. For example, an "x" or an "l" preceding the romanization of the full-sized kana produces a small version on some systems, thus ''xtu'' gives "っ" on [[Microsoft Windows]]. However this is not standardized, and these forms are restricted to use in input systems; they are not used to represent the smaller kana in romanized Japanese.
+
+==See also== 
+* [[Cyrillization of Japanese]]
+
+==References==
+<div class="references-small">
+*{{cite book | author=Chibbett, David | title=The History of Japanese Printing and Book Illustration | publisher=Kodansha International Ltd. | year=1977 | id=ISBN 0-87011-288-0}}
+*{{cite book 
+| title={{nihongo|Nihongo Daihakubutsukan|日本語大博物館|}} 
+| author = {{nihongo|Jun'ichirō Kida|紀田順一郎|Kida Jun'ichirō}}
+| language = Japanese
+| publisher = {{nihongo|Just System|ジャストシステム|Jasuto Shisutem}}
+| id = ISBN 4-88309-046-9}}
+*{{cite book 
+| title={{nihongo|Hōyaku Nippo Jisho|邦訳日葡辞書|}} 
+| author = {{nihongo|Tadao Doi|土井忠生|}}
+| language = Japanese
+| publisher = {{nihongo|Iwanami Shoten|岩波書店|}}
+| year = 1980
+}}
+*{{cite book 
+| title={{nihongo|Nihon Daibunten|日本大文典|}} 
+| author = {{nihongo|Tadao Doi|土井忠生|}}
+| language = Japanese
+| publisher = {{nihongo|Sanseido|三省堂|}}
+| year = 1955
+}}
+*{{cite book 
+| title={{nihongo|Nihongo Shōbunten|日本語小文典|}} 
+| author = {{nihongo|Mineo Ikegami|池上岑夫|}}
+| language = Japanese
+| publisher = {{nihongo|Iwanami Shoten|岩波書店|}}
+| year = 1993
+}}
+*{{cite book 
+| title={{nihongo|Nihon Shōbunten|日本小文典|}} 
+| author = {{nihongo|Hiroshi Hino|日埜博|}}
+| language = Japanese
+| publisher = {{nihongo|Shin-Jinbutsu-Ôrai-Sha|新人物往来社|}}
+| year = 1993
+}}
+
+</div>
+
+==External links==
+* [http://www.j-talk.com/nihongo/ Convert Kanji to Rōmaji and Hiragana]
+* [http://www.halcat.com/ Rōmaji sōdan shitsu] (in Japanese) contains an extremely extensive and accurate collection of materials relating to rōmaji, including standards documents and even HTML versions of Hepburn's original dictionaries.
+* [http://www.cic.sfu.ca/tqj/JapaneseStudy/romaji.html The rōmaji conundrum] from Andrew Horvat's [http://www.cic.sfu.ca/tqj/index.html Total Quality Japanese] contains a discussion of the problems caused by the variety of confusing romanization systems in use in Japan today.
+* [http://www.dicts.info/dictlist1.php?k1=108 Collection of rōmaji dictionaries]
+* [http://spencer.blackmarket.net/japanese_helper.asp Rōmaji to Kana translator]
+* [http://intrebari.lx.ro/ Converts Rōmaji to Kana, Hepburn System]
+* [http://intrebari.lx.ro/cnv.htm Converts Rōmaji to Kana, Hepburn System] Same link with Frames disabled
+* [http://www.furigana.jp/ Furigana.jp], Converts Japanese web pages or text into one of three formats for easier reading: furigana, kana or rōmaji
+* [http://linear.mv.com/cgi-bin/j-e/kanji.html Jeffrey's Kanji Lookup]
+* [http://yomoyomo.jp/ Add Ruby of Rōmaji to any Japanese website] Multi-language phonetic reading site that can add phonetic reading to any Japanese site or texts in five different alphabets, Hiragara, Roman, Hangul, Devanagari and Cyrillic letters for easier reading
+
+{{Japanese romanization}}
+
+[[Category:Japanese romanization| ]]
+
+[[ca:Romaji]]
+[[de:Japanisches Schriftsystem]]
+[[es:Rōmaji]]
+[[fr:Rōmaji]]
+[[ko:일본어 로마자 표기법]]
+[[id:Romaji]]
+[[it:Rōmaji]]
+[[he:רומאג'י]]
+[[lv:Rōmaji]]
+[[nl:Romaji]]
+[[ja:ローマ字]]
+[[pl:Rōmaji]]
+[[pt:Romaji]]
+[[ru:Ромадзи]]
+[[su:Romanisasi aksara Jepang]]
+[[sv:Romaji]]
+[[th:โรมะจิ]]
+[[vi:Rōmaji]]
+[[uk:Ромадзі]]
+[[zh:日语罗马字]]

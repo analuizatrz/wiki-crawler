@@ -1,0 +1,44 @@
+The '''carry''' of an [[asset]] is the [[Returns (economics)|return]] obtained from holding it (if positive), or the [[cost]] of holding it (if negative).
+
+For instance, [[commodities]] are usually negative carry assets, as they incur storage costs, but in some circumstances, commodities can be positive carry assets as the market is willing to pay a premium for availability.
+
+This can also refer to a trade with more than one leg, where you earn the [[spread]] between borrowing a low carry asset and lending a high carry one.
+
+Carry trades are not [[arbitrage]]s: they make money ''even if nothing changes'', but things may change.
+
+==Interest rates==
+{{See also|Interest rates}}
+
+For instance, the traditional income stream from commercial [[bank]]s is to borrow cheap (at the low [[overnight rate]], i.e., the rate at which they pay depositors) and lend expensive (at the long-term rate).
+
+This works in an upward-sloping [[yield curve]], but it loses money if the curve becomes inverted. The floating of short-term rates, for example, when [[Paul Volcker]] was the chairman of the [[Federal Reserve]] resulted in exactly this problem and was the root of the [[Savings and Loan crisis]].
+
+According to a popular anecdote, traditional commercial banking can be characterized as a "3-6-3" business: borrow at 3%, lend at 6% (thus earning the 3% spread), be on the golf course by 3 pm. <ref>[http://www.richmondfed.org/publications/economic_research/economic_quarterly/pdfs/winter2006/walter.pdf The 3-6-3 rule : an urban myth? by John R. Walter, Federal Reserve Bank of Richmond Economic Quarterly]</ref>
+
+==Currency==
+{{See also|Foreign exchange market}}
+
+The term '''carry trade''' without further modification refers to currency carry trade: investors borrow low-yielding and lend high-yielding [[currency|currencies]]. It tends to correlate with global financial and [[exchange rate]] stability, and retracts in use during global [[liquidity]] shortages.<ref>[http://www.cfr.org/publication/12842/effect_of_the_rising_yen.html?breadcrumb=%2F CFR Effect of the Rising Yen March 14, 2007 retrieved 3-15-2007]</ref>
+
+The risk of carry trades is that foreign exchange rates will change with the result that the investor will then have to pay back more expensive currency with less valuable currency.<ref>[http://www.moneyweek.com/file/20635/why-is-the-carry-trade-so-dangerous.html Why is the carry trade so dangerous?] ''[[MoneyWeek]]'', 10-27-2006</ref> In theory, according to [[Interest rate parity#Uncovered interest rate parity|uncovered interest rate parity]], carry trades should not yield a predictable [[profit]] because the difference in interest rates between two countries should equal the rate at which investors expect the low-interest-rate currency to rise against the high-interest-rate one. However, carry trades weaken the target currency, because investors sell what they have borrowed, and convert it into other currencies.
+
+As of early [[2007]], it is estimated that as much as US$1 [[1000000000000 (number)|trillion]] may be staked on the [[Japanese yen|yen]] carry trade.<ref>[http://economist.com/finance/displaystory.cfm?story_id=8633485 What keeps bankers awake at night?], ''The Economist'', Feb 1st 2007</ref> Since the late-1980's, the [[Bank of Japan]] has set Japanese interest rates at extremely low levels making it profitable to borrow Japanese yen to fund activities in other currencies.
+
+==Notes==
+<references/>
+
+==External links==
+* [http://www.marketthoughts.com/z20060921.html The Yen Carry Trade Revisited]
+* [http://www.theglobalguru.com/article.php?id=104&offer=GURU001 The Trade of the Decade] by [[Nicholas Vardy]] - March 6, 2007
+* [http://online.barrons.com/article/SB118954417476624138.html "GETTING TECHNICAL: A Secret Time Bomb Made of Gold"]
+* [http://www.economist.com/finance/displaystory.cfm?story_id=8742054 Carry on speculating]
+
+[[Category:Finance]]
+
+[[de:Currency Carry Trade]]
+[[es:Carry trade]]
+[[it:Carry trade]]
+[[nl:Carry Trade]]
+[[pl:Carry trade]]
+[[ja:円キャリー取引]]
+[[zh:融资套利交易]]

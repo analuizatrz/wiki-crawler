@@ -1,0 +1,95 @@
+{{Other uses}}
+A '''word''' is a unit of [[language]] that carries [[Meaning (linguistic)|meaning]] and consists of one or more [[morpheme]]s which are linked more or less tightly together, and has a [[phonetic|phonetical]] value. Typically a word will consist of a [[root (linguistics)|root]] or [[stem (linguistics)|stem]] and zero or more [[affix|affixes]]. Words can be combined to create [[phrase]]s, [[clause]]s, and [[sentence (linguistics)|sentences]]. A word consisting of two or more stems joined together form a [[compound (linguistics)|compound]]. A word combined with another word or part of a word form a [[portmanteau]]. 
+[[Image:Codex claromontanus latin.jpg|thumb|200px|right|[[Latin]] written without any word breaks in the [[Codex Claromontanus]]]]
+
+== Difficulty in defining the term ==
+
+Depending on the language, words can sometimes be difficult to identify or delimit. While word separators, most often [[space (punctuation)|space]]s, are commonplace in the written corpus of several languages, some languages such as [[Chinese language|Chinese]] and [[Japanese language|Japanese]] do not use these. Words may contain spaces, however, if they are [[compound (linguistics)|compounds]] or [[proper noun]]s such as ''ice cream'' and ''the United States of America''. Furthermore, [[synthetic language]]s often combine many different pieces of lexical data into single words, making it difficult to boil them down to the traditional sense of words found more easily in [[analytic language]]s; this is especially problematic for [[polysynthetic language]]s such as [[Inuktitut]] and [[Ubykh language|Ubykh]] where entire sentences may consist of single such words. Especially confusing are languages such as [[Vietnamese language|Vietnamese]], where spaces do not necessarily indicate breaks in words and boundaries must be determined by the context of the piece. 
+
+However, of all situations, the most confusing is those for languages without written forms, including [[sign language]]s, which potentially only offer phonolexical clues as to where word boundaries lie.
+
+Official words, however, would be documented in a dictionary of whichever language you are categorizing them under.
+
+== Words in different classes of languages ==
+
+In [[synthetic language]]s, a single [[word stem]] (for example, ''love'') may have a number of different forms (for example, ''loves'', ''loving'', and ''loved''). However, these are not usually considered to be different words, but different forms of the same word. In these languages, words may be considered to be constructed from a number of morphemes (such as ''love'' and ''-s'').
+
+== Complexity of word boundaries in speech ==
+
+In [[spoken language]], the distinction of individual words is even more complex: short words are often run together, and long words are often broken up. Spoken [[French language|French]] has some of the features of a [[polysynthetic language]]: ''il y est allé'' ("He went there") is pronounced /{{IPA|i.ljɛ.ta.le}}/. As the majority of the world's languages are not written, the scientific determination of word boundaries becomes important.
+
+== Determining word boundaries ==
+
+{{unreferenced|date=November 2006}}
+
+There are five ways to determine where the word boundaries of spoken language should be placed:
+;Potential pause
+:A speaker is told to repeat a given sentence slowly, allowing for pauses. The speaker will tend to insert pauses at the word boundaries. However, this method is not foolproof: the speaker could easily break up polysyllabic words.
+;Indivisibility
+:A speaker is told to say a [[Sentence (linguistics)|sentence]] out loud, and then is told to say the sentence again with extra words added to it. Thus, ''I have lived in this village for ten years'' might become ''I and my family have lived in this little village for about ten or so years''. These extra words will tend to be added in the word boundaries of the original sentence. However, some languages have [[infix]]es, which are put inside a word.  Similarly, some have [[separable affix]]es; in the [[German language|German]] sentence "Ich '''komme''' gut zu Hause '''an'''," the verb ''ankommen'' is separated.
+;Minimal free forms
+:This concept was proposed by [[Leonard Bloomfield]]. Words are thought of as the smallest meaningful unit of speech that can stand by themselves. This correlates phonemes (units of sound) to [[lexeme]]s (units of meaning). However, some written words are not minimal free forms, as they make no sense by themselves (for example, ''the'' and ''of'').
+;Phonetic boundaries
+:Some languages have particular rules of [[pronunciation]] that make it easy to spot where a word boundary should be. For example, in a language that regularly [[lexical stress|stresses]] the last syllable of a word, a word boundary is likely to fall after each stressed syllable. Another example can be seen in a language that has [[vowel harmony]] (like [[Turkish language|Turkish]]): the vowels within a given word share the same ''quality'', so a word boundary is likely to occur whenever the vowel quality changes. However, not all languages have such convenient phonetic rules, and even those that do present the occasional exceptions.
+;Semantic units
+:Much like the abovementioned minimal free forms, this method breaks down a sentence into its smallest [[semantics|semantic]] units. However, language often contains words that have little semantic value (and often play a more grammatical role), or semantic units that are compound words.
+
+In practice, linguists apply a mixture of all these methods to determine the word boundaries of any given sentence. Even with the careful application of these methods, the exact definition of a word is often still very elusive.
+
+There are some words that seem very general but may truly have a technical definition, such as the word soon, usually meaning within a week.
+
+== Other Meanings == 
+"Word" can be used to mean "I agree" or "well said" <ref>{{ cite web | url = http://www.urbandictionary.com/define.php?term=word | title = The Urban Dictionary | accessdate = 2007-12-20 }}</ref>. Example: Person A said, "Wikipedia is a free encyclopedia." "Word!", replied Person B.
+
+== External links ==
+* [http://www.sussex.ac.uk/linguistics/documents/essay_-_what_is_a_word.pdf What Is a Word?] (PDF)
+
+== References ==
+{{reflist}}
+
+[[Category:Lexicology]]
+[[Category:Units of linguistic morphology]]
+[[Category:Syntactic entities]]
+
+[[ar:كلمة (لغة)]]
+[[be-x-old:Слова]]
+[[bg:Дума]]
+[[br:Ger]]
+[[ca:Paraula]]
+[[cs:Slovo (lingvistika)]]
+[[da:Ord]]
+[[de:Wort]]
+[[eo:Vorto]]
+[[es:Palabra]]
+[[et:Sõna]]
+[[fa:واژه]]
+[[fi:Sana]]
+[[fr:Mot]]
+[[he:מלה]]
+[[ia:Vocabulo]]
+[[id:Kata]]
+[[io:Vorto]]
+[[is:Orð]]
+[[it:Parola]]
+[[ja:語]]
+[[ml:വാക്ക്]]
+[[mk:Збор]]
+[[nl:Woord]]
+[[nn:Ord]]
+[[no:Ord]]
+[[oc:Mot]]
+[[pl:Wyraz]]
+[[pt:Palavra]]
+[[ro:Cuvînt]]
+[[ru:Слово (лингвистика)]]
+[[simple:Word]]
+[[sk:Slovo (lingvistika)]]
+[[sl:Beseda]]
+[[sq:Fjala]]
+[[sr:Реч]]
+[[sv:Ord]]
+[[th:คำ]]
+[[tr:Sözcük]]
+[[uk:Слово]]
+[[yi:װאָרט]]
+[[zh:词语]]

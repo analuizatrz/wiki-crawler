@@ -1,0 +1,30 @@
+{{protein
+| Name = chemokine (C-X-C motif) receptor 4
+| caption = 
+| image = 
+| width = 
+| HGNCid = 2561
+| Symbol = CXCR4
+| AltSymbols = CD184
+| EntrezGene = 7852
+| OMIM = 162643
+| RefSeq = NM_001008540
+| UniProt = P61073
+| PDB = 
+| ECnumber = 
+| Chromosome = 2
+| Arm = q
+| Band = 21
+| LocusSupplementaryData = 
+}}
+'''CXCR4''', also called '''fusin''', is an alpha-[[chemokine]] receptor specific for stromal-derived-factor-1 ([[Stromal cell-derived factor-1|SDF-1]] also called CXCL12), a molecule endowed with potent [[chemotactic]] activity for [[lymphocytes]]. This receptor is one of several chemokine receptors that [[HIV]] isolates can use to infect CD4+ T cells.  Traditionally, HIV [[isolates]] that use CXCR4 are known as T-cell tropic isolates.  Typically these viruses are found late in infection.  It is unclear whether the emergence of CXCR4-using HIV is a consequence or a cause of [[immunodeficiency]].
+
+Besides, CXCR4 is [[upregulated]] during the implantantion window in natural and HRT cycles in the endometrium, producing, in presence of a human [[blastocyst]], a surface polarization of the CXCR4 receptors suggesting that this rececptor is implicated in the adhesion phase of human [[implantation]].
+
+CXCR4's [[ligand]] [[Stromal cell-derived factor-1|SDF-1]] is known to be important in [[hematopoietic stem cell]] homing to the bone marrow and in hematopoietic stem cell [[quiescence]]. Unusually for chemokines, SDF-1 and CXCR4 are a relatively "monogamous" ligand-receptor pair (other chemokines tend to use several different chemokine receptors in a fairly "promiscuous" manner). Because the interaction between SDF-1 and CXCR4 plays an important role in holding [[hematopoietic stem cells]] in the bone marrow, drugs that block the CXCR4 receptor appear to be capable of "mobilizing" hematopoietic stem cells into the bloodstream as [[peripheral blood stem cells]]. [[Peripheral blood stem cell mobilization]] is very important in [[hematopoietic stem cell transplantation]] (as a recent  alternative to transplantation of surgically-harvested [[bone marrow]]) and is currently performed using drugs such as [[G-CSF]]. [[G-CSF]] is a growth factor for [[neutrophils]] (a common type of white blood cells), and may act by increasing the activity of neutrophil-derived proteases such as [[neutrophil elastase]] in the bone marrow leading to proteolytic degradation of SDF-1. [[AMD3100]] is an investigational drug, not yet in routine clinical use, which directly blocks the CXCR4 receptor: it appears to be a very efficient inducer of [[hematopoietic stem cell mobilization]] in animal and human studies.
+
+{{Cell-biology-stub}}
+{{Chemokine receptors}}
+{{clusters of differentiation}}
+
+[[zh:CXCR4]]

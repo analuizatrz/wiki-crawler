@@ -1,0 +1,83 @@
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = yes
+| update_citations = yes
+}}
+
+<!-- The GNF_Protein_box is automatically maintained by Protein Box Bot.  See Template:PBB_Controls to Stop updates. -->
+{{GNF_Protein_box
+ | image =  
+ | image_source =  
+ | PDB = 
+ | Name = Opsin 1 (cone pigments), medium-wave-sensitive (color blindness, deutan)
+ | HGNCid = 4206
+ | Symbol = OPN1MW
+ | AltSymbols =; CBBM; CBD; GCP
+ | OMIM = 303800
+ | ECnumber =  
+ | Homologene = 88332
+ | MGIid =  
+ | Function = {{GNF_GO|id=GO:0001584 |text = rhodopsin-like receptor activity}} {{GNF_GO|id=GO:0009881 |text = photoreceptor activity}} 
+ | Component = {{GNF_GO|id=GO:0005887 |text = integral to plasma membrane}} {{GNF_GO|id=GO:0016020 |text = membrane}} 
+ | Process = {{GNF_GO|id=GO:0007165 |text = signal transduction}} {{GNF_GO|id=GO:0007186 |text = G-protein coupled receptor protein signaling pathway}} {{GNF_GO|id=GO:0007601 |text = visual perception}} {{GNF_GO|id=GO:0007602 |text = phototransduction}} {{GNF_GO|id=GO:0018298 |text = protein-chromophore linkage}} {{GNF_GO|id=GO:0050896 |text = response to stimulus}} 
+ | Orthologs = {{GNF_Ortholog_box
+    | Hs_EntrezGene = 2652
+    | Hs_Ensembl =  
+    | Hs_RefseqProtein = NP_000504
+    | Hs_RefseqmRNA = NM_000513
+    | Hs_GenLoc_db =  
+    | Hs_GenLoc_chr =  
+    | Hs_GenLoc_start =  
+    | Hs_GenLoc_end =  
+    | Hs_Uniprot =  
+    | Mm_EntrezGene =  
+    | Mm_Ensembl =  
+    | Mm_RefseqmRNA =  
+    | Mm_RefseqProtein =  
+    | Mm_GenLoc_db =  
+    | Mm_GenLoc_chr =  
+    | Mm_GenLoc_start =  
+    | Mm_GenLoc_end =  
+    | Mm_Uniprot =  
+  }}
+}}
+'''Opsin 1 (cone pigments), medium-wave-sensitive (color blindness, deutan)''', also known as '''OPN1MW''', is a human [[gene]].<ref name="entrez">{{cite web | title = Entrez Gene: OPN1MW opsin 1 (cone pigments), medium-wave-sensitive (color blindness, deutan)| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=2652| accessdate = }}</ref>
+
+<!-- The PBB_Summary template is automatically maintained by Protein Box Bot.  See Template:PBB_Controls to Stop updates. -->
+{{PBB_Summary
+| section_title = 
+| summary_text = 
+}}
+
+==See also==
+* [[Opsin]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal  | author=Applebury ML, Hargrave PA |title=Molecular biology of the visual pigments. |journal=Vision Res. |volume=26 |issue= 12 |pages= 1881-95 |year= 1987 |pmid= 3303660 |doi=  }}
+*{{cite journal  | author=Winderickx J, Sanocki E, Lindsey DT, ''et al.'' |title=Defective colour vision associated with a missense mutation in the human green visual pigment gene. |journal=Nat. Genet. |volume=1 |issue= 4 |pages= 251-6 |year= 1993 |pmid= 1302020 |doi= 10.1038/ng0792-251 }}
+*{{cite journal  | author=Neitz J, Neitz M, Jacobs GH |title=Analysis of fusion gene and encoded photopigment of colour-blind humans. |journal=Nature |volume=342 |issue= 6250 |pages= 679-82 |year= 1990 |pmid= 2574415 |doi= 10.1038/342679a0 }}
+*{{cite journal  | author=Nathans J, Thomas D, Hogness DS |title=Molecular genetics of human color vision: the genes encoding blue, green, and red pigments. |journal=Science |volume=232 |issue= 4747 |pages= 193-202 |year= 1986 |pmid= 2937147 |doi=  }}
+*{{cite journal  | author=Li ZY, Kljavin IJ, Milam AH |title=Rod photoreceptor neurite sprouting in retinitis pigmentosa. |journal=J. Neurosci. |volume=15 |issue= 8 |pages= 5429-38 |year= 1995 |pmid= 7643192 |doi=  }}
+*{{cite journal  | author=Ladekjaer-Mikkelsen AS, Rosenberg T, Jørgensen AL |title=A new mechanism in blue cone monochromatism. |journal=Hum. Genet. |volume=98 |issue= 4 |pages= 403-8 |year= 1996 |pmid= 8792812 |doi=  }}
+*{{cite journal  | author=Ferreira PA, Nakayama TA, Pak WL, Travis GH |title=Cyclophilin-related protein RanBP2 acts as chaperone for red/green opsin. |journal=Nature |volume=383 |issue= 6601 |pages= 637-40 |year= 1996 |pmid= 8857542 |doi= 10.1038/383637a0 }}
+*{{cite journal  | author=Vissers PM, Bovee-Geurts PH, Portier MD, ''et al.'' |title=Large-scale production and purification of the human green cone pigment: characterization of late photo-intermediates. |journal=Biochem. J. |volume=330 ( Pt 3) |issue=  |pages= 1201-8 |year= 1998 |pmid= 9494086 |doi=  }}
+*{{cite journal  | author=Bernstein SL, Wong P |title=Regional expression of disease-related genes in human and monkey retina. |journal=Mol. Vis. |volume=4 |issue=  |pages= 24 |year= 1998 |pmid= 9815288 |doi=  }}
+*{{cite journal  | author=Hayashi T, Motulsky AG, Deeb SS |title=Position of a 'green-red' hybrid gene in the visual pigment array determines colour-vision phenotype. |journal=Nat. Genet. |volume=22 |issue= 1 |pages= 90-3 |year= 1999 |pmid= 10319869 |doi= 10.1038/8798 }}
+*{{cite journal  | author=Ueyama H, Kuwayama S, Imai H, ''et al.'' |title=Novel missense mutations in red/green opsin genes in congenital color-vision deficiencies. |journal=Biochem. Biophys. Res. Commun. |volume=294 |issue= 2 |pages= 205-9 |year= 2002 |pmid= 12051694 |doi= 10.1016/S0006-291X(02)00458-8 }}
+*{{cite journal  | author=Zhu X, Brown B, Li A, ''et al.'' |title=GRK1-dependent phosphorylation of S and M opsins and their binding to cone arrestin during cone phototransduction in the mouse retina. |journal=J. Neurosci. |volume=23 |issue= 14 |pages= 6152-60 |year= 2003 |pmid= 12853434 |doi=  }}
+*{{cite journal  | author=Bonilha VL, Hollyfield JG, Grover S, Fishman GA |title=Abnormal distribution of red/green cone opsins in a patient with an autosomal dominant cone dystrophy. |journal=Ophthalmic Genet. |volume=26 |issue= 2 |pages= 69-76 |year= 2005 |pmid= 16020309 |doi= 10.1080/13816810590968041 }}
+}}
+{{refend}}
+
+{{membrane-protein-stub}}
+{{G protein-coupled receptors}}
+[[Category:G protein coupled receptors]]

@@ -1,0 +1,123 @@
+{{Infobox VG
+|title=Stars!
+|image=<!-- Deleted image removed: [[Image:Stars!BoxCover.jpg|119px]] -->
+|caption=
+|developer=Jeff Johnson and Jeff McBride
+|publisher=[[Empire Interactive]]
+|distributor= 
+|designer= 
+|series= 
+|engine= 
+|version= 2.7j RC4
+|released=1995
+|genre=[[4X game|4X]], [[Turn-based strategy]]
+|modes=[[Single-player]], [[PBEM]]
+|ratings= 
+|platforms = [[Microsoft Windows|Windows]]
+|media = [[Compact Disc|CD]] (1) or:<br />[[Download]]
+|requirements = [[Intel 80386]] [[Central processing unit|CPU]], 4MB [[Random access memory|RAM]], [[Microsoft Windows|Windows]] 3.1 or higher
+|input = [[Computer keyboard|Keyboard]], [[Mouse (computing)|Mouse]]
+}}
+'''''Stars!''''' is a complex [[turn-based]] [[computer game]] based around the management of planets and fleets of spaceships following the [[4X game]] (eXplore, eXpand, eXploit & eXterminate) model.  
+The game has been around since 1995, and still has a strong following.
+
+== Developer and publisher ==
+''Stars!'' was developed by Jeff Johnson and Jeff McBride ("the Jeffs") for their own use, and initially released as [[shareware]].  A retail version was later produced for, and published by [[Empire Interactive]], although the shareware version continued.  
+More recently the game has been sold as part of the [[Xplosiv]] budget games range.
+
+== History ==
+The game was originally developed in [[1995 in video gaming|1995]], with version 2.0 released early in [[1996 in video gaming|1996]].  Later that year the newsgroup rec.games.computer.stars became active, facilitating public discussion of tactics and allowing players to find new games.  
+By the end of 1996 version 2.6 had been released, and the game has remained essentially unchanged ever since, although there have been numerous updates.  
+The most recent patch version, 2.7j RC4 (release candidate 4) was released in December of 2000. Versions 2.6 and 2.7 nearly identical and both compatible as long as the minor version letter is the same (eg: 2.6i can play with 2.7i players).
+
+By 1998 the game had been analysed so thoroughly that some players were starting to complain that winning a game required a degree in [[mathematics]].  While this is an obvious exaggeration, it is true that it is difficult to compete at higher levels of play without a good understanding of the mathematics behind the game.
+
+== Modes of play ==
+The game is well adapted to the Play-By-Email ([[Play-by-mail game|PBEM]]) style of multiplayer gaming.  One player takes on duties as host, and the other players send their instructions (turn files) by email to the host.  The host then generates the results of those instructions and emails back the results.
+
+An alternative to play-by-email is to use an online system such as the [http://starsautohost.org/stars.htm Stars! Autohost].  This system automates most of the hosting duties, and can handle a large number of games simultaneously.
+
+Many games are run at a rate of 1 turn per calendar day, giving plenty of time for strategic thinking.  In large games this can be quite necessary, with turn generation dropping to only 3 times per week in cases, due to the complexity of the game and the level of [[micro-management]] required to effectively control a large empire competitively.
+
+There is also a reasonably competent [[artificial intelligence]] (AI) that can take part in the game.  The player can opt to play against AIs only (up to 15 of them), and this is the way that new players typically get to learn the game mechanics before launching into multi-player games.  A well-regarded [[tutorial]] helps with getting started.
+
+Another style of play is referred to as a Blitz game.  In these games, turns are played every 15 minutes or so, and all players must be at their computers at the same time.  Blitz games are generally more tactical and less political in nature, due to the time constraints involved.
+
+Recently, the [[duel]] has become more popular.  These are similar to regular turn-a-day games but are between two players only.  Again, with only two players involved there is no political side to these games.
+
+[[Image:Stars screenshot.png|thumb|320px|Screenshot &mdash; Small green circles are planets on which the player can live. Small red circles are planets that are not habitable. Small yellow circles are planets that can be terraformed to become habitable. Grey dots are unexplored planets.
+The large maroon and olive circles show scanning capability. The larger maroon area shows where ships can be scanned while in space (barring any stealthing). The smaller olive areas show penetrating scan range, where ships can be detected while in orbit around a planet and planet properties can be examined.
+The flags on planets show who owns the planet; blue for the current player, dark red for an enemy.
+The little blue triangles are the spaceship fleets of the current player. The blue lines show the routes assigned to various spaceships.
+On the left side of the screen, information about the selected planet is shown. It can alternatively accommodate information about a fleet.]]
+
+== Graphics ==
+The [[graphics]] in the game are rudimentary, which is not surprising given its age.  It is entirely [[2D computer graphics|2D]], and the graphics consist of the main map view and static pictures of planets, ship hulls and components.  Even battles consist of moving unanimated icons around a grid.
+
+This does have the advantage of allowing the game to run on almost any computer, and it can even be run on [[Linux]] systems through the [[WINE]] system. Version 2.7 crashes during combat on some Linux distributions. Stars! does not run on the 64-bit version of [[Windows Vista]], which cannot run 16-bit software.
+
+==Gameplay==
+<!-- Please keep this section as brief as possible. Only very important information directly related to basic gameplay should be added. Any other information may be added to the ''Stars!'' Gameplay article. -->
+{{main|Gameplay of Stars!}}
+
+Starting with a small fleet of starting ships and one or two planets, players develop their empire, meet other races and conquer the galaxy. ''Stars!'' games begin with ''race design'', choosing one of 10 different ''primary racial traits'', a selection of ''lesser racial traits'', habitability, growth, economic and technology settings.<ref name=rdsbs>http://www.starsfaq.com/articles/sru/art138.htm Race Design, Step by Step. Mahrin Skel. Stars!-R-Us.</ref>
+
+Players initially send [[Reconnaissance|scouts]] out to scan for suitable planets which may be later colonized and developed, enlarging the player's empire and providing additional resources. As a player's empire expands the player must balance the management of population, minerals, research and ship/infrastructure constructions. When other players' races are encountered, a variety of [[diplomacy]] options allow for alliances, trading mineral resources or technology, large-scale wars, and even the complete destruction of other races. If the [[Random]] events game option is enabled, players will also have to contend with (or take advantage of) the [[Mystery Trader]], [[comet]] strikes, [[wormholes]] and environmental changes.
+
+Because of the high level of micromanagement and diplomacy requirements many games take place over a period of months between players spread across the globe.  Alliances form, backs are stabbed and the outcomes of wars are decided by long email conversations.
+
+==Reception==
+
+''Stars!'' has received some generally positive reviews. [[PC Gamer UK]]'s reviewer Andy Butcher gave the game a rating of 79% in its February 1997 issue, commending it with the following comment: "What makes it stand out from the many games based on a similar idea are its depth, and that it's been designed right from the start with multi-player gaming in mind". Pitfalls he mentions include that the large amount of options available can make the game confusing, and that the game is likely to be less appealing to single players.<ref>Butcher, A "PC Gamer", page 85. Future Publishing Ltd, February 1995</ref>
+
+[[GameStop]]'s reviewer T. Liam McDonald rated the game 7.3 "Good", applauding "a solid Windows interface, plain graphics, a wide range of custom options, deep strategic content, and compulsive playability" and stating that the game outdoes the similar game [[Spaceward Ho!]] 4.0
+
+== Tools and utilities ==
+Over the years a number of [[Third-party developer|third party]] tools and utilities have been developed to help players manage their empires.  These are invariably distributed as freeware, and several of them are of particularly high quality.  
+These utilities can generally be found during a quick search through some of the websites listed below (external links) and downloaded for immediate use.
+
+==Sequels==
+===''Stars! Supernova Genesis''===
+The huge popularity of the original ''Stars!'' game convinced the developers that there would be a market for a sequel.  The developers of ''Stars!'' formed a company called Mare Crisium Studios and began development of [[Supernova Genesis]].  This was intended to be a much more advanced game, with significantly better graphics, and also to remove some of the irritations of the original (such as the level of micro-management).
+
+Unfortunately there was little interest from games publishers who by that time had become focused exclusively on the [[games console|video game console]] and high-end [[3D computer graphics|3D]] games markets, and so the project was eventually abandoned. As rights to the ingame graphics remain with Empire, it is unlikely that the game will be brought back into production.
+
+===''Stars! 3''===
+On [[August 27]] [[2005]], information about a second sequel, tentatively named ''Stars! 3'', was posted to Usenet.<ref>http://groups.google.com/group/rec.games.computer.stars/browse_thread/thread/21bdd60ed8706438/6f96fc3e73c416c6 Stars Supernova Genesis Beta. 2 August 2005. Google Groups.</ref>  Developed in private by ex-members of the Supernova Genesis team, it has an uncertain future, hinting on a return to the self-publishing model.
+
+== Clones and imitators ==
+With ''Stars!'' no longer supported and the sequel abandoned, fans of the game decided to make their own, open source ''Stars!'' clones:
+* [http://freestars.sourceforge.net FreeStars] is written in C++ and is divided in a client and server structure. The last release was in 2004.
+* [http://stellarlegacy.sourceforge.net Stellar Legacy] was intended to be an open source clone of ''Stars!'' but the project has diverged and simply uses ideas from ''Stars!''. The last release was in 2002.
+* [[Thousand Parsec]] has been started because ''Supernova Genesis'' never arrived. From initial plan of being a ''Stars!'' clone it evolved into being a general framework for turn based space empire building games.
+* [http://homepage.ntlworld.com/ken-reed/Ken/Nova.htm Nova] is a new ''Stars!'' clone written by Ken Reed in [[C Sharp|C#]].
+
+== References ==
+<references/>
+
+== External links ==
+* [http://www.crisium.com/stars/index.html Mare Crisium, creators of Stars!] (offline)
+<!--
+* [http://www.crisium.com/stars/demo.htm Demonstration version of Stars!] (offline)
+-->
+* [http://stars.lelv30.net Demonstration version of Stars!]
+* [http://www.starsfaq.com/ Stars! FAQ web site]
+* [http://groups.google.com/groups?hl=en&lr=&ie=UTF-8&group=rec.games.computer.stars rec.games.computer.stars on Google groups]
+* [http://www.starsautohost.org/sahforum/ Home World Forum discussion pages]
+* [http://www.starsautohost.org/stars.htm Stars! Autohost]
+* [http://www.starbasedelta.com Resource for Stars! Supernova Genesis] (decommissioned)
+* [http://egamia.com/w2/index.php?title=Stars! Stars! entry at Encyclopedia Gamia]
+* [http://wiki.gible.net/index.php?title=Main_Page Stars!Wiki]
+* [irc://irc.starlink.org/stars! Stars! Official IRC Channel - #stars! on irc.starlink.org]
+
+[[Category:1995 video games]]
+[[Category:4X video games]]
+[[Category:Science fiction video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Windows games]]
+[[Category:Play-by-email video games]]
+
+[[de:Stars!]]
+[[pl:Stars!]]
+[[ru:Stars!]]

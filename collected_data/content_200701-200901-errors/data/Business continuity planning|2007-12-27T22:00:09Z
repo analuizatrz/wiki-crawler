@@ -1,0 +1,222 @@
+[[Image:BCPLifecycle.gif|thumb|Business continuity planning life cycle]]
+'''Business Continuity Planning''' ('''BCP''') is an [[interdisciplinary]] [[peer mentoring]] [[methodology]] used to create and validate a practiced [[logistical]] [[plan]] for how an [[organization]] will recover and restore partially or completely interrupted [[critical]] function(s) within a predetermined time after a [[disaster]] or extended disruption. The logistical plan is called a '''''Business Continuity Plan'''''.  For open source BCP "how-to" [[guideline]]s, see [[Wikibooks]] -  [http://en.wikibooks.org/wiki/Wikibooks:Business_and_economics_bookshelf Business and economics]  
+
+In plain language, BCP is how an organization prepares for future incidents that could jeopardize the organization's core mission and its longterm health. Incidents include local incidents like building fires, regional incidents like earthquakes, or national incidents like pandemic illnesses.
+
+BCP may be a part of an [[organizational learning]] effort that helps reduce [[operational risk]] associated with lax [[information management]] controls. This process may be integrated with improving [[information security]] and corporate reputation [[risk management]] practices. 
+
+In December 2006, the [[British Standards Institute]] released a new independent standard for BCP — [[Bs 25999|BS 25999]].  Prior to the introduction of BS25999, BCP professionals relied on BSI information security standard [[BS7799]], which only peripherally addressed BCP to improve an organization's information security compliance.  BS25999's applicability extends to organizations of all types, sizes, and missions whether governmental or private, profit or non-profit, large or small, or industry sector.
+
+In 2004, the [[United Kingdom]] enacted the Civil Contingencies Act, a statute that instructs all emergency services and local authorities to actively prepare and plan for emergencies. Local authorities also have the legal obligation under this act to actively lead promotion of business continuity practices amongst its geographical area.
+
+== Introduction ==
+<!-- Unsourced image removed: [[Image:WTC1_on_fire.jpg|thumb|250px|right|The World Trade Center on fire]] -->
+A completed BCP cycle results in a formal [[printed]] [[manual]] available for reference before, during, and after disruptions have occurred. Its purpose is to reduce adverse [[stakeholder]] impacts determined by both the disruption's scope (who and what it affects) and duration (how bad, implications last for hours, months etc). Measureable [[business impact analysis]] (BIA) "zones" (areas in which hazards and threats reside)include civil, economic, natural, technical, secondary and subsequent.     
+
+For the purposes of this article, the term ''disaster'' will be used to represent [[natural disaster]], [[man-made hazards|human-made disaster]], and disruptions.   
+
+Prior to [[January 1]], [[2000]], governments anticipated computer failures, called the [[Y2k]] problem, in important public utility infrastructures like [[banking]], [[electric power|power]], [[telecommunication]], [[health]] and [[financial]] industries.  Since 1983, regulatory agencies like the [[American Bankers Association]] and [[BAI (organization)|Banking Administration Institute]] (BAI) required their supporting members to exercise operational continuity practices (later supported by more formal BCP manuals) that protect the public interest. Newer regulations were often based on formalized standards defined under ISO/IEC 17799 or BS 7799.  
+
+Both regulatory and global business focus on BCP arguably waned after the problem-free Y2K rollover.  Some believe this lax attitude ended [[September 11, 2001 attacks|September 11th 2001]], when simultaneous terrorist attacks devastated downtown [[New York City]] and changed the 'worst case scenario' [[paradigm]] for business continuity planning. <ref>http://www.continuitycentral.com/feature003.htm</ref>
+
+BCP methodology is [[scalable]] for an organization of any [[size]] and [[complexity]]. Even though the methodology has roots in [[Critical Infrastructure Protection|regulated industries]], any type of organization may create a BCP manual, and arguably every organization ''should'' have one in order to ensure the organization's [[longevity]]. Evidence that firms do not invest enough time and resources into BCP preparations are evident in disaster survival statistics. Fires permanently close 44% of the business affected.<ref>http://www.iwar.org.uk/infocon/business-continuity-planning.htm</ref> In the 1993 [[World Trade Center]] bombing, 150 businesses out of 350 affected failed to survive the event.  Conversely, the firms affected by the Sept. 11 attacks with well-developed and tested BCP manuals were back in business within days. <ref>http://howe.stevens.edu/Research/ATT/ReportAllSep1004_v3.pdf</ref>
+
+A BCP manual for a small organization may be simply a printed manual stored safely away from the primary work location, containing the names, addresses, and phone numbers for crisis management staff, general staff members, clients, and vendors along with the location of the offsite [[data]] [[backup]] [[storage media]], copies of insurance contracts, and other critical materials necessary for organizational survival. 
+At its most complex, a BCP manual may outline a [[secondary]] work site, technical requirements and readiness, [[regulatory]] reporting requirements, work recovery measures, the means to reestablish physical records, the means to establish a new supply chain, or the means to establish new production centers. 
+Firms should ensure that their BCP manual is realistic and easy to use during a crisis. As such, BCP sits along side [[crisis management]] and [[disaster recovery|disaster recovery planning]] and is a part of an organization's overall [[risk management]].
+
+The development of a BCP manual can have five main phases: 
+#Analysis
+#[[solution|Solution]] design
+#[[implementation|Implementation]]
+#Testing and [[UAT|organization acceptance]]
+#[[Maintenance, repair and operations|Maintenance]].
+
+The above list is not exhaustive. There are a number of other considerations that could be included in your own plan / manual:
+- Risk Identification Matrix
+- Roles and Responsibilities (ensuring names are left out but titles are included, e.g. HR Manager)
+- Identification of top risks and mitigating strategies.
+- Considerations for resource reallocation e.g. skills matrix for larger organizations.
+
+Much of the BCP material on the internet is sponsored by consultancies who offer fee-based services for BCP solution development, however basic tutorials are freely available on the internet for properly motivated organizations. <ref>http://nonprofitrisk.org/tutorials/bcp_tutorial/intro/1.htm</ref>
+
+== Analysis ==
+The analysis phase in the development of a BCP manual consists of an impact analysis, threat analysis, and impact scenarios with the resulting BCP plan requirement documentation.
+
+=== Impact analysis ===
+An impact analysis results in the [[differentiation]] between [[critical]] and non-critical organization functions.  A function may be considered critical if the implications for [[stakeholders]] of damage to the organization resulting are regarded as unacceptable. Perceptions of the acceptability of disruption may be modified by the cost of establishing and maintaining appropriate [[business]] or [[technical]] [[recovery]] solutions.  A function may also be considered critical if dictated by [[law]].  Next, the impact analysis results in the recovery requirements for each critical function.  Recovery requirements consist of the following information:
+* The time frame in which the critical function must be resumed after the disaster
+* The business requirements for recovery of the critical function, and/or
+* The technical requirements for recovery of the critical function
+
+=== Threat analysis ===
+[[Image:Sars-corona.png|thumb|250px||The [[coronavirus]] suggested as a causative agent for the [[SARS]] outbreak in 2002]]
+
+After defining recovery requirements, documenting potential threats is recommended to detail a specific disaster’s unique recovery steps.  Some common threats include the following:
+
+* [[Disease]] [http://www.continuitycentral.com/feature0162.htm]
+* [[Earthquake]] [http://www.theregister.co.uk/2002/04/02/taiwan_recovers_from_earthquake/]
+* [[Fire]]
+* [[Flood]] [http://www.continuitycentral.com/news0797.htm]
+* [[Hacker|Cyber attack]]
+* [[Bribery]]
+* [[Hurricane]] [http://www.continuitycentral.com/news01508.htm#]
+* [[Power outage|Utility outage]] [http://www.continuitycentral.com/news0981.htm]
+* [[Terrorism]] [http://www.protiviti.com/downloads/PRO/pro-us/articles/FeatureArticle_20040213.html]
+
+All threats in the examples above share a common impact: the potential of damage to organizational infrastructure - except one (disease).  
+The impact of diseases can be regarded as purely human, and may be alleviated with technical and business solutions. However, if the humans behind these recovery plans are also affected by the disease, then the process can fall down. 
+During the [[2002]]-[[2003]] [[SARS]] outbreak, some organizations grouped staff into separate teams, and rotated the teams between the primary and secondary work sites, with a [[Wiktionary:rotation|rotation]] [[frequency]] equal to the [[incubation period]] of the disease. 
+The organizations also banned face-to-face contact between opposing team members during business and non-business hours.  With such a split, organizations increased their resiliency against the threat of government-ordered [[quarantine]] measures if one person in a team contracted or was exposed to the disease.  Damage from [[flooding]] also has a unique characteristic. If an office environment is flooded with non-salinated and contamination-free water (e.g., in the event of a pipe burst), equipment can be thoroughly dried and may still be functional.
+
+=== Definition of impact scenarios ===
+After defining potential threats, documenting the impact scenarios that form the basis of the business recovery plan is recommended.  In general, planning for the most wide-reaching disaster or disturbance is preferable to planning for a smaller scale problem, as almost all smaller scale problems are partial elements of larger disasters.  A typical impact scenario like 'Building Loss' will most likely encompass all critical business functions, and the worst potential outcome from any potential threat.  A business continuity plan may also document additional impact scenarios if an organization has more than one building.  Other more specific impact scenarios - for example a scenario for the temporary or permanent loss of a specific floor in a building - may also be documented.
+
+=== Recovery requirement documentation ===
+After the completion of the analysis phase, the business and technical plan requirements are documented in order to commence the implementation phase. A good asset management program can be of great assistance here and allow for quick identification of available and re-allocateable resources.  For an [[office]]-based, [[Information Technology|IT]] intensive business, the plan requirements may cover the following elements which may  be classed as ICE (In Case of Emergency) Data:
+* The numbers and types of desks, whether dedicated or shared, required outside of the primary business location in the secondary location
+* The individuals involved in the recovery effort along with their contact and technical details
+* The applications and application data required from the secondary location desks for critical business functions
+* The manual workaround solutions
+* The maximum outage allowed for the applications
+* The peripheral requirements like [[computer printer|printers]], [[copier]], [[fax machine]], [[calculators]], [[paper]], [[pen]]s etc.
+Other business environments, such as production, distribution, warehousing etc will need to cover these elements, but are likely to have additional issues to manage following a disruptive event.
+
+== Solution design ==
+The goal of the solution design phase is to identify the most cost effective [[disaster recovery]] solution that meets two main requirements from the impact analysis stage. For IT applications, this is commonly expressed as:
+# The minimum application and application data requirements
+# The time frame in which the minimum application and application data must be available
+Disaster recovery plans may also be required outside the IT applications domain, for example in preservation of information in hard copy format, or restoration of embedded technology in process plant.
+This BCP phase overlaps with [[Disaster recovery|Disaster recovery planning]] methodology.  The solution phase determines:
+* the crisis management command structure
+* the location of a [[Backup site|secondary work site]] (where necessary)
+* telecommunication architecture between primary and secondary work sites
+* data replication methodology between primary and secondary work sites
+* the application and software required at the secondary work site, and
+* the type of physical data requirements at the secondary work site.
+
+== Implementation ==
+The implementation phase, quite simply, is the execution of the design elements identified in the solution design phase.  Work package testing may take place during the implementation of the solution, however; work package testing does not take the place of organizational testing.
+
+== Testing and organizational acceptance ==
+The purpose of testing is to achieve organizational acceptance that the business continuity solution satisfies the organization's recovery requirements.  Plans may fail to meet expectations due to insufficient or inaccurate recovery requirements, solution design flaws, or solution implementation errors.  Testing may include:
+* Crisis command team call-out testing
+* Technical swing test from primary to secondary work locations
+* Technical swing test from secondary to primary work locations
+* Application test
+* Business process test
+
+At minimum, testing is generally conducted on a biannual or [[Year|annual]] schedule. Problems identified in the initial testing phase may be rolled up into the maintenance phase and retested during the next test cycle.
+
+== Maintenance ==
+Maintenance of a BCP manual is broken down into three periodic activities.  
+The first activity is the confirmation of information in the manual, roll out to ALL staff for awareness and specific training for individuals who's roles are identified as critical in response and recovery.  
+The second activity is the testing and verification of technical solutions established for recovery operations. 
+The third activity is the testing and verification of documented organization recovery procedures.  A biannual or annual maintenance cycle is typical.
+
+=== Information update and testing ===
+All organizations change over time, therefore a BCP manual must change to stay relevant to the organization.  Once data accuracy is verified, normally a call tree test is conducted to evaluate the notification plan's efficiency as well as the accuracy of the contact data.  Some types of changes that should be identified and updated in the manual include:
+* Staffing changes
+* Staffing persona
+* Changes to important clients and their contact details
+* Changes to important vendors/suppliers and their contact details
+* Departmental changes like new, closed or fundamentally changed departments.
+
+=== Testing and verification of technical solutions ===
+As a part of ongoing maintenance, any specialized technical deployments must be checked for functionality.  Some checks include:
+
+* [[Computer virus|Virus]] definition distribution
+* Application security and service patch distribution
+* Hardware operability check
+* Application operability check
+* Data verification
+
+=== Testing and verification of organization recovery procedures ===
+As work processes change over time, the previously documented organizational recovery procedures may no longer be suitable.  Some checks include:
+
+* Are all work processes for critical functions documented?
+* Have the systems used in the execution of critical functions changed?
+* Are the documented work checklists meaningful and accurate for staff?
+* Do the documented work process recovery tasks and supporting disaster recovery infrastructure allow staff to recover within the predetermined recovery time objective?
+
+=== Treatment of test failures ===
+As suggested by the diagram included in this article, there is a direct relationship between the test and maintenance phases and the impact phase.  When establishing a BCP manual and recovery infrastructure from scratch, issues found during the testing phase often must be reintroduced to the analysis phase.
+
+== See also ==
+{{sisterlinks}}
+* [[Business Continuity Institute]]
+* [[Catastrophe]]
+* [[Data recovery]]
+* [[Disaster recovery]]
+* [[Disaster]]
+* [[Emergency management]]
+* List of disasters
+* [[Natural disasters|Natural hazards]]
+* [[Man-made hazards]]
+* [[Space disaster]]
+* [[Risk management]]
+* [[Disaster recovery and business continuity auditing]]
+* [[Systems engineering]]
+* [[Systems engineering process]]
+* [[System lifecycle]]
+* [[Systems thinking]]
+
+== References ==
+===Notes===
+<references/>
+===Bibliography===
+*[http://www.continuityforum.org/  More on Business Continuity and British Standard 25999] ''Continuity Forum'' 
+*[http://www.ready.gov/business/plan/planning.html Continuity of Operations Planning] (no date). ''[[U.S. Department of Homeland Security]]''. Retrieved July 26, 2006.
+*[http://www.fema.gov/business/bc.shtm Purpose of Standard Checklist Criteria For Business Recovery] (no date). ''[[Federal Emergency Management Agency]]''. Retrieved July 26, 2006.
+*[http://www.nfpa.org/PDF/nfpa1600.pdf?src=nfpa NFPA 1600 Standard on Disaster/Emergency Management and Business Continuity Programs &mdash; PDF] (2007). ''[[National Fire Protection Association]]''.
+* [http://www.gao.gov/special.pubs/bcpguide.pdf United States General Accounting Office Y2k BCP Guide] (August 1998). ''[[Government Accountability Office|United States Government Accountability Office]]''.
+
+== Further reading ==
+* ISO/IEC 27001:2005 (formerly BS 7799-2:2002) by the International Organization for Standardization
+* ISO/IEC 17799:2005 by the International Organization for Standardization
+* "A Guide to Business Continuity Planning" by James C. Barnes
+* "Business Continuity Planning", A Step-by-Step Guide with Planning Forms on CDROM by Kenneth L Fulmer
+* "Disaster Survival Planning: A Practical Guide for Businesses" by Judy Bell
+* PAS 56:2003 Guide to Business Continuity Management, British Standards Institution
+* ICE Data Management (In Case of Emergency) made simple - by MyriadOptima.com
+* BS 25999-1:2006 Business Continuity Management Part 1: Code of practice - British Standards Institution
+* IWA 5:2006 Emergency Preparedness - International Standards Organization
+
+==External links==
+{{ External links | January 2007 }}
+*[http://en.wikibooks.org/wiki/Business_continuity_planning#Introduction Wikibooks]: ''Business Continuity Planning (BCP) life cycle''
+*[http://www.bcpa.org Business Continuity Planners Association] - adapting [[systems thinking|anticipatory thinking]] for [[interdependence|mutual benefit]].
+*[http://nonprofitrisk.org/tools/business-continuity/intro/1.htm Business Continuity Plan Writing Tutorial]
+*[http://www.continuityforum.org/  Continuity Forum] ''Continuity Forum BCM Good Practice Public and private sector'' 
+*[http://www.ffiec.gov/ffiecinfobase/booklets/bcp/bcp_toc.htm Federal Financial Institutions Examination Council's Information Technology Examination Handbook]
+*[http://www.globalcontinuity.com/ Globalcontinuity.com]
+*[http://www.dir.state.tx.us/security/continuity/ DIR Texas Department of Information Resource]
+*[http://www.drii.org The Institue for Continuity Management]
+*[http://www.ready.gov/business/index.html Department of Homeland Security Emergency Plan Guidelines]
+
+=== BSI 17799 supplements ===
+*[http://www.17799central.com 17799 Central]
+*[http://www.bsi-global.com British Standards Institute]
+*[http://www.standardsdirect.org/iso17799.htm ISO17799 Standards Direct]
+*[http://iso-17799.safemode.org ISO 17799 Wiki]
+*[http://17799-news.the-hamster.com ISO 17799 Newsletter]
+*[http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=44985&ICS1=13&ICS2=200&ICS3= ISO BCM Direction Change]
+*[http://www.bsi-global.com/en/Shop/Publication-Detail/?pid=000000000030157563 BSI BCM]
+
+=== Competency certification ventures === 
+*[http://www.drii.org/ The Institute for Continuity Management- CBCP, MBCP] 
+*[http://www.thebci.org ''The Business Continuity Institute]
+*[http://www.business-continuity-world.com Business Continuity World]
+
+
+[[Category:Anticipatory thinking]]
+[[Category:Business continuity and disaster recovery| ]]
+[[Category:Collaboration]]
+
+[[de:Kontinuitätsmanagement]]
+[[fr:Plan de continuité d'activité]]
+[[id:Perencanaan Kelangsungan Bisnis]]
+[[it:Business continuity plan]]
+[[lt:IT Service continuity management]]
+[[nl:Business Continuity Management]]
+[[ja:事業継続マネジメント]]

@@ -1,0 +1,179 @@
+{{unreferenced|article|date=December 2006}}
+{{for|the journal|Analytical Chemistry (journal)}}
+
+'''Analytical chemistry''' is the [[:wikt:analysis|analysis]] of material samples to gain an understanding of their [[chemical composition]], [[structure]] and function.
+
+==Introduction==
+
+Analytical chemistry is a sub discipline of [[chemistry]] that has the broad mission of understanding the chemical nature of all matter. This differs from other sub disciplines of chemistry in that it is not intended to understand the physical basis for the observed chemistry as with [[physical chemistry]] and it is not intended to control or direct chemistry as is often the case in [[organic chemistry]]. Analytical chemistry generally does not attempt to use chemistry or understand its basis; however, these are common outgrowths of analytical chemistry research. Analytical chemistry has significant overlap with other branches of chemistry, especially those that are focused on a certain broad class of chemicals, such as [[organic chemistry]], [[inorganic chemistry]] or [[biochemistry]], as opposed to a particular way of understanding chemistry, such as [[theoretical chemistry]]. For example the field of bioanalytical chemistry is a growing area of analytical chemistry that addresses all analytical questions in [[biochemistry]], (the chemistry of life). Analytical chemistry and experimental [[physical chemistry]], however, have a unique relationship in that they are very unrelated in their mission but often share the most in common in the tools used in experiments.
+
+Analytical chemistry is particularly concerned with the questions of "what chemicals are present, what are their characteristics and in what quantities are they present?" These questions are often involved in questions that are more dynamic such as what [[chemical reaction]] an [[enzyme]] [[catalysis|catalyzes]] or how fast it does it, or even more dynamic such as what is the [[transition state]] of the reaction. Although analytical chemistry addresses these types of questions it stops after they are answered. The logical next steps of understanding what it means, how it fits into a larger system, how can this result be generalized into theory or how it can be used are not analytical chemistry. Since analytical chemistry is based on firm experimental evidence and limits itself to some fairly simple questions to the general public it is most closely associated with hard numbers such as how much lead is in drinking water.
+
+Modern analytical chemistry is dominated by instrumental analysis. There are so many different types of instruments today that it can seem like a confusing array of acronyms rather than a unified field of study. Many analytical chemists focus on a single type of instrument. Academics tend to either focus on new applications and discoveries or on new methods of analysis. The discovery of a chemical present in blood that increases the risk of cancer would be a discovery that an analytical chemist might be involved in. An effort to develop a new method might involve the use of a [[tunable laser]] to increase the specificity and sensitivity of a spectrometric method. Many methods, once developed, are kept purposely static so that data can be compared over long periods of time. This is particularly true in industrial [[Quality Assurance|quality assurance]] (QA), forensic and environmental applications. Analytical chemistry plays an increasingly important role in the pharmaceutical industry where, aside from QA, it is used in discovery of new drug candidates and in clinical applications where understanding the interactions between the drug and the patient are critical.
+
+==History==
+
+Much of early chemistry (1661-~1900AD) was analytical chemistry since the questions of what elements and chemicals were present in the world around us and what are their fundamental natures is very much in the realm of analytical chemistry. There was also significant early progress in synthesis and theory which of course are not analytical chemistry. During this period significant analytical contributions to chemistry include the development of systematic [[elemental analysis]] by [[Justus von Liebig]] and systematized organic analysis based on the specific reactions of functional groups. The first instrumental analysis was flame emissive spectrometry developed by [[Robert Bunsen]] and [[Gustav Kirchhoff]] who discovered Rb and Cs in 1860.<ref>ANALYTICAL SCIENCES 2001, VOL.17 SUPPLEMENT [http://wwwsoc.nii.ac.jp/jsac/analsci/ICAS2001/pdfs/0500/0571_3i05n.pdf], Basic Education in Analytical Chemistry</ref>
+
+Most of the major developments in analytical chemistry take place after 1900. During this period instrumental analysis becomes progressively dominant in the field. In particular many of the basic spectroscopic and spectrometric techniques were discovered in the early 20th century and refined in the late 20th century.<ref>  Talanta Volume 51, Issue 5, p921-933 [http://dx.doi.org/10.1016/S0039-9140(99)00358-6], Review of analyticalnext term measurements facilitated by drop formation technology</ref> The separation sciences follow a similar time line of development and also become increasingly transformed into high performance instruments.<ref>TrAC Trends in Analytical Chemistry Volume 21, Issues 9-10, Pages 547-557 [http://dx.doi.org/10.1016/S0165-9936(02)00806-3], History of gas chromatography</ref> In the 1970's many of these techniques began to be used together to achieve a complete characterization of samples. Starting in approximately the 1970's into the present day analytical chemistry has progressively become more inclusive of biological questions (bioanalytical chemistry), whereas it had previously been largely focused on inorganic or small organic molecules. The late 20th century also saw an expansion of the application of analytical chemistry from somewhat academic chemical questions to forensic, environmental, industrial and medical questions.<ref>Talanta, Volume 36, Issues 1-2, January-February 1989, Pages 1-9 [http://dx.doi.org/10.1016/0039-9140(89)80077-3] History of analytical chemistry in the U.S.A.</ref>
+
+==Types==
+Traditionally, analytical chemistry has been split into two main types, qualitative and quantitative:
+
+* '''Qualitative'''
+:: [[Qualitative inorganic analysis]] seeks to establish the presence of a given [[chemical element|element]] or [[inorganic compound]] in a sample.
+:: Qualitative organic analysis seeks to establish the presence of a given [[functional group]] or [[organic compound]] in a sample.
+
+* '''Quantitative'''
+::[[Quantitative analysis]] seeks to establish the amount of a given element or compound in a sample.
+
+Most modern analytical chemistry is categorized by two different approaches such as analytical targets or analytical methods. [[Analytical Chemistry (journal)]] reviews two different approaches alternatively in the issue 12 of each year.
+
+* '''By Analytical Targets'''
+** Bioanalytical chemistry 
+** Material analysis
+** Chemical analysis 
+** Environmental analysis 
+** [[Forensics]]
+
+* '''By Analytical Methods'''
+** [[Spectroscopy]]
+** [[Mass Spectrometry]] 
+** [[Chromatography]] & [[Electrophoresis]]
+** [[Crystallography]] 
+** [[Microscopy]]
+** [[Electrochemistry]]
+
+==Techniques==
+
+There are many techniques available for the analysis of materials; however, they are all based on the material's interaction with [[energy]].  This interaction permits the creation of a [[Signal (information theory)|signal]] that is subsequently detected and processed for its information content.
+
+The types of analysis techniques conform with the various types of [[energy]]:      
+
+* '''Spectroscopic Analysis'''
+:: [[Spectroscopy]] measures the interaction of the material with [[electromagnetic spectrum|electromagnetic radiation]]. 
+
+* '''Electrochemical Analysis'''
+:: [[Electrochemistry]] measures the interaction of the material with an [[electric field]].
+
+* '''Mass Analysis'''
+:: [[Gravimetric analysis]] measures the interaction of the material and a [[Gravitation|gravitational field]]. 
+:: [[Mass spectrometry]] measures the interaction of charged materials and [[Electric field|electric]] and [[magnetic field]]s.
+
+* '''Thermal Analysis'''
+:: [[Calorimetry]] and [[thermogravimetric analysis]] measure the interaction of a material and [[heat]].
+
+The detection and analysis of multiple simultaneous signals is the subject of cutting-edge research in analytical chemistry.  In order to utilize the techniques available currently, complex material mixtures must be separated into simpler samples for individual analysis. 
+
+* '''Separation Science'''
+:: [[Separation process|Separation processes]] are used to decrease the complexity of material mixtures.  The most utilized separation method is [[chromatography]].
+
+After the material is sufficiently isolated and a signal is generated, the signal must be detected and interpreted. 
+
+* '''Data Acquisition and Analysis'''
+:: Specific [[data acquisition]] and [[data analysis]] techniques are required to obtain the information produced by the various techniques for material analysis named above.  Research and development in this area of analytical chemistry involves interdisciplinary efforts in [[physics]], [[electronics]], [[optics]], [[statistics]] and [[computer science]].        
+
+* '''Hybrid Techniques'''
+:: Combinations of the above techniques produce "hybrid" or "hyphenated" techniques.  Several examples are in popular use today and new hybrid techniques are under development.
+
+== Methods ==
+
+Analytical methods rely on scrupulous attention to cleanliness, sample preparation, [[accuracy and precision]]. 
+
+Many practitioners will keep all their glassware in acid to prevent contamination, samples will be re-run many times over, and equipment will be washed in specially pure solvents.
+
+A standard method for analysis of concentration involves the creation of a [[calibration curve]]. 
+
+If the concentration of element or compound in a sample is too high for the detection range of the technique, it can simply be diluted in a pure solvent. If the amount in the sample is below an instrument's range of measurement, the method of addition can be used. In this method a known quantity of the element or compound under study is added, and the difference between the concentration added, and the concentration observed is the amount actually in the sample.
+
+== Trends==
+Analytical chemistry research is largely driven by performance (sensitivity, selectivity, robustness, [[linear range]], accuracy, precision, and speed), and cost (purchase, operation, training, time, and space).  
+
+A lot of effort is put in shrinking the analysis techniques to [[chip]] size.  Although there are few examples of such systems competitive with traditional analysis techniques, potential advantages include size/portability, speed, and cost. (micro [[Total Analysis System]] (µTAS) or [[Lab-on-a-chip]]). [[Microscale chemistry]] reduces the amounts of chemicals used. 
+
+Much effort is also put into analyzing biological systems.  Examples of rapidly expanding fields in this area are:
+*[[Genomics]] - [[DNA sequencing]] and its related research. [[Genetic fingerprinting]] and [[DNA microarray]] are very popular tools and research fields.
+*[[Proteomics]] - the analysis of protein concentrations and modifications, especially in response to various stresssors, at various developmental stages, or in various parts of the body.
+*[[Metabolomics]] - similar to proteomics, but dealing with metabolites.
+*[[Transcriptomics]]- mRNA and its associated field
+*[[Lipidomics]] - lipids and its associated field
+*Peptidomics - peptides and its associated field
+*Metalomics - similar to proteomics and metabolomics, but dealing with metal concentrations and especially with their binding to proteins and other molecules.
+
+== Specific Technologies and Instrumentation ==
+* [[Atomic absorption spectroscopy]] (AAS)
+* [[Atomic fluorescence spectroscopy]] (AFS)
+* [[APXS|Alpha particle X-ray spectrometer]] (APXS)
+* [[Capillary electrophoresis]] (CE)
+* [[Chromatography]] 
+* [[Cyclic Voltammetry]] (CV)
+* [[Differential scanning calorimetry]] (DSC)
+* [[Electron spin resonance|Electron paramagnetic resonance]] (EPR)
+* [[Electron spin resonance]] (ESR) 
+* Field flow fractionation (FFF)
+* [[Microprobe|Ion Microprobe]] (IM)
+* Instrumental mass fractionation (IMF)
+* [[Ion selective electrode]] (ISE) eg. determination of [[pH]] 
+* [[Laser Induced Breakdown Spectroscopy]] (LIBS)
+* [[Mass spectrometry]] (MS)
+* [[Mossbauer spectroscopy]]
+* [[Nuclear magnetic resonance]] (NMR) 
+* [[PIXE|Particle induced X-ray emission spectroscopy]] (PIXE)
+* [[Raman spectroscopy]]
+* [[Refractive index]]
+* Resonance enhanced multi-photon ionization ([[REMPI]])
+* Scanning transmission X-ray microscopy (STXM)
+* [[X-ray fluorescence|X-ray fluorescence spectroscopy]] (XRF)
+* [[X-ray microscopy]] (XRM)
+
+== See also ==
+* [[List of important publications in chemistry#Analytical chemistry|Important publications in analytical chemistry]]
+* [http://www.analyticalsciences.org/ American Chemical Society: Division of Analytical Chemistry]
+
+{{BranchesofChemistry}}
+
+[[Category:Analytical chemistry|*]]
+
+== References ==
+<references/>
+
+[[af:Analitiese chemie]]
+[[ar:كيمياء تحليلية]]
+[[bg:Аналитична химия]]
+[[ca:Química analítica]]
+[[cs:Analytická chemie]]
+[[da:Analytisk kemi]]
+[[de:Analytische Chemie]]
+[[el:Αναλυτική χημεία]]
+[[es:Química analítica]]
+[[eo:Kemia analizo]]
+[[fa:شیمی تجزیه]]
+[[fo:Analytisk evnafrøði]]
+[[fr:Chimie analytique]]
+[[gl:Química analítica]]
+[[ko:분석화학]]
+[[id:Kimia analitik]]
+[[is:Efnagreining]]
+[[it:Chimica analitica]]
+[[he:כימיה אנליטית]]
+[[lv:Analītiskā ķīmija]]
+[[mk:Аналитичка хемија]]
+[[nl:Analytische scheikunde]]
+[[ja:分析化学]]
+[[no:Analytisk kjemi]]
+[[nn:Analytisk kjemi]]
+[[ug:ئانالىتىك خىمىيە]]
+[[pl:Chemia analityczna]]
+[[pt:Química analítica]]
+[[ru:Аналитическая химия]]
+[[sk:Analytická chémia]]
+[[sr:Аналитичка хемија]]
+[[sh:Analitička hemija]]
+[[su:Kimia analitik]]
+[[fi:Analyyttinen kemia]]
+[[sv:Analytisk kemi]]
+[[th:เคมีวิเคราะห์]]
+[[vi:Hóa phân tích]]
+[[tr:Analitik kimya]]
+[[uk:Аналітична хімія]]
+[[zh:分析化学]]

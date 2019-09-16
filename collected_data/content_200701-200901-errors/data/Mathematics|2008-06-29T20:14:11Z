@@ -1,0 +1,408 @@
+{{pp-semi-protected|small=yes}}
+{{dablink|"Maths" and "Math" redirect here. For other uses of "Mathematics" or "Math", see [[Mathematics (disambiguation)]] and [[Math (disambiguation)]].}}
+[[Image:Euclid.jpg|right|thumb|220px|[[Euclid]], Greek mathematician, 3rd century BC, as imagined by [[Raphael]] in this  detail from ''[[The School of Athens]]''.<ref>No likeness or description of Euclid's physical appearance made during his lifetime survived antiquity. Therefore, Euclid's depiction in works of art depends on the artist's imagination (''see [[Euclid]]'').</ref>]]
+
+'''Mathematics''' is the body of [[knowledge]] centered on such concepts as [[quantity]], [[structure]], [[space]], and [[change]], and also the academic discipline that studies them. [[Benjamin Peirce]] called it "the science that draws necessary conclusions".<ref>Peirce, p.97</ref>
+Other practitioners of mathematics maintain that mathematics is the science of pattern, and that [[mathematician]]s seek out patterns whether found in numbers, space, science, computers, imaginary abstractions, or elsewhere.<ref>[[Lynn Steen|Steen, L.A.]] (April 29, 1988). ''The Science of Patterns.'' [[Science (journal)|Science]], 240: 611–616. and summarized at [http://www.ascd.org/portal/site/ascd/template.chapter/menuitem.1889bf0176da7573127855b3e3108a0c/?chapterMgmtId=f97433df69abb010VgnVCM1000003d01a8c0RCRD Association for Supervision and Curriculum Development.]</ref><ref> [[Keith Devlin|Devlin, Keith]], ''Mathematics: The Science of Patterns: The Search for Order in Life, Mind and the Universe'' (Scientific American Paperback Library) 1996, ISBN 9780716750475 </ref>  Mathematicians explore such concepts, aiming to formulate new [[conjecture]]s and establish their truth by [[Rigour#Mathematical rigour|rigorous]] [[deductive reasoning|deduction]] from appropriately chosen [[axiom]]s and [[definition]]s.<ref>Jourdain</ref>
+ 
+Through the use of [[abstraction (mathematics)|abstraction]] and [[logic]]al [[reasoning]], mathematics evolved from [[counting]], [[calculation]], [[measurement]], and the systematic study of the [[shape]]s and [[motion (physics)|motion]]s of physical objects. Knowledge and use of basic mathematics have always been an inherent and integral part of individual and group life. Refinements of the basic ideas are visible in mathematical texts originating in the [[Egyptian mathematics|ancient Egyptian]], [[Babylonian mathematics|Mesopotamian]], [[Indian mathematics|Indian]], [[Chinese mathematics|Chinese]], [[Greek mathematics|Greek]] and [[Islamic mathematics|Islamic]] worlds. [[axiom|Rigorous arguments]] first appeared in [[Greek mathematics]], most notably in [[Euclid]]'s [[Euclid's Elements|''Elements'']]. The development continued in fitful bursts until the [[Renaissance]] period of the [[16th century]], when mathematical innovations interacted with new [[scientific discoveries]], leading to an acceleration in research that continues to the present day.<ref>Eves</ref>
+
+Today, mathematics is used throughout the world in many fields, including [[natural science]], [[engineering]], [[medicine]], and the [[social science]]s such as [[economics]]. [[Applied mathematics]], the application of mathematics to such fields, inspires and makes use of new mathematical discoveries and sometimes leads to the development of entirely new disciplines. Mathematicians also engage in [[pure mathematics]], or mathematics for its own sake, without having any application in mind, although applications for what began as pure mathematics are often discovered later.<ref>Peterson</ref>
+
+==Etymology==
+
+The word "mathematics" (Greek: μαθηματικά or ''mathēmatiká'') comes from the [[Ancient Greek language|Greek]] μάθημα (''máthēma''), which means ''learning'', ''study'', ''science'', and additionally came to have the narrower and more technical meaning "mathematical study", even in Classical times. Its adjective is μαθηματικός (''mathēmatikós''), ''related to learning'', or ''studious'', which likewise further came to mean ''mathematical''. In particular, {{polytonic|μαθηματικὴ τέχνη}} (''mathēmatikḗ tékhnē''), in [[Latin]] ''ars mathematica'', meant ''the mathematical art''.
+
+The apparent plural form in [[English language|English]], like the [[French language|French]] plural form ''les mathématiques'' (and the less commonly used singular derivative ''la mathématique''), goes back to the Latin neuter plural ''mathematica'' ([[Cicero]]), based on the Greek plural τα μαθηματικά (''ta mathēmatiká''), used by [[Aristotle]], and meaning roughly "all things mathematical".<ref>''[[The Oxford Dictionary of English Etymology]]'', ''[[Oxford English Dictionary]]''</ref>  In English, however, the noun ''mathematics'' takes singular verb forms. It is often shortened to ''math'' in English-speaking North America and ''maths'' elsewhere.
+
+==History==
+
+[[Image:Quipu.png|thumb|left|A [[quipu]], a counting device used by the [[Inca Empire|Inca]].]]
+
+{{main|History of mathematics}}
+
+The evolution of mathematics might be seen as an ever-increasing series of [[abstraction]]s, or alternatively an expansion of subject matter. The first abstraction was probably that of [[number]]s. The realization that two apples and two oranges have something in common was a breakthrough in human thought.
+In addition to recognizing how to [[Counting|count]] ''physical'' objects, [[Prehistory|prehistoric]] peoples also recognized how to count ''abstract'' quantities, like [[time]] — [[day]]s, [[season]]s, [[year]]s. [[Arithmetic]] ([[addition]], [[subtraction]], [[multiplication]] and [[division (mathematics)|division]]), naturally followed.   
+
+Further steps need [[writing]] or some other system for recording numbers such as [[Tally sticks|tallies]] or the knotted strings called [[quipu]] used by the [[Inca]] to store numerical data. [[Numeral system]]s have been many and diverse, with the first known written numerals created by Egyptians in [[Middle Kingdom]] texts such as the [[Rhind Mathematical Papyrus]].  The [[Indus Valley civilization]] developed the modern [[decimal system]], including the concept of [[zero]].
+
+[[Image:maya.svg|thumb|[[Mayan numerals]]]]
+
+From the beginnings of recorded history, the major disciplines within mathematics arose out of the need to do calculations relating to [[taxation]] and [[commerce]], to understand the relationships among numbers, to [[land measurement|measure land]], and to predict [[astronomy|astronomical events]]. These needs can be roughly related to the broad subdivision of mathematics into the studies of ''quantity'', ''structure'', ''space'', and ''change''. 
+
+Mathematics has since been greatly extended, and there has been a fruitful interaction between mathematics and science, to the benefit of both. Mathematical discoveries have been made throughout history and continue to be made today.  According to Mikhail B. Sevryuk, in the January 2006 issue of the [[Bulletin of the American Mathematical Society]], "The number of papers and books included in the [[Mathematical Reviews]] database since 1940 (the first year of operation of MR) is now more than 1.9 million, and more than 75 thousand items are added to the database each year.  The overwhelming majority of works in this ocean contain new mathematical [[theorem]]s and their [[mathematical proof|proof]]s."<ref>Sevryuk</ref>
+
+==Inspiration, pure and applied mathematics, and aesthetics==
+[[Image:GodfreyKneller-IsaacNewton-1689.jpg|right|thumb|Sir [[Isaac Newton]] (1643-1727), an [[inventor]] of [[Calculus|infinitesimal calculus]].]]
+{{main|Mathematical beauty}}
+Mathematics arises wherever there are difficult problems that involve quantity, structure, space, or change.  At first these were found in [[commerce]], [[land measurement]] and later [[astronomy]]; nowadays, all sciences suggest problems studied by mathematicians, and many problems arise within mathematics itself.  For example, [[Richard Feynman]] invented the  [[Feynman path integral]] using a combination of mathematical reasoning and physical insight, and today's [[string theory]] continues to inspire new mathematics.  Some mathematics is only relevant in the area that inspired it, and is applied to solve further problems in that area.  But often mathematics inspired by one area proves useful in many areas, and joins the general stock of mathematical concepts.  The remarkable fact that even the "purest" mathematics often turns out to have practical applications is what [[Eugene Wigner]] has called "[[The Unreasonable Effectiveness of Mathematics in the Natural Sciences|the unreasonable effectiveness of mathematics]]."
+
+As in most areas of study, the explosion of knowledge in the scientific age has led to specialization in mathematics.  One major distinction is between [[pure mathematics]] and [[applied mathematics]].  Several areas of applied mathematics have merged with related traditions outside of mathematics and become disciplines in their own right, including [[statistics]], [[operations research]], and [[computer science]].
+
+For those who are mathematically inclined, there is often a definite aesthetic aspect to much of mathematics. Many mathematicians talk about the ''elegance'' of mathematics, its intrinsic [[aesthetics]] and inner [[beauty]]. [[Simplicity]] and [[generality]] are valued. There is beauty in a simple and elegant proof, such as [[Euclid]]'s proof that there are infinitely many [[prime number]]s, and in an elegant numerical method that speeds calculation, such as the [[fast Fourier transform]].  [[G. H. Hardy]] in ''[[A Mathematician's Apology]]'' expressed the belief that these aesthetic considerations are, in themselves, sufficient to justify the study of pure mathematics. Mathematicians often strive to find proofs of theorems that are particularly elegant, a quest [[Paul Erdős]] often referred to as finding proofs from "The Book" in which God had written down his favorite proofs. The popularity of [[recreational mathematics]] is another sign of the pleasure many find in solving mathematical questions.
+
+==Notation, language, and rigor==
+[[Image:Infinity symbol.svg|thumb|right|The [[infinity]] symbol '''∞''' in several typefaces.]]
+{{main|Mathematical notation}}
+
+Most of the mathematical notation in use today was not invented until the [[16th century]].<ref>[http://members.aol.com/jeff570/mathsym.html Earliest Uses of Various Mathematical Symbols] (Contains many further references)</ref> Before that, mathematics was written out in words, a painstaking process that limited mathematical discovery.{{Fact|date=April 2008}}  In the [[18th century]], [[Leonhard Euler|Euler]] was responsible for many of the notations in use today.  Modern notation makes mathematics much easier for the professional, but beginners often find it daunting.  It is extremely compressed: a few symbols contain a great deal of information.  Like musical notation, modern mathematical notation has a strict syntax and encodes information that would be difficult to write in any other way.
+
+Mathematical [[language]] can also be hard for beginners.  Words such as ''or'' and ''only'' have more precise meanings than in everyday speech.  Additionally, words such as ''[[open set|open]]'' and ''[[field (mathematics)|field]]'' have been given specialized mathematical meanings. [[Mathematical jargon]] includes technical terms such as ''[[homeomorphism]]'' and ''[[integrability|integrable]]''.  But there is a reason for special notation and technical jargon: mathematics requires more precision than everyday speech.  Mathematicians refer to this precision of language and logic as "rigor".
+
+[[Rigor]] is fundamentally a matter of [[mathematical proof]]. Mathematicians want their theorems to follow from axioms by means of systematic reasoning. This is to avoid mistaken "[[theorem]]s", based on fallible intuitions, of which many instances have occurred in the history of the subject.<ref>See [[false proof]] for simple examples of what can go wrong in a formal proof. The [[Four color theorem#History|history of the Four Color Theorem]] contains examples of false proofs accepted by other mathematicians.</ref> The level of rigor expected in mathematics has varied over time: the Greeks expected detailed arguments, but at the time of [[Isaac Newton]] the methods employed were less rigorous. Problems inherent in the definitions used by Newton would lead to a resurgence of careful analysis and formal proof in the 19th century. Today, mathematicians continue to argue among themselves about [[computer-assisted proof]]s. Since large computations are hard to verify, such proofs may not be sufficiently rigorous.<ref> Ivars Peterson, ''The Mathematical Tourist'', Freeman, 1988, ISBN 0-7167-1953-3. p. 4  "A few complain that the computer program can't be verified properly," (in reference to the Haken-Apple proof of the Four Color Theorem). </ref>
+[[Axiom]]s in traditional thought were "self-evident truths", but that conception is problematic. At a formal level, an axiom is just a string of [[Symbolic logic|symbols]], which has an intrinsic meaning only in the context of all derivable formulas of an [[axiomatic system]]. It was the goal of [[Hilbert's program]] to put all of mathematics on a firm axiomatic basis, but according to [[Gödel's incompleteness theorem]] every (sufficiently powerful) axiomatic system has [[Independence (mathematical logic)|undecidable]] formulas; and so a final [[axiomatization]] of mathematics is impossible. Nonetheless mathematics is often imagined to be (as far as its formal content) nothing but [[set theory]] in some axiomatization, in the sense that every mathematical statement or proof could be cast into formulas within set theory.<ref> Patrick Suppes, ''Axiomatic Set Theory'', Dover, 1972, ISBN 0-486-61630-4. p. 1,  "Among the many branches of modern mathematics set theory occupies a unique place: with a few rare exceptions the entities which are studied and analyzed in mathematics may be regarded as certain particular sets or classes of objects." </ref>
+
+==Mathematics as science==
+[[Image:Carl Friedrich Gauss.jpg|right|thumb|[[Carl Friedrich Gauss]], himself known as the "prince of mathematicians", referred to mathematics as "the Queen of the Sciences".]]
+[[Carl Friedrich Gauss]] referred to mathematics as "the Queen of the Sciences".<ref>Waltershausen</ref> In the original Latin ''Regina Scientiarum'', as well as in [[German language|German]] ''Königin der Wissenschaften'', the word corresponding to ''science'' means (field of) knowledge. Indeed, this is also the original meaning in English, and there is no doubt that mathematics is in this sense a science. The specialization restricting the meaning to ''natural'' science is of later date. If one considers [[science]] to be strictly about the physical world, then mathematics, or at least [[pure mathematics]], is not a science.  [[Albert Einstein]] has stated that ''"as far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.''"<ref>Einstein, p. 28. The quote is Einstein's answer to the question: "how can it be that mathematics, being after all a product of human thought which is independent of experience, is so admirably appropriate to the objects of reality?" He, too, is concerned with ''[[The Unreasonable Effectiveness of Mathematics in the Natural Sciences]]''.</ref>
+
+Many philosophers believe that mathematics is not experimentally [[Falsifiability|falsifiable]],{{Fact|date=February 2007}} and thus not a science according to the definition of [[Karl Popper]]. However, in the 1930s important work in mathematical logic showed that mathematics cannot be reduced to logic, and Karl Popper concluded that "most mathematical theories are, like those of physics and biology, hypothetico-deductive: pure mathematics therefore turns out to be much closer to the natural sciences whose hypotheses are conjectures, than it seemed even recently."<ref>Popper 1995, p. 56</ref> Other thinkers, notably [[Imre Lakatos]], have applied a version of falsificationism to mathematics itself. 
+
+An alternative view is that certain scientific fields (such as [[theoretical physics]]) are mathematics with axioms that are intended to correspond to reality. In fact, the theoretical physicist, [[J. M. Ziman]], proposed that science is ''public knowledge'' and thus includes mathematics.<ref>Ziman</ref> In any case, mathematics shares much in common with many fields in the physical sciences, notably the exploration of the logical consequences of assumptions. [[intuition (knowledge)|Intuition]] and [[experiment]]ation also play a role in the formulation of [[conjecture]]s in both mathematics and the (other) sciences. [[Experimental mathematics]] continues to grow in importance within mathematics, and computation and simulation are playing an increasing role in both the sciences and mathematics, weakening the objection that mathematics does not use the [[scientific method]]. In his 2002 book ''[[A New Kind of Science]]'', [[Stephen Wolfram]] argues that computational mathematics deserves to be explored empirically as a scientific field in its own right.  
+
+The opinions of mathematicians on this matter are varied. Many mathematicians feel that to call their area a science is to downplay the importance of its aesthetic side, and its history in the traditional seven [[liberal arts]]; others feel that to ignore its connection to the sciences is to turn a blind eye to the fact that the interface between mathematics and its applications in science and [[engineering]] has driven much development in mathematics. One way this difference of viewpoint plays out is in the philosophical debate as to whether mathematics is ''created'' (as in art) or ''discovered'' (as in science). It is common to see [[University|universities]] divided into sections that include a division of ''Science and Mathematics'', indicating that the fields are seen as being allied but that they do not coincide. In practice, mathematicians are typically grouped with scientists at the gross level but separated at finer levels. This is one of many issues considered in the [[philosophy of mathematics]].
+
+Mathematical awards are generally kept separate from their equivalents in science. The most prestigious award in mathematics is the [[Fields Medal|Fields&nbsp;Medal]],<ref>"''The Fields Medal is now indisputably the best known and most influential award in mathematics.''" Monastyrsky</ref><ref>Riehm</ref> established in 1936 and now awarded every 4 years. It is often considered, misleadingly, the equivalent of science's [[Nobel Prize]]s. The [[Wolf Prize in Mathematics]], instituted in 1979, recognizes lifetime achievement, and another major international award, the [[Abel Prize]], was introduced in 2003. These are awarded for a particular body of work, which may be innovation, or resolution of an outstanding problem in an established field. A famous list of 23 such [[open problem]]s, called "[[Hilbert's problems]]", was compiled in 1900 by German mathematician [[David Hilbert]]. This list achieved great celebrity among mathematicians, and at least nine of the problems have now been solved. A new list of seven important problems, titled the "[[Millennium Prize Problems]]", was published in 2000. Solution of each of these problems carries a $1 million reward, and only one (the [[Riemann hypothesis]]) is duplicated in Hilbert's problems.
+
+==Fields of mathematics==
+[[Image:Abacus 6.png|right|thumb|An [[abacus]], a simple calculating tool used since ancient times]]
+As noted above, the major disciplines within mathematics first arose out of the need to do calculations in commerce, to understand the relationships between numbers, to measure land, and to predict [[astronomy|astronomical]] events. These four needs can be roughly related to the broad subdivision of mathematics into the study of quantity, structure, space, and change (i.e., [[arithmetic]], [[algebra]], [[geometry]], and [[mathematical analysis|analysis]]).  In addition to these main concerns, there are also subdivisions dedicated to exploring links from the heart of mathematics to other fields: to [[Mathematical logic|logic]], to [[set theory]] ([[Foundations of mathematics|foundations]]), to the empirical mathematics of the various sciences ([[applied mathematics]]), and more recently to the rigorous study of [[uncertainty]].
+
+===Quantity===<!-- This section is linked from [[List of basic mathematics topics]] -->
+The study of quantity starts with [[number]]s, first the familiar [[natural number]]s and [[integer]]s ("whole numbers") and arithmetical operations on them, which are characterized in [[arithmetic]]. The deeper properties of integers are studied in [[number theory]], whence such popular results as [[Fermat's last theorem]]. Number theory also holds two widely-considered unsolved problems: the [[twin prime conjecture]] and [[Goldbach's conjecture]].
+
+As the number system is further developed, the integers are recognized as a [[subset]] of the [[rational number]]s ("[[Fraction (mathematics)|fractions]]"). These, in turn, are contained within the [[real number]]s, which are used to represent continuous quantities. Real numbers are generalized to [[complex number]]s. These are the first steps of a hierarchy of numbers that goes on to include [[quarternion]]s and [[octonion]]s. Consideration of the natural numbers also leads to the [[transfinite number]]s, which formalize the concept of counting to infinity. Another area of study is size, which leads to the [[cardinal number]]s and then to another conception of infinity: the [[aleph number]]s, which allow meaningful comparison of the size of infinitely large sets.
+:{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| <math>1, 2, 3\,\!</math> || <math>-2, -1, 0, 1, 2\,\!</math> || <math> -2, \frac{2}{3}, 1.21\,\!</math> || <math>-e, \sqrt{2}, 3, \pi\,\!</math> || <math>2, i, -2+3i, 2e^{i\frac{4\pi}{3}}\,\!</math> 
+|-
+| [[Natural number]]s|| [[Integer]]s || [[Rational number]]s || [[Real number]]s || [[Complex number]]s 
+|}
+
+===Structure===<!-- This section is linked from [[List of basic mathematics topics]] -->
+Many mathematical objects, such as [[set]]s of numbers and [[function (mathematics)|function]]s, exhibit internal structure. The structural properties of these objects are investigated in the study of [[group (mathematics)|groups]], [[ring (mathematics)|rings]], [[field (mathematics)|fields]] and other abstract systems, which are themselves such objects. This is the field of [[abstract algebra]]. An important concept here is that of [[vector (spatial)|vector]]s, generalized to [[vector space]]s, and studied in [[linear algebra]]. The study of vectors combines three of the fundamental areas of mathematics: quantity, structure, and space. [[Vector calculus]] expands the field into a fourth fundamental area, that of change.
+:{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
+| [[Image:Elliptic curve simple.png|96px]] || [[Image:Rubik's cube.svg|96px]] || [[Image:Group diagdram D6.svg|96px]] || [[Image:Lattice of the divisibility of 60.svg|96px]]
+|-
+| [[Number theory]] ||  [[Abstract algebra]] || [[Group theory]] || [[Order theory]]
+|}
+
+===Space===<!-- This section is linked from [[List of basic mathematics topics]] -->
+The study of space originates with [[geometry]] - in particular, [[Euclidean geometry]].  [[Trigonometry]] combines space and numbers, and encompasses the well-known [[Pythagorean theorem]].  The modern study of space generalizes these ideas to include higher-dimensional geometry, [[Non-euclidean geometry|non-Euclidean geometries]] (which play a central role in [[general relativity]]) and [[topology]].  Quantity and space both play a role in [[analytic geometry]], [[differential geometry]], and [[algebraic geometry]].  Within differential geometry are the concepts of [[fiber bundles]] and calculus on [[manifold]]s.  Within algebraic geometry is the description of geometric objects as solution sets of [[polynomial]] equations, combining the concepts of quantity and space, and also the study of [[topological groups]], which combine structure and space.  [[Lie group]]s are used to study space, structure, and change.  [[Topology]] in all its many ramifications may have been the greatest growth area in 20th century mathematics, and includes the long-standing [[Poincaré conjecture]] and the controversial [[four color theorem]], whose only proof, by computer, has never been verified by a human.
+:{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
+| [[Image:Illustration to Euclid's proof of the Pythagorean theorem.svg|96px]] || [[Image:Sine cosine plot.svg|96px]] || [[Image:Hyperbolic triangle.svg|96px]] || [[Image:Torus.png|96px]] || [[Image:Koch curve.svg|96px]]
+|-
+|[[Geometry]] || [[Trigonometry]] || [[Differential geometry]] || [[Topology]] || [[Fractal|Fractal geometry]]
+|}
+
+===Change===<!-- This section is linked from [[List of basic mathematics topics]] -->
+Understanding and describing change is a common theme in the [[natural science]]s, and [[calculus]] was developed as a powerful tool to investigate it. [[function (mathematics)|Functions]] arise here, as a central concept describing a changing quantity. The rigorous study of real numbers and real-valued functions is known as [[real analysis]], with [[complex analysis]] the equivalent field for the complex numbers. The [[Riemann hypothesis]], one of the most fundamental open questions in mathematics, is drawn from complex analysis. [[Functional analysis]] focuses attention on (typically infinite-dimensional) [[space#Mathematical spaces|space]]s of functions. One of many applications of functional analysis is [[quantum mechanics]]. Many problems lead naturally to relationships between a quantity and its rate of change, and these are studied as [[differential equation]]s. Many phenomena in nature can be described by [[dynamical system]]s; [[chaos theory]] makes precise the ways in which many of these systems exhibit unpredictable yet still [[deterministic system (mathematics)|deterministic]] behavior.
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| [[Image:Integral as region under curve.svg|96px]]  || [[Image:Vector field.svg|96px]] || [[Image:Airflow-Obstructed-Duct.png|96px]] || [[Image:Limitcycle.jpg|96px]] || [[Image:Lorenz attractor.svg|96px]]
+|-
+| [[Calculus]] || [[Vector calculus]]|| [[Differential equation]]s || [[Dynamical system]]s || [[Chaos theory]]
+|}
+
+===Foundations and philosophy===
+In order to clarify the [[foundations of mathematics]], the fields of [[mathematical logic]] and [[set theory]] were developed, as well as [[category theory]] which is still in development.
+
+Mathematical logic is concerned with setting mathematics on a rigid [[axiom]]atic framework, and studying the results of such a framework. As such, it is home to [[Gödel's incompleteness theorems#Second incompleteness theorem|Gödel's second incompleteness theorem]], perhaps the most widely celebrated result in logic, which (informally) implies that any [[formal system]] that contains basic arithmetic, if ''sound'' (meaning that all theorems that can be proven are true), is necessarily ''incomplete'' (meaning that there are true theorems which cannot be proved ''in that system''). Gödel showed how to construct, whatever the given collection of number-theoretical axioms, a formal statement in the logic that is a true number-theoretical fact, but which does not follow from those axioms. Therefore no formal system is a true axiomatization of full number theory. Modern logic is divided into [[recursion theory]], [[model theory]], and [[proof theory]], and is closely linked to [[theoretical computer science|theoretical]] [[computer science]].
+:{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
+|  <math> p \Rightarrow q \,</math>|| [[Image:Venn A intersect B.svg|128px]]  || [[Image:Commutative diagram for morphism.svg|96px]]  
+|-
+| [[Mathematical logic]] || [[Set theory]] || [[Category theory]] || 
+|}
+
+===Discrete mathematics===
+[[Discrete mathematics]] is the common name for the fields of mathematics most generally useful in [[theoretical computer science]]. This includes [[Computability theory (computation)|computability theory]], [[computational complexity theory]], and [[information theory]]. Computability theory examines the limitations of various theoretical models of the computer, including the most powerful known model - the [[Turing machine]]. Complexity theory is the study of tractability by computer; some problems, although theoretically solvable by computer, are so expensive in terms of time or space that solving them is likely to remain practically unfeasible, even with rapid advance of computer hardware. Finally, information theory is concerned with the amount of data that can be stored on a given medium, and hence concepts such as [[data compression|compression]] and [[Entropy in thermodynamics and information theory|entropy]].
+
+As a relatively new field, discrete mathematics has a number of fundamental open problems. The most famous of these is the "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Problems]].<ref>[http://www.claymath.org/millennium/P_vs_NP/ Clay Mathematics Institute] P=NP</ref>
+:{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
+| <math>\begin{matrix} (1,2,3) & (1,3,2) \\ (2,1,3) & (2,3,1) \\ (3,1,2) & (3,2,1) \end{matrix}</math> || [[Image:DFAexample.svg|96px]] || [[Image:Caesar3.svg|96px]] || [[Image:6n-graf.svg|96px]]
+|-
+| [[Combinatorics]] || [[Theory of computation]] || [[Cryptography]] || [[Graph theory]]
+|}
+
+===Applied mathematics===
+Applied mathematics considers the use of abstract mathematical tools in solving concrete problems in the [[science]]s, [[business]], and other areas. An important field in applied mathematics is [[statistics]], which uses [[probability theory]] as a tool and allows the description, analysis, and prediction of phenomena where chance plays a role. Most experiments, surveys and observational studies require the informed use of statistics. (Many statisticians, however, do not consider themselves to be mathematicians, but rather part of an allied group.) [[Numerical analysis]] investigates computational methods for efficiently solving a broad range of mathematical problems that are typically too large for human numerical capacity; it includes the study of [[rounding error]]s or other sources of error in computation.
+
+<center> 
+<gallery>
+Image:Gravitation space source.png | <center>[[Mathematical physics]]</center>
+Image:BernoullisLawDerivationDiagram.svg | <center>[[Fluid mechanics|Mathematical fluid dynamics]]</center>
+Image:Composite trapezoidal rule illustration small.png | <center>[[Numerical analysis]]</center>
+Image:Maximum boxed.png | <center>[[Optimization (mathematics)|Optimization]]</center>
+Image:Two red dice 01.svg | <center>[[Probability]]</center>
+Image:Oldfaithful3.png | <center>[[Statistics]]</center>
+Image:Market Data Index NYA on 20050726 202628 UTC.png | <center>[[Financial mathematics]]</center>
+Image:Arbitrary-gametree-solved.svg | <center>[[Game theory]]</center>
+</gallery>
+</center>
+
+==Common misconceptions==
+Mathematics is not a closed intellectual system, in which everything has already been worked out. There is no shortage of [[Unsolved problems in mathematics|open problems]].  Mathematicians publish many thousands of papers embodying new discoveries in mathematics every month. 
+
+Mathematics is not [[numerology]], nor is it [[accountancy]]; nor is it restricted to [[arithmetic]]. 
+
+[[Pseudomathematics]] is a form of mathematics-like activity undertaken outside [[academia]], and occasionally by mathematicians themselves. It often consists of determined attacks on famous questions, consisting of proof-attempts made in an isolated way (that is, long papers not supported by previously published theory). The relationship to generally-accepted mathematics is similar to that between [[pseudoscience]] and real science. The misconceptions involved are normally based on:
+
+*misunderstanding of the implications of [[mathematical rigor]];
+*attempts to circumvent the usual criteria for publication of [[mathematical paper]]s in a [[learned journal]] after [[peer review]], often in the belief that the journal is biased against the author;
+*lack of familiarity with, and therefore underestimation of, the existing literature.
+
+The case of [[Kurt Heegner]]'s work shows that the mathematical establishment is neither infallible, nor unwilling to admit error in assessing 'amateur' work. And like [[astronomy]], mathematics owes much to amateur contributors such as [[Pierre de Fermat|Fermat]] and [[Marin Mersenne|Mersenne]].
+
+===Mathematics and physical reality===
+
+Mathematical concepts and theorems need not correspond to anything in the physical world. Insofar as a correspondence does exist, while mathematicians and physicists may select axioms and postulates that seem reasonable and intuitive, it is not necessary for the basic assumptions within an axiomatic system to be true in an empirical or physical sense. Thus, while many [[axiom system]]s are derived from our perceptions and experiments, they are not dependent on them.
+
+For example, we could say that the physical concept of two apples may be accurately [[mathematical model|modeled]] by the [[natural number]] 2. On the other hand, we could also say that the natural numbers are ''not'' an accurate model because there is no standard "unit" apple and no two apples are exactly alike. The modeling idea is further complicated by the possibility of [[fraction (mathematics)|fractional]] or partial apples. So while it may be instructive to visualize the axiomatic definition of the natural numbers as collections of apples, the definition itself is not dependent upon nor derived from any actual physical entities.
+
+Nevertheless, mathematics remains extremely useful for solving real-world problems. This fact led physicist [[Eugene Wigner]] to write an article titled "[[The Unreasonable Effectiveness of Mathematics in the Natural Sciences]]".
+
+==See also==
+{{portal}}
+<div style="-moz-column-count:2; column-count:2;">
+* [[List of basic mathematics topics]]
+* [[Lists of mathematics topics]]
+* [[Indian Mathematics]]
+* [[Portal:Mathematics|Mathematics portal]]
+* [[Philosophy of mathematics]]
+* [[Mathematics education]] 
+* [[Mathematical game]]
+* [[Mathematical model]]
+* [[Mathematical problem]]
+* [[Mathematics competitions]]
+* [[Dyscalculia]]
+</div>
+
+==Notes==
+{{reflist|2}}
+
+==References==
+<div class="references-small">
+*Benson, Donald C., ''The Moment of Proof: Mathematical Epiphanies'', Oxford University Press, USA; New Ed edition (December 14, 2000). ISBN 0-19-513919-4.
+*[[Carl B. Boyer|Boyer, Carl B.]], ''A History of Mathematics'', Wiley; 2 edition (March 6, 1991). ISBN 0-471-54397-7. &mdash; A concise history of mathematics from the Concept of Number to contemporary Mathematics.
+*Courant, R. and H. Robbins, ''What Is Mathematics? : An Elementary Approach to Ideas and Methods'', Oxford University Press, USA; 2 edition (July 18, 1996). ISBN 0-19-510519-2.
+*[[Philip J. Davis|Davis, Philip J.]] and [[Reuben Hersh|Hersh, Reuben]], ''[[The Mathematical Experience]]''. Mariner Books; Reprint edition (January 14, 1999). ISBN 0-395-92968-7.&mdash; A gentle introduction to the world of mathematics.
+*{{cite journal
+  | last = Einstein 
+  | first = Albert
+  | authorlink = Albert Einstein
+  | title = Sidelights on Relativity (Geometry and Experience) 
+  | publisher = P. Dutton., Co 
+  | date = 1923}}
+*Eves,  Howard, ''An Introduction to the History of Mathematics'', Sixth Edition, Saunders, 1990, ISBN 0-03-029558-0.
+*Gullberg, Jan, ''Mathematics—From the Birth of Numbers''. W. W. Norton & Company; 1st edition (October 1997). ISBN 0-393-04002-X. &mdash; An encyclopedic overview of mathematics presented in clear, simple language.
+*Hazewinkel, Michiel (ed.), ''[[Encyclopaedia of Mathematics]]''. Kluwer Academic Publishers 2000. &mdash; A translated and expanded version of a Soviet mathematics encyclopedia, in ten (expensive) volumes, the most complete and authoritative work available. Also in paperback and on CD-ROM, and online [http://eom.springer.de/default.htm].
+*Jourdain, Philip E. B., ''The Nature of Mathematics'', in ''The World of Mathematics'', James R. Newman, editor, Dover, 2003, ISBN 0-486-43268-8.
+*[[Morris Kline|Kline, Morris]], ''Mathematical Thought from Ancient to Modern Times'', Oxford University Press, USA; Paperback edition (March 1, 1990). ISBN 0-19-506135-7.
+*{{cite paper|url=http://www.fields.utoronto.ca/aboutus/FieldsMedal_Monastyrsky.pdf|date=2001|title=Some Trends in Modern Mathematics and the Fields Medal|author=Monastyrsky, Michael|publisher=Canadian Mathematical Society|accessdate=2006-07-28}}
+*[[Oxford English Dictionary]], second edition, ed. John Simpson and Edmund Weiner, Clarendon Press, 1989, ISBN 0-19-861186-2.
+*''[[The Oxford Dictionary of English Etymology]]'', 1983 reprint. ISBN 0-19-861112-9.
+*Pappas, Theoni, ''The Joy Of Mathematics'', Wide World Publishing; Revised edition (June 1989). ISBN 0-933174-65-9.
+*{{cite journal|title=Linear Associative Algebra|first= Benjamin|last= Peirce|journal= American Journal of Mathematics|issue= Vol. 4, No. 1/4. (1881|url= http://links.jstor.org/sici?sici=0002-9327%281881%294%3A1%2F4%3C97%3ALAA%3E2.0.CO%3B2-X|unused_data=|, pages= 97-229}} [[JSTOR]]. 
+*Peterson, Ivars, ''Mathematical Tourist, New and Updated Snapshots of Modern Mathematics'', Owl Books, 2001,  ISBN 0-8050-7159-8.
+*{{cite book | last = Paulos | first = John Allen | authorlink = John Allen Paulos | year = 1996 | title = A Mathematician Reads the Newspaper | publisher = Anchor | id = ISBN 0-385-48254-X}}
+* {{Cite book | first=Karl R. | last=Popper | authorlink=Karl Popper | title=In Search of a Better World: Lectures and Essays from Thirty Years | chapter=On knowledge | publisher=Routledge | year=1995 | id=ISBN 0-415-13548-6}}
+*{{cite journal
+  | last = Riehm
+  | first = Carl
+  | authorlink = 
+  | title = The Early History of the Fields Medal
+  | journal = Notices of the AMS
+  | volume = 49
+  | issue = 7
+  | pages = 778–782
+  | publisher = AMS
+  | date = August 2002
+  | url = http://www.ams.org/notices/200207/comm-riehm.pdf
+  | doi = 
+  | id = 
+  | accessdate =  }}
+*{{cite journal| last=Sevryuk | first=Mikhail B. | authorlink = Mikhail B. Sevryuk| year = 2006| month = January| title = Book Reviews| journal = [[Bulletin of the American Mathematical Society]]| volume = 43| issue = 1| pages = 101–109| url = http://www.ams.org/bull/2006-43-01/S0273-0979-05-01069-4/S0273-0979-05-01069-4.pdf| format = PDF| accessdate = 2006-06-24| doi = 10.1090/S0273-0979-05-01069-4}}
+*{{cite book | last = Waltershausen | first = Wolfgang Sartorius von | authorlink = Wolfgang Sartorius von Waltershausen | title = Gauss zum Gedächtniss | year = 1856, repr. 1965 | publisher = Sändig Reprint Verlag H. R. Wohlwend | id = ISBN 3-253-01702-8 | asin = ASIN: B0000BN5SQ | url = http://www.amazon.de/Gauss-Ged%e4chtnis-Wolfgang-Sartorius-Waltershausen/dp/3253017028}}
+*{{cite paper|url=http://info.med.yale.edu/therarad/summers/ziman.htm|date=1968|title=Public Knowledge:An essay concerning the social dimension of science|author= Ziman, J.M., F.R.S.}}
+</div>
+
+==External links==
+{{sisterlinks|Mathematics}}
+{{WVS}}
+<div class="references-small">
+* Online [[Encyclopaedia of Mathematics]] [http://eom.springer.de] from Springer. Graduate-level reference work with over 8,000 entries, illuminating nearly 50,000 notions in mathematics.
+* [http://www-math.mit.edu/daimp Some mathematics applets, at MIT]
+* Rusin, Dave: [http://www.math-atlas.org/ ''The Mathematical Atlas'']. A guided tour through the various branches of modern mathematics.  (Can also be found [http://www.math.niu.edu/~rusin/known-math/index/index.html here].)
+* Stefanov, Alexandre: [http://us.geocities.com/alex_stef/mylist.html ''Textbooks in Mathematics'']. A list of free online textbooks and lecture notes in mathematics.
+* Weisstein, Eric et al.: [http://www.mathworld.com/ ''MathWorld: World of Mathematics'']. An online encyclopedia of mathematics.
+* Polyanin, Andrei: [http://eqworld.ipmnet.ru/ ''EqWorld: The World of Mathematical Equations'']. An online resource focusing on algebraic, ordinary differential, partial differential ([[mathematical physics]]), integral, and other mathematical equations.
+* [http://planetmath.org/ ''Planet Math'']. An online mathematics encyclopedia under construction, focusing on modern mathematics. Uses the [[GNU Free Documentation License|GFDL]], allowing article exchange with Wikipedia. Uses [[TeX]] markup.
+* [http://metamath.org/ ''Metamath'']. A site and a language, that formalize mathematics from its foundations.
+* [http://www-history.mcs.st-and.ac.uk/~history/ Mathematician Biographies]. The [[MacTutor History of Mathematics archive]] Extensive history and quotes from all famous mathematicians.
+* Cain, George: [http://www.math.gatech.edu/~cain/textbooks/onlinebooks.html Online Mathematics Textbooks] available free online.
+* [http://etext.lib.virginia.edu/DicHist/analytic/anaVII.html Math & Logic: The history of formal mathematical, logical, linguistic and methodological ideas.] In ''The Dictionary of the History of Ideas.''
+* [http://www.nrich.maths.org/public/index.php Nrich], a prize-winning site for students from age five from [[University of Cambridge|Cambridge University]]
+* [http://www.freescience.info/mathematics.php 'FreeScience Library->Mathematics '] The mathematics section of FreeScience library
+* [http://garden.irmacs.sfu.ca Open Problem Garden], a [[wiki]] of open problems in mathematics
+* [http://www.mathmotivation.com/all-applications.html Applications of High School Algebra]
+</div>
+
+{{Mathematics-footer}}
+
+[[Category:Mathematics| ]]
+[[Category:Greek loanwords]]
+
+{{Link FA|ia}}
+{{Link FA|ka}}
+{{Link FA|la}}
+{{Link FA|lmo}}
+{{Link FA|mk}}
+{{Link FA|vo}}
+
+[[af:Wiskunde]]
+[[als:Mathematik]]
+[[am:ትምህርተ ሂሳብ]]
+[[ar:رياضيات]]
+[[an:Matematicas]]
+[[roa-rup:Mathematicã]]
+[[as:গণিত]]
+[[ast:Matemátiques]]
+[[ay:Jakhu]]
+[[az:Riyaziyyat]]
+[[bn:গণিত]]
+[[zh-min-nan:Sò͘-ha̍k]]
+[[map-bms:Matematika]]
+[[ba:Математика]]
+[[be:Матэматыка]]
+[[be-x-old:Матэматыка]]
+[[bar:Mathematik]]
+[[bs:Matematika]]
+[[br:Matematikoù]]
+[[bg:Математика]]
+[[ca:Matemàtiques]]
+[[cv:Математика]]
+[[ceb:Matematika]]
+[[cs:Matematika]]
+[[ch:Matematika]]
+[[co:Matematica]]
+[[cy:Mathemateg]]
+[[da:Matematik]]
+[[de:Mathematik]]
+[[dv:ރިޔާޟިއްޔާތު]]
+[[dsb:Matematika]]
+[[et:Matemaatika]]
+[[el:Μαθηματικά]]
+[[eml:Matemâtica]]
+[[myv:Математика]]
+[[es:Matemática]]
+[[eo:Matematiko]]
+[[ext:Matemáticas]]
+[[eu:Matematika]]
+[[fa:ریاضیات]]
+[[fo:Støddfrøði]]
+[[fr:Mathématiques]]
+[[fy:Wiskunde]]
+[[fur:Matematiche]]
+[[ga:Matamaitic]]
+[[gv:Maddaght]]
+[[gd:Matamataig]]
+[[gl:Matemáticas]]
+[[gu:ગણિત]]
+[[zh-classical:數學]]
+[[hak:Sṳ-ho̍k]]
+[[ko:수학]]
+[[haw:Makemakika]]
+[[hi:गणित]]
+[[hr:Matematika]]
+[[io:Matematiko]]
+[[id:Matematika]]
+[[ia:Mathematica]]
+[[ie:Matematica]]
+[[is:Stærðfræði]]
+[[it:Matematica]]
+[[he:מתמטיקה]]
+[[jv:Matematika]]
+[[kl:Matematikki]]
+[[kn:ಗಣಿತ]]
+[[ka:მათემატიკა]]
+[[ks:علم ریاضی]]
+[[csb:Matematika]]
+[[kk:Математика]]
+[[ky:Математика]]
+[[sw:Hisabati]]
+[[ht:Matematik]]
+[[ku:Matematîk]]
+[[lad:Matematika]]
+[[lo:ຄະນິດສາດ]]
+[[la:Mathematica]]
+[[lv:Matemātika]]
+[[lb:Mathematik]]
+[[lt:Matematika]]
+[[lij:Matematica]]
+[[li:Mathematik]]
+[[jbo:cmaci]]
+[[lmo:Matemàtega]]
+[[hu:Matematika]]
+[[mk:Математика]]
+[[ml:ഗണിതം]]
+[[mt:Matematika]]
+[[mr:गणित]]
+[[ms:Matematik]]
+[[mn:Математик]]
+[[nah:Tlapōhuayōtl]]
+[[nl:Wiskunde]]
+[[nds-nl:Wiskunde]]
+[[ne:गणित]]
+[[ja:数学]]
+[[no:Matematikk]]
+[[nn:Matematikk]]
+[[nrm:Caltchul]]
+[[nov:Matematike]]
+[[oc:Matematicas]]
+[[uz:Matematika]]
+[[pa:ਗਣਿਤ]]
+[[pag:Matematiks]]
+[[ps:شمېر پوهنه]]
+[[km:គណិតសាស្ត្រ]]
+[[pms:Matemàtica]]
+[[nds:Mathematik]]
+[[pl:Matematyka]]
+[[pt:Matemática]]
+[[crh:Riyaziyat]]
+[[ro:Matematică]]
+[[qu:Yupay yachay]]
+[[ru:Математика]]
+[[sm:Matematika]]
+[[sa:गणितं]]
+[[sc:Matemàtica]]
+[[sco:Mathematics]]
+[[sq:Matematika]]
+[[scn:Matimàtica]]
+[[si:ගණිතය]]
+[[simple:Mathematics]]
+[[sk:Matematika]]
+[[sl:Matematika]]
+[[so:Xisaab]]
+[[sr:Математика]]
+[[sh:Matematika]]
+[[su:Matematika]]
+[[fi:Matematiikka]]
+[[sv:Matematik]]
+[[tl:Matematika]]
+[[ta:கணிதம்]]
+[[tet:Matemátika]]
+[[th:คณิตศาสตร์]]
+[[vi:Toán học]]
+[[tg:Математика]]
+[[tr:Matematik]]
+[[tk:Matematika]]
+[[uk:Математика]]
+[[vec:Matemàtega]]
+[[vo:Matemat]]
+[[fiu-vro:Matõmaatiga]]
+[[war:Matematika]]
+[[wo:Xayma]]
+[[yi:מאטעמאטיק]]
+[[yo:Mathematiki]]
+[[zh-yue:數學]]
+[[diq:Matematik]]
+[[bat-smg:Matematėka]]
+[[zh:数学]]

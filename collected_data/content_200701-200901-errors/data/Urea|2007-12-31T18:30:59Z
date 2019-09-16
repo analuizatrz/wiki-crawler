@@ -1,0 +1,229 @@
+{{Chembox new
+|   Name = Urea
+|   ImageFile = Urea.png
+|   ImageFile1 = Urea-3D-vdW.png
+|   IUPACName = Diaminomethanal
+|   OtherNames = carbamide
+| Section1 = {{Chembox Identifiers
+|   SMILES = NC(=O)N
+|   CASNo = 57-13-6
+|   RTECS = 
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = (NH<sub>2</sub>)<sub>2</sub>CO
+|   MolarMass = 60.07 g/mol
+|   Appearance = white odourless solid
+|   Density = 1.33·10³ kg/m³<ref>http://webmineral.com/data/Urea.shtml</ref>, solid
+|   Solubility = 108 g/100 ml (20 °C)<br/>167 g/100 ml (40 °C)<br/>251 g/100 ml (60 °C)<br/>400 g/100 ml (80 °C)<br/>733 g/100 ml (100 °C)
+|   MeltingPt = 132.7 °C (406 K)<br/>decomposes
+|   BoilingPt = n.a.
+|   pKa = 26.9
+|   pKb = 13.82
+  }}
+| Section3 = {{Chembox Structure
+|   Dipole = 4.56 [[Debye|p/D]]
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.sciencelab.com/xMSDS-Urea-9927317 ScienceLab.com]
+|   MainHazards = Toxic
+|   FlashPt =
+|   NFPA-H = 2
+|   NFPA-F = 1
+  }}
+}}
+'''Urea''' is an [[organic compound]] with the [[chemical formula]] ([[nitrogen|N]][[hydrogen|H]]<sub>2</sub>)<sub>2</sub>[[carbon|C]][[oxygen|O]].
+
+Urea is also known as '''carbamide''', especially in the recommended [[International Nonproprietary Name]]s (rINN) in use in Europe. For example, the medicinal compound ''hydroxyurea'' (old British Approved Name) is now ''[[hydroxycarbamide]]''. Other names include '''carbamide resin''', '''isourea''', '''carbonyl diamide''', and '''carbonyldiamine'''.
+
+It was the first organic compound to be artificially synthesized from inorganic starting materials, thus dispelling the concept of [[vitalism]].
+
+==Discovery==
+[[Image:biochemistry.gif|thumb|120px|left|Wöhler observes the synthesis of urea.]]
+Urea was discovered by [[Hilaire Rouelle]] in [[1773]]. It was the first organic compound to be artificially synthesized from inorganic starting materials, in [[1828]] by [[Friedrich Wöhler]], who prepared it by the reaction of [[potassium cyanate]] with [[ammonium sulfate]]. Although Wöhler was attempting to prepare [[ammonium cyanate]], by forming urea, he inadvertently discredited [[vitalism]], the theory that the chemicals of living organisms are fundamentally different from inanimate matter, thus starting the discipline of [[organic chemistry]].
+
+This discovery prompted Wöhler to write triumphantly to Berzelius:
+
+"I must tell you that I can make urea without the use of kidneys, either man or dog. Ammonium cyanate is urea."
+
+It is found in [[mammal]]ian and [[amphibian]] [[urine]] as well as in some [[fish]]. [[Bird]]s and [[reptile]]s excrete [[uric acid]], comprising a different form of [[nitrogen]] [[metabolism]] that requires less [[water]].
+
+==Structure==
+Urea is highly soluble in water and is therefore an efficient way for the human body to expel excess nitrogen. Due to extensive hydrogen bonding with water (up to six hydrogen bonds may form - two from the oxygen atom and one from each hydrogen), it is very soluble and thus is also a good fertilizer.
+
+The urea molecule is planar and retains its full molecular point symmetry, due to conjugation of one of each nitrogen's P orbital to the carbonyl double bond. Each carbonyl oxygen atom accepts four N-H-O hydrogen bonds{{Fact|date=August 2007}}, a very unusual feature for such a bond type. This dense (and energetically quite favourable) hydrogen bond network is probably established at the cost of efficient molecular packing: the structure is quite open, the ribbons forming tunnels with square cross-section.
+
+==Physiology==
+===Endogenous production===
+{{Seealso|Urea cycle}}
+The individual atoms that make up a urea molecule come from [[carbon dioxide]], water, [[aspartate]] and [[ammonia]] in a [[metabolic pathway]] known as the [[urea cycle]], an [[Anabolism|anabolic process]]. This expenditure of energy is necessary because ammonia, a common [[metabolism|metabolic]] waste product, is toxic and must be neutralized. Urea production occurs in the [[liver]] and is under the regulatory control of [[N-acetylglutamate]].
+
+In this cycle, [[amino]] groups donated by [[ammonia]] and L-[[aspartate]] are converted to urea, while L-[[ornithine]], [[citrulline]], L-argininosuccinate, and L-[[arginine]] act as intermediates.
+
+===Function===
+====In humans====
+Urea is essentially a waste product. However, it also plays a very important role in that it helps set up the Countercurrent System in the [[nephrons]].  (See [[countercurrent exchange]] for an explanation of the generic concept.) The countercurrent system in the nephrons allows for reabsorption of water and critical ions. Urea is reabsorbed in the [[inner medullary collecting duct]]s of the nephrons<ref name=boron837> {{cite book |author=Walter F., PhD. Boron |title=Medical Physiology: A Cellular And Molecular Approaoch |publisher=Elsevier/Saunders |location= |year= |pages= |isbn=1-4160-2328-3 |oclc= |doi=}} Page 837 </ref>, thus raising the [[osmolarity]] in the medullary [[interstitium]] surrounding the thin ascending limb of the [[Loop of Henle]]. The greater the osmolarity of the medullary interstitium surrounding the thin ascending Loop of Henle, the more water will be resorbed out of the renal tubule back into the interstitium (and thus back into the body).  Some of the urea from the medually interstitium that helped set up the Countercurrent System will also flow back into the tubule, through [[urea transporter 2]], into the [[thin ascending limb of the loop of Henle]], through the collecting ducts, and eventually out of the body as a component of urine.
+
+It is dissolved in blood (in a concentration of 2.5 - 7.5 mmol/liter) and excreted by the kidney as a component of [[urine]]. In addition, a small amount of urea is excreted (along with [[sodium chloride]] and water) in [[sweat]].
+
+=====Regulation=====
+:''Further reading:[[Renal urea handling]]''
+Control of urea by [[antidiuretic hormone]] allows the body to create [[hyperosmotic]] urine (urine that has more ions in it--is "more concentrated"--than that same person's [[blood plasma]]). Preventing the loss of water in this manner is important if the person's body needs to save water in order to maintain a suitable [[blood pressure]] or (more likely,) in order to maintain a suitable concentration of [[sodium]] ions in the blood plasma.
+
+====Non-humans====
+Most [[organism]]s have to deal with the excretion of nitrogen waste originating from [[protein]] and [[amino acid]] [[catabolism]]. In [[marine biology|aquatic]] organisms the most common form of nitrogen waste is ammonia, while land-dwelling organisms convert the toxic ammonia to either urea or [[uric acid]]. Generally, [[bird]]s and [[saurian]] [[reptile]]s excrete uric acid, while the remaining species, including [[mammal]]s, excrete urea. Remarkably, [[tadpole]]s excrete ammonia, and shift to urea production during [[Metamorphosis (biology)|metamorphosis]]. In [[veterinary medicine]], [[Dalmatian]] breeds of dogs are noteworthy in that they excrete urea in the form of uric acid in the urine rather than in the urea form. This is due to a defect in one of the [[gene]]s controlling expression of the conversion [[enzyme]]s in the urea cycle.
+
+Despite the generalization above, the pathway has been documented not only in mammals and amphibians, but in many other organisms as well, including birds, [[invertebrate]]s, [[insect]]s, [[plant]]s, [[yeast]], [[fungi]], and even [[microorganism]]s.
+
+==Hazards==
+Urea can be irritating to skin and eyes. Too high concentrations in the blood can cause damage to organs of the body.  Low concentrations of urea such as in [[urine]] are not dangerous.
+
+It has been found that urea can cause [[algal bloom]]s to produce toxins, and urea in runoff from fertilizers may play a role in the increase of toxic blooms.[http://www.newscientist.com/channel/life/mg19426085.900-us-set-to-track-toxic-algal-blooms.html]
+
+Repeated or prolonged contact with urea in fertiliser form on the skin may cause dermatitis. The substance also irritates the eyes, the skin and the respiratory tract. The substance decomposes on heating above melting point producing toxic gases. Reacts violently with strong oxidants, nitrites, inorganic chlorides, chlorites and perchlorates causing fire and explosion hazard
+
+==Synthetic production==
+Urea is a nitrogen-containing chemical product which is produced on a scale of some 100,000,000 tons per year worldwide.
+
+Urea is commercially produced from synthetic [[ammonia]] and [[carbon dioxide]]. Urea can be produced as [[prill]]s, [[granules]], flakes, pellets, crystals and solutions.
+
+More than 90% of world production is destined for use as a [[fertilizer]]. Urea has the highest [[nitrogen]] content of all solid nitrogenous fertilizers in common use (46.4%) It therefore has the lowest transportation costs per unit of nitrogen [[nutrient]].
+
+Urea is highly soluble in water and is therefore also very suitable for use in fertilizer solutions (in combination with [[ammonium nitrate]]: [[UAN]]), e.g. in 'foliar feed' fertilizers.
+
+Solid urea is marketed as prills or granules. The advantage of prills is that in general they can be produced more cheaply than granules which, because of their narrower particle size distribution have an advantage over prills if applied mechanically to the [[soil]]. Properties such as impact strength, crushing strength and free-flowing behaviour are particularly important in product handling, storage and bulk transportation.
+
+===Commercial production===
+Urea is commercially produced from two raw materials, [[ammonia]] and [[carbon dioxide]]. Large quantities of carbon dioxide are produced during the manufacture of ammonia from coal or from [[hydrocarbons]] such as natural gas and petroleum derived raw materials. This allows direct synthesis of urea from these raw materials.
+
+The production of urea from ammonia and carbon dioxide takes place in an [[equilibrium reaction]], with incomplete conversion of the reactants. The various urea processes are characterized by the conditions under which urea formation takes place and the way in which unconverted reactants are further processed.
+
+Unconverted reactants can be used for the manufacture of other products, for example [[ammonium nitrate]] or [[sulphate]], or they can be recycled for complete conversion to urea in a total-recycle process.
+
+Two principal reactions take place in the formation of urea from [[ammonia]] and [[carbon dioxide]]. The first reaction is exothermic:
+:2NH<sub>3</sub> + CO<sub>2</sub> → H<sub>2</sub>N-COONH<sub>4</sub> ([[ammonium carbonate]])<br />
+While the second reaction is endothermic:
+:H<sub>2</sub>N-COONH<sub>4</sub> → (NH<sub>2</sub>)<sub>2</sub>CO + H<sub>2</sub>O
+Both reactions combined are exothermic.
+
+The process is also called the '''Bosch-Meiser urea process''' after its discoverers (1922).
+
+==Uses==
+===Agricultural use===
+Urea is used as a nitrogen release fertilizer as it hydrolyses back to ammonia and carbon dioxide, but its most common impurity (biuret,NH2-CO-NH-CO-NH2) must be present at less than 2% as it impairs plant growth. It is also used in many multi-component solid fertilizer formulations.
+Its action of nitrogen release is due to the conditions favouring the reagent side of the equilibriums which produce urea.
+
+Urea is usually spread at rates of between 40 and 300 kg/ha, but actual spreading rates will vary according to farm type and region. It is better to make several small to medium applications at intervals to minimise leaching losses and increase efficient use of the N applied compared with single heavy applications. During summer, urea should be spread just before, or during rain to reduce possible losses from volatilisation (process where nitrogen is lost to the atmosphere as ammonia gas). Urea should not be mixed for any length of time with other fertilizers as problems of physical quality may result.
+
+Because of the high N concentration in urea, it is very important to achieve an even spread. Make sure that the application equipment has been correctly calibrated and is properly used. Do not drill on contact with or close to seed, due to the risk of germination damage. Urea dissolves in water for application as a spray or through irrigation systems.
+
+In grain and cotton crops, urea is often applied at the time of the last cultivation before planting. It should be applied into, or be incorporated into the soil. In high rainfall areas and on sandy soils (where nitrogen can be lost through leaching) and where good in-season rainfall is expected, urea can be side or top-dressed during the growing season. Top-dressing is also popular on pasture and forage crops. In sugarcane, urea is side-dressed after planting, and applied to each ratoon crop (see [[ratooning]]).
+
+In irrigated crops, urea can be applied dry to the soil, or dissolved and applied through the irrigation water. Urea will dissolve in its own weight in water, but it becomes increasingly difficult to dissolve as the concentration increases. Dissolving urea in water is endothermic, causing the temperature of the solution to fall when urea dissolves.
+
+As a practical guide, when preparing urea solutions for [[fertigation]] (injection into irrigation lines), dissolve no more than 30 kg urea per 100 L water.
+
+In foliar sprays, urea concentrations of 0.5 – 2.0% are often used in horticultural crops. As urea sprays may damage crop foliage, specific advice should be sought before use. Low [[biuret]] grades of urea should be used if urea sprays are to be applied regularly or to sensitive horticultural crops.
+
+====Storage of urea fertilizer====
+Like most nitrogen products, urea absorbs moisture from the atmosphere. Therefore it should be stored either in closed/sealed bags on pallets, or if stored in bulk, covered with a tarpaulin. As with most solid fertilizers, it should also be stored in a cool, dry, well ventilated area.
+
+===Industrial use===
+Urea has the ability to form 'loose compounds' with many organic compounds. The organic compounds are held in channels formed by interpenetrating helices comprising of hydrogen bonded urea molecules. This behaviour can be used to separate mixtures and has been used in the production of aviation fuel and lubricating oils.
+As the helices are interconnected all helices in a crystal must have the same 'handedness'. This is determined when the crystal is nucleated and can thus be forced by seeding. This property has been used to separate racemic mixtures.
+
+===Further commercial uses include:===
+*Urea is also employed as a stabilizer in nitrocellulose explosives
+*As a reactant in the [[nitrogen oxide|NO<sub>x</sub>]]-reducing [[Selective non-catalytic reduction|SNCR]] and [[Selective catalytic reduction|SCR]] reactions in [[exhaust gas]]es from [[combustion]], for example from [[power plant]]s and [[diesel engine]]s.
+*As a component of [[fertilizer]] and [[animal feed]], providing a relatively cheap source of [[Nitrogen fixation|fixed nitrogen]] to promote growth.
+*As a raw material for the manufacture of [[plastic]]s specifically, [[urea-formaldehyde resin]].
+*As a raw material for the manufacture of various glues (urea-formaldehyde or urea-melamine-formaldehyde). The latter is waterproof and is used for marine plywood.
+*As an alternative to rock salt in the deicing of roadways and runways. It does not promote metal corrosion to the extent that salt does.
+*As an additive ingredient in [[cigarette]]s, designed to enhance [[flavour]].
+*Sometimes used as a browning agent in factory-produced [[pretzels]].
+*As an ingredient in some hair conditioners, facial cleansers, bath oils and lotions.
+*It is also used as a [[reactant]] in some ready-to-use cold compresses for first-aid use, due to the [[endothermic]] reaction it creates when mixed with [[water]].
+*Used, along with salts, as a [[cloud seeding]] agent to expedite the condensation of water in clouds, producing precipitation.
+*The ability of urea to form [[clathrates]] (also called host-guest complexes, inclusion compounds, and adducts) was used in the past to separate paraffins.
+*As a flame-proofing agent (commonly used in dry chemical fire extinguishers as Urea-potassium bicarbonate)
+*As an ingredient in many [[tooth whitening]] products.
+*Added to stainless steel alloys used in some Japanese knives to retain sharpness.
+*As a cream to soften the skin, especially cracked skin on the bottom of one's feet.
+*As an ingredient in dish soap.
+
+===Laboratory use===
+Urea is a powerful [[protein]] [[denaturation (biochemistry)|denaturant]].  This property can be exploited to increase the solubility of some proteins.  For this application it is used in concentrations up to 10 [[Molar volume|M]].
+Urea is used to effectively disrupt the noncovalent bonds in proteins.
+Urea is an ingredient in the synthesis of [[urea nitrate]].
+Urea nitrate is also a high explosive very similar to ammonium nitrate, however it may even be more powerful because of its complexity. VOD is 11,000 fps to 15,420 fps.
+
+===Medical use===
+;Drug use
+Urea is used in topical [[dermatology|dermatological]] products to promote [[rehydration]] of the [[skin]].  If covered by an [[occlusive dressing]], 40% urea preparations may also be used for nonsurgical [[debridement]] of [[nail (anatomy)|nails]].  This drug is also used as an earwax removal aid.
+
+;Clinical diagnosis
+''See [[blood urea nitrogen]] ("BUN") for a commonly performed urea test, and marker of [[renal function]].''
+
+;Other diagnostic use
+Isotopically-labeled urea ([[carbon-14|carbon 14]] - radioactive, or [[Carbon-13|carbon 13]] - stable isotope) is used in the [[Urea breath test]], which is used to detect the presence of ''[[Helicobacter pylori]]'' (''H. pylori'', a bacterium) in the stomach and duodenum of humans.  The test detects the characteristic enzyme urease, produced by ''H. pylori'', by a reaction that produces ammonia from urea.  This increases the pH (reduces acidity) of the stomach environment around the bacteria.
+
+Similar bacteria species to ''H. pylori'' can be identified by the same test in animals (apes, dogs, cats including big cats).
+
+===Textile use===
+Urea in textile laboratories are frequently used both in dyeing and printing as an important auxiliary which provides solubility to the bath and retains some moisture which is required for the dyeing or printing process.
+
+===Ionic liquid===
+[[Choline chloride]], in mixture with [[urea]] is used as solvent ( [[deep eutectic solvent|DES]] ) , a type of [[ionic liquid]].
+
+==Ureas==
+'''Ureas''' or '''carbamides''' are a class of [[chemical compound]]s sharing the same [[functional group]] RR'N-CO-NRR' based on a [[carbonyl]] group flanked by two organic [[amine]] residues. They can be accessed in the laboratory by reaction of [[phosgene]] with primary or secondary [[amine]]s. Example of ureas are the compounds [[carbamide peroxide]], [[allantoin]] and [[Hydantoin]]. Ureas are closely related to [[biuret]]s and structurally related to [[amide]]s, [[carbamate]]s, [[diimide]]s, [[carbodiimide]]s and [[thiocarbamide]]s.
+
+==Reactions==
+Urea reacts with alcohols to form urethanes. Urea reacts with [[malonic acid|malonic]] esters to make barbituric acids.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.sciencelab.com/xMSDS-Urea-9927317 MSDS sheet on urea]
+* [http://www.ozonebiotech.com/neem-urea-coating-agent.html Urea Coating Agent]
+* [http://www.pburch.net/dyeing/FAQ/urea.shtml Use of urea in hand dyeing]
+* [http://www.globalcheminfo.com/chemicals/details/41837 Urea: synonymes, CAS, formula]
+* [http://www.u3kenergy.com U3K Energy: Patented technology for use of urea as fuel (not SCR additive) for internal combustion engines and fuel cells.]
+* Free technical references and guidlines for the correct use of [http://www.handling-adblue.co.uk/ AdBlue] (urea) as a reductant with the aid of an SCR.]
+
+{{E number infobox 920-929}}
+
+[[Category:Nitrogen metabolism]]
+[[Category:Ureas| ]]
+[[Category:Functional groups]]
+[[Category:Agricultural chemicals]]
+[[Category:Excretion]]
+[[Category:Soil improvers]]
+
+[[ar:يوريا]]
+[[ca:Urea]]
+[[cs:Močovina]]
+[[da:Urinstof]]
+[[de:Harnstoff]]
+[[et:Karbamiid]]
+[[es:Urea]]
+[[fr:Urée]]
+[[id:Urea]]
+[[is:Þvagefni]]
+[[it:Urea]]
+[[he:שתנן]]
+[[lv:Karbamīds]]
+[[nl:Ureum]]
+[[ja:尿素]]
+[[no:Urea]]
+[[nn:Urea]]
+[[oc:Urea]]
+[[pl:Mocznik]]
+[[pt:Uréia]]
+[[ru:Мочевина]]
+[[sk:Močovina]]
+[[fi:Urea]]
+[[sv:Urea]]
+[[vi:Urê]]
+[[tr:Üre]]
+[[zh:尿素]]

@@ -1,0 +1,485 @@
+{{otheruses4|3=robot (disambiguation)}}
+
+[[Image:robot asimo cropped.jpg|thumb|[[ASIMO]], a [[humanoid]] robot manufactured by [[Honda]].]]
+A '''robot''' is a [[machine|mechanical]] or [[virtual]], [[artificial]] [[Wiktionary:agent|agent]]. It is usually an [[electromechanical]] [[system]], which, by its appearance or movements, conveys a sense that it has [[Intention|intent]] or [[Wiktionary:agency|agency]] of its own. The word ''robot'' can refer to both physical and virtual [[software agent]]s, but the latter are usually referred to as [[Internet bot|''bots'']] to differentiate.<ref>[http://www.atis.org/tg2k/_bot.html Alliance for Telecommunications Solutions: Telecom glossary "bot"]</ref>
+
+While there is still discussion<ref>[http://botbuilder.org/showthread.php?p=276 Bot Builder forum subject: "Is a remote controlled robot a true robot?"]</ref><ref> [http://www.botmag.com/forum/showthread.php?t=240 Botmag forum subject: "What does "robot" mean to YOU?"]</ref><ref>[http://www.botmag.com/forum/showthread.php?t=285 Botmag challenge to define robot]</ref> about which machines qualify as robots, a typical robot will have several, though not necessarily all of the following properties:
+
+* Is not '[[natural]]' i.e. has been artificially created.
+* Can sense its [[Wiktionary:environment|environment]].
+* Can [[Manipulator|manipulate]] things in its environment.
+* Has some degree of [[intelligence]], or ability to make choices based on the environment, or automatic control / preprogrammed sequence.
+* Is [[Computer program|programmable]].
+* Can move with one or more axes of [[Axis of rotation|rotation]] or [[Translation (geometry)|translation]].
+* Can make [[Dexterity|dexterous]] coordinated [[Motion (physics)|movements]]. 
+* Appears to have intent or agency ([[reification (fallacy)|reification]], [[anthropomorphisation]] or [[Pathetic fallacy]]<ref> [http://www.technologymarketing.com/bw/magazine/current/article_display.jsp?vnu_content_id=1003541524  Brandweek: Even Robot Suicide Is No Laughing Matter]</ref>).
+
+==Defining characteristics==
+The last property (above), the appearance of agency, is important when people are considering whether to call a machine a robot. In general, the more a machine has the appearance of agency, the more it is considered a robot.
+
+[[Image:KITT1.jpg|thumb|[[KITT]] is mentally anthropomorphic]]
+'''Mental agency'''<br />
+For robotic engineers, the physical appearance of a machine is less important than the way its actions are [[Control system|controlled]].<ref> [http://www.robotbuilder.co.uk/forum/topic.asp?TOPIC_ID=968 RobotBuilder Forum discussions: "Is THIS a robot?"]</ref> The more the control system seems to have agency of its own, the more likely the machine is to be called a robot. An important feature of agency is the ability to make choices. So the more a machine could feasibly choose to do something different, the more agency it has. For example:
+* a [[clockwork]] car is never considered a robot<ref>[http://www.google.co.uk/search?q=%22clockwork+robot+car Google search "clockwork robot car"]</ref>
+* a [[radio control|radio-controlled]] car is almost never considered a robot (though is sometimes known as a [[telerobotics|telerobot]]).
+* a car with an onboard computer, like [[Bigtrak]], which could drive in a programmable sequence might be called a robot.
+* a [[Smart car|self-controlled car]], like the 1990s [[driverless car]]s of [[Ernst Dickmanns]], or the entries to the [[DARPA Grand Challenge]], which could sense its environment, and make driving decisions based on this information would quite likely be called robot.
+* a [[sentient]] car, like the fictional [[KITT]], which can take decisions, navigate freely and converse fluently with a human, is usually considered a robot.
+
+[[Image:Asimo look new design.jpg|thumb|ASIMO is physically anthropomorphic]]
+'''Physical agency'''<br />
+However, for many people, if a machine looks [[Wiktionary:anthropomorphic|anthropomorphic]] or [[Wiktionary:zoomorphic|zoomorphic]] (e.g. [[ASIMO]] and [[Aibo]]), especially if it is [[limb]]-like (e.g. a simple [[robot arm]]), or has limbs, or can move around, it would be called a robot.
+
+For example, even if the following examples used the same control architecture:
+* a [[player piano]] is rarely called a robot<ref>[http://www.wyastone.co.uk/nrl/gp_robot.html The Grand Piano Series: The History of The Robot]</ref>
+* a [[CNC]] milling machine is very occasionally called a robot.
+* a [[Factory robot|factory automation arm]] is usually called a robot.
+* a zoomorphic mechanical toy, like [[Roboraptor]], is usually called a robot.<ref>[http://www.robotsrule.com/html/roboraptor.php Robots Rule: Roboraptor Product Information] which refers to Roboraptor as a 'robot'</ref><ref>[http://news.bbc.co.uk/1/hi/technology/4164189.stm BBC News: A robot in every home?] in which Art Janis from [[WowWee]] refers to [[Robosapien]] as a "real robot"</ref>
+* a humanoid, like [[ASIMO]], is almost always called a robot.
+
+Interestingly, while a 3-axis CNC milling machine may have a very similar or identical control system to a robot arm, it is the arm which is almost always called a robot, while the CNC machine is usually just a machine. Having a limb can make all the difference. Having eyes too gives people a sense that a machine is aware (the eyes are the windows of the soul). However, simply being anthropomorphic is not sufficient for something to be called a robot. A robot must do something, whether it is useful work or not. So, for example, a rubber dog chew, shaped like ASIMO, would not be considered a robot.
+
+===Other definitions of robot===
+
+There is no one definition of robot which satisfies everyone, and many people have written their own.<ref>[http://www.virtuar.com/click/2005/robonexus/index.htm Robonexus Exhibition 2005, where participants were asked for their definition of robot]</ref> For example, [[International standard]] [[ISO 8373]] defines a "robot" as:
+{{bquote|An automatically controlled, reprogrammable, multipurpose, manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications.<ref>[http://www.dira.dk/pdf/robotdef.pdf Definition of a robot] ([[Portable Document Format]])</ref>}}
+
+[[Joseph Engelberger]], a pioneer in industrial robotics, once remarked:
+{{quote|I can't define a robot, but I know one when I see one.<ref> [http://science.howstuffworks.com/robot.htm How Stuff Works: How Robots Work]</ref>}}
+
+The ''Cambridge Advanced Learner's Dictionary'' defines "robot" as:
+{{quote|A machine used to perform jobs automatically, which is controlled by a computer<ref> [http://dictionary.cambridge.org/define.asp?key=68311&dict=CALD Cambridge Dictionary Online: Robot]</ref>}}
+
+==History==
+[[Image:Cadmus_teeth.jpg|thumb|left|Cadmus Sowing the Dragon's teeth, by Maxfield Parrish, 1908]]
+===Ancient developments===
+The idea of artificial people dates at least as far back as the ancient legends of [[Cadmus]], who sowed dragon teeth that turned into soldiers, and the myth of [[Pygmalion (mythology)|Pygmalion]], whose statue of [[Galatea (mythology)|Galatea]] came to life. In [[Greek mythology]], the deformed god of metalwork ([[Vulcan (mythology)|Vulcan]] or [[Hephaestus]]) created mechanical servants, ranging from intelligent, golden handmaidens to more utilitarian three-legged tables that could move about under their own power. Medieval [[Persia]]n [[Alchemy|alchemist]] [[Jabir ibn Hayyan]], inventor of many basic processes still used in [[chemistry]] today, included recipes for creating artificial [[snake]]s, [[scorpion]]s, and [[human]]s in his coded ''Book of Stones''. [[Jew]]ish legend tells of the [[Golem]], a clay creature animated by [[Kabbalism|Kabbalistic]] magic. Similarly, in the [[Younger Edda]], [[Norse mythology]] tells of a clay giant, Mökkurkálfi or Mistcalf, constructed to aid the troll Hrungnir in a duel with [[Thor]], the God of [[Thunder]].
+
+In [[ancient China]], a curious account on automata is found in the ''Lie Zi'' text, written in the 3rd century BC. Within it there is a description of a much earlier encounter between [[King Mu of Zhou]] ([[1023 BC|1023]]-[[957 BC]]) and a mechanical engineer known as [[Yan Shi]], an 'artificer'. The latter proudly presented the king with a life-size, human-shaped figure of his mechanical 'handiwork' ([[Wade-Giles]] spelling):
+
+<blockquote>
+The king stared at the figure in astonishment. It walked with rapid strides, moving its head up and down, so that anyone would have taken it for a live human being. The artificer touched its chin, and it began singing, perfectly in tune. He touched its hand, and it began posturing, keeping perfect time...As the performance was drawing to an end, the robot winked its eye and made advances to the ladies in attendance, whereupon the king became incensed and would have had Yen Shih [Yan Shi] executed on the spot had not the latter, in mortal fear, instantly taken the robot to pieces to let him see what it really was. And, indeed, it turned out to be only a construction of leather, wood, glue and lacquer, variously coloured white, black, red and blue. Examining it closely, the king found all the internal organs complete—liver, gall, heart, lungs, spleen, kidneys, stomach and intestines; and over these again, muscles, bones and limbs with their joints, skin, teeth and hair, all of them artificial...The king tried the effect of taking away the heart, and found that the mouth could no longer speak; he took away the liver and the eyes could no longer see; he took away the kidneys and the legs lost their power of locomotion. The king was delighted.<ref name="needham volume 2 53">[[Joseph_Needham|Needham, J.]] (1991). ''Science and Civilisation in China: Volume 2, History of Scientific Thought''. Cambridge University Press. ISBN  0521058007</ref>
+</blockquote>
+
+Concepts akin to a robot can be found as long ago as the 4th century BC, when the Greek mathematician [[Archytas]] of Tarentum postulated a mechanical bird he called "The Pigeon" which was propelled by [[steam]]. Yet another early automaton was the [[water clock|clepsydra]], made in 250 BC by [[Ctesibius]] of [[Alexandria]], a physicist and inventor from [[Ptolemaic Egypt]].<ref name="RoboticHistory1">[http://www.faculty.ucr.edu/~currie/roboadam.htm The History of Robotics], [[Adam Currie]], [[1999]].</ref> [[Hero of Alexandria]] (10-70 AD) made numerous innovations in the field of automata, including one that allegedly could speak.
+
+[[Image:Al-jazari_robots.jpg|right|thumb|Al-Jazari's programmable humanoid robots.]]
+
+===Medieval developments===
+[[Al-Jazari]] (1136-1206), an [[Arab]] [[Muslim inventions|Muslim inventor]] during the [[Artuqid dynasty]], designed and constructed a number of automatic machines, including kitchen appliances, musical automata powered by [[water]] (see [http://www.finns-books.com/auto.htm one of his works]), and the first [[Computer programming|programmable]] [[humanoid robot]] in 1206. Al-Jazari's robot was a boat with four automatic musicians that floated on a lake to entertain guests at royal drinking parties. His [[mechanism]] had a programmable drum machine with [[peg]]s ([[cam]]s) that bump into little [[lever]]s that operate the [[percussion]]. The drummer could be made to play different rhythms and different drum patterns by moving the pegs to different locations.<ref> [http://www.shef.ac.uk/marcoms/eview/articles58/robot.html A 13th Century Programmable Robot.] [[University of Sheffield]].</ref>
+
+One of the first recorded designs of a humanoid robot was made by [[Leonardo da Vinci]] (1452-1519) in around 1495.  Da Vinci's notebooks, rediscovered in the 1950s, contain detailed drawings of a mechanical [[knight]] able to sit up, wave its arms and move its head and jaw. <ref name="RoboticHistory2">[http://robotics.megagiant.com/history.html A Brief History of Robotics], MegaGiant Robotics, [[2005]].</ref> The design is likely to be based on his anatomical research recorded in the ''[[Vitruvian Man]]''. It is not known whether he attempted to build the robot (see: [[Leonardo's robot]]).
+
+===Early modern developments===
+The word ''robot'' was introduced by Czech writer [[Karel Čapek]] in his play ''[[R.U.R. (Rossum's Universal Robots)]]'' premiered in 1920 (see also [[Robots in literature]] for details of the play; its robots were biological in nature, corresponding to the modern term [[android]]).<ref name="RoboticHistory2"/> However, Čapek named his brother [[Josef Čapek]], a painter and a writer, as the true inventor of the word.<ref name=capek>The Karel Čapek website: [http://capek.misto.cz/english/robot.html Who did actually invent the word "robot" and what does it mean?]</ref> The word is derived from the noun ''robota'', meaning "forced labour, [[corvée]], drudgery" in the [[Czech language]] and being the general root for ''work'' in other [[Slavic languages]]. (See [[Karel Čapek#Etymology of robot]] for more details).
+
+An early [[automaton]] was created 1738 by [[Jacques de Vaucanson]], who created a mechanical duck that was able to eat and digest grain, flap its wings, and excrete. <ref name= "RoboticHistory2"/>
+
+The Japanese craftsman Hisashige Tanaka, known as "Japan's Edison," created an array of extremely complex mechanical toys, some of which were capable of serving tea, firing arrows drawn from a quiver, or even painting a Japanese ''kanji'' character. The landmark text ''Karakuri Zui'' (''Illustrated Machinery'') was published in 1796. (T. N. Hornyak, ''Loving the Machine: The Art and Science of Japanese Robots'' [New York: Kodansha International, 2006])
+
+===Modern developments===
+[[Image:N_Tesla.JPG|thumb|left|Nikola Tesla]]
+Some consider the first truly modern robot to be a teleoperated [[boat]], similar to a modern [[ROV]], devised by [[Nikola Tesla]] and demonstrated at an [[1898]] exhibition in [[Madison Square Garden]]. Based on his patents {{US patent|613,809}}, {{US patent|723188}} and {{US patent|725,605}} for "teleautomation", Tesla hoped to develop the "wireless [[torpedo]]" into an automated [[weapon system]] for the [[US Navy]]. (Cheney 1989) Tesla also proposed but did not build remotely operated war planes and ground vehicles. He also predicted these remote controlled machines were merely precursors of "machines possessed of their own intelligence" (Cheney 1989). See also the PBS website article (with photos): [http://www.pbs.org/tesla/ll/ll_robots.html Tesla - Master of Lightning: Race of Robots]
+
+In the 1930s, [[Westinghouse Electric Corporation]] made a humanoid robot known as [[Elektro]], exhibited at the [[1939]] and [[1940]] [[World's Fair]]s.
+
+The first electronic [[autonomous robot]] was created by [[William Grey Walter]] at [[Bristol University]], [[England]] in [[1948]]. It was named ''Elsie'', or the ''Bristol Tortoise''. This robot could sense light and contact with external objects, and use these stimuli to navigate. <ref name="RoboticHistory1"> [http://www.ias.uwe.ac.uk/Robots/gwonline/gwonline.html The Grey Walter Online Archive], Owen Holland; Accessed [[April 30, [[2007]]</ref> 
+
+[[Image:PUMA_robot_arm.jpg|thumb|right|Unimate's PUMA arm.]]
+The first truly modern robot, digitally operated, programmable, and teachable, was invented by [[George Devol]] and was called the [[Unimate]].  It is worth noting that not a single patent was cited against his original robotics patent ({{US patent|2,988,237}}).  The first Unimate was personally sold by Devol to [[General Motors]] in [[1960]] and installed in [[1961]] in a plant in [[Trenton, New Jersey]] to lift hot pieces of [[metal]] from a [[die-casting]] machine and stack them.<ref name="RoboticHistory1"/>
+
+The first human to be killed by a robot was [[Robert Williams (robot fatality)|Robert Williams]] who died at a casting plant in [[Flat Rock, MI]] (Jan. 25, [[1979]]). <ref name="a"> [http://docs.newsbank.com/g/GooglePM/PI/lib00187,0EB295F7D995F801.html Death on the job: Jury awards $10 million to heirs of man killed by robot at auto plant], Tim Kiska, ''[[Philadelphia Inquirer]]'', [[August 11]], [[1983]]; [http://docs.newsbank.com/g/GooglePM/PI/lib00187,0EB296EC28E31A97.html Death-by-robot yields award of $15 million], ''Philadelphia Inquirer'', [[January 14]], [[1984]].</ref>
+
+A better known case is that of 37 year-old [[Kenji Urada]], a Japanese factory worker, in 1981. Urada was performing routine maintenance on the robot, but neglected to shut it down properly, and was accidentally pushed into a [[grinding machine]].<ref> [http://www.economist.com/displaystory.cfm?story_id=7001829 Trust me, I'm a robot], ''[[The Economist]]'', [[June 8]], [[2006]]; accessed online 4-30-2007.</ref>
+<br style="clear:both;"/>
+
+==Timeline==
+{| class="wikitable"
+! Date
+! Significance
+! Robot Name
+! Inventor
+|-
+| [[1206]]
+| First [[Computer programming|programmable]] [[humanoid robot]]
+| mechanical [[boat]] with four automatic [[musician]]s
+| [[Al-Jazari]]
+|-
+| ~[[1495]]
+| One of the first recorded designs of a humanoid robot
+| mechanical [[knight]]
+| [[Leonardo da Vinci]]
+|-
+| [[1738]] 
+| colspan=2 | Early [[automaton]], a mechanical [[duck]] that was able to eat [[grain]], flap its [[wings]], and [[excrete]]. 
+| [[Jacques de Vaucanson]]
+|-
+| [[1898]]
+| First teleoperated machine, demonstrated at an [[exhibition]] in [[Madison Square Garden]].<ref>[http://www.teslasociety.com/robotics.htm Tesla memorial society of New York - Nikola Tesla: Father of Robotics]</ref><ref>[http://www.pbs.org/tesla/ll/ll_robots.html Tesla - Master of Lightning: Race of Robots]]</ref>
+| a boat similar to a modern [[remotely operated vehicle|ROV]]
+| [[Nikola Tesla]]
+|-
+| [[1920]] 
+| Word ''robot'' coined.<ref name=capek/>
+| 
+| [[Karel Čapek]]
+|-
+| [[1930s]]
+| Early humanoid robot. It was exhibited at the [[1939]] and [[1940]] [[World's Fair]]s 
+| [[Elektro]]
+| [[Westinghouse Electric Corporation]]
+|-
+| [[1942]]
+| The word ''[[robotics]]'' appears in the [[science fiction]] [[short story]] [[Runaround]].<ref>[[Isaac Asimov]]: [http://www.heretical.com/miscella/asimov.html The word I invented]</ref>
+| 
+| [[Isaac Asimov]]
+|-
+| [[1948]]
+| Simple robots which exhibit [[biological]] like [[behaviour]]s.<ref> [http://www.cerebromente.org.br/n09/historia/turtles_i.htm Imitation of Life: A History of the First Robots]</ref>
+| Elsie and Elmer
+| [[William Grey Walter]]
+|-
+| [[1956]]
+| First robot [[company]] is founded by [[George Devol]] and [[Joseph Engelberger]] based on Devol's patents; first commercial robot.<ref> [http://www.sme.org/cgi-bin/find-articles.pl?&ME06ART39&ME&20060709#article Society of Manufacturing Engineers July 06 Issue Volume 137 No. 1: Interview with Joseph F. Engelberger]</ref>
+| [[Unimate]]
+| [[George Devol]]
+|-
+| [[1956]]
+| Phrase ''[[artificial intelligence]]'' is coined at a [[conference]] in [[Dartmouth, Massachusetts]].<ref>[http://soe.stanford.edu/AR04-05/profiles_mccarthy.html Stanford Engineering Annual Report: Profile of John McCarthy]</ref>
+| 
+| [[Marvin Minsky]] and [[John McCarthy (computer scientist)|John McCarthy]]
+|-
+| [[1975]]
+| Programmable Universal Manipulation Arm (a Unimation product)
+| [[Programmable Universal Machine for Assembly]] 
+| [[Victor Scheinman]]
+|-
+| [[1981]]
+| [[Kenji Urada]], a Japanese factory worker, is killed by a robot.<ref> [http://www.iapa.ca/apmag/2007_enews_jan.asp#c IAPA - Robotics safety: avoid exchanging hazards]</ref>
+|-
+| [[2000]]
+| A humanoid robot that can recognize human faces, see [[Stereoscopy|stereoscopically]], walk and run on different types of ground (including stairs), and respond (in words and in actions) to English and Japanese commands.
+| [[ASIMO]]
+| [[Honda Corporation]]
+| 
+|}
+
+==Contemporary uses ==
+{{Main|Industrial robot|Domestic robot}}
+Robots can be placed into roughly two categories based on the type of job they do:
+* Jobs which a robot can do better than a human. Here, robots can increase productivity, accuracy, and endurance.
+* Jobs which a human could do better than a robot, but it is desirable to remove the human for some reason. Here, robots free us from dirty, dangerous and dull tasks.
+
+===Increased productivity, accuracy, and endurance===
+[[Image:Industrial Robotics in car production.jpg|thumb|Industrial robots doing vehicle under body assembly]]
+Jobs which require speed, accuracy, reliability or endurance can be performed far better by a robot than a human. Hence many jobs in factories which were traditionally performed by people are now robotized. This has lead to cheaper mass-produced goods, including automobiles and electronics. Robots have now been working in factories for more than fifty years, ever since the Unimate robot was installed to automatically remove hot metal from a die casting machine. Since then, factory automation in the form of large stationary manipulators has become the largest market for robots. The number of installed robots has grown faster and faster, and today there are more than 800,000 worldwide (42% in [[Japan]], 40% in the [[European Union]] and 18% in the [[USA]]).<ref>[http://www.unece.org/press/pr2004/04stat_p01e.pdf United Nations Economic Commission for Europe: World Robotics 2004 survey]</ref>
+
+[[Image:PlaceC5.jpg|left|thumb|Pick and Place robot, Contact Systems C5 Series<ref>[http://www.contactsystems.com Contact Systems Pick and Place robots]</ref>]]
+'''Some examples of factory robots:'''
+* '''[[Automaker|Car production]]:''' This is now the primary example of factory automation.  Over the last three decades automobile factories have become dominated by robots. A typical factory contains hundreds of [[industrial robot]]s working on fully automated production lines - one robot for every ten human workers.  On an automated production line a vehicle chassis is taken along a conveyor to be [[welding|welded]], [[glue]]d, [[paint]]ed and finally assembled by a sequence of robot stations.
+* '''[[Packaging]]:''' [[Industrial robot]]s are also used extensively for palletising and packaging of manufactured goods, for example taking drink cartons from the end of a conveyor belt and placing them rapidly into boxes, or the loading and unloading of machining centers.
+* '''[[Electronics]]:''' Mass produced [[printed circuit board]]s (PCBs) are almost exclusively manufactured by pick and place robots, typically with "[[SCARA]]" manipulators, which remove tiny [[electronic component]]s from strips or trays, and place them on to PCBs with great accuracy.<ref>[http://www.contactsystems.com/C7Series.htm Videos of Pick and Place robots]</ref> Such robots can place several components per second (tens of thousands per hour), far out-performing a human in terms of speed, accuracy, and reliability.<ref> [http://www.assembleon.com/InformationCenter/Assembleon/FTaboverview.asp?lNodeId=2958&lActiveTabArticleId=4005 Assembleon A-Series]</ref>
+* '''[[Automated Guided Vehicle]]s''': Large mobile robots, following markers or wires in the floor, or using vision<ref>[http://www.smartcaddy.net Smart Caddy by Seegrid]</ref> or lasers, are used to transport goods around large facilities, such as warehouses, container ports, or hospitals.<ref>[http://www.agvsystems.com/basics/vehicle.htm “The Basics of Automated Guided Vehicles”]. AGV Systems. Siemens. 5 March 2006</ref>
+
+Tasks such as these suit robots perfectly because the tasks can be accurately defined and must be performed the same every time. Very little feedback or intelligence is required, and the robots may need only the most basic of [http://www.wordwebonline.com/en/EXTEROCEPTOR exteroceptors] to sense things in their environment, if any at all.
+
+[[Image:Versatras150.jpg|right|thumb|VersaTrax150 pipe inspection robot reaches inaccessible places]]
+
+===Dirty, dangerous, dull or inaccessible tasks===
+There are many jobs which a human could perform better than a robot but for one reason or another the human either does not want to do it or cannot be present to do the job. The job may be too boring to bother with, for example domestic [[cleaning]]; or be too dangerous, for example exploring inside a [[volcano]]<ref>[http://www.ri.cmu.edu/projects/project_163.html The Robotics Institutge: Dante II]</ref>. These jobs are known as the "dull, dirty, and dangerous" jobs. Other jobs are physically inaccessible. For example, exploring another [[planet]]<ref> [http://mars.jpl.nasa.gov/MPF/mpf/rover.html NASA: Mars Pathfinder Mission: Rover Sojourner]</ref>, cleaning the inside of a long pipe or performing [[laparoscopic]] surgery.<ref> [http://biomed.brown.edu/Courses/BI108/BI108_2005_Groups/04/davinci.html Robot assisted surgery: da Vinci® Surgical System]</ref>
+
+[[Image:Roomba original.jpg|thumb|The Roomba domestic vacuum cleaner robot does a menial job]]
+* [[domestic robots|'''Robots in the home:''']] As their price falls, and their performance and computational ability rises<ref>[http://marshallbrain.com/robotic-nation.htm Marshall Brain: Robotic Nation]</ref>, making them both affordable and sufficiently autonomous, robots are increasingly being seen in the home where they are taking on simple but unwanted jobs, such as [[vacuum cleaner|vacuum cleaning]], floor cleaning and [[lawn mower|lawn mowing]]. While they have been on the market for several years, 2006 saw an explosion in the number of domestic robots sold. Currently, more domestic robots have been sold than any other single type of robot.<ref> http://www.robots.com/articles.php?tag=961</ref> They tend to be relatively autonomous, usually only requiring a command to begin their job. They then proceed to go about their business in their own way. At such, they display a good deal of agency, and are considered true robots.
+
+* '''[[Telerobot]]s''': When a human cannot be present on site to perform a job because it is dangerous, far away, or inaccessible, teleoperated robots, or [[Telerobotics|telerobots]] are used. Rather than following a predetermined sequence of movements a telerobot is controlled from a distance by a human operator. The robot may be in another room or another country, or may be on a very different scale to the operator. A [[laparoscopic]] [[surgery]] robot such as [http://www.intuitivesurgical.com/products/davincissurgicalsystem/index.aspx da Vinci] allows the surgeon to work inside a human patient on a relatively small scale compared to open surgery, significantly shortening recovery time.<ref> [http://biomed.brown.edu/Courses/BI108/BI108_2005_Groups/04/davinci.html Robotic Surgery: da Vinci® Surgical System]</ref> An interesting use of a telerobot is by the author [[Margaret Atwood]], who has recently started using a robot pen (the [http://www.longpen.com/lp-welcome.html LongPen]]) to sign books remotely. This saves the financial cost and physical inconvenience of traveling to book signings around the world.<ref>[http://www.gadgetgrocer.com/content/view/22/2/ Gadget Grocer: Author Invents Book-Signing Gadget]</ref> Such telerobots may be little more advanced than radio controlled cars. Some people do not consider them to be true robots because they show little or no agency of their own.
+
+[[Image:RQ-9 Predator.jpg|right|thumb|The Predator, a teleoperated plane, keeps pilots out of danger]]
+* '''[[Military robot]]s''': Teleoperated robot aircraft, like this Predator Unmanned Aerial Vehicle (right), are increasingly being used by the military. These robots can be controlled from anywhere in the world allowing an army to search terrain, and even fire on targets, without endangering those in control.<ref>[http://www.newstatesman.com/200606120018 New Statesman: America's robot army]</ref> Currently, these robots are all teleoperated, but others are being developed which can make decisions automatically; choosing where to fly or selecting and engaging enemy targets.<ref>''Defense Industry Daily'': [http://www.defenseindustrydaily.com/2005/06/battlefield-robots-to-iraq-and-beyond Battlefield Robots: to Iraq, and Beyond]</ref> Hundreds of robots such as [[iRobot|iRobot's]] [[Packbot]] and the [[Foster-Miller TALON]] are being used for in Iraq and Afghanistan by the U.S. military to defuse roadside bombs or improvised explosive devices ([[IED]]s) in an activity known as Explosive Ordnance Disposal ([[EOD]]).<ref>''[[Wired Magazine]]'': [http://www.wired.com/wired/archive/13.11/bomb.html?pg=3&topic=bomb The Baghdad Bomb Squad ]</ref>
+* '''Elder Care:''' The population is [[Gerontotechnology|aging]] in many countries, especially Japan, meaning that there are increasing numbers of elderly people to care for but relatively fewer young people to care for them.<ref>BBC News: [http://news.bbc.co.uk/1/hi/uk/4012797.stm Welcome to the ageing future]</ref><ref>[http://www.stat.go.jp/english/data/handbook/c02cont.htm Statistical Handbook of Japan: Chapter 2 Population]]</ref> Humans make the best carers, but where they are unavailable, robots are gradually being introduced.<ref> [http://www.e-health-insider.com/comment_and_analysis/index.cfm?ID=123 E-Health Insider: Robot revolution]</ref>
+<br style="clear:both;"/>
+
+==Current Developments==
+After five decades of development, robotics technology is approaching its infancy. Many of the promises of science fiction have yet to be realised, and our imagination still far exceeds our ability to manufacture and program. However, the technology is developing quite rapidly on all fronts, including intelligence, sensing, manipulation and actuation, walking gait and navigation.
+
+===Components of Robots===
+====Actuation====
+[[Image:2005-11-14 ShadowLeg Finished medium.jpg|thumb|120px|A robot leg, powered by Air Muscles. Built by [http://www.shadowrobot.com The Shadow Robot Company Ltd.] ]]
+The actuators are the '[[muscles]]' of a robot; the parts which convert [[stored energy]] into movement. By far the most popular actuators are [[electric motor]]s, but there are many others, some of which are powered by electricity, while others use chemicals, or compressed air.
+* '''[[DC motor|Motors]]:''' By far the vast majority of robots use electric motors, of which there are several kinds. [[DC motor]]s, which are familiar to many people, spin rapidly when an electric current is passed through them. They will spin backwards if the current is made to flow in the other direction.
+* '''[[Stepper motor|Stepper Motors]]:''' As the name suggests, stepper motors don't spin freely like DC motors, they rotate in steps of a few degrees at a time, under the command of a controller. This makes them easier to control, as the controller knows exactly how far they have rotated, without having to use a sensor. Therefore they are used on many robots and CNC machining centres.
+* '''[[Piezo motor|Piezo Motors]]:''' An recent alternative to DC motors are piezo motors, also known as [[ultrasonic motor]]s. These work on a fundamentally different principle, whereby tiny [[Piezoelectricity|piezoceramic]] legs, vibrating many thousands of times per second, walk the motor round in a circle or a straight line.<ref>[http://www.piezomotor.se/pages/PLtechnology.html Piezo Motor: Piezo LEGS® – Technology]</ref> The advantages of these motors are incredible [[nanometre]] resolution, speed and available force for their size.<ref>[http://www.newscaletech.com/squiggle_overview.html Squiggle Motors: Overview]</ref> These motors are already available commercially, and being used on some robots.<ref>[http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=ROBOT001500060002.xml (Nishibori et al. 2003) Robot Hand with Fingers Using Vibration-Type Ultrasonic Motors (Driving Characteristics)]</ref><ref>[http://www.maeno.mech.keio.ac.jp/English/ICRA2005_yamano.pdf (Yamano and Maeno 2005) Five-fingered Robot Hand using Ultrasonic Motors and Elastic Elements - Proceedings of the 2005 IEEE International Conference on Robotics and Automation]</ref>
+* '''[[McKibben artificial muscle|Air Muscles]]:''' The air muscle is a simple yet powerful device for providing a pulling force. When inflated with compressed air, it contracts by up to 40% of its original length. The key to its behaviour is the braiding visible around the outside, which forces the muscle to be either long and thin, or short and fat. Since it behaves in a very similar way to a biological muscle, it can be used to construct robots with a similar muscle/skeleton system to an animal.<ref>[http://www.shadowrobot.com/airmuscles/overview.shtml Shadow Robot Company: Air Muscles]</ref> For example, the Shadow robot hand uses 40 air muscles to power its 24 joints.
+* '''[[Electroactive polymers|Electroactive Polymers]]:''' These are a class of [[plastic]]s which change shape in response to electrical stimulation.<ref>[http://www.azom.com/details.asp?ArticleID=885 Azom.com: ElectroActive Polymers - EAPs]</ref> They can be designed so that they bend, stretch or contract, but so far there are no EAPs suitable for commercial robots, as they tend to have low efficiency or are not robust.<ref>[http://ndeaa.jpl.nasa.gov/ndeaa-pub/SPIE-2002/SPIE-02-EAP-4695-02-challenges.pdf Electro-active polymers: current capabilities and challenges]</ref> Indeed, all of the entrants in a recent competition to build EAP powered arm wrestling robots, were beaten by a 17 year old girl.<ref>[http://www.newscientisttech.com/article/dn7113 New Scientist: Arm wrestling robots beaten by a teenaged girl (08 March 2002)]</ref> However, they are expected to improve in the future, where they may be useful for microrobotic applications.<ref>[http://www.neuroscint.org/otake/uploads/papers/Otake_smems2001ems.pdf (OTAKE et al. 2001) Shape Design of Gel Robots made of Electroactive Polymer Gel]</ref>
+
+===Locomotion===
+====Rolling Robots====
+[[Image:Segway_01.JPG|thumb|right|Segway in the Robot museum in [[Nagoya]].]]
+For simplicity, most mobile robots have [[wheel]]s. However, some researchers have tried to create more complex wheeled robots, with only one or two wheels.
+* '''Two-wheeled balancing:''' While the [[Segway]] is not commonly thought of as a robot, it can be thought of as a component of a robot. Several real robots do use a similar dynamic balancing algorithm, and [[NASA]]'s [[Robonaut]] has been mounted on a Segway.<ref>[http://robonaut.jsc.nasa.gov/status/Feb_Robonaut_Status_04.htm ROBONAUT Activity Report                      February 2004]</ref>
+* '''[[Ballbot]]:''' Carnegie Mellon University researchers have developed a new type of mobile robot that balances on a ball instead of legs or wheels. "Ballbot" is a self-contained, battery-operated, omnidirectional robot that balances dynamically on a single urethane-coated metal sphere. It weighs 95 pounds and is the approximate height and width of a person. Because of its long, thin shape and ability to maneuver in tight spaces, it has the potential to function better than current robots can in environments with people. <ref>[http://www.cmu.edu/PR/releases06/060809_ballbot.html Carnegie Mellon Researchers Develop New Type of Mobile Robot That Balances and Moves on a Ball Instead of Legs or Wheels]</ref>
+<br style="clear:both;"/>
+
+====Walking Robots====
+[[Image:Icub.jpg|thumb|left|iCub robot, designed by the [[RobotCub Consortium]] ]]
+:Walking is a difficult and dynamic problem to solve. Several robots have been made which can walk reliably on two legs, however none have yet been made which are as robust as a human. Typically, these robots can walk well on flat floors, can occasionally walk up [[stairs]]. None can walk over rocky, uneven terrain. Some of the methods which have been tried are:
+:* '''[[Zero Moment Point]] Technique:''' is the algorithm used by robots such as [[Honda]]'s [[ASIMO]]. The robot's onboard computer tries to the keep the total [[inertia|inertial forces]] (the combination of earth's [[gravity]] and the [[acceleration]] and [[deceleration]] of walking), exactly opposed by the floor [[reaction force]] (the force of the floor pushing back on the robot's foot). In this way, the two forces cancel out, leaving no [[moment (physics)|moment]] (force causing the robot to rotate and fall over).<ref>[http://world.honda.com/ASIMO/history/technology2.html Honda Worldwide: Achieving Stable Walking]</ref> However, this is not exactly how a human walks, and the difference is quite apparent to human observers, some of whom have pointed out that ASIMO walks as if it needs the [[lavatory]].<ref>[http://www.pootergeek.com/?p=608 Pooter Geek: Funny Walk]</ref><ref>[http://popsci.typepad.com/ces2007/2007/01/asimos_pimp_shu.html Popular Science: ASIMO's Pimp Shuffle]</ref><ref>[http://motegi.vtec.net/forums/one-message?message_id=131434&news_item_id=129834 Vtec Forum: A drunk robot? thread]</ref> ASIMO's walking algorithm is not static, and some dynamic balancing is used (See below). However, it still requires a smooth surface to walk on.
+:* '''Hopping:''' Several robots, built in the [[1980s]] by [[Marc Raibert]] at the [[MIT]] Leg Laboratory, successfully demonstrated very dynamic walking. Initially, a robot with only one leg, and a very small foot, could stay upright simply by [[hopping]]. The movement is the same as that of a person on a [[pogo stick]]. As the robot falls to one side, it would jump slightly in that direction, in order to catch itself.<ref>[http://www.ai.mit.edu/projects/leglab/robots/3D_hopper/3D_hopper.html MIT Leg Laboratory: 3D One-Leg Hopper (1983-1984)]</ref> Soon, the algorithm was generalised to two and four legs. A bipedal robot was demonstrated running and even performing [[somersault]]s.<ref>[http://www.ai.mit.edu/projects/leglab/robots/3D_biped/3D_biped.html MIT Leg Laboratory: 3D Biped (1989-1995)]</ref> A [[quadruped]] was also demonstrated which could [[trot]], run, [[Horse gait#Pace|pace]] and bound.<ref>[http://www.ai.mit.edu/projects/leglab/robots/quadruped/quadruped.html MIT Leg Laboratory: Quadruped (1984-1987)]</ref> For a full list of these robots, see the [http://www.ai.mit.edu/projects/leglab/robots/robots-main-bottom.html MIT Leg Lab Robots] page.
+:* '''[[Dynamic Balancing]]:''' A more advanced way for a robot to walk is by using a dynamic balancing algorithm, which is potentially more robust than the Zero Moment Point technique, as it constantly monitors the robot's motion, and places the feet in order to main stability.<ref>[http://www.anybots.com/abouttherobots.html Anybots: About the robots</ref> This technique was recently demonstrated by [[Trevor Blackwell|Anybots']] Dexter Robot,<ref>[http://anybots.com/ Anybots Homepageg]</ref> which is so stable, it can even jump.<ref>[http://www.youtube.com/watch?v=ZnTy_smY3sw YouTube: Dexter Jumps video]</ref>
+:* '''[[Passive Dynamics]]:''' Perhaps the most promising approach being taken is to use the [[momentum]] of swinging limbs for greater [[efficiency]]. It has been shown that totally unpowered humanoid [[mechanism]]s can walk down a gentle slope, using only [[gravity]] to [[propel]] themselves. Using this technique, a robot need only supply a small amount of motor power to walk along a flat surface or a little more to walk up a [[hill]]. This technique promises to make walking robots at least ten times more efficient than ZMP walkers, like ASIMO.<ref>Steve H Collins; Martijn Wisse; Andy Ruina; Russ Tedrake (2005). "Efficient bipedal robots based on passive-dynamic Walkers". Science 307: 1082-1085.  and Steve H Collins; Andy Ruina (2005). "A bipedal walking robot with efficient and human-like gait". Proc. IEEE International Conference on Robotics and Automation.</ref>
+<br style="clear:both;"/>
+
+====Other methods of locomotion====
+[[Image:globalhawk.750pix.jpg|right|thumb|[[RQ-4 Global Hawk]] [[Unmanned Aerial Vehicle]]. No pilot means no windows.]]
+* '''[[flight|Flying]]:''' A modern [[Jet airliner|passenger airliner]] is essentially a flying robot, with two humans to attend it. The [[autopilot]] can control the plane for each stage of the journey, including takeoff, normal flight and even landing.{{Fact|date=June 2007}} Other flying robots are completely automated, and are known as [[Unmanned Aerial Vehicle]]s (UAVs). They can be smaller and lighter without a human pilot, and fly into dangerous territory for military surveillance missions. Some can even fire on targets under command. UAVs are also being developed which can fire on targets automatically, without the need for a command from a human. Other flying robots include [[cruise missile]]s, the [http://www-robotics.usc.edu/~avatar/ Entomopter] and the [http://www.epson.co.jp/e/newsroom/news_2004_08_18.htm Epson micro helicopter robot].
+[[Image:Robosnakes.jpg|left|thumb|Two robot snakes. Left one has 32 motors, the right one 10.]]
+* '''[[Snake]]:''' Several snake robots have been successfully developed. Mimicking the way real snakes move, these robots can navigate very confined spaces, meaning they may one day be used to search for people trapped in collapsed buildings.<ref>[http://www.snakerobots.com/ snakerobots.com: Introduction]</ref> The Japanese [http://www-robot.mes.titech.ac.jp/robot/snake/acm-r5/acm-r5_e.html ACM-R5] snake robot can even navigate both on land and in water.<ref>[http://video.google.com/videoplay?docid=139523333240485714 Swimming snake robot (commentary in Japanese)]</ref>
+* '''[[Roller skating|Skating]]:''' A small number of skating robots have been developed, one of which is a multi-mode walking and skating device, [http://www.youtube.com/watch?v=NxdtkopQOlM Titan VIII]. It has four legs, with unpowered wheels, which can either step or roll<ref>[http://www-robot.mes.titech.ac.jp/robot/walking/titan8/titan8_e.html Hirose Fukushima Robotics Lab: Commercialized Quadruped Walking Vehicle "TITAN VII"]</ref>. Another robot, Plen, can use a miniature skateboard or rollerskates, and skate across a desktop.<ref>[http://blog.scifi.com/tech/archives/2007/01/23/plen_the_robot.html SCI FI Tech: Plen, the robot that skates across your desk]</ref>
+* '''[[Swimming]]:''' It is calculated that some fish can achieve a [[propulsion|propulsive]] efficiency greater than 90%. <ref>[http://www.ece.eps.hw.ac.uk/Research/oceans/people/Michael_Sfakiotakis/IEEEJOE_99.pdf (1999 Sfakiotakis, et al.) Review of Fish Swimming Modes for Aquatic Locomotion]</ref> Furthermore, they can accelerate and manoeuver far better than any man-made [[boat]] or [[submarine]], and produce less noise and water disturbance. Therefore, many researchers studying underwater robots would like to copy this type of locomotion.<ref>[http://robotics.caltech.edu/~mason/ramblings/robotFishMarket.html Richard Mason: What is the market for robot fish?]</ref> Notable examples are the [http://cswww.essex.ac.uk/ Essex University Computer Science] Robotic Fish<ref>[http://cswww.essex.ac.uk/staff/hhu/HCR-Group.html#Entertainment Essex University Robotic Fish]</ref>, and the Robot Tuna built by the [http://fibo.kmutt.ac.th/ Institute of Field Robotics], to analyse and mathematically model [[Fish locomotion|thunniform motion]].<ref>[http://fibo.kmutt.ac.th/project/eng/current_research/fish.html Institute of Field Robotics: Fish Robot]</ref>
+<br style="clear:both;"/>
+
+===Human Interaction===
+[[Image:Kismet robot 20051016.jpg|thumb|140px|right|[[Kismet]] can produce a range of facial expressions]]
+If robots are to work effectively in homes and other non-industrial environments, the way they are instructed to perform their jobs, and especially how they will be told to stop will be of critical importance. The people who interact with them may have little or no training in robotics, and so any interface will need to be extremely intuitive. Science fiction authors also typically assume that robots will eventually communicate with humans by [[talking]], [[gesture]]s and [[facial expressions]], rather than a [[Command line interface|command-line interface]]. Although speech would be the most natural way for the human to communicate, it is quite unnatural for the robot. It will be quite a while before robots interact as naturally as the fictional [[C3P0]].
+* '''[[Speech Recognition]]:''' Interpreting the continuous flow of [[sound]]s coming from a human, in [[real time]], is a difficult task for a computer, mostly because of the great variability of [[speech]]. The same [[word]], spoken by the same person may sound different depending on local [[acoustics]], [[volume]], the previous word, whether or not the speaker has a [[Common cold|cold]], etc.. It becomes even harder when the speaker has a different [[accent]].<ref>[http://cslu.cse.ogi.edu/HLTsurvey/ch1node4.html  Survey of the State of the Art in Human Language Technology:  1.2: Speech Recognition]</ref> Nevertheless, great strides have been made in the field since Davis, Biddulph, and Balashek designed the first "voice input system" which recognized "ten digits spoken by a single user with 100% accuracy" in 1952.<ref>Fournier, Randolph Scott., and B. June. Schmidt. "Voice Input Technology: Learning Style and Attitude Toward Its Use." Delta Pi Epsilon Journal 37 (1995): 1_12.</ref> Currently, the best systems can recognise continuous, natural speech, up to 160 words per minute, with an accuracy of 95%.<ref>[http://www.dragon-medical-transcription.com/history_speech_recognition.html Dragon Naturally Speaking: History of Speech & Voice Recognition and Transcription Software]</ref>
+* '''[[Gestures]]:''' One can imagine, in the future, explaining to a robot chef how to make a pastry, or asking directions from a robot police officer. On both of these occasions, making hand gestures would aid the verbal descriptions. In the first case, the robot would be recognising gestures made by the human, and perhaps repeating them for confirmation. In the second case, the robot police officer would gesture to indicate "down the road, then turn right". It is quite likely that gestures will make up a part of the interaction between humans and robots.<ref>(Waldherr, Romero & Thrun 2000) [http://robots.stanford.edu/papers/waldherr.gestures-journal.pdf A Gesture Based Interface for Human-Robot Interaction]: Kluwer Academic Publishers</ref> A great many systems have been developed to recognise human hand gestures.<ref>[http://ls7-www.cs.uni-dortmund.de/research/gesture/vbgr-table.html Vision Based Hand Gesture Recognition Systems
+by Markus Kohler]</ref>
+* '''[[Facial expression]]:''' Facial expressions can provide rapid feedback on the progress of a dialog between two humans, and soon it may be able to do the same for humans and robots. A robot should know how to approach a human, judging by their facial expression and body language. Whether the person is happy, frightened or crazy-looking affects the type of interaction expected of the robot. Likewise, a robot like [[Kismet]] can produce a range of facial expressions, allowing it to have meaningful social exchanges with humans.<ref>[http://www.samogden.com/Kismet.html www.samogden.com: Kismet: Robot at MIT's AI Lab Interacts With Humans]</ref>
+* '''[[Personality]]:''' Many of the robots of science fiction have personality, and that is something which may or may not be desirable in the commercial robots of the future.<ref>[http://www.cs.ubc.ca/~van/GI2005/Posters/GI_abstract.pdf (Park et al. 2005) Synthetic Personality in Robots and its Effect on Human-Robot Relationship]</ref> Nevertheless, researchers are trying to create robots which appear to have a personality<ref>[http://www.npr.org/templates/story/story.php?storyId=5067678 National Public Radio: Robot Receptionist Dishes Directions and Attitude]</ref><ref>[http://viterbi.usc.edu/tools/download/?asset=/assets/023/49186.pdf&name=nsmaja.pdf New Scientist: A good robot has personality but not looks]</ref>: i.e. they use sounds, facial expressions and body language to try to convey an internal state, which may be joy, sadness or fear. One commercial example is [[Pleo]], a toy robot dinosaur, which can exhibit several apparent emotions.<ref>[http://www.ugobe.com/pleo/index.html Ugobe: Introducing Pleo]</ref>
+
+===Unusual Robots===
+Much of the research in robotics focuses not on specific industrial tasks, but on investigations into new types of robot, alternative ways to think about or design robots, and new ways to manufacture them. It is expected that these new types of robot will be able to solve real world problems when they are finally realised.
+[[Image:NanoCartriangle.jpg|thumb|160px|left|A [[nanocar]] made from a single molecule<ref>[http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&ID=7850&SnID=971109686 Rice University: Rice scientists build world's first single-molecule car]</ref>]]
+* '''[[Nanorobotics|Nanorobots]]:''' Nanorobotics is the still largely hypothetical technology of creating machines or robots at or close to the scale of a [[nanometre]] (10<sup>-9</sup> [[metre]]s). Also known as '''nanobots''' or '''nanites''', they would be constructed from nanoscale or [[molecule|molecular]] components. So far, researchers have only been able to produce some parts of such a machine, such as bearings, sensors, and [[Synthetic molecular motors]], but they hope to be able to create entire robots as small as [[virus]]es or [[bacteria]], which could perform tasks on a tiny scale. Possible applications include micro surgery (on the level of individual [[cell (biology)|cells]]), [[utility fog]]<ref>[http://www.kurzweilai.net/meme/frame.html?main=/articles/art0220.html? KurzweilAI.net: Utility Fog: The Stuff that Dreams Are Made Of]</ref>, manufacturing, weaponry and cleaning.<ref>[http://www.e-drexler.com/d/06/00/EOC/EOC_Chapter_11.html (Eric Drexler 1986) Engines of Creation, The Coming Era of Nanotechnology]</ref>  Some prople have suggested that if nanobots were made which could reproduce, they could have serious negative concequences, turning the earth into [[grey goo]], while others argue<ref>[http://www.crnano.org/Debate.htm Center for Responsible Nanotechnology: Of Chemistry, Nanobots, and Policy]</ref> that this is nonsense.<ref>[http://www.iop.org/EJ/news/-topic=763/journal/0957-4484 IOP electronics journals: Nanotechnology pioneer slays “grey goo” myths]</ref>
+* '''Soft Robots:''' Most robots, indeed most man made machines of any kind, are made from hard, stiff materials; especially [[metal]] and [[plastic]]. This is in contrast to most [[organism|natural organisms]], which are mostly [[Tissue (biology)|soft tissues]]. This difference has not been lost on robotic engineers, and some are trying to create robots from soft materials ([[rubber]], [[foam]], [[gel]]), soft actuators ([[Pneumatic artificial muscles|air muscles]], [[electroactive polymers]], [[ferrofluid]]s), and exhibiting [[Soft computing|soft behaviours]] ([[fuzzy logic]], [[neural networks]]).<ref>[http://ase.tufts.edu/bdl/news.asp Tufts Biomemetic Devices Laboratory: Robots That Slink and Squirm]</ref> Such robots are expected to look, feel, and behave differently from traditional hard robots.
+[[Image:MolecubesInMotion.jpg|thumb|240px|right|Molecubes in motion]]
+* '''[[Self-Reconfiguring Modular Robotics|Reconfigurable Robots]]:''' A few researchers have investigated the possibility of creating robots which can alter their physical form to suit a particular task,<ref>(1996) [http://www.islandone.org/MMSG/9609lego.htm  LEGO(TM)s to the Stars: Active MesoStructures, Kinetic Cellular Automata, and Parallel Nanomachines for Space Applications]</ref> like the fictional [[T-1000]]. Real robots are nowhere near that sophisticated however, and mostly consist of a small number of cube shaped units, which can move relative to their neighbours, for example [http://www.isi.edu/robots/superbot.htm Superbot]. Algorithms have been designed in case any such robots become a reality.<ref>(Robert Fitch, Zack Butler and Daniela Rus) [http://groups.csail.mit.edu/drl/publications/papers/MeltSortGrow.pdf Reconfiguration Planning for Heterogeneous Self-Reconfiguring Robots]</ref>
+[[Image:SwarmRobot org.jpg|thumb|160px|left|A swarm of robots from the [http://www.swarmrobot.org Open-source micro-robotic project] ]]
+* '''[[Swarm robotics|Swarm robots]]:''' Inspired by [[Colony (biology)|colonies of insects]] such as [[ants]] and [[bees]], researchers hope to create very large swarms (thousands) of tiny robots which together perform a useful task, such as finding something hidden, cleaning, or spying. Each robot would be quite simple, but the [[emergent behaviour]] of the swarm would be more complex.<ref>[http://i60p4.ira.uka.de/tiki/tiki-index.php?page=I-Swarm+overview I-Swarm Micromechatronics and Microrobotics Group]</ref> The whole set of robots can be considered as one single distributed system, in the same way an [[ant colony]] can be considered a [[superorganism]]. They would exhibit [[swarm intelligence]]. The largest swarms so far created include the iRobot swarm, and the [http://www.swarmrobot.org Open-source micro-robotic project] swarm, which are being used to research collective behaviours.<ref>[http://www.irobot.com/sp.cfm?pageid=149 iRobot Corporation: Swarm]</ref> Swarms are also more resistant to failure. Whereas one large robot may fail and ruin the whole mission, the swarm can continue even if several robots fail. This makes them attractive for space exploration missions, where failure can be extremely costly.<ref>[http://www.wired.com/science/discoveries/news/2000/12/40750 Wired Magazine: Look, Up in the Sky: Robofly]</ref>
+* '''[[Evolutionary robotics|Evolutionary Robots]]:''' is a [[methodology]] that uses [[evolutionary computation]] to help design robots, especially the body form, or motion and behaviour [[controller (control theory)|controllers]]. In a similar way to [[evolution|natural evolution]], a large population of robots is allowed to compete in some way, or their ability to perform a task is measured using a [[fitness function]]. Those that perform worst are removed from the population, and replaced by a new set, which have new behaviours based on those of the winners. Over time the population improves, and eventually a satisfactory robot may appear. This happens without any direct programming of the robots by the researchers. Researchers use this method both to create better robots,<ref>[http://www.wired.com/science/discoveries/news/2002/09/54900 Wired: A Theory of Evolution, for Robots]</ref> and to explore the nature of evolution.<ref>[http://www.sciencedaily.com/releases/2007/02/070222155713.htm Science Daily: Experimental Evolution In Robots Probes The Emergence Of Biological Communication]</ref>
+<br style="clear:both;"/>
+
+==Dangers and fears==
+Although current robots are not believed to have developed to the stage where they pose any threat or danger to [[society]] [http://www.mobilerobots.com/ethicalRobotics.html],  fears and concerns about robots have been repeatedly expressed in a wide range of books and films.  The principal theme is the robots' intelligence and ability to act could exceed that of humans, that they could develop a conscience and a motivation to take over or destroy the human race.  (See ''[[The Terminator]], [[The Matrix]], [[I, Robot (film)|I, Robot]]'')
+
+''[[Frankenstein]]'' (1818), sometimes called the first science fiction novel, has become synonymous with the theme of a robot or monster advancing beyond its creator.  Probably the best known author to have worked in this area is [[Isaac Asimov]] who placed robots and their interaction with society at the center of many of his works.  Of particular interest are Asimov's [[Three Laws of Robotics]]. 
+Currently, malicious programming or unsafe use of robots may be the biggest danger.  Although industrial robots may be smaller and less powerful than other industrial machines, they are just as capable of inflicting severe injury on humans. However, since a robot can be programmed to move in different trajectories depending on its task, its movement can be unpredictable for a person standing in its reach. Therefore, most industrial robots operate inside a security fence which separates them from human workers. [[Manuel De Landa]] has theorized that humans are at a critical and significant juncture where humans have allowed robots, "smart missiles," and autonomous bombs equipped with artificial perception to make decisions about killing us. He believes this represents an important and dangerous trend where humans are transferring more of our cognitive structures into our machines.<ref>Manuel De Landa, ''War in the Age of Intelligent Machines'' (New York: Zone Books, 1991</ref> Even without malicious programming, a robot, especially a future model moving freely in a human environment, is potentially dangerous because of its large moving masses, powerful actuators and unpredictably complex behavior. A robot falling on someone or just stepping on his foot by mistake could cause much more damage to the victim than a human being of the same size. Designing and programming robots to be [[intrinsically safe]] and to exhibit safe behavior in a human environment is one of the great challenges in robotics. Some people suggest that developing a robot with a conscience may be helpful in this regard.
+
+==Literature==
+{{main|Robots in literature}}
+{{see also|List of fictional robots and androids}}
+
+Robots have frequently appeared as characters in works of literature; the word ''robot'' comes from [[Karel Čapek]]'s play ''[[R.U.R. (Rossum's Universal Robots)]]'', premiered in 1920. [[Isaac Asimov]] wrote many volumes of [[science fiction]] focusing on robots in numerous forms and guises, contributing greatly to reducing the [[Frankenstein complex]], which dominated early works of fiction involving robots.  His [[three laws of robotics]] have become particularly well known for codifying a simple set of behaviors for robots to remain at the service of their human creators.
+
+Numerous words for different types of robots are now used in literature.  Robot has come to mean mechanical humans, while [[android]] is a generic term for artificial humans. [[Cyborg]] or "[[bionic]] man" is used for a human form that is a mixture of organic and mechanical parts. Organic artificial humans have also been referred to as "constructs" (or "biological constructs").
+
+==Robotics==
+
+[[wikt:robotics|Robotics]] is the science and technology of robots, their design, manufacture, and application.<ref>[http://www.m-w.com/dictionary/robotics Definition of robotics] - [[Merriam-Webster]] Online Dictionary</ref> Robotics requires a working knowledge of [[electronics]], [[mechanics]], and [[software]]. A person working in the field is a [[roboticist]].  The word ''robotics'' was first used in print by Isaac Asimov, in his [[science fiction]] short story "[[Runaround]]". <ref>March 1942 issue of 'Astounding Science Fiction', Page 100</ref> 
+
+Although the appearance and capabilities of robots vary vastly, all robots share the features of a mechanical, movable structure under some form of control.  The [[structure]] of a robot is usually mostly [[machine|mechanical]] and can be called a [[Kinematics|kinematic chain]] (its functionality being akin to the skeleton of a body).  The chain is formed of links (its bones), [[actuator]]s (its muscles) and joints which can allow one or more degrees of freedom. Most contemporary robots use open serial chains in which each link connects the one before to the one after it. These robots are called  [http://www.roble.info/robotics/serial/html/SerialRobots-1se2.html serial robots] and often resemble the human arm. Some robots, such as the [[Stewart platform]], use closed parallel kinematic chains. Other structures, such as those that mimic the mechanical structure of humans, various animals and insects, are comparatively rare. However, the development and use of such structures in robots is an active area of research (e.g. [[biomechanics]]). Robots used as manipulators have an [[end effector]] mounted on the last link. This end effector can be anything from a welding device to a mechanical hand used to manipulate the environment.
+
+The mechanical structure of a robot must be controlled to perform tasks. The control of a robot involves three distinct phases - perception, processing and action ([[robotic paradigms]]). [[Sensor]]s give information about the environment or the robot itself (e.g. the position of its joints or its end effector). Using strategies from the field of [[control theory]], this information is processed to calculate the appropriate signals to the actuators ([[Electric motor|motor]]s) which move the mechanical structure. The control of a robot involves various aspects such as path planning, pattern recognition, obstacle avoidance, etc. More complex and adaptable control strategies can be referred to as [[artificial intelligence]].
+
+Any task involves the motion of the robot. The study of motion can be divided into [[kinematics]] and [[dynamics (mechanics)|dynamics]]. Direct kinematics refers to the calculation of end effector position, orientation, [[velocity]] and [[acceleration]] when the corresponding joint values are known. Inverse kinematics refers to the opposite case in which required joint values are calculated for given end effector values, as done in path planning. Some special aspects of kinematics include handling of redundancy (different possibilities of performing the same movement), [[collision]] avoidance and [[Mechanical singularity|singularity]] avoidance. Once all relevant positions, velocities and accelerations have been calculated using [[kinematics]], methods from the field of [[dynamics (mechanics)|dynamics]] are used to study the effect of [[forces]] upon these movements. Direct dynamics refers to the calculation of accelerations in the robot once the applied forces are known. Direct dynamics is used in [[computer simulations]] of the robot. Inverse dynamics refers to the calculation of the actuator forces necessary to create a prescribed end effector acceleration. This information can be used to improve the control algorithms of a robot.
+
+In each area mentioned above, researchers strive to develop new concepts and strategies, improve existing ones and improve the interaction between these areas. To do this, criteria for "optimal" performance and ways to optimize design, structure and control of robots must be developed and implemented.
+
+==Robots and human-machine interfaces==
+
+Robotics has also application in the design of [[virtual reality]] interfaces. Specialized robots are in widespread use in the [[haptic]] research community. These robots, called "haptic interfaces" allow touch-enabled user interaction with real and virtual environments. Robotic forces allow simulating the mechanical properties of "virtual" objects, which users can experience through their sense of [[somatosensory system|touch]] (see [http://www.technologyreview.com/read_article.aspx?id=17363&ch=biotech&sc=&pg=1 the MIT Technology review article "The Cutting Edge of Haptics"]).
+
+==Competitions==
+{{see also|Robot competition}}
+
+[[Image:Robocup Team Osaka's VisiON.jpg|thumb|right|Robot [[Plen]] practicing for [[Robocup]]]]
+
+[[Botball]] is a [[LEGO]]-based competition between fully [[autonomous]] robots. There are two divisions. The first is for high-school and middle-school students, and the second (called "Beyond Botball") is for anyone who chooses to compete at the national tournament. Teams build, program, and blog about a robot for five weeks before they compete at the [[regional]] level. Winners are awarded [[scholarships]] to register for and travel to the national tournament. Botball is a project of the KISS Institute for Practical Robotics, based in Norman, Oklahoma.
+
+The [[FIRST Robotics Competition]] is a multinational competition that teams professionals and young people to solve an engineering design problem. These teams of mentors (corporate, teachers, or college students) and high school students collaborate in order to design and build a robot in six weeks. This robot is designed to play a game that is developed by [[FIRST]] and changes from year to year. FIRST, or For Inspiration and Recognition of Science and Technology, is an organization founded by inventor [[Dean Kamen]] in 1992 as a way of getting high school students involved in and excited about engineering and technology.
+
+The [[FIRST Vex Challenge]] (FVC) is a mid-level [[robotics]] competition targeted toward high-school aged students. It offers the traditional challenge of a FIRST competition but with a more accessible and affordable robotics kit. The ultimate goal of FVC is to reach more young people with a lower-cost, more accessible opportunity to discover the excitement and rewards of science, technology, and engineering.
+
+[[FIRST LEGO League]] (also known by its acronym FLL) is a robotics competition for elementary and middle school students (ages 9-14, 9-16 in Europe), arranged by FIRST. Each year the contest focuses on a different topic related to the sciences. Each challenge within the competition then revolves around that theme. The students then work out solutions to the various problems that they're given and meet for regional tournaments to share their knowledge and show off their ideas.
+
+Competitions for Talha robots are gaining popularity and competitions now exist catering for a wide variety of robot builders ranging from schools to research institutions.  Robots compete at a wide range of tasks including [[Robot combat|combat]], fire-fighting <ref>[http://www.trincoll.edu/events/robot Trinity College: Fire fighting home robot contest]</ref>, playing games <ref>[http://www.cooper.edu/~mar/mobile_robots_fall2005.html ME412: AUTONOMOUS MOBILE ROBOTS]</ref>, maze solving, performing tasks <ref>[http://maslab.csail.mit.edu/ Maslab: An Advanced IAP Robotics Competition]</ref> and navigational exercises (eg. [[DARPA Grand Challenge]]).
+
+A contest for fire-fighting is the [http://www.trincoll.edu/events/robot Trinity College Fire-Fighting Robot Contest].  The competition in April 2007 was the 14th annual.  There are many different divisions for all skill levels.  Robots in the competition are encouraged to find new ways to navigate through the rooms, put out the candle and save the "child" from the building.  Robots can be composed of any materials, but must fit within certain size restrictions.
+
+Most recently, [[Duke University]] announced plans to host the [[Duke Annual Robo-Climb Competition]]  aimed to challenge students to create innovative wall-climbing robots that can autonomously ascend vertical surfaces.<ref>[http://robotics.pratt.duke.edu/roboclimb Duke Annual Robo-Climb]</ref>
+
+Since 2004, [[DARPA Grand Challenge]] tests [[driverless car]]s in an obstacle course across the desert.
+
+==See also==
+{{portal|Robotics|Animation2.gif}}
+: ''Main list: [[List of basic robotics topics]]''
+
+For classes and types of robots see [[:Category:Robots]].
+
+===Research areas===
+{|
+|valign="top"|
+* [[Artificial consciousness]]
+* [[Automated planning and scheduling]]
+* [[Behavior based robotics]] and [[Subsumption architecture]]
+* [[Cognitive robotics]]
+* [[Cybernetics]]
+* [[Navigation]]
+* [[Localization]]
+* [[Developmental robotics]]
+|valign="top"|
+* [[Epigenetic robotics]]
+* [[Evolutionary robotics]]
+* [[Future of robotics]]
+* [[Mechatronics]]
+* [[Nanotechnology]] and [[MEMS]]
+* [[NASA]] and robotics
+* [[Neural networks]]
+|valign="top"|
+* [[Robot control]]
+* [[Robot baseball]]
+* [[Robot soccer]]
+* [[Robot software]]
+* [[Social robots]]
+* [[Swarm robotics]]
+* [[Telerobotics]] / [[Telepresence]]
+|}
+
+===Additional topics===
+<!-- We need either some structure here or to incorporate the links into the text so that the reader is introduced to more specific concepts gradually, as he reads the article, not in such a dry way after finishing it. -->
+{|
+|valign="top"|
+* [[Android]]
+* [[Android science]]
+* [[Autonomous robots]], including autonomous foraging
+* [[Carbon chauvinism]] (see: [[Alternative biochemistry]])
+* [[Clanking replicator]]
+* [[Cyborg]]
+* [[Disabled robotics]]: [[Artificial powered exoskeleton]]
+* [[Domestic robot]]
+* [[Gynoid]]
+* [[Hybrot]]
+|valign="top"|
+* [[Japanese robotics]]
+* [[List of fictional robots and androids]]
+* [[Leonardo's robot]]
+* [[Mecha]]
+* [[Microbotics]]
+* [[Nanorobotics]]
+* [[Microsoft Robotics Studio]]
+* [[Mindstorms]]
+* [[Qfix robot kit]]
+* [[Open robot]]
+* [[Rapid prototyping]]
+|valign="top"|
+* [[Robot kits]]
+* [[Robot locomotion]]
+* [[Robotic mapping]]
+* [[Robotics suite]]
+* [[Roombatics]] (see:[[Roomba]])
+* [[RooTooth]]
+* [[Snake-arm robot]]
+* [[Technocracy movement]]
+* [[Uncanny Valley]]
+* [[Utility fog]]
+* [[Vex]]
+* [[Vocoder]]
+|}
+
+== References ==
+<div class="references-2column">
+<references/>
+</div>
+
+===General references===
+* Cheney, Margaret [1989:123] (1981). ''Tesla, Man Out of Time''. Dorset Press. New York. ISBN 0-88029-419-1
+* Craig, J.J. (2005). Introduction to Robotics. Pearson Prentice Hall. Upper Saddle River, NJ.
+* Flanagan, J.R., Lederman, S.J. [http://brain.phgy.queensu.ca/flanagan/papers/FlaLed_NAT_01.pdf Neurobiology: Feeling bumps and holes] ([[Portable Document Format]]), News and Views, ''[[Nature (magazine)|Nature]]'', 2001 Jul. 26;412(6845):389-91.
+* Hayward V, Astley OR, Cruz-Hernandez M, Grant D, Robles-De-La-Torre G. [http://www.roblesdelatorre.com/gabriel/VH-OA-MC-DG-GR-04.pdf Haptic interfaces and devices] ([[Portable Document Format]]). ''Sensor Review'' 24(1), pp. 16-29 (2004).
+*Needham, Joseph (1986). ''Science and Civilization in China: Volume 2''. Taipei: Caves Books Ltd.
+* Robles-De-La-Torre G. & Hayward V. [http://www.roblesdelatorre.com/gabriel/GR-VH-Nature2001.pdf Force Can Overcome Object Geometry In the perception of Shape Through Active Touch]. Nature 412 (6845):445-8 (2001).
+* Robles-De-La-Torre G. [http://www.roblesdelatorre.com/gabriel/GR-IEEE-MM-2006.pdf The Importance of the Sense of Touch in Virtual and Real Environments] ([[Portable Document Format]]). IEEE Multimedia 13(3), Special issue on Haptic User Interfaces for Multimedia Systems, pp. 24-30 (2006).
+* Sotheby's New York. The Tin Toy Robot Collection of Matt Wyse, (1996)
+* Tsai, L.-W. (1999). ''Robot Analysis''. Wiley. New York.
+* DeLanda, Manuel. ''War in the Age of Intelligent Machines''. 1991. Swerve. New York.
+* Bruyninckx, Herman, De Schutter, Joris. ''Introduction to Intelligent Robotics''
+
+==External links==
+<!-- ATTENTION! Please do not add links without discussion and consensus on the talk page. Undiscussed links will be removed. This holds especially for Tea Pouring Robot Link: It is too specific and was not discussed beforehand -->
+
+{{wikibookspar||Robotics}}
+{{wikiversity|Anthropomorphic Robotics}}
+{{commonscat|Robots}}
+{{wiktionarypar|robot}}
+
+;Research societies:
+* [http://www.ieee-ras.org IEEE Robotics and Automation Society (RAS)] and [http://wiki.ieee-ras.org its wiki].
+* [http://www.ifrr.org International Foundation of Robotics Research (IFRR)]
+<!-- not a society per se, but hosts conference [http://www.roboticsproceedings.org Robotics: Science and Systems (RSS)] -->
+* {{dmoz|Computers/Robotics/|Robotics}}
+* http://robots.net – Daily news about robots, robotics, and AI
+* [http://robotics.megagiant.com/history.html A brief history of robotics]
+* [http://www.communistrobot.com/robots.php A giant list of known robots]
+* [http://www.nasa.gov/worldbook/robot_worldbook.html NASA and robots]
+* [http://robotics.nasa.gov NASA Robotics Division]
+* [http://www.ifr.org International Federation of Robotics]
+* [http://www.yellowzeppelin.info/Robots/worried_9211.html Should we be worried by the rise of robots?]
+* [http://www.toptentubes.com/toptenrobots Ten Best Robots] Ten videos of robots.
+* [http://lis.epfl.ch/podcast Podcast 'Talking Robots' - interviews with high-profile professionals in Robotics and Artificial Intelligence]
+* [http://pozor.corps.free.fr/robots/index.html French collection of toy robot ]
+*[http://www.humansunitedagainstrobots.com HUAR]
+
+{{FA link|ar}}
+
+{{FA link|ar}}
+
+{{DEFAULTSORT:*Robot}}
+[[Category:Robotics]]
+[[Category:Robots]]
+[[Category:Applications of computer vision]]
+
+[[ar:روبوت]]
+[[bn:রোবট]]
+[[zh-min-nan:Robot]]
+[[bs:Robot]]
+[[bg:Робот]]
+[[ca:Robot]]
+[[cs:Robot]]
+[[da:Robot]]
+[[de:Roboter]]
+[[et:Robot]]
+[[el:Ρομπότ]]
+[[es:Robot]]
+[[eo:Roboto]]
+[[eu:Robot]]
+[[fa:ربات]]
+[[fr:Robot]]
+[[gl:Robot]]
+[[ko:로봇]]
+[[hr:Robot]]
+[[io:Roboto]]
+[[id:Robot]]
+[[it:Robot]]
+[[he:רובוט]]
+[[lt:Robotas]]
+[[hu:Robot]]
+[[nl:Robot]]
+[[ja:ロボット]]
+[[no:Robot]]
+[[nn:Robot]]
+[[pl:Robot]]
+[[pt:Robot]]
+[[ru:Робот]]
+[[sq:Roboti]]
+[[simple:Robot]]
+[[sk:Robot]]
+[[sr:Робот]]
+[[su:Robot]]
+[[fi:Robotti]]
+[[sv:Robot]]
+[[ta:இயந்திரவியல்]]
+[[th:หุ่นยนต์]]
+[[vi:Người máy]]
+[[tr:Robot]]
+[[uk:Робот]]
+[[ur:روبالہ]]
+[[zh:机器人]]

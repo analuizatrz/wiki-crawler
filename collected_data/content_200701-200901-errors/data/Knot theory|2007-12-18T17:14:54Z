@@ -1,0 +1,247 @@
+[[Image:TrefoilKnot 01.svg|right|thumb|150px|The [[trefoil knot]], the simplest non-trivial knot.]]
+[[Image:ThreeFoldKnot.jpg|right|thumb|The 3-D depiction of a [[trefoil knot]].]]
+'''Knot theory''' is the [[mathematics|mathematical]] branch of [[topology]] that studies [[knot (mathematics)|mathematical knot]]s, which are defined as [[embedding]]s of a [[circle]] in 3-dimensional [[Euclidean space]], '''R'''<sup>3</sup>. This is basically equivalent to a conventional [[knot]]ted string with the ends joined together to prevent it from becoming undone.   Two mathematical knots are equivalent if one can be transformed into the other via a deformation of '''R'''<sup>3</sup> upon itself (known as an [[ambient isotopy]]); these transformations correspond to manipulations of a knotted string that do not involve cutting the string or passing the string through itself. 
+
+Knots can be described in various ways.  Given a method of description, however, there may be more than one description that represents the same knot.  For example, a common method of describing a knot is a planar diagram.  But any given knot can be drawn in many different ways using a planar diagram.  Therefore, a fundamental problem in knot theory is determining when two descriptions represent the same knot.  One way of distinguishing knots is by using a ''[[knot invariant]]'', a "quantity" which remains the same even with different descriptions of a knot.
+
+The concept of a knot has been extended to higher dimensions by considering [[n-sphere|''n''-dimensional spheres]] in ''m''-dimensional Euclidean space.  This was investigated most actively in the period 1960-1980, when a number of breakthroughs were made.  In recent years, [[low-dimensional topology|low dimensional phenomena]] have garnered the most interest.
+
+Research in knot theory began with the creation of knot tables and the systematic tabulation of knots.  While tabulation remains an important task, today's researchers have a wide variety of backgrounds and goals.  Classical knot theory, as initiated by [[Max Dehn]], [[J. W. Alexander]], and others, is primarily concerned with the [[knot group]] and invariants from [[homology theory]] such as the [[Alexander polynomial]].     
+
+The discovery of the [[Jones polynomial]] by [[Vaughan Jones]] in 1984, and subsequent contributions from [[Edward Witten]], [[Maxim Kontsevich]], and others, revealed deep connections between knot theory and mathematical methods in [[statistical mechanics]] and [[quantum field theory]].  A plethora of [[knot invariant]]s have been invented since then, utilizing sophisticated tools such as [[quantum group]]s and [[Floer homology]].
+
+In the last 30 years, knot theory has also become a tool in applied mathematics.  Chemists and biologists use knot theory to understand, for example, [[chirality (chemistry)|chirality]] of [[molecule]]s and the actions of [[enzyme]]s on [[DNA]].  
+[[Image:Knot 8sb19.svg|thumb|250px|A more complicated knot]]
+
+==History==
+Knots were studied by [[Carl Friedrich Gauss]], who developed the [[Gauss linking integral]] for computing the [[linking number]] of two knots.  His student [[Johann Benedict Listing]], after whom [[figure-eight knot (mathematics)|Listing's knot]] is named, furthered their study.  The early, significant stimulus in knot theory would arrive later with [[Sir William Thomson]] (Lord Kelvin) and his theory of vortex atoms. {{Harv|Sossinsky|2002|p=1-3}}
+
+[[Image:Trivial_knots_3D.png|left|thumb|300px|Trivial Knots]]
+In 1867 after observing [[Scotland|Scottish]] [[physicist]] [[Peter Guthrie Tait|Peter Tait]]'s experiments involving smoke rings, Thomson came to the idea that atoms were knots of swirling vortices in the [[Luminiferous aether|æther]].  Chemical elements would thus correspond to knots and links.  Tait's experiments were inspired by a paper of Helmholtz's on vortex-rings in incompressible fluids.  Thomson and Tait believed that an understanding and classification of all possible knots would explain why atoms [[spectroscopy|absorb and emit]] light at only the discrete [[wavelength]]s that they do.  For example, Thomson thought that sodium could be the [[Hopf link]] due to its two lines of spectra.  {{Harv|Sossinsky|2002|p=3-10}}
+
+Tait subsequently began listing unique knots in the belief that he was creating a table of elements.  He formulated what are now known as the [[Tait conjectures]] on [[alternating knot]]s.  (The conjectures were finally resolved in the 1990s.)  Tait's knot tables were subsequently improved upon by C. N. Little and T. P. Kirkman. {{Harv|Sossinsky|2002|p=6}}
+
+[[James Clerk Maxwell]], a colleague and friend of Thomson's and Tait's, also developed a strong interest in knots.  Maxwell studied Listing's work on knots.  He re-interpreted Gauss' linking integral in terms of electromagnetic theory.  In his formulation, the integral represented the work done by a charged particle moving along one component of the link under the influence of the magnetic field generated by an electric current along the other component.  Maxwell also continued the study of smoke rings by considering three interacting rings.   
+
+When the ''luminiferous æther'' was not detected in the [[Michelson-Morley experiment]], [[vortex theory]] became completely obsolete, and knot theory ceased to be of great scientific interest.  Modern physics demonstrates that the discrete wavelengths depend on [[quantum energy level]]s.
+
+Following the development of [[topology]] in the early 20th century spearheaded by [[Henri Poincaré]], topologists such as [[Max Dehn]], [[J. W. Alexander]], and [[Kurt Reidemeister]], investigated knots.  Out of this sprang the [[Reidemeister move]]s and the [[Alexander polynomial]].{{Harv|Sossinsky|2002|p=15-45}}  Dehn also developed [[Dehn surgery]], which related knots to the general theory of 3-manifolds, and formulated the [[Dehn problems]] in [[group theory]], such as the [[word problem]].  Early pioneers in the first half of the 20th century include [[Ralph Fox]], who popularized the subject.  In this early period, knot theory primarily consisted of study into the [[knot group]] and [[homology theory|homological]] invariants of the [[knot complement]].    
+
+A few major discoveries in the late 20th century greatly revived knot theory.  The first was [[Geometrization conjecture|Thurston's hyperbolization theorem]] which introduced the theory of [[hyperbolic 3-manifold]]s into knot theory and made it of prime importance.  Thurston's work also led, after much expansion by others, to the effective use of tools from [[representation theory]] and [[algebraic geometry]].  Important results followed, including the [[Gordon-Luecke theorem]], which showed that knots were determined (up to mirror-reflection) by their complements, and the [[Smith conjecture]]. 
+
+Interest in knot theory from the general mathematical community grew significantly after [[Vaughan Jones]]' discovery of the [[Jones polynomial]].  This led to other knot polynomials such as the [[bracket polynomial]], [[HOMFLY polynomial]], and [[Kauffman polynomial]].  Jones was awarded the highest honor in mathematics, the [[Fields medal]], in 1990 for this work.{{Harv|Sossinsky|2002|p=71-89}}  In 1988 [[Edward Witten]] proposed a new framework for the Jones polynomial, utilizing existing ideas from [[mathematical physics]], such as [[Feynman path integral]]s, and introducing new notions such as [[topological quantum field theory]] {{Harv|Witten |1989}}.  Witten also received the Fields medal, in 1990, partly for this work.  Witten's description of the Jones polynomial implied related invariants for [[3-manifold]]s.  Simultaneous, but different, approaches by other mathematicians resulted in the [[Witten-Reshetikhin-Turaev invariant]]s and various so-called "[[quantum invariant]]s", which appear to be the mathematically rigorous version of Witten's invariants {{Harv|Turaev|1994}}.<!-- need to mention [[Vladimir Drinfel'd]] in some nice manner-->
+
+In the early 1990s, knot invariants which encompass the Jones polynomial and its generalizations, called the [[finite type invariant]]s, were discovered by [[Victor Vassiliev|Vassiliev]] and [[Mikhail Goussarov|Goussarov]].  These invariants, initially described using "classical" topological means, were shown by 1994 Fields Medalist [[Maxim Kontsevich]] to result from [[integral|integration]], using the [[Kontsevich integral]], of certain algebraic structures ({{Harvnb|Kontsevich|1993}}, {{Harvnb|Bar-Natan|1995}}).     
+
+These breakthroughs were followed by the discovery of [[Khovanov homology]] and [[Floer homology|knot Floer homology]], which greatly generalize the Jones and Alexander polynomials.  These homology theories have contributed to further mainstreaming of knot theory.  
+
+In the last several decades of the 20th century, scientists and mathematicians began finding applications of knot theory to problems in [[biology]] and [[chemistry]].  Knot theory can be used to determine if a molecule is [[chirality (chemistry)|chiral]] (has a "handedness") or not.  Chemical compounds of different handedness can have drastically differing properties, [[Thalidomide#Teratogenic mechanism|thalidomide]] being a notable example of this.  More generally, knot theoretic methods have been used in studying [[topoisomer]]s, topologically different arrangements of the same chemical formula.  The closely related theory of [[tangle (mathematics)|tangle]]s have been effectively used in studying the action of certain enzymes on DNA. {{Harv|Flapan|2000}}
+<!--
+should put some stuff about [[DNA topology]], [[stereochemistry]], from Flapan 2000; comment on Dewitt Sumners, Jonathon Simon's work on Möbius ladder
+-->
+
+== Knot equivalence ==
+[[Image:unknots.svg|thumb|200px|The unknot, and a knot equivalent to it.]]
+
+A knot is created by beginning with a one-[[dimension]]al line segment, wrapping it around itself arbitrarily, and then fusing its two free ends together to form a closed loop.  When mathematical topologists consider knots and other entanglements such as [[link (knot theory)|links]] and [[Braid theory|braid]]s, they describe how the knot is positioned in the space around it, called the [[ambient space]].  If the knot can be moved smoothly, without cutting or passing a segment through another, until it coincides with another knot, the two knots are considered equivalent.  The idea of '''knot equivalence''' is to give a precise definition of when two embeddings should be considered the same.
+
+[[Image:Ochiai unknot.png|thumb|200px|It is more difficult to determine whether complex knots such as this are equivalent to the unknot.]]
+
+The basic problem of knot theory, the '''recognition problem''', can thus be stated: given two knots, determine whether they are equivalent or not.  [[Algorithm]]s exist to solve this problem, with the first given by [[Wolfgang Haken]].  Nonetheless, these algorithms use very many steps, and a major issue in the theory is to understand how hard this problem really is (Hass 1997). The  special case of recognizing the [[unknot]], called the [[unknotting problem]], is of particular interest.
+
+== Knot diagrams ==
+A useful way to visualise and manipulate knots is to project the knot onto a plane&mdash;think of the knot casting a shadow on the wall.  A small perturbation in the choice of projection will ensure that it is [[Injective function|one-to-one]] except at the double points, called ''crossings'', where the "shadow" of the knot crosses itself once transversely (Rolfsen 1976).  At each crossing we must indicate which section is "over" and which is "under", so as to be able to recreate the original knot.  This is often done by creating a break in the strand going underneath.
+
+=== Reidemeister moves ===
+{{main article|Reidemeister move}}
+In 1927, working with this diagrammatic form of knots, [[J.W. Alexander]] and G. B. Briggs, and independently [[Kurt Reidemeister]], demonstrated that two knot diagrams belonging to the same knot can be related by a sequence of three kinds of moves on the diagram, shown below.  These operations, now called the '''Reidemeister moves''', are:
+
+<ol style="list-style-type:upper-Roman">
+<li> Twist and untwist in either direction.</li>
+<li> Move one strand completely over another.</li>
+<li> Move a strand completely over or under a crossing.</li>
+</ol>
+
+{| align="center" style="text-align:center"
+|+ '''Reidemeister moves'''
+|- style="padding:1em"
+| [[Image:Reidemeister move 1.png|130px|]] || [[Image:Reidemeister move 2.png|210px]]
+|-
+| Type I || Type II
+|- style="padding:1em"
+| colspan="2" | [[Image:Reidemeister move 3.png|360px]]
+|- 
+| colspan="2" | Type III
+|}
+
+==Knot invariants==
+{{main article|knot invariant}}
+A knot invariant is a "quantity" that is the same for equivalent knots (Adams 2001, Lickorish 1997,  Rolfsen 1976).  An invariant may take the same value on two different knots, so by itself may be incapable of distinguishing all knots.  An elementary invariant is [[tricolorability]].
+
+"Classical" knot invariants include the [[knot group]], which is the [[fundamental group]] of the [[knot complement]], and the [[Alexander polynomial]], which can be computed from the Alexander invariant, a module constructed from the infinite cyclic cover of the knot complement (Lickorish 1997, Rolfsen 1976).  In the late 20th century, invariants such as "quantum" knot polynomials and hyperbolic invariants were discovered.  These aforementioned invariants are only the tip of the iceberg of modern knot theory.  
+
+=== Knot polynomials ===
+{{main article|knot polynomial}}
+A knot polynomial is a knot invariant that is a [[polynomial]].  Well-known examples include the [[Jones polynomial|Jones]] and [[Alexander polynomial]]s.  A variant of the Alexander polynomial, the [[Alexander-Conway polynomial]], is a polynomial in the variable ''z'' with [[integer]] coefficients (Lickorish 1997). 
+
+Suppose we are given a link diagram which is oriented, i.e. every component of the link has a preferred direction indicated by an arrow.  Also suppose <math>L_+, L_-, L_0</math> are oriented link diagrams resulting from changing the diagram at a specified crossing of the diagram, as indicated in the figure:  [[Image:Skein (HOMFLY).png|200px|center]]
+
+Then the Alexander-Conway polynomial, ''C(z)'', is recursively defined according to the rules:
+
+* ''C(O) = 1'' (where O is any diagram of the [[unknot]])
+* <math>C(L_+) = C(L_-) + z C(L_0)</math>
+
+The second rule is what is often referred to as a [[skein relation]].  To check that these rules give an invariant, one should determine that the polynomial does not change under the three Reidemeister moves.  Many important knot polynomials can be defined in this way. 
+  
+The following is an example of a typical computation using a skein relation.  It computes the Alexander-Conway polynomial of the [[trefoil knot]].   The yellow patches indicate where we applied the relation.
+
+:''C''([[Image:skein-relation-trefoil-plus-sm.png]])=''C''([[Image:skein-relation-trefoil-minus-sm.png]])  + ''z'' ''C''([[Image:skein-relation-trefoil-zero-sm.png]])
+
+gives the unknot and the [[Hopf link]]. Applying the relation to the Hopf link where indicated,
+
+:''C''([[Image:skein-relation-link22-plus-sm.png]]) = ''C''([[Image:skein-relation-link22-minus-sm.png]]) + ''z'' ''C''([[Image:skein-relation-link22-zero-sm.png]])
+
+gives a link deformable to one with 0 crossings (it is actually the [[unlink]] of two components) and an unknot. The unlink takes a bit of sneakiness:
+
+:''C''([[Image:skein-relation-link20-plus-sm.png]]) = ''C''([[Image:skein-relation-link20-minus-sm.png]])+ ''z''  ''C''([[Image:skein-relation-link20-zero-sm.png]])
+
+which implies that ''C''(unlink of two components) = 0, since the first two polynomials are of the unknot and thus equal.  
+
+Putting all this together will show:
+
+:''C''(trefoil) = 1 + z (0 + z) = 1 + z<sup>2</sup>
+
+Since the Alexander-Conway polynomial is a knot invariant, this shows that the trefoil is not equivalent to the unknot.  So there ''is'' really a knot that is "knotted".
+
+Actually, there are two trefoil knots, called the right and left-handed trefoils, which are mirror images of each other (take a diagram of the trefoil given above and change each crossing to the other way to get the mirror image).  These are not equivalent to each other!  This was shown by [[Max Dehn]], before the invention of knot polynomials, using group theoretical methods (Dehn 1914).  But the Alexander-Conway polynomial of each kind of trefoil will be the same, as can be seen by going through the computation above with the mirror image.  The ''Jones'' polynomial can in fact distinguish between the left and right handed trefoil knots (Lickorish 1997).
+
+===Hyperbolic invariants===
+<div style="float: right; margin-left: 1em; ">
+<gallery>
+Image:BorromeanRings.svg|The [[Borromean rings]] are a link with the property that removing one ring unlinks the others.
+Image:SnapPea-horocusp_view.png|[[SnapPea]]'s cusp view: the [[Borromean rings]] complement from the perspective of an inhabitant living near the red component.
+</gallery>
+</div>
+[[William Thurston]] proved many knots are [[hyperbolic knot]]s, meaning that the [[knot complement]], i.e. the points of 3-space not on the knot, admit a geometric structure, in particular that of [[hyperbolic geometry]]. The hyperbolic structure depends only on the knot so any quantity computed from the hyperbolic structure is then a knot invariant. (Adams 2001)  
+
+Geometry lets us visualize what the inside of a knot or link complement looks like by imagining light rays as traveling along the geodesics of the geometry.  An example is provided by the picture of the complement of the [[Borromean rings]].  The inhabitant of this link complement is viewing the space from near the red component.  The balls in the picture are views of horoball neighborhoods of the link.  By thickening the link in a standard way, we obtain what are called horoball neighborhoods of the link components.  Even though the boundary of a neighborhoods is a torus, when viewed by inside the link complement, it looks like a sphere, called a [[horoball]].  Each link component shows up as infinitely many horoballs (of one color)  as there are infinitely many light rays from the observer to the link component.  The fundamental parallelogram (which is indicated in the picture), tiles both vertically and horizontally.
+
+The pattern of horoballs is itself a useful invariant.  Other hyperbolic invariants include the shape of the fundamental paralleogram, length of shortest geodesic, and volume.  Modern knot and link tabulation efforts have utilized these invariants effectively.  Fast computers and clever methods of obtaining these invariants make calculating these invariants, in practice, a simple task. (Adams, Hildebrand, & Weeks, 1991)
+
+==Higher dimensions ==
+In four dimensions, any closed loop of one-dimensional string is equivalent to an unknot. We can achieve the necessary deformation in two steps. The first step is to "push" the loop into a three-dimensional subspace, which is always possible, though technical to explain. The second step is changing crossings.  Suppose one strand is behind another as seen from a chosen point. Lift it into the fourth dimension, so there is no obstacle (the front strand having no component there); then slide it forward, and drop it back, now in front. An analogy for the plane would be lifting a string up off the surface.<!-- can't really find a source for this...Adams misleadingly doesn't mention the first step.  This step more or less follows from very basic, well-known, general position arguments, e.g. the PL-case is essentially contained in Zeeman's paper although not explicitly described. Comment by [[User: Chan-Ho Suh]] -->
+
+Since a knot can be considered topologically a 1-dimensional sphere, the next generalization is to consider a [[2-sphere|two dimensional sphere]] embedded in a four dimensional sphere.  Such an embedding is unknotted if there is a homeomorphism of the 4-sphere onto itself taking the 2-sphere to a standard "round" 2-sphere.  [[Suspended knot]]s and [[spun knot]]s are two typical families of such 2-sphere knots.  
+
+The mathematical technique called "general position" implies that for a given ''n''-sphere in the ''m''-sphere, if ''m'' is large enough (depending on ''n''), the sphere should be unknotted.  In general, [[piecewise-linear]] [[n-sphere|''n-''sphere]]s form knots only in (''n''+2)-space ([[Christopher Zeeman]] 1963), although this is no  longer a requirement for smoothly knotted spheres.  In fact, there are smoothly knotted ''4k-1''-spheres in ''6k''-space, e.g. there is a smoothly knotted 3-sphere in the 6-sphere  (Haefliger 1962, Levine 1965).  Thus the codimension of a smooth knot can be arbitrarily large when not fixing the dimension of the knotted sphere; however, any smooth ''k''-sphere in an ''n''-sphere with ''2n-3k-3 > 0'' is unknotted. The notion of a knot has further generalisations in mathematics, see: [[Knot_%28mathematics%29|knot (mathematics)]].
+
+== Adding knots ==
+{{main article|knot sum}}
+Two knots can be added by cutting both knots and joining the pairs of ends. This can be formally defined as follows (Adams 2001): consider a planar projection of each knot and suppose these projections are disjoint.  Find a rectangle in the plane where one pair of opposite sides are arcs along each knot while the rest of the rectangle is disjoint from the knots.  Form a new knot by deleting the first pair of opposite sides and adjoining the other pair of opposite sides.  The resulting knot is the sum of the original knots.  
+
+This operation is called the '''knot sum''', or sometimes the '''connected sum''' or '''composition''' of two knots.  The knot sum is [[commutative]] and [[associative]].  There is also a prime decomposition for a knot which allows us to define a [[prime knot|prime]] or composite knot, analogous to [[prime number|prime]] and composite numbers.  The trefoil knot is the simplest [[prime knot]].  Higher dimensional knots can be added by splicing the n-spheres.  While you cannot form the unknot in three dimensions by adding two non-trivial knots, you can in higher dimensions, at least when one considers ''smooth'' knots in codimension at least 3.
+
+== Tabulating knots ==
+<!-- {{main article|knot tabulation}} more can be said about tabulation.... -->
+
+Traditionally, knots have been catalogued in terms of [[crossing number]].  The number of nontrivial knots of a given crossing number increases rapidly, making tabulation computationally difficult.  Knot tables generally include only prime knots and only one entry for a knot and its mirror image (even if they are different).  The sequence of the number of prime knots of a given crossing number, up to crossing number 16, is 0, 0, 0, 1, 1, 2, 3, 7, 21, 49, 165, 552, 2176, 9988, 46972, 253293, 1388705&hellip; {{OEIS|id=A002863}}.  While exponential upper and lower bounds for this sequence are known, it has not been proven that this sequence is strictly increasing (Adams 2001).
+
+The first knot tables by Tait, Little, and Kirkman used knot diagrams, although Tait also used a precursor to the [[Dowker notation]].  Different notations have been invented for knots which allow more efficient tabulation.
+
+The early tables attempted to list all knots of at most 10 crossings, and all alternating knots of 11 crossings.  The development of knot theory due to Alexander, Reidemeister, Seifert, and others eased the task of verification and tables of knots up to and including 9 crossings were published by Alexander-Briggs and Reidemeister in the late 1920s.  
+
+The first major verification of this work was done in the 1960s by [[John Horton Conway]], who not only developed a new notation but also the [[Alexander-Conway polynomial]] (Conway 1970, Doll-Hoste 1991).  This verified the list of knots of at most 11 crossings and a new list of links up to 10 crossings.  Conway found a number of omissions but only one duplication in the Tait-Little tables; however he missed the duplicates called the [[Perko pair]], which would only be noticed in 1974 by Kenneth Perko (Perko 1974).  This famous error would propagate when Dale Rolfsen added a knot table in his influential text, based on Conway's work.
+
+===Alexander-Briggs notation===
+This is the most traditional notation, due to the 1927 paper of J. W. Alexander and G. Briggs and later extended by Dale Rolfsen in his knot table.  The notation simply organizes knots by their crossing number.  One writes the crossing number with a subscript to denote its order amongst all knots with that crossing number.  This order is arbitrary and so has no special significance.  
+
+===The Dowker notation===
+{{main article|Dowker notation}}
+[[Image:Dowker-notation-example.png|thumb|200px|A knot diagram with crossings labelled for a Dowker sequence]]
+The Dowker notation, also called the Dowker-Thistlethwaite notation or code, for a knot is a finite sequence of even integers.  The numbers are generated by following the knot and marking the crossings with consecutive integers.  Since each crossing is visited twice, this creates a pairing of even integers with odd integers.  An appropriate sign is given to indicate over and undercrossing.  For example, in the figure the knot diagram has crossings labelled with the pairs (1,6) (3,&minus;12) (5,2) (7,8) (9,&minus;4) and (11,&minus;10).  The Dowker notation for this labelling is the sequence: 6 &minus;12 2 8 &minus;4 &minus;10.  A knot diagram has more than one possible Dowker notation, and there is a well-understood ambiguity when reconstructing a knot from a Dowker notation.
+
+===Conway notation===
+{{main article|Conway notation (knot theory)}}
+
+The Conway notation for knots and links, named after [[John Horton Conway]], is based on the theory of [[tangle (mathematics)|tangles]] (Conway 1970).  The advantage of this notation is that it reflects some properties of the knot or link.
+
+The notation describes how to construct a particular link diagram of the link.  Start with a ''basic polyhedron'', a 4-valent connected planar graph with no [[digon]] regions.  Such a polyhedron is denoted first by the number of vertices then a number of asterisks which determine the polyhedron's position on a list of basic polyhedron.  For example, 10** denotes the second 10-vertex polyhedron on Conway's list.
+
+Each vertex then has an [[algebraic tangle]] substituted into it (each vertex is oriented so there is no arbitrary choice in substitution).  Each such tangle has a notation consisting of numbers and + or &minus; signs.   
+
+An example is 1*2 &minus;3 2.  The 1* denotes the only 1-vertex basic polyhedron.  The 2 &minus;3 2 is a sequence describing the continued fraction associated to a [[rational tangle]].  One inserts this tangle at the vertex of the basic polyhedron 1*.
+
+A more complicated example is 8*3.1.2 0.1.1.1.1.1  Here again 8* refers to a basic polyhedron with 8 vertices.  The periods separate the notation for each tangle.  
+
+Any link admits such a description, and it is clear this is a very compact notation even for very large crossing number.  There are some further shorthands usually used.  The last example is usually written 8*3:2 0, where we omitted the ones and kept the number of dots excepting the dots at the end.  For an algebraic knot such as in the first example, 1* is often omitted.
+
+Conway's pioneering paper on the subject lists up to 10-vertex basic polyhedra of which he uses to tabulate links, which have become standard for those links.  For a further listing of higher vertex polyhedra, there are nonstandard choices available.
+
+== See also ==
+* [[List of knot theory topics]]
+* [[Braid theory]]
+* [[Braid group]]
+* [[Braided monoidal category]]
+* [[Khipu]]
+* [[Contact geometry#Legendrian submanifolds and knots|Legendrian knots]]
+* [[Knotane]]
+* [[Topoisomerase]]
+* [[Topology]]
+
+==References==
+<!-- this section is for *references*, sources used to write a part of the article or cited in the article to justify a statement.  Supplementary reading should go into "further reading" -->
+*[[Colin Adams (mathematician)|Colin Adams]], ''The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots'',  [[2001]], ISBN 0-7167-4219-5
+* Adams, Colin; Hildebrand, Martin; Weeks, Jeffrey; ''Hyperbolic invariants of knots and links.''  Trans. Amer. Math. Soc.  326  (1991),  no. 1, 1--56.
+*{{Citation|first=Dror|last=Bar-Natan|title=On the Vassiliev knot invariants||journal=Topology|volume=34|date=1995|year=1995|number=2|pages=423--472}}
+* [[John Horton Conway]], ''An enumeration of knots and links, and some of their algebraic properties.'' 1970  Computational Problems in Abstract Algebra (Proc. Conf., Oxford, 1967)  pp. 329--358 Pergamon, Oxford 
+*Max Dehn, ''Die beiden Kleeblattschlingen'', Math. Ann.  75  (1914), 402-413.
+*Helmut Doll and Jim Hoste, ''A tabulation of oriented links.'' With microfiche supplement. Math. Comp. 57 (1991), no. 196, 747--761. 
+*{{Citation|first=Erica|last=Flapan|title=When topology meets chemistry: A topological look at molecular chirality|journal=Outlooks|publisher=Cambridge University Press,Cambridge; Mathematical Association of America, Washington, DC|year=2000|date=2000|isbn=0-521-66254-0}} ISBN 0-521-66482-9  xiv+241 pp
+*[[André Haefliger]], ''Knotted (4k-1)-spheres in 6k-space.'' Ann. of Math. (2) 75 1962 452--466. 
+* Joel Hass, "Algorithms for recognizing knots and 3-mainifolds". {{arxiv|math.GT|9712269}}
+*[[Jerome Levine]], ''A classification of differentiable knots.'' [[Annals of Mathematics|Ann. of Math.]] (2) 82 1965 15--50.
+*{{Citation|first=Maxim|last=Kontsevich|author-link=Maxim Kontsevich|title=Vassiliev's knot invariants|pages=137--150|journal= I. M. Gelfand Seminar, Adv. Soviet Math.|volume=16|part=2|publisher=Amer. Math. Soc.|place=Providence, RI|year=1993|date=1993}}
+*[[W. B. Raymond Lickorish]], ''An Introduction to Knot Theory'', Graduate Texts in Mathematics, Springer, 1997, ISBN 0-387-98254-X 
+* Kenneth A. Perko Jr., ''On the classification of knots.'' Proc. Amer. Math. Soc. 45 (1974), 262--266.
+*[[Dale Rolfsen]], ''Knots and Links'', [[1976]], ISBN 0-914098-16-0
+*Silver, Dan, ''[http://www.southalabama.edu/mathstat/personal_pages/silver/scottish.pdf Scottish physics and knot theory's odd origins]'' (expanded version of Silver, "Knot theory's odd origins," American Scientist, 94, No. 2, 158-165)
+*{{Citation | last =Sossinsky | first =Alexei | date =2002 | year =2002 | title =Knots, mathematics with a twist | publisher =Harvard University Press | isbn =0-674-00944-4 }}
+*{{Citation|last=Turaev|first=V. G.|title=Quantum invariants of knots and 3-manifolds|journal= de Gruyter Studies in Mathematics|volume= 18|publisher=Walter de Gruyter & Co.|place=Berlin|date=1994|year=1994|isbn=3-11-013704-6}}
+*{{Citation|last=Witten|first=Edward|author-link=Edward Witten|title=Quantum field theory and the Jones polynomial|journal=Comm. Math. Phys.|volume=121|year=1989|date=1989|number=3|pages=351--399}}
+*[[E. C. Zeeman]], ''Unknotting combinatorial balls.'' [[Annals of Mathematics|Ann. of Math.]] (2) 78 1963 501--526.
+
+== Further reading ==
+There are a number of introductions to knot theory.  A classical introduction for graduate students or advanced undergraduates is Rolfsen (1976), given in the references.  Other good texts from the references are Adams (2001) and Lickorish (1997).  Adams is informal and accessible for the most part to high schoolers.  Lickorish is a rigorous introduction for graduate students, covering a nice mix of classical and modern topics.  
+
+* [[Richard H. Crowell]] and [[Ralph Fox]],''Introduction to Knot Theory'',  [[1977]], ISBN 0-387-90272-4
+* [[Gerhard Burde]] and [[Heiner Zieschang]], ''Knots'', De Gruyter Studies in Mathematics, 1985, Walter de Gruyter, ISBN 3-11-008675-1
+* [[Louis H. Kauffman]], ''On Knots'',  [[1987]], ISBN 0-691-08435-1
+<!-- To keep this section under control, please add only well-known texts that do not substantially overlap an already listed text -->
+
+==External links==
+{{Wiktionary}}
+===History===
+*Thomson, Sir William (Lord Kelvin), ''[http://zapatopi.net/kelvin/papers/on_vortex_atoms.html On Vertex Atoms]'', Proceedings of the Royal Society of Edinburgh, Vol. VI, 1867, pp. 94-105.
+*Silliman, Robert H., ''William Thomson: Smoke Rings and Nineteenth-Century Atomism'', Isis, Vol. 54, No. 4. (Dec., 1963), pp. 461-474. [http://links.jstor.org/sici?sici=0021-1753%28196312%2954%3A4%3C461%3AWTSRAN%3E2.0.CO%3B2-0 JSTOR link]
+*[http://www.southalabama.edu/mathstat/personal_pages/silver/smoke%20rings.mpg Movie] of a modern recreation of Tait's smoke ring experiment
+
+===Knot tables and software===
+* [http://www.indiana.edu/~knotinfo/ '''KnotInfo''': ''Table of Knot Invariants and Knot Theory Resources'']
+* The wiki [http://katlas.math.toronto.edu/wiki/ Knot Atlas] - detailed info on individual knots in knot tables
+* [http://knotplot.com/ KnotPlot] - software to investigate geometric properties of knots
+[[Category:Knot theory| ]]
+[[Category:Algebraic topology]]
+[[Category:Geometric topology]]
+
+[[ar:نظرية العقد]]
+[[de:Knotentheorie]]
+[[es:Teoría de nudos]]
+[[fr:Théorie des nœuds]]
+[[ko:매듭 이론]]
+[[is:Hnútafræði]]
+[[it:Teoria dei nodi]]
+[[he:תורת הקשרים]]
+[[ja:結び目理論]]
+[[pl:Teoria węzłów]]
+[[pt:Teoria dos nós]]
+[[zh:紐結理論]]

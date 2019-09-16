@@ -1,0 +1,129 @@
+{{infobox Aircraft
+  |name = R-12 (Model 48) 
+  |type = five/eight seat utility helicopter
+  |manufacturer = [[Bell Helicopter]]
+  |image = Image:Bell_48.jpg
+  |caption = 
+  |designer = 
+  |first flight = [[1946 in aviation|1946]]
+  |introduced = 
+  |retired = 
+  |status =
+  |primary user = [[United States Air Force]]
+  |more users = 
+  |produced = 
+  |number built = 13
+  |unit cost = 
+  |developed from = [[Bell 47]]
+  |variants with their own articles = 
+}}
+The '''Bell R-12 (Model 48)''' was an [[United States|American]] 1940s utility built by [[Bell Helicopter]] company.
+
+==Development==
+During [[1946 in aviation|1946]] began developed of an enlarged version of the [[Bell 47|Model 47]]. Two prototypes were ordered by the [[United States Air Force]] as the '''XR-12'''. It was powered by a R-1340 Wasp radial engine and seated five. Another prototype (the '''XR-12B''') with a more powerful R-1340 engine and increased seating for eight was also ordered. With a change in designation system the helicopter was re-designated the '''H-12'''. Test were not satisfactory and ten pre-production and 34 production aircraft were cancelled.
+
+==Variants==
+;'''XR-12''':prototype, redesignated XH-12, two built.
+;'''R-12A''':production version, 34 on order cancelled.
+;'''XR-12B''':prototype with more powefull engine and increased seating, re-designated XH-12B, one built.
+;'''YR-12B''':as XR-12B but with R-1340-55 engines, re-designated YH-12B, ten built.
+;'''XH-12''':XR-12 re-designated in 1947.
+;'''XH-12B''':XR-12B re-designated in 1947.
+;'''YH-12B''':YR-12B re-designated in 1947.
+
+==Operators==
+;{{USA}}
+*[[United States Air Force]] 
+
+==Specifications (XR-12B) ==
+{{aero-specs}}
+{{aircraft specifications
+|plane or copter?=copter<!-- options: plane/copter -->
+|jet or prop?=prop
+<!-- Now, fill out the specs.  Please include units where appropriate (main comes first, alt in parentheses). 
+If an item doesn't apply, like capacity, leave it blank. For additional lines, end your
+alt units with )</li> and start a new, fully-formatted line with <li> -->
+|crew=4
+|capacity=
+|length main= 
+|length alt= 
+|span main= 47 ft 6 in  
+|span alt= 14.48 m
+|height main= 
+|height alt= 
+|area main= 1,772 ft²
+|area alt= 164.62 m²
+|airfoil=
+|empty weight main= 
+|empty weight alt= 
+|loaded weight main= 
+|loaded weight alt= 
+|useful load main= 
+|useful load alt= 
+|max takeoff weight main= 6,286 lb
+|max takeoff weight alt= 2851 kg
+|engine (prop)=[[Pratt & Whitney R-1340]]-55 Wasp
+|type of prop=radial piston
+|number of props=1
+|power main= 600 hp
+|power alt= 447 kW  
+
+|propeller or rotor?=rotor
+|propellers=1
+|number of propellers per engine=1
+|propeller diameter main=
+|propeller diameter alt=
+
+ 
+|max speed main= 105 mph
+|max speed alt= 169 km/h
+|cruise speed main= 90 mph
+|cruise speed alt= 145 km/h
+|never exceed speed main= 
+|never exceed speed alt= 
+|stall speed main= 
+|stall speed alt= 
+|range main= 300 miles
+|range alt= 483 km
+|ceiling main= 
+|ceiling alt= 
+|climb rate main= 
+|climb rate alt= 
+|loading main= 
+|loading alt= 
+|more performance=
+|armament=
+}}
+
+==References==
+{{reflist}}
+* Andrade, John M. ''U.S.Military Aircraft Designation and Serials since 1909''. Leicester, UK: Midland Counties Publications, 1979. ISBN 0-904597-22-9.
+* The Illustrated Encyclopedia of Aircraft (Part Work 1982-1985). London, Orbis Publishing.
+
+==External links==
+* [http://www.helis.com/timeline/bell.php helis.com: Helicopter history site]
+
+==Related content==
+{{aircontent
+<!-- include as many lines are appropriate. additional lines/entries with carriage return. -->
+
+|related=<!-- related developments -->
+
+|similar aircraft=<!-- similar or comparable aircraft -->
+
+|sequence=<!-- designation sequence, if appropriate -->
+* '''Bell'''
+** [[Bell 43|43]] - [[Bell 44|44]] - [[Bell 47|47]] - '''48''' - [[Bell 52|52]] - [[Bell 54|54]] - [[Bell 60|60]]
+* '''USAF pre-1948'''
+** [[Firestone R-9|R-9]] - [[Kellett R-10|R-10]] - [[Rotorcraft R-11|R-11]] - '''R-12''' - [[Bell R-13|R-13]] - [[Firestone R-14|R-14]] - [[Bell R-15|R-15]]
+* '''USAF post-1948, US Military post-1962'''
+** [[Firestone H-9|H-9]] - [[Kellett H-10|H-10]] - [[Rotorcraft H-11|H-11]] - '''H-12''' - [[Bell H-13|H-13]] - [[Firestone H-14|H-14]] - [[Vertol H-16|H-16]]
+
+|lists=<!-- related lists -->
+
+|see also=<!-- other relevant information -->
+
+}}
+
+[[Category:United States military utility aircraft 1940-1949]]
+[[Category:Helicopters]]

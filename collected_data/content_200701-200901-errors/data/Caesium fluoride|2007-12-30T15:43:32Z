@@ -1,0 +1,86 @@
+{{Chembox new
+|   Name = Caesium fluoride
+|   ImageFile = Caesium fluoride.jpg
+<!-- | ImageSize = 150px -->
+|   ImageName = Caesium fluoride
+|   ImageFile1 = Caesium-fluoride-3D-ionic.png
+<!-- | ImageSize1 = 150px  -->
+|   ImageName1 = Caesium fluoride
+|   IUPACName = Caesium fluoride
+|   OtherNames = Cesium fluoride
+| Section1 = {{Chembox Identifiers
+|   CASNo = 13400-13-0
+|   RTECS = FK9650000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = CsF
+|   MolarMass = 151.904 g/mol
+|   Appearance = white crystalline solid
+|   Density = 4.115 g/cm³, solid
+|   Solubility = 367 g/100 ml (18 °C)
+|   MeltingPt = 682 °C (955 K)
+|   BoilingPt = 1251 °C (1524 K)
+|   pKb = 
+  }}
+| Section3 = {{Chembox Structure
+|   Coordination = [[Octahedron|Octahedral]]
+|   CrystalStruct = [[Cubic crystal system|cubic]]
+|   Dipole = 7.9 [[Debye|D]]
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.sciencelab.com/xMSDS-Cesium_fluoride-9923357 External MSDS]
+|   MainHazards = toxic, forms [[HF]] with [[acid]]
+|   RPhrases = 23/24/25, 34
+|   SPhrases = 26, 36/37, 39, 45
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[caesium chloride]]<br />[[caesium bromide]]<br />[[caesium iodide]]
+|   OtherCations = [[sodium fluoride]]<br />[[potassium fluoride]]<br />[[rubidium fluoride]]
+|   OtherCpds = [[tetra-n-butylammonium fluoride]]
+  }}
+}}
+
+'''Caesium fluoride''' ('''cesium fluoride''' in North America), is an ionic compound usually found as a hygroscopic white solid.  It is more soluble and more readily [[Dissociation (chemistry)|dissociated]] than [[sodium fluoride]] or [[potassium fluoride]]. It is available in anhydrous form, and if water has been absorbed it is easy to dry by heating at 100 °[[celsius|C]] for two hours ''[[wikt:Vacuum|in vacuo]]''.<ref name="Friestad">Friestad, G. K.; Branchaud, B. P. in: ''Handbook of Reagents for Organic Synthesis: Acidic and Basic Reagents'', (Reich, H. J.; Rigby, J. H. eds.), Wiley, New York, 1999. pp. 99-103.</ref>  It is therefore a useful, less [[hygroscopic]] alternative to [[tetra-n-butylammonium fluoride]] (TBAF) and [[TASF reagent|TAS-fluoride]] (TASF) when anhydrous "naked" [[fluoride]] [[ion]] is needed.  Like all soluble fluorides, it is mildly [[base (chemistry)|basic]].  Contact with [[acid]] should be avoided, as this forms highly toxic/corrosive [[hydrofluoric acid]].
+
+==Chemical properties==
+Caesium fluoride reacts usually as a source of fluoride ion, F<sup>-</sup>. It therefore undergoes all of the usual reactions associated with soluble fluorides such as potassium fluoride, for example:<ref name="greenwood">Greenwood, N.N.; Earnshaw, A. ''Chemistry of the Elements'', Pergamon Press, Oxford, UK, 1984.</ref>
+
+2 CsF ([[aqueous|aq]])  +  [[calcium chloride|CaCl<sub>2</sub>]] (aq)  →  2 [[caesium chloride|CsCl]] (aq)  +   [[calcium fluoride|CaF<sub>2</sub>]] ([[solid|s]])
+
+Being highly dissociated it is quite reactive as a fluoride source under anhydrous conditions too, and it will react with [[electron-deficient]] [[aryl chloride]]s to form [[aromatic|aryl]] fluorides ([[halex reaction]]). Due to the strength of the [[silicon|Si]]–[[fluorine|F]] bond, fluoride ion is useful for desilylation reactions (removal of Si groups) in [[organic chemistry]]; caesium fluoride is an excellent source of anhydrous fluoride for such reactions (''vida infra'').  As with other soluble fluorides, CsF is moderately basic, because [[hydrofluoric acid|HF]] is a weak acid.  The low [[nucleophile|nucleophilicity]] of fluoride means it can be a useful base in organic chemistry.<ref name="greenwood"/>
+
+==Crystal structure==
+Caesium fluoride has the inverse halite structure, because caesium ions are larger than fluoride ions; in the lithium, sodium, potassium, and rubidium halides, the cation is smaller than the anion. The caesium ions form a [[cubic closest packed]] array with fluoride ions in the octahedral holes.<ref name="greenwood"/><ref name="CRC">''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.</ref>
+
+==Preparation==
+Caesium fluoride may be prepared by the action of [[hydrofluoric acid]] on [[caesium hydroxide]] or [[caesium carbonate]], followed by removal of water.
+
+==Uses==
+Caesium fluoride is a useful base in [[organic chemistry]], due the fact that fluoride [[ion]] is largely unreactive as a [[nucleophile]].  It is reported that CsF gives higher yields in [[Knoevenagel condensation]] reactions than [[potassium fluoride|KF]] or [[sodium fluoride|NaF]].<ref name="Fiorenza">Fiorenza, M.; Mordini, A.; Papaleo, S.; Pastorelli, S.; Ricci, A. 1985. ''Tetrahedron Letters''. '''26''', 787.</ref>
+
+Removal of silicon groups (desilylation) is a major application for CsF in the laboratory, as its [[anhydrous]] nature allows clean formation of [[water (molecule)|water]]-sensitive intermediates.  Caesium fluoride in [[THF]] or [[Dimethylformamide|DMF]] can attack a wide variety of [[organosilicon compounds]] to produce an organosilicon fluoride and a [[carbanion]], which can then react with [[electrophile]]s,<ref name="CRC"/> for example:<ref name="Fiorenza"/>
+
+[[Image:CsF desilylation.png|350px]]
+
+Desilylation is also useful for the removal of [[silyl]] [[protecting group]]s.
+
+Caesium fluoride is also a popular source of fluoride in [[organofluorine chemistry]].  For example, CsF reacts with [[hexafluoroacetone]] to form a caesium perfluoroalkoxide salt which is stable up to 60 °C, unlike the corresponding [[sodium]] or [[potassium]] salt.<ref name="">F. W. Evans, M. H. Litt, A. M. Weidler-Kubanek, F. P. Avonda "[http://pubs.acs.org/cgi-bin/searchRedirect.cgi/joceah/1962/27/i10/pdf/jo01057a024.pdf Reactions Catalyzed by Potassium Fluoride. 111. The Knoevenagel Reaction]." 1968. ''Journal of Organic Chemistry''. '''33''', 1837-1839. Retrieved on [[September 7]], [[2007]].</ref>
+
+Single crystals of the salt are transparent into the deep [[infrared]]. For this reason it is often used as the windows of cells used for [[infrared spectroscopy]].
+
+==Precautions==
+Like other soluble fluorides, CsF is moderately toxic.<ref name="msds-csf">"[http://www.hazard.com/msds/f2/bms/bmsqc.html MSDS Listing for cesium flouride]." ''[http://www.hazard.com/ www.hazard.com].'' MSDS Date: [[April 27]], [[1993]]. Retrieved on [[September 7]], [[2007]].</ref> Contact with [[acid]] should be avoided, as this forms highly toxic/corrosive [[hydrofluoric acid]]. Cesium [[ion]] (Cs<sup>+</sup>), or Cesium chloride, is generally not considered toxic.<ref name="msds-cscl">"[http://www.jtbaker.com/msds/englishhtml/c1903.htm MSDS Listing for cesium chloride]." ''[http://www.jtbaker.com/ www.jtbaker.com].'' MSDS Date: [[January 16]], [[2006]]. Retrieved on [[September 7]], [[2007]].</ref>
+
+==References==
+{{reflist|1}}
+
+==External links==
+*[http://www.npi.gov.au/database/substance-info/profiles/44.html National Pollutant Inventory&mdash;Fluoride and compounds fact sheet]
+
+[[Category:Fluorides]]
+[[Category:Caesium compounds]]
+[[Category:Metal halides]]
+
+[[ar:فلوريد سيزيوم]]
+[[de:Caesiumfluorid]]
+[[ja:フッ化セシウム]]

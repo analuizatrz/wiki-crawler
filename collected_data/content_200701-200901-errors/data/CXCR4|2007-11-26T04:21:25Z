@@ -1,0 +1,89 @@
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = yes
+}}
+
+<!-- The GNF_Protein_box is automatically maintained by Protein Box Bot.  See Template:PBB_Controls to Stop updates. -->
+{{GNF_Protein_box
+ | image =  
+ | image_source =  
+ | PDB = 
+ | Name = Chemokine (C-X-C motif) receptor 4
+ | HGNCid = 2561
+ | Symbol = CXCR4
+ | AltSymbols =; NPYR; CD184; D2S201E; FB22; HM89; HSY3RR; LAP3; LCR1; LESTR; NPY3R; NPYRL; NPYY3R; WHIM
+ | OMIM = 162643
+ | ECnumber =  
+ | Homologene = 20739
+ | MGIid = 109563
+ | GeneAtlas_image1 = PBB_GE_CXCR4_217028_at_tn.png
+ | GeneAtlas_image2 = PBB_GE_CXCR4_209201_x_at_tn.png
+ | GeneAtlas_image3 = PBB_GE_CXCR4_211919_s_at_tn.png
+ | Function = {{GNF_GO|id=GO:0001584 |text = rhodopsin-like receptor activity}} {{GNF_GO|id=GO:0003779 |text = actin binding}} {{GNF_GO|id=GO:0005515 |text = protein binding}} {{GNF_GO|id=GO:0015026 |text = coreceptor activity}} {{GNF_GO|id=GO:0016493 |text = C-C chemokine receptor activity}} {{GNF_GO|id=GO:0016494 |text = C-X-C chemokine receptor activity}} {{GNF_GO|id=GO:0032027 |text = myosin light chain binding}} 
+ | Component = {{GNF_GO|id=GO:0005737 |text = cytoplasm}} {{GNF_GO|id=GO:0005886 |text = plasma membrane}} {{GNF_GO|id=GO:0005887 |text = integral to plasma membrane}} {{GNF_GO|id=GO:0030426 |text = growth cone}} {{GNF_GO|id=GO:0031252 |text = leading edge}} 
+ | Process = {{GNF_GO|id=GO:0000187 |text = activation of MAPK activity}} {{GNF_GO|id=GO:0001569 |text = patterning of blood vessels}} {{GNF_GO|id=GO:0001667 |text = ameboidal cell migration}} {{GNF_GO|id=GO:0001764 |text = neuron migration}} {{GNF_GO|id=GO:0006915 |text = apoptosis}} {{GNF_GO|id=GO:0006935 |text = chemotaxis}} {{GNF_GO|id=GO:0006954 |text = inflammatory response}} {{GNF_GO|id=GO:0006955 |text = immune response}} {{GNF_GO|id=GO:0007165 |text = signal transduction}} {{GNF_GO|id=GO:0007186 |text = G-protein coupled receptor protein signaling pathway}} {{GNF_GO|id=GO:0007204 |text = elevation of cytosolic calcium ion concentration}} {{GNF_GO|id=GO:0007281 |text = germ cell development}} {{GNF_GO|id=GO:0007420 |text = brain development}} {{GNF_GO|id=GO:0008045 |text = motor axon guidance}} {{GNF_GO|id=GO:0008354 |text = germ cell migration}} {{GNF_GO|id=GO:0009615 |text = response to virus}} {{GNF_GO|id=GO:0030334 |text = regulation of cell migration}} {{GNF_GO|id=GO:0042098 |text = T cell proliferation}} 
+ | Orthologs = {{GNF_Ortholog_box
+    | Hs_EntrezGene = 7852
+    | Hs_Ensembl = ENSG00000121966
+    | Hs_RefseqProtein = NP_001008540
+    | Hs_RefseqmRNA = NM_001008540
+    | Hs_GenLoc_db =  
+    | Hs_GenLoc_chr = 2
+    | Hs_GenLoc_start = 136588909
+    | Hs_GenLoc_end = 136589979
+    | Hs_Uniprot = P61073
+    | Mm_EntrezGene = 12767
+    | Mm_Ensembl = ENSMUSG00000045382
+    | Mm_RefseqmRNA = NM_009911
+    | Mm_RefseqProtein = NP_034041
+    | Mm_GenLoc_db =  
+    | Mm_GenLoc_chr = 1
+    | Mm_GenLoc_start = 130415745
+    | Mm_GenLoc_end = 130419836
+    | Mm_Uniprot = A1E2I3
+  }}
+}}
+
+'''CXCR4''', also called '''fusin''', is an alpha-[[chemokine]] receptor specific for stromal-derived-factor-1 ([[Stromal cell-derived factor-1|SDF-1]] also called CXCL12), a molecule endowed with potent [[chemotactic]] activity for [[lymphocytes]]. This receptor is one of several chemokine receptors that [[HIV]] isolates can use to infect CD4+ T cells.  Traditionally, HIV [[isolates]] that use CXCR4 are known as T-cell tropic isolates.  Typically these viruses are found late in infection.  It is unclear whether the emergence of CXCR4-using HIV is a consequence or a cause of [[immunodeficiency]].
+
+Besides, CXCR4 is [[upregulated]] during the implantantion window in natural and HRT cycles in the endometrium, producing, in presence of a human [[blastocyst]], a surface polarization of the CXCR4 receptors suggesting that this receptor is implicated in the adhesion phase of human [[implantation]].
+
+CXCR4's [[ligand]] [[Stromal cell-derived factor-1|SDF-1]] is known to be important in [[hematopoietic stem cell]] homing to the bone marrow and in hematopoietic stem cell [[quiescence]]. Unusually for chemokines, SDF-1 and CXCR4 are a relatively "monogamous" ligand-receptor pair (other chemokines tend to use several different chemokine receptors in a fairly "promiscuous" manner). Because the interaction between SDF-1 and CXCR4 plays an important role in holding [[hematopoietic stem cells]] in the bone marrow, drugs that block the CXCR4 receptor appear to be capable of "mobilizing" hematopoietic stem cells into the bloodstream as [[peripheral blood stem cells]]. [[Peripheral blood stem cell mobilization]] is very important in [[hematopoietic stem cell transplantation]] (as a recent  alternative to transplantation of surgically-harvested [[bone marrow]]) and is currently performed using drugs such as [[G-CSF]]. [[G-CSF]] is a growth factor for [[neutrophils]] (a common type of white blood cells), and may act by increasing the activity of neutrophil-derived proteases such as [[neutrophil elastase]] in the bone marrow leading to proteolytic degradation of SDF-1. [[AMD3100]] is an investigational drug, not yet in routine clinical use, which directly blocks the CXCR4 receptor: it appears to be a very efficient inducer of [[hematopoietic stem cell mobilization]] in animal and human studies.
+
+==Further reading==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal  | author=Wilkinson D |title=Cofactors provide the entry keys. HIV-1. |journal=Curr. Biol. |volume=6 |issue= 9 |pages= 1051-3 |year= 1997 |pmid= 8805353 |doi=  }}
+*{{cite journal  | author=Broder CC, Dimitrov DS |title=HIV and the 7-transmembrane domain receptors. |journal=Pathobiology |volume=64 |issue= 4 |pages= 171-9 |year= 1997 |pmid= 9031325 |doi=  }}
+*{{cite journal  | author=Choe H, Martin KA, Farzan M, ''et al.'' |title=Structural interactions between chemokine receptors, gp120 Env and CD4. |journal=Semin. Immunol. |volume=10 |issue= 3 |pages= 249-57 |year= 1998 |pmid= 9653051 |doi=  }}
+*{{cite journal  | author=Freedman BD, Liu QH, Del Corno M, Collman RG |title=HIV-1 gp120 chemokine receptor-mediated signaling in human macrophages. |journal=Immunol. Res. |volume=27 |issue= 2-3 |pages= 261-76 |year= 2004 |pmid= 12857973 |doi=  }}
+*{{cite journal  | author=Esté JA |title=Virus entry as a target for anti-HIV intervention. |journal=Curr. Med. Chem. |volume=10 |issue= 17 |pages= 1617-32 |year= 2004 |pmid= 12871111 |doi=  }}
+*{{cite journal  | author=Gallo SA, Finnegan CM, Viard M, ''et al.'' |title=The HIV Env-mediated fusion reaction. |journal=Biochim. Biophys. Acta |volume=1614 |issue= 1 |pages= 36-50 |year= 2003 |pmid= 12873764 |doi=  }}
+*{{cite journal  | author=Zaitseva M, Peden K, Golding H |title=HIV coreceptors: role of structure, posttranslational modifications, and internalization in viral-cell fusion and as targets for entry inhibitors. |journal=Biochim. Biophys. Acta |volume=1614 |issue= 1 |pages= 51-61 |year= 2003 |pmid= 12873765 |doi=  }}
+*{{cite journal  | author=Lee C, Liu QH, Tomkowicz B, ''et al.'' |title=Macrophage activation through CCR5- and CXCR4-mediated gp120-elicited signaling pathways. |journal=J. Leukoc. Biol. |volume=74 |issue= 5 |pages= 676-82 |year= 2004 |pmid= 12960231 |doi= 10.1189/jlb.0503206 }}
+*{{cite journal  | author=Yi Y, Lee C, Liu QH, ''et al.'' |title=Chemokine receptor utilization and macrophage signaling by human immunodeficiency virus type 1 gp120: Implications for neuropathogenesis. |journal=J. Neurovirol. |volume=10 Suppl 1 |issue=  |pages= 91-6 |year= 2004 |pmid= 14982745 |doi=  }}
+*{{cite journal  | author=Seibert C, Sakmar TP |title=Small-molecule antagonists of CCR5 and CXCR4: a promising new class of anti-HIV-1 drugs. |journal=Curr. Pharm. Des. |volume=10 |issue= 17 |pages= 2041-62 |year= 2004 |pmid= 15279544 |doi=  }}
+*{{cite journal  | author=Perfettini JL, Castedo M, Roumier T, ''et al.'' |title=Mechanisms of apoptosis induction by the HIV-1 envelope. |journal=Cell Death Differ. |volume=12 Suppl 1 |issue=  |pages= 916-23 |year= 2006 |pmid= 15719026 |doi= 10.1038/sj.cdd.4401584 }}
+*{{cite journal  | author=King JE, Eugenin EA, Buckner CM, Berman JW |title=HIV tat and neurotoxicity. |journal=Microbes Infect. |volume=8 |issue= 5 |pages= 1347-57 |year= 2006 |pmid= 16697675 |doi= 10.1016/j.micinf.2005.11.014 }}
+*{{cite journal  | author=Kryczek I, Wei S, Keller E, ''et al.'' |title=Stroma-derived factor (SDF-1/CXCL12) and human tumor pathogenesis. |journal=Am. J. Physiol., Cell Physiol. |volume=292 |issue= 3 |pages= C987-95 |year= 2007 |pmid= 16943240 |doi= 10.1152/ajpcell.00406.2006 }}
+*{{cite journal  | author=Arya M, Ahmed H, Silhi N, ''et al.'' |title=Clinical importance and therapeutic implications of the pivotal CXCL12-CXCR4 (chemokine ligand-receptor) interaction in cancer cell migration. |journal=Tumour Biol. |volume=28 |issue= 3 |pages= 123-31 |year= 2007 |pmid= 17510563 |doi= 10.1159/000102979 }}
+*{{cite journal  | author=Grange JM |title=Tuberculosis: the changing tubercle. |journal=British journal of hospital medicine |volume=22 |issue= 6 |pages= 540-8 |year= 1980 |pmid= 118789 |doi=  }}
+*{{cite journal  | author=Nomura H, Nielsen BW, Matsushima K |title=Molecular cloning of cDNAs encoding a LD78 receptor and putative leukocyte chemotactic peptide receptors. |journal=Int. Immunol. |volume=5 |issue= 10 |pages= 1239-49 |year= 1994 |pmid= 7505609 |doi=  }}
+*{{cite journal  | author=Lu ZH, Wang ZX, Horuk R, ''et al.'' |title=The promiscuous chemokine binding profile of the Duffy antigen/receptor for chemokines is primarily localized to sequences in the amino-terminal domain. |journal=J. Biol. Chem. |volume=270 |issue= 44 |pages= 26239-45 |year= 1995 |pmid= 7592830 |doi=  }}
+*{{cite journal  | author=Jazin EE, Yoo H, Blomqvist AG, ''et al.'' |title=A proposed bovine neuropeptide Y (NPY) receptor cDNA clone, or its human homologue, confers neither NPY binding sites nor NPY responsiveness on transfected cells. |journal=Regul. Pept. |volume=47 |issue= 3 |pages= 247-58 |year= 1993 |pmid= 8234909 |doi=  }}
+*{{cite journal  | author=Loetscher M, Geiser T, O'Reilly T, ''et al.'' |title=Cloning of a human seven-transmembrane domain receptor, LESTR, that is highly expressed in leukocytes. |journal=J. Biol. Chem. |volume=269 |issue= 1 |pages= 232-7 |year= 1994 |pmid= 8276799 |doi=  }}
+*{{cite journal  | author=Federsppiel B, Melhado IG, Duncan AM, ''et al.'' |title=Molecular cloning of the cDNA and chromosomal localization of the gene for a putative seven-transmembrane segment (7-TMS) receptor isolated from human spleen. |journal=Genomics |volume=16 |issue= 3 |pages= 707-12 |year= 1993 |pmid= 8325644 |doi= 10.1006/geno.1993.1251 }}
+}}
+{{refend}}
+
+{{Cell-biology-stub}}
+{{Chemokine receptors}}
+{{clusters of differentiation}}
+[[Category:Chemokine receptors]]
+
+[[zh:CXCR4]]

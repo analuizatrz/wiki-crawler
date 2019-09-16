@@ -1,0 +1,125 @@
+{{Infobox CityIT |
+  img_coa =  |
+  official_name = Ortovero |
+  name = Ortovero |
+  region = [[Liguria]] |
+  province = [[Province of Savona]] (SV) |
+  elevation_m =  |
+  area_total_km2   = 9.8 |
+  population_as_of  = Dec. 2004 |
+  population_total = 1231 |
+  population_density_km2 = 125 |
+  timezone          = [[Central European Time|CET]], [[Coordinated Universal Time|UTC]]+1 |
+  coordinates       = {{coor dm|44|3|N|8|6|E|type:city(1,231)_region:IT}}|
+  frazioni          = Campi, Pogli |
+  telephone         = 0182 |
+  postalcode        = 17037 |
+  gentilic          =  |
+  saint             = |
+  day               = |
+  mayor             = |
+  website           =  |
+  mapy = 8.1000 |
+  mapx = 44.0500 |
+}}
+'''Ortovero''' is a ''[[comune]]'' (municipality) in the [[Province of Savona]] in the [[Italy|Italian]] region [[Liguria]], located about 80 km southwest of [[Genoa]] and about 40 km southwest of [[Savona]]. As of [[31 December]] [[2004]], it had a population of 1,231 and an area of 9.8 km².<ref name="istat">All demographics and other statistics: Italian statistical institute [[Istat]].</ref>
+
+The municipality of Ortovero contains the ''[[frazione|frazioni]]'' (subdivisions, mainly villages and hamlets) Campi and Pogli.
+
+Ortovero borders the following municipalities: [[Albenga]], [[Arnasco]], [[Casanova Lerrone]], [[Onzo]], [[Vendone]], and [[Villanova d'Albenga]].
+
+
+== Demographic evolution ==
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:455 height:303
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:2000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:1000 start:0
+ScaleMinor = gridcolor:lightgrey increment:200 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1861 text:1861
+  bar:1871 text:1871
+  bar:1881 text:1881
+  bar:1901 text:1901
+  bar:1911 text:1911
+  bar:1921 text:1921
+  bar:1931 text:1931
+  bar:1936 text:1936
+  bar:1951 text:1951
+  bar:1961 text:1961
+  bar:1971 text:1971
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+
+PlotData=
+  color:barra width:20 align:left
+
+  bar:1861 from: 0 till:794
+  bar:1871 from: 0 till:739
+  bar:1881 from: 0 till:773
+  bar:1901 from: 0 till:788
+  bar:1911 from: 0 till:820
+  bar:1921 from: 0 till:839
+  bar:1931 from: 0 till:891
+  bar:1936 from: 0 till:915
+  bar:1951 from: 0 till:987
+  bar:1961 from: 0 till:903
+  bar:1971 from: 0 till:850
+  bar:1981 from: 0 till:855
+  bar:1991 from: 0 till:934
+  bar:2001 from: 0 till:1090
+
+PlotData=
+
+  bar:1861 at:794 fontsize:XS text: 794 shift:(-8,5)
+  bar:1871 at:739 fontsize:XS text: 739 shift:(-8,5)
+  bar:1881 at:773 fontsize:XS text: 773 shift:(-8,5)
+  bar:1901 at:788 fontsize:XS text: 788 shift:(-8,5)
+  bar:1911 at:820 fontsize:XS text: 820 shift:(-8,5)
+  bar:1921 at:839 fontsize:XS text: 839 shift:(-8,5)
+  bar:1931 at:891 fontsize:XS text: 891 shift:(-8,5)
+  bar:1936 at:915 fontsize:XS text: 915 shift:(-8,5)
+  bar:1951 at:987 fontsize:XS text: 987 shift:(-8,5)
+  bar:1961 at:903 fontsize:XS text: 903 shift:(-8,5)
+  bar:1971 at:850 fontsize:XS text: 850 shift:(-8,5)
+  bar:1981 at:855 fontsize:XS text: 855 shift:(-8,5)
+  bar:1991 at:934 fontsize:XS text: 934 shift:(-8,5)
+  bar:2001 at:1090 fontsize:XS text: 1090 shift:(-8,5)
+
+TextData=
+  fontsize:S pos:(20,20)
+  text:Data from ISTAT
+
+</timeline>
+
+==References==
+<references/>
+
+<br clear=all>
+{{Province of Savona}}
+[[Category:Cities and towns in Liguria]]
+{{Liguria-geo-stub}}
+
+[[eo:Ortovero]]
+[[fr:Ortovero]]
+[[it:Ortovero]]
+[[lij:Ortoê]]
+[[nl:Ortovero]]
+[[ja:オルトヴェーロ]]
+[[nap:Ortovero]]
+[[pms:Ortovero]]
+[[pl:Ortovero]]
+[[pt:Ortovero]]
+[[vo:Ortovero]]

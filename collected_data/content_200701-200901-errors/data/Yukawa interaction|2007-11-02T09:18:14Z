@@ -1,0 +1,84 @@
+In [[particle physics]], '''Yukawa interaction''', named after [[Hideki Yukawa]], is an interaction between a [[scalar field (quantum field theory)|scalar field]] <math>\phi</math> and a [[Dirac field]] <math>\Psi</math> of the type
+:<math>V \approx g\bar\Psi \phi \Psi</math> (scalar) or <math>g \bar \Psi \gamma^5 \phi \Psi</math> ([[pseudoscalar]]).
+
+The Yukawa interaction can be used to describe the [[strong nuclear force]] between [[nucleon]]s (which are [[fermion]]s), mediated by [[pion]]s (which are pseudoscalar [[meson]]s).  The Yukawa interaction is also used in the [[Standard Model]] to describe the coupling between the [[Higgs field]] and massless [[quark]] and [[electron]] fields.  Through [[spontaneous symmetry breaking]], the fermions acquire a mass proportional to the [[vacuum expectation value]] of the Higgs field. 
+
+==The action==
+The [[action (physics)|action]] for a [[meson]] field &phi; interacting with a [[Dirac fermion]] field &psi; is 
+
+:<math>S[\phi,\psi]=\int d^dx \;\left[
+\mathcal{L}_\mathrm{meson}(\phi) +
+\mathcal{L}_\mathrm{Dirac}(\psi) +
+\mathcal{L}_\mathrm{Yukawa}(\phi,\psi) \right]
+</math>
+
+where the integration is performed over ''d'' dimensions (typically 4 for four-dimensional spacetime).  The meson [[Lagrangian]] is given by
+
+:<math>\mathcal{L}_\mathrm{meson}(\phi) = 
+\frac{1}{2}\partial^\mu \phi \partial_\mu \phi -V(\phi)</math>.
+
+Here, <math>V(\phi)</math> is a self-interaction term. For a free-field massive meson, one would have <math>V(\phi)=\mu^2\phi^2</math> where <math>\mu</math> is the mass for the meson. For a ([[renormalizable]]) self-interacting field, one will have <math>V(\phi)=\mu^2\phi^2 + \lambda\phi^4</math> where &lambda; is a coupling constant. This potential is explored in detail in the article [[phi to the fourth]].
+
+The free-field Dirac Lagrangian is given by
+
+:<math>\mathcal{L}_\mathrm{Dirac}(\psi) = 
+\bar{\psi}(i\partial\!\!\!/-m)\psi </math>
+
+where ''m'' is the positive, real mass of the fermion.
+
+The Yukawa interaction term is 
+:<math>\mathcal{L}_\mathrm{Yukawa}(\phi,\psi) = -g\bar\psi \phi \psi</math>
+
+where ''g'' is the (real) [[coupling constant]] for scalar mesons and 
+
+:<math>\mathcal{L}_\mathrm{Yukawa}(\phi,\psi) = -g\bar\psi \gamma^5 \phi \psi</math>
+
+for pseudoscalar mesons. Putting it all together one can write the above far more compactly as
+
+:<math>S[\phi,\psi]=\int d^dx 
+\left[\frac{1}{2}\partial^\mu \phi \partial_\mu \phi -V(\phi) +
+\bar{\psi}(i\partial\!\!\!/-m)\psi 
+-g \bar{\psi}\phi\psi \right]</math> 
+
+==Classical potential==
+If two scalar mesons interact through a Yukawa interaction, the potential between the two particles will be:
+
+:V(r) = <math>-\frac{g^2}{4\pi} \frac{1}{r} e^{-m_\psi r}</math>
+
+which is the same as a [[Coulomb potential]] except for the sign and the exponential factor. The sign will make the interaction attractive between all particles (the electromagnetic interaction is repulsive for identical particles). This is explained by the fact that the Yukawa particle has spin zero and even spin always results in an attractive potential. The exponential will give the interaction a finite range, so that particles at great distances will hardly interact any longer.
+
+==Spontaneous symmetry breaking==
+Now suppose that the potential <math>V(\phi)</math> has a minimum not at <math>\phi=0</math> but at some non-zero value <math>\phi_0</math>. This can happen if one writes (for example) <math>V(\phi)=\mu^2\phi^2 + \lambda\phi^4</math> and then sets &mu; to an imaginary value. In this case, one says that the Lagrangian exhibits [[spontaneous symmetry breaking]].  The non-zero value of &phi; is called the [[vacuum expectation value]] of &phi;. In the [[Standard Model]], this non-zero value is responsible for the fermion masses, as shown below.   
+
+To exhibit the mass term, one re-expresses the action in terms of the field <math>\tilde \phi = \phi-\phi_0</math>, where <math>\phi_0</math> is now understood to be a constant independent of position. We now see that the Yukawa term has a component 
+
+:<math>g\phi_0 \bar\psi\psi</math>
+
+and since both ''g'' and <math>\phi_0</math> are constants, this term looks exactly like a mass term for a fermion with mass <math>g\phi_0</math>.  This is the mechanism by which spontaneous symmetry breaking gives mass to fermions.  The field <math>\tilde\phi</math> is known as the [[Higgs field]].
+
+==Majorana form==
+It's also possible to have a Yukawa interaction between a scalar and a [[Majorana field]]. In fact, the Yukawa interaction involving a scalar and a Dirac spinor can be thought of as a Yukawa interaction involving a scalar with two Majorana spinors of the same mass.  Broken out in terms of the two [[Chirality (physics)|chiral]] Majorana spinors, one has 
+
+:<math>S[\phi,\chi]=\int d^dx \left[\frac{1}{2}\partial^\mu\phi \partial_\mu \phi -V(\phi)+\chi^\dagger i\bar{\sigma}\cdot\partial\chi+\frac{i}{2}(m+g \phi)\chi^T \sigma^2 \chi-\frac{i}{2}(m+g \phi)^* \chi^\dagger \sigma^2 \chi^*\right]</math>
+
+where ''g'' is a complex [[coupling constant]] and m is a [[complex number]].
+
+==Feynman rules==
+The article [[Yukawa potential]] provides a simple example of the Feynman rules and a calculation of a [[scattering amplitude]] from a [[Feynman diagram]] involving the Yukawa interaction.
+
+==See also==
+* [[Standard Model]]
+
+==References==
+* [[Claude Itzykson]] and Jean-Bernard Zuber, ''Quantum Field Theory'', (1980) McGraw-Hill Book Co. New York ISBN 0-07-032071-3
+* [[James D. Bjorken]] and Sidney D. Drell, ''Relativistic Quantum Mechanics'' (1964) McGraw-Hill Book Co. New York  ISBN 0-07-232002-8
+* Michael E. Peskin and Daniel V. Schroeder, ''An Introduction to Quantum Field Theory'' (1995), Addison-Wesley Publishing Company, ISBN 0-201-50397-2
+
+[[Category:Quantum field theory]]
+[[Category:Standard Model]]
+[[Category:Electroweak theory]]
+[[Category:Nuclear physics]]
+
+[[he:תורת יוקאווה]]
+[[ko:%EC%9C%A0%EC%B9%B4%EC%99%80_%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9]]
+[[ru:Взаимодействие Юкавы]]

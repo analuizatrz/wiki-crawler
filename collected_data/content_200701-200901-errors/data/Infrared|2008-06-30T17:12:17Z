@@ -1,0 +1,323 @@
+{{otheruses}}
+[[Image:Ir girl.png|thumb|right|250px|Image of two people in mid-infrared ("thermal") light ([[false-color]])]]
+
+'''Infrared''' ('''IR''') radiation is  [[electromagnetic radiation]] whose [[wavelength]] is longer than that of [[visible light]], but shorter than that of [[terahertz radiation]] and [[microwaves]]. The name means "below [[red]]" (from the [[Latin]] ''infra'', "below"), red being the [[color]] of visible [[light]] with the longest wavelength. Infrared radiation has wavelengths between about 750&nbsp;[[Nanometre|nm]] and 1&nbsp;[[millimetre|mm]], spanning three [[order of magnitude|orders of magnitude]]. Humans at normal body temperature can radiate at a wavelength of 10 microns.<ref>{{cite web | author = Dr. S. C. Liew | url = http://www.crisp.nus.edu.sg/~research/tutorial/em.htm | title = Electromagnetic Waves | publisher = Centre for Remote Imaging, Sensing and Processing  | language = English | accessdate = 2006-10-27 }}</ref>
+
+Infrared imaging is used extensively for both military and civilian purposes. Military applications include [[target acquisition]], surveillance, [[night vision]], homing and tracking. Non-military uses include [[thermal efficiency analysis]], [[remote temperature sensing]], short-ranged [[wireless communication]], [[spectroscopy]], and [[weather forecasting]]. [[Infrared astronomy]] uses sensor-equipped [[telescopes]] to penetrate dusty regions of space, such as [[molecular cloud]]s; detect cool objects such as [[planet]]s, and to view highly [[Redshift|red-shifted]] objects from the early days of the [[universe]].<ref name="ir_astronomy">{{cite web | url = http://www.ipac.caltech.edu/Outreach/Edu/importance.html | title = IR Astronomy: Overview | publisher = NASA Infrared Astronomy and Processing Center | language = English | accessdate = 2006-10-30 }}</ref>
+
+At the [[atom]]ic level, infrared energy elicits [[vibration]]al modes in a [[molecule]] through a change in the [[dipole moment]], making it a useful frequency range for study of these energy states. [[Infrared spectroscopy]] examines absorption and transmission of [[photon]]s in the infrared energy range, based on their frequency and intensity.<ref>{{cite web | last = Reusch | first = William | year = 1999 | url = http://www.cem.msu.edu/~reusch/VirtualText/Spectrpy/InfraRed/infrared.htm | title = Infrared Spectroscopy | publisher = Michigan State University | accessdate = 2006-10-27 }}</ref>
+
+==Origins of the term==
+The name means below red (from the Latin ''infra'', "below"), red being the color of the longest wavelengths of visible light. IR light has a longer wavelength than that of red light. A longer wavelength means it has a lower [[frequency]] than red, hence below.
+
+==Different regions in the infrared==
+{{Refimprove|date=July 2006}}
+Objects generally emit infrared radiation across a spectrum of wavelengths, but only a specific region of the spectrum is of interest because sensors are usually designed only to collect radiation within a specific bandwidth. As a result, the infrared band is often subdivided into smaller sections.
+
+The [[International Commission on Illumination]] (CIE) recommended the division of optical radiation into the following three bands:<ref>{{cite web
+ | last=Henderson
+ | first=Roy
+ | url=http://info.tuwien.ac.at/iflt/safety/section1/1_1_1.htm
+ | title=Wavelength Considerations
+ | publisher=Instituts für Umform- und Hochleistungs
+ | accessdate=2007-10-18
+}}</ref>
+
+* IR-A: 700&nbsp;nm&ndash;1400&nbsp;nm
+* IR-B: 1400&nbsp;nm&ndash;3000&nbsp;nm
+* IR-C: 3000&nbsp;nm&ndash;1&nbsp;mm
+
+A commonly used sub-division scheme is:{{Fact|date=April 2007}}
+
+*Near-infrared ('''NIR''', IR-A ''[[DIN]]''): 0.75-1.4&nbsp;[[Micrometre|µm]] in wavelength, defined by the water absorption, and commonly used in [[fiber optic]] telecommunication because of low attenuation losses in the SiO<sub>2</sub> glass ([[silica]]) medium. Image intensifiers are sensitive to this area of the spectrum. Examples include night vision devices such as night vision goggles. 
+
+*Short-wavelength infrared ('''SWIR''', IR-B ''DIN''): 1.4-3&nbsp;µm, water absorption increases significantly at 1,450&nbsp;nm. The 1,530 to 1,560&nbsp;nm range is the dominant spectral region for long-distance telecommunications
+
+*Mid-wavelength infrared ('''MWIR''', IR-C ''DIN'') also called intermediate infrared (IIR): 3-8&nbsp;µm. In guided missile technology the 3-5&nbsp;µm portion of this band is the atmospheric window in which the homing heads of passive IR 'heat seeking' missiles are designed to work, homing on to the IR signature of the target aircraft, typically the jet engine exhaust plume.
+
+*Long-wavelength infrared ('''LWIR''', IR-C ''DIN''): 8&ndash;15&nbsp;µm. This is the "thermal imaging" region, in which sensors can obtain a completely passive picture of the outside world based on thermal emissions only and requiring no external light or thermal source such as the sun, moon or infrared illuminator. Forward-looking infrared ([[FLIR]]) systems use this area of the spectrum. Sometimes also called the "far infrared."
+
+*Far infrared ('''FIR'''): 15-1,000&nbsp;µm (see also [[far infrared laser]]) 
+
+NIR and SWIR is sometimes called ''reflected infrared'' while MWIR and LWIR is sometimes referred to as ''thermal infrared''. Due to the nature of the blackbody radiation curves, typical 'hot' objects, such as exhaust pipes, often appear brighter in the MW compared to the same object viewed in the LW.
+
+Astronomers typically divide the infrared spectrum as follows:<ref>{{cite web
+  | author=IPAC Staff
+  | url = http://www.ipac.caltech.edu/Outreach/Edu/Regions/irregions.html
+  | title = Near, Mid and Far-Infrared
+  | publisher = NASA ipac
+  | accessdate = 2007-04-04
+}}</ref>
+
+*'''near''': (0.7-1) to 5 µm
+*'''mid''': 5 to (25-40) µm
+*'''long''': (25-40) to (200-350) µm
+
+These divisions are not precise and can vary depending on the publication. The three regions are used for observation of different temperature ranges, and hence different environments in space.
+
+[[Image:Atmosfaerisk spredning.gif|right|thumb|250px|Plot of atmospheric transmittance in part of the infrared region.]]
+A third scheme divides up the band based on the response of various detectors:<ref name="Miller">Miller, ''Principles of Infrared Technology'' (Van Nostrand Reinhold, 1992), and Miller and Friedman, ''Photonic Rules of Thumb'', 2004.</ref>
+
+*Near infrared ('''NIR'''): from 0.7 to 1.0 [[micrometers]] (from the approximate end of the response of the human eye to that of silicon)
+*Short-wave infrared ('''SWIR'''): 1.0 to 3 micrometers (from the cut off of silicon to that of the MWIR atmospheric window. InGaAs covers to about 1.8 micrometers; the less sensitive lead salts cover this region
+*Mid-wave infrared ('''MWIR'''): 3 to 5 micrometers (defined by the atmospheric window and covered by [[Indium antimonide]] [InSb] and [[HgCdTe]] and partially by [[lead selenide]] [PbSe]) 
+*Long-wave infrared ('''LWIR'''): 8 to 12, or 7 to 14 micrometers: the atmospheric window (Covered by HgCdTe and [[microbolometer]]s)
+*Very-long wave infrared ('''VLWIR'''): 12 to about 30 micrometers, covered by doped silicon
+
+These divisions are justified by the different human response to this radiation: near infrared is the region closest in wavelength to the radiation detectable by the human eye, mid and far infrared are progressively further from the [[visible spectrum|visible regime]]. Other definitions follow different physical mechanisms (emission peaks, vs. bands, water absorption) and the newest follow technical reasons (The common [[silicon]] detectors are sensitive to about 1,050&nbsp;nm, while [[indium gallium arsenide|InGaAs]]' sensitivity starts around 950&nbsp;nm and ends between 1,700 and 2,600&nbsp;nm, depending on the specific configuration). Unfortunately, international standards for these specifications are not currently available.
+
+The boundary between visible and infrared light is not precisely defined. The human [[eye]] is markedly less sensitive to light above 700 nm wavelength, so shorter frequencies make insignificant contributions to scenes illuminated by common light sources. But particularly intense light (e.g., from [[laser]]s, or from bright daylight with the visible light removed by colored gels[http://amasci.com/amateur/irgoggl.html]) can be detected up to approximately 780 nm, and will be perceived as red light. The onset of infrared is defined (according to different standards) at various values typically between 700 nm and 800 nm.
+
+===Telecommunication bands in the infrared===
+In [[optical communications]], the part of the infrared spectrum that is used is divided into several bands based on availability of light sources, transmitting/absorbing materials (fibers) and detectors:<ref>{{cite web | last = Ramaswami | first = Rajiv | date = May, 2002 | url = http://ieeexplore.ieee.org/iel5/35/21724/01006983.pdf | title = Optical Fiber Communication: From Transmission to Networking | publisher = IEEE | language = English | accessdate = 2006-10-18 }}</ref>
+
+{| class="wikitable" style="Margin-left: auto; margin-right: auto;"
+|-
+!Band
+!Descriptor
+!Wavelength range
+|-
+|O band
+|Original
+|1260&ndash;1360&nbsp;nm
+|-
+|E band
+|Extended
+|1360&ndash;1460&nbsp;nm
+|-
+|S band
+|Short wavelength
+|1460&ndash;1530&nbsp;nm
+|-
+|C band
+|Conventional
+|1530&ndash;1565&nbsp;nm
+|-
+|L band
+|Long wavelength
+|1565&ndash;1625&nbsp;nm
+|-
+|U band
+|Ultralong wavelength
+|1625&ndash;1675&nbsp;nm
+|}
+
+The C-band is the dominant band for long-distance [[telecommunication]] networks. The S and L bands are based on less well established technology, and are not as widely deployed.
+
+===Heat===
+{{main|Thermal radiation}}
+Infrared radiation is popularly known as "heat"<!--Do not wikilink incorrect use of term to correct meaning.--> or sometimes "heat radiation", since many people attribute all radiant heating to infrared light and/or to all infrared radiation to being a result of heating. This is a widespread misconception, since light and electromagnetic waves of any frequency will heat surfaces that absorb them. Infrared light from the Sun only accounts for 49%<ref>{{cite web | title = Introduction to Solar Energy | work = Passive Solar Heating & Cooling Manual  | publisher = Rodale Press, Inc. | date = 1980 | url = http://www.azsolarcenter.com/design/documents/passive.DOC | format = [[DOC]] | accessdate = 2007-08-12 }}</ref> of the heating of the Earth, with the rest being caused by visible light that is absorbed then re-radiated at longer wavelengths. Visible light or [[ultraviolet]]-emitting [[laser]]s can char paper and incandescently hot objects emit visible radiation. It is true that objects at room [[temperature]] will [[spontaneous emission|emit]] [[Thermal radiation|radiation]] mostly concentrated in the 8 to 12 micrometer band, but this is not distinct from the emission of visible light by incandescent objects and ultraviolet by even hotter objects (see [[black body]] and [[Wien's displacement law]]).<ref>{{cite web | last = McCreary | first = Jeremy |date=October 30, 2004 | url = http://dpfwiw.com/ir.htm | title = Infrared (IR) basics for digital photographers-capturing the unseen (Sidebar: Black Body Radiation) | publisher = Digital Photography For What It's Worth | accessdate = 2006-11-07 }}</ref>
+
+[[Heat]] is energy in transient form that flows due to temperature difference. Unlike heat transmitted by [[thermal conduction]] or [[thermal convection]], radiation can propagate through a [[vacuum]].
+
+The concept of [[emissivity]] is important in understanding the infrared emissions of objects. This is a property of a surface which describes how its thermal emissions deviate from the ideal of a [[black body]]. To further explain, two objects at the same physical temperature will not 'appear' the same temperature in an infrared image if they have differing emissivities.
+
+== Applications ==
+{{Refimprovesect|date=August 2007}}
+===Infrared Filters===
+{{main|Night vision}}
+Infrared (IR) filters can be made from many different materials. One type is made of [[polysulphone]] plastic that blocks over 99% of the visible light spectrum from “white” light sources such as incandescent filament bulbs. Infrared filters allow a maximum of infrared output while maintaining extreme covertness. Currently in use around the world, infrared filters are used in Military, Law Enforcement, Industrial and Commercial applications. The unique makeup of the plastic allows for maximum durability and heat resistance. IR filters provide a more cost effective and time efficient solution over the standard bulb replacement alternative. All generations of night vision devices are greatly enhanced with the use of IR filters.
+
+===Night vision===
+{{main|Night vision}}
+[[Image:Active-Infrared-Night-Vision.jpg|thumb|Active-infrared night vision. Despite a dark back-lit scene, active-infrared night vision delivers identifying details, as seen on the display monitor.]] Infrared is used in night vision equipment when there is insufficient [[visible light]] to see.<ref name="hownightvisionworks">{{cite web | title = How Night Vision Works | publisher = American Technologies Network Corporation | url = http://www.atncorp.com/HowNightVisionWorks | accessdate = 2007-08-12 }}</ref> [[Night vision devices]] operate through a process involving the conversion of ambient light photons into electrons which are then amplified by a chemical and electrical process and then converted back into visible light.<ref name="hownightvisionworks" />  Infrared light sources can be used to augment the available ambient light for conversion by night vision devices, increasing in-the-dark visibility without actually using a visible light source.<ref name="hownightvisionworks" />
+
+The use of infrared light and night vision devices should not be confused with [[thermal imaging]] which creates images based on differences in surface temperature by detecting infrared radiation ([[heat]]) that emanates from objects and their surrounding environment<ref>{{cite web  | last = Bryant  | first = Lynn  | title = How does thermal imaging work?... | date = 2007-06-11  | url = http://www.video-surveillance-guide.com/how-does-thermal-imaging-work.htm  | accessdate = 2007-08-12 }}</ref>
+
+===Thermography===
+{{main|Thermography}}
+[[Image:Infrared dog.jpg|thumb|left|250px|A thermographic image of a dog]]
+Infrared radiation can be used to remotely determine the temperature of objects (if the emissivity is known). This is termed [[thermography]], or in the case of very hot objects in the NIR or visible it is termed [[pyrometry]]. Thermography (thermal imaging) is mainly used in military and industrial applications but the technology is reaching the public market in the form of infrared cameras on cars due to the massively reduced production costs.
+
+[[Thermographic cameras]] detect radiation in the infrared range of the electromagnetic spectrum (roughly 900–14,000 nanometers or 0.9–14 µm) and produce images of that radiation. Since infrared radiation is emitted by all objects based on their temperatures, according to the [[black body]] radiation law, thermography makes it possible to "see" one's environment with or without visible illumination. The amount of radiation emitted by an object increases with temperature, therefore thermography allows one to see variations in temperature (hence the name).
+
+===Other imaging===
+[[Image:Blue infrared light.jpg|thumb|300px|right|Infrared light from the [[LED]] of a [[remote control]] as seen by a digital camera.]] In [[infrared photography]], [[infrared filter]]s are used to capture the near-infrared spectrum. [[Digital camera]]s often use infrared [[blocker]]s. Cheaper [[digital camera]]s and [[camera phones]] have less effective filters and can "see" intense near-infrared, appearing as a bright purple-white color. This is especially pronounced when taking pictures of subjects near IR-bright areas (such as near a lamp), where the resulting infrared interference can wash out the image. There is also a technique called '[[Terahertz radiation|T-ray]]' imaging, which is imaging using far infrared or [[terahertz]] radiation. Lack of bright sources makes terahertz photography technically more challenging than most other infrared imaging techniques. Recently T-ray imaging has been of considerable interest due to a number of new developments such as [[terahertz time-domain spectroscopy]].
+
+===Tracking===
+{{main|Infrared homing}}
+Infrared tracking, also known as infrared homing, refers to a [[Missile guidance#Passive homing|passive missile guidance system]] which uses the [[light emission|emission]] from a target of [[electromagnetic radiation]] in the infrared part of the [[Electromagnetic spectrum|spectrum]] to track it. Missiles which use infrared seeking are often referred to as "heat-seekers", since infrared (IR) is just below the visible spectrum of light in frequency and is radiated strongly by hot bodies. Many objects such as people, vehicle engines and aircraft generate and retain heat, and as such, are especially visible in the infra-red wavelengths of light compared to objects in the background.
+
+===Heating===
+{{main|Infrared heating}}
+Infrared radiation can be used as a deliberate heating source. For example it is used in [[infrared sauna]]s to heat the occupants, and also to remove ice from the wings of [[aircraft]] (de-icing). FIR is also gaining popularity as a safe method of natural health care & physiotherapy. Far infrared thermomedic therapy garments use thermal thechnology to provide compressive support and healing warmth to assist symptom control for arthritis, injury & pain. Infrared can be used in cooking and heating food as it predominantly heats the opaque, absorbent objects, rather than the air around them.
+
+Infrared heating is also becoming more popular in industrial manufacturing processes, e.g. curing of coatings, forming of plastics, annealing, plastic welding, print drying. In these applications, infrared heaters replace convection ovens and contact heating. Efficiency is achieved by matching the wavelength of the infrared heater to the absorption characteristics of the material.
+
+===Communications===
+IR data transmission is also employed in short-range communication among computer peripherals and [[personal digital assistant]]s. These devices usually conform to standards published by [[Infrared Data Association|IrDA]], the Infrared Data Association. Remote controls and IrDA devices use infrared [[light-emitting diode]]s (LEDs) to emit infrared radiation which is focused by a plastic [[Lens (optics)|lens]] into a narrow beam. The beam is [[modulation|modulated]], i.e. switched on and off, to encode the [[data]]. The receiver uses a [[silicon]] [[photodiode]] to convert the infrared radiation to an electric [[Current (electricity)|current]]. It responds only to the rapidly pulsing signal created by the transmitter, and filters out slowly changing infrared radiation from ambient light. Infrared communications are useful for indoor use in areas of high population density. IR does not penetrate walls and so does not interfere with other devices in adjoining rooms. Infrared is the most common way for [[remote control]]s to command appliances. 
+
+[[Free space optical communication]] using infrared [[laser]]s can be a relatively inexpensive way to install a communications link in an urban area operating at up to 4 gigabit/s, compared to the cost of burying fiber optic cable.
+
+Infrared lasers are used to provide the light for [[optical fiber]] communications systems. Infrared light with a wavelength around 1,330 nm (least [[Dispersion (optics)|dispersion]]) or 1,550 nm (best transmission) are the best choices for standard [[silica]] fibers.
+
+IR data transmission of encoded audio versions of printed signs is being researched as an aid for visually impaired people through the [[RIAS (Remote Infrared Audible Signage)]] project.
+
+===Spectroscopy===
+[[Infrared spectroscopy|Infrared vibrational spectroscopy]] (see also [[near infrared spectroscopy]]) is a technique which can be used to identify molecules by analysis of their constituent bonds. Each chemical bond in a molecule vibrates at a frequency which is characteristic of that bond. A group of atoms in a molecule (e.g. CH<sub>2</sub>) may have multiple modes of oscillation caused by the stretching and bending motions of the group as a whole. If an oscillation leads to a change in [[dipole]] in the molecule, then it will absorb a [[photon]] which has the same frequency. The vibrational frequencies of most molecules correspond to the frequencies of infrared light. Typically, the technique is used to study [[organic compound]]s using light radiation from 4000-400 cm<sup>-1</sup>, the mid-infrared. A spectrum of all the frequencies of absorption in a sample is recorded. This can be used to gain information about the sample composition in terms of chemical groups present and also its purity (for example a wet sample will show a broad O-H absorption around 3200cm<sup>-1</sup>).
+
+===Meteorology===
+[[Image:US IR satpic.JPG|thumb|left| IR Satellite picture taken 1315 Z on 15th October 2006. A [[weather front|frontal]] system can be seen in the [[Gulf of Mexico]] with embedded Cumulonimbus cloud. Shallower Cumulus and Stratocumulus can be seen off the [[Eastern Seaboard]].]]
+[[Weather satellite]]s equipped with scanning radiometers produce thermal or infrared images which can then enable a trained analyst to determine cloud heights and types, to calculate land and surface water temperatures, and to locate ocean surface features. The scanning is typically in the range 10.3-12.5 µm (IR4 and IR5 channels). 
+
+High, cold ice cloud such as [[Cirrus]] or [[Cumulonimbus]] show up bright white, lower warmer cloud such as [[Stratus]] or [[Stratocumulus]] show up as grey with intermediate clouds shaded accordingly. Hot land surfaces will show up as dark grey or black. One disadvantage of infrared imagery is that low cloud such as stratus or [[fog]] can be a similar temperature to the surrounding land or sea surface and does not show up. However, using the difference in brightness of the IR4 channel (10.3-11.5 µm) and the near-infrared channel (1.58-1.64 µm), low cloud can be distinguished, producing a ''fog'' satellite picture. The main advantage of infrared is that images can be produced at night, allowing a continuous sequence of weather to be studied. 
+
+These infrared pictures can depict ocean eddies or vortices and map currents such as the Gulf Stream which are valuable to the shipping industry. Fishermen and farmers are interested in knowing land and water temperatures to protect their crops against frost or increase their catch from the sea. Even [[El Niño]] phenomena can be spotted. Using color-digitized techniques, the gray shaded thermal images can be converted to color for easier identification of desired information.
+
+===Climatology===
+In the field of climatology, atmospheric infrared radiation is monitored to detect trends in the energy exchange between the earth and the atmosphere. These trends provide information on long term changes in the earth's climate. It is one of the primary parameters studied in research into [[global warming]] together with [[solar radiation]]. 
+
+A [[pyrgeometer]] is utilized in this field of research to perform continuous outdoor measurements. This is a broadband infrared radiometer with sensitivity for infrared radiation between approximately 4.5 µm and 50 µm.
+
+===Astronomy===
+[[Image:Spitzer- Telescopio.jpg|right|200px|thumb|The [[Spitzer Space Telescope]] is a dedicated infrared space observatory currently in orbit around the Sun. (Note the black side to the telescope, to maximize infrared radiation.) ''[[NASA]] image.'']]
+{{main|infrared astronomy|far infrared astronomy}}
+Astronomers observe objects in the infrared portion of the electromagnetic spectrum using optical components, including mirrors, lenses and solid state digital detectors. For this reason it is classified as part of [[optical astronomy]]. To form an image, the components of an infrared telescope need to be carefully shielded from heat sources, and the detectors are chilled using liquid [[helium]].
+ 
+The sensitivity of Earth-based infrared telescopes is significantly limited by water vapor in the atmosphere, which absorbs a portion of the infrared radiation arriving from space outside of selected [[atmospheric window]]s. This limitation can be partially alleviated by placing the telescope observatory at a high altitude, or by carrying the telescope aloft with a balloon or an aircraft. Space telescopes do not suffer from this handicap, and so outer space is considered the ideal location for infrared astronomy.
+
+The infrared portion of the spectrum has several useful benefits for astronomers. Cold, dark [[molecular cloud]]s of gas and dust in our galaxy will glow with radiated heat as they are irradiated by imbedded stars. Infrared can also be used to detect [[protostar]]s before they begin to emit visible light. Stars emit a smaller portion of their energy in the infrared spectrum, so nearby cool objects such as [[planet]]s can be more readily detected. (In the visible light spectrum, the glare from the star will drown out the reflected light from a planet.)
+
+Infrared light is also useful for observing the cores of [[active galaxy|active galaxies]] which are often cloaked in gas and dust. Distant galaxies with a high [[redshift]] will have the peak portion of their spectrum shifted toward longer wavelengths, so they are more readily observed in the infrared.<ref name="ir_astronomy" />
+
+===Art history===
+[[Image:Jan van Eyck 001.jpg|thumb|right|200px|''[[The Arnolfini Portrait]]'' by [[Jan van Eyck]], [[National Gallery, London]]]]
+Infra-red (as art historians call them) reflectograms are taken of paintings to reveal underlying layers, in particular the [[underdrawing]] or outline drawn by the artist as a guide. This often uses [[carbon black]] which shows up well in reflectograms, so long as it has not also been used in the ground underlying the whole painting. Art historians are looking to see if the visible layers of paint differ from the under-drawing or layers in between - such alterations are called [[pentimento|pentimenti]] when made by the original artist. This is very useful information in deciding whether a painting is the prime version by the original artist or a copy, and whether it has been altered by over-enthusiastic restoration work. Generally the more pentimenti, the more likely a painting is to be the prime version. It also gives useful insights into working practices. [http://www.clevelandart.org/exhibcef/ConsExhib/html/grien.html]  
+
+Among many other changes in the [[Arnolfini Portrait]] of 1434 (right), his face was higher by about the height of his eye, hers was higher, and her eyes looked more to the front. Each of his feet was underdrawn in one position, painted in another, and then overpainted in a third. These alterations are seen in infra-red reflectograms.<ref>National Gallery Catalogues: The Fifteenth Century Netherlandish Paintings by Lorne Campbell, 1998, ISBN 185709171</ref>
+
+Similar uses of infrared are made by historians on various types of objects, especially very old written documents such as the [[Dead Sea Scrolls]], the Roman works in the [[Villa of the Papyri]], and the Silk Road texts found in the [[Mogao Caves|Dunhuang Caves]].<ref>[http://idp.bl.uk/pages/technical_resources.a4d International Dunhuang Project An Introduction to digital infrared photography and its application within IDP -paper pdf 6.4 MB]</ref> Carbon black used in ink can show up extremely well.
+
+===Biological systems===
+[[Image:wiki snake eats mouse.jpg|thumb|right|Thermographic image of a snake eating a mouse]]
+[[Image:wiki bat.jpg|thumb|right|Thermographic image of a [[fruit bat]].]]
+The [[Crotalinae|pit viper]] is known to have two infrared sensory pits on its head. There is controversy over the exact thermal sensitivity of this biological infrared detection system.<ref> {{cite journal | title = Thermal Modeling of Snake Infrared Reception: Evidence for Limited Detection Range | author = B. S. Jones; W. F. Lynn; M. O. Stone | journal = Journal of Theoretical Biology | volume = 209 | issue = 2 | pages = 201–211 | year = 2001 | doi = 10.1006/jtbi.2000.2256}}</ref><ref>{{cite journal | title = Biological Thermal Detection: Micromechanical and Microthermal Properties of Biological Infrared Receptors | author = V. Gorbunov; N. Fuchigami; M. Stone; M. Grace; V. V. Tsukruk | journal = Biomacromolecules | volume = 3 | issue = 1 | pages = 106–115 | year = 2002 | doi = 10.1021/bm015591f}}</ref>
+
+Other organisms that actively employ thermo-receptors are [[rattlesnake]]s (Crotalinae subfamily)  and [[boa]]s (Boidae family), the [[Common Vampire Bat]] (''Desmodus rotundus''), a variety of [[jewel beetle]]s (''[[Melanophila acuminata]]''),<ref>{{cite journal | last =Evans | first =W.G. | title =Infrared receptors in ''Melanophila acuminata'' De Geer | journal =Nature | volume =202 | pages =211 | date =1966 | doi =10.1038/202211a0}}</ref> darkly pigmented butterflies (''[[Pachliopta aristolochiae]]'' and ''[[Troides rhadamantus plateni]]''), and possibly blood-sucking bugs (''[[Triatoma infestans]]'').<ref>{{cite journal | author=A.L. Campbell, A.L. Naik, L. Sowards, M.O. Stone | title=Biological infrared imaging and sensing | journal=Micron | year=2002 | volume=33 | issue=2 | pages=211–225 | doi=10.1016/S0968-4328(01)00010-5 }}</ref>
+
+===[[Photobiomodulation]]===
+Near infrared light is currently used for treatment of chemotherapy induced oral ulceration as well as wound healing. There is some work relating to anti herpes virus treatment.<ref>Hargate G. A randomised double-blind study comparing the effect of 1072-nm light against placebo for the treatment of herpes labialis. Clin Exp Dermatol. 2006 Sep;31(5):638-41.[http://www.ncbi.nlm.nih.gov/pubmed/16780494 PMID 16780494] </ref> Research projects include work on central nervous system healing effects via cytochrome c oxidase upregulation and other possible mechanisms.<ref>Desmet KD, Paz DA, Corry JJ, Eells JT, Wong-Riley MT, Henry MM, Buchmann EV, Connelly MP, Dovi JV, Liang HL, Henshel DS, Yeager RL, Millsap DS, Lim J, Gould LJ, Das R, Jett M, Hodgson BD, Margolis D, Whelan HT. Clinical and experimental applications of NIR-LED photobiomodulation. Photomed Laser Surg. 2006 Apr;24(2):121-8. [http://www.ncbi.nlm.nih.gov/pubmed/16706690 PMID 16706690]</ref>
+==The Earth as an infrared emitter==
+The [[Earth]]'s surface and the clouds [[absorption (electromagnetic radiation)|absorb]] visible and invisible radiation from the [[sun]] and re-emit much of the energy as infrared back to the [[Earth's atmosphere|atmosphere]]. Certain substances in the atmosphere, chiefly cloud droplets and [[water]] vapor, but also [[carbon dioxide]], [[methane]], [[nitrous oxide]], [[sulfur hexafluoride]], and [[chlorofluorocarbons]],<ref>{{cite web | title = Global Sources of Greenhouse Gases | work = Emissions of Greenhouse Gases in the United States 2000 | publisher = Energy Information Administration
+  | date = 2002-05-02 | url = http://www.eia.doe.gov/oiaf/1605/gg01rpt/emission.html | accessdate = 2007-08-13 }}</ref> absorb this infrared, and re-radiate it in all directions including back to Earth. Thus the [[greenhouse effect]] keeps the atmosphere and surface much warmer than if the infrared absorbers were absent from the atmosphere.<ref>{{cite web  | title = Clouds & Radiation
+  | url = http://earthobservatory.nasa.gov/Library/Clouds/  | accessdate = 2007-08-12 }}</ref>
+
+==History of infrared science==
+{{Refimprove|date=July 2006}}
+{{Cleanup-section|date=September 2006}}
+The discovery of infrared radiation is ascribed to [[William Herschel]], the [[astronomer]], in the early 19th century. Herschel published his results in 1800 before the [[Royal Society of London]]. Herschel used a [[Triangular prism (optics)|prism]] to [[refract]] light from the [[sun]] and detected the infrared, beyond the [[red]] part of the spectrum, through an increase in the temperature recorded on a [[thermometer]]. He was surprised at the result and called them "Calorific Rays". The term 'Infrared' did not appear until late in the 19th century.<ref>[http://coolcosmos.ipac.caltech.edu/cosmic_classroom/classroom_activities/herschel_bio.html Herschel Discovers Infrared Light<!-- Bot generated title -->]</ref>
+
+Other important dates include:<ref name="Miller"/>
+
+*1835: [[Macedonio Melloni]] makes the first [[thermopile]] IR detector;
+*1860: [[Gustav Kirchhoff]] formulates the [[Kirchhoff's law of thermal radiation|blackbody theorem]] <math>E=J(T,n)</math>;
+*1873: [[Willoughby Smith]] discovers the photoconductivity of [[selenium]];
+*1879: [[Stefan-Boltzmann law]] formulated empirically  <math>\omega_T^4</math>
+*1880s & 1890s:  [[John Strutt, 3rd Baron Rayleigh|Lord Rayleigh]] and [[Wilhelm Wien]] both solve part of the blackbody equation, but both solutions are approximations that "blow up" out of their useful ranges. This problem was called the "UV Catastrophe and Infrared Catastrophe". 
+*1901: [[Max Planck]] published the [[Planck's law|blackbody equation]] and theorem. He solved the problem by quantizing the allowable energy transitions.  
+*Early 1900s: [[Albert Einstein]] develops the theory of the [[photoelectric effect]], determining the [[photon]]. Also [[William Coblentz]] in [[spectroscopy]] and [[radiometry]].
+*1917: [[Theodore Case]] develops [[thallous sulfide]] detector; British develop the first [[infra-red search and track]] (IRST) in World War I and detect aircraft at a range of one mile;
+*1935: Lead salts-early missile guidance in [[World War II]];
+*1938: [[Teau Ta]]-predicted that the pyroelectric effect could be used to detect infrared radiation. 
+*1952: [[H. Welker]] discovers InSb;
+*1950s: [[Paul Kruse (engineer)|Paul Kruse]] (at Honeywell) and Texas Instruments form infrared images before 1955;
+*1950s and 1960s: Nomenclature and radiometric units defined by [[Fred Nicodemenus]], [[G.J. Zissis]] and [[R. Clark]], [[Jones]] defines ''D''*;
+*1958: [[W.D. Lawson]] ([[Royal Radar Establishment]] in Malvern) discovers IR detection properties of HgCdTe;
+*1958: [[Falcon (rocket)|Falcon]]<!-- a disambiguation page--> & [[AIM-9 Sidewinder|Sidewinder]] missiles developed using infrared and the first textbook on infrared sensors appears by Paul Kruse, et al.
+*1961: [[J. Cooper]] demonstrated pyroelectric detection;
+*1962: Kruse and [[? Rodat]] advance HgCdTe; Signal Element and Linear Arrays available;
+*1965: First IR Handbook; first commercial imagers ([[Barnes, Agema]] {now part of [[FLIR Systems]] Inc.}; [[Richard Hudson (physicist)|Richard Hudson]]'s landmark text; F4 TRAM FLIR by [[Hughes Aircraft Company|Hughes]]; [[phenomenology]] pioneered by [[Fred Simmons]] and [[A.T. Stair]]; U.S. Army's night vision lab formed (now [[Night Vision and Electronic Sensors Directorate]] (NVESD), and [[Rachets]] develops detection, recognition and identification modeling there;
+*1970: [[Willard Boyle]] & [[George E. Smith]] propose CCD at [[Bell Labs]] for [[picture phone]];
+*1972: [[Common module program]] started by NVESD;
+*1978: [[Pommernig]] & [[? Francis]] fabricate [[IRCCD]]s; [[US Common Module]] leads to a proliferation of IR Sensors in the U.S. military; commercial IR companies formed ([[Inframetrics]] in Boston, MA and [[FLIR Systems]] Inc. in Portland OR); Infrared imaging astronomy comes of age, observatories planned, [[NASA Infrared Telescope Facility|IRTF]] on Mauna Kea opened; 32 by 32 and 64 by 64 arrays are produced in [[InSb]], [[HgCdTe]] and other materials.
+
+==See also==
+{{wiktionary|infrared}}
+{{commons|Category:Infrared}}
+<div style="-moz-column-count:2; column-count:2;">
+*[[Atmospheric window]]
+*[[Black body radiation]]
+*[[Infrared astronomy]]
+*[[Infrared camera]]
+*[[Infrared filter]]
+*[[Infrared homing]]
+*[[Infrared photography]]
+*[[Infrared signature]]
+*[[Infrared spectroscopy]]
+*[[Infrared thermometer]]
+*[[Night vision]]
+*[[pyrgeometer]]
+*[[Terahertz radiation]]
+*[[Thermographic camera]]
+*[[Thermography]]
+*[[RIAS (Remote Infrared Audible Signage)]]
+</div>
+
+==References==
+<div class="references-small";>
+<references/>
+</div>
+==External links==
+===Journals===
+*[http://www.sciencedirect.com/science/journal/13504495 Infrared Physics and Technology] (Elsevier) (last access June 2005).
+
+===Web sites===
+*[http://scienceofspectroscopy.info/ Infrared Spectroscopy NASA ''Open Spectrum'' wiki site]
+*[http://imagers.gsfc.nasa.gov/ems/infrared.html Infrared Waves Detailed explanation of infrared light.]
+*[https://ewhdbks.mugu.navy.mil/ U.S. Navy - Electronic Warfare and Radar Systems Engineering Handbook] Source of transmittance diagram and further information on electro-optics.
+*[http://www.omega.com/literature/transactions/volume1/historical1.html Infrared a Historical Perspective]
+
+{{EMSpectrum}}
+
+[[Category:Electromagnetic spectrum]]
+
+[[ar:الأشعة تحت الحمراء]]
+[[bg:Инфрачервено излъчване]]
+[[bn:অবলোহিত বিকিরণ]]
+[[bs:Infracrveno zračenje]]
+[[ca:Infraroig]]
+[[cs:Infračervené záření]]
+[[da:Infrarød stråling]]
+[[de:Infrarotstrahlung]]
+[[eo:Infraruĝa radiado]]
+[[es:Radiación infrarroja]]
+[[et:Infrapunakiirgus]]
+[[eu:Infragorri]]
+[[fa:فروسرخ]]
+[[fi:Infrapunasäteily]]
+[[fr:Infrarouge]]
+[[gl:Radiación infravermella]]
+[[he:תת-אדום]]
+[[hi:अधोरक्त]]
+[[hr:Infracrveno zračenje]]
+[[hu:Infravörös sugárzás]]
+[[id:Inframerah]]
+[[io:Infrereda]]
+[[is:Innrautt ljós]]
+[[it:Radiazione infrarossa]]
+[[ja:赤外線]]
+[[ko:적외선]]
+[[lt:Infraraudonieji spinduliai]]
+[[lv:Infrasarkanais starojums]]
+[[ms:Inframerah]]
+[[nl:Infrarood]]
+[[nn:Infraraud stråling]]
+[[no:Infrarød stråling]]
+[[pl:Podczerwień]]
+[[pt:Radiação infravermelha]]
+[[ro:Infraroşu]]
+[[ru:Инфракрасное излучение]]
+[[sh:Infracrveno zračenje]]
+[[simple:Infrared]]
+[[sk:Infračervené žiarenie]]
+[[sl:Infrardeče valovanje]]
+[[sq:Rrezet infra të kuqe]]
+[[sr:Инфрацрвена светлост]]
+[[sv:Infraröd strålning]]
+[[ta:அகச்சிவப்புக் கதிர்]]
+[[th:รังสีอินฟราเรด]]
+[[tr:Kızılötesi bağlantı]]
+[[uk:Інфрачервоне випромінювання]]
+[[vi:Hồng ngoại]]
+[[zh:红外线]]
+[[zh-min-nan:Âng-goā-soàⁿ]]

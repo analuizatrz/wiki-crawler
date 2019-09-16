@@ -1,0 +1,29 @@
+The '''Pribnow box''' (also known as the '''Pribnow-Schaller box''') is the sequence ''TATAAT'' of six [[nucleotide]]s ([[thymine]]-[[adenine]]-[[thymine]]-etc.) that is an essential part of a [[promoter]] site on [[DNA]] for [[Transcription (genetics)|transcription]] to occur in [[prokaryote]]s.<ref>David Pribnow (1975).  Nucleotide sequence of an RNA Polymerase Binding Site at an Early T7 Promoter.  Proc. Natl. Acad. Sci. USA 72:784-788.</ref><ref>Heinz Schaller, Christopher Gray, and Karin Herrman (1975).  Nucleotide Sequence of an RNA Polymerase Binding Site from the DNA of Bacteriophage fd.  Proc. Natl. Acad. Sci. USA 72:737-741.</ref>  It is an idealized or [[consensus sequence]] - that is, it shows the most frequently occcuring base at each position in a large number of promoters analyzed; individual promoters often vary from the consensus at one or more positions.  It is also commonly called the -10 sequence, because it is centered roughly 10 base pairs upstream from the site of initiation of transcription.
+
+The '''Pribnow box''' has a function similar to the [[TATA box]] that occurs in promoters in [[eukaryote]]s:  it is recognized and bound by a subunit of RNA polymerase during initiation of transcription. This region of the DNA is also the first place where base pairs separate to allow access to one strand as the template for transcription.  The AT-richness is important to allow this separation, since [[adenine]] and [[thymine]] pair together with only two [[hydrogen bonds]] (as opposed to three as with [[guanine]] and [[cytosine]]), they are easier to break apart.
+
+==Probability of occurrence of each nucleotide<ref>Calvin B. Harley and Robert P. Reynolds (1987).  Analysis of ''E. coli'' promoter sequences.  Nucleic Acids Res. 15(5):2343-61.</ref>==
+{| border="1" cellpadding="4"
+|T||A||T||A||A||T
+|-
+|82%||89%||52%||59%||49%||89%
+|}
+
+The '''Pribnow box''' or '''Pribnow-Schaller box''' is named after David Pribnow and Heinz Schaller.
+
+==See also==
+* [[TATA box]]
+
+==References==
+{{reflist}}
+
+{{Transcription}}
+
+[[Category:Gene expression]]
+
+{{genetics-stub}}
+
+[[de:Pribnow-Box]]
+[[ja:プリブノーボックス]]
+[[pl:Kaseta Pribnowa]]
+[[zh:普里布諾盒]]

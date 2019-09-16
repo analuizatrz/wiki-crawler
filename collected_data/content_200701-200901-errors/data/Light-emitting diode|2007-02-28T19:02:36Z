@@ -1,0 +1,389 @@
+{{redirect|LED}}
+{{dablink|"Led" is also the past tense of the verb "to [[Lead (disambiguation)|lead]]"}}
+[[Image:RBG-LED.jpg|thumb|right|300px|Blue, green and red LEDs.]]
+A '''light-emitting diode''' ('''LED''') is a [[semiconductor]] device that emits [[coherence (physics)|incoherent]] narrow-spectrum [[light]] when electrically [[Voltage bias|biased]] in the forward direction. This effect is a form of [[electroluminescence]]. LEDs are small extended sources with extra optics added to the chip, which emit a complex [[intensity]] spatial distribution [http://www.opticsinfobase.org/abstract.cfm?URI=IODC-2006-TuD6]. The [[color]] of the emitted light depends on the composition and condition of the semiconducting material used, and can be [[infrared]], [[visible spectrum|visible]] or near-[[ultraviolet]].
+[[Rubin Braunstein]] of the [[Radio Corporation of America]] first reported on infrared emission from [[gallium arsenide|gallium arsenide (GaAs)]] and other semiconductor alloys in 1955. Experimenters at [[Texas Instruments]], Bob Biard [http://invention.smithsonian.org/centerpieces/quartz/inventors/biard.html] and Gary Pittman, found in 1961 that gallium arsenide gave off infrared (invisible) light when electric current was applied. Biard and Pittman were able to establish the priority of their work and received the patent for the infrared light-emitting [[diode]]. [[Nick Holonyak|Nick Holonyak Jr.]] of the [[General Electric Company]] developed the first practical visible-spectrum LED in 1962.[http://web.mit.edu/invent/a-winners/a-holonyak.html]
+
+== LED technology ==
+=== Physical function ===
+Like a normal diode, it consists of a chip of semiconducting material impregnated, or ''[[Doping (semiconductor)|doped]]'', with impurities to create a ''[[p-n junction]]''. As in other diodes, current flows easily from the p-side, or [[anode]], to the n-side, or [[cathode]], but not in the reverse direction. Charge-carriers — [[electron]]s and [[electron hole]]s — flow into the junction from electrodes with different [[voltage]]s. When an electron meets a hole, it falls into a lower [[energy level]], and releases [[energy]] in the form of a [[photon]].
+
+The [[wavelength]] of the light emitted, and therefore its color, depends on the [[band gap]] energy of the materials forming the ''p-n junction''. In [[silicon]] or [[germanium]] diodes, the electrons and holes recombine by a ''non-radiative transition'' which produces no optical emission, because these are [[indirect bandgap]] materials. The materials used for an LED have a [[direct band gap]] with energies corresponding to near-infrared, visible or near-ultraviolet light. 
+
+LEDs are usually constantly illuminated when a current passes through them, but flashing LEDs are also available. Flashing LEDs resemble standard LEDs but they contain a small chip inside which causes the LED to flash with a typical period of one second. This type of LED comes most commonly as red, yellow, or green. Most flashing LEDs emit light of a single wavelength, but multicolored flashing LEDs are available too. 
+
+LED development began with infrared and red devices made with [[gallium arsenide]]. Advances in [[materials science]] have made possible the production of devices with ever-shorter [[wavelength]]s, producing light in a variety of colors. 
+
+LEDs are usually built on an n-type substrate, with electrode attached to the p-type layer deposited on its surface. P-type substrates, while less common, occur as well. Many commercial LEDs, especially GaN/InGaN, also use [[sapphire]] substrate. Substrates that are transparent to the emitted wavelength, and backed by a reflective layer, increase the LED efficiency. The [[refractive index]] of the package material should match the index of the semiconductor, otherwise the produced light gets partially reflected back into the semiconductor, where it gets absorbed and turns into additional heat.
+
+The semiconducting chip is encased in a solid plastic lens, which is much tougher than the glass envelope of a traditional light bulb or tube. The plastic may be colored, but this is only for cosmetic reasons or to improve the contrast ratio; the color of the packaging does not substantially affect the color of the light emitted.
+
+Conventional LEDs are made from a variety of inorganic [[semiconductor materials]], producing the following colors:
+*[[aluminum gallium arsenide]] (AlGaAs) - red and [[infrared]]
+*[[aluminum gallium phosphide]] (AlGaP) - green
+*[[aluminum gallium indium phosphide]] (AlGaInP) - high-brightness orange-red, orange, yellow, and green
+*[[gallium arsenide phosphide]] (GaAsP) - red, orange-red, [[Orange (colour)|orange]], and [[yellow]]
+*[[gallium phosphide]] (GaP) - red, yellow and green
+*[[gallium nitride]] (GaN) - green, pure green (or emerald green), and [[blue]] also white (if it has an AlGaN Quantum Barrier)
+*[[indium gallium nitride]] (InGaN) - near ultraviolet, bluish-green and blue
+*[[silicon carbide]] (SiC) as substrate — blue
+*[[silicon]] (Si) as substrate — blue (under development)
+*[[sapphire]] (Al<sub>2</sub>O<sub>3</sub>) as substrate — blue
+*[[zinc selenide]] (ZnSe) - blue
+*[[diamond]] (C) - ultraviolet
+*[[aluminum nitride]] (AlN), [[aluminum gallium nitride]] (AlGaN) - near to far [[ultraviolet]] (down to 210 nm[http://physicsweb.org/articles/news/10/5/10/1])
+
+=== Ultraviolet, Blue and white LEDs ===
+[[Image:Uv-LED.jpg|thumb|right|230px|An [[ultraviolet]] GaN LED.]]
+Blue LEDs are based on the wide [[band gap]] semiconductors GaN ([[gallium nitride]]) and InGaN (indium gallium nitride). They can be added to existing red and green LEDs to produce [[white]] light, though white LEDs today rarely use this principle. 
+
+The first blue LEDs were made in [[1971]] by Jacques Pankove (inventor of the gallium nitride LED) at [[RCA|RCA Laboratories]].<ref>{{cite web
+  | title = Alumni society honors four leaders in engineering and technology
+  | work = Berkeley Engineering News
+  | publisher =
+  | date = [[2000-09-04]]
+  | url = http://www.coe.berkeley.edu/EPA/EngNews/00F/EN2F/deaa.html
+  | format =
+  | doi =
+  | accessdate = 2007-01-23 }}</ref> However, these devices were too feeble to be of much practical use, and it was not until [[1993]] that high brightness blue LEDs became possible through the work of [[Shuji Nakamura]] at [[Nichia Corporation]].<ref>{{cite web
+  | title = United States Patent No. 5,578,839 (Nakamura et al.)
+  | work =
+  | publisher = [[United States Patent and Trademark Office]]
+  | date = filed [[1993-11-17]]
+  | url = http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5578839
+  | format =
+  | doi =
+  | accessdate = 2007-01-23 }}</ref>
+
+By the late [[1990s]], blue LEDs had become widely available. They have an active region consisting of one or more InGaN [[quantum well]]s sandwiched between thicker layers of GaN, called cladding layers. By varying the relative InN-GaN fraction in the InGaN quantum wells, the light emission can be varied from violet to amber. AlGaN [[aluminum gallium nitride]] of varying AlN fraction can be used to manufacture the cladding and quantum well layers for ultraviolet LEDs, but these devices have not yet reached the level of efficiency and technological maturity of the InGaN-GaN blue/green devices. If the active quantum well layers are GaN, as opposed to alloyed InGaN or AlGaN, the device will emit near-ultraviolet light with wavelengths around 350-370 nm. Green LEDs manufactured from the InGaN-GaN system are far more efficient and brighter than green LEDs produced with non-nitride material systems.
+
+Most "white" LEDs in production today are based on an InGaN-GaN structure, and emit blue light of wavelengths between 450 nm – 470 nm blue GaN.  These GaN-based, InGaN-active-layer LEDs are covered by a yellowish [[phosphor]] coating usually made of [[cerium]]-[[Doping (Semiconductors)|doped]] [[YAG|yttrium aluminum garnet]] (Ce<sup>3+</sup>:YAG) crystals which have been powdered and bound in a type of viscous adhesive. The LED chip emits blue light, part of which is efficiently converted to a broad spectrum centered at about 580 nm (yellow) by the Ce<sup>3+</sup>:YAG. The single crystal form of Ce<sup>3+</sup>:YAG is actually considered a [[scintillator]] rather than a phosphor. Since yellow light stimulates the red and green receptors of the eye, the resulting mix of blue and yellow light gives the [[color vision|appearance]] of white, the resulting shade often called "lunar white". This approach was developed by [[Nichia]] and was used by them from 1996 for manufacturing of white LEDs.
+
+The pale yellow emission of the Ce<sup>3+</sup>:YAG can be tuned by substituting the cerium with other rare earth elements such as [[terbium]] and [[gadolinium]] and can even be further adjusted by substituting some or all of the aluminum in the YAG with gallium. Due to the spectral characteristics of the diode, the red and green colors of objects in its blue yellow light are not as vivid as in broad-spectrum light. Manufacturing variations and varying thicknesses in the phosphor make the LEDs produce light with different [[color temperature]]s, from warm yellowish to cold bluish; the LEDs have to be sorted during manufacture by their actual characteristics. [[Philips Lumileds Lighting Company|Philips Lumileds]] patented conformal coating process addresses the issue of varying phosphor thickness, giving the white LEDs a more consistent spectrum of white light.
+[[Image:White LED.png|thumb|right|350px|Spectrum of a "white" LED clearly showing blue light which is directly emitted by the GaN-based LED (peak at about 465 nanometers) and the more broadband [[stokes shift]]ed light emitted by the Ce<sup>3+</sup>:YAG phosphor which extends from around 500 to 700 nanometers.]]
+White LEDs can also be made by coating near ultraviolet (NUV) emitting LEDs with a mixture of high efficiency [[europium]] based red and blue emitting phosphors plus green emitting copper and aluminum doped zinc sulfide (ZnS:Cu, Al). This is a method analogous to the way [[fluorescent lamp]]s work. However the ultraviolet light causes [[photodegradation]] to the [[epoxy resin]] and many other materials used in LED packaging, causing manufacturing challenges and shorter lifetimes. This method is less efficient than the blue LED with YAG:Ce phosphor, as the [[Stokes shift]] is larger and more energy is therefore converted to heat, but yields light with better spectral characteristics, which render color better. Due to the higher radiative output of the ultraviolet LEDs than of the blue ones, both approaches offer comparable brightness.
+
+The newest method used to produce white light LEDs uses no phosphors at all and is based on [[wiktionary:homoepitaxially|homoepitaxially]] grown [[zinc selenide]] (ZnSe) on a ZnSe substrate which simultaneously emits blue light from its active region and yellow light from the substrate.
+
+A new technique just developed by Michael Bowers, a graduate student at [[Vanderbilt University]] in Nashville, involves coating a blue LED with [[quantum dots]] that glow white in response to the blue light from the LED. This technique produces a warm, yellowish-white light similar to that produced by [[incandescent bulb]]s.<ref>{{cite web
+  | title = Accidental Invention Points to End of Light Bulbs
+  | work = LiveScience.com
+  | publisher =
+  | date = [[2005-10-21]]
+  | url = http://www.livescience.com/technology/051021_nano_light.html
+  | format =
+  | doi =
+  | accessdate = 2007-01-24 }}</ref>
+
+=== Organic light-emitting diodes (OLEDs) ===
+{{main|Organic light-emitting diode}}
+[[Image:Red-YellowGreen-Blue LED spectra.png|thumb|right|350px|Combined spectral curves for blue, yellow-green, and high brightness red solid-state semiconductor LEDs. [[Full width at half maximum|FWHM]] spectral bandwidth is approximately 24-27 [[nanometre]]s for all three colors.]]
+If the emitting layer material of an LED is an [[organic compound]], it is known as an Organic Light Emitting Diode ([[Organic light-emitting diode|OLED]]). To function as a semiconductor, the organic emitting material must have [[conjugated system|conjugated pi bonds]]. The emitting material can be a small organic [[molecule]] in a [[crystal|crystalline]] [[phase (matter)|phase]], or a [[polymer]]. Polymer materials can be flexible; such LEDs are known as PLEDs or FLEDs. 
+
+Compared with regular LEDs, OLEDs are lighter, and polymer LEDs can have the added benefit of being flexible. Some possible future applications of OLEDs could be: 
+* Inexpensive, flexible displays
+* Light sources
+* Wall decorations
+* Luminous [[cloth]]
+
+At present ([[2006]]) OLEDs are used in small portable color video displays such as cellphone and digital camera screens, and user interfaces on MP3 players. Large-screen color displays have been demonstrated, but their life expectancy is still far too short (<1,000 Hrs) to be practical.
+
+=== Operational parameters and efficiency ===
+Most typical LEDs are designed to operate with no more than 30-60 [[milliwatt]]s of electrical power. Around [[1999]], [[Philips Lumileds Lighting Company|Philips Lumileds]] introduced power LEDs capable of continuous use at one watt. These LEDs used much larger semiconductor die sizes to handle the large power input. Also, the semiconductor dies were mounted to metal slugs to allow for heat removal from the LED die. In [[2002]], [[Philips Lumileds Lighting Company|Lumileds]] made 5-watt LEDs available with efficacy of 18–22 [[lumen (unit)|lumens]] per watt.
+
+In September 2003 a new type of blue LED was demonstrated by the company [[Cree Inc.|Cree, Inc.]] to give 240 [[lumen (unit)|lm]]/[[watt|W]] at 20 mA. This produced a commercially packaged white light giving 65 lumens per watt at 20 mA, becoming the brightest white LED commercially available at the time. In 2006 they demonstrated a prototype with a record white LED efficacy of 131 lm/W at 20 mA. Also Seoul Semiconductor has plans for 135 lm/W by 2007 and 145 lm/W by 2008
+[http://www.engadget.com/2006/12/12/seoul-semiconductor-squeezes-240-lumens-into-brightest-led/]. Nichia Corp. has developed a white light LED with efficacy of 150 lm/W at a forward current of 20 mA[http://techon.nikkeibp.co.jp/english/NEWS_EN/20061221/125713/].
+
+Today, OLEDs operate at substantially lower efficiency than inorganic (crystalline) LEDs. The best efficacy of an OLED so far is about 10% of the theoretical maximum of 683, so about 68 lm/W. These promise to be much cheaper to fabricate than inorganic LEDs, and large arrays of them can be deposited on a screen using simple printing methods to create a color graphic display.
+
+=== Failure modes ===
+The most common way for LEDs (and [[diode laser]]s) to fail is the gradual lowering of light output and loss of efficiency. However, sudden failures can occur as well. 
+
+The mechanism of degradation of the active region, where the radiative recombination occurs, involves [[nucleation]] and growth of [[dislocation]]s; this requires a presence of an existing defect in the crystal and is accelerated by heat, high current density, and emitted light. [[Gallium arsenide]] and [[aluminum gallium arsenide]] are more susceptible to this mechanism than [[gallium arsenide phosphide]], [[indium gallium arsenide phosphide]], and [[indium phosphide]]. Due to different properties of the active regions, [[gallium nitride]] and [[indium gallium nitride]] are virtually insensitive to this kind of defects; however, high current density can cause [[electromigration]] of atoms out of the active regions, leading to emergence of dislocations and point defects, acting as nonradiative recombination centers and producing heat instead of light. [[Ionizing radiation]] can lead to creation of such defects as well, which leads to issues with [[radiation hardening]] of circuits containing LEDs (eg. in [[optoisolator]]s). Early red LEDs were notable for their short lifetime.
+
+White LEDs often use one or more [[phosphor]]s. The phosphors tend to degrade with heat and age, losing efficiency and causing changes in the produced light color.
+
+High electrical currents at elevated temperatures can cause diffusion of metal atoms from the electrodes into the active region. Some materials, notably [[indium tin oxide]] and [[silver]], are subject to electromigration. In some cases, especially with GaN/InGaN diodes, a [[barrier metal]] layer is used to hinder the electromigration effects. Mechanical stresses, high currents, and corrosive environment can lead to formation of [[whisker (metallurgy)|whiskers]], causing short circuits.
+
+High-power LEDs are susceptible to [[current crowding]], nonhomogenous distribution of the current density over the junction. This may lead to creation of localized [[hot spot]]s, which poses risk of [[thermal runaway]]. Nonhomogenities in the substrate, causing localized loss of [[thermal conductivity]], aggravate the situation; most common ones are voids caused by incomplete [[soldering]], or by electromigration effects and [[Kirkendall voiding]]. Thermal runaway is a common cause of LED failures.
+
+[[Laser diode]]s may be subject to [[catastrophic optical damage]], when the light output exceeds a critical level and causes melting of the facet.
+
+Some materials of the plastic package tend to yellow when subjected to heat, causing partial absorption (and therefore loss of efficiency) of the affected wavelengths.
+
+Sudden failures are most often caused by thermal stresses. When the [[epoxy resin]] used in packaging reaches its [[glass transition temperature]], it starts rapidly expanding, causing mechanical stresses on the semiconductor and the [[wire bonding|bonded]] contact, weakening it or even tearing it off. Conversely, very low temperatures can cause cracking of the packaging.
+
+[[Electrostatic discharge]] (ESD) may cause immediate failure of the semiconductor junction, a permanent shift of its parameters, or latent damage causing increased rate of degradation. LEDs and lasers grown on [[sapphire]] substrate are more susceptible to ESD damage.
+
+==Considerations in use==
+[[Image:Ledmrp.jpg|thumb|right|Close-up of a typical LED in its case, showing the internal structure.]]
+[[Image:led2.PNG|thumb|right]]
+
+Unlike [[incandescent light bulb]]s, which light up regardless of the electrical [[Polarity (physics)|polarity]], LEDs will only light with positive electrical polarity. When the voltage across the ''p-n junction'' is in the correct direction, a significant current flows and the device is said to be ''forward-biased''. If the voltage is of the wrong polarity, the device is said to be ''reverse biased'', very little current flows, and no light is emitted. LEDs can be operated on an [[Alternating current]] voltage, but they will only light with positive voltage, causing the LED to turn on and off at the frequency of the AC supply.
+
+The correct polarity of an LED can ''usually'' be determined as follows:
+{|class="wikitable"
+|-
+|'''sign:'''
+|'''+'''
+|'''−'''
+|-
+| polarity: 
+|positive
+|negative
+|-
+|terminal:
+|anode
+|cathode
+|-
+|wiring:
+|red
+|black
+|-
+|leads:
+|long
+|short
+|-
+|marking:
+|none
+|stripe
+|-
+|pin:
+|1
+|2
+|-
+|[[Printed circuit board|PCB]]:
+|square
+|round
+|-
+|interior:
+|small
+|large
+|-
+|exterior:
+|round
+|flat
+|}
+
+'''NOTE:''' Neither the interior nor exterior method of determining an LED's polarity is 100% accurate. Although the length of the pins (leads) is the most accurate method for determining polarity, even this designation is sometimes reversed, and wire length can easily be changed.
+
+Because the voltage versus current characteristics of an LED are much like any [[diode]] (that is, current approximately an exponential function of voltage), a small voltage change results in a huge change in current. Added to deviations in the process this means that a [[voltage source]] may barely make one LED light while taking another of the same type beyond its maximum ratings and potentially destroying it.
+
+Since the voltage is logarithmically related to the current it can be considered to remain largely constant over the LEDs operating range. Thus the power can be considered to be almost proportional to the current. To try and keep power close to constant across variations in supply and LED characteristics the power supply should be a "[[current source]]", that is, it should supply an almost constant current. If high efficiency is not required (e.g. in most indicator applications), an approximation to a current source made by connecting the LED in series with a current limiting resistor to a constant voltage source is generally used.
+
+Most LEDs have low [[breakdown voltage|reverse breakdown voltage]] ratings, so they will also be damaged by an applied reverse voltage of more than a few volts. Since some manufacturers don't follow the indicator standards above, if possible the [[data sheet]] should be consulted before hooking up an LED, or the LED may be tested in series with a [[resistor]] on a sufficiently low voltage supply to avoid the reverse breakdown. If it is desired to drive an LED directly from an AC supply of more than the reverse breakdown voltage then it may be protected by placing a diode (or another LED) in [[Antiparallel|inverse parallel]].
+
+LEDs can be purchased with built in series resistors. These can save [[Printed circuit board|PCB]] space and are especially useful when building [[prototype]]s or populating a PCB in a way other than its designers intended. However the resistor value is set at the time of manufacture, removing one of the key methods of setting the LEDs intensity. To increase efficiency (or to allow intensity control without the complexity of a [[Digital-to-analog converter|DAC]]), the power may be applied periodically or intermittently; so long as the flicker rate is greater than the human [[flicker fusion threshold]], the LED will appear to be continuously lit.  
+
+Provided there is sufficient voltage available, multiple LEDs can be connected in [[Series and parallel circuits|series]] with a single current limiting resistor. [[Series and parallel circuits|Parallel]] operation is generally problematic. The LEDs have to be of the same type in order to have a similar forward voltage. Even then, variations in the manufacturing process can make the odds of satisfactory operation low. For more information see [http://www.nichia.co.jp/specification/appli/electrical.pdf Nichia Application Note]. 
+
+Bicolor LED units contain two diodes, one in each direction (that is, two diodes in ''inverse parallel'') and each a different color (typically [[red]] and [[green]]), allowing two-color operation or a range of apparent colors to be created by altering the percentage of time the voltage is in each polarity. Other LED units contain two or more diodes (of different colors) arranged in either a ''common anode'' or ''common cathode'' configuration. These can be driven to different colors without reversing the polarity.
+
+LED units may have an integrated [[multivibrator]] circuit that makes the LED flash. They may also have an integrated current regulator.<br />
+
+Generally, for newer common standard LEDs in the 3 mm or 5 mm packages, the following forward DC voltage drops are typically measured. The forward voltage drop varies depending on the LED's chemistry, temperature, and on the current (values here are for approx. 20 milliamperes, a commonly found maximum value).<br />
+
+{|class="wikitable"
+|-
+|'''Color'''
+|'''Voltage drop'''
+|-
+|Infrared
+|1.6 V
+|-
+|Red
+|1.8 V to 2.1 V
+|-
+|Orange
+|2.2 V
+|-
+|Yellow
+|2.4 V
+|-
+|Green
+|2.6 V
+|-
+|Blue
+|3.0 V to 3.5 V
+|-
+|White
+|3.0 V to 3.5 V
+|-
+|Ultraviolet
+|3.5 V
+|}
+Many LEDs are rated at 5 V maximum reverse voltage.<br />
+
+=== Advantages of using LEDs ===
+{{Unreferenced|date=November 2006}}
+
+[[Image:LED symbol.svg|right|250px|thumb|LED schematic symbol]]
+
+*LEDs produce more light per watt than do incandescent bulbs; this is useful in battery powered or energy-saving devices.
+*LEDs can emit light of an intended color without the use of color filters that traditional lighting methods require.  This is more efficient and can lower initial costs.
+*The solid package of an LED can be designed to focus its light. Incandescent and fluorescent sources often require an external reflector to collect light and direct it in a usable manner.
+*When used in applications where dimming is required, LEDs do not change their colour tint as the current passing through them is lowered, unlike incandescent lamps, which turn yellow.
+*LEDs are ideal for use with occupancy sensors, since they are unaffected by frequent on-off cycling, unlike fluorescent lamps that burn out more quickly when cycled frequently.
+*LEDs are built inside solid cases that protect them, unlike incandescent and discharge sources, making them extremely durable.
+*LEDs have an extremely long life span when conservatively run: upwards of 100 000 hours, twice as long as the best fluorescent bulbs and twenty times longer than the best incandescent bulbs. (Incandescent bulbs can also be made to last an extremely long time by running at lower than normal voltage, but only at a huge cost in efficiency; LEDs have a long life when operated at their rated power.) LEDs ran at higher currents have a reduced lifespan.
+*Further, LEDs mostly fail by dimming over time, rather than the abrupt burn-out of incandescent bulbs. 
+*LEDs light up very quickly. A typical red indicator LED will achieve full brightness in microseconds; LEDs used in communications devices can have even faster response times.
+*LEDs can be very small and are easily populated onto printed circuit boards.
+[[Image:Verschiedene LEDs.jpg|thumb|center|750px|LEDs are produced in an array of shapes and sizes. The 5&nbsp;mm cylindrical package (red, fifth from the left) is the most common, estimated at 80% of world production. The color of the plastic lens is often the same as the actual color of light emitted, but not always. For instance, purple plastic is often used for [[infrared]] LEDs, and most blue devices have clear housings. There are also LEDs in extremely tiny packages, such as those found on [[blinky (novelty)|blinkies]] (not shown).]]
+
+=== Disadvantages of using LEDs ===
+*LEDs are currently more expensive, price per lumen, than more conventional lighting technologies. The additional expense partially stems from the relatively low lumen output and the drive circuitry and power supplies needed.
+*LED performance largely depends on the ambient temperature of the operating environment. "Driving" an LED "hard" in high ambient temperatures may result in overheating of the LED package, eventually leading to device failure. Adequate [[heat sink|heat-sinking]] is required to maintain long life. This is especially important when considering automotive, medical, and military applications where the device must operate over a large range of temperatures, and are required to have a low failure rate.
+*LEDs require complex power supply setups to be efficiently driven. In indicator applications a simple series resistor can be used; however, this sacrifices a large amount of energy efficiency. Another method is using [[current limiting]], which also could waste as much power.
+*LEDs typically cast light in one direction at a narrow angle compared to an incandescent or fluorescent lamp of the same lumen level.
+*LEDs usually emit spectrally impure light which means that a white LED usually does not have the same spectral power distribution as sunlight or even moonlight.
+
+== LED applications ==
+[[Image:LED panel and plants.jpg|thumb|right|200px|LED panel light source used in an experiment on [[plant]] growth. The findings of such experiments may be used to grow food in space on long duration missions.]]
+[[Image:LEDFlashlight.jpg|thumb|right|200px|Flashlights and lanterns that utilize white LEDs are becoming increasingly popular due to their durability and longer battery life.]]
+[[Image:Ronja_beam_Prostejov.jpg|thumb|right|200px|Single high-brightness LED with a glass lens creates a bright carrier beam that can stream DVD-quality video over considerable distances. The device, [[RONJA|Ronja]], can be built very simply by enthusiasts.]]
+
+===List of LED applications===
+Some of these applications are further elaborated upon in the following text.
+*Architectural lighting
+*Status indicators on all sorts of equipment
+*[[Traffic light]]s and signals
+*[[Exit sign]]s
+*[[Motorcycle]] and [[Bicycle lighting#LEDs|Bicycle lights]]
+*Toys and recreational sporting goods, such as the [[Flashflight]]
+*[[Railroad crossing]] signals
+*Continuity indicators
+*[[Flashlight]]s. Some models that do not even use batteries are of this type.
+*[[Light bar]]s on emergency vehicles.
+*Elevator Push Button Lighting
+*Thin, lightweight message displays at airports and railway stations and as destination displays for trains, buses, trams and ferries.
+*Red or yellow LEDs are used in indicator and alphanumeric displays in environments where night vision must be retained: aircraft cockpits, submarine and ship bridges, astronomy observatories, and in the field, e.g. night time animal watching and military field use.
+*Red, yellow, green, and blue LEDs can be used for [[model railroading]] applications
+*[[Remote control]]s, such as for TVs and VCRs, often use [[infrared]] LEDs. 
+*In [[optical fiber]] and [[Free Space Optics]] communications.
+*In dot matrix arrangements for displaying messages.
+*[[Glowsticks|Glowlights]], as a more expensive but longer lasting and reusable alternative to [[Glowsticks]].
+*Movement sensors, for example in [[Optical mouse|optical computer mice]]
+*Because of their long life and fast switching times, LEDs have been used for automotive [[Automotive lighting#Center High Mount Stop Lamp (CHMSL)|high-mounted brake light]]s and truck and bus brake lights and turn signals for some time, but many high-end vehicles are now starting to use LEDs for their entire rear light clusters. Besides the gain in [[reliability]], this has styling advantages because LEDs are capable of forming much thinner lights than incandescent lamps with [[parabolic reflector]]s. The significant improvement in the time taken to light up (perhaps 0.5s faster than an incandescent bulb) improves safety by giving drivers more time to react.
+*Backlighting for [[LCD]] televisions and displays. The availability of LEDs in specific colors (RGB) enables a full-[[spectrum]] light source which expands the color [[gamut]] by as much as 45%.
+*New stage lighting equipment is being developed with LED sources in primary red-green-blue arrangements.
+*[[Lumalive]], a photonic [[textile]]
+*LED-based [[Christmas lights]] have been available since 2002, but are only now beginning to gain in popularity and acceptance due to their higher initial purchase cost when compared to similar incandescent-based Christmas lights. For example, as of 2006, a set of 50 incandescent lights might cost $2.00 USD, while a similar set of 50 LED lights might cost $10.00 USD. The purchase cost can be even higher for single-color sets of LED lights with rare or recently-introduced colors, such as purple, pink or white. Regardless of the higher initial purchase price, the [[total cost of ownership]] for LED Christmas lights would eventually be lower than the TCO for similar incandescent Christmas lights since an LED requires much less power to output the same amount of light as a similar incandescent bulb.
+*LED [[Light therapy|phototherapy]] for acne using blue or red LEDs has been proven to significantly reduce acne over a 3 month period.{{Fact|date=February 2007}}
+*As a medium quality [[voltage reference]] in electronic circuits. The forward voltage drop (e.g. about 1.7 V for a normal red LED) can be used instead of a [[Zener diode]] in low-voltage regulators. Although LED forward voltage is much more current-dependent than a good Zener, Zener diodes are not available below voltages of about 3 V.
+*Computers, for hard drive activity and power on. Some custom computers feature LED accent lighting to draw attention to a given component. Macintosh computers use LEDs to tell the user that it is asleep, by fading in and out. This fading is produced by either a triangular wave or a sine wave generator.
+
+===Illumination applications===
+LEDs used as a replacement for [[incandescent light bulb]]s and [[fluorescent lamp]]s are known as [[solid-state lighting]] (SSL) - packaged as a cluster of white LEDs grouped together to form a light source (pictured). LEDs are moderately efficient; the average commercial SSL currently outputs 32 [[lumen (unit)|lumen]]s per [[watt]] (lm/W), and new technologies promise to deliver up to 80 lm/W. The long lifetime of LEDs make SSL very attractive. They are also more mechanically robust than incandescent light bulbs and fluorescent tubes. Currently, solid state lighting is becoming more available for household use but is relatively expensive, although costs are decreasing. LED [[flashlight]]s, however, already have become widely available. 
+
+One 6 watt LED light bulb can potentially last up to 58 500 or more hours than a 60 watt incandescent bulb, and potentially 50 000 more hours than a CFL. The cost difference between 40 incandescent light bulbs and 1 LED light bulb is only a few dollars, however, the kWh usage is significantly smaller with an LED light. Over this period of time, a significant amount of money can be saved. LEDs will also contribute by producing less waste.[http://www.productdose.com/LightBulb_Comparison.xls]
+
+Recently a number of manufacturers have started marketing ultra-compact LCD video projectors that use high-powered white LEDS for the light source.  Another alternative design is to use red, green, and blue LEDs in a sequential [[DLP]] design.
+
+Incandescent bulbs are much less expensive but also less efficient, generating from about 16 lm/W for a domestic [[tungsten]] bulb to 22 lm/W for a halogen bulb. [[fluorescent lamp|Fluorescent tubes]] are more efficient, providing 50 to 100 lm/W for domestic tubes (average 60 lm/W), but are bulky and fragile and require starter or ballast circuits that sometimes buzz audibly. [[Compact fluorescent lamp]]s, which include a quiet integrated ballast, are relatively robust and efficient and fit in standard light bulb sockets. They are currently the best choice for efficient household lighting{{Fact|date=February 2007}}. CFLs do still emit a quiet buzz, while LEDs are completely silent.
+
+LEDs are now well established in applications such as traffic signals and indicator lamps for trucks and automobiles. High output LED fixtures suitable for general architectural lighting applications are beginning to appear on the market with system efficacies of up to 56 lumens per watt, which is comparable to fluorescent systems. Proponents of LEDs expect that technological advances will reduce costs such that SSL will replace incandescent and fluorescent lighting in most commercial and residential applications.
+
+Due to their monochromatic nature, LED lights have great power advantages over white lights when a specific color is required. Unlike traditional white lights, the LED does not need a coating or diffuser that can absorb much of the emitted light. LED lights are inherently colored, and are available in a wide range of colors. One of the most recently introduced colors is the emerald green (bluish green, about 500 nm) that meets the legal requirements for traffic signals and navigation lights.
+
+There are applications that specifically require light without any blue component. Examples are photographic darkroom safe lights, illumination in laboratories where certain photo-sensitive chemicals are used, and situations where dark adaptation ([[night vision]]) must be preserved, such as cockpit and bridge illumination, observatories, etc. Yellow LED lights are a good choice to meet these special requirements because the human eye is more sensitive to yellow light (about 500 lm/watt ''emitted'') than that emitted by the other LEDs.
+
+The first residence lit solely by LEDs was the "[[Vos Pad]]" in London. The entire flat is lit by a combination of white and RGB (color changing) LEDs.
+
+== History ==
+=== Discovery ===
+The first known report of a light-emitting solid-state diode was made in [[1907]] by the British experimenter [[H. J. Round]].  However, no practical use was made of the discovery for several decades. <ref>[http://www.jmargolin.com/history/trans.htm Margolin J, ''The Road to the Transistor'', with references, including quote from Round's 1907 letter]</ref>
+
+The first LEDs became commercially available in the 1970s, and were almost all red.  They were commonly used as replacements for incandescent indicators, and in seven-segment displays, first in expensive equipment such as laboratory and electronics test equipment, then later in such appliances as TVs, radios, telephones, calculators, and even watches.  These red LEDs were bright enough only for use as indicators, as the light output was not enough to illuminate an area.  Later, other colors became widely available and also appeared in appliances and equipment.  As the LED chemistry became more advanced, the light output was increased, and LEDs became bright enough to be used for illumination.
+
+Most LEDs were made in the very common 5mm T1-3/4 and 3mm T1 packages, but with higher power, it has become increasingly necessary to get rid of the heat, so the packages have become more complex and adapted for heat dissipation.
+
+=== LED display panels ===
+[[Image:Fremont show3 051205.jpg|thumb|right|The 1,500 foot long LED display on the [[Fremont Street Experience]] is currently the largest in the world.]]
+There are two types of LED panels: conventional, using discrete LEDs, and surface mounted device ([[Surface-mount technology|SMD]]) panels. Most outdoor screens and some indoor screens are built around discrete LEDs, also known as individually mounted LEDs. A cluster of red, green, and blue diodes is driven together to form a full-color pixel, usually square in shape. These pixels are spaced evenly apart and are measured from center to center for absolute pixel resolution. The largest LED display in the world is over 1,500 feet (457.2 m) long and is located in [[Las Vegas, Nevada|Las Vegas]], [[Nevada]] covering the [[Fremont Street Experience]].
+
+Most indoor screens on the market are built using SMD technology — a trend that is now extending to the outdoor market. An SMD pixel consists of red, green, and blue diodes mounted on a chipset, which is then mounted on the driver PC board. The individual diodes are smaller than a pinhead and are set very close together. The difference is that the maximum viewing distance is reduced by 25% from the discrete diode screen with the same resolution.
+
+[[Image:Al Sheedakim and Panel.JPG|thumb|left|LED panels allow for smaller sets of interchangeable LEDs to be one large display.]] Indoor use generally requires a screen that is based on SMD technology and has a minimum brightness of 600 [[candela]]s per [[square meter]] (unofficially called [[nit (unit)|nits]]). This will usually be more than sufficient for corporate and retail applications, but under high ambient-brightness conditions, higher brightness may be required for visibility. Fashion and auto shows are two examples of high-brightness stage lighting that may require higher LED brightness. Conversely, when a screen may appear in a shot on a television show, the requirement will often be for lower brightness levels with lower color temperatures (common displays have a white point of 6500 to 9000&nbsp;K, which is much bluer than the common lighting on a television production set).
+[[Image:09-02-06-RRS-PigScreen.jpg|right|thumb|A large LED screen in [[Donald W. Reynolds Razorback Stadium|Razorback Stadium]]]]
+
+For outdoor use, at least 2,000 nits are required for most situations, whereas higher brightness types of up to 5,000 nits cope even better with direct sunlight on the screen. Until recently, only discrete-diode screens could achieve that brightness level. (The brightness of LED panels can be reduced from the designed maximum, if required.)
+
+Suitable locations for large display panels are identified by factors such as line of sight, local authority planning requirements (if the installation is to become semi-permanent), vehicular access (trucks carrying the screen, truck-mounted screens, or cranes), cable runs for power and video (accounting for both distance and health and safety requirements), power, suitability of the ground for the location of the screen (if there are no pipes, shallow drains, caves, or tunnels that may not be able to support heavy loads), and overhead obstructions.
+
+==== Early LED flat panel TV history ====
+Perhaps the first recorded flat [[light-emitting diode display]] LED television screen prototype to be developed was by James P. Mitchell in 1977. The modular, scalable display was enabled by MV50 LEDs and newly available TTL (transistor transistor logic) memory addressing circuit technology. The prototype and paper was displayed at an Engineering Exposition in [[Anaheim]] May 1978, and organized by the Science Service in Washington D.C.  The LED flat panel TV display received special recognition by NASA, General Motors Corporation, and area universities including The University of California Irvine, Robert M. Saunders Prof. of Engineering and IEEE President 1977. Additionally, technology business representatives from the U.S. and overseas witnessed operation of the monochromatic LED flat panel television display. The prototype remains operational. A LCD (liquid crystal display) matrix design was also presented in the accompanying scientific paper, as a future television display method using a similar scanning design method. 
+
+The early display prototype was red monochromatic.  Low-cost efficient blue LEDs did not emerge until the early 1990s, completing the RGB color triad.  High-brightness colors gradually emerged in the 1990s enabling new designs for outdoor signage and huge video displays for billboards and stadiums.
+
+===Multi-touch sensing===
+Since LEDs share some basic physical properties with [[photodiode]]s, which also use ''p-n'' junctions with band gap energies in the visible light wavelengths, they can also be used for photo detection. These properties have been known for some time, but more recently so-called bidirectional LED matrices have been proposed as a method of [[Touchscreen|touch-sensing]]. In 2003, Dietz, Yerazunis, and Leigh published a paper[http://www.merl.com/publications/TR2003-035/] describing the use of LEDs as cheap sensor devices.
+
+In this usage, various LEDs in the matrix are quickly switched on and off. LEDs that are on shine light onto a user's fingers or a stylus. LEDs that are off function as photodiodes to detect reflected light from the fingers or stylus. The voltage thus induced in the reverse-biased LEDs can then be read by a microprocessor, which interprets the voltage peaks and then uses them elsewhere. The website of Jeff Han features a [http://mrl.nyu.edu/~jhan/ledtouch/  video] demonstrating one such implementation of an LED matrix multi-touch sensor.
+
+==References==
+<references/>
+* {{cite journal | last=Mills |first= Evan | title=The Specter of Fuel-Based Lighting | journal=Science | year=2005 | volume=308 | pages=1263-1264 | url= }}
+*Salisbury, David F., [http://exploration.vanderbilt.edu/news/news_quantumdot_led.htm '''Quantum dots that produce white light could be the light bulb’s successor'''] ''Exploration — The Online Research Journal of Vanderbilt University'' [[October 20]], [[2005]] (more details regarding the use of quantum dots as a phosphor for white LEDs).
+
+==See also==
+{{portalpar|Electronics|Zenerdiod symbol.svg}}
+*[[Throwies]]
+*[[LED circuit]]
+*[[Nixie tube]]
+*[[Light Up the World Foundation]]
+*[[Lumalive]], a photonic [[textile]]
+
+== External links ==
+{{Commons|LED|Light-emitting diode}}
+*[http://electronics.howstuffworks.com/led.htm How LEDs work] — from [[Howstuffworks.com]]
+*[http://www2.whidbey.net/opto/LEDFAQ/The%20LED%20FAQ%20Pages.html The LED FAQ Pages — A compilation of questions and answers about light-emitting diodes and infrared emitters]
+*[http://led.linear1.org LED Center — Information for hobbyists and articles on solid state lighting]
+*[http://ledmuseum.home.att.net LED Museum]
+*[http://www.nocturnolightscapes.com/viewarticle-en_diploma.htm Variations of light characteristics of white LEDs]
+*[http://www.physorg.com/news72629783.html Novel nano-etched cavity makes leds 7 times brighter]
+*[http://www.led-effects.com/article005_growing_plants_with_leds.php Growing Plants with LEDs by Mihaela Lica]
+
+{{ArtificialLightSources}}
+{{Display Technology}}
+
+[[Category:Display technology]]
+[[Category:Optical diodes]]
+[[Category:Lighting]]
+
+[[bg:Светодиод]]
+[[ca:Díode LED]]
+[[cs:LED]]
+[[da:Lysdiode]]
+[[de:Leuchtdiode]]
+[[et:Valgusdiood]]
+[[el:Δίοδος Εκπομπής Φωτός]]
+[[es:Diodo LED]]
+[[eo:Lum-Elsenda Diodo]]
+[[fr:Diode électroluminescente]]
+[[gl:LED]]
+[[ko:발광 다이오드]]
+[[hr:Svjetleća dioda]]
+[[id:Dioda cahaya]]
+[[it:LED]]
+[[he:דיודה פולטת אור]]
+[[lt:Šviesos diodas]]
+[[hu:LED]]
+[[nl:Led]]
+[[ja:発光ダイオード]]
+[[no:Lysdiode]]
+[[nn:Lysdiode]]
+[[pl:Dioda elektroluminescencyjna]]
+[[pt:LED]]
+[[ru:Светодиод]]
+[[simple:Light-emitting diode]]
+[[sk:LED]]
+[[sl:Svetleča dioda]]
+[[sr:Светлећа диода]]
+[[fi:LED]]
+[[sv:Lysdiod]]
+[[th:ไดโอดเปล่งแสง]]
+[[vi:Luxeon]]
+[[tr:LED]]
+[[uk:Світлодіод]]
+[[zh:发光二极管]]

@@ -1,0 +1,359 @@
+{{confuse|inulin}}{{otheruses4|the insulin protein|uses of insulin in treating diabetes|insulin therapy}}
+{{FixBunching|beg}}
+{{PBB|geneid=3630}}
+{{FixBunching|mid}}
+[[Image:Suckale08 fig3 glucose insulin day.jpg|270px|thumb|The idealised diagram shows the fluctuation of [[blood sugar]] (red) and the sugar-lowering hormone '''insulin''' (blue) in humans during the course of a day containing three meals. In addition, the effect of a [[sucrose|sugar]]-rich versus a [[starch]]-rich meal is highlighted.]]
+{{FixBunching|end}}
+
+'''Insulin''' is a [[hormone]] with extensive effects on both metabolism and several other body systems (eg, vascular compliance). Insulin causes most of the body's cells to take up [[glucose]] from the [[blood]] (including [[liver]], [[muscle]], and [[fat cell|fat tissue cells]]), storing it as [[glycogen]] in the liver and muscle, and stops use of fat as an energy source. When insulin is absent (or low), glucose is not taken up by most body cells and the body begins to use fat as an energy source (ie, transfer of lipids from adipose tissue to the liver for mobilization as an energy source). As its level is a central metabolic control mechanism, its status is also used as a control signal to other body systems (such as [[amino acid]] uptake by body cells). It has several other [[anabolism|anabolic]] effects throughout the body. When control of insulin levels fails, [[diabetes mellitus]] results.
+
+Insulin is used medically to treat some forms of diabetes mellitus. Patients with [[Diabetes mellitus type 1|Type 1 diabetes mellitus]] depend on external insulin (most commonly [[Injection (medicine)#Subcutaneous injection|injected subcutaneously]]) for their survival because the hormone is no longer produced internally. Patients with [[Diabetes mellitus type 2|Type 2 diabetes mellitus]] are [[insulin resistance|insulin resistant]], have relatively low insulin production, or both; some patients with Type 2 diabetes may eventually require insulin when other medications fail to control blood glucose levels adequately.
+
+Insulin is a [[peptide hormone]] composed of 51 [[amino acid]] residues and has a [[molecular weight]] of 5808 [[Dalton (unit)|Da]]. It is produced in the [[islets of Langerhans]] in the [[pancreas]]. The name comes from the [[Latin]] ''insula'' for "island".
+
+Insulin's structure varies slightly between [[species]] of animal. Insulin from animal sources differs somewhat in 'strength' (i.e., in [[carbohydrate metabolism]] control effects) in humans because of those variations. Porcine ([[pig]]) insulin is especially close to the [[human]] version.
+
+== Gene ==
+
+The '''insulin gene''' (abbreviated ''INS''<ref name="entrez">{{cite web | title = Entrez Gene: INS insulin| url =http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3630| accessdate = }}</ref><ref name="pmid6243748">{{cite journal | author = Bell GI, Pictet RL, Rutter WJ, Cordell B, Tischer E, Goodman HM | title = Sequence of the human insulin gene | journal = Nature | volume = 284 | issue = 5751 | pages = 26–32 | year = 1980 | month = March | pmid = 6243748 | doi = 10.1038/284026a0 | url = | issn = }}</ref>) is the [[gene]] coding for the insulin protein.
+
+=== Alleles ===
+A variety of mutant [[allele]]s with changes in the coding region have been identified. There is a read-through gene, INS-IGF2, which overlaps with this gene at the 5' region and with the IGF2 gene at the 3' region.<ref name="entrez"/>
+
+=== Regulation ===
+There are several [[regulatory sequence]]s in the [[promoter]] region of the human insulin gene, to which [[transcription factor]]s bind.
+
+In general, the [[A-box]]es bind to [[Pdx1]] factors, [[E-box]]es bind to [[NeuroD]], [[C-box]]es bind to [[MafA]] and [[cAMP response element]]s to [[CREB]]. 
+
+There are also [[silencer (genetics)|silencers]] that inhibit transcription.
+
+{|class="wikitable"
+|+ Regulatory sequences and their transcription factors for the insulin gene.<ref name="pmid11914736">{{cite journal |author = Melloul D, Marshak S, Cerasi E | title = Regulation of insulin gene transcription | journal = Diabetologia | volume = 45 | issue = 3 |pages = 309–26 | year = 2002 | pmid = 11914736 | doi = 10.1007/s00125-001-0728-y | issn = }}</ref>
+! [[Regulatory sequence]] !! binding [[transcription factors]]
+|-
+| [[ILPR]] || [[DBP (gene)|Par1]]
+|-
+| [[A-box 5 of insulin gene|A5]] || [[Pdx1]]
+|-
+| [[negative regulatory element]] (NRE)<ref name="pmid17150186">{{cite journal | author = Jang WG, Kim EJ, Park KG, Park YB, Choi HS, Kim HJ, Kim YD, Kim KS, Lee KU, Lee IK | title = Glucocorticoid receptor mediated repression of human insulin gene expression is regulated by PGC-1alpha| journal = Biochem. Biophys. Res. Commun. | volume = 352 | issue = 3 | pages = 716–21 | year = 2007 | pmid = 17150186 | doi = 10.1016/j.bbrc.2006.11.074 | issn = }}</ref> || [[glucocorticoid receptor]], [[POU2F1|Oct1]]
+
+|-
+| [[Z-box of insulin gene|Z]] (overlapping NRE and C2) || [[ISF (transcription factor)|ISF]]
+|-
+| [[C2 regulatory sequence|C2]] || [[Pax4]], [[MafA]](?)
+|-
+| [[E-box 2 of insulin gene|E2]] || [[USF1]]/[[USF2]]
+|-
+| [[A-box 3 of insulin gene|A3]] || [[Pdx1]]
+|-
+| [[CREB#cAMP_response_element|CREB RE]] || -
+|-
+| [[CREB#cAMP_response_element|CREB RE]] || [[CREB]], [[CREM]]
+|-
+| [[A-box 2 of insulin gene|A2]] || -
+|-
+| [[CAAT enhancer binding]] (CEB) (partly overlapping A2 and C1) || -
+|-
+| [[C-box 1 of insulin gene|C1]] || -
+|-
+| [[E-box 1 of insulin gene|E1]] || [[E2A]], [[NeuroD1]], [[TCF12 |HEB]]
+
+|-
+| [[A-box 1 of insulin gene|A1]] || [[Pdx1]]
+|-
+| [[G-box 1 of insulin gene|G1]] || -
+|-
+|}
+
+== Protein structure ==
+
+Within vertebrates, the similarity of insulins is extremely close. [[Cow|Bovine]] insulin differs from human in only three [[amino acid]] residues, and [[Pig|porcine]] insulin in one. Even insulin from some species of fish is similar enough to human to be clinically effective in humans. Insulin in some invertebrates (eg, the ''c elegans'' [[nematode]]) is quite close to human insulin, has similar effects inside cells, and is produced very similarly. Insulin has been strongly preserved over evolutionary time, suggesting its centrality in animal metabolic control. The C-peptide of proinsulin (discussed later), however, differs much more amongst species; it is also a hormone, but a secondary one.
+
+== Synthesis, physiological effects, and degradation ==
+
+=== Synthesis ===
+
+Insulin is produced in the [[pancreas]], and released when any of several stimuli are detected. These include protein ingestion, and glucose in the blood (from food which produces glucose when digested -- characteristically this is [[carbohydrate]], though not all types produce glucose and so an increase in blood glucose levels). In target cells, they initiate a [[signal transduction]] which has the effect of increasing [[glucose]] uptake and storage. Finally, insulin is degraded, terminating the response.
+
+[[Image:Insulinpath.png|thumb|400px|Insulin undergoes extensive posttranslational modification along the production pathway. Production and secretion are largely independent; prepared insulin is stored awaiting secretion. Both C-peptide and mature insulin are biologically active. Cell components and proteins in this image are not to scale.]]
+
+In mammals, insulin is synthesized in the [[pancreas]] within the [[beta cell]]s (β-cells) of the [[islets of Langerhans]]. One million to three million islets of Langerhans (pancreatic islets) form the [[endocrine]] part of the pancreas, which is primarily an [[exocrine]] [[gland]]. The endocrine portion only accounts for 2% of the total mass of the pancreas. Within the islets of Langerhans, beta cells constitute 60–80% of all the cells.
+
+In beta cells, insulin is synthesized from the proinsulin precursor molecule by the action of proteolytic enzymes, known as prohormone convertases (PC1 and PC2), as well as the exoprotease [[carboxypeptidase E]].<ref name="pmid16591494">{{cite journal | author = Steiner DF, Oyer PE | title = The biosynthesis of insulin and a probable precursor of insulin by a human islet cell adenoma | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 57 | issue = 2 | pages = 473–480 | year = 1967 | month = February | pmid = 16591494 | pmc = 335530 | doi = | url = | issn = }}</ref> These modifications of proinsulin remove the center portion of the molecule (ie, [[C-peptide]]), from the C- and N- terminal ends of proinsulin. The remaining polypeptides (51 amino acids in total), the B- and A- chains, are bound together by [[disulfide bond]]s/disulphide bonds. Confusingly, the primary sequence of proinsulin goes in the order "B-C-A", since B and A chains were identified on the basis of mass, and the C peptide was discovered after the others.
+
+The endogenous production of insulin is regulated in several steps along the synthesis pathway:
+
+* At [[DNA transcription|transcription]] from the [[insulin gene]]
+* In [[mRNA]] stability
+* At the [[mRNA translation]]
+* In the [[posttranslational modification]]s
+
+=== Release ===
+{{Seealso|Blood glucose regulation}}
+
+Beta cells in the islets of Langerhans release insulin mostly in response to increased [[blood glucose]] levels through the following mechanism (see figure to the right):
+
+* Glucose enters the [[beta cell]]s through the [[glucose transporter]] [[GLUT2]]
+* Glucose goes into the [[glycolysis]] and the respiratory cycle where multiple high-energy [[adenosine triphosphate|ATP]] molecules are produced by oxidation
+* Dependent on ATP levels, and hence blood glucose levels, the ATP-controlled [[potassium channels]] (K<sup>+</sup>) close and the cell membrane depolarizes
+* On [[depolarization]], voltage controlled [[calcium channels]] (Ca<sup>2+</sup>) open and calcium flows into the cells
+* An increased calcium level causes activation of [[phospholipase|phospholipase C]], which cleaves the membrane phospholipid [[phosphatidyl inositol 4,5-bisphosphate]] into [[inositol 1,4,5-triphosphate]] and [[diglyceride|diacylglycerol]].
+* Inositol 1,4,5-triphosphate (IP3) binds to receptor proteins in the membrane of [[endoplasmic reticulum]] (ER). This allows the release of Ca<sup>2+</sup> from the ER via IP3 gated channels, and further raises the cell concentration of calcium.
+* Significantly increased amounts of calcium in the cells causes release of previously synthesised insulin, which has been stored in [[secretion|secretory]] [[vesicle (biology)|vesicles]]
+
+This is the main mechanism for release of insulin. In addition some insulin release takes place generally with food intake, not just glucose or [[carbohydrate]] intake, and the beta cells are also somewhat influenced by the [[autonomic nervous system]]. The signalling mechanisms controlling these linkages are not fully understood.
+
+Other substances known to stimulate insulin release include amino acids from ingested proteins, acetylcholine, released from vagus nerve endings ([[parasympathetic nervous system]]), [[cholecystokinin]]{{Fact|date=November 2008}}, released by [[enteroendocrine cell]]s of [[Intestinal mucosa#Your digestive system and how it works|intestinal mucosa]] and [[glucose-dependent insulinotropic peptide]] (GIP). Three amino acids (alanine, glycine and arginine) act similarly to glucose by altering the beta cell's membrane potential. Acetylcholine triggers insulin release through phospholipase C, while the last acts through the mechanism of [[adenylate cyclase]].
+
+The [[sympathetic nervous system]] (via Alpha2-adrenergic stimulation as demonstrated by the agonists [[clonidine]] or [[methyldopa]]) inhibit the release of insulin.  However, it is worth noting that circulating [[adrenaline]] will activate Beta<sub>2</sub>-Receptors on the Beta cells in the pancreatic Islets to promote insulin release.  This is important since muscle cannot benefit from the raised blood sugar resulting from adrenergic stimulation (increased gluconeogenesis and glycogenolysis from the low blood insulin: glucagon state) unless insulin is present to allow for [[GLUT-4]] translocation in the tissue.  Therefore, beginning with direct innervation, [[norepinephrine]] inhibits insulin release via alpha<sub>2</sub>-receptors, then subsequently, circulating adrenaline from the [[adrenal medulla]] will stimulate beta<sub>2</sub>-receptors thereby promoting insulin release.
+
+When the glucose level comes down to the usual physiologic value, insulin release from the beta cells slows or stops. If blood glucose levels drop lower than this, especially to dangerously low levels, release of hyperglycemic hormones (most prominently [[glucagon]] from Islet of Langerhans' alpha cells) forces release of glucose into the blood from cellular stores, primarily liver cell stores of glycogen. By increasing blood glucose, the hyperglycemic hormones correct life-threatening hypoglycemia. Release of insulin is strongly inhibited by the [[stress hormone]] [[norepinephrine]] (noradrenaline), which leads to increased blood glucose levels during stress.
+
+=== Oscillations ===
+{{Main|Insulin release oscillations}}
+
+[[Image:Pancreas insulin oscillations.svg|thumb|250px|Insulin release from pancreas oscillates with a period of 3&ndash;6 minutes.<ref name="hellman" />]]
+
+Even during digestion, generally one or two hours following a meal, insulin release from pancreas is not continuous, but [[oscillates]] with a period of 3&ndash;6 minutes, changing from generating a blood insulin concentration more than ~800 [[pico-|p]][[unit mole|mol]]/l to less than 100 pmol/l.<ref name="hellman"> {{cite journal |author=Hellman B, Gylfe E, Grapengiesser E, Dansk H, Salehi A |title=[Insulin oscillations--clinically important rhythm. Antidiabetics should increase the pulsative component of the insulin release] |language=Swedish |journal=Lakartidningen |volume=104 |issue=32-33 |pages=2236–9 |year=2007 |pmid=17822201 |doi=}} </ref> This is thought to avoid [[receptor downregulation|downregulation]] of [[insulin receptor]]s in target cells and to assist the liver in extracting insulin from the blood.<ref name="hellman" /> This oscillation is important to consider when administering insulin-stimulating medication, since it is the oscillating blood concentration of insulin release which should, ideally, be achieved,  not a constant high concentration.<ref name="hellman" /> It is also important to consider in that all methods of insulin replacement can never hope to replicate this delivery mechanism precisely.  This may be achieved by delivering insulin rhythmically to the [[portal vein]] or by [[islet cell transplantation]] to the liver.<ref name="hellman" /> Future insulin pumps could attempt to address this characteristic. (See also [[Pulsatile Insulin]].)
+
+=== Signal transduction ===
+
+There are special transporter proteins in [[cell membrane]]s through which [[glucose]] from the blood can enter a cell. These transporters are, indirectly, under blood insulin's control in certain body cell types (e.g., muscle cells). Low levels of circulating insulin, or its absence, will prevent glucose from entering those cells (e.g., in Type 1 diabetes). However, more commonly there is a decrease in the sensitivity of cells to insulin (e.g., the reduced insulin sensitivity characteristic of Type 2 diabetes), resulting in decreased glucose absorption. In either case, there is 'cell starvation', weight loss, sometimes extreme. In a few cases, there is a defect in the release of insulin from the pancreas. Either way, the effect is, characteristically, the same: elevated blood glucose levels.
+
+Activation of [[insulin receptor]]s leads to internal cellular mechanisms that directly affect glucose uptake by regulating the number and operation of protein molecules in the cell membrane that transport glucose into the cell. The genes that specify the proteins that make up the insulin receptor in cell membranes have been identified and the structure of the interior, cell membrane section, and now, finally after more than a decade, the extra-membrane structure of receptor (Australian researchers announced the work 2Q 2006).
+
+Two types of tissues are most strongly influenced by insulin, as far as the stimulation of glucose uptake is concerned: muscle cells ([[myocyte]]s) and fat cells ([[adipocyte]]s). The former are important because of their central role in movement, breathing, circulation, etc, and the latter because they accumulate excess [[food energy]] against future needs. Together, they account for about two-thirds of all cells in a typical human body.
+
+=== Physiological effects ===
+
+[[Image:Insulin glucose metabolism.jpg|thumbnail|400px|'''Effect of insulin on glucose uptake and metabolism.''' Insulin binds to its receptor (1) which in turn starts many protein activation cascades (2). These include: translocation of Glut-4 transporter to the [[plasma membrane]] and influx of glucose (3), [[glycogen]] synthesis (4), [[glycolysis]] (5) and [[fatty acid]] synthesis (6).]]
+
+The actions of insulin on the global human metabolism level include:
+
+* Control of cellular intake of certain substances, most prominently [[glucose]] in muscle and [[adipose]] tissue (about ⅔ of body cells).
+* Increase of [[DNA replication]] and [[protein synthesis]] via control of amino acid uptake.
+* Modification of the activity of numerous [[enzymes]].
+
+The actions of insulin on cells include:
+
+* Increased [[glycogen]] synthesis – insulin forces storage of glucose in liver (and muscle) cells in the form of glycogen; lowered levels of insulin cause liver cells to convert glycogen to glucose and excrete it into the blood. This is the clinical action of insulin which is directly useful in reducing high blood glucose levels as in diabetes.
+* Increased [[fatty acid]] synthesis – insulin forces fat cells to take in blood lipids which are converted to [[triglycerides]]; lack of insulin causes the reverse.
+* Increased [[esterification]] of fatty acids – forces [[adipose tissue]] to make fats (i.e., triglycerides) from fatty acid esters; lack of insulin causes the reverse.
+* Decreased [[proteolysis]] – decreasing the breakdown of protein.
+* Decreased [[lipolysis]] – forces reduction in conversion of fat cell lipid stores into blood fatty acids; lack of insulin causes the reverse.
+* Decreased [[gluconeogenesis]] – decreases production of glucose from non-sugar substrates, primarily in the liver (remember, the vast majority of endogenous insulin arriving at the liver never leaves the liver); lack of insulin causes glucose production from assorted substrates in the liver and elsewhere.
+* Increased amino acid uptake – forces cells to absorb circulating amino acids; lack of insulin inhibits absorption.
+* Increased potassium uptake – forces cells to absorb serum potassium; lack of insulin inhibits absorption. Thus lowers potassium levels in blood.
+* Arterial muscle tone – forces arterial wall muscle to relax, increasing blood flow, especially in micro arteries; lack of insulin reduces flow by allowing these muscles to contract.
+
+=== Degradation ===
+
+Once an insulin molecule has docked onto the receptor and effected its action, it may be released back into the extracellular environment or it may be degraded by the cell. Degradation normally involves [[endocytosis]] of the insulin-receptor complex followed by the action of [[insulin degrading enzyme]]. Most insulin molecules are degraded by [[liver]] cells. It has been estimated that a insulin molecule that is produced endogenously by the pancreatic beta cells is degraded within approximately one hour after its initial release into circulation (insulin [[biological half-life|half-life]] ~ 70 minutes).<ref>{{cite journal |author=William C. Duckworth, Robert G. Bennett and Frederick G. Hamel |year=1998 |url=http://edrv.endojournals.org/cgi/content/full/19/5/608#F1 |title=Insulin Degradation: Progress and Potential |journal=Endocrine Reviews |volume=19 |issue=5 |pages=608–624 |doi=10.1210/er.19.5.608 |pmid=9793760}}</ref>
+
+== Hypoglycemia ==
+{{Main|Hypoglycemia}}
+
+Although other cells can use other fuels for a while (most prominently fatty acids), [[neurons]] depend on glucose as a source of energy in the non-starving human. They do not require insulin to absorb glucose, unlike muscle and adipose tissue, and they have very small internal stores of glycogen. [[Glycogen]] stored in liver cells (unlike glycogen stored in muscle cells) can be converted to glucose, and released into the blood, when glucose from digestion is low or absent, and the [[glycerol]] backbone in [[triglycerides]] can also be used to produce blood glucose.
+
+Sufficient lack of glucose and scarcity of these sources of glucose can dramatically make itself manifest in the impaired functioning of the [[central nervous system]]; dizziness, speech problems, and even loss of consciousness, can occur. Low glucose is known as [[hypoglycemia]] or, in cases producing unconsciousness, "hypoglycemic coma" (sometimes termed "insulin shock" from the most common causative agent). Endogenous causes of insulin excess (such as an [[insulinoma]]) are very rare, and the overwhelming majority of insulin-excess induced hypoglycemia cases are [[Iatrogenesis|iatrogenic]] and usually accidental. There have been a few reported cases of murder, attempted murder, or suicide using insulin overdoses, but most insulin shocks appear to be due to errors in dosage of insulin (e.g., 20 units of insulin instead of 2) or other unanticipated factors (didn't eat as much as anticipated, or exercised more than expected, or unpredicted kinetics of the subcutaneously injected insulin itself).
+
+Possible causes of hypoglycemia include:
+
+* External insulin (usually injected subcutaneously).
+* Oral hypoglycemic agents (e.g., any of the sulfonylureas, or similar drugs, which increase insulin release from beta cells in response to a particular blood glucose level).
+* Ingestion of low-carbohydrate sugar substitutes (animal studies show these can trigger insulin release (albeit in much smaller quantities than sugar) according to a report in ''Discover'' magazine, August 2004, p 18, although this is only an issue in people who do not have diabetes, or those who have type 2 diabetes because type 1 diabetes is caused by a complete absence of insulin.  As a result, this can never be a cause of hypoglycemia in patients with type 1 diabetes since there is no endogenous insulin production to stimulate.
+
+== Diseases and syndromes ==
+
+There are several conditions in which insulin disturbance is pathologic:
+
+* [[Diabetes mellitus]] – general term referring to all states characterized by hyperglycemia.
+** [[Diabetes mellitus#Type 1|Type 1]] – autoimmune-mediated destruction of insulin producing beta cells in the pancreas resulting in absolute insulin deficiency. 
+** [[Diabetes mellitus#Type 2|Type 2]] – multifactoral syndrome with combined influence of genetic susceptibility and influence of environmental factors, the best known being [[obesity]], age, and physical inactivity, resulting in [[insulin resistance]] in cells requiring insulin for glucose absorption. This form of diabetes is strongly inherited.
+** Other types of impaired glucose tolerance (see the [[diabetes]] article).
+* [[Insulinoma]] - a tumor of pancreatic beta cells producing excess of insulin or [[reactive hypoglycemia]].
+* [[Metabolic syndrome]] – a poorly understood condition first called [[Syndrome X]] by [[Gerald Reaven]], [[Reaven's Syndrome]] after Reaven, CHAOS in Australia (from the signs which seem to travel together), and sometimes [[prediabetes]]. It is currently not clear whether these signs have a single, treatable cause, or are the result of body changes leading to type 2 diabetes. It is characterized by elevated blood pressure, dyslipidemia (disturbances in blood cholesterol forms and other blood lipids), and increased waist circumference (at least in populations in much of the developed world). The basic underlying cause may be the insulin resistance of type 2 diabetes which is a diminished capacity for insulin response in some tissues (e.g., muscle, fat) to respond to insulin. Commonly, morbidities such as essential [[hypertension]], [[obesity]], Type 2 diabetes, and [[cardiovascular disease]] (CVD) develop.
+* [[Polycystic ovary syndrome]] – a complex syndrome in women in the reproductive years where there is [[anovulation]] and [[androgen]] excess commonly displayed as [[hirsutism]]. In many cases of PCOS [[insulin resistance]] is present.
+
+== As a medication ==
+{{main|Insulin therapy}}
+Synthetic "human" insulin is now manufactured for widespread clinical use using genetic engineering techniques using [[Recombinant_DNA#Synthetic_insulin_production_using_DNA|recombinant DNA]] technology, which the manufacturers claim reduces the presence of many impurities. 
+
+Unlike many medicines, insulin cannot be taken orally. Like nearly all other proteins introduced into the [[gastrointestinal tract]], it is reduced to fragments (even single amino acid components), whereupon all 'insulin activity' is lost. There has been some research into ways to protect insulin from the digestive tract, so that it can be administered in a pill. So far this is entirely experimental. 
+
+Insulin is usually taken as [[subcutaneous]] [[Injection (medicine)|injection]]s by single-use [[syringe]]s with [[hypodermic needle|needle]]s, an [[insulin pump]], or by repeated-use [[insulin pen]]s with needles.
+
+== History ==
+=== Discovery and characterization ===
+
+In 1869 [[Paul Langerhans]], a medical student in [[Berlin]], was studying the structure of the [[pancreas]] under a [[microscope]] when he identified some previously un-noticed tissue clumps scattered throughout the bulk of the pancreas. The function of the "little heaps of cells," later [[eponym|known as]] the ''[[Islets of Langerhans]]'', was unknown, but [[Edouard Laguesse]] later suggested that they might produce secretions that play a regulatory role in digestion. Paul Langerhans' son, Archibald, also helped to understand this regulatory role.
+
+In 1889, the [[Germany|Polish-German]] physician [[Oscar Minkowski]] in collaboration with [[Joseph von Mering]] removed the [[pancreas]] from a healthy dog to test its assumed role in digestion. Several days after the dog's pancreas was removed, Minkowski's animal keeper noticed a swarm of flies feeding on the dog's urine. On testing the urine they found that there was sugar in the dog's urine, establishing for the first time a relationship between the pancreas and diabetes. In 1901, another major step was taken by [[Eugene Opie]], when he clearly established the link between the Islets of Langerhans and diabetes: ''Diabetes mellitus … is caused by destruction of the islets of Langerhans and occurs only when these bodies are in part or wholly destroyed.'' Before his work, the link between the pancreas and diabetes was clear, but not the specific role of the islets.
+
+[[Image:InsulinMonomer.jpg|250px|thumb|'''The structure of insulin.''' The left side is a space-filling model of the insulin monomer, believed to be biologically active. [[Carbon]] is green, [[hydrogen]] white, [[oxygen]] red, and [[nitrogen]] blue. On the right side is a cartoon of the insulin hexamer, believed to be the stored form. A monomer unit is highlighted with the A chain in blue and the B chain in cyan. Yellow denotes disulfide bonds, and magenta spheres are zinc ions.]]
+
+Over the next two decades, several attempts were made to isolate whatever it was the islets produced as a potential treatment. In 1906 [[George Ludwig Zuelzer]] was partially successful treating dogs with pancreatic extract but was unable to continue his work. Between 1911 and 1912, [[E.L. Scott]] at the [[University of Chicago]] used aqueous pancreatic extracts and noted ''a slight diminution of glycosuria'' but was unable to convince his director of his work's value; it was shut down. [[Israel Kleiner]] demonstrated similar effects at [[Rockefeller University]] in 1919, but his work was interrupted by [[World War I]] and he did not return to it. [[Nicolae Paulescu]], a professor of physiology at the [[Carol Davila University of Medicine and Pharmacy|University of Medicine and Pharmacy in Bucharest]] was the first one to isolate insulin, which he called at that time pancrein, and published his work in 1921 that had been carried out in Bucharest. Use of his techniques was patented in [[Romania]], though no clinical use resulted.<ref name="Murray">{{cite journal |url=http://jhmas.oxfordjournals.org/cgi/reprint/XXVI/2/150.pdf |author=Ian Murray |title=Paulesco and the Isolation of Insulin |journal=Journal of the History of Medicine and Allied Sciences |volume=26 |year=1971 |issue=2 |pages=150–157 |format=PDF}}</ref>
+
+In October 1920 Canadian [[Frederick Banting]] was reading one of Minkowski's papers and concluded that it is the very digestive secretions that Minkowski had originally studied that were breaking down the islet secretion(s), thereby making it impossible to extract successfully. He jotted a note to himself ''Ligate pancreatic ducts of the dog. Keep dogs alive till acini degenerate leaving islets. Try to isolate internal secretion of these and relieve glycosurea.''
+
+The idea was that the pancreas's internal secretion, which supposedly regulates sugar in the bloodstream, might hold the key to the treatment of diabetes.
+
+He travelled to [[Toronto]] to meet with [[John James Richard Macleod|J.J.R. Macleod]], who was not entirely impressed with his idea – so many before him had tried and failed. Nevertheless, he supplied Banting with a lab at the [[University of Toronto]], an assistant (medical student [[Charles Best]]), and 10 dogs, then left on vacation during the summer of 1921. Their method was tying a ligature (string) around the pancreatic duct, and, when examined several weeks later, the pancreatic digestive cells had died and been absorbed by the immune system, leaving thousands of islets. They then isolated an extract from these islets, producing what they called ''isletin'' (what we now know as insulin), and tested this extract on the dogs. Banting and Best were then able to keep a pancreatectomized dog alive all summer because the extract lowered the level of sugar in the blood.
+
+Macleod saw the value of the research on his return but demanded a re-run to prove the method actually worked. Several weeks later it was clear the second run was also a success, and he helped publish their results privately in Toronto that November. However, they needed six weeks to extract the isletin, which forced considerable delays. Banting suggested that they try to use fetal calf pancreas, which had not yet developed digestive glands; he was relieved to find that this method worked well. With the supply problem solved, the next major effort was to purify the extract. In December 1921, Macleod invited the [[biochemist]] [[James Collip]], to help with this task, and, within a month, the team felt ready for a clinical test.
+
+On [[January 11]], [[1922]], [[Leonard Thompson (diabetic)|Leonard Thompson]], a 14-year-old diabetic who lay dying at the [[Toronto General Hospital]], was given the first injection of insulin. However, the extract was so impure that Thompson suffered a severe [[anaphylaxis|allergic reaction]], and further injections were canceled. Over the next 12 days, Collip worked day and night to improve the ox-pancreas extract, and a second dose was injected on the 23rd. This was completely successful, not only in having no obvious side-effects, but in completely eliminating the glycosuria sign of diabetes.
+
+Children dying from diabetic keto-acidosis were kept in large wards, often with 50 or more patients in a ward, mostly comatose. Grieving family members were often in attendance, awaiting the (until then, inevitable) death. In one of medicine's more dramatic moments Banting, Best and Collip went from bed to bed, injecting an entire ward with the new purified extract. Before they had reached the last dying child, the first few were awakening from their coma, to the joyous exclamations of their families.{{Fact|date=September 2008}}
+
+However, Banting and Best never worked well with Collip, regarding him as something of an interloper, and Collip left the project soon after.
+
+Over the spring of 1922, Best managed to improve his techniques to the point where large quantities of insulin could be extracted on demand, but the preparation remained impure. The drug firm [[Eli Lilly and Company]] had offered assistance not long after the first publications in 1921, and they took Lilly up on the offer in April. In November, Lilly made a major breakthrough, and were able to produce large quantities of highly refined, 'pure' insulin. Insulin was offered for sale shortly thereafter.
+
+Purified animal-sourced insulin was the only type of insulin available to diabetics until genetic breakthroughs occurred later with medical research.  The amino acid structure of insulin was characterized in the 1950's and the first genetically-engineered human insulin was produced in a laboratory in 1977 by Genentech using [[Escherichia coli|E. coli]].<ref>http://www.gene.com/gene/news/press-releases/display.do?method=detail&id=4160</ref><ref>http://www.littletree.com.au/dna.htm</ref>  Partnering with [[Genentech]], Eli Lilly went on in 1982 to sell the first commerically available human insulin under the brand name [[Humulin]].<ref>http://www.madehow.com/Volume-7/Insulin.html</ref>  The vast majority of insulin currently used world-wide is now recombinant human insulin.
+
+=== Nobel prizes ===
+
+The [[Nobel Prize]] committee in 1923 credited the practical extraction of insulin to a team at the [[University of Toronto]] and awarded the Nobel Prize to two men; [[Frederick Banting]] and [[John James Richard Macleod|J.J.R. Macleod]]. They were awarded the [[Nobel Prize in Physiology or Medicine]] in 1923 for the discovery of insulin. Banting, insulted that Best was not mentioned, shared his prize with Best, and Macleod immediately shared his with [[James Collip]]. The patent for insulin was sold to the [[University of Toronto]] for one dollar.
+
+Surprisingly, while Paulescu's pioneering work was being completely ignored by the Nobel prize committee. Professor Ian Murray, was particularly active in working to correct the historical wrong against Paulescu. Murray was a professor of physiology at the Anderson College of Medicine in [[Glasgow]], [[Scotland]], the head of the department of Metabolic Diseases at a leading Glasgow hospital, vice-president of the British Association of Diabetes, and a founding member of the [[International Diabetes Federation]].  In an article for a 1971 issue of the Journal of the History of Medicine and Allied Sciences, Murray wrote:
+
+<blockquote>"''Insufficient recognition has been given to Paulesco, the distinguished Roumanian scientist, who at the time when the Toronto team were commencing their research had already succeeded in extracting the antidiabetic hormone of the pancreas and proving its efficacy in reducing the hyperglycaemia in diabetic dogs.''"</blockquote>
+
+Furthermore, Murray reported:
+
+<blockquote>"''In a recent private communication Professor [[Arne Tiselius|Tiselius]], head of the Nobel Institute, has expressed his personal opinion that Paulesco was equally worthy of the award in 1923.''"<ref name="Murray"/></blockquote>
+
+The [[primary structure]] of insulin was determined by British molecular biologist [[Frederick Sanger]]. It was the first protein to have its sequence be determined. He was awarded the 1958 [[Nobel Prize in Chemistry]] for this work.
+
+In 1969, after decades of work, [[Dorothy Crowfoot Hodgkin]] determined the spatial conformation of the molecule, the so-called [[tertiary structure]], by means of [[X-ray diffraction]] studies. She had been awarded a Nobel Prize in Chemistry in 1964 for the development of [[crystallography]].
+
+[[Rosalyn Sussman Yalow]] received the 1977 Nobel Prize in Medicine for the development of the [[radioimmunoassay]] for insulin.
+
+== See also ==
+
+* [[Insulin analog]]
+* Anatomy and physiolology
+** [[Glucagon]]
+** [[Pancreas]]
+** [[Islets of Langerhans]]
+** [[Endocrinology]]
+* Forms of diabetes mellitus
+** [[Diabetes mellitus]]
+** [[Diabetes mellitus type 1]]
+** [[Diabetes mellitus type 2]]
+* Treatment
+** [[Diabetic coma]]
+** [[Intensive insulinotherapy]]
+** [[Insulin pump]]
+** [[Conventional insulinotherapy]]
+* Other medical / diagnostic uses
+** [[Insulin tolerance test]]
+** [[Triple bolus test]]
+
+== References ==
+{{Reflist|2}}
+
+== Further reading ==
+{{refbegin | 2}}
+* [http://www.rounite.com/2008/09/12/nicolae-paulescu/ The True Inventor of Insulin - Nicolae Paulescu] 
+* {{cite book |last = Reaven | first=Gerald M. | coauthors = Ami Laws (ed.)|title=Insulin Resistance: The Metabolic Syndrome X |url= |format= |accessdate= |accessyear= |accessmonth= |edition=1st Edition |date=1999--04-15 |publisher=Humana Press |location=Totowa, New Jersey |language= |isbn=0-89603-588-3 |doi=10.1226/0896035883}}
+* {{cite book |last=Leahy |first=Jack L. |coauthors=William T. Cefalu (ed.) |title=Insulin Therapy |edition=1st Edition |date=2002-03-22 |publisher=Marcel Dekker |location=New York |isbn=0-8247-0711-7 }}
+* {{cite book |last=Kumar |first=Sudhesh |coauthors=Stephen O'Rahilly (ed.) |title=Insulin Resistance: Insulin Action and Its Disturbances in Disease |origdate= |origyear= |origmonth= |url= |format= |accessdate= |accessyear= |accessmonth= |edition= |date=2005-01-14 |publisher=Wiley |location=Chichester, England |isbn=0-470-85008-6 }}
+* {{cite book |last=Ehrlich |first=Ann |authorlink= |coauthors=Carol L. Schroeder |title=Medical Terminology for Health Professions |origdate= |edition=4th Edition |date=2000-06-16 |publisher=Thomson Delmar Learning |location= |isbn=0-7668-1297-9 }}
+* {{cite book |last=Draznin |first=Boris |authorlink= |coauthors=Derek LeRoith |editor= |others= |title=Molecular Biology of Diabetes: Autoimmunity and Genetics; Insulin Synthesis and Secretion |origdate= |origyear= |origmonth= |url= |format= |accessdate= |accessyear= |accessmonth= |edition= |date= |year=1994 |month=September |publisher=Humana Press |location=Totowa, New Jersey |isbn=0-89603-286-8 |doi=10.1226/0896032868 }}
+* [http://www.collectionscanada.ca/physicians/002032-200-e.html Famous Canadian Physicians: Sir Frederick Banting] at Library and Archives Canada
+* {{cite journal | author = McKeage K, Goa KL | title = Insulin glargine: a review of its therapeutic use as a long-acting agent for the management of type 1 and 2 diabetes mellitus | journal = Drugs | volume = 61 | issue = 11 | pages = 1599–624 | year = 2001 | pmid = 11577797 | doi = | url = | issn = }}
+{{refend}}
+
+== External links ==
+* [http://macromoleculeinsights.com/insulin.php] The Insulin Protein
+* [http://www.dailytimes.com.pk/default.asp?page=2006%5C07%5C15%5Cstory_15-7-2006_pg3_2 Inspired by Insulin] article by parent of a diabetic child
+* [http://www.vega.org.uk/video/programme/18 Frederick Sanger, Nobel Prize for sequencing Insulin] Freeview video with John Sanger and John Walker by the Vega Science Trust.
+* [http://nist.rcsb.org/pdb/molecules/pdb14_1.html Insulin: entry from protein databank]
+* [http://www.med.uni-giessen.de/itr/history/inshist.html The History of Insulin]
+* [http://www.rxlist.com/cgi/generic/insulinlispro.htm Insulin Lispro]
+* [http://archives.cbc.ca/IDD-1-75-702/science_technology/diabetes/ CBC Digital Archives - Banting, Best, Macleod, Collip: Chasing a Cure for Diabetes]
+* [http://www.cosmosmagazine.com/node/663 ''Cosmos Magazine'': Insulin mystery cracked after 20 years]
+* [http://diabetes.niddk.nih.gov/ National Diabetes Information Clearinghouse]
+* [http://link.library.utoronto.ca/insulin/ Discovery and Early Development of Insulin, 1920&ndash;1925]
+* [http://www.medbio.info/Horn/Time%203-4/secretion_of_insulin_and_glucagon_nov_2007.htm Secretion of Insulin and Glucagon]
+* [http://www.northcoastmed.com/newsletter/news001.htm Insulin Types Comparison Chart]
+* [http://www.steroiduse.org/hormones/78-the-insulin-hormone.html Insulin hormone dosage and side effects]
+{{Hormones}}
+
+[[Category:Eli Lilly and Company]]
+[[Category:Recombinant proteins]]
+[[Category:Peptide hormones]]
+[[Category:Pancreatic hormones]]
+[[Category:Insulin therapies]]
+[[Category:Anti-diabetic drugs]]
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = no
+}}
+
+[[af:Insulien]]
+[[ar:إنسولين]]
+[[ast:Insulina]]
+[[az:Insulin]]
+[[bs:Inzulin]]
+[[bg:Инсулин]]
+[[ca:Insulina]]
+[[cs:Inzulin]]
+[[da:Insulin]]
+[[de:Insulin]]
+[[dv:އިންސިޔުލިން]]
+[[et:Insuliin]]
+[[el:Ινσουλίνη]]
+[[es:Insulina]]
+[[eo:Insulino]]
+[[eu:Intsulina]]
+[[fa:انسولین]]
+[[fr:Insuline]]
+[[ga:Inslin]]
+[[gl:Insulina]]
+[[ko:인슐린]]
+[[hr:Inzulin]]
+[[id:Insulin]]
+[[is:Insúlín]]
+[[it:Insulina]]
+[[he:אינסולין]]
+[[pam:Insulin]]
+[[ku:Însulîn]]
+[[la:Insulinum]]
+[[lv:Insulīns]]
+[[lt:Insulinas]]
+[[hu:Inzulin]]
+[[mk:Инсулин]]
+[[ml:ഇന്‍സുലിന്‍]]
+[[ms:Insulin]]
+[[nl:Insuline]]
+[[ja:インスリン]]
+[[no:Insulin]]
+[[nn:Insulin]]
+[[oc:Insulina]]
+[[pl:Insulina]]
+[[pt:Insulina]]
+[[ro:Insulină]]
+[[ru:Инсулин]]
+[[sq:Insulina]]
+[[simple:Insulin]]
+[[sk:Inzulín]]
+[[sl:Insulin]]
+[[sr:Инсулин]]
+[[su:Insulin]]
+[[fi:Insuliini]]
+[[sv:Insulin]]
+[[th:อินซูลิน]]
+[[vi:Insulin]]
+[[tr:İnsülin]]
+[[uk:Інсулін]]
+[[ur:جزیرین]]
+[[yi:אינסולין]]
+[[zh:胰岛素]]

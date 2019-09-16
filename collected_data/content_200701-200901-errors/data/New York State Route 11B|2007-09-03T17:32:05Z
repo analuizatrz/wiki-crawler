@@ -1,0 +1,76 @@
+{{Infobox road
+|state=NY
+|type=NY
+|route=11B
+|alternate_name=
+|length_mi=36.98
+|length_round=2
+|length_ref=<ref name="nyr">[http://www.gribblenation.net/nyroutes/ind/010_019.htm#011b New York Routes - New York State Route 11B]</ref>
+|established=
+|direction_a=West
+|starting_terminus=[[Image:US 11.svg|20px]] [[U.S. Route 11 (New York)|US 11]] in [[Potsdam, New York|Potsdam]]
+|junction=
+|direction_b=East
+|ending_terminus=[[Image:US 11.svg|20px]][[Image:NY-30.svg|20px]][[Image:NY-37.svg|20px]] [[U.S. Route 11 (New York)|US 11]]/[[New York State Route 30|NY 30]]/[[New York State Route 37|NY 37]] in [[Malone, New York|Malone]]
+|counties=[[St. Lawrence County, New York|St. Lawrence]], [[Franklin County, New York|Franklin]]
+|spur_type=US
+|spur_of=11
+|previous_type=NY
+|previous_route=11A
+|next_type=NY
+|next_route=11C
+}}
+'''New York State Route 11B''' is a [[state highway]] in northern [[New York]], [[USA]]. NY 11B acts as a link between [[Franklin County, New York|Franklin County]] in the east and [[St. Lawrence County, New York|St. Lawrence County]] in the west. 
+
+NY 11B provides a parallel east-west route to [[U.S. Route 11 (New York)|U.S. Route 11]], but follows a more southerly path between [[Potsdam (village), New York|Potsdam]] and [[Malone (village), New York|Malone]]. The western terminus, in the Village of Potsdam, is at a junction with US 11. The eastern terminus, in the Village of Malone, is at a junction with US 11, [[New York State Route 30]], and [[New York State Route 37]].
+
+==Major intersections==
+{{NYinttop}}
+{{NYint
+|county=St. Lawrence
+|cspan=3
+|mile=0.0
+|road=[[Image:US 11.svg|20px]] [[U.S. Route 11 (New York)|US 11]]
+|location=Potsdam
+|area=village
+}}
+{{NYint
+|mile=13.7
+|road=[[Image:NY-72.svg|20px]] [[New York State Route 72|NY 72]]
+|location=Hopkinton
+|lspan=2
+|notes=Northern terminus of NY 72.
+}}
+{{NYint
+|mile=15.9
+|road=[[Image:NY-458.svg|25px]] [[New York State Route 458|NY 458]]
+|notes=Northern terminus of NY 458.
+}}
+{{NYint
+|county=Franklin
+|cspan=3
+|type=mplex
+|mile=36.7
+|road=[[Image:NY-30.svg|20px]] [[New York State Route 30|NY 30]]
+|location=Malone
+|area=village
+|lspan=3
+|notes=Southern terminus of concurrency.
+}}
+{{NYint
+|type=mplex
+|mile=37.0
+|road=[[Image:NY-30.svg|20px]] [[New York State Route 30|NY 30]]
+|notes=Northern terminus of concurrency.
+}}
+{{NYint
+|mile=37.0
+|road=[[Image:US 11.svg|20px]] [[U.S. Route 11 (New York)|US 11]]<br />[[Image:NY-37.svg|20px]] [[New York State Route 37|NY 37]]
+}}
+{{NYintbtm}}
+
+==References==
+<references/>
+{{NewYork-State-Highway-stub}}
+
+[[Category:State highways in New York|011B]]

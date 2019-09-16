@@ -1,0 +1,179 @@
+[[Image:Eniac.jpg|right|300px|thumb|Glen Beck (background) and [[Betty Holberton|Betty Snyder]] (foreground) program the ENIAC in [[Ballistic Research Laboratory|BRL]] building 328. (U.S. Army photo)]]  	 
+'''ENIAC''', short for '''Electronic Numerical Integrator And Computer''',<ref>{{cite book | last = Goldstine | first = Herman H. | authorlink = Herman Goldstine | title = The Computer: from Pascal to von Neumann | year = 1972 | publisher = Princeton University Press | location = Princeton, New Jersey | id = ISBN 0-691-02367-0 }}</ref> was the first purely electronic, [[Turing completeness|Turing-complete]], digital computer capable of being reprogrammed to solve a full range of computing problems,<ref>Shurkin, Joel, ''Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors'', 1996, ISBN 0-393-31471-5</ref> although earlier computers had been built with some of these properties. ENIAC was designed and built to calculate [[artillery]] [[external ballistics|firing tables]] for the [[United States Army|U.S. Army]]'s [[Ballistic Research Laboratory]]. 
+
+The contract was signed on [[June 5]], [[1943]] and ''Project PX''  was constructed by the [[University of Pennsylvania]]'s [[Moore School of Electrical Engineering]] from July, [[1943]]. It was unveiled on [[February 14]], [[1946]] at Penn, having cost almost $500,000. ENIAC was shut down on [[November 9]], [[1946]] for a refurbishment and a memory upgrade, and was transferred to [[Aberdeen Proving Ground]], [[Maryland]] in [[1947]]. There, on [[July 29]] of that year, it was turned on and would be in continuous operation until 11:45 p.m. on [[October 2]], [[1955]].
+
+ENIAC was conceived and designed by [[John Mauchly]] and [[J. Presper Eckert]] of the [[University of Pennsylvania]].<ref name=Wilkes>{{cite book
+  | last = Wilkes
+  | first = M. V.
+  | authorlink = Maurice Vincent Wilkes
+  | coauthors = 
+  | title = Automatic Digital Computers
+  | publisher = John Wiley & Sons
+  | date = 1956
+  | location = New York
+  | pages = 305 pages
+  | url = 
+  | doi = 
+  | id = QA76.W5 1956 
+  | isbn = 
+}}</ref>  The team of design engineers assisting the development included [[Robert F. Shaw|Bob Shaw]] (function tables), [[Chuan Chu]] (divider/square-rooter), [[Kite Sharpless]] (master programmer), [[Arthur Burks]] (multiplier), [[Harry Huskey]] (reader/printer), and [[Jack Davis (engineer)|Jack Davis]] (accumulators).
+
+[[Image:Two women operating ENIAC.gif|right|thumbnail|300px|thumb|Programmers [[Jean Bartik|Betty Jean Jennings]] (right) and [[Frances Spence|Fran Bilas]] (left) operate the ENIAC's main control panel at the [[Moore School of Electrical Engineering]].  (U.S. Army photo from the archives of the ARL Technical Library)]]
+
+==Description==
+ENIAC's physical size was massive compared to modern PC standards.  It contained 17,468 [[vacuum tube]]s, 7,200 crystal [[diode]]s, 1,500 [[relay]]s, 70,000 [[resistor]]s, 10,000 [[capacitor]]s and around 5 million hand-[[solder]]ed joints.  It weighed 30 [[short ton]]s (27 t), was roughly 8.5 feet  by 3 feet by 80 feet (2.6 m by 0.9 m by 26 m), took up 680 square feet (63 m²), and consumed 150 [[Kilowatt|kW]] of power.  Input was possible from an IBM card reader, while an IBM card punch was used for output. These cards could be used to produce printed output offline using an [[IBM]] accounting machine, probably the [[IBM 405]].
+
+ENIAC used ten-position [[ring counter]]s to store digits; each digit used 36 tubes, 10 of which were the dual triodes making up the [[Flip-flop (electronics)|flip-flop]]s of the ring counter. Arithmetic was performed by "counting" pulses with the ring counters and generating carry pulses if the counter "wrapped around", the idea being to emulate in electronics the operation of the digit wheels of a mechanical [[adding machine]]. ENIAC had twenty ten-digit signed [[Accumulator (computing)|accumulator]]s that used [[ten's complement]] representation and could perform 5,000 simple addition or subtraction operations between any of them and a source (e.g., another accumulator, constant transmitter) every second (Note: It was possible to connect several accumulators to run simultaneously, so the peak speed of operation was potentially much higher due to parallel operation). It was possible to wire the carry of one accumulator into another to perform [[double precision]] arithmetic but the accumulator carry circuit timing prevented the wiring of three or more for higher precision. The ENIAC used four of the accumulators controlled by a special ''Multiplier'' unit and could perform 385 multiplication operations per second. The ENIAC used five of the accumulators controlled by a special ''Divider/Square-Rooter'' unit and could perform forty division operations per second or three [[square root]] operations per second. The other nine units in ENIAC were the ''Initiating Unit'' (started and stopped the machine), the ''Cycling Unit'' (synchronized the other units), the ''Master Programmer'' (controlled "loop" sequencing), the ''Reader'' (controlled an IBM punch card reader), the ''Printer'' (controlled an IBM punch card punch), the ''Constant Transmitter'', and three ''Function Tables''.  
+[[Image:Classic shot of the ENIAC.jpg|right|thumbnail|300px|thumb|Cpl. Irwin Goldstein (foreground) sets the switches on one of the ENIAC's function tables at the [[Moore School of Electrical Engineering]]. (U.S. Army photo)]]
+
+The references by Rojas and Hashagen or (Wilkes 1956)<ref name=Wilkes>Wilkes</ref> give more details about the times for operations, which differ somewhat from those above.  The basic machine cycle was 200 [[microseconds]] (20 cycles of the 100 kHz clock in the cycling unit), or 5,000 cycles per second for operations on the 10-digit numbers.  In one of these cycles, ENIAC could write a number to a register, read a number from a register, or add/subtract two numbers.  A multiplication of a 10-digit number by a ''d''-digit number (for ''d'' up to 10) took ''d''+4 cycles, so a 10- by 10-digit multiplication took 14 cycles, or 2800 microseconds&mdash;a rate of 357 per second.  If one of the numbers had fewer than 10 digits, the operation was faster.  Division and square roots took 13(''d''+1) cycles, where ''d'' is the number of digits in the result (quotient or square root).  So a division or square root took up to 143 cycles, or 28,600 microseconds&mdash;a rate of 35 per second.  (Wilkes 1956:20<ref name=Wilkes>Wilkes</ref> states that a division with a 10 digit quotient required 6 milliseconds.) If the result had fewer than ten digits, it was obtained faster.
+
+=== Reliability ===
+ENIAC used common [[tube socket#Octal base|octal-base]] radio tubes of the day; the decimal [[Accumulator (computing)|accumulator]]s were made of [[6SN7]] [[flip-flop (electronics)|flip-flops]], while 6L7s, 6SJ7s, 6SA7s and 6AC7s were used in logic functions.  Numerous [[6L6]]s and [[6V6]]s served as line drivers to drive pulses through cables between rack assemblies. 
+
+[[Image:ENIAC Penn2.jpg|left|thumbnail|200px|thumb|Detail of the back of a section of ENIAC, showing vacuum tubes]]
+Some electronics experts predicted that tube failures would occur so frequently that the machine would never be useful.  This prediction turned out to be partially correct: several tubes burned out almost every day, leaving it nonfunctional about half the time. Special high-reliability tubes were not available until 1948. Most of these failures, however, occurred during the warm-up and cool-down periods, when the tube heaters and cathodes were under the most thermal stress. By the simple (if expensive) expedient of never turning the machine off, the engineers reduced ENIAC's tube failures to the more acceptable rate of one tube every two days. According to a 1989 interview with Eckert the continuously failing tubes story was therefore mostly a myth: "We had a tube fail about every two days and we could locate the problem within 15 minutes." 
+
+In [[1954]], the longest continuous period of operation without a failure was 116 hours (close to five days).
+<br clear="all">
+
+=== Programmability ===
+The six women who did most of the programming of ENIAC by manipulating its switches and cables were inducted in 1997 into the Women in Technology International Hall of Fame [http://www.witi.com/center/witimuseum/halloffame/1997/eniac.php].  As they were called by each other in 1946, they were [[Kathleen Antonelli|Kay McNulty]], [[Jean Bartik|Betty Jennings]], [[Betty Holberton|Betty Snyder]], [[Marlyn Meltzer|Marlyn Wescoff]], [[Frances Spence|Fran Bilas]] and [[Ruth Teitelbaum|Ruth Lichterman]].
+
+Eckert and Mauchly took the experience they gained and founded the [[Eckert-Mauchly Computer Corporation]], producing their first computer, [[BINAC]], in [[1949]] before being acquired by [[Remington Rand]] in [[1950]] and renamed as their [[UNIVAC]] division.
+
+ENIAC was a one-of-a-kind design and was never repeated.  The freeze on design in 1943 meant that the computer had a number of shortcomings which were not included in the design, notably the inability to store a program.  [[John von Neumann]], who was consulting for the Moore School on the [[EDVAC]] (the ENIAC's successor computer for the BRL) and sat in on the Moore School meetings at which the stored program concept was elaborated, wrote up an incomplete set of notes (''[[First Draft of a Report on the EDVAC]]'') intended to be used as an internal memorandum describing, elaborating, and couching in formal logical language the ideas developed in the meetings.  Herman Goldstine distributed copies of the ''First Draft'' to a number of government and educational institutions, spurring widespread interest in the construction of a new generation of electronic computing machines, including [[EDSAC]] and [[SEAC (computer)|SEAC]].
+
+A number of improvements were also made to ENIAC from [[1948]], including a primitive read-only stored programming mechanism [http://ftp.arl.mil/~mike/comphist/48eniac-coding/] using the Function Tables as program [[Read-only memory|ROM]], an idea included in the ENIAC patent and proposed independently by Dr. Richard Clippinger of the BRL.  Dick Clippinger consulted with John von Neumann on what instruction set to implement.  Clippinger had thought of a 3-address architecture while von Neumann proposed a 1-address architecture because it was simpler to implement.  Three digits of one accumulator (6) were used as the program counter, another accumulator (15) was used as the main accumulator, a third accumulator (8) was used as the address pointer for reading data from the function tables, and most of the other accumulators (1-5, 7, 9-14, 17-19) were used for data memory.  The programming of the stored program for ENIAC was done by Betty Jennings, Dick Clippinger and Adele Goldstine.  It was first demonstrated as a stored-program computer on [[September 16]], [[1948]], running a program by [[Adele Goldstine]] for John von Neumann.  This modification reduced the speed of ENIAC by a factor of six and eliminated the ability of parallel computation, but as it also reduced the reprogramming time to hours instead of days, it was considered well worth the loss of performance.  Also analysis had shown that due to differences between the electronic speed of computation and the electromechanical speed of input/output, almost any practical real world problem was completely [[I/O bound]] even without making use of the original machine's parallelism and most would still be I/O bound even after the speed reduction from this modification.  Early in [[1952]], a high speed shifter was added, which improved the speed for shifting by a factor of five. In July [[1953]], a 100-word expansion [[core memory]] was added to the system, using [[binary coded decimal]], [[excess-3]] number representation. To support this expansion memory, the ENIAC was equipped with a new Function Table selector, a memory address selector, pulse-shaping circuits, and three new orders were added to the programming mechanism.
+
+==Comparison with other early computers==
+{{main|History of computing hardware}}
+<!--THIS ARTICLE IS ABOUT ENIAC. If you wish to add very detailed material about other computers, please consider adding it to that computer's own article or [[History of computing hardware]]. Happy editing! -->
+
+Mechanical and electrical computing machines have been around since the 19th century, but the 1930s and 40s are considered the beginning of the modern computer era.
+* The American [[Atanasoff–Berry Computer]] (ABC) (shown working in December 1939) was the first electronic digital computer. It implemented binary computation with [[vacuum tubes]] but was not general purpose, being limited to solving systems of linear equations.  It also did not exploit electronic computing speeds, being limited by a rotating [[capacitor]] drum memory and an input-output system that was intended to write intermediate results to paper cards.
+* The German [[Z3]] (shown working in May 1941) was designed by [[Konrad Zuse]].  It was the first general-purpose digital computer, but it was electromechanical, rather than electronic, as it used [[relay]]s for all functions.  Like the ABC, it computed logically using binary math.  Unlike the ABC, it was [[Turing-complete]] and fully programmable by punched tape.
+* The [[UK|British]] [[Colossus computer]] (used for [[cryptanalysis]] starting in 1943) was designed by [[Tommy Flowers]].  Colossus was digital, all-electronic, and could be reprogrammed by rewiring, but was not fully general purpose as it was not Turing-complete.
+*[[Howard Aiken]]'s 1944 [[Harvard Mark I]] was programmed by punched tape and used relays.
+ 
+{{Early computer characteristics}}
+
+The ABC, ENIAC and Colossus all used [[Vacuum tube|thermionic valves (vacuum tubes)]]. ENIAC's registers performed decimal arithmetic, rather than binary arithmetic like the Z3 or the Atanasoff-Berry Computer.
+
+Until 1948, ENIAC required rewiring to reprogram, like the Colossus. The idea of the stored-program computer with combined memory for program and data was conceived during the development of the ENIAC, but it was not implemented at that time because World War II priorities required the machine to be completed quickly, and it was realized that 20 storage locations for memory and programs would be much too small.
+
+===Public knowledge===
+[[Image:ENIACsign.jpg|thumb|Sign outside the University of Pennsylvania]]
+
+The Z3 and Colossus were developed independent of the ABC and the ENIAC during [[World War II]]. The Z3 was destroyed by Allied bombing of Berlin in 1944. The Colossus machines were part of the UK's war effort, and were destroyed in 1945 to maintain secrecy. Their existence only became generally known in the 1970s, though knowledge of their capabilities remained among their UK staff and invited Americans. The ABC was dismantled by [[Iowa State University]], after [[John Atanasoff]] was called to [[Washington, D.C.]] to do physics research for the U.S. Navy.  ENIAC, by contrast, was put through its paces for the press in 1946, "and captured the world's imagination".<ref>{{ cite web | last = Kleiman | first = Kathryn A. | title = WITI Hall of Fame: The ENIAC Programmers | year = 1997 | url = http://www.witi.com/center/witimuseum/halloffame/1997/eniac.php | accessdate = 2007-06-12 }}</ref> 
+
+Older histories of computing may therefore not be comprehensive in their coverage and analysis of this period.
+
+===Patent===
+{{main|Honeywell v. Sperry Rand}}
+For a variety of reasons (including Mauchly's June 1941 examination of the [[Atanasoff–Berry Computer]], prototyped in 1939 by [[John Atanasoff]] and [[Clifford Berry]]), the patent for the ENIAC, granted in 1964, was voided by the 1973 decision of the landmark federal court case ''[[Honeywell v. Sperry Rand]]'', putting the invention of the electronic digital computer in the [[public domain]] and providing legal recognition to Atanasoff as the inventor of the electronic digital computer.
+
+==Parts on display==
+
+[[Image:ENIAC Penn1.jpg|left|thumbnail|300px|thumb|Four ENIAC panels and one of its three function tables, on display at the School of Engineering and Applied Science at the [[University of Pennsylvania]]]]
+The School of Engineering and Applied Science at the [[University of Pennsylvania]] has four of the original forty panels and one of the three function tables of the ENIAC.  The [[Smithsonian Institution|Smithsonian]] has five panels in the [[National Museum of American History]] in Washington D.C.  The [[Computer History Museum]] in Mountain View, California has a single panel on display. The [[University of Michigan]] in Ann Arbor has four panels, salvaged by [[Arthur Burks]].  The [[U.S. Army Ordnance Museum]] at [[Aberdeen Proving Ground]], [[Maryland]], where ENIAC was used, has one of the function tables.
+
+[[As of 2004]], a chip of silicon measuring 0.02 inches (0.5 mm) square holds the same capacity as the ENIAC, which occupied a large room.
+
+==See also==
+*[[History of computing hardware]]
+*Other early computers:
+**[[Atanasoff–Berry Computer]]
+**[[Colossus computer]]
+**[[CSIRAC]]
+**[[Harvard Mark I]]
+**[[Manchester Mark I]]
+**[[IBM SSEC]]
+**[[Z3]]
+
+==References==
+{{Reflist}}
+{{Refbegin}}
+* [[Herman Goldstine|Goldstine, H. H.]] and [[Adele Goldstine|A. Goldstine]], ''The Electronic Numerical Integrator and Computer (ENIAC)'', 1946 (reprinted in ''The Origins of Digital Computers: Selected Papers'', Springer-Verlag, New York, 1982, pp. 359-373)
+
+* [[J. Presper Eckert|Eckert, J. Presper]], ''The ENIAC'' (in Nicholas Metropolis, J. Howlett, Gian-Carlo Rota, (editors), ''A History of Computing in the Twentieth Century'', Academic Press, New York, 1980, pp. 525-540)
+
+* [[John Mauchly|Mauchly, John W. ]], ''The ENIAC'' (in Metropolis, Nicholas, Jack Howlett, Gian-Carlo Rota, 1980, ''A History of Computing in the Twentieth Century'', [[Academic Press]], New York, ISBN 0124916503, pp. 541-550, "Original versions of these papers were presented at the International Research Conference on the History of Computing, held at the [[Los Alamos Scientific Laboratory]], 10-15 June 1976.")
+
+* [[Arthur Burks|Burks, Arthur W.]] and [[Alice Burks|Alice R. Burks]], ''The ENIAC: The First General-Purpose Electronic Computer'' (in ''Annals of the History of Computing'', Vol. 3 (No. 4), 1981, pp. 310-389; commentary pp. 389-399)
+
+* [[W. Barkley Fritz]], ''The Women of ENIAC'' (in ''IEEE Annals of the History of Computing'', Vol. 18, 1996, pp. 13-28)
+
+* [[J. Presper Eckert|Eckert, J. Presper]] and [[John Mauchly]], 1946, ''Outline of plans for development of electronic computers'', 6 pages. (The founding document in the electronic computer industry.)
+
+* Raúl Rojas and Ulf Hashagen, editors, ''The First Computers: History and Architectures'', 2000, MIT Press, ISBN 0-262-18197-5.
+{{Refend}}
+
+==Further reading==
+{{Refbegin}}
+*Mike Hally, ''Electronic Brains: Stories from the Dawn of the Computer Age'', [[Joseph Henry]] Press, 2005.  ISBN 0-309-09630-8
+* Scott McCartney, ''ENIAC: The Triumphs and Tragedies of the World's First Computer''. Walker & Co, 1999. ISBN 0-8027-1348-3.
+* Edmund C. Berkeley, ''GIANT BRAINS or machines that think''. John Wiley & sons, inc., 1949. Chapter 7 ''Speed&mdash;5000 Additions a Second: Moore School's ENIAC (Electronic Numerical Integrator And Computer)''
+*C.B. Tompkins and J.H Wakelin, ''High-Speed Computing Devices'', McGraw-Hill, 1950.
+*{{cite book | first = Nancy | last = Stern | title = From ENIAC to UNIVAC: An Appraisal of the Eckert-Mauchly Computers | publisher = Digital Press | date = 1981 | id = ISBN 0-932376-14-2 }}
+*{{cite book | last = Lukoff | first = Herman | authorlink = Herman Lukoff | title = From Dits to Bits: A personal history of the electronic computer | year = 1979 | publisher = Robotics Press | location = Portland, Oregon | id = ISBN 0-89661-002-0 }}
+{{Refend}}
+
+==External links==
+{{Commons|ENIAC}}
+* [http://ftp.arl.army.mil/~mike/comphist/ Mike Muuss: Collected ENIAC documents]
+* [http://ftp.arl.mil/~mike/comphist/61ordnance/chap2.html ENIAC] chapter in Karl Kempf, ''Electronic Computers Within The Ordnance Corps'', November 1961
+* [http://ftp.arl.mil/~mike/comphist/eniac-story.html The ENIAC Story], Martin H. Weik, Ordnance Ballistic Research Laboratories, 1961
+* [http://www.seas.upenn.edu/~museum/index.html ENIAC museum] at the University of Pennsylvania
+* [http://www.wired.com/news/culture/0,1284,3711,00.html The women of ENIAC]
+* [http://news.com.com/2009-1006_3-6037980.html ''ENIAC—monster and marvel''] 60th anniversary news story
+*[http://americanhistory.si.edu/collections/comphist/eckert.htm Interview with Eckert] Transcript of a video interview with Eckert by David Allison for the National Museum of American History, Smithsonian Institution on February 2, 1988.  An in-depth, technical discussion on the ENIAC, including the thought process behind the design. 
+* [http://www.computerworld.com/hardwaretopics/hardware/story/0,10801,108568,00.html Q&A: A lost interview with ENIAC co-inventor J. Presper Eckert ]
+* [http://ed-thelen.org/comp-hist/BRL-e-h.html#ENIAC ENIAC specifications] from Ballistic Research Laboratories Report No. 971 December 1955, (A Survey of Domestic Electronic Digital Computing Systems)
+*{{US patent|3120606}} issued in 1964 for ENIAC ([[TIFF]] images), also [http://www.fh-jena.de/~kleine/history/machines/EckertMauchly-ENIAC-us-patent-3120606.pdf PDF version] (18,305 kB, 207 pages)
+* [http://www4.wittenberg.edu/academics/mathcomp/bjsdir/ENIACSquareRoot.htm How the ENIAC took a Square Root]
+* [http://page.mi.fu-berlin.de/~zoppke/eniac/ ENIAC simulator]
+* [http://www.myhpi.de/~schapran/eniac/modulo/ Programming example for the modulo function by Matthieu-P. Schapranow based on the simulation of Till Zoppke (en)]
+* [http://www.ee.upenn.edu/~jan/eniacproj.html ENIAC-on-a-Chip]
+* [http://www.columbia.edu/acis/history/eniac.html Programming the ENIAC]
+
+[[Category:Early computers]]
+[[Category:One-of-a-kind computers]]
+[[Category:University of Pennsylvania]]
+
+{{Link FA|id}}
+
+[[bn:এনিয়াক]]
+[[bs:ENIAC]]
+[[ca:ENIAC]]
+[[cs:ENIAC]]
+[[da:ENIAC]]
+[[de:ENIAC]]
+[[et:ENIAC]]
+[[el:ENIAC]]
+[[es:ENIAC]]
+[[fr:ENIAC]]
+[[ko:에니악]]
+[[hr:ENIAC]]
+[[id:ENIAC]]
+[[it:ENIAC]]
+[[he:אניאק]]
+[[lo:ENIAC]]
+[[hu:ENIAC]]
+[[ms:ENIAC]]
+[[nl:ENIAC]]
+[[ja:ENIAC]]
+[[no:ENIAC]]
+[[pl:ENIAC]]
+[[pt:ENIAC]]
+[[ru:ЭНИАК]]
+[[sl:ENIAC]]
+[[sr:ENIAC]]
+[[fi:ENIAC]]
+[[sv:ENIAC]]
+[[ta:எனியாக்]]
+[[th:อีนิแอก]]
+[[tr:ENIAC]]
+[[uk:ENIAC]]
+[[zh:電子數值積分計算器]]

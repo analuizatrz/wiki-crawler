@@ -1,0 +1,110 @@
+{{coord|46|18|34|N|6|4|37|E|type:landmark|display=title}}<!--to verify-->
+{{LHC}}
+[[Image:CMS Under Construction Apr 05.jpg|thumb|right|300px|View of the CMS endcap through the barrel sections. The yellow arm of the cherry-picker gives an impression of scale
+]]
+
+The '''Compact Muon Solenoid''' ('''CMS''') experiment is one of two large general-purpose [[particle physics]] [[Particle detector|detector]]s being (as of [[2007]]) built on the [[proton|proton-proton]] [[Large Hadron Collider]] (LHC) at [[CERN]] in [[Switzerland]].  Approximately 2600 people from 180 scientific institutes form the collaboration building it.  It will be located in an underground chamber at [[Cessy]] in [[France]], just across the border from [[Geneva, Switzerland|Geneva]].  The completed detector will be cylindrical, 21 metres long and 16 metres diameter and weigh approximately 12,500 tonnes.
+
+==Goals==
+The main goals of the experiment are:
+* to explore physics at the [[TeV]] scale
+* to discover the [[Higgs boson]]
+* to look for evidence of physics beyond the standard model, such as [[supersymmetry]], or [[extra dimensions]]
+* to study aspects of heavy ion collisions
+
+==Highlights==
+The main highlight features of the CMS (Compact Muon Solenoid) detector:
+* Its relatively small size (compact)
+* Its optimization for tracking [[muons]]
+* The powerful solenoid magnet 
+
+==Detector overview==
+CMS is designed as a general-purpose detector, capable of studying many aspects of [[proton]] collisions at 14 [[TeV]], the center-of-mass energy of the [[Large Hadron Collider|LHC]] particle accelerator.  It contains subsystems which are designed to measure the [[energy]] and [[momentum]] of [[photons]], [[electrons]], [[muons]], and other products of the collisions.  The innermost layer is a silicon-based tracker.  Surrounding it is a [[Scintillation (physics)|scintillating]] [[stolzite|crystal]] electromagnetic [[calorimeter (particle physics)|calorimeter]], which is itself surrounded with a [[sampling calorimeter]] for hadrons.  The tracker and the calorimetry are compact enough to fit inside the CMS [[solenoid]] which generates a powerful magnetic field of 4 [[tesla (unit)|T]].  Outside the magnet are the large muon detectors, which are inside the [[return yoke]] of the magnet.
+[[Image:CMScollaborationPoster.png|thumb|none|600px|The set up of the CMS. In the middle, under the so-called barrel there is a man for the scale. (HCAL=hadron calorimeter, ECAL=electromagnetic calorimeter)]]
+
+==The layers of CMS – from the center outwards==
+[[Image:CMS Slice.gif|thumb|none|400px|A slice of the CMS detector. [http://cmsinfo.cern.ch/Welcome.html/CMSmedia/CMSmovies.html Flash animation can be reached here] ]]
+===The collision region - at the center===
+This is where the [[proton]]s smash into each other. The focusing magnets in the [[Large Hadron Collider|LHC]] force the proton beams, traveling in opposite directions, to cross at the center of the CMS detector.
+
+The beams are arranged into "bunches" of protons. Each bunch contains approximately 100 billion protons. The particles are so tiny that the chance of any two colliding is very small. When the bunches cross, there will be only about 20 collisions among 200 billion particles.
+
+When two protons collide at such high energy, they are ripped apart, and the exchange of mass and energy means that particles which do not usually occur in the world around us can be created. Most of these processes are already well understood—only around 100 in every 1 billion collisions will produce "interesting" physics.
+
+Consequently, the bunches are spaced closely in the beam, so that there are 40 million bunch crossings per second—one every 25&nbsp;[[nanosecond|ns]].
+
+===Layer 1 – The tracker===
+
+Finely segmented [[Semiconductor detector|silicon sensors]] (strips and pixels) enable charged particles to be tracked and their momenta to be measured. They also reveal the positions at which long-lived unstable particles decay.
+
+===Layer 2 – The electromagnetic calorimeter===
+
+Nearly 80&thinsp;000 crystals of [[scintillation (physics)|scintillating]] [[lead tungstate]] (PbWO<sub>4</sub>) are used to measure precisely the energies of [[electron]]s and [[photon]]s. A ‘preshower’ detector, based on [[Semiconductor detector|silicon sensors]], helps particle identification in the endcaps.
+
+<gallery widths="200px">
+Image:CMS Silicon Tracker Arty HiRes.jpg|The silicon strip tracker of CMS
+Image:Lead Tungstate Crystal Preparation.jpg|Preparing Lead Tungstate Crystals for the ECAL
+</gallery>
+
+===Layer 3 – The hadron calorimeter===
+[[Image:CMS Hcal 26 01 2007.JPG|thumb|left|200px|Half of the Hadron Calorimeter]]
+Layers of dense material ([[brass]] or [[steel]]) interleaved with plastic [[Scintillation (physics)|scintillators]] or quartz fibers allow the determination of the energy of [[hadrons]], that is, particles such as [[proton]]s, [[neutron]]s, [[pion]]s and [[kaon]]s.  The brass used in the endcaps of the HCAL used to be Russian artillery shells. [http://cmsinfo.cern.ch/outreach/CMStrivia/CMStrivia.html]
+
+===Layer 4 – The magnet===
+Like most particle physics detectors, CMS has a large [[solenoid]] magnet.  This allows the charge/mass ratio of particles to be determined from the curved track that they follow in the magnetic field.  It is 13 meters long and 6 meters in diameter, and its refrigerated superconducting niobium-titanium coils was originally intended to produce a 4-[[tesla (unit)|tesla]] magnetic field. It was recently announced that the magnet will run at 3.8T instead of the full design strength in order to maximize longevity.
+
+The inductance of the magnet is 14 [[henries]] and the nominal current is 19,500 [[ampere]]s, giving a total stored energy of 2.66 [[gigajoule|GJ]], equivalent to about half-a-tonne of [[Trinitrotoluene|TNT]]. There are dump circuits to safely dissipate this energy should the magnet [[quench]].  The circuit resistance (essentially just the cables from the power converter to the [[cryostat]]) have a resistance of 0.1 milliohms which leads to a circuit time constant of nearly 39 hours.  This is the longest time constant of any circuit at CERN.
+
+===Layer 5 – The muon detectors and return yoke===
+To identify [[muon]]s and measure their momenta, CMS uses three types of detector: [[wire chamber|drift tubes]] (DT), [[cathode strip chambers]] (CSC) and [[resistive plate chambers]] (RPC).  The DT's are used for precise trajectory measurements in the central ''barrel'' region, while the CSC's are used in the ''end caps''. The RPC's provide a fast signal when a muon passes through the muon detector, and are installed in both the barrel and the end caps. 
+
+<gallery widths="200px">
+Image:HCAL Prepared for insertion.jpg|The Hadron Calorimeter Barrel (in the foreground, on the yellow frame) waits to be inserted into the superconducting magnet (the silver cylinder in the centre of the red magnet yoke).
+Image:CMS Magnet barrel Ring with Muon chambers.jpg|A part of the Magnet Yoke, with drift tubes and resitive-plate chambers in the barrel region.
+</gallery>
+
+==Collecting and collating the data==
+===Pattern recognition===
+[[Image:Tracker FED Testing.jpg|thumb|right|200px|Testing the data read-out electronics for the tracker.]]
+New particles discovered in CMS will be typically [[Particle decay|unstable]] and rapidly transform into a cascade of lighter, more stable and better understood particles. Particles travelling through CMS leave behind characteristic patterns, or ‘signatures’, in the different layers, allowing them to be identified. The presence (or not) of any new particles can then be inferred.
+
+===Trigger system===
+To have a good chance of producing a rare particle, such as a [[Higgs boson]], the particle bunches in the LHC collide up to 40 million times a second. Particle signatures are analyzed by fast electronics to save (or ‘trigger on’) only those events (around 100 per second) most likely to show new physics, such as the Higgs particle decaying to four muons. This reduces the data rate to a manageable level. These events are stored for subsequent detailed analysis.
+
+===Data analysis===
+Physicists from around the world use cutting-edge computing techniques (such as the [[Grid computing|Grid]]) to sift through billions of events from CMS to produce data that could indicate the presence of new particles or phenomena.
+
+==Milestones==
+<gallery widths="200px">
+Image:Insertion of vac-tank 2.jpg|The insertion of the vacuum-tank, June 2002
+Image:CMS Yep2 descent.gif|YE+2 descent into the cavern
+Image:YE Plus1 descends into cavern.jpg|YE+1, a component of CMS weighing 1,270 tonnes, finishes its 100 m descent into the CMS cavern, January 2007
+</gallery>
+
+==Context==
+Another experiment called [[ATLAS experiment|ATLAS]], installed at another point on the LHC ring, is meant to do similar physics; the ATLAS and CMS collaborations may compete to make major discoveries.
+
+The [[Tevatron]] is a proton - antiproton collider at [[Fermilab]], with a center-of-mass energy of about 2 [[teraelectronvolt|TeV]].  It has been operating since 1987.  There are two experiments on the Tevatron ring called [[Collider Detector at Fermilab|CDF]] and [[D0 experiment|D0]].
+
+==References==
+*{{Cite paper | author=Della Negra, Michel; Petrilli, Achille; Herve, Alain; Foa, Lorenzo;  | title=CMS Physics Technical Design Report Volume I: Software and Detector Performance | publisher=CERN | date=2006 | version= | url=http://doc.cern.ch//archive/electronic/cern/preprints/lhcc/public/lhcc-2006-001.pdf | accessdate= }}
+
+==External links== 
+{{Commons|Compact Muon Solenoid}}
+* [http://cms.cern.ch/ CMS home page]
+* [http://cmsinfo.cern.ch/ CMS Outreach]
+* [http://cmsinfo.cern.ch/outreach/CMSTimes.html CMS Times]
+* [http://www.uslhc.us/What_is_the_LHC/Experiments/CMS CMS section from US/LHC Website]
+* [http://petermccready.com/portfolio/07041601.html http://petermccready.com/portfolio/07041601.html] Panoramic view - click and drag to look around the experiment under construction (with sound!) (requires Quicktime)
+
+[[Category:Particle experiments]]
+[[Category:Large Hadron Collider]]
+
+[[de:Compact Muon Solenoid]]
+[[fr:Compact Muon Solenoid]]
+[[it:Compact Muon Solenoid]]
+[[lt:Compact Muon Solenoid]]
+[[hu:Compact Muon Solenoid]]
+[[pl:CMS (detektor)]]
+[[tr:CMS deneyi]]
+[[zh:緊湊渺子線圈]]

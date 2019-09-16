@@ -1,0 +1,976 @@
+{{otheruses}}
+[[Image:Black Hole Milkyway.jpg|thumb|right|329px|Simulated view of a black hole in front of the Milky Way. The hole has 10 solar masses and is viewed from a distance of 600 km. An acceleration of about 400 million [[g-force|g]] is necessary to sustain this distance constantly.<ref>[http://www.spacetimetravel.org/expeditionsl/expeditionsl.html "Step by Step into a Black Hole"]</ref>]]
+{{General relativity}}
+
+A '''black hole''' is a region of space in which the [[gravitational field]] is so powerful that nothing can escape after having fallen past the [[event horizon]].  The name comes from the fact that even [[electromagnetic radiation]] (e.g. [[light]]) is unable to escape, rendering the interior invisible.  However, black holes can be detected if they interact with matter ''outside'' the event horizon, for example by drawing in gas from an orbiting star. The gas spirals inward, heating up to very high temperatures and emitting large amounts of [[radiation]] in the process.<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/compact_binary.html|title=NASA/Goddard Space Flight Center: "Gamma-rays from Black Holes and Neutron Stars"}}</ref><ref>{{cite web|url=http://www.sciencedaily.com/releases/2006/10/061027184105.htm|title=Max-Planck-Gesellschaft October 28, 2006, "Discovery Of Gamma Rays From The Edge Of A Black Hole"}}</ref><ref>{{cite web|url=http://www.physorg.com/news91731386.html|title=Milky Way Black Hole May Be a Colossal 'Particle Accelerator' }}</ref>
+
+While the idea of an object with [[gravity]] strong enough to prevent light from escaping was proposed in the 18th century, black holes, as presently understood, are described by [[Einstein]]'s theory of [[general relativity]], developed in [[1916]]. This theory predicts that when a large enough amount of [[mass]] is present within a [[hoop conjecture|sufficiently small region of space]], all [[world line|paths through space]] are warped inwards towards the center of the [[volume]], forcing all matter and radiation to fall inward.
+
+While general relativity describes a black hole as a region of empty space with a pointlike [[gravitational singularity|singularity]] at the center and an event horizon at the outer edge, the description changes when the effects of [[quantum mechanics]] are taken into account.  Research on this subject indicates that, rather than holding captured matter forever, black holes may slowly leak a form of thermal energy called [[Hawking radiation]].<ref name="Nature248 ">{{cite journal| journal = Nature | volume = 248| issue = | year = 1974| pages = pp. 30-31| title = Black Hole Explosions| last = Hawking| first = Stephen| url = | format = | accessdate = }}</ref><ref name="McDonald">{{cite journal| journal = Princeton University| volume = | issue = | year = 1998| pages = p. 1| title = Hawking-Unruh Radiation and Radiation of a Uniformly Accelerated Charge| last = McDonald| first = Kirk T.| url = | format = | accessdate = }}</ref><ref name="HawkingPenrose">{{cite book| title = The Nature of Space and Time | edition = New Ed edition | last = Hawking | first = Stephen | coauthors = Penrose, Roger | year = 2000| publisher = Princeton University Press| id = ISBN 978-0691050843| pages = p. 44}}</ref>  However, the final, correct description of black holes, requiring a theory of [[quantum gravity]], is unknown.
+
+==Sizes of black holes==
+Black holes can have any mass. Since the gravitational force of a body on itself, at the surface of a body of any shape, increases in inverse  proportion to its characteristic lengthscale squared (as volume<sup>-2/3</sup> ), an object of any shape and mass that is sufficiently compressed will collapse under its own gravity and form a black hole. However, when black holes form naturally, only a few mass ranges are realistic.
+
+Black  holes can be divided into several size categories:
+* [[Supermassive black hole]]s that contain millions to billions of times the [[solar mass|mass of the sun]] are believed to exist in the center of most galaxies, including our own [[Milky Way]]. They are thought to be responsible for [[active galactic nuclei]].
+* [[Intermediate-mass black hole]]s, whose size is measured in thousands of solar masses, may exist. Intermediate-mass black holes have been proposed as a possible power source for [[ultra-luminous X ray source]]s.
+* [[Stellar black hole|Stellar-mass black holes]] have masses ranging from about 1.5-3.0 solar masses (the [[Tolman-Oppenheimer-Volkoff limit]]) to 15 solar masses. These black holes are created by the collapse of individual stars. Stars above about 20 solar masses may collapse to form black holes; the cores of lighter stars form [[neutron star]]s or [[white dwarf]] stars. In all cases some of the star's material is lost (blown away during the [[red giant]] stage for stars that turn into white dwarfs, or lost in a [[supernova]] explosion for stars that turn into neutron stars or black holes).  
+* [[Micro black hole]]s, which have masses at which the effects of [[quantum mechanics]] are expected to become very important. This is usually assumed to be near the [[Planck mass]]. Alternatively, the term '''micro black hole''' or '''mini black hole''' may refer to any black hole with mass much less than that of a star. Black holes of this type have been proposed to have formed during the [[Big Bang]] ([[primordial black hole]]s), but no such holes have been detected [[as of 2007]].
+
+Astrophysicists expect to find stellar-mass and larger black holes, because a stellar mass black hole is formed by the [[gravitational collapse]] of a star of 20 or more solar masses at the end of its life, and can then act as a seed for the formation of a much larger black hole.
+
+Micro black holes might be produced by:
+* The [[Big Bang]], which produced pressures far larger than that of a [[supernova]] and therefore sufficient to produce [[primordial black hole]]s without needing the powerful gravity fields of collapsing large stars.
+* High-energy [[particle accelerators]] such as the [[Large Hadron Collider]] (LHC), if certain non-standard assumptions are correct (typically, an assumption of [[large extra dimension|large]] [[extra dimensions]]). However, any black holes produced in such a manner will evaporate practically instantaneously, thus [[Black hole#Micro black hole escaping from a particle accelerator|posing no danger to Earth]].
+
+== What makes it impossible to escape from black holes? ==
+
+[[General relativity]] describes [[mass]] as changing the shape of [[spacetime]], and the shape of spacetime as describing how matter moves through space.  For objects much less dense than black holes, this results in something similar to [[Newton's law of universal gravitation|Newton's laws of gravity]]: objects with mass attract each other, but it's possible to define an [[escape velocity]] which allows a test object to leave the gravitational field of any large object. For objects as dense as black holes, this stops being the case. The effort required to leave the hole becomes infinite, with no escape velocity definable.
+
+There are several ways of describing the situation that causes escape to be impossible.  The difference between these descriptions is how [[space]] and [[time]] coordinates are drawn on [[spacetime]] (the choice of coordinates depends on the choice of observation point and on additional definitions used).  One common description, based on the [[Schwarzschild metric|Schwarzschild description]] of black holes, is to consider the time axis in spacetime to point inwards towards the center of the black hole once the horizon is crossed.<ref>{{cite book | author=Kaufmann, William J. III | title = Black Holes and Warped Spacetime | publisher = W H Freeman & Co (Sd) | year = 1979) | id = ISBN 0-7167-1153-2}}</ref> Under these conditions, falling further into the hole is as inevitable as moving forward in time. A related description is to consider the [[light cone|future light cone]] of a test object near the hole (all possible paths the object or anything emitted by it could take, limited by the [[speed of light]]). As the object approaches the [[event horizon]] at the boundary of the black hole, the future light cone tilts inwards towards the horizon. When the test object passes the horizon, the cone tilts completely inward, and all possible paths lead into the hole.<ref>http://www.phy.syr.edu/courses/modules/LIGHTCONE/schwarzschild.html Schwarzschild's Spacetime: 
+Introducing the Black Hole</ref>
+
+==Do black  holes have "no hair"?==
+{{main|No hair theorem}}
+The [[No hair theorem|"No hair" theorem]] states that black holes have only 3 ''independent'' ''internal'' properties: mass, [[angular momentum]] and [[electric charge]]. It is impossible to tell the difference between a black hole formed from a highly compressed mass of normal matter and one formed from, say, a highly compressed mass of [[anti-matter]]; in other words, any information about infalling matter or energy is destroyed. This is the [[black hole information paradox]].
+
+The theorem only works in some of the types of universe which the equations of [[general relativity]] allow, but this includes four-dimensional spacetimes with a zero or positive [[cosmological constant]], which describes our universe at the [[Physics in the Classical Limit|classical level]].
+
+==Types of black holes==
+Despite the uncertainty about whether the "No Hair" theorem applies to our universe, astrophysicists currently classify black holes according to  their [[angular momentum]] (non-zero angular momentum means the black hole is rotating) and [[electric charge]]:
+{| class="wikitable" style="margin: 1em auto"
+| 
+| Non-rotating
+| Rotating
+|- 
+| Uncharged
+| [[Schwarzschild metric|Schwarzschild]]
+| [[Kerr metric|Kerr]]
+|-
+| Charged
+| [[Reissner-Nordström metric|Reissner-Nordström]]
+| [[Kerr-Newman metric|Kerr-Newman]] 
+|}
+(All black holes have non-zero mass, so mass cannot be used for this type of "yes" / "no" classification)
+
+Physicists do not expect that black holes with a significant electric charge will be formed in nature, because the [[Coulomb's law|electromagnetic repulsion]], which resists the compression of an electrically charged mass, is about 40 orders of magnitude greater (about 10<sup>40</sup> times greater) than the gravitational attraction, which compresses the mass. So this article does not cover charged black holes in detail, but the [[Reissner-Nordström black hole]] and [[Kerr-Newman metric]] articles provide more information.
+
+On the other hand astrophysicists expect that almost all black holes will rotate, because the stars from which they are formed rotate. In fact most black holes are expected to spin very rapidly, because they retain most of the [[angular momentum]] of the stars from which they were formed, but concentrated into a much smaller radius. The same laws of angular momentum make skaters spin faster if they pull their arms closer to their bodies.
+
+This article describes non-rotating, uncharged black holes first, because they are the simplest type.
+
+==Major features of non-rotating, uncharged black holes==
+===Event horizon===
+This is the boundary of the region from which not even light can escape, but at the same time, light does not get sucked into the black hole. Stephen Hawking, in his book ''A Brief History of Time,'' describes the event horizon as "the point of which light is just barely able to escape (I like to think of it as being chased by the police but just barely managing to stay one step away!)."  Another way to think of this is that the light is running on a spacetime "treadmill;" the light is moving away from the black hole at the rate of [[speed of light|c]], but the spacetime is being sucked into the black hole at the same rate, so the two cancel each other out, much like a treadmill.  An observer at a safe distance would see a dull black sphere if the black hole was in a pure [[vacuum]] but in front of a light background, such as a bright [[nebula]]. The [[event horizon]] is not a solid surface, and does not obstruct or slow down matter or radiation that is traveling towards the region within the event horizon.
+
+The event horizon is the defining feature of a black hole—it is black because no light or other radiation can escape from inside it. So the event horizon hides whatever happens inside it, and we can only calculate what happens by using the best theory available, which at present is [[general relativity]].
+
+The gravitational field outside the event horizon is identical to the field produced by any other spherically symmetric object of the same mass. The popular conception of black holes as "sucking" things in is false: objects can maintain an orbit around black holes indefinitely, provided they stay outside the photon sphere. (described below)
+
+===Singularity at a single point===
+According to general relativity, a black hole's mass is entirely compressed into a region with zero volume, which means its density and gravitational pull are [[Infinity|infinite]], and so is the curvature of space-time that it causes. These infinite values cause most physical equations, including those  of general relativity, to stop working at the center of a black hole. So physicists call the zero-volume, infinitely dense region at the center of a black hole a "[[Gravitational singularity|singularity]]".
+
+The singularity in a non-rotating, uncharged black hole is a point, in other words it has zero length, width, and height.
+
+But there is an important uncertainty about this description: [[quantum mechanics]] is as well-supported by mathematics and experimental evidence as general relativity, and it does not allow objects to have zero size—so quantum mechanics says the center of a black hole is not a singularity but just a very large mass compressed into the smallest possible volume. At present we have no well-established [[theory of everything|theory]] that combines quantum mechanics and general relativity; and the most promising candidate, [[string theory]], also does not allow objects to have zero size.
+
+The rest of this article will follow the predictions of general relativity, because quantum mechanics deals with very small-scale (sub-atomic) phenomena and general relativity is the best theory we have  at present for explaining large-scale phenomena, such as the behavior of masses similar to or larger than stars.
+
+===A photon sphere===
+A non-rotating black hole's [[photon sphere]] is a spherical boundary of zero thickness such that photons moving along [[Tangent#Geometry|tangent]]s to the sphere will be trapped in a circular orbit. For non-rotating black holes, the photon sphere has a radius 1.5 times that of the event horizon. This may give the impression that a black hole will accumulate a 'shell' of captured photons, which will grow in density indefinitely, but this is not true. No photon is likely to stay in this orbit for long, for two reasons. First, it is likely to interact with any infalling matter in the vicinity (being absorbed or scattered). Second, the orbit is [[instability|dynamically unstable]]; small deviations from a perfectly circular path will grow into larger deviations very quickly, causing the photon to either escape or fall into the hole.
+
+Other extremely compact objects, such as [[neutron stars]], can also have photon spheres.<ref>{{cite web| url=http://antwrp.gsfc.nasa.gov/htmltest/gifcity/nslens_ul.html| author = Nemiroff, R. J. | title=Journey to a strong gravity neutron star| accessdate=2006-03-25}}</ref> This follows from the fact that light "captured" by a photon sphere does not pass within the [[Schwarzschild radius|radius]] that would form the event horizon if the object were a black hole of the same mass, and therefore its behavior does not depend on the presence of an event horizon.
+
+===Accretion disk===
+[[Image:BlackHole.jpg|thumb|left|329px|An artist view taken from the [[Hubble Space Telescope]] website showing an accretion disk around the black hole. The friction from the gas generates a massive amount of heat. The heated gas emits [[X-rays]].]]Space is not a pure [[vacuum]] - even interstellar space contains a few atoms of hydrogen per cubic centimeter.<ref>{{cite web |url=http://hypertextbook.com/facts/2000/DaWeiCai.shtml |title=Density of Outer Space |accessdate=2007-07-11 |work=The Physics Factbook|last=Cai|first=Da We|year=2000 }}</ref> The powerful gravity field of a black hole pulls this towards and then into the black hole. The gas nearest the event horizon forms a disk and, at this short range, the black hole's gravity is strong enough to compress the gas to a relatively high density. The pressure, friction and other mechanisms within the disk generate enormous energy (which causes the gases to turn into [[plasma (physics)|plasma]])  - in fact they convert matter to energy more efficiently than the [[nuclear fusion]] processes that power stars. As a result, the disk glows very brightly, although disks around black holes radiate mainly [[X-rays]] rather than [[visible light]].
+
+[[Accretion disk]]s are not proof of the presence of black holes, because other massive, ultra-dense objects such as [[neutron stars]] and [[white dwarfs]] cause accretion disks to form and to behave in the same ways as those around black holes.
+
+
+==Major features of rotating black holes==
+{{main|Rotating black hole}}
+[[Image:Ergosphere.svg|thumb|right|250px|ergosphere of a rotating black hole|Two important surfaces around a rotating black hole. The inner sphere is the static limit (the event horizon). It is the inner boundary of a region called the [[ergoregion| ergosphere]]. The oval-shaped surface, touching the event horizon at the poles, is the outer boundary of the ergosphere. Within the ergosphere a particle is forced (dragging of space and time) to rotate and may gain energy at the cost of the rotational energy of the black hole ([[Penrose process]]).]]
+
+Rotating black holes share many of the features of non-rotating black holes—the inability of light or anything else to escape from within their event horizons, accretion disks, etc. But general relativity predicts that rapid rotation of a large mass produces further distortions of [[space-time]], in addition to those that a non-rotating large mass produces; and these additional effects make rotating black holes strikingly different from non-rotating ones.
+
+===Ergosphere===
+A large, ultra-dense rotating mass creates an effect called [[frame-dragging]], so that [[space-time]] is dragged around it in the direction of the rotation.
+
+Rotating black holes have an [[ergosphere]], a region bounded by
+* on the outside, an [[oblate]] spheroid, which coincides with the event horizon at the poles and is noticeably wider around the "equator". This boundary is sometimes called the "ergosurface", but it is just a boundary and has no more solidity than the event horizon. At points exactly on the ergosurface, space-time is dragged around at the speed of light.
+* on the inside, the outer event horizon.
+
+Within the ergosphere, space-time is dragged around faster than light—general relativity forbids material objects to travel faster than light (so does [[special relativity]]), but allows regions of space-time to move faster than light relative to other regions of space-time.
+
+Objects and radiation (including light) can stay in ''orbit'' within the ergosphere without falling to the center. But they cannot hover (remain stationary, as seen by an external observer), because that would require them to move backwards faster than light relative to their own regions of space-time, which are moving faster than light relative to an external observer.
+
+Objects and radiation can also ''escape'' from the ergosphere. In fact the [[Penrose process]] predicts that objects will sometimes fly out of the ergosphere, obtaining the energy for this by "stealing" some of the black hole's rotational energy. If a large total mass of objects escapes in this way, the black hole will spin more slowly and may even stop spinning eventually.
+
+===Ring-shaped singularity===
+General relativity predicts that a rotating black hole will have a [[ring singularity]] which lies in the plane of the "equator" and has zero width and thickness—but remember that [[quantum mechanics]] does not allow objects to have zero size in any dimension (their [[wavefunction]] must spread), so general relativity's prediction is only the best idea we have until someone devises a [[theory of everything|theory]] that combines general relativity and quantum mechanics.
+
+===Possibility of escaping from a rotating black hole===
+[[Image:PENROSE2.PNG|right|thumb|350px|[[Penrose diagram]]s of various Schwarzschild solutions. Time is the vertical dimension, space is horizontal, and light travels at 45° angles. Paths less than 45° to the horizontal are forbidden by special relativity, but rotating black holes allow for travel to future "universes"]]
+[[Kerr metric|Kerr's solution]] for the equations of general relativity predicts that:
+* The properties of [[space-time]] between the two event horizons allow objects to move only towards the singularity.
+* But the properties of [[space-time]] within the inner event horizon allow objects to move away from the singularity, pass through ''another'' set of inner and outer event horizons, and emerge out of the black hole into another [[universe]] or another part of this universe without traveling faster than the [[speed of light]].  
+*Passing ''through'' the ring shaped singularity may allow entry to a negative gravity universe.<ref>*{{cite book | author=Kaufmann, William J. III | title = The Cosmic Frontiers of General Relativity | publisher = Little Brown & Co | year=1977 |id = ISBN 0-316-48341-9}} </ref>
+If this is true, rotating black holes could theoretically provide the [[wormholes]] which often appear in [[science fiction]]. Unfortunately, it is unlikely that the internal properties of a rotating black hole are exactly as described by Kerr's solution<ref>{{arxiv|archive=gr-qc| id=9902008}}</ref> and it is not currently known whether the actual properties of a rotating black hole would provide a similar escape route for an object via the inner event horizon.
+
+Even if this escape route is possible, it is unlikely to be useful because a spacecraft which followed that path would probably be distorted beyond recognition by [[spaghettification]].
+
+==What happens when something falls into a black hole?==
+This section describes what happens when something falls into a non-rotating, uncharged black hole. The effects of rotating and charged black holes are more complicated but the final result is much the same—the falling object is absorbed (unless [[#Possibility of escaping from a rotating black hole|rotating black holes]] really can act as [[wormholes]]).
+
+===Spaghettification===
+{{main|spaghettification}}
+An object in any very strong gravitational field feels a [[tidal force]] stretching it in the direction of the object generating the gravitational field. This is because the [[inverse square law]] causes nearer parts of the stretched object to feel a stronger attraction than farther parts. Near black holes, the [[tidal force]] is expected to be strong enough to deform any object falling into it, even atoms or composite nucleons; this is called [[spaghettification]].
+
+The strength of the [[tidal force]] depends on how gravitational attraction changes with distance, rather than on the absolute force being felt. This means that small black holes cause spaghettification while infalling objects are still outside their [[event horizon]]s, whereas objects falling into large, [[supermassive black hole]]s may not be deformed or otherwise feel excessively large forces before passing the event horizon.
+
+===Before the falling object crosses the event horizon===
+An object in a gravitational field experiences a slowing down of [[time]], called [[gravitational time dilation]], relative to observers outside the field. The outside observer will see that physical processes in the object, including clocks, appear to run slowly. As a test object approaches the event horizon, its gravitational time dilation (as measured by an observer far from the hole) would approach infinity.
+
+From the viewpoint of a distant observer, an object falling into a black hole appears to slow down, approaching but never quite reaching the event horizon: and it appears to become redder and dimmer, because of the extreme [[gravitational red shift]] caused by the gravity of the black hole. Eventually, the falling object becomes so dim that it can no longer be seen, at a point just before it reaches the event horizon. All of this is a consequence of time dilation: the object's movement is one of the processes that appear to run slower and slower, and the time dilation effect is more significant than the acceleration due to gravity; the [[frequency]] of light from the object appears to decrease, making it look redder, because the light appears to complete fewer cycles per "tick" of the ''observer's'' clock; lower-frequency light has less energy and therefore appears dimmer, as well as redder.
+
+From the viewpoint of the falling object, distant objects may appear either [[Blue shift|blue-shifted]] or [[Redshift|red-shifted]], depending on the falling object's trajectory. Light is blue-shifted by the gravity of the black hole, but is red-shifted by the velocity of the infalling object.
+
+===As the object passes through the event horizon===
+From the viewpoint of the falling object, nothing particularly special happens at the event horizon (apart from spaghettification due to [[tidal force]]s, if the black hole has relatively low mass and therefore its event horizon has a small radius). An infalling object takes a finite [[proper time]] (i.e. measured by its own clock) to fall past the event horizon.
+
+An outside observer, however, will never see an infalling object cross this surface. The object appears to halt just above the horizon, due to [[gravitational redshift]], fading from view as its light is red-shifted and the rate at which it emits [[photon]]s drops to approach zero. This doesn't mean that the object never crosses the horizon; instead, it means that light from the horizon-crossing event is delayed by a time that approaches infinity as the object approaches the horizon. The time of crossing depends on how the outside observer chooses to define space and time axes on [[spacetime]] near the horizon.
+
+=== Inside the event horizon ===
+The object reaches the singularity at the center within a finite amount of [[proper time]], as measured by the falling object.  An observer on the falling object would continue to see objects outside the event horizon, [[Blue shift|blue-shifted]] or [[Redshift|red-shifted]] depending on the falling object's trajectory.  Objects closer to the singularity aren't seen, as all paths light could take from objects farther in point inwards towards the singularity. 
+
+The amount of proper time a faller experiences below the event horizon depends upon where they started from rest, with the maximum being for someone who starts from rest at the event horizon.  A study in 2007 examined the effect of firing a rocket pack with the black hole, showing that this can only reduce the proper time of a person who starts from rest at the event horizon.  However, for anyone else, a judicious burst of the rocket can extend the lifetime of the faller, but overdoing it will again reduce the proper time experienced. However, this cannot prevent the inevitable collision with the central singularity.<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/abs/2007PASA...24...46L
+|author=Lewis, G. F. and Kwan, J.
+|date=2007
+|title=No Way Back: Maximizing Survival Time Below the Schwarzschild Event Horizon
+|journal=Publications of the Astronomical Society of Australia
+|volume=24
+|issue=2
+|pages=46-52
+}}</ref>
+
+===Hitting the singularity===
+As an infalling object approaches the singularity, [[tidal force]]s acting on it approach infinity. All components of the object, including [[atom]]s and [[subatomic particles]], are torn away from each other before striking the singularity. At the singularity itself, effects are unknown; a theory of [[quantum gravity]] is needed to accurately describe events near it. Regardless, as soon as an object passes within the hole's event horizon, it is lost to the outside universe. An observer far from the hole simply sees the hole's mass, charge, and angular momentum change slightly, to reflect the addition of the infalling object's matter. After the event horizon all is unknown. Anything that passes this point cannot be retrieved to study.
+
+==Black Hole parameters==
+Astrophysical black holes are characterized by two parameters: their mass and their angular momentum (or spin). The mass parameter <i>M</i> is equivalent to a characteristic length <i>GM/c<sup>2</sup>=1.48km(M/M<sub>0</sub>)</i> , or a characteristic timescale<i> GM/c³=4.93 x 10<sup>-6</sup>(M/M<sub>0</sub>)</i> , where <i>M<sub>0</sub></i> denotes the mass of the Sun. These scales, for example, give the order of magnitude of the radii and periods of near-hole orbits. The timescale also applies to the process in which a developing horizon settles into its asymptotically stationary form. For a stellar mass hole this is of order 10<sup>-5</sup> sec , while for a supermassive hole of 10<sup>8</sup> <i>M<sub>0</sub></i> , it is thousands of seconds. 
+
+For Schwarzschild holes, and approximately for Kerr holes, the horizon is at radius   
+                       <i>R<sub>H</sub>=2GM/c²</i>.  
+At the horizon the "acceleration of gravity" has no meaning, since a falling observer cannot stop at the horizon to be weighed. What is relevant at the horizon is the tidal stresses that stretch and distort the falling observer. This tidal stretching is given by the same expression, the gradient of the gravitational acceleration, as in Newtonian theory:
+  <i>2GM/R<sub>H</sub><sup>3</sup>=c<sup>6</sup>/(4G<sup>2</sup>M<sup>2</sup>)</i> .
+
+In the case of a solar mass black hole the tidal stress (acceleration per unit length) is enormous at the horizon, on the order of : <i> 3 x 10<sup>9</sup>(M/M<sub>0</sub>)<sup>2</sup> sec<sup>-2</sup></i> : that is, a person would experience a differential gravitational field of about <i>10<sup>9</sup></i> Earth gravities, enough to rip apart ordinary materials. For a supermassive hole, by contrast, the tidal force at the horizon is smaller by a typical factor   10<sup>10-16</sup> and would be easily survivable. However, at the central singularity, deep inside the event horizon, the tidal stress is infinite.
+In addition to its mass <i>M</i>, the Kerr spacetime is described with a spin parameter 'a' defined by the dimensionless expression
+        <i>a/M= cJ/GM<sup>2</sup></i>
+where <i>J</i> is the angular momentum of the hole. For the Sun (based on surface rotation) this number is about 0.2, and is much larger for many stars. Since angular momentum is ubiquitous in astrophysics, and since it is expected to be approximately conserved during collapse and black hole formation, astrophysical holes are expected to have significant values of <i>a/M</i> , from several tenths up to and approaching unity. 
+
+The value of <i>a/M</i> can be unity (an "extreme" Kerr hole), but it cannot be greater than unity. In the mathematics of general relativity, exceeding this limit replaces the event horizon with an inner boundary on the spacetime where tidal forces become infinite. Because this singularity is "visible" to observers, rather than hidden behind a horizon, as in a black hole, it is called a naked singularity. Toy models and heuristic arguments suggest that as <i>a/M</i> approaches unity it becomes more and more difficult to add angular momentum. The conjecture that such mechanisms will always keep <i>a/M</i> below unity is called cosmic censorship. 
+
+The inclusion of angular momentum changes details of the description of the horizon, so that, for example, the horizon area becomes 
+           <i>Horizon area= 4πG<sup>2</sup>/c<sup>4</sup>[{M+(M²-a²)<sup>1/2</sup>}²+a²]</i>
+ 
+This modification of the Schwarzschild (<i>a</i>=0) result is not significant until <i>a/M</i> becomes very close to unity. For this reason, good estimates can be made in many astrophysical scenarios with <i>a</i> ignored.
+
+==Formation and evaporation==
+===Formation of stellar-mass black holes===
+[[Stellar-mass black hole]]s are formed in two ways:
+* As a direct result of the [[gravitational collapse]] of a star.
+* By collisions between neutron stars.<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1984SvAL...10..177B&db_key=AST&link_type=ABSTRACT&high=4322390bbe18728
+|author=Blinnikov, S., ''et al.''
+|date=1984
+|title=Exploding Neutron Stars in Close Binaries
+|journal=Soviet Astronomy Letters
+|volume=10
+|pages=177
+}}</ref> Although neutron stars are fairly common, collisions appear to be very rare. Neutron stars are also formed by gravitational collapse, which is therefore ultimately responsible for all stellar-mass black holes.
+
+[[Stars]] undergo [[gravitational collapse]] when they can no longer resist the pressure of their own gravity. This usually occurs either because a star has too little [[Stellar nucleosynthesis|"fuel"]] left to maintain its temperature, or because a star which would have been stable receives a lot of extra matter in a way which does not raise its core temperature. In either case the star's temperature is no longer high enough to prevent it from collapsing under its own weight (the [[ideal gas law]] explains the connection between pressure, temperature, and volume).
+
+The collapse transforms the matter in the star's core into a [[Degenerate matter|denser state]] which forms one of the types of [[compact star]]. Which type of compact star is formed depends on the mass of the remnant - the matter left over after changes triggered by the collapse (such as [[supernova]] or pulsations leading to a [[planetary nebula]])  have blown away the outer layers. Note that this can be substantially less than the original star - remnants exceeding 5 solar masses are produced by stars which were over 20 solar masses before the collapse.
+
+Only the largest remnants, those exceeding a particular limit (the [[Tolman-Oppenheimer-Volkoff limit]], not to be confused with the [[Chandrasekhar limit]]), generate enough pressure to produce black holes, because black holes are the most radically transformed state of matter known to physics, and the force which resists this level of compression, [[neutron degeneracy pressure]], is extremely strong. But any remnant this size will never be able to stop collapsing, and when its outer radius falls below its [[Schwarzschild radius]], the transition to black hole is complete. 
+
+The collapse process for stars producing remnants this size releases energy which usually produces a [[supernova]], blowing  the star's outer layers into space so that they form a spectacular [[nebula]] (this sort of nebula is called a [[supernova remnant]]). But the supernova is a side-effect and does not directly contribute to producing the black hole (or other type of compact star). For example a few [[gamma ray bursts]] were expected to be followed by evidence of supernovae but this evidence did not appear.<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/abs/2006Natur.444.1047F
+|author=Fynbo ''et al.''
+|date=2006
+|title=No supernovae associated with two long-duration gamma ray bursts
+|journal=Nature
+|volume=444
+|pages=1047-1049
+}}</ref><ref>http://www.astronomy.com/asy/default.aspx?c=a&id=4856</ref>   One possible explanation is that some very large stars can form black holes fast enough to swallow the supernova blast wave before it can reach the surface of the star.
+
+===Formation of larger black holes===
+There are two main ways in which black holes of larger than stellar mass can be formed:
+* Stellar-mass black holes may act as "seeds" which grow by absorbing mass from interstellar gas and dust, stars and planets or smaller black holes.
+* Star clusters of large total mass may be merged into single bodies by their members' gravitational attraction. This will usually produce a [[supergiant]] or [[hypergiant]] star which runs short of [[Stellar nucleosynthesis|"fuel"]] in a few million years and then undergoes gravitational collapse, produces a supernova or [[hypernova]] and spends the rest of its existence as a black hole.
+<!-- It has been suggested that, if the original stars merge in less time than it take for a hypergiant to run out of "fuel" and collapse, the resulting supergiant or hypergiant may be large enough to collapse and produce a black hole before it runs short of "fuel" and without producing a supernova.
+-->
+
+===Formation of smaller black holes===
+No known process currently active in the universe can form black holes of less than stellar mass. This is because all present known black hole formation is through gravitational collapse, and the smallest mass which can collapse to form a black hole produces a hole approximately 1.5-3.0 times the mass of the [[sun]] (the [[Tolman-Oppenheimer-Volkoff limit]]). Smaller masses collapse to form [[white dwarf]] stars or [[neutron star]]s.
+
+There are still a few ways in which smaller black holes might be formed, or might have formed in the past.
+
+==== Evaporation of larger black holes ====
+
+Larger black holes [[#Evaporation|evaporate]]. If the initial mass of the hole was stellar mass, the time required for it to lose most of its mass via [[Hawking evaporation]] is much longer than the [[age of the universe]], so small black holes are not expected to have formed by this method yet.
+
+==== Big Bang ====
+
+The [[Big Bang]] produced sufficient pressure to form smaller black holes without the need for anything resembling a star. None of these hypothesized [[primordial black hole]]s have been detected.
+
+==== Particle accelerators ====
+
+In principle, a sufficiently energetic collision within a very powerful [[Particle accelerator]] could produce a [[micro black hole]]. In practice, this is expected to require energies comparable to the [[Planck energy]], which is vastly beyond the capability of any present, planned, or expected future particle accelerator to produce. Some speculative models allow the formation of black holes at much lower energies. This would allow production of extremely short-lived black holes in terrestrial particle accelerators. No evidence of this type of black hole production has been presented [[as of 2007]].  
+
+See [[Black hole#Micro black hole escaping from a particle accelerator|Micro black hole escaping from a particle accelerator]]
+
+===Evaporation===
+[[Hawking radiation]] is a theoretical process by which black holes can evaporate into nothing. As there is no experimental evidence to corroborate it and there are still some major questions about the theoretical basis of the process, there is still debate about whether Hawking radiation can enable black holes to evaporate.
+
+[[Quantum mechanics]] says that even the purest vacuum is not completely empty but is instead a "sea" of energy (known as [[zero-point energy]]) which has wave-like [[fluctuations]]. We cannot observe this "sea" of energy directly because there is no lower energy level with which we can compare it. The Heisenberg [[uncertainty principle]] dictates that it is impossible to know the exact value of the mass-energy and position pairings. The [[Vacuum fluctuations|fluctuations]] in this sea produce pairs of particles in which one is made of normal matter and the other is the corresponding [[antiparticle]] ([[special relativity]] proves [[mass-energy equivalence]], i.e. that mass can be converted into energy and ''vice versa''). Normally each would soon meet another instance of its antiparticle and the two would be totally converted into energy, restoring the overall matter-energy balance as it was before the pair of particles was created. The Hawking radiation theory suggests that, if such a pair of particles is created just outside the event horizon of a black hole, one of the two particles may fall into the black hole while the other escapes, because the two particles move in slightly different directions after their creation. From the point of view of an outside observer, the black hole has just emitted a particle and therefore the black hole has lost a minute amount of its mass.
+
+If the Hawking radiation theory is correct, only the very smallest black holes are likely to evaporate in this way. For example a black hole with the mass of our Moon would gain as much energy (and therefore mass - [[mass-energy equivalence]] again) from [[cosmic microwave background radiation]] as it emits by Hawking radiation, and larger black holes will gain more energy (and mass) than they emit. To put this in perspective, the smallest black hole which can be created naturally at present is about 5 times the mass of our sun, so most black holes have much greater mass than our Moon.
+
+Over time the cosmic microwave background radiation becomes weaker. Eventually it will be weak enough so that more Hawking radiation will be emitted than the energy of the background radiation being absorbed by the black hole. Through this process, even the largest black holes will eventually evaporate. However, this process may take nearly a [[googol]] years to complete.
+
+==Techniques for finding black holes==
+===Accretion disks and gas jets===
+[[Image:Black hole jet diagram.jpg|right|thumb|Formation of extragalactic jets from a black hole's [[accretion disk]]]]
+Most [[accretion disk]]s and [[Relativistic jet|gas jets]] are not clear proof that a [[stellar-mass black hole]] is present, because other massive, ultra-dense objects such as [[neutron star]]s and [[white dwarf]]s cause accretion disks and gas jets to form and to behave in the same ways as those around black holes. But they can often help by telling astronomers where it might be worth looking for a black hole.
+
+On the other hand, extremely large accretion disks and gas jets may be good evidence for the presence of [[supermassive black hole]]s, because as far as we know any mass large enough to power these phenomena must be a black hole.
+<br clear="all" />
+
+===Strong radiation  emissions===
+Steady [[X-ray]] and [[gamma ray]] emissions also do not prove that a black hole is present but can tell astronomers where it might be worth looking for one - and they have the advantage that they pass fairly easily through [[nebula]]e and gas clouds.
+
+But strong, irregular emissions of [[X-ray]]s, [[gamma ray]]s and other [[electromagnetic radiation]] can help to prove that a massive, ultra-dense object is ''not'' a black hole, so that "black hole hunters" can move on to some other object. Neutron stars and other very dense stars have surfaces, and matter colliding with the surface at a high percentage of the speed of light will produce intense flares of radiation at irregular intervals. Black holes have no material surface, so the absence of irregular flares round a massive, ultra-dense object suggests that there is a good chance of finding a black hole there.
+
+Intense but one-time [[gamma ray burst]]s (GRBs) may signal the birth of "new" black holes, because astrophysicists think that GRBs are caused either by the [[gravitational collapse]] of giant stars<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2002AJ....123.1111B&db_key=AST
+|author=Bloom, J.S., Kulkarni, S. R., & Djorgovski, S. G.  
+|date=2002
+|title=The Observed Offset Distribution of Gamma-Ray Bursts from Their Host Galaxies: A Robust Clue to the Nature of the Progenitors
+|journal=Astronomical Journal
+|volume=123 
+|pages=1111-1148 
+}}</ref> or by collisions between neutron stars,<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1984SvAL...10..177B&db_key=AST&link_type=ABSTRACT&high=4322390bbe18728
+|author=Blinnikov, S., ''et al.''
+|date=1984
+|title=Exploding Neutron Stars in Close Binaries
+|journal=Soviet Astronomy Letters
+|volume=10
+|pages=177
+}}</ref> and both types of event involve sufficient mass and pressure to produce black holes. But it appears that a collision between a neutron star and a black hole can also cause a GRB,<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1976ApJ...210..549L&db_key=AST&link_type=ABSTRACT&high=4322390bbe17313
+|author=Lattimer, J. M. and Schramm, D. N.
+|date=1976
+|title=The tidal disruption of neutron stars by black holes in close binaries
+|journal=Astrophysical Journal
+|volume=210
+|pages=549
+}}</ref> so a GRB is not proof that a "new" black hole has been formed. 
+All known GRBs come from outside our own galaxy, and most come from billions of [[light year]]s away<ref>{{
+cite journal
+|url=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1995PASP..107.1167P
+|author=Paczynski, B.
+|date=1995
+|title=How Far Away Are Gamma-Ray Bursters?
+|journal=Publications of the Astronomical Society of the Pacific
+|volume=107
+|pages=1167
+}}</ref> so the black holes associated with them are actually billions of years old.
+
+Some astrophysicists believe that some [[ultraluminous X-ray source]]s may be the [[accretion disk]]s of [[intermediate-mass black hole]]s.<ref>{{
+cite journal
+|url=http://arxiv.org/abs/astro-ph/0512480
+|author= Winter, L.M., Mushotzky, R.F. and Reynolds, C.S.
+|date=2005, revised 2006
+|title=XMM-Newton Archival Study of the ULX Population in Nearby Galaxies
+|journal=Astrophysical Journal
+|volume=649
+|pages=730
+}}</ref>
+
+[[Quasars]] are thought to be caused by the accretion disks of [[supermassive black hole]]s, since we know of nothing else which is powerful enough to produce such strong emissions. While X-rays and gamma rays have much higher [[frequency|frequencies]] and shorter [[wavelengths]] than [[visible light]], quasars radiate mainly radio waves, which have lower frequencies and longer wavelengths than visible light.
+
+===Gravitational lensing===
+[[Image:BH LMC.png|270px|right|thumb|[[Gravitational lensing]] distorts the image around a black hole in front of the [[Large Magellanic Cloud]] (simulated view)]]
+
+A [[gravitational lens]] is formed when the light from a very distant, bright source (such as a [[quasar]]) is "bent" around a massive object (such as a black hole) between the source object and the observer. The process is known as '''gravitational lensing''', and is one of the [[tests of general relativity|predictions]] of [[Albert Einstein]]'s [[general relativity|general theory of relativity]]. According to this theory, [[mass]] "warps" [[space-time]] to create [[gravitational field]]s and therefore bend [[light]] as a result.
+
+A source image behind the lens may appear as multiple images to the observer. In cases where the source, massive lensing object, and the observer lie in a straight line, the source will appear as a ring behind the massive object.
+
+Gravitational lensing can be caused by objects other than black holes, because any very strong gravitational field will bend light rays. Some of these multiple-image effects are probably produced by distant galaxies.
+
+===Objects orbiting possible black holes===
+{{See also|Kepler problem in general relativity}}
+Some large celestial objects are almost certainly orbiting around black holes, and the principles behind this conclusion are surprisingly simple if we consider a circular orbit first (although all known closed astronomical orbits are [[elliptical]]):
+* The [[radius]] of the central object round which the observed object is orbiting must be less than the radius of the orbit, otherwise the two objects would collide.
+* The [[orbital period]] and the radius of the orbit make it easy to calculate the [[centrifugal force]] created by the orbiting object. Strictly speaking, the centrifugal force also depends on the orbiting object's mass, but the next two steps show why we can get away with pretending this is a fixed number: ''e.g.,'' 1.
+* The gravitational attraction between the central object and the orbiting object must be exactly equal to the centrifugal force, otherwise the orbiting body would either spiral into the central object or drift away.
+* The required gravitational attraction depends on the mass of the central object, the mass of the orbiting object, and the radius of the orbit. But we can simplify the calculation of both the centrifugal force and the gravitational attraction by pretending that the mass of the orbiting object is the ''same'' fixed number: ''e.g.,'' 1. This makes it very easy to calculate the mass of the central object.
+* If the [[Schwarzschild radius]] for a body with the mass of the central object is greater than the maximum radius of the central object, the central object ''must'' be a black hole whose [[event horizon]]'s radius is equal to the Schwarzschild radius.
+
+Unfortunately, since the time of [[Johannes Kepler]], astronomers have had to deal with the complications of real astronomy:
+* Astronomical orbits are [[elliptical]]. This complicates the calculation of the centrifugal force, the gravitational attraction, and the maximum radius of the central body. But Kepler could handle this without needing a computer.
+* The orbital periods in this type of situation are several years, so several years' worth of observations are needed to determine the actual orbit accurately. The "possibly a black hole" indicators (accretion disks, gas jets, radiation emissions, etc.) help "black hole hunters" to decide which orbits are worth observing for such long periods.
+* If there are other large bodies within a few light years, their gravity fields will [[Perturbation (astronomy)|perturb]] the orbit. Adjusting the calculations to filter out the effects of perturbation can be difficult, but astronomers are used to doing it.
+
+==Black hole candidates==
+
+Although black holes cannot be detected directly, many observational studies have provided substantial evidence for black holes.  Black holes may be divided into three classes of objects:
+* [[stellar black hole|Stellar mass black holes]] have masses that are equivalent to the masses of individual [[star]]s (4&ndash;15 times the mass of our Sun).
+* [[Intermediate-mass black hole]] have masses that are a few hundred to a few thousand times the [[solar mass|mass of the Sun]].  
+* [[Supermassive black hole]]s have masses ranging from on the order of 10<sup>5</sup> to 10<sup>10</sup> times the mass of the Sun.<ref name="kormendyrichstone1995">{{cite journal
+  | author=J. Kormendy, D. Richstone
+  | title=Inward Bound---The Search For Supermassive Black Holes In Galactic Nuclei
+  | journal=Annual Reviews of Astronomy and Astrophysics
+  | year=1995
+  | volume=33
+  | pages=581-624
+  | url=http://adsabs.harvard.edu/abs/1995ARA&A..33..581K}}</ref>
+
+Further details are given below.
+
+===Supermassive black holes at the centers of galaxies===
+[[Image:M87 jet.jpg|right|thumb|The jet originating from the center of [[Messier 87|M87]] in this image comes from an [[active galactic nucleus]] that may contain a [[supermassive black hole]].  Credit:  [[Hubble Space Telescope]]/[[NASA]]/[[ESA]].]]
+
+According to the American Astronomical Society, every large galaxy has a supermassive black hole at its center. The black hole’s mass is proportional to the mass of the host galaxy, suggesting that the two are linked very closely. The Hubble and ground-based telescopes in Hawaii were used in a large survey of galaxies.
+
+For decades, astronomers have used the term "[[active galaxy]]" to describe galaxies with unusual characteristics, such as unusual [[spectral line]] emission and very strong [[radio]] emission.<ref name="krolik1999">{{cite book 
+  | author=J. H. Krolik
+  | year=1999
+  | title=Active Galactic Nuclei
+  | publisher=Princeton University Press
+  | location=Princeton, New Jersey
+  | id=ISBN 0-691-01151-6}}</ref><ref name="sparkegallagher2000">{{cite book 
+  | author=L. S. Sparke, J. S. Gallagher III
+  | year=2000
+  | title=Galaxies in the Universe: An Introduction
+  | publisher=Cambridge University Press
+  | location=Cambridge
+  | id=ISBN 0-521-59704-4}}</ref>  However, theoretical and observational studies have shown that the [[active galactic nuclei]] (AGN) in these galaxies may contain [[supermassive black holes]].<ref name="krolik1999"/><ref name="sparkegallagher2000"/>  The models of these AGN consist of a central black hole that may be millions or billions of times more massive than the [[Sun]]; a disk of [[interstellar gas|gas]] and [[interstellar dust|dust]] called an [[accretion disk]]; and two [[relativistic jet|jets]] that are perpendicular to the accretion disk.<ref name="sparkegallagher2000"/>  
+
+Although supermassive black holes are expected to be found in most AGN, only some galaxies' nuclei have been more carefully studied in attempts to both identify and measure the actual masses of the central supermassive black hole candidates.  Some of the most notable galaxies with supermassive black hole candidates include the [[Andromeda Galaxy]], [[Messier 32|M32]], [[Messier 87|M87]], [[NGC 3115]], [[NGC 3377]], [[NGC 4258]], and the [[Sombrero Galaxy]].<ref name ="kormendyrichstone1995" />
+
+Astronomers are confident that our own [[Milky Way]] galaxy has a supermassive black hole at its center, in a region called [[Sagittarius A*]]:
+* A star called [[S2 (star)]] follows an [[elliptical]] orbit with a [[orbital period|period]] of 15.2 years and a [[pericenter]] (closest) distance of 17 [[light hour]]s from the central object.
+* The first estimates indicated that the central object contains 2.6M (2.6 million) solar masses and has a radius of less than 17 light hours.  Only a black hole can contain such a vast mass in such a small volume.
+* Further observations<ref>http://www.astro.ucla.edu/~ghezgroup/gc/</ref> strengthened the case for a black hole, by showing  that the central object's mass is about 3.7M solar masses and its radius no more than 6.25 light-hours.
+
+===Intermediate-mass black holes in globular clusters===
+In 2002, the Hubble Space Telescope produced observations indicating that [[globular clusters]] named [[Messier 15|M15]] and [[Mayall II|G1]] may contain [[intermediate-mass black hole]]s. <ref>{{cite journal |coauthors=Gerssen, Joris; van der Marel, Roeland P.; Gebhardt, Karl; Guhathakurta, Puragra; Peterson, Ruth C.; Pryor, Carlton |year=2002 |month=December |title=Hubble Space Telescope Evidence for an Intermediate-Mass Black Hole in the Globular Cluster M15. II. Kinematic Analysis and Dynamical Modeling |journal=The Astronomical Journal |volume=124 |issue=6 |pages= 3270-3288 |url=http://adsabs.harvard.edu/abs/2002AJ....124.3270G |accessdate= 2007-10-31}}</ref><ref>{{cite web|url=http://hubblesite.org/newscenter/archive/releases/cosmology/2002/18/text/|title=Hubble Discovers Black Holes in Unexpected Places|accessdate=2007-10-31|date=September 17, 2002}}</ref> This interpretation is based on the sizes and periods of the orbits of the stars in the globular clusters. But the Hubble evidence is not conclusive, since a group of [[neutron star]]s could cause similar observations. Until recent discoveries, many astronomers thought that the complex gravitational interactions in globular clusters would eject newly-formed black holes.
+
+In November 2004 a team of astronomers reported the discovery of the first well-confirmed [[intermediate-mass black hole]] in our Galaxy, orbiting three light-years from Sagittarius A*. This black hole of 1,300 solar masses is within a cluster of seven stars, possibly the remnant of a massive star cluster that has been stripped down by the Galactic Centre.<ref>{{cite web| url=http://www.nature.com/news/2004/041108//full/041108-2.html#B2| title=Second black hole found at the centre of our Galaxy| publisher=News@Nature.com| accessdate=2006-03-25}}</ref><ref>{{cite web| url=http://www.edpsciences-usa.org/articles/aa/abs/2004/31/aa0147-03/aa0147-03.html| title=The nature of the Galactic Center source IRS 13 revealed by high spatial resolution in the infrared| accessdate=2007-01-07}}</ref> This observation may add support to the idea that supermassive black holes grow by absorbing nearby smaller black holes and stars.
+
+In January 2007, researchers at the University of Southampton in the United Kingdom reported finding a black hole, possibly of about 400 solar masses, in a globular cluster associated with a galaxy named NGC 4472, some 55 million light-years away.<ref>{{cite web| url=http://news.bbc.co.uk/2/hi/science/nature/6231623.stm| title=Black hole found in ancient lair| accessdate=2007-01-07}}</ref>
+
+===Stellar-mass black holes in the Milky Way===
+[[Image:Accretion disk.jpg|right|200px|thumb|Artist's impression of a binary system consisting of a black hole and a [[main sequence]] ("normal") star. The black hole is drawing matter from the main sequence star via an [[accretion disk]] around it, and some of this matter forms a [[galactic jet|gas jet]].]]
+
+Our Milky Way galaxy contains several probable [[stellar-mass black hole]]s which are closer to us than the supermassive black hole in the [[Sagittarius A*]] region. These candidates are all members of [[X-ray binary]] systems in which the denser object draws matter from its partner via an accretion disk. The probable black holes in these pairs range from three to more than a dozen [[solar mass]]es.<ref>J. Casares: ''Observational evidence for stellar mass black holes.'' [http://arxiv.org/abs/astro-ph/0612312 Preprint]</ref><ref>M.R. Garcia et al.: ''Resolved Jets and Long Period Black Hole Novae.'' [http://arxiv.org/abs/astro-ph/0302230 Preprint]</ref>  The most distant stellar-mass black hole ever observed is a member of a binary system located in the [[Messier 33]] galaxy.<ref>[http://www.usatoday.com/tech/science/space/2007-10-18-big-black-hole_N.htm Ker Than, SPACE.com: ''Monster black hole busts theory'']</ref>
+
+===Micro black holes===
+The formation of black hole analogs on Earth in [[particle accelerators]] has been reported,<ref>{{cite web| url=http://news.bbc.co.uk/2/hi/science/nature/4357613.stm| year=[[17 March]] [[2005]]| title=Lab fireball 'may be black hole'| publisher=BBC News| accessdate=2006-03-25}}</ref>. These black hole analogs are not the same as gravitational black holes, but they are
+vital testing grounds for quantum theories of gravity.
+
+They act like black holes because of the [[AdS/CFT correspondence|correspondence]] between the theory of the strong nuclear force, which has nothing to do with gravity, and the quantum theory of gravity. They are similar because both are described by string theory.  So the formation and disintegration of a [[quark-gluon plasma|fireball]] in quark gluon plasma can be interpreted in black hole language. The fireball at RHIC is a phenomenon which is closely analogous to a black hole, and many of its physical properties can be correctly predicted using this analogy. The fireball, however, is not a gravitational object.
+
+<!--
+===Recent discoveries===
+In February 2005, a [[blue giant]] [[star]] [[SDSS J090745.0+24507]] was found to be leaving the [[Milky Way]] at twice the escape velocity (0.0022 of the speed of light), having been catapulted out of the galactic core which its path can be traced back to. The high velocity of this star supports the hypothesis of a super-massive black hole in the centre of the galaxy..
+-->
+
+==History of the black hole concept==
+The Newtonian conceptions of Michell and Laplace are often referred to as "[[dark star]]s" to distinguish them from the "black holes" of general relativity.
+===Newtonian theories (before Einstein)===
+The concept of a body so massive that even light could not escape was put forward by the [[geologist]] [[John Michell]] in a letter written to [[Henry Cavendish]] in 1783 and published by the [[Royal Society]].<ref>J. Michell, Phil. Trans. Roy. Soc., 74 (1784) 35-57.</ref>
+{{cquote|''If the semi-diameter of a sphere of the same density as the Sun were to exceed that of the Sun in the proportion of 500 to 1, a body falling from an infinite height towards it would have acquired at its surface greater velocity than that of light, and consequently supposing light to be attracted by the same force in proportion to its vis inertiae, with other bodies, all light emitted from such a body would be made to return towards it by its own proper gravity.''}}
+
+This assumes that light is influenced by gravity in the same way as massive objects.
+
+In 1796, the mathematician [[Pierre-Simon Laplace]] promoted the same idea in the first and second editions of his book ''Exposition du système du Monde'' (it was removed from later editions).
+
+The idea of black holes was largely ignored in the nineteenth century, since light was then thought to be a massless wave and therefore not influenced by gravity. Unlike a modern black hole, the object behind the horizon is assumed to be stable against collapse.
+
+===Theories based on Einstein's general relativity===
+In 1915, [[Albert Einstein]] developed the theory of gravity called [[general relativity]], having earlier shown that gravity does influence light (although light has zero [[rest mass]], its path follows any curvature of [[space-time]], and gravity is curvature of space-time). A few months later, [[Karl Schwarzschild]] gave the [[Schwarzschild metric|solution]] for the gravitational field of a point mass and a spherical mass,<ref>K. Schwarzschild, Sitzungsber.Preuss.Akad.Wiss.Berlin (Math.Phys.), (1916) 189-196</ref><ref>K. Schwarzschild, Sitzungsber.Preuss.Akad.Wiss.Berlin (Math.Phys.), (1916) 424-434</ref> showing that a black hole could theoretically exist. The [[Schwarzschild radius]] is now known to be the radius of the [[event horizon]] of a non-rotating black hole, but this was not well understood at that time, for example Schwarzschild himself thought it was not physical. Johannes Droste, a student of [[Hendrik Lorentz|Lorentz]], independently gave the same solution for the point mass a few months after Schwarzschild and wrote more extensively about its properties.
+
+In 1930, the [[astrophysicist]] [[Subrahmanyan Chandrasekhar]] argued that, according to [[special relativity]], a non-rotating body above 1.44 solar masses (the [[Chandrasekhar limit]]), would collapse since there was nothing known at that time could stop it from doing so. His arguments were opposed by [[Arthur Eddington]], who believed that something would inevitably stop the collapse. Eddington was partly right:  a [[white dwarf]] slightly more massive than the Chandrasekhar limit will collapse into a [[neutron star]]. But in 1939, [[Robert Oppenheimer]] published papers (with various co-authors) which predicted that stars above about three solar masses (the [[Tolman-Oppenheimer-Volkoff limit]]) would collapse into black holes for the reasons presented by Chandrasekhar.<ref>[http://prola.aps.org/abstract/PR/v55/i4/p374_1 On Massive Neutron Cores], J. R. Oppenheimer and G. M. Volkoff, ''Physical Review'' '''55''', #374 ([[February 15]], [[1939]]), pp. 374&ndash;381.</ref>
+
+Oppenheimer and his co-authors used [[Schwarzschild metric|Schwarzschild's system of coordinates]] (the only coordinates available in 1939), which produced [[mathematical singularity|mathematical singularities]] at the [[Schwarzschild radius]], in other words the equations broke down at the Schwarzschild radius because some of the terms were [[infinity|infinite]]. This was interpreted as indicating that the Schwarzschild radius was the boundary of a "bubble" in which time "stopped".  For a few years the collapsed stars were known as "frozen stars" because the calculations indicated that an outside observer would see the surface of the star frozen in time at the instant where its collapse takes it inside the Schwarzschild radius. But many physicists could not accept the idea of time standing still inside the Schwarzschild radius, and there was little interest in the subject for over 20 years.
+
+In 1958 [[David Finkelstein]] broke the deadlock over "stopped time" and introduced the concept of the [[event horizon]] by presenting the [[Eddington-Finkelstein coordinates]], which enabled him to show that "The Schwarzschild surface r = 2m is not a singularity but acts as a perfect unidirectional membrane: causal influences can cross it but only in one direction".<ref>D. Finkelstein (1958). "Past-Future Asymmetry of the Gravitational Field of a Point Particle". Phys. Rev. 110: 965–967. </ref> Note that at this stage all theories, including Finkelstein's, covered only non-rotating, uncharged black holes.
+
+In 1963 [[Roy Kerr]] extended Finkelstein's analysis by presenting the [[Kerr metric]] (coordinates) and showing how this made it possible to predict the properties of [[rotating black hole]]s.<ref>[http://prola.aps.org/abstract/PRL/v11/i5/p237_1 R. P. Kerr, "Gravitational field of a spinning mass as an example of algebraically special metrics", ''Phys. Rev. Lett.'' '''11''', 237 (1963)]</ref> In addition to its theoretical interest, Kerr's work made black holes more believable for astronomers, since black holes are formed from stars and all known stars rotate.
+
+In 1967 astronomers discovered [[pulsars]], and within a few years could show that the known pulsars were rapidly rotating [[neutron star]]s. Until that time, neutron stars were also regarded as just theoretical curiosities. So the discovery of pulsars awakened interest in all types of ultra-dense objects that might be formed by gravitational collapse.
+
+In December 1967 the theoretical physicist [[John Archibald Wheeler|John Wheeler]] coined the expression "black hole" in his public lecture ''Our Universe: the Known and Unknown'', and this mysterious, slightly menacing phrase attracted more attention than the static-sounding "frozen star". The phrase was probably coined with the awareness of the [[Black Hole of Calcutta]] incident of 1756 in which 146 Europeans were locked up overnight in punishment cell of barracks at [[Fort William, India|Fort William]] by [[Siraj ud-Daulah]], and all but 23 perished. <ref> [http://www.etymonline.com/index.php?search=black+hole&searchmode=none Online Etymology Dictionary] </ref>
+
+In 1970, [[Stephen Hawking]] and [[Roger Penrose]] proved that black holes are a feature of all solutions to Einstein's equations of gravity, not just of Schwarzschild's, and therefore black holes cannot be avoided in some collapsing objects.<ref name="predicted">The Singularities of Gravitational Collapse and Cosmology. S. W. Hawking, R. Penrose, Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, Vol. 314, No. 1519 ([[27 January]] [[1970]]), pp. 529–548</ref>
+
+==Black holes and Earth==
+Black holes are sometimes listed among the most serious potential threats to Earth and humanity,<ref>{{cite web|url=http://www.guardian.co.uk/life/feature/story/0,13026,1458536,00.html|title=What a way to go|publisher=Guardian UK}}</ref><ref>{{cite web|url=http://www.wisdomofsolomon.com/bigbang.html|title=Big Bang Machine could destroy Earth|publisher=Sunday Times}}</ref> on the grounds that:
+* A naturally-produced black hole could pass through our Solar System.
+* A large [[particle accelerator]] might produce a [[micro black hole]], and if this escaped it could gradually eat the whole of the Earth. The black hole in this scenario may be replaced by a [[strangelet]], another type of object which can absorb other particles despite the Earth's gravity and eventually accumulate enough mass to become an averaged sized black hole.
+
+===Black hole wandering through our Solar System===
+Stellar-mass black holes travel through the Milky Way just like stars.  Consequently, they may collide with the Solar System or another planetary system in the galaxy, although the probability of this happening is very small.  Significant gravitational interactions between the [[Sun]] and any other star in the Milky Way (including a black hole) are expected to occur approximately once every 10<sup>19</sup> [[years]].<ref name="binneytremaine1987">{{cite book 
+  | author=J. Binney, S. Tremaine
+  | year=1987
+  | title=Galactic Dynamics
+  | publisher=Princeton University Press
+  | location=Princeton, New Jersey
+  | id=ISBN 0-691-08445-9}}</ref>  For comparison, the [[Sun]] has an age of only 5 × 10<sup>9</sup> years, and is expected to become a [[red giant]] about 5 × 10<sup>9</sup> years from now, incinerating the surface of the Earth.<ref name="sparkegallagher2000"/> Hence it is extremely unlikely that a black hole will pass through the Solar System before the Sun exterminates life on Earth.
+
+===Micro black hole escaping from a particle accelerator===
+There is a theoretical possibility that a [[micro black hole]] might be created inside a [[particle accelerator]].<ref>[http://www.virginia.edu/uvatoday/newsRelease.php?id=1011 To the Higgs Particle and Beyond: U.Va. Physicists are Part of an International Team Searching for the Last Undiscovered Aspect of the Standard Model of Physics] Brad Cox, [[8 November]] 2006. Retrieved [[7 January]] 2007.</ref> Formation of black holes under these conditions (below the [[Planck energy]]) requires non-standard assumptions, such as [[large extra dimension|large]] [[extra dimensions]].
+
+However, many particle collisions that naturally occur as the [[cosmic rays]] hit the edge of our atmosphere are often far more energetic than any collisions created by man. If micro black holes can be created by current or next-generation particle accelerators, they have probably been created by cosmic rays every day throughout most of Earth's history, i.e. for billions of years, evidently without earth-destroying effects.
+
+If two [[protons]] at the [[Large Hadron Collider]] could merge to create a micro black hole, this black hole would be unstable, and would evaporate due to [[Hawking radiation]] before it had a chance to propagate. For a 14 [[TeV]] black hole (the center-of-mass energy at the Large Hadron Collider), the Hawking radiation formula indicates that it would evaporate in 10<sup>-100</sup> seconds.
+
+[[CERN]] conducted a study assessing the risk of producing dangerous objects such as black holes at the [[Large Hadron Collider]], and concluded that there is "no basis for any conceivable threat."<ref>http://doc.cern.ch/yellowrep/2003/2003-001/p1.pdf</ref>
+
+==Alternative models==
+{{Main|Nonsingular black hole models}}
+Several alternative models, which behave like a black hole but avoid the singularity, have been proposed. However, most researchers judge these concepts artificial, as they are more complicated but do not give near term observable differences from black holes (see [[Occam's razor]]). The most prominent alternative theory is the [[Gravastar]].
+
+In March 2005, physicist [[George Chapline]] at the [[Lawrence Livermore National Laboratory]] in [[California]] proposed that black holes do not exist, and that objects currently thought to be black holes are actually [[dark-energy star]]s. He draws this conclusion from some quantum mechanical analyses. Although his proposal currently has little support in the physics community, it was widely reported by the media.<ref>
+{{cite web| url=http://www.nature.com/news/2005/050328/full/050328-8.html
+          | title=Black holes 'do not exist'
+          | publisher=News@Nature.com
+          | accessdate=2006-03-25}}</ref><ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/0503200
+          | title=Dark Energy Stars
+          | first=G. | last=Chapline
+          | accessdate=2006-03-25}}</ref>  A similar theory about the non-existence of black holes was later developed by a group of physicists at [[Case Western Reserve University]] in June 2007.<ref>
+{{cite web| url=http://blog.case.edu/case-news/2007/06/20/blackholes
+          | title=Black holes don't exist, Case physicists report
+          | first =Heidi | last=Cool
+          | date=[[2007-06-20]]
+          | accessdate=2007-07-02
+          | publisher=[[Case Western Reserve University]]}}</ref>
+
+Among the alternate models are [[magnetospheric eternally collapsing objects]], clusters of [[elementary particle]]s<ref name="Maoz 1998">
+{{cite journal| url=http://www.journals.uchicago.edu/ApJ/journal/issues/ApJL/v494n2/975794/975794.web.pdf
+              | journal=The Astrophysical Journal
+              | volume=494| pages=L181–L184
+              | year=1998| month=[[20 February]]
+              | title=Dynamical Constraints On Alternatives To Supermassive Black Holes In Galactic Nuclei
+              | first=Eyal| last=Maoz}}
+</ref> (e.g., [[boson star]]s<ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/0004064
+          | year=2000
+          | title=A supermassive boson star at the galactic center?
+          | first=Diego F.| last=Torres
+          | coauthors=S. Capozziello, G. Lambiase
+          | accessdate=2006-03-25}}
+</ref>), [[fermion ball]]s,<ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/0103466
+          | title=The motion of stars near the Galactic center: A comparison of the black hole and fermion ball scenarios
+          | first=F.| last=Munyaneza
+          | coauthors=R.D. Viollier
+          | year=2001
+          | accessdate=2006-03-25}}
+</ref> self-gravitating, degenerate heavy [[neutrino]]s<ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/9805273
+          | title=Dark matter concentration in the galactic center
+          | first=David| last=Tsiklauri
+          | coauthors=Raoul D. Viollier
+          | year=1998
+          | accessdate=2006-03-25}}
+</ref> and even clusters of very low mass (~0.04 solar mass) black holes.<ref name="Maoz 1998"/>
+
+==More advanced topics==
+===Entropy and Hawking radiation===
+In 1971, [[Stephen Hawking]] showed that the total area of the event horizons of any collection of classical black holes can never decrease, even if they collide and swallow each other; that is merge<ref>[[Stephen Hawking]] ''[[A Brief History of Time]]'', 1998, ISBN 0-553-38016-8</ref>. This is remarkably similar to the Second Law of [[Thermodynamics]], with area playing the role of [[entropy]]. As a classical object with zero temperature it was assumed that black holes had zero entropy; if so the second law of thermodynamics would be violated by an entropy-laden material entering the black hole, resulting in a decrease of the total entropy of the universe. Therefore, [[Jacob Bekenstein]] proposed that a black hole should have an entropy, and that it should be proportional to its horizon area. Since black holes do not classically emit radiation, the thermodynamic viewpoint seemed simply an analogy, since zero temperature implies infinite changes in entropy with any addition of heat, which implies infinite entropy. However, in 1974, Hawking applied [[quantum field theory]] to the curved spacetime around the event horizon and discovered that black holes emit [[Hawking radiation]], a form of [[thermal radiation]], allied to the [[Unruh effect]], which implied they had a positive temperature. This strengthened the analogy being drawn between black hole dynamics and thermodynamics: using the [[Laws of black hole mechanics#The First Law|first law of black hole mechanics]], it follows that the entropy of a non-rotating black hole is one quarter of the area of the horizon. This is a universal result and can be extended to apply to cosmological horizons such as in [[de Sitter space]]. It was later suggested that black holes are maximum-entropy objects, meaning that the maximum possible entropy of a region of space is the entropy of the largest black hole that can fit into it. This led to the [[holographic principle]].
+
+The Hawking radiation reflects a characteristic [[temperature]] of the black hole, which can be calculated from its entropy. The more its temperature falls, the more massive a black hole becomes: the more energy a black hole absorbs, the colder it gets. A black hole with roughly the [[Orders of magnitude (mass)#23|mass of the planet Mercury]] would have a temperature in equilibrium with the [[cosmic microwave background]] radiation (about 2.73 K). More massive than this, a black hole will be colder than the background radiation, and it will gain energy from the background faster than it gives energy up through Hawking radiation, becoming even colder still. However, for a less massive black hole the effect implies that the mass of the black hole will slowly evaporate with time, with the black hole becoming hotter and hotter as it does so. Although these effects are negligible for black holes massive enough to have been formed astronomically, they would rapidly become significant for hypothetical [[micro black hole|smaller black holes]], where quantum-mechanical effects dominate. Indeed, small black holes are predicted to undergo runaway evaporation and eventually vanish in a burst of radiation.
+[[Image:First Gold Beam-Beam Collision Events at RHIC at 100 100 GeV c per beam recorded by STAR.jpg|thumb|right|400px|If ultra-high-energy collisions of particles in a [[particle accelerator]] can create microscopic black holes, it is expected that all types of particles will be emitted by black hole evaporation, providing key evidence for any [[grand unified theory]]. Above are the high energy particles produced in a gold ion collision on the [[Relativistic Heavy Ion Collider|RHIC]].]]
+Although general relativity can be used to perform a semi-classical calculation of black hole entropy, this situation is theoretically unsatisfying. In [[statistical mechanics]], entropy is understood as counting the number of microscopic configurations of a system which have the same macroscopic qualities(such as [[mass]], [[charge]], [[pressure]], etc.). But without a satisfactory theory of [[quantum gravity]], one cannot perform such a computation for black holes. Some promise has been shown by [[string theory]], however. There one posits that the microscopic degrees of freedom of the black hole are [[D-brane]]s. By counting the states of D-branes with given charges and energy, the entropy for certain [[supersymmetric]] black holes has been reproduced. Extending the region of validity of these calculations is an ongoing area of research.
+
+===Black hole unitarity===
+An open question in fundamental physics is the so-called information loss paradox, or [[black hole information paradox|black hole unitarity]] paradox. Classically, the laws of physics are the same run forward or in reverse. That is, if the position and velocity of every particle in the universe were measured, we could (disregarding [[chaos theory|chaos]]) work backwards to discover the history of the universe arbitrarily far in the past. In quantum mechanics, this corresponds to a vital property called [[unitarity]] which has to do with the conservation of probability.<ref name="PlayDice000">{{cite web 
+| title       = ''Does God Play Dice?'' Archived Lecture by Professor Steven Hawking, Department of Applied Mathematics and Theoretical Physics (DAMTP) University of Caimbridge
+| url         = http://www.hawking.org.uk/lectures/dice.html
+| accessdate  = 2007-09-07
+}}</ref>
+
+Black holes, however, might violate this rule. The position under classical general relativity is subtle but straightforward: because of the classical [[no hair theorem]], we can never determine what went into the black hole. However, as seen from the outside, information is never actually destroyed, as matter falling into the black hole takes an infinite time to reach the event horizon.
+
+[[Bekenstein bound|Ideas about quantum gravity]], on the other hand, suggest that there can only be a limited finite entropy (i.e. a maximum finite amount of information) associated with the space near the horizon; but the change in the entropy of the horizon plus the entropy of the Hawking radiation is always sufficient to take up all of the entropy of matter and energy falling into the black hole.
+
+Many physicists are concerned however that this is still not sufficiently well understood. In particular, at a quantum level, is the quantum state of the Hawking radiation uniquely determined by the history of what has fallen into the black hole; and is the history of what has fallen into the black hole uniquely determined by the quantum state of the black hole and the radiation? This is what determinism, and unitarity, would require.
+
+For a long time [[Stephen Hawking]] had opposed such ideas, holding to his original 1975 position that the Hawking radiation is entirely thermal and therefore entirely random, containing none of the information held in material the hole has swallowed in the past; this information he reasoned had been lost.  However, on [[21 July]] [[2004]] he presented a new argument, reversing his previous position.<ref>{{cite web| url=http://www.nature.com/news/2004/040712/full/040712-12.html| title=Hawking changes his mind about black holes| publisher=News@Nature.com| accessdate=2006-03-25}}</ref> On this new calculation, the entropy (and hence information) associated with the black hole escapes in the Hawking radiation itself, although making sense of it, even in principle, is still difficult until the black hole completes its evaporation; until then it is impossible to relate in a 1:1 way the information in the Hawking radiation (embodied in its detailed internal correlations) to the initial state of the system. Once the black hole evaporates completely, then such an identification can be made, and unitarity is preserved.
+
+By the time Hawking completed his calculation, it was already very clear from the AdS/CFT correspondence that black holes decay in a unitary way. This is because the fireballs in gauge theories, which are analogous to Hawking radiation are unquestionably unitary. Hawking's new calculation have not really been evaluated by the specialist scientific community, because the methods he uses are unfamiliar and of dubious consistency; but Hawking himself found it sufficiently convincing to pay out on a [[Thorne-Hawking-Preskill bet|bet]] he had made in 1997 with Caltech physicist [[John Preskill]], to considerable media interest.
+
+==Mathematical theory of non-rotating, uncharged black holes==
+{{see|Schwarzschild metric |Deriving the Schwarzschild solution}}
+
+In [[general relativity]], there are many known solutions of the [[Einstein field equations]] which describes  [[Black hole#Types of black holes|different types of black holes]] . The [[Schwarzschild metric]] is one of the earliest and simplest solutions. This solution describes the [[curvature]] of [[spacetime]] in the vicinity of a static and [[sphere|spherically]] [[symmetry|symmetric]] uncharged object, where the [[Metric space|metric]] is,
+
+:<math> \mathrm{d}s^2 = - c^2 \left( 1 - {2Gm \over c^2 r} \right) \mathrm{d}t^2 + \left( 1 - {2Gm \over c^2 r} \right)^{-1} \mathrm{d}r^2 + r^2 \mathrm{d}\Omega^2 </math>,
+
+where <math>\mathrm{d}\Omega^2 = \mathrm{d}\theta^2 + \sin^2\theta\; \mathrm{d}\phi^2</math> is a standard element of solid angle.
+
+According to general relativity, a gravitating object will collapse into a black hole if its radius is smaller than a characteristic distance, known as the [[Schwarzschild radius]]. (Indeed, [[Buchdahl's theorem]] in general relativity shows that in the case of a [[fluid solution|perfect fluid model]] of a compact object, the true lower limit is somewhat larger than the Schwarzschild radius.) Below this radius, spacetime is so strongly curved that any light ray emitted in this region, regardless of the direction in which it is emitted, will travel towards the centre of the system. Because [[special relativity|relativity]] forbids anything from traveling [[faster-than-light|faster than light]], anything below the Schwarzschild radius &ndash; including the constituent particles of the gravitating object &ndash; will collapse into the centre. A [[gravitational singularity]], a region of theoretically infinite density, forms at this point. Because not even light can escape from within the Schwarzschild radius, a classical black hole would truly appear [[black]].
+
+The Schwarzschild radius is given by
+
+:<math>r_{\rm S} = {2\,Gm \over c^2} </math>
+
+where ''G'' is the [[gravitational constant]], ''m'' is the [[mass]] of the object, and ''c'' is the [[speed of light]]. For an object with the mass of the [[Earth]], the Schwarzschild radius is a mere 9 millimeters &mdash; about the size of a [[marble (toy)|marble]].
+
+The mean density inside the Schwarzschild radius decreases as the mass of the black hole increases, so while an earth-mass black hole would have a density of 2&nbsp;×&nbsp;10<sup>30</sup>&nbsp;kg/m³, a supermassive black hole of 10<sup>9</sup> [[solar mass]]es has a density of around 20&nbsp;kg/m³, less than water! The mean density is given by
+
+:<math>\rho=\frac{3\,c^6}{32\pi m^2G^3}.</math>
+
+Since the Earth has a mean radius of 6371 km, its volume would have to be reduced 4 × 10<sup>26</sup> times to collapse into a black hole. For an object with the mass of the [[Sun]], the Schwarzschild radius is approximately 3&nbsp;km, much smaller than the Sun's current radius of about 696,000 km. It is also significantly smaller than the radius to which the Sun will ultimately shrink after exhausting its nuclear fuel, which is several thousand kilometers. More massive stars can collapse into black holes at the end of their lifetimes.
+
+The formula also implies that any object with a given mean density is a black hole if its radius is large enough. The same formula applies for [[white holes]] as well. For example, if the [[observable universe]] has a mean density equal to the [[critical density]], then it is a [[white hole]], since its [[singularity]] is in the past and not in the future as should be for a black hole.
+
+There is also the Black Hole Entropy formula:
+
+:<math>S = \frac{Akc^3}{4\hbar G}.</math>
+
+Where '''A''' is the area of the event horizon of the black hole, '''<math>\hbar</math>''' is [[Dirac's constant]] (the "reduced [[Planck constant]]"), '''k''' is the [[Boltzmann constant]], '''G''' is the [[gravitational constant]], '''c''' is the [[speed of light]] and '''S''' is the [[entropy]].
+
+A convenient length scale to measure black hole processes is the "gravitational radius", which is equal to
+:<math>r_{\rm G} = {Gm \over c^2} .</math>
+When expressed in terms of this length scale, many phenomena appear at integer radii.
+For example, the radius of a Schwarzschild black hole is two gravitational radii and the radius of a maximally rotating Kerr black hole is one gravitational radius. The location of the light circularization radius around a Schwarzschild black hole (where light may orbit the hole in an unstable circular orbit) is <math>3r_{\rm G}</math>. The location of the marginally stable orbit, thought to be close to the inner edge of an accretion disk, is at <math>6r_{\rm G}</math> for a Schwarzschild black hole.
+<!--
+A '''black hole''' is an object predicted by [[general relativity]],<ref name="predicted">The Singularities of Gravitational Collapse and Cosmology. S. W. Hawking, R. Penrose, Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, Vol. 314, No. 1519 ([[27 January]] [[1970]]), pp. 529-548</ref> with a gravitational field so powerful that even [[electromagnetic radiation]] (such as [[light]]) cannot escape its pull.<ref name="encarta1">{{Cite web|url=http://encarta.msn.com/encyclopedia_761558067/Black_Hole.html|title=Black hole|accessdate=2006-12-24|publisher=Microsoft Encarta Online Encyclopedia|year=2006|author=Pasachoff, Jay M.; A.B., A.M., Ph.D.|work=MSN Encarta|format=html}}</ref>
+A black hole is ''defined'' to be a region of [[space-time]] where escape to the outside universe is impossible. The [[Boundary (topology)|outer boundary]] of this region is called the [[event horizon]]. Nothing can move from inside the event horizon to the outside, even briefly, due to the extreme gravitational field existing within the region. For the same reason, observers outside the event horizon cannot see any events which may be happening within the event horizon; thus any energy being radiated or events happening within the region are forever unable to be seen or detected from outside. Within the black hole is a '''[[Gravitational singularity|singularity]]''', an anomalous place where matter is compressed to the degree that the known laws of physics no longer apply to it.
+
+Theoretically, a black hole can be of any size. Astrophysicists expect to find black holes with masses ranging between roughly the mass of the [[Sun]] ("stellar-mass" black holes) to many millions of times the mass of the Sun ([[supermassive black hole]]s).
+
+The existence of black holes in the universe is well supported by [[astronomical observation]], particularly from studying [[X-ray]] emission from [[X-ray binaries]] and [[active galactic nuclei]]. It has also been hypothesized that black holes radiate an undetectably small amount of energy due to [[quantum mechanical]] effects. This is called [[Hawking radiation]].
+
+==Simple overview==
+[[Image:BH LMC.png|270px|right|thumb|Gravitational distortions caused by a black hole in front of the [[Large Magellanic Cloud]] (artistic interpretation)]]
+
+Most planets and other [[celestial bodies]] are stable because the [[Pauli force]] between electrons prevents atoms from collapsing into each other, while [[Gravitation|gravity]], [[electromagnetism]], and the [[strong force]] pull them together. These opposing forces create a balance which allows material bodies to retain their shape and structure. In extreme circumstances, however, if there is enough matter in a small enough space, gravity ends up winning, and the matter collapses: [[electron]]s cannot stay distant from the [[atomic nucleus]], and incredibly dense matter forms (sometimes called [[neutronium]]).
+
+If an even greater amount of mass is contained within the same space, even the [[Pauli force]] between [[nucleons]] cannot resist gravity and the body collapses into itself forming a black hole. In a way that can be hard to imagine, ''nothing'' can stop this collapse if enough matter gets into a small enough space, and the matter collapses to a point of zero height, width, and depth, known as a [[Gravitational singularity|singularity]]. The mass in a singularity is so dense it is no longer "matter" in any real sense, but some kind of [[anomaly]] in [[space]]. Anything that gets too close to this singularity will also collapse into it the same way, whether it is matter, [[energy]] or even light itself, which is the fastest thing in the universe. The failure of even light to escape its gravitation is how this phenomenon initially acquired the name '''black hole'''.
+
+Because matter and energy that pass this "boundary" can never escape back again, observers outside this invisible "boundary" can neither see inside nor detect what might happen within the interior &mdash; it is forever hidden from view. The invisible 'dividing line' in space where matter or energy will be unavoidably drawn into the black hole is known as the [[event horizon]], because, like the earth's [[horizon]], nothing can be seen beyond it.
+
+It was later found that energy can escape from black holes in an unexpected way, and that therefore black holes can ''evaporate''. In space, [[virtual particle]]s are continually coming into existence and vanishing on a microscopic scale that is so small they cannot easily be detected. This is a consequence of [[quantum physics]] and only works on a subatomic scale. Conceptually, these particles can be imagined to appear in pairs and vanish a tiny fraction of a second later again. For this reason they are not readily noticed. But close to the black hole's event horizon, the intense gravitational field separates the two particles even in the fractional second that they exist. One particle may be absorbed into the black hole, the other escapes. From an external perspective all that is seen is the second of these, giving the appearance of energy being radiated outward, escaping from its gravitational field beyond the event horizon. In this way, paradoxically, black holes can evaporate. This process is thought to be significant for the very smallest black holes, as a black hole of stellar mass or larger would absorb more energy from [[cosmic microwave background radiation]] than they lose this way. The radiation emitted is referred to as [[Hawking radiation]].
+
+Black holes generally come in two types: those with a mass up to ten times the mass of our [[Sun]], and those with a mass that is millions or billions of times that of our sun. The latter are called [[supermassive black hole]]s, and are thought to exist at the centers of galaxies.<ref>{{cite book | author=Julian H. Krolik | title=Active Galactic Nuclei | publisher=Princeton University Press | year=1999 | id =ISBN 0-691-01151-6}}</ref> [[Micro black holes]] are believed to be possible but very short-lived, capable of creation under extreme circumstances such as the [[Big Bang]] or perhaps by very high powered [[particle accelerator]]s or [[ultra-high-energy cosmic ray]]s.<ref>Scientific American, May 2005</ref>
+
+==History==
+The concept of a body so massive that even light could not escape was put forward by the [[geologist]] [[John Michell]] in a 1784 paper sent to [[Henry Cavendish]] and published by the [[Royal Society]].<ref>J. Michell, Phil. Trans. Roy. Soc., 74 (1784) 35-57.</ref> At that time, the [[Isaac Newton|Newtonian]] theory of [[Gravitation|gravity]] and the concept of [[escape velocity]] were well known. Michell computed that a body with 500 times the radius of the Sun and of the same [[density]] would have, at its surface, an escape velocity exceeding that of the [[speed of light]], and therefore would be invisible. In his words:
+{{cquote|''If the semi-diameter of a sphere of the same density as the Sun were to exceed that of the Sun in the proportion of 500 to 1, a body falling from an infinite height towards it would have acquired at its surface greater velocity than that of light, and consequently supposing light to be attracted by the same force in proportion to its vis inertiae (inertial mass), with other bodies, all light emitted from such a body would be made to return towards it by its own proper gravity.''}}
+
+Michell considered the possibility that many such objects that cannot be seen might be present in the cosmos.
+
+In 1796, the mathematician [[Pierre-Simon Laplace]] promoted the same idea in the first and second editions of his book ''Exposition du système du Monde'' (it was removed from later editions). The idea gained little attention in the nineteenth century, since light was thought to be a massless wave, hence not influenced by gravity.
+
+In 1915, [[Albert Einstein]] developed the theory of gravity called [[general relativity]], having earlier shown that gravity does influence light. A few months later, [[Karl Schwarzschild]] gave the [[Schwarzschild metric|solution]] for the gravitational field of a point mass and a spherical mass,<ref>K. Schwarzschild, Sitzungsber.Preuss.Akad.Wiss.Berlin (Math.Phys.), (1916) 189-196</ref><ref>K. Schwarzschild, Sitzungsber.Preuss.Akad.Wiss.Berlin (Math.Phys.), (1916) 424-434</ref> showing that a black hole could theoretically exist. The [[Schwarzschild radius]] is now known to be the radius of the [[event horizon]] of a non-rotating black hole, but this was not well understood at that time. Schwarzschild himself thought it was not physical. A few months after Schwarzschild, a student of [[Hendrik Lorentz|Lorentz]], Johannes Droste, independently gave the same solution for the point mass and wrote more extensively about its properties.
+
+In 1930, the [[astrophysicist]] [[Subrahmanyan Chandrasekhar]] argued that special relativity demonstrated that a non-radiating body above 1.44 solar masses, now known as the [[Chandrasekhar limit]], would collapse since there was nothing known at that time that could stop it from doing so. His arguments were opposed by [[Arthur Eddington]], who believed that something would inevitably stop the collapse. Both were correct, since a [[white dwarf]] more massive than the Chandrasekhar limit will collapse into a [[neutron star]]. However, a neutron star above about three solar masses (the [[Tolman-Oppenheimer-Volkoff limit]]) will itself become unstable against collapse due to similar physics.
+
+In 1939, [[Robert Oppenheimer]] and H. Snyder predicted that massive stars could undergo a dramatic [[gravitational collapse]]. Black holes could, in principle, be formed in nature. Such objects for a while were called frozen stars since the collapse would be observed to rapidly slow down and become heavily [[redshift]]ed near the Schwarzschild radius. The mathematics showed that an outside observer would see the surface of the star frozen in time at the instant where it crosses that radius. These hypothetical objects were not the topic of much interest until the late 1960s. Most physicists believed that they were a peculiar feature of the highly symmetric solution found by Schwarzschild, and that objects collapsing in nature would not form black holes.
+
+Interest in black holes was rekindled in 1967 when this girl Alex had a baby and she discovered that the baby went to the bathroom. because of theoretical and experimental progress. In 1970, [[Stephen Hawking]] and [[Roger Penrose]] proved that black holes are a generic feature in Einstein's theory of gravity, and cannot be avoided in some collapsing objects.<ref name="predicted">The Singularities of Gravitational Collapse and Cosmology. S. W. Hawking, R. Penrose, Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, Vol. 314, No. 1519 ([[27 January]] [[1970]]), pp. 529–548</ref> Interest was renewed in the astronomical community with the discovery of [[pulsar]]s. Shortly thereafter, the expression "black hole" was coined by theoretical physicist [[John Archibald Wheeler|John Wheeler]],<ref>{{cite web| url=http://www.truephysics.com/history/timeline/timeline1961_1980.html| title=The True Physics Project - Physics in a New Way.|accessdate=2006-04-21}}</ref> being first used in his public lecture ''Our Universe: the Known and Unknown'' on [[29 December]] [[1967]]. The older Newtonian objects of Michell and Laplace are often referred to as "[[dark star]]s" to distinguish them from the "black holes" of general relativity.
+
+==Evidence==
+[[Image:Black Hole Milkyway.jpg|thumb|250px| A (simulated) black hole of ten solar masses as seen from a distance of 600&nbsp;km with the [[Milky Way]] in the background (horizontal camera opening angle: 90°). The blurred ring is due to objects whose light must travel close enough to the black hole to suffer [[gravitational lens]]ing distortion before being observed.]]
+
+===Formation and size===
+[[General relativity]] (as well as most other metric theories of gravity) not only says that black holes ''can'' exist, but in fact predicts that they will be formed in nature whenever a sufficient amount of mass gets packed in a given region of space, through a process called [[gravitational collapse]]; as the mass inside the given region of space increases, its gravity becomes stronger and (in the language of relativity) increasingly deforms the space around it, until ultimately nothing (not even light) can escape the gravity; at this point an [[event horizon]] is formed, and matter and energy must inevitably collapse to a density beyond the limits of known physics. For example, if the Sun was compressed to a radius of roughly three kilometers (about 1/232,000 its present radius or 1/1.2487×10<sup>16</sup> of its initial volume), the resulting gravitational field would create an event horizon around it, and thus a black hole.
+
+A quantitative analysis of this idea led to the prediction that a stellar remnant above about three to five times the mass of the Sun (the [[Tolman-Oppenheimer-Volkoff limit]]) would be unable to support itself as a [[neutron star]] via [[degeneracy pressure]], and would inevitably collapse into a black hole. Stellar remnants with this mass are expected to be produced immediately at the end of the lives of stars that are more than 25 to 50 times the mass of the Sun, or by accretion of matter onto an existing [[neutron star]].
+
+Stellar collapse will generate black holes containing at least three [[solar mass]]es. Black holes smaller than this limit can only be created if their matter is subjected to sufficient pressure from some source other than self-gravitation. The enormous pressures needed for this are thought to have existed in the very early stages of the universe, possibly creating [[primordial black hole]]s which could have masses smaller than that of the Sun.
+
+[[Supermassive black hole]]s are believed to exist in the center of most [[galaxy|galaxies]], including our own [[Milky Way]]. This type of black hole contains millions to billions of solar masses, and there are several models of how they might have been formed. The first is via gravitational collapse of a dense cluster of stars. A second is by large amounts of mass [[accretion (astrophysics)|accreting]] onto a "seed" black hole of stellar mass. A third is by repeated fusion of smaller black holes. Effects of such supermassive black holes on spacetime may be observed in regions as the [[Virgo Cluster]] of galaxies, for example, the location of [[Messier 87|M87]] (see image below) and its neighbors.
+
+[[Intermediate-mass black hole]]s have a mass between that of stellar and supermassive black holes, typically in the range of thousands of solar masses. Intermediate-mass black holes have been proposed as a possible power source for [[Ultraluminous X-ray source|ultra-luminous X ray sources]], and in 2004 detection was claimed of an intermediate-mass black hole orbiting the [[Sagittarius A*]] supermassive black hole candidate at the core of the Milky Way galaxy. This detection is disputed.
+
+The lower limit on the mass of a black hole comes from the quantum arguments. According to the most commonly accepted physics, one should not expect to observe black holes lighter than the [[Planck mass]], or approximately 10<sup>-5</sup>&nbsp;g, and even those would only exist for minuscule periods of time before evaporating. If true, this limit would rule out the possibility of creating miniature black holes in the laboratory in the foreseeable future: even today, center-of-mass collision energies of the world's most advanced particle accelerators are still 14–15 [[order of magnitude|orders of magnitude]] lower than the Planck mass.
+
+However, certain models of [[theory of everything|unification]] of the [[fundamental interaction|four fundamental forces]] do allow the formation of [[micro black hole]]s under laboratory conditions. These postulate that the energy at which [[gravity]] is unified with the other forces is comparable to the energy at which the other three are [[grand unification theory|unified]], as opposed to being the [[Planck energy]] (which is much higher). This would allow production of extremely short-lived black holes in terrestrial [[particle accelerator]]s. No conclusive evidence of this type of black hole production has been presented, though even a negative result improves constraints on [[compactification (physics)|compactification]] of extra dimensions from [[string theory]] or other models of physics.
+
+===Observation===
+[[Image:Black hole jet diagram.jpg|right|350px|thumb|Formation of extragalactic jets from a black hole's [[accretion disk]]]]
+In theory, no object within the event horizon of a black hole can ever escape, including light. However, black holes can be inductively detected from observation of [[phenomena]] near them, such as [[gravitational lensing]], [[galactic jets]], and stars that appear to be in [[orbit]] (typically with short [[orbital period]]s of only a few hours or days suggesting a massive partner) around a point in [[space]] where there is no visible matter.
+
+The most conspicuous effects are believed to come from matter accreting onto a black hole, which is predicted to collect into an extremely hot and fast-spinning [[accretion disk]]. The internal [[viscosity]] of the disk causes it to become extremely hot, and emit large amounts of [[X-ray]] and [[ultraviolet]] [[radiation]]. This process is extremely efficient and can convert about 10% of the [[rest mass]] [[energy]] of an object into [[radiation]], as opposed to [[nuclear fusion]] which can only convert a few percent of the [[mass]] to energy. Other observed effects are narrow [[relativistic jet|jets]] of particles at relativistic speeds heading along the disk's axis.
+
+However, accretion disks, jets, and orbiting objects are found not only around black holes, but also around other objects such as [[neutron star]]s and [[white dwarf]]s; and the dynamics of bodies near these non-black hole attractors is largely similar to that of bodies around black holes. It is currently a very complex and active field of research involving [[magnetic field]]s and [[plasma physics]] to disentangle what is going on. Hence, for the most part, observations of accretion disks and orbital motions merely indicate that there is a compact object of a certain mass, and says very little about the nature of that object. The identification of an object as a black hole requires the further assumption that no other object (or bound system of objects) could be so massive and compact. Most astrophysicists accept that this is the case, since according to general relativity, any concentration of matter of sufficient density must necessarily collapse into a black hole.
+
+One important observable difference between black holes and other compact massive objects is that any infalling matter will eventually collide with the latter at relativistic speeds, leading to emission as the kinetic energy of the matter is thermalized. In addition [[thermonuclear]] "burning" may occur on the surface of compact massive objects as material collides or builds up. These processes produce irregular intense flares of [[X-rays]] and other hard radiation around some objects. The lack of such flare-ups around such a compact concentration of mass is taken as evidence suggesting that the object is a black hole which lacks a surface onto which matter can collect and from which radiation can be emitted.
+
+===Suspected black holes===
+[[Image:Black Hole Merger.jpg|thumb|right|240px|An artist depiction of two black holes merging.]]
+
+There is now a great deal of indirect astronomical observational evidence for black holes in two mass ranges:
+* [[stellar black hole|stellar mass black holes]] with masses of a typical [[star]] (4&ndash;15 times the mass of our Sun), and
+* [[supermassive black hole]]s with masses ranging from on the order of <math>10^5</math> to <math>10^{10}</math> solar masses.
+
+Additionally, there is some evidence for [[intermediate-mass black hole]]s (IMBHs), those with masses of a few hundred to a few thousand times that of the Sun. These black holes may be responsible for the emission from [[ultraluminous X-ray source]]s (ULXs).
+
+Candidates for stellar-mass black holes were identified mainly by the presence of accretion disks of the right size and speed, without the irregular flare-ups that are expected from disks around other compact objects. Stellar-mass black holes may be involved in [[gamma ray burst]]s (GRBs); short duration GRBs are believed to be caused by colliding [[neutron star]]s, which form a black hole on merging. Observations of long GRBs in association with [[supernova]]e<ref>{{cite web| url=http://liftoff.msfc.nasa.gov/academy/universe/plasma_univ.html| title=The Plasma Universe| publisher = Liftoff to Space Exploration (NASA)| accessdate=2006-03-25}}</ref> suggest that long GRBs are caused by [[collapsars]];<ref>{{cite book| url=http://www.wkap.nl/prod/b/0-7923-3784-0| title=Plasma Astrophysics and Cosmology - The Second IEEE International Workshop, Princeton, New Jersey, [[May 12]]-10 12, 1993| editor=Peratt, Anthony L.|id=ISBN 0-7923-3784-0}}</ref> a massive star whose core collapses to form a black hole, drawing in the surrounding material. Therefore, a GRB could possibly signal the birth of a new black hole, aiding efforts to search for them.
+
+Candidates for more massive black holes were first provided by the [[active galactic nuclei]] and [[quasar]]s, discovered by [[radioastronomy|radioastronomers]] in the 1960s. The efficient conversion of mass into energy by friction in the accretion disk of a black hole seems to be the only explanation for the copious amounts of energy generated by such objects. Indeed the introduction of this theory in the 1970s removed a major objection to the belief that quasars were distant galaxies &mdash; namely, that no physical mechanism could generate that much energy.
+
+From observations in the 1980s of motions of stars around the galactic centre, it is now believed that such supermassive black holes exist in the centre of most galaxies, including our own [[Milky Way]]. [[Sagittarius A*]] is now generally agreed to be the location of a supermassive black hole at the centre of the Milky Way galaxy. The orbits of stars within a few [[Astronomical Unit|AU]] of Sagittarius A* rule out any object other than a black hole at the centre of the Milky Way assuming the current standard laws of physics are correct.
+
+[[Image:M87 jet.jpg|left|thumb|The jet emitted by the galaxy [[Elliptical Galaxy M87|M87]] in this image is thought to be caused by a [[supermassive black hole]] at the galaxy's centre]]
+
+The current picture is that all galaxies may have a supermassive black hole in their centre, and that this black hole accretes gas and dust in the middle of the galaxies generating huge amounts of radiation &mdash; until all the nearby mass has been swallowed and the process shuts off. This picture may also explain why there are no nearby [[quasar]]s.
+
+Although the details are still not clear, it seems that the growth of the black hole is intimately related to the growth of the spheroidal component &mdash; an [[elliptical galaxy]], or the [[bulge (astronomy)|bulge]] of a [[spiral galaxy]] &mdash; in which it lives.
+
+In 2002, the Hubble Telescope identified evidence indicating that intermediate size black holes exist in [[globular clusters]] named [[Messier 15|M15]] and [[Mayall II|G1]]. The evidence for the black holes stemmed from the orbital velocity of the stars in the globular clusters; however, a group of [[neutron star]]s could cause similar observations.
+
+===Nearest black hole candidates===
+Apart from [[Sagittarius A*]], the black hole in our Milky Way's center, there are several strong black hole candidates nearer than it to us, all of them X-ray binaries which draw matter from their partner via an accretion disk. They have masses from three to more than a dozen sun masses.<ref>J. Casares: ''Observational evidence for stellar mass black holes.'' [http://arxiv.org/abs/astro-ph/0612312 Preprint]</ref><ref>M.R. Garcia et al.: ''Resolved Jets and Long Period Black Hole Novae.'' [http://arxiv.org/abs/astro-ph/0302230 Preprint]</ref>
+
+{| border="1" cellspacing="0" cellpadding="10" class="wikitable"
+!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || Mass in M☉|| Mass of partner (M☉)|| [[Orbital period]] (days)|| Distance from Earth ([[light year]]s)
+|-
+|[[A0620-00]] || 9−13 || 2.6−2.8 || 0.33 || ~3500
+|-
+|[[GRO J1655-40]] || 6−6.5 || 2,6−2,8 || 2.8 || 5000−10000
+|-
+|[[XTE J1118+480]] || 6.4−7.2 || 6−6.5 || 0.17 || 6200
+|-
+|[[Cygnus X-1|Cyg X-1]] || 7−13 || 0.25 || 5.6 || 6000−8000
+|-
+|[[GRO J0422+32]] || 3−5 || 1.1 || 0.21 || ~8500
+|-
+|[[GS 2000+25]] || 7−8 || 4.9−5.1 || 0.35 || ~8800
+|-
+|[[V404 Cyg]] || 10−14 || 6.0 || 6.5 || ~10000
+|-
+|[[GX 339-4]] || || 5−6 || 1.75 || ~15000
+|-
+|[[GRS 1124-683]] || 6.5−8.2 || || 0.43 || ~17000
+|-
+|[[XTE J1550-564]] || 10−11 || 6.0−7.5 || 1.5 || ~17000
+|-
+|[[XTE J1819-254]] || 10−18 || ~3 || 2.8 || < 25000
+|-
+|[[4U 1543-475]] || 8−10 || 0.25 || 1.1 || ~24000
+|-
+|[[1915+105 GRO]] || .|| . || . || .
+|-
+|[[Sagittarius A*|Sgr A*]] || 3.7 million || − || − || ~25000
+|}
+
+===Recent discoveries===
+In 2004, astronomers found 31 candidate supermassive black holes from searching obscured [[quasar]]s. The lead scientist said that there are from two to five times as many supermassive black holes as previously predicted.<ref>{{cite web| url=http://physicsweb.org/articles/news/8/6/1| title=Hidden black holes come into view| year=[[2 June]] [[2004]]| publisher=Physicsweb| accessdate=2006-03-25}}</ref>
+
+In June 2004 astronomers found a super-massive black hole, [[Q0906+6930]], at the centre of a distant [[galaxy]] about 12.7 billion light years away. This observation indicated rapid creation of super-massive black holes in the early universe.<ref>{{cite web| url=http://www.space.com/scienceastronomy/heavy_blazar_040628.html| title=Massive Black Hole Stumps Researchers| first=Tariq| last=Malik| year=[[28 June]] [[2004]]| publisher=Space.com| accessdate=2006-03-25}}</ref>
+
+In November 2004 a team of astronomers reported the discovery of the first [[intermediate-mass black hole]] in our Galaxy, orbiting three light-years from Sagittarius A*. This medium black hole of 1,300 solar masses is within a cluster of seven stars, possibly the remnant of a massive star cluster that has been stripped down by the Galactic Centre.<ref>{{cite web| url=http://www.nature.com/news/2004/041108//full/041108-2.html#B2| title=Second black hole found at the centre of our Galaxy| publisher=News@Nature.com| accessdate=2006-03-25}}</ref><ref>{{cite web| url=http://www.edpsciences-usa.org/articles/aa/abs/2004/31/aa0147-03/aa0147-03.html| title=The nature of the Galactic Center source IRS 13 revealed by high spatial resolution in the infrared| accessdate=2007-01-07}}</ref> This observation may add support to the idea that supermassive black holes grow by absorbing nearby smaller black holes and stars.
+
+In February 2005, a [[blue giant]] [[star]] [[SDSS J090745.0+24507]] was found to be leaving the [[Milky Way]] at twice the escape velocity (0.0022 of the speed of light), having been catapulted out of the galactic core which its path can be traced back to. The high velocity of this star supports the hypothesis of a super-massive black hole in the centre of the galaxy.
+
+The formation of [[micro black hole]]s on Earth in [[particle accelerators]] has been tentatively reported,<ref>{{cite web| url=http://news.bbc.co.uk/2/hi/science/nature/4357613.stm| year=[[17 March]] [[2005]]| title=Lab fireball 'may be black hole'| publisher=BBC News| accessdate=2006-03-25}}</ref> but not yet confirmed. So far there are no observed candidates for [[primordial black hole]]s.
+
+In January 2007, researchers at the University of Southampton in the United Kingdom reported finding a black hole inside a compact group of ancient stars known as a [[globular cluster]]. Many doubted newly-formed black holes could exist in such locations due to gravitational interactions.<ref>{{cite web| url=http://news.bbc.co.uk/2/hi/science/nature/6231623.stm| title=Black hole found in ancient lair| accessdate=2007-01-07}}</ref>
+
+==Features and theories==
+Black holes require the [[general relativity|general relativistic]] concept of a curved [[spacetime]]: their most striking properties rely on a distortion of the geometry of the space surrounding them.
+
+===Gravitational field===
+The gravitational field outside a black hole is identical to the field produced by any other [[Divergence theorem#Spherically symmetric mass distribution|spherically symmetric object]] of the same mass. The popular conception of black holes as "sucking" things in is false: objects can orbit around black holes indefinitely without getting any closer. The strange properties of spacetime only become noticeable closer to the black hole.
+
+===Event horizon===
+The effective boundary of a black hole is known as the ''[[event horizon]]''. The event horizon is not a physical surface; it is the invisible dividing line in space beyond which outside observers cannot see, and from within which matter and energy cannot exit. [[Stephen Hawking]] proved that the topology of the event horizon of a non-spinning black hole is a sphere. Due to the extremely strong gravitational field, anything inside the event horizon, including a photon, is prevented from escaping across the event horizon. Particles from outside this region can fall in, cross the event horizon, and will never be able to leave. In this sense, the event horizon is a little like the [[point of no return]].
+
+External observers cannot probe the interior of a black hole. Consequently according to (non-quantum) general relativity, black holes can be entirely characterized by these parameters: [[energy]], [[linear momentum]], [[angular momentum]], [[electric charge]], and position at a specific time. This principle is summarized by the saying, coined by [[John Archibald Wheeler]], "[[no hair theorem|black holes have no hair]]" meaning that there are no features that distinguish one black hole from another, other than energy, linear momentum, charge, angular momentum, and location.
+
+===Space-time distortion and frame of reference===
+Objects in a gravitational field experience a slowing down of [[time]], called [[time dilation]], relative to observers outside the field. This phenomenon has been verified experimentally in the [[Scout rocket experiment]] of 1976,<ref>{{cite web| url=http://hyperphysics.phy-astr.gsu.edu/hbase/relativ/gratim.html| title=Gravitational Red Shift| accessdate=2006-03-25}}</ref> and is, for example, taken into account in the [[Global Positioning System]] (GPS). Near the event horizon, the time dilation increases rapidly.
+
+From the viewpoint of a distant observer, an object falling into a black hole appears to slow down, approaching but never quite reaching the event horizon. As the object falls into the black hole, it appears redder and dimmer to the distant observer, due to the extreme [[gravitational red shift]] caused by the gravity of the black hole. Eventually, the falling object becomes so dim that it can no longer be seen, at a point just before it reaches the event horizon.
+
+From the viewpoint of the falling object, nothing particularly special happens at the event horizon. The object crosses the event horizon and reaches the singularity at the center within a finite amount of [[proper time]], as measured by a watch carried with the falling observer.
+
+From the viewpoint of the falling observer, distant objects may appear either blue-shifted or red-shifted, depending on the observer's trajectory. Light is blue-shifted by the gravity of the black hole, but is red-shifted by the velocity of the falling object.
+
+===Inside the event horizon===
+Space-time inside the event horizon of an uncharged non-rotating black hole is peculiar in that the singularity is in every observer's future, so all particles within the event horizon move inexorably towards it ([[Roger Penrose|Penrose]] and [[Stephen Hawking|Hawking]]). This means that there is a conceptual inaccuracy in the non-relativistic concept of a black hole as originally proposed by [[John Michell]] in 1783. In Michell's theory, the escape velocity at the surface of the star is greater than the speed of light, but it would still be theoretically possible to hoist an object out of a black hole using a rope. General relativity eliminates such loopholes, because once an object is inside the event horizon, its time-line contains an end-point to time itself, and no possible [[world line]] comes back out through the event horizon. Once inside the black hole, at most one course-correction (performed immediately) is appropriate to maximize your survival time.
+
+As the object continues to approach the singularity, it will be stretched radially with respect to the black hole and compressed in directions perpendicular to this axis. This phenomenon, called [[spaghettification]], occurs as a result of [[tidal force]]s: the parts of the object closer to the singularity feel a stronger pull towards it (causing stretching along the axis), and all parts are pulled in the direction of the singularity, which is only aligned with the object's average motion along the axis of the object (causing compression towards the axis).
+
+===Singularity===
+At the center of the black hole, well inside the event horizon, general relativity predicts a [[Gravitational singularity|singularity]], a place where the curvature of spacetime becomes infinite and gravitational forces become infinitely strong.
+
+In a non-rotating black hole, the singularity is one-dimensional, extended in the time direction only. In a rotating black hole, the singularity is two-dimensional, extended in time and in longitude.
+
+It is expected that future refinements or generalizations of general relativity (in particular [[quantum gravity]]) will change what is thought about the nature of black hole interiors. Most theorists interpret the mathematical singularity of the equations as indicating that the current theory is not complete, and that new phenomena must come into play as one approaches the singularity.<ref name="smolin">{{cite book | author=Lee Smolin | title=Three Roads To Quantum Gravity | publisher=Basic Books | year=2001 | id=ISBN 0-465-07835-4}}</ref>
+
+The [[cosmic censorship hypothesis]] asserts that there are no [[naked singularity|naked singularities]] in general relativity. This hypothesis is that every singularity is hidden behind an event horizon and cannot be probed. Whether this hypothesis is true remains an active area of theoretical research.
+
+===Rotating black holes===
+{{main|Rotating black hole}}
+[[Image:Accretion disk.jpg|thumb|right|An artist's impression of a black hole with a closely orbiting companion star that exceeds its [[Roche limit]]. In-falling matter forms an [[accretion disk]], with some of the matter being ejected in highly energetic polar jets.]]
+
+According to theory, the event horizon of a black hole that is not spinning is spherical, and its singularity is expected to be a single point where the curvature becomes infinite. If the black hole carries angular momentum (inherited from a star that is spinning at the time of its collapse), it begins to drag space-time surrounding the event horizon in an effect known as [[frame-dragging]]. This spinning area surrounding the event horizon is called the [[ergosphere]] and has an [[ellipsoid]]al shape. Since the ergosphere is located outside the event horizon, objects can exist within the ergosphere without falling into the hole. However, because space-time itself is moving in the ergosphere, it is impossible for objects to remain in a fixed position. Objects grazing the ergosphere could in some circumstances be catapulted outwards at great speed, extracting energy (and angular momentum) from the hole, hence the Greek name ''ergosphere'' ("sphere of work") because it is capable of doing work.
+
+The singularity inside a rotating black hole is expected to be a ring, rather than a point, though the interior geometry of a rotating black hole is currently not well understood. While the fate of an observer falling into a non-rotating black hole is [[spaghettification]], the fate of an observer falling into a rotating black hole is much less clear. For instance, in the Kerr geometry, an infalling observer can potentially escape [[spaghettification]] by passing through an [[inner horizon]]. However, it is unlikely that the actual interior geometry of a rotating black hole is the [[Kerr metric|Kerr]] geometry due to stability issues, and the ultimate fate of an observer falling into a rotating black hole is currently not known.<ref>{{cite journal |
+ author = Shahar Hod and Tsvi Piran |
+ title = The Inner Structure of Black Holes |
+ journal = General Relativity and Gravitation |
+ volume = 30 |
+ pages = 1555 |
+ url = http://www.citebase.org/abstract?id=oai:arXiv.org:gr-qc/9902008 |
+ year = 1998
+}} </ref>
+
+===Entropy and Hawking radiation===
+In 1971, [[Stephen Hawking]] showed that the total area of the event horizons of any collection of classical black holes can never decrease. This sounded remarkably similar to the Second Law of [[Thermodynamics]], with area playing the role of [[entropy]]. Classically, one could violate the second law of thermodynamics by material entering a black hole disappearing from our universe and resulting in a decrease of the total entropy of the universe. Therefore, [[Jacob Bekenstein]] proposed that a black hole should have an entropy and that it should be proportional to its horizon area. Since black holes do not classically emit radiation, the thermodynamic viewpoint was simply an analogy. However, in 1974, Hawking applied [[quantum field theory]] to the curved spacetime around the event horizon and discovered that black holes can emit [[Hawking radiation]], a form of [[thermal radiation]]. Using the [[Laws of black hole mechanics#The First Law|first law of black hole mechanics]], it follows that the entropy of a black hole is one quarter of the area of the horizon. This is a universal result and can be extended to apply to cosmological horizons such as in [[de Sitter space]]. It was later suggested that black holes are maximum-entropy objects, meaning that the maximum entropy of a region of space is the entropy of the largest black hole that can fit into it. This led to the [[holographic principle]].
+
+The Hawking radiation reflects a characteristic [[temperature]] of the black hole, which can be calculated from its entropy. This temperature in fact falls the more massive a black hole becomes: the more energy a black hole absorbs, the colder it gets. A black hole with roughly the [[Orders of magnitude (mass)#23|mass of the planet Mercury]] would have a temperature in equilibrium with the [[cosmic microwave background]] radiation (about 2.73 K). More massive than this, a black hole will be colder than the background radiation, and it will gain energy from the background faster than it gives energy up through Hawking radiation, becoming even colder still. However, for a less massive black hole the effect implies that the mass of the black hole will slowly evaporate with time, with the black hole becoming hotter and hotter as it does so. Although these effects are negligible for black holes massive enough to have been formed astronomically, they would rapidly become significant for hypothetical [[micro black hole|smaller black holes]], where quantum-mechanical effects dominate. Indeed, small black holes are predicted to undergo runaway evaporation and eventually vanish in a burst of radiation.
+[[Image:First Gold Beam-Beam Collision Events at RHIC at 100 100 GeV c per beam recorded by STAR.jpg|thumb|right|400px|If ultra-high-energy collisions of particles in a [[particle accelerator]] can create microscopic black holes, it is expected that all types of particles will be emitted by black hole evaporation, providing key evidence for any [[grand unified theory]]. Above are the high energy particles produced in a gold ion collision on the [[Relativistic Heavy Ion Collider|RHIC]].]]
+Although general relativity can be used to perform a semi-classical calculation of black hole entropy, this situation is theoretically unsatisfying. In [[statistical mechanics]], entropy is understood as counting the number of microscopic configurations of a system which have the same macroscopic qualities(such as [[mass]], [[charge]], [[pressure]], etc.). But without a satisfactory theory of [[quantum gravity]], one cannot perform such a computation for black holes. Some promise has been shown by [[string theory]], however. There one posits that the microscopic degrees of freedom of the black hole are [[D-brane]]s. By counting the states of D-branes with given charges and energy, the entropy for certain [[supersymmetric]] black holes has been reproduced. Extending the region of validity of these calculations is an ongoing area of research.
+
+===Black hole unitarity===
+An open question in fundamental physics is the so-called information loss paradox, or [[black hole information paradox|black hole unitarity]] paradox. Classically, the laws of physics are the same run forward or in reverse. That is, if the position and velocity of every particle in the universe were measured, we could (disregarding [[chaos theory|chaos]]) work backwards to discover the history of the universe arbitrarily far in the past. In quantum mechanics, this corresponds to a vital property called [[unitarity]] which has to do with the conservation of probability.
+
+Black holes, however, might violate this rule. The position under classical general relativity is subtle but straightforward: because of the classical [[no hair theorem]], we can never determine what went into the black hole. However, as seen from the outside, information is never actually destroyed, as matter falling into the black hole appears from the outside to become more and more red-shifted as it approaches (but never ultimately appears to reach) the event horizon.
+
+Ideas of [[quantum gravity]], on the other hand, suggest that there can only be a limited finite entropy (ie a maximum finite amount of information) associated with the space near the horizon; but the change in the entropy of the horizon plus the entropy of the Hawking radiation is always sufficient to take up all of the entropy of matter and energy falling into the black hole.
+
+Many physicists are concerned however that this is still not sufficiently well understood. In particular, at a quantum level, is the quantum state of the Hawking radiation uniquely determined by the history of what has fallen into the black hole; and is the history of what has fallen into the black hole uniquely determined by the quantum state of the black hole and the radiation? This is what determinism, and unitarity, would require.
+
+For a long time [[Stephen Hawking]] had opposed such ideas, holding to his original 1975 position that the Hawking radiation is entirely thermal and therefore entirely random, representing new nondeterministically created information. However, on [[21 July]] [[2004]] he presented a new argument, reversing his previous position.<ref>{{cite web| url=http://www.nature.com/news/2004/040712/full/040712-12.html| title=Hawking changes his mind about black holes| publisher=News@Nature.com| accessdate=2006-03-25}}</ref> On this new calculation, the entropy associated with the black hole itself would still be inaccessible to external observers; and in the absence of this information, it is impossible to relate in a 1:1 way the information in the Hawking radiation (embodied in its detailed internal correlations) to the initial state of the system. However, if the black hole evaporates completely, then such an identification can be made, and unitarity is preserved. It is not clear how far even the specialist scientific community is yet persuaded by the mathematical machinery Hawking has used (indeed many regard ''all'' work on quantum gravity so far as highly speculative); but Hawking himself found it sufficiently convincing to pay out on a [[Thorne-Hawking-Preskill bet|bet]] he had made in 1997 with Caltech physicist [[John Preskill]], to considerable media interest.
+
+==Mathematical theory==
+{{see|Schwarzschild metric |Deriving the Schwarzschild solution}}
+
+Black holes are predictions of [[Albert Einstein]]'s theory of [[general relativity]]. There are many known solutions to the [[Einstein field equations]] which describe black holes, and they are also thought to be an inevitable part of the evolution of any star of a certain size. In particular, they occur in the [[Schwarzschild metric]], one of the earliest and simplest solutions to Einstein's equations, found by [[Karl Schwarzschild]] in 1915. This solution describes the [[curvature]] of [[spacetime]] in the vicinity of a static and [[sphere|spherically]] [[symmetry|symmetric]] object, where the [[Metric space|metric]] is,
+
+:<math> \mathrm{d}s^2 = - c^2 \left( 1 - {2Gm \over c^2 r} \right) \mathrm{d}t^2 + \left( 1 - {2Gm \over c^2 r} \right)^{-1} \mathrm{d}r^2 + r^2 \mathrm{d}\Omega^2 </math>,
+
+where <math>\mathrm{d}\Omega^2 = \mathrm{d}\theta^2 + \sin^2\theta\; \mathrm{d}\phi^2</math> is a standard element of solid angle.
+
+According to general relativity, a gravitating object will collapse into a black hole if its radius is smaller than a characteristic distance, known as the [[Schwarzschild radius]]. (Indeed, [[Buchdahl's theorem]] in general relativity shows that in the case of a [[fluid solution|perfect fluid model]] of a compact object, the true lower limit is somewhat larger than the Schwarzschild radius.) Below this radius, spacetime is so strongly curved that any light ray emitted in this region, regardless of the direction in which it is emitted, will travel towards the centre of the system. Because [[special relativity|relativity]] forbids anything from traveling [[faster-than-light|faster than light]], anything below the Schwarzschild radius &ndash; including the constituent particles of the gravitating object &ndash; will collapse into the centre. A [[gravitational singularity]], a region of theoretically infinite density, forms at this point. Because not even light can escape from within the Schwarzschild radius, a classical black hole would truly appear [[black]].
+
+The Schwarzschild radius is given by
+
+:<math>r_{\rm S} = {2\,Gm \over c^2} </math>
+
+where ''G'' is the [[gravitational constant]], ''m'' is the [[mass]] of the object, and ''c'' is the [[speed of light]]. For an object with the mass of the [[Earth]], the Schwarzschild radius is a mere 9 millimeters &mdash; about the size of a [[marble (toy)|marble]].
+
+The mean density inside the Schwarzschild radius decreases as the mass of the black hole increases, so while an earth-mass black hole would have a density of 2&nbsp;×&nbsp;10<sup>30</sup>&nbsp;kg/m³, a supermassive black hole of 10<sup>9</sup> [[solar mass]]es has a density of around 20&nbsp;kg/m³, less than water! The mean density is given by
+
+:<math>\rho=\frac{3\,c^6}{32\pi m^2G^3}</math>
+
+Since the Earth has a mean radius of 6371 km, its volume would have to be reduced 4 × 10<sup>26</sup> times to collapse into a black hole. For an object with the mass of the [[Sun]], the Schwarzschild radius is approximately 3&nbsp;km, much smaller than the Sun's current radius of about 696,000 km. It is also significantly smaller than the radius to which the Sun will ultimately shrink after exhausting its nuclear fuel, which is several thousand kilometers. More massive stars can collapse into black holes at the end of their lifetimes.
+
+The formula also implies that any object with a given mean density is a black hole if its radius is large enough. The same formula applies for [[white holes]] as well. For example, if the [[observable universe]] has a mean density equal to the [[critical density]], then it is a [[white hole]], since its [[singularity]] is in the past and not in the future as should be for a black hole.
+
+More general black holes are also predicted by other solutions to Einstein's equations, such as the [[Kerr metric]] for a rotating black hole, which possesses a [[ring singularity]]. Then we have the [[Reissner-Nordström metric]] for charged black holes. Last the [[Kerr-Newman metric]] is for the case of a charged and rotating black hole.
+
+There is also the Black Hole Entropy formula:
+
+:<math>S = \frac{Akc^3}{4\hbar G}</math>
+
+Where '''A''' is the area of the event horizon of the black hole, '''<math>\hbar</math>''' is [[Dirac's constant]] (the "reduced [[Planck constant]]"), '''k''' is the [[Boltzmann constant]], '''G''' is the [[gravitational constant]], '''c''' is the [[speed of light]] and '''S''' is the [[entropy]].
+
+A convenient length scale to measure black hole processes is the "gravitational radius", which is equal to
+:<math>r_{\rm G} = {Gm \over c^2} </math>
+When expressed in terms of this length scale, many phenomena appear at integer radii.
+For example, the radius of a Schwarzschild black hole is two gravitational radii and the radius of a maximally rotating Kerr black hole is one gravitational radius. The location of the light circularization radius around a Schwarzschild black hole (where light may orbit the hole in an unstable circular orbit) is <math>3r_{\rm G}</math>. The location of the marginally stable orbit, thought to be close to the inner edge of an accretion disk, is at <math>6r_{\rm G}</math> for a Schwarzschild black hole.
+
+==Alternative models==
+Several alternative models, which behave like a black hole but avoid the singularity, have been proposed. However, most researchers judge these concepts artificial, as they are more complicated but do not give near term observable differences from black holes (see [[Occam's razor]]). The most prominent alternative theory is the [[Gravastar]].
+
+In March 2005, physicist [[George Chapline]] at the [[Lawrence Livermore National Laboratory]] in [[California]] proposed that black holes do not exist, and that objects currently thought to be black holes are actually [[dark-energy star]]s. He draws this conclusion from some quantum mechanical analyses. Although his proposal currently has little support in the physics community, it was widely reported by the media.<ref>
+{{cite web| url=http://www.nature.com/news/2005/050328/full/050328-8.html
+          | title=Black holes 'do not exist'
+          | publisher=News@Nature.com
+          | accessdate=2006-03-25}}</ref><ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/0503200
+          | title=Dark Energy Stars
+          | first=G. | last=Chapline
+          | accessdate=2006-03-25}}</ref>
+
+Among the alternate models are [[magnetospheric eternally collapsing objects]], clusters of [[elementary particle]]s<ref name="Maoz 1998">
+{{cite journal| url=http://www.journals.uchicago.edu/ApJ/journal/issues/ApJL/v494n2/975794/975794.web.pdf
+              | journal=The Astrophysical Journal
+              | volume=494| pages=L181–L184
+              | year=1998| month=[[20 February]]
+              | title=Dynamical Constraints On Alternatives To Supermassive Black Holes In Galactic Nuclei
+              | first=Eyal| last=Maoz}}
+</ref> (e.g., [[boson]] stars<ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/0004064
+          | year=2000
+          | title=A supermassive boson star at the galactic center?
+          | first=Diego F.| last=Torres
+          | coauthors=S. Capozziello, G. Lambiase
+          | accessdate=2006-03-25}}
+</ref>), [[fermion]] balls,<ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/0103466
+          | title=The motion of stars near the Galactic center: A comparison of the black hole and fermion ball scenarios
+          | first=F.| last=Munyaneza
+          | coauthors=R.D. Viollier
+          | year=2001
+          | accessdate=2006-03-25}}
+</ref> self-gravitating, degenerate heavy [[neutrino]]s<ref>
+{{cite web| url=http://arxiv.org/abs/astro-ph/9805273
+          | title=Dark matter concentration in the galactic center
+          | first=David| last=Tsiklauri
+          | coauthors=Raoul D. Viollier
+          | year=1998
+          | accessdate=2006-03-25}}
+</ref> and even clusters of very low mass (~0.04 solar mass) black holes.<ref name="Maoz 1998"/>
+
+==Black holes and Earth==
+Black holes are sometimes listed among the most serious potential threats to Earth and humanity.<ref>{{cite web|url=http://www.guardian.co.uk/life/feature/story/0,13026,1458536,00.html|title=What a way to go|publisher=Guardian UK}}</ref><ref>{{cite web|url=http://www.wisdomofsolomon.com/bigbang.html|title=Big Bang Machine could destroy Earth|publisher=Sunday Times}}</ref>There are two principal ways in which they could affect Earth.
+* There is evidence that some black holes are not stationary, rather, they "wander" through space.<ref>[http://www.space.com/scienceastronomy/astronomy/blackhole_010913.html Wayward Black Hole Staggers Through Galaxy, Passes Nearby] Robert Roy Britt, [[30 June]] 2005. Retrieved [[7 January]] 2007.</ref> There is only a very slim possibility that a rogue black hole might pass near, or even through our Solar System.<ref>[http://abcnews.go.com/2020/Science/story?id=2365372&page=1 Black Holes: The Deadliest Force in the Universe] ABC News, [[28 August]] 2006. Retrieved [[7 January]] 2007.</ref> At a typical speed of stars' relative motion in the Milky Way, it would take a few decades for a black hole to traverse the Solar System, during which time it would wreak havoc on planets' orbits, and possibly affect Earth and Sun directly if it passes near them.
+* There is a theoretical possibility that a [[micro black hole]] might be created inside a [[particle accelerator]].<ref>[http://www.virginia.edu/uvatoday/newsRelease.php?id=1011 To the Higgs Particle and Beyond: U.Va. Physicists are Part of an International Team Searching for the Last Undiscovered Aspect of the Standard Model of Physics] Brad Cox, [[8 November]] 2006. Retrieved [[7 January]] 2007.</ref> However, many particle collisions that naturally occur as the [[cosmic rays]] hit the edge of our atmosphere are often far more energetic than any collisions created by man. If micro black holes can be created this way, it is likely that they are already created every day without our involvement.
+
+Even if, say, two [[protons]] at the [[Large Hadron Collider]] can merge to create a micro black hole, this black hole would be extremely unstable, and it would vaporize due to [[Hawking radiation]] before it had a chance to propagate. For a 14 [[TeV]] black hole (the center-of-mass energy at the Large Hadron Collider), direct computation of its lifetime by Hawking formula gives 10<sup>-100</sup> seconds.
+-->
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+===Popular reading===
+* {{cite book | author=Ferguson, Kitty | title=Black Holes in Space-Time | publisher=Watts Franklin | year=1991 | id=ISBN 0-531-12524-6}}
+* {{cite book | author=Hawking, Stephen | title=[[A Brief History of Time]] | publisher=Bantam Books, Inc | year=1998 | id=ISBN 0-553-38016-8}}
+* {{cite book | author=[[Fulvio Melia|Melia, Fulvio]] | title=The Black Hole at the Center of Our Galaxy | publisher=Princeton U Press | year=2003 | id=ISBN 978-0-691-09505-9}}
+* {{cite book | author=[[Fulvio Melia|Melia, Fulvio]] | title=The Edge of Infinity. Supermassive Black Holes in the Universe | publisher=Cambridge U Press | year=2003 | id=ISBN 978-0-521-81405-8}}
+* {{cite book | author=Pickover, Clifford | title=Black Holes: A Traveler's Guide | publisher=Wiley, John & Sons, Inc | year=1998 | id=ISBN 0-471-19704-1}}
+* {{cite book | author=Thorne, Kip S. | title=[[Black Holes and Time Warps]] | publisher=Norton, W. W. & Company, Inc | year=1994 | id=ISBN 0-393-31276-3}}
+
+===University textbooks and monographs===
+* Carter, B. (1973). Black hole equilibrium states, in ''Black Holes'', eds. DeWitt B. S. and DeWitt C.
+* {{cite book | author=Chandrasekhar, Subrahmanyan | title=Mathematical Theory of Black Holes | publisher=Oxford University Press | year=1999 | id=ISBN 0-19-850370-9}}
+* Frolov, V. P. and Novikov, I. D. (1998), ''Black hole physics''.
+* Hawking, S. W. and Ellis, G. F. R. (1973), ''The large-scale structure of space-time'', Cambridge University Press.
+* {{cite book | author=[[Fulvio Melia|Melia, Fulvio]] | title=The Galactic Supermassive Black Hole | publisher=Princeton U Press | year=2007 | id=ISBN 978-0-691-13129-0}}
+* {{cite book | author=Taylor, Edwin F.; Wheeler, John Archibald |
+title=Exploring Black Holes | publisher=Addison Wesley Longman |
+year=2000 | id=ISBN 0-201-38423-X}}
+* {{cite book | author=Thorne, Kip S.; Misner, Charles; Wheeler, John | title=Gravitation | publisher=W. H. Freeman and Company | year=1973 | id=ISBN 0-7167-0344-0}}
+* {{cite book | author=Wald, Robert M. | title=Space, Time, and Gravity: The Theory of the Big Bang and Black Holes | publisher= University of Chicago Press| year=1992 | id=ISBN 0-226-87029-4}}
+
+===Research papers===
+* Hawking, S. W. (July 2005), Information Loss in Black Holes, [http://arxiv.org/abs/hep-th/0507171 arxiv:hep-th/0507171]. Stephen Hawking's purported solution to the black hole [[unitarity]] paradox, first reported at a conference in July 2004.
+* Ghez, A.M. ''et al.'' Stellar orbits around the Galactic Center black hole, ''Astrophysics J.'' '''620''' (2005). [http://www.arxiv.org/abs/astro-ph/0306130 arXiv:astro-ph/0306130] More accurate mass and position for the black hole at the centre of the Milky Way.
+* Hughes, S. A. Trust but verify: the case for astrophysical black holes, [http://www.arxiv.org/hep-ph/0511217 arXiv:hep-ph/0511217]. Lecture notes from 2005 [[SLAC]] Summer Institute.
+
+==External links==
+*[http://video.google.com/videoplay?docid=-6215434494081736769&hl=en Yale University Video Lecture: Introduction to Black Holes] at Google Video
+* [http://www.hubblesite.org/go/blackholes Black Holes: Gravity's Relentless Pull] - Award-winning interactive multimedia Web site about the physics and astronomy of black holes from the Space Telescope Science Institute
+* [http://antwrp.gsfc.nasa.gov/htmltest/gifcity/bh_pub_faq.html FAQ on black holes]
+* [http://casa.colorado.edu/~ajsh/schwp.html Schwarzschild Geometry] on [http://casa.colorado.edu/~ajsh/ Andrew Hamilton’s website]
+* Tufts University: [http://hepguru.com/blackholes/ Student Project (Great Kid's Section)]
+* [http://www.mpe.mpg.de/ir/GC/index.php Movie of Black Hole Candidate from Max Planck Institute]
+* [https://blue.utb.edu/newsandinfo/2006%AD%AD_04_13BreakthroughBlackHoles.htm UT Brownsville Group Simulates Spinning Black-Hole Binaries] [[13 April]] [[2006]]
+* [http://www.sciencedaily.com/news/space_time/black_holes/ Black Hole Research News] on [http://www.sciencedaily.com/ ScienceDaily]
+* [http://www.sciam.com/article.cfm?chanID=sa006&articleID=0004567B-11FB-1EDD-8E1C809EC588EF21 Scientific American Magazine (July 2003 Issue) The Galactic Odd Couple - giant black holes and stellar baby booms]
+* [http://www.sciam.com/article.cfm?chanID=sa006&articleID=000CCC72-2AED-1264-980683414B7F0000 Scientific American Magazine (May 2005 Issue) Quantum Black Holes]
+* [http://www.space.com/blackholes/ SPACE.com All About Black Holes] - News, Features and Interesting Original Videos
+* [http://www.damtp.cam.ac.uk/user/gr/public/bh_intro.html Black Holes Intro] - Introduction to Black Holes
+* [http://science.howstuffworks.com/black-hole.htm HowStuffWorks: How Black Holes Work] - Easy to consume guide to Black Holes
+*[http://www.richmond.edu/~ebunn/ Ted Bunn's] [http://cosmology.berkeley.edu/Education/BHfaq.html Black Holes FAQ] explains in simple language some other consequences of the way in which black holes bend space-time.
+
+[[Category:Black holes| ]]
+[[Category:Dark matter]]
+[[Category:Relativity]]
+
+{{Link FA|bg}}
+{{Link FA|fr}}
+{{Link FA|he}}
+{{Link FA|sk}}
+{{Link FA|vi}}
+[[af:Swartkolk]]
+[[ar:ثقب أسود]]
+[[bn:কৃষ্ণ বিবর]]
+[[zh-min-nan:O͘-khang]]
+[[bs:Crna rupa]]
+[[br:Toull du]]
+[[bg:Черна дупка]]
+[[ca:Forat negre]]
+[[cs:Černá díra]]
+[[da:Sort hul]]
+[[de:Schwarzes Loch]]
+[[et:Must auk]]
+[[el:Μαύρη τρύπα]]
+[[es:Agujero negro]]
+[[eo:Nigra truo]]
+[[eu:Zulo beltz]]
+[[fa:سیاهچاله]]
+[[fr:Trou noir]]
+[[gl:Burato negro]]
+[[gu:કાળું કાણું]]
+[[ko:블랙홀]]
+[[hi:काल कोठरी]]
+[[hr:Crna rupa]]
+[[io:Nigra truo]]
+[[id:Lubang hitam]]
+[[is:Svarthol]]
+[[it:Buco nero]]
+[[he:חור שחור]]
+[[ka:შავი ხვრელი]]
+[[ku:Çala Reş]]
+[[la:Gurges ater]]
+[[lv:Melnais caurums]]
+[[lt:Juodoji skylė]]
+[[lmo:Büüs negru]]
+[[hu:Fekete lyuk]]
+[[ml:തമോദ്വാരം]]
+[[mt:Toqba sewda]]
+[[ms:Lohong hitam]]
+[[nl:Zwart gat]]
+[[ja:ブラックホール]]
+[[no:Sort hull]]
+[[nn:Svarte hòl]]
+[[nov:Nigri true]]
+[[uz:Qora tuynuk]]
+[[pl:Czarna dziura]]
+[[pt:Buraco negro]]
+[[ro:Gaură neagră]]
+[[ru:Чёрная дыра]]
+[[sq:Vrima e zezë]]
+[[scn:Purtùsu nìuru]]
+[[simple:Black hole]]
+[[sk:Čierna diera]]
+[[sl:Črna luknja]]
+[[sr:Црна рупа]]
+[[sh:Crna rupa]]
+[[fi:Musta aukko]]
+[[sv:Svart hål]]
+[[tl:Black hole]]
+[[ta:கருங்குழி]]
+[[th:หลุมดำ]]
+[[vi:Hố đen]]
+[[tr:Kara delik]]
+[[uk:Чорна діра]]
+[[ur:ثقب اسود]]
+[[yi:שווארץ לאך]]
+[[zh-yue:黑洞]]
+[[zh:黑洞]]

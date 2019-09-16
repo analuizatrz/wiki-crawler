@@ -1,0 +1,122 @@
+{{Chembox new
+|   Name = Aluminium chloride
+|   ImageFile = Aluminium-trichloride-hexahydrate-sample.jpg
+<!-- | ImageSize = 150px -->
+|   ImageName = Aluminium chloride
+|   ImageFile1 = Aluminium-trichloride-dimer-3D-balls.png
+<!-- | ImageSize1 = 150px  -->
+|   ImageName1 = Aluminium trichloride dimer
+|   IUPACName = Aluminium(III) chloride
+|   OtherNames = Aluminium trichloride
+| Section1 = {{Chembox Identifiers
+|   CASOther = [7446-70-0] (''anhydrous'')<br />[10124-27-3] (''hexahydrate'')
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = AlCl<sub>3</sub>
+|   MolarMass = 133.34 g mol<sup>−1</sup> (''anhydrous'')<br />241.432 g mol<sup>−1</sup> (''hexahydrate'')
+|   Appearance = Pale yellow solid,<br />[[hygroscopic]].
+|   Density = 2.48 g cm<sup>−3</sup>
+|   Solubility = 43.9 g/100 ml (0°C)<br />44.9 g/100 ml (10°C)<br />45.8 g/100 ml (20°C)<br />46.6 g/100 ml (30°C)<br />47.3 g/100 ml (40°C)<br />48.1 g/100 ml (60°C)<br />48.6 g/100 ml (80°C)<br />49 g/100 ml (100°C)
+|   MeltingPt = 190 °[[celsius|C]] (463 [[kelvin|K]])<br />under 2.5 atm [[pressure]]
+|   BoilingPt = 178 °[[celsius|C]] (351 [[kelvin|K]]) ([[sublimation (physics)|''subl'']])
+|   pKa = 
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Trigonal planar<br />([[monomer]]ic vapour)
+|   Coordination = Octahedral (solid)<br />Tetrahedral (liquid)
+|   CrystalStruct = 6-coordinate layer lattice
+|   Dipole =
+  }}
+| Section7 = {{Chembox Hazards
+|   EUClass = Corrosive ('''C''')
+|   RPhrases = {{R34}}
+|   SPhrases = {{S1/2}}, {{S7/8}}, {{S28}}, {{S45}}
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Aluminium fluoride]]<br />[[Aluminium bromide]]<br />[[Aluminium iodide]]
+|   OtherCations = [[Boron trichloride]]<br />[[Gallium(III) chloride]]<br />[[Indium(III) chloride]]<br />[[Thallium(III) chloride]]<br />[[Magnesium chloride]]
+|   Function = [[Lewis acid]]s
+|   OtherFunctn = [[Iron(III) chloride]]<br />[[Boron trifluoride]]
+  }}
+}}
+
+'''Aluminium chloride''' (AlCl<sub>3</sub>) is a [[chemical compound|compound]] of [[aluminium]] and [[chlorine]].   The solid has a low melting and boiling point, and is [[Covalent bond|covalently bonded]]. It [[sublimation (physics)|sublimes]] at 178 °[[celsius|C]].  Molten AlCl<sub>3</sub> [[conductance|conducts]] [[electricity]] poorly,<ref name="Greenwood">N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', Pergamon Press, [[Oxford]], [[United Kingdom]], 1984.</ref> unlike more [[ionic bond|ionic]] [[halide]]s such as [[sodium chloride]].  It exists in the solid state as a six-coordinate layer lattice.
+
+AlCl<sub>3</sub> adopts the "YCl<sub>3</sub>" structure, featuring  Al<sup>3+</sup> cubic close packed layered structure.<ref name="Wells">A. F. Wells,  ''Structural Inorganic Chemistry'', Oxford Press, [[Oxford]], [[United Kingdom]], 1984.</ref>  In contrast, AlBr<sub>3</sub> has a more molecular structure, with the Al<sup>3+</sup> centers occupying adjacent tetrahedral holes of the close-packed framework of Br<sup>−</sup> ions.  Upon melting AlCl<sub>3</sub> gives the [[dimer]] Al<sub>2</sub>Cl<sub>6</sub>, which can [[vapour|vaporise]].  At higher [[temperature]]s this Al<sub>2</sub>Cl<sub>6</sub> dimer [[Dissociation (chemistry)|dissociates]] into trigonal planar AlCl<sub>3</sub>, which is structurally analogous to [[boron trifluoride|BF<sub>3</sub>]].
+
+[[Image:Aluminium-trichloride-3D-structures.png|left|480px|The three structures of aluminium trichloride]]
+
+Aluminium chloride is highly [[deliquescent]], and it can explode upon abrupt contact with [[water (molecule)|water]] because of the high heat of [[hydration]].  [[Aqueous]] [[solution]]s of AlCl<sub>3</sub> are ionic and thus [[conductance|conduct]] [[electricity]] well.  Such solutions are found to be [[acid]]ic, indicative of partial [[hydrolysis]] of the Al<sup>3+</sup> ion is occurring.  The reactions can be described (simplified) as:
+:[Al(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> + H<sub>2</sub>O {{unicode|⇌}} [Al(OH)(H<sub>2</sub>O)<sub>5</sub>]<sup>2+</sup> +  H<sub>3</sub>O<sup>+</sup>
+
+AlCl<sub>3</sub> is probably the most commonly used [[Lewis Acid]] and also one of the most powerful.  It finds widespread application in the [[chemical industry]] as a [[catalyst]] for [[Friedel-Crafts]] reactions, both acylations and alkylations.  It also finds use in [[polymerization]] and [[isomerization]] reactions of [[hydrocarbon]]s.
+[[Aluminium]] also forms a lower [[chloride]], aluminum(I) chloride (AlCl), but this is very unstable and only known in the vapour phase.<ref name="Greenwood"/>
+
+==Chemical properties==
+'''Aluminium chloride''' is a powerful [[Lewis acid]], capable of forming stable Lewis acid-base adducts with even weak [[Lewis base]]s such as [[benzophenone]] or [[mesitylene]].<ref name="Friedel">G. A. Olah (ed.), ''Friedel-Crafts and Related Reactions'', Vol. 1, [[John Wiley & Sons|Interscience]], [[New York]], 1963.</ref>  Not surprisingly it forms AlCl<sub>4</sub><sup>−</sup> in the presence of [[chloride]] ion.
+
+In water, partial hydrolysis forms [[hydrogen chloride|HCl gas]] or H<sub>3</sub>O<sup>+</sup>, as described in the overview above.  [[Aqueous solution]]s behave similarly to other [[aluminium]] [[salt]]s containing hydrated Al<sup>3+</sup> [[ion]]s, giving a gelatinous [[precipitate]] of [[aluminium hydroxide]] upon reaction with the correct quantity of aqueous [[sodium hydroxide]]:
+
+AlCl<sub>3</sub>([[aqueous|aq]])  +  3 NaOH(aq)  → Al(OH)<sub>3</sub>([[solid|s]])  +  3[[sodium chloride|NaCl]](aq)
+
+==Preparation==
+Aluminium chloride is manufactured on a large scale by the [[exothermic]] reaction of aluminium metal with chlorine or hydrogen chloride.<ref name="Greenwood"/>
+:2 Al  +  3 Cl<sub>2</sub>  →  2 AlCl<sub>3</sub>
+:2 Al  +  6 HCl  →  2 AlCl<sub>3</sub>  +  3 H<sub>2</sub>
+Hydrated forms are prepared by dissolving aluminium oxides with hydrochloric acid.
+
+==Uses==
+The [[Friedel-Crafts]] reaction<ref name="Friedel"/> is the major use for aluminium chloride, for example in the preparation of [[anthraquinone]] (for the [[dye]]stuffs industry) from [[benzene]] and [[phosgene]].<ref name="Greenwood"/>  In the general [[Friedel-Crafts]] reaction, an [[acyl chloride]] or [[alkyl halide]] reacts with an [[aromatic]] system as shown:<ref name="Friedel"/>
+
+[[Image:AlCl3 FriedelCrafts.gif|300px]]
+
+With [[benzene]] [[derivative]]s, the major product is the [[para]] [[isomer]].  The alkylation reaction has many associated problems, such as in [[Friedel-Crafts]], so it is less widely used than the acylation reaction. For both reactions, the aluminum chloride, as well as other materials and the equipment, must be moderately dry, although a trace of moisture is necessary for the reaction to proceed. A general problem with the Friedel-Crafts reaction is that the aluminium chloride "[[catalyst]]" needs to be present in full [[stoichiometry|stoichiometric]] quantities in order for the reaction to go to completion, because it [[Complex (chemistry)|complex]]es strongly with the products (see chemical properties above).  This makes it very difficult to recycle, so it must be destroyed after use, generating a large amount of corrosive waste. For this reason chemists are examining the use of more [[green chemistry|environmentally benign]] catalysts such as [[ytterbium]](III) [[triflate]] or [[dysprosium]](III) triflate, which can be
+[[recycling|recycled]].
+
+Aluminium chloride can also be used to introduce [[aldehyde]] groups onto [[aromatic]] rings, for example via the [[Gatterman-Koch reaction]] which uses [[carbon monoxide]], [[hydrogen chloride]] and a [[copper(I) chloride]] co-[[catalyst]]):<ref>L. G. Wade, ''Organic Chemistry'', 5th edition, [[Prentice Hall]], [[Saddle River (New Jersey)|Upper Saddle River]], [[New Jersey]], United States, 2003.</ref>
+
+[[Image:AlCl3 formylation.gif|300px]]
+
+Aluminium chloride finds a wide variety of other applications in [[organic chemistry]].<ref>P. Galatsis, in: ''Handbook of Reagents for Organic Synthesis: Acidic and Basic Reagents'', (H. J. Reich, J. H. Rigby, eds.), pp12-15, [[John Wiley & Sons|Wiley]], [[New York]], 1999.</ref> For example, it can catalyse the "[[ene reaction]]", such as the addition of [[3-buten-2-one]] (methyl vinyl ketone) to [[carvone]]:<ref> B. B. Snider, ''Accounts of Chemical Research'' '''13''', 426 (1980).</ref>
+
+[[Image:AlCl3 ene rxn.gif|400px]]
+
+AlCl<sub>3</sub> is also widely used for [[polymerization]] and [[isomerization]] reactions of [[hydrocarbon]]s.  Important examples<ref name="Greenwood"/> include the manufacture of [[ethylbenzene]], which used to make [[styrene]] and thus [[polystyrene]], and also production of [[dodecylbenzene]], which is used for making [[detergent]]s.
+
+Aluminium chloride combined with aluminum in the presence of an arene can be used to synthesize bis(arene) metal complexes, e.g. [[bis(benzene)chromium]], from certain metal halides via the so-called [[Ernst Otto Fischer|Fischer]]-Hafner synthesis.
+
+Aluminum chloride, often in the form of derivatives such as [[aluminium chlorohydrate]], is a common component in [[antiperspirant]]s at low concentrations.  [[Hyperhidrosis]] sufferers need a much higher concentration (15% or higher), sold under such brand names as Drysol®, Maxim®, Odaban®, CertainDri®, B+Drier® and Driclor®.
+
+==Precautions==
+Anhydrous AlCl<sub>3</sub> reacts vigorously with [[water (molecule)|water]] and [[base (chemistry)|base]]s, so suitable precautions are required.  Hydrated salts are less problematic.
+
+==References==
+<!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+<references/>
+
+==External links==
+* [http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc11/icsc1125.htm International Chemical Safety Card 1125]
+* [http://www.orgsyn.org/orgsyn/chemname.asp?nameID=33169 Index of Organic Synthesis procedures that utilize AlCl<sub>3</sub>]
+* [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=24012 PubChem summary of AlCl<sub>3</sub>]
+
+[[Category:Chlorides]]
+[[Category:Metal halides]]
+[[Category:Aluminium compounds]]
+[[Category:Inorganic compounds]]
+[[Category:Reagents for organic chemistry]]
+[[Category:Deliquescent substances]]
+
+[[af:Aluminiumtrichloried]]
+[[ar:كلوريد ألمنيوم]]
+[[de:Aluminiumchlorid]]
+[[fr:Chlorure d'aluminium]]
+[[it:Cloruro di alluminio]]
+[[ku:Bafûnklorîd]]
+[[nl:Aluminiumchloride]]
+[[ja:塩化アルミニウム]]
+[[pl:Chlorek glinu]]
+[[pt:Cloreto de alumínio]]
+[[ru:Хлорид алюминия(III)]]
+[[sl:Aluminijev klorid]]
+[[sr:Алуминијум хлорид]]
+[[zh:氯化铝]]

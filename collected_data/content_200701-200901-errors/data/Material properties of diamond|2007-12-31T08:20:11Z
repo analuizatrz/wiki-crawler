@@ -1,0 +1,129 @@
+{{dablink|This article addresses the material properties of diamond.  For a broader discussion of diamonds, see [[diamond]].  For other uses of the word diamond, see [[diamond (disambiguation)]].}}
+
+{{Infobox mineral
+| name        = Diamond
+| category    = Native Nonmetal, [[Mineral]]
+| boxwidth    = 
+| boxbgcolor  = 
+| image       = Rough diamond.jpg
+| caption     = An octahedral diamond crystal in matrix
+| formula     = Carbon, C
+| molweight   = 
+| color       = Most often colorless to yellow or brown. Rarely pink, orange, green or blue.
+| habit       = Octahedral, spherical or massive
+| system      = [[Cubic (crystal system)|Isometric]]
+| twinning    = 
+| cleavage    = Octahedral; perfect and easy
+| fracture    = Conchoidal
+| mohs        = 10
+| luster      = Adamantine to greasy
+| refractive  = 2.417 
+| opticalprop = 
+| birefringence = 
+| pleochroism = None
+| streak      = None
+| gravity     = 3.516–3.525
+| melt        = 
+| fusibility  = Burns above 800°C, melting point 3550 °C
+| boiling point = 4827 °C
+| diagnostic  = 
+| solubility  = Resistant to acids, but melts in hot steel
+| diaphaneity = Clear to not
+| other       = 
+| var1 = [[Ballas (diamond)|Ballas]]       | var1text = Spherical, radial structure, cryptocrystalline, opaque black
+| var2 = [[Bort]]     | var2text = Poorly-formed, cryptocrystalline, shapeless, translucent
+| var3 = [[Carbonado]]| var3text = Massive, microcrystalline, opaque black
+}}
+
+Diamond is transparent to opaque, [[optical isotropy|optically-isotropic]], [[isometric|3D]]-[[crystal]]line [[carbon]]. It is the [[hardness|hardest]] naturally-occurring material known—owing to its strong [[covalent bond]]ing—yet its [[toughness]] is only fair to good due to important structural weaknesses. The precise [[tensile strength]] of diamond is unknown.  However, strength up to 60 [[Pascal (unit)|GPa]] has been observed, and its theoretical intrinsic strength has been calculated to be between 90 and 225 GPa, depending on the crystal orientation.<ref>{{cite journal
+  | last = Telling
+  | first = R. H.
+  | authorlink =
+  | coauthors = C. J. Pickard, M. C. Payne, and J. E. Field
+  | title = Theoretical Strength and Cleavage of Diamond
+  | journal = Physical Review Letters
+  | volume = 84
+  | issue = 22
+  | pages = 5160 - 5163
+  | publisher = The American Physical Society
+  | date = May 2000
+  | url = http://prola.aps.org/abstract/PRL/v84/i22/p5160_1
+  | doi =
+  | id =
+  | accessdate =  }}</ref>  Diamond has a high [[refractive index]] (2.417) and moderate [[dispersion (optics)|dispersion]] (0.044), properties which are considered carefully during [[diamond cutting]] and which (together with their hardness) give cut diamonds their brilliance and ''fire''. Scientists classify diamonds into two main ''types'' and several subtypes, depending on the nature of [[crystallographic defect]]s present. Trace impurities substitutionally replacing carbon atoms in a diamond's [[crystal lattice]], and in some cases structural defects, are responsible for the wide range of colors seen in diamond. Most diamonds are electrical [[electrical insulation|insulator]]s but extremely efficient [[thermal conductivity|thermal conductor]]s. The [[specific gravity]] of single-crystal diamond (3.52) is fairly constant. Contrary to a common misconception, diamond is not the most stable form of solid carbon; [[graphite]] has that distinction.
+
+== Hardness and crystal structure ==
+''See also: [[Crystallographic defects in diamond]]''
+
+Known to the ancient Greeks as ''adamas'' ("tame'sles" or "bridleless") and sometimes called [[adamant]], diamond is the hardest known naturally occurring material, scoring 10 on the old [[Mohs scale of mineral hardness]]. The material [[boron nitride]], when in a form structurally identical to diamond, is nearly as hard as diamond; a currently hypothetical material, [[beta carbon nitride]], may also be as hard or harder in one form. Furthermore, it has been shown [http://mrs.org/publications/jmr/jmra/articles/1997/nov/p03109.pdf 1] [http://www.mtu-net.ru/nanoscan/files/article_03.pdf 2] that [[ultrahard fullerite]] (C<sup>60</sup>) (not to be confused with P-SWNT [[fullerite]]) when testing diamond hardness with a [[Atomic force microscope|scanning force microscope]] can scratch diamond. In turn, using more accurate measurements, these values are now known for diamond hardness. A Type IIa diamond (111) has a hardness value of 167 [[pascal (unit)|GPa]] (±6) when scratched with an [[ultrahard fullerite]] tip, while a ultrahard fullerite sample has a value of 310 GPa when tested with a fullerite tip. However, the test only works properly with a tip made of harder material than the sample being tested. This means that the true value for ultrahard fullerite is likely somewhat lower than 310 GPa. 
+
+Cubic diamonds have a perfect and easy [[octahedron|octahedral]] [[cleavage (crystal)|cleavage]], which means that they have four planes&mdash;directions following the faces of the octahedron where there are fewer bonds and therefore points of structural weakness&mdash;along which diamond can easily split (following a blunt impact), leaving smooth surfaces. Similarly, diamond's hardness is markedly ''directional'': the hardest direction is the diagonal on the [[cube]] face, 100 times harder than the softest direction, which is the [[dodecahedron|dodecahedral]] plane. The octahedral plane, followed by the axial directions on the cube plane, are intermediate between the two extremes. The [[diamond cutting]] process relies heavily on this directional hardness, as without it a diamond would be nearly impossible to fashion. [[cleavage (crystal)|Cleavage]] also plays a helpful role, especially in large stones where the cutter wishes to remove flawed material or to produce more than one stone from the same piece of rough.
+
+Diamonds typically crystallize in the [[cubic (crystal system)|cubic]] [[crystal system]] ([[space group]] <math>Fd\bar{3}m</math>) and consist of [[tetrahedron|tetrahedrally]], [[covalent bond|covalently bonded]] carbon atoms. A second form called [[lonsdaleite]] with [[hexagonal (crystal system)|hexagonal]] symmetry is also found, but it is extremely rare and is believed to form only when [[meteor]]ic [[graphite]] falls to [[Earth]]. The local environment of each atom is identical in the two structures.  In terms of [[crystal habit]], diamonds occur most often as [[euhedral]] (well-formed) or rounded octahedra and [[crystal twinning|twinned]], flattened octahedra known as ''macles'' (with a triangular outline). Other forms include dodecahedra and (rarely) cubes. There is some evidence that interstitial [[nitrogen]] impurities play an important role in the formation of euhedral crystals&mdash;the largest diamonds found, such as the [[Cullinan Diamond]], have been shapeless or ''massive''. These diamonds are Type II and therefore contain little if any nitrogen (see [[#Composition and color|Composition and color]]).
+
+The faces of diamond octahedrons are highly [[Lustre (mineralogy)|lustrous]] due to their hardness; growth defects in the form of ''[[trigon]]s'' or ''etch pits'' are often present on the faces, the former being triangular pits whose points are aligned with the faces of the octahedron. A diamond's [[fracture]] may be step-like, [[conchoidal fracture|conchoidal]] (shell-like, similar to [[glass]]) or irregular. Diamonds which are nearly round due to the stepping tendency of octahedrons are commonly found coated in ''nyf'', a gum-like skin; the combination of stepped faces, growth defects, and nyf produces a "scaly" or corrugated appearance, and such diamonds are termed ''crinkles''. A significant number of diamonds crystallize anhedrally: that is, their forms are so distorted that few crystal faces are discernible. Some diamonds found in [[Brazil]] and the [[Democratic Republic of the Congo]] are [[cryptocrystal]]line and occur as opaque, darkly-colored, spherical, radial masses of tiny crystals; these are known as [[ballas (diamond)|ballas]] and are important to industry as they lack the cleavage planes of single-crystal diamond. [[Carbonado]] is a similar opaque [[microcrystalline]] form which occurs in shapeless masses. Like ballas diamond, carbonado lacks cleavage and its specific gravity varies widely, from 2.9&ndash;3.5. [[Bort]] diamonds, found in Brazil, [[Venezuela]], and [[Guyana]], are the most common type of industrial-grade diamond, also cryptocrystalline or otherwise poorly crystallized, but possessing cleavage, translucency, and lighter colors.
+
+Due to its great hardness and strong molecular bonding, a cut diamond's [[facet]]s and facet edges are observably the flattest and sharpest. A curious side effect of diamond's surface perfection is ''hydrophobia'' combined with ''lipophilia''. The former property means a drop of water placed on a diamond will form a coherent droplet, whereas in most other minerals the water would spread out to cover the surface. Similarly, diamond is unusually lipophilic, meaning [[petroleum|grease]] and [[oil]] readily collect on a diamond's surface. Whereas on other minerals oil would form coherent drops, on a diamond the oil would spread. This property is exploited in the use of so-called "grease pens," which apply a line of grease to the surface of a suspect [[diamond simulant]].
+
+Diamond is so strong because of the shape the carbon atoms make. It's a very strong 3D shape, each carbon atom having four joined to it with covalent bonds.
+
+== Toughness ==
+Unlike hardness, which only denotes resistance to scratching, diamond's [[toughness]] or tenacity is only fair to good.  Toughness relates to the ability to resist breakage from falls or impacts: due to diamond's perfect and easy cleavage, it is vulnerable to breakage. A diamond will shatter if hit with an ordinary hammer.
+
+Ballas and carbonado diamond are exceptional, as they are polycrystalline and therefore much tougher than single-crystal diamond; they are used for deep-drilling bits and other demanding industrial applications. Particular cuts of diamonds are more prone to breakage&mdash;such as marquis or other cuts featuring tapered points&mdash;and thus may be uninsurable by reputable insurance companies. The culet is a facet (parallel to the table) given to the pavilion of cut diamonds designed specifically to reduce the likelihood of breakage or splintering.  Extremely thin, or very thin girdles are also prone to much higher breakage.
+
+Solid foreign crystals are commonly present in diamond&mdash;these and other ''inclusions'', such as internal fractures or "feathers"&mdash;can compromise the structural integrity of a diamond. Cut diamonds that have been [[diamond enhancement|enhanced]] to improve their [[diamond clarity|clarity]] via glass infilling of fractures or cavities are especially fragile, as the glass will not stand up to [[ultrasound|ultrasonic]] cleaning or the rigors of the jeweler's torch. Fracture-filled diamonds may shatter if treated improperly.
+
+== Optical properties ==
+The [[lustre (mineralogy)|lustre]] of a diamond is described as 'adamantine', which simply means diamond-like. It is the highest luster possible bar that of metal (''metallic''), and is due to diamond's superlative hardness. Reflections on a properly cut diamond's facets are undistorted, due to their flatness. The [[refractive index]] of diamond (as measured via [[sodium light]], 589.3 nm) is 2.417; because it is cubic in structure, diamond is also [[isotropic]]. Its high [[dispersion (optics)|dispersion]] of 0.044 (B-G interval) manifests in the perceptible ''fire'' of cut diamonds. This fire&mdash;flashes of [[prism (optics)|prismatic]] colors seen in transparent stones&mdash;is perhaps diamond's most important optical property from a jewelry perspective. The prominence or amount of fire seen in a stone is heavily influenced by the choice of [[diamond cut]] and its associated proportions (particularly crown height), although the body color of fancy diamonds may hide their fire to some degree.
+
+Some diamonds exhibit [[fluorescence]] of various colors and intensities under long wave (LW) ultra-violet light (365 nm): Cape series stones (Type Ia; see [[#Composition and color|composition and color]]) usually fluoresce blue, and these stones may also [[phosphorescence|phosphoresce]] yellow. (This is a unique property among gemstones). Other LW fluorescence colors possible are green (usually in brown stones), yellow, mauve, or red (Type IIb). In natural diamonds there is typically little if any response to shortwave (SW) ultraviolet, but the reverse is true of synthetics. Some natural Type IIb diamonds may phosphoresce blue after exposure to SW ultraviolet. In naturals, fluorescence under [[X-ray]]s is generally bluish-white, yellowish or greenish. Some diamonds, particularly Canadian diamonds, show no fluorescence. 
+
+Cape series diamonds have a visible [[absorption spectrum]] (as seen through a direct-vision [[spectroscope]]) consisting of a fine line in the violet at [[1 E-7 m|415.5 nm]]&mdash;however, this line is often invisible until the diamond has been cooled to very low temperatures. Associated with this are weaker lines at 478 nm (often only this line is visible), 465 nm, 452 nm, 435 nm, and 423 nm. Other stones show additional bands: brown, green, or yellow diamonds show a band in the green at 504 nm, sometimes accompanied by two additional weak bands at 537 nm and 495 nm. Type IIb diamonds may absorb in the far red, but otherwise show no observable visible absorption spectrum.
+
+[[Gemology|Gemological]] laboratories, such as the [[Adamas Gemological Laboratory]][http://www.gis.net/~adamas], make use of [[spectrophotometer]] machines that can distinguish natural, artificial, and color-[[diamond enhancement|enhanced diamonds]]. The spectrophotometers analyze the [[infrared]], visible, and [[ultraviolet]] absorption spectrums of diamonds cooled with [[liquid nitrogen]] to detect tell-tale absorption lines that are not normally discernible.
+
+== Electrical properties ==
+Except for most natural blue diamonds&mdash;which are [[semiconductor]]s due to substitutional [[boron]] impurities replacing carbon atoms&mdash;diamond is a good electrical [[Electrical insulation|insulator]]. Natural blue diamonds recently recovered from the [[Argyle diamond mine]] in [[Australia]] have been found to owe their color to an overabundance of [[hydrogen]] atoms: these diamonds are not semiconductors. Natural blue diamonds containing boron and synthetic diamonds [[dopant|doped]] with boron are [[p-type semiconductor]]s. If an [[n-type semiconductor]] can be synthesized, electronic circuits could be manufactured from diamond. Worldwide research is in progress, with occasional successes reported, but nothing definite. In [[2002]] it was reported in the journal <cite>[[Nature (journal)|Nature]]</cite> that researchers have succeeded in depositing a thin diamond film on a diamond surface which is a major step towards manufacture of a diamond chip. In [[2003]] it was reported that [[Nippon Telegraph and Telephone|NTT]] developed a diamond semiconductor device<ref>"[http://www.ntt.co.jp/news/news03e/0308/030820.html Diamond Semiconductors Operate at Highest Frequenncy Ever]". Nippon Telegraph and Telephone Corporation. August 20, 2003.</ref><ref>"[http://eetimes.com/news/latest/showArticle.jhtml?articleID=17301000 NTT verifies diamond semiconductor operation at 81 GHz]". EE Times. 08/22/2003.</ref>. In [[2005]] reports came out that the National Institute of Advanced Industrial Science and Technology (AIST)[http://www.aist.go.jp/index_en.html] in Japan created an n-type diamond semiconductor[http://www.aist.go.jp/aist_e/latest_research/2005/20050615/20050615.html], and a Light Emitting Diode ([[LED]]) producing 235 nm UV light.
+
+In April of [[2004]] <cite>[[Nature (journal)|Nature]]</cite> reported that below the superconducting transition temperature 4&nbsp;K, boron-doped diamond synthesized at high temperature and high pressure is a bulk, type-II superconductor[http://nature.com/nature/journal/v428/n6982/pdf/nature02449.pdf]. In October of [[2004]] superconductivity was found to occur in heavily boron-doped microwave plasma-assisted chemical vapor deposition (MPCVD) diamond below the superconducting transition temperature of 7.4&nbsp;K[http://content.aip.org/APPLAB/v85/i14/2851_1.html].
+
+== Thermal properties ==
+Unlike most electrical insulators, diamond is a good conductor of heat because of the strong covalent bonding within the crystal. Most natural blue diamonds contain [[boron]] atoms which replace carbon atoms in the crystal matrix, and also have high thermal conductance. .999-<sup>12</sup>C monocrystalline synthetic diamond has the highest [[thermal conductivity]] of any known solid at room temperature: 2000–2500 W·m/m²·K (200–250 W·mm/cm²·K),<ref name="PNU">http://aip.org/pnu/1993/split/pnu131-2.htm</ref> five times more than [[copper]]. Because diamond has such high thermal conductance it is already used in semiconductor manufacture to prevent silicon and other semiconducting materials from overheating.  At lower [[orders of magnitude (temperature)|temperatures]] conductivity becomes even better as its [[Fermi level|Fermi electrons]] can match the [[phonon]]ic normal transport mode near the [[Debye temperature|Debye point]],<ref>[http://hone.mech.columbia.edu/pdf/hone_thermal_ency_nano.pdf http://hone.mech.columbia.edu/pdf/hone_thermal_ency_nano.pdf] "Carbon Nanotubes: Thermal Properties"</ref> and transport heat more swiftly, to overcome the drop of [[specific heat]] with the fewer quantal [[microstate (statistical mechanics)|microstates]], to reach 41,000 W·m/m²·K at 104 K.  The same diamond at .99999-<sup>12</sup>C is predicted to 200,000 W·m/m²·K (20 kW·mm/cm²·K).<ref name="PNU"/>
+
+Diamond's thermal conductivity is made use of by jewellers and gemologists who may employ an electronic ''thermal probe'' to separate diamonds from their imitations. These probes consist of a pair of battery-powered [[thermistor]]s mounted in a fine copper tip. One thermistor functions as a heating device while the other measures the temperature of the copper tip: if the stone being tested is a diamond, it will conduct the tip's thermal energy rapidly enough to produce a measurable temperature drop. This test takes about 2–3 seconds. However, older probes will be fooled by [[moissanite]], an imitation of diamond introduced in [[1998]] which has a similar thermal conductivity.
+
+Being a form of carbon, they can burn in the presence of oxygen if heated over 800°C. Nevertheless, in absence of oxygen they can stand higher temperatures.
+
+== Composition and color ==
+''See also: [[Crystallographic defects in diamond]]''
+
+Diamonds occur in a restricted variety of colors—black, brown, yellow, grey, white, blue, orange, purple to pink, red, and chartreuse.  Colored diamonds contain [[crystallographic defect]]s, including substitutional impurities and structural defects, that cause the coloration. Theoretically, pure diamonds would be transparent and colorless. Diamonds are scientifically classed into two main ''types'' and several subtypes, according to the nature of defects present and how they affect light absorption:
+
+Type I diamond has [[nitrogen]] (N) atoms as the main impurity, at a concentration of 0.1 percent. If the N atoms are in pairs they do not affect the diamond's color; these are Type IaA. If the N atoms are in large even-numbered aggregates they impart a yellow to brown tint (Type IaB). About 98 percent of gem diamonds are type Ia, and most of these are a mixture of IaA and IaB material: these diamonds belong to the ''Cape series'', named after the diamond-rich region formerly known as [[Cape Province]] in [[South Africa]], whose deposits are largely Type Ia. If the N atoms are dispersed throughout the crystal in isolated sites (not paired or grouped), they give the stone an intense yellow or occasionally brown tint (Type Ib); the rare ''canary'' diamonds belong to this type, which represents only one permille of known natural diamonds. Synthetic diamond containing nitrogen is Type Ib. Type I diamonds absorb in both the [[infrared]] and [[ultraviolet]] region, from 320 nm. They also have a characteristic fluorescence and visible absorption spectrum (see [[#Optical properties|Optical properties]]).
+
+Type II diamonds have very few if any nitrogen impurities. Type IIa diamond can be colored pink, red, or brown due to structural anomalies arising through ''plastic deformation'' during crystal growth—these diamonds are rare (1.8 percent of gem diamonds), but constitute a large percentage of Australian production. Type IIb diamonds, which account for 0.1 percent of gem diamonds, are usually a steely blue or grey due to scattered boron within the crystal matrix; these diamonds are also [[semiconductor]]s, unlike other diamond types (see [[#Electrical properties|Electrical properties]]). However, an overabundance of [[hydrogen]] can also impart a blue color; these are not necessarily Type IIb. Type II diamonds absorb in a different region of the infrared, and transmit in the ultraviolet below 225 nm, unlike Type I diamonds. They also have differing fluorescence characteristics, but no discernible visible absorption spectrum.
+
+Certain [[diamond enhancement]] techniques are commonly used to artificially produce an array of colors, including blue, green, yellow, red, and black. Color enhancement techniques usually involve [[irradiation]], including [[proton]] and [[deuteron]] bombardment via [[cyclotron]]s; [[neutron]] bombardment via the piles of [[nuclear reactor]]s; and [[electron]] bombardment via [[Van de Graaff generator]]s. These high-energy particles physically alter the diamond's [[crystal lattice]], knocking carbon atoms out of place and producing [[color center]]s. The depth of color penetration depends on the technique and its duration, and in some cases the diamond may be left [[radioactive]] to some degree.
+
+It should be noted that some irradiated diamonds are completely natural—one famous example is the [[Dresden Green Diamond]]. In these natural stones the color is imparted by "radiation burns" in the form of small patches, usually only skin deep. Additionally, Type IIa diamonds can have their structural deformations "repaired" via a high-temperature, high-pressure (HTHP) process, removing much or all of the diamond's color.
+
+In the late [[18th century]], diamonds were demonstrated to be made of carbon by the rather expensive experiment of igniting a diamond (by means of a [[burning-glass]]) in an [[oxygen]] atmosphere and showing that [[carbonic acid]] gas ([[carbon dioxide]]) was the product of the [[combustion]]. The fact that diamonds are combustible bears further examination because it is related to an interesting fact about diamonds. Diamonds are carbon [[crystal]]s that form deep within the Earth under high temperatures and extreme pressures. At surface air pressure (one atmosphere), diamonds are not as stable as graphite, and so the decay of diamond is thermodynamically favorable (δ''H''&nbsp;=&nbsp;−2&nbsp;kJ&nbsp;/&nbsp;mol).  Diamonds had previously been shown to burn during Roman times.
+
+So, despite [[De Beers]]' 1948 ad campaign, diamonds are definitely not forever. However, owing to a very large kinetic energy barrier, diamonds are [[metastability in molecules|metastable]]; they will not decay into graphite under [[standard temperature and pressure|normal conditions]].
+
+== References ==
+*O'Donoghue, Michael, and Joyner, Louise. (2003). ''Identification of gemstones'', pp. 8&ndash;11. Butterworth-Heinemann, Great Britain. ISBN 0-7506-5512-7
+*Pagel-Theisen, Verena. (2001). ''Diamond grading ABC: The manual'' (9th ed.), pp. 84&ndash;85. Rubin & Son n.v.; Antwerp, Belgium. ISBN 3-9800434-6-0
+*Read, Peter G. (1999). ''Gemmology'' (2nd ed.). p. 52, 53, 275, 276. Butterworth-Heinemann, Great Britain. ISBN 0-7506-4411-7
+*Webster, Robert, and Jobbins, E. Allan (Ed.). (1998). ''Gemmologist's compendium'', p. 21, 25, 31. St Edmundsbury Press Ltd, Bury St Edwards. ISBN 0-7198-0291-1
+*Webster, Robert, and  Read, Peter G. (Ed.) (2000). ''Gems: Their sources, descriptions and identification'' (5th ed.), pp. 17&ndash;72. Butterworth-Heinemann, Great Britain. ISBN 0-7506-1674-1[http://www.masterblade.net/]
+*[http://www.sque.co.uk/diamond/ Properties of diamond] (Dr. Stephen Sque from the University of Exeter)
+<references/>
+
+<!--Categories-->
+[[Category:Diamond]]
+[[Category:Native element minerals]]
+[[Category:Superhard materials]]
+
+[[es:Propiedades físicas del diamante]]

@@ -1,0 +1,77 @@
+'''Mechatronics''' is the [[synergy|synergistic]] combination of [[mechanical engineering]], [[electronic engineering]] and [[software engineering]]. The purpose of this interdisciplinary engineering field is the study of [[automata]] from an engineering perspective and serves the purposes of controlling advanced [[hybrid system]]s. The word itself is a [[portmanteau]] of 'Mechanics' and 'Electronics'.
+
+==Description==
+
+[[Image:mecha.gif|right|350X350 px|thumb|Aerial Venn diagram from [[Rensselaer Polytechnic Institute|RPI]]'s website describes the various fields that make up Mechatronics]]
+
+Mechatronics is centred on [[mechanics]], [[electronics]], [[control engineering]], [[computing]], [[molecular engineering]] (from [[nanochemistry]] and [[biology]]) which, combined, make possible the generation of simpler, more economical, reliable and versatile systems.  The portmanteau "Mechatronics" was first coined by Mr. Tetsuro Mori, a senior engineer of the [[Japan]]ese company [[Yaskawa]], in 1969. Mechatronics may alternatively be referred to as "[[electromechanical]] [[systems]]" or less often as "control and automation engineering". 
+
+[[Engineering cybernetics]] deals with the question of control [[engineering]] of mechatronic systems. It is used to control or regulate such a system (see [[control theory]]). Through collaboration the mechatronic modules perform the production goals and inherit flexible and agile manufacturing properties in the production scheme. Modern production equipment consists of mechatronic modules that are integrated according to a [[control architecture]]. The most known architectures involve [[hierarchy]], [[polyarchy]], [[heterarchy]] and [[hybrid]]. The methods for achieving a technical effect are described by control [[algorithm]]s, which may or may not utilize [[formal method]]s in their design. Hybrid-systems important to Mechatronics include [[production system]]s, synergy drives, [[Mars Exploration Rover|planetary exploration rovers]], automotive subsystems such as [[anti-lock braking system]]s, spin-assist and every day equipment such as autofocus cameras, video, [[hard disk]]s, CD-players, washing machines, etc.
+
+A typical mechatronic engineering degree would involve classes in engineering [[mathematics]], [[mechanics]], machine component design, mechanical design, [[thermodynamics]], [[circuits]] and systems, [[electronics]] and communications, control theory, [[programming]], digital signal processing, power engineering, [[robotics]] and usually a final year [[thesis]].
+
+==Variant of the field==
+
+An emerging variant of this field is ''[[biomechatronics]]'', whose purpose is to integrate machine and man, usually in the form of removable gadgets such as [[exoskeleton]]. This is the “real-life” version of [[cyberware]].
+
+== Related Journals ==
+[http://www.elsevier.com/wps/find/journaldescription.cws_home/933/description#description Mechatronics: The Science of Intelligent Machines]<br>
+[http://www.fujipress.jp/JRM/ Journal of Robotics and Mechatronics (JRM)]
+
+==See also==
+{{portalpar|Robotics|Animation2.gif}}
+* [[Institutions offering Mechatronics Engineering]]
+* [[Biomechatronics]]
+* [[Cybernetics]]
+* [[List of engineering topics]]
+* [[Robotics]]
+* [[Systems Engineering]]
+
+==References==
+*[http://www.prakashbooks.com/details.php3?id=612&c= Mechatronics Principles Concepts and Applications] by Tata McGraw-Hill.
+* Bradley, Dawson et al, ''Mechatronics, Electronics in products and processes'', Chapman and Hall Verlag, [[London]], 1991.
+* Karnopp, Dean C., Donald L. Margolis, Ronald C. Rosenberg, ''System Dynamics: Modeling and Simulation of Mechatronic Systems'', 4th Edition, Wiley, 2006. ISBN 0-471-70965-4 Bestselling system dynamics book using bond graph approach.
+* [http://www.amazon.com/Mechatronics-Sabri-Cetinkunt/dp/047147987X]Cetinkunt, Sabri, ''Mechatronics'', John Wiley & Sons, Inc, 2007 ISBN 978-0-4714798-1
+
+==External links==
+*[http://zeus.east.utcluj.ro/mec/mmfm/index.html Mechatronics at Technical University of Cluj-Napoca]
+*[http://mechatronics.rpi.edu/ Mechatronics at RPI]
+*[http://hades.mech.northwestern.edu/wiki/ Mechatronics Wiki at Northwestern University]
+*[http://mechatronics.mit.edu/ Mechatronics Research Lab at MIT]
+*[http://www.mechatronics.uwaterloo.ca/ Mechatronics Engineering at the University of Waterloo]
+*[http://www.ni.com/mechatronics/ Mechatronics at National Instruments]
+*[http://www.physikinstrumente.com/en/about/innovation.php Mechatronics at PI ]
+*[http://www.mechatronics-mec.org/ Mechatronics Education Center at Central Community College in Columbus, Nebraska, USA]
+*[http://www.mechanicalengineering.cc/mechanical-engineering-archives/224-What-is-Mechatronics-I.html What is Mechatronics ?]
+
+{{Technology}}
+[[Category:Embedded systems]]
+[[Category:Electro mechanical engineering]]
+
+[[ar:ميكانيكا إلكترونية]]
+[[ca:Mecatrònica]]
+[[cs:Mechatronika]]
+[[de:Mechatronik]]
+[[el:Μηχατρονική]]
+[[es:Mecánica de precisión]]
+[[fa:مکاترونیک]]
+[[fr:Mécatronique]]
+[[he:מכטרוניקה]]
+[[it:Meccatronica]]
+[[lt:Mechatronika]]
+[[hu:Mechatronika]]
+[[nl:Mechatronica]]
+[[ja:メカトロニクス]]
+[[nn:Mekatronikk]]
+[[pl:Mechatronika]]
+[[pt:Mecatrônica]]
+[[ru:Мехатроника]]
+[[sk:Mechatronika]]
+[[sl:Mehatronika]]
+[[sr:Мехатроника]]
+[[fi:Mekatroniikka]]
+[[sv:Mekatronik]]
+[[th:วิศวกรรมเมคคาทรอนิกส์และหุ่นยนต์]]
+[[vi:Cơ điện tử ô tô]]
+[[tr:Mekatronik]]
+[[zh:机械电子]]

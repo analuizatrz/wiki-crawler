@@ -1,0 +1,308 @@
+{{ Planetary nebula |
+| image = [[Image:NGC6543.jpg|250px]]
+<small>'''The Cat's Eye Nebula'''.<br /> Composite image using optical images<br /> from the [[Hubble Space Telescope|HST]] and X-ray data<br /> from the [[Chandra X-ray Observatory]]</small>
+| name = Cat's Eye Nebula
+| type = -
+| epoch = [[J2000]]
+| ra = {{RA|17|58|33.423}}<ref name="simbad">{{Harv|SIMBAD|2006}}</ref>
+| dec = {{DEC|+66|37|59.52}}<ref name="simbad" />
+| dist_ly = [[1 E19 m|3.3 ± 0.9]] [[light year|kly]] (1.0 ± 0.3 [[parsec|kpc]])<ref name="Reedetal1999">{{Harv|Reed|Balick|Hajian|Klayton|1999}}</ref>
+| appmag_v = 9.8B<ref name="simbad" />
+| size_v = Core: 20&Prime;<ref name="Reedetal1999" /><br />Halo: 5&prime;.8{{Fact|date=February 2007}}
+| constellation  = [[Draco (constellation)|Draco]]
+| radius_ly = Core: 0.2 [[light year|ly]]<ref>distance &times; sin( diameter_angle / 2 ) = 0.2 ly. radius</li></ref>
+| absmag_v = -0.2{{±|0.8|0.6}}B<ref>9.8B<ref name="simbad" /> apparent magnitude - 5 * (log<sub>10</sub>(1.0 ± 0.3 kpc distance) - 1) = -0.2{{±|0.8|0.6}}B absolute magnitude</li></ref>
+| notes = complex structure
+| names = [[New General Catalogue|NGC]] 6543,<ref name="simbad" /> Snail Nebula,<ref name="simbad" /><br />
+Sunflower Nebula,<ref name="simbad" /> (includes<br />[[Index Catalogue|IC]] [[IC 4677|4677]])<ref name="simbad" />
+}}
+
+The '''Cat's Eye Nebula''' ('''[[New General Catalogue|NGC]] 6543''') is a [[planetary nebula]] in the constellation of [[Draco (constellation)|Draco]].  Structurally, it is one of the most complex nebulae known, with high-resolution [[Hubble Space Telescope]] observations revealing remarkable structures such as knots, jets and sinewy arc-like features.
+
+It was discovered by [[William Herschel]] on [[February 15]] [[1786]], and was the first planetary nebula whose [[spectroscopy|spectrum]] was investigated by the English [[amateur astronomy|amateur astronomer]] [[William Huggins]] in [[1864]].
+
+Modern studies reveal several mysteries.  The intricacy of the structure may be caused in part by material ejected from a [[binary system (astronomy)|binary]] central star, but as yet, there is no direct evidence that the central star has a companion.  Also, measurements of chemical abundances reveal a large discrepancy between measurements done by two different methods, the cause of which is uncertain.
+
+==General information==
+NGC 6543 is a very well-studied planetary nebula.  It is relatively bright at [[apparent magnitude|magnitude]] 8.1, and also has a high [[surface brightness]].  It is situated at [[right ascension]] 17h 58.6m and [[declination]] +66°38'.  Its high declination means it is easily observable from the [[northern hemisphere]], where historically most large [[telescope]]s have been situated.  NGC 6543 is situated almost exactly in the direction of the [[Ecliptic coordinates|North Ecliptic Pole]].
+
+While the bright inner nebula is 
+rather small at 20 [[arcsecond]]s in diameter, {{Harv|Reed|Balick|Hajian|Klayton|1999}} it has an extended [[halo (optical phenomenon)|halo]] of matter that the progenitor star ejected during its [[red giant]] phase. This halo extends over a diameter of about 386 arcseconds (6.4 [[arcminutes]]).
+
+Observations show that the main body of the nebula has a density of about 5,000 particles/cm³ and a temperature of about 8,000 [[Kelvin|K]]. {{Harv|Wesson|Liu|2004}}  The outer halo has a somewhat higher temperature of about 15,000 K and a much lower density.
+
+The central star of NGC 6543 is an [[stellar classification|O-type star]], with a temperature of approximately 80,000 K.  It is approximately 10,000 times as luminous as the [[sun]], and its radius is about 0.65 times the solar value.  [[Spectroscopy|Spectroscopic analysis]] shows that the star is currently losing mass in a fast [[stellar wind]] at a rate of about 3.2&times;10<sup>&minus;7</sup> solar masses per year - about 20 trillion [[ton]]s per second.  The velocity of this wind is about 1900 km/s.  Calculations indicate that the central star currently weighs just over one [[solar mass]], but theoretical evolutionary calculations imply that it had an initial mass of about 5 solar masses. {{Harv|Bianchi|Cerrato|Grewing|1986}}
+
+==Observations==
+The Nebula was discovered by [[William Herschel]] on [[February 15]], [[1786]], and was the first planetary nebula to be observed with a [[spectroscope]], by [[William Huggins]] in 1864.  Huggins' observations were the first indication that planetary nebulae consist of extremely [[density|rarefied]] gases.  Since those early observations, NGC 6543 has been observed right across the [[electromagnetic spectrum]].
+
+===Infrared observations===
+Observations of NGC 6543 at [[infrared]] wavelengths reveal the presence of [[interstellar cloud|stellar dust]] at low temperatures.  The dust is believed to have formed during the last phases of the progenitor star's life. It absorbs light from the central star and re-radiates it at infrared wavelengths.  The spectrum of the infrared dust emission implies that the dust temperature is about 70 K.
+
+Infrared emission also reveals the presence of [[Ion (physics)|un-ionised]] material such as [[molecular hydrogen]] (H<sub>2</sub>).  In many planetary nebulae, molecular emission is greatest at larger distances from the star, where more material is un-ionised, but molecular hydrogen emission in NGC 6543 seems to be bright at the inner edge of its outer halo.  This may be due to [[shock waves]] exciting the H<sub>2</sub> as ejecta moving at different speeds collide. {{Harv|Hora|Latter|Allen|Marengo|2004}}
+
+===Optical and ultraviolet observations===
+NGC 6543 has been extensively observed at [[ultraviolet]] and [[optical spectrum|optical]] [[wavelengths]].  Spectroscopic observations at these wavelengths are used in abundance determinations, while images at these wavelengths have been used to reveal the intricate structure of the nebula.
+
+The Hubble Space Telescope image produced here is in false colour, designed to highlight regions of high and low [[ion (physics)|ionisation]].  Three images were taken, in filters isolating the light emitting by singly ionised [[hydrogen]] at 656.3 [[nanometer|nm]], singly ionised [[nitrogen]] at 658.4 nm and doubly ionised [[oxygen]] at 500.7 nm.  The images were combined as red, green and blue channels respectively, although their true colours are red, red and green.  The image reveals two 'caps' of less ionised material at the edge of the nebula.
+
+===X-ray observations===
+Recent observations at [[X-ray]] wavelengths by the [[Chandra X-ray Observatory]] have revealed the presence of extremely hot gas within NGC 6543.  The image at the top of this article is a combination of optical images from the Hubble Space Telescope with the Chandra X-ray images.  It is thought that the very hot gas results from the violent interaction of a fast stellar wind with material previously ejected.  This interaction has hollowed out the inner bubble of the nebula.
+
+Chandra observations have also revealed a [[wikt:point source|point source]] at the position of the central star.  The star would not be expected to emit strongly in X-rays, and so their presence is something of a mystery.  It may suggest the presence of a high temperature [[accretion disk]] within a [[binary star]] system. {{Harv|Guerrero|Chu|Gruendl|Williams|2001}}
+
+==Distance==
+A long standing problem in the study of planetary nebulae is that their distances are generally not well known.  Many methods for estimating distances to planetary nebulae rely on making general assumptions, which may be very inaccurate for the object concerned.
+
+In recent years, however, observations made using the Hubble Space Telescope have allowed a new method of determining distances.  All planetary nebulae are expanding, and observations several years apart and with high enough [[angular resolution]] will reveal the growth of the nebula in the plane of the sky.  This is typically very small—only a few milliarcseconds a year or less.  [[Astronomical spectroscopy|Spectroscopic]] observations can reveal the velocity of expansion of the nebula along the line of sight using the [[Doppler Effect]].  Then, comparing the angular expansion with the known expansion velocity, the distance to the nebula can be calculated.
+
+Hubble Space Telescope observations of NGC 6543 several years apart have been used to calculate its distance.  Its angular expansion rate is approximately 10 milliarcseconds per year, while its expansion velocity along the line of sight has been found to be 16.4&nbsp;km/s.  Combining these two results implies that NGC 6543 is about 1000&nbsp;[[parsec]]s (3&times;10<sup><small>19</small></sup>&nbsp;m) away from Earth. {{Harv|Reed|Balick|Hajian|Klayton|1999}}
+
+==Age==
+The angular expansion of the nebula can also be used to estimate its age.  If it has been expanding at a constant rate, then to have reached a diameter of 20 arcseconds at 10 milliarcseconds a year would have taken 1000 ± 260 years. {{Harv|Reed|Balick|Hajian|Klayton|1999}}  This may be an upper limit to the age, as ejected material will be slowed as it encounters material ejected from the star at earlier stages of its evolution, as well as the [[interstellar medium]].
+
+==Composition==
+[[Image:NGC6543 concentric rings cropped.jpg|thumb|right|220px|Image of NGC 6543 processed to reveal the concentric rings surrounding the inner core.  Also visible are the linear structures, possibly caused by precessing jets from a binary central star system.]]
+
+Like most astronomical objects, NGC 6543 consists mostly of [[hydrogen]] and [[helium]], with heavier elements present in small quantities.  The exact composition may be determined by spectroscopic studies.  Abundances are generally expressed relative to hydrogen, the most abundant element.
+
+Different studies generally find varying values for elemental abundances.  This is often because [[spectrograph]]s attached to telescopes do not collect all the light from objects being observed, instead gathering light from a slit or small [[aperture]].  Therefore, different observations may sample different parts of the nebula.
+
+However, results for NGC 6543 broadly agree that, relative to hydrogen, the helium abundance is about 0.12, [[carbon]] and [[nitrogen]] abundances are both about 3&times;10<sup>&minus;4</sup>, and the [[oxygen]] abundance is about 7&times;10<sup>&minus;4</sup>.  These are fairly typical abundances for planetary nebulae, with the carbon, nitrogen and oxygen abundances all larger than the values found for the [[sun]], due to the effects of [[nucleosynthesis]] enriching the star's atmosphere in heavy elements before it is ejected as a planetary nebula. {{Harv|Wesson|Liu|2004}} {{Harv|Hyung|Aller|Feibelman|Lee|2000}}
+
+Deep spectroscopic analysis of NGC 6543 may indicate that the nebula contains a small amount of material which is highly enriched in heavy elements; this is discussed further below.
+
+==Kinematics and morphology==
+[[Image:NGC 6543 outer halo.jpg|thumb|left|220px|A composite image showing the giant outer halo of NGC 6543 surrounding the inner core.]]
+The Cat's Eye Nebula is structurally a very complex nebula, and the mechanism or mechanisms which have given rise to its complicated morphology are not well understood.
+
+The structure of the bright portion of the nebula is primarily caused by the interaction of a fast [[stellar wind]] being emitted by the central star with material ejected during the formation of the nebula.  This interaction causes the emission of X-rays discussed above.  The stellar wind has 'hollowed out' the inner bubble of the nebula, and appears to have burst the bubble at both ends. {{Harv|Balick|Preston|1987}}
+
+It is also suspected that the central star of the nebula may be a [[binary star]].  The existence of an [[accretion disk]] caused by mass transfer between the two components of the system may give rise to [[polar jet]]s, which would interact with previously ejected material.  Over time, the direction of the polar jets would vary due to [[precession]]. {{Harv|Miranda|Solf|1992}}
+
+Outside the bright inner portion of the nebula, there are a series of concentric rings, thought to have been ejected before the formation of the planetary nebula, while the star was on the [[asymptotic giant branch]] of the [[Hertzsprung-Russell Diagram]].  These rings are very evenly spaced, suggesting that the mechanism responsible for their formation ejected them at very regular intervals and at very similar speeds. {{Harv|Balick|Wilson|Hajian|2001}}
+
+Further out, a large faint halo extends to large distances from the star.  The halo again predates the formation of the main nebula.
+
+==Open questions==
+Despite intensive study, the Cat's Eye Nebula still holds many mysteries.  The concentric rings surrounding the inner nebula seem to have been ejected at intervals of a few hundred years, a timescale which is rather difficult to explain.  Thermal pulsations which cause planetary nebulae to be formed in the first place are believed to take place at intervals of tens of thousands of years, while smaller surface pulsations are thought to occur at intervals of years to decades.  A mechanism which would eject material over the timescales required to form the concentric rings in the Cat's Eye Nebula is not yet known.
+
+The spectra of planetary nebulae consist of [[emission line]]s superimposed on a [[continuum]].  The emission lines may be formed either by [[collisional excitation]] of [[ion (physics)|ions]] in the nebula, or by [[recombination]] of [[electron]]s with ions.  Collisionally excited lines are generally much stronger than recombination lines, and so have historically been used to determine abundances.  However, recent studies have found that abundances derived from recombination lines seen in the spectrum of NGC 6543 are some three times higher than those derived from collisionally excited lines. {{Harv|Wesson|Liu|2004}}  The cause of this discrepancy is disputed—suggestions include the presence of some material highly enriched in heavy elements, or sizable temperature fluctuations within the nebula.
+
+==External links==
+{{Commons2|Cat's Eye Nebula}}
+* [http://chandra.harvard.edu/photo/2001/1220/index.html Chandra X-Ray Observatory Photo Album: NGC 6543 (Cat's Eye Nebula)]
+* [http://antwrp.gsfc.nasa.gov/apod/ap991031.html NASA APOD - October 31, 1999: The Cat's Eye Nebula]
+* [http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/01/ Hubble Probes the Complex History of a Dying Star] - HubbleSite article about the Cat's Eye Nebula.
+* [http://hubblesite.org/sci.d.tech/behind_the_pictures/meaning_of_color/catseye.shtml Hubble's Color Toolbox: Cat's Eye Nebula] - article showing the image composite process used by scientists to produce an image of the Cat's Eye Nebula.
+*[http://www.spacetelescope.org/news/html/heic0414.html Cat's Eye Nebula Release at ESA/Hubble]
+*[http://www.spacetelescope.org/images/archive/freesearch/cat's+eye+nebula/viewall/1 Cat's Eye Nebula images at ESA/Hubble]
+
+== Notes ==
+<div class="references-small">
+<ol type="a">
+</ol>
+<references/>
+</div>
+
+==References==
+<div class="references-small">
+* {{Harvard reference
+ | Surname1 = Bianchi
+ | Given1 = L.
+ | Surname2 = Cerrato
+ | Given2 = S.
+ | Surname3 = Grewing
+ | Given3 = M.
+ | Title = Mass loss from central stars of planetary nebulae - The nucleus of NGC 6543
+ | Journal = Astronomy and Astrophysics
+ | Year = 1986
+ | Date = November 1986
+ | Volume = 169
+ | Issue = 1-2
+ | Pages = 227–236
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1986A%26A...169..227B
+}}
+* {{Harvard reference
+ | Surname1 = Balick
+ | Given1 = Bruce
+ | Surname2 = Preston
+ | Given2 = Heather L.
+ | Title = A wind-blown bubble model for NGC 6543
+ | Journal = Astronomical Journal
+ | Year = 1987
+ | Date = October 1987
+ | Volume = 94
+ | Issue = 
+ | Pages = 958–963
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1987AJ.....94..958B
+}}
+* {{Harvard reference
+ | Surname1 = Miranda
+ | Given1 = L. F.
+ | Surname2 = Solf
+ | Given2 = J.
+ | Title = Long-slit spectroscopy of the planetary nebula NGC 6543 - Collimated bipolar ejections from a precessing central source?
+ | Journal = Astronomy and Astrophysics
+ | Year = 1992
+ | Volume = 260
+ | Issue = 1-2
+ | Pages = 397–410
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1992A%26A...260..397M
+}}
+* {{Harvard reference
+ | Surname1 = Reed
+ | Given1 = Darren S.
+ | Surname2 = Balick
+ | Given2 = Bruce
+ | Surname3 = Hajian
+ | Given3 = Arsen R.
+ | Surname 4 = Klayton
+ | Given4 = Tracy L.
+ | Surname 5 = Giovanardi
+ | Given5 = Stefano
+ | Surname 6 = Casertano
+ | Given6 = Stefano
+ | Surname 7 = Panagia
+ | Given7 = Nino
+ | Surname 8 = Terzian
+ | Given8 = Yervant
+ | Title = Hubble Space Telescope Measurements of the Expansion of NGC 6543: Parallax Distance and Nebular Evolution
+ | Journal = Astronomical Journal
+ | Year = 1999
+ | Volume = 118
+ | Issue = 5
+ | Pages = 2430–2441
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1999AJ....118.2430R
+}}
+* {{Harvard reference
+ | Surname1 = Hyung
+ | Given1 = S.
+ | Surname2 = Aller
+ | Given2 = L. H.
+ | Surname3 = Feibelman
+ | Given3 = W. A.
+ | Surname 4 = Lee
+ | Given4 = W. B.
+ | Surname 5 = de Koter
+ | Given5 = A.
+ | Title = The optical spectrum of the planetary nebula NGC 6543
+ | Journal = Monthly Notices of the Royal Astronomical Society
+ | Year = 2000
+ | Volume = 318
+ | Issue = 1
+ | Pages = 77–91
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2000MNRAS.318...77H
+}}
+* {{Harvard reference
+ | Surname1 = Balick
+ | Given1 = Bruce
+ | Surname2 = Wilson
+ | Given2 = Jeanine
+ | Surname3 = Hajian
+ | Given3 = Arsen R.
+ | Title = NGC 6543: The Rings Around the Cat's Eye
+ | Journal = Astronomical Journal
+ | Year = 2001
+ | Volume = 121
+ | Issue = 
+ | Pages = 354
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2001AJ....121..354B
+}}
+* {{Harvard reference
+ | Surname1 = Guerrero
+ | Given1 = Martín A.
+ | Surname2 = Chu
+ | Given2 = You-Hua
+ | Surname3 = Gruendl
+ | Given3 = Robert A.
+ | Surname 4 = Williams
+ | Given4 = Rosa M.
+ | Surname 5 = Kaler
+ | Given5 = James B.
+ | Title = The Enigmatic X-Ray Point Sources at the Central Stars of NGC 6543 and NGC 7293
+ | Journal = Astrophysical Journal
+ | Year = 2001
+ | Volume = 553
+ | Issue = 1
+ | Pages = L55-L58
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2001ApJ...553L..55G
+}}
+* {{Harvard reference
+ | Surname1 = Hora
+ | Given1 = Joseph L.
+ | Surname2 = Latter
+ | Given2 = William B.
+ | Surname3 = Allen
+ | Given3 = Lori E.
+ | Surname 4 = Marengo
+ | Given4 = Massimo
+ | Surname 5 = Deutsch
+ | Given5 = Lynne K.
+ | Surname 6 = Pipher
+ | Given6 = Judith L.
+ | Title = Infrared Array Camera (IRAC) Observations of Planetary Nebulae
+ | Journal = Astrophysical Journal Supplement Series
+ | Year = 2004
+ | Volume = 154
+ | Issue = 1
+ | Pages = 296–301
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2004ApJS..154..296H
+}}
+* {{Harvard reference
+ | Surname1 = Wesson
+ | Given1 = R.
+ | Surname2 = Liu
+ | Given2 = X.-W.
+ | Title = Physical conditions in the planetary nebula NGC 6543
+ | Journal = Monthly Notices of the Royal Astronomical Society
+ | Year = 2004
+ | Volume = 351
+ | Issue = 3
+ | Pages = 1026–1042
+ | URL = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2004MNRAS.351.1026W
+}}
+* {{Harvard reference
+ | Surname1 = SIMBAD
+ | Title = Results for Cat's Eye Nebula
+ | Authorlink = SIMBAD
+ | Journal =  
+ | Year = 2006
+ | Date = [[December 22]] [[2006]]
+ | Publisher = SIMBAD, Centre de Données Astronomiques de Strasbourg
+ | URL = http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=Cat's+Eye+Nebula
+}}
+</div>
+
+<br />
+
+{{featured article}}
+
+[[Category:Planetary nebulae]]
+[[Category:Draco constellation]]
+[[Category:NGC objects]]
+
+{{Link FA|es}}
+{{Link FA|sv}}
+{{Link FA|zh}}
+
+[[cs:Kočičí oko (mlhovina)]]
+[[de:Katzenaugennebel]]
+[[es:Nebulosa Ojo de gato]]
+[[eo:NGC 6543]]
+[[fr:Nébuleuse de l'Œil de Chat]]
+[[gl:Nebulosa Ollo de gato]]
+[[ko:고양이 눈 성운]]
+[[it:Nebulosa Occhio di Gatto]]
+[[lb:Kazenaniwwel]]
+[[hu:Macskaszem-köd]]
+[[nl:Kattenoognevel]]
+[[ja:キャッツアイ星雲]]
+[[pl:Mgławica Kocie Oko]]
+[[pt:NGC 6543]]
+[[ru:Туманность Кошачий Глаз]]
+[[sk:Hmlovina Mačacie oko]]
+[[sl:Mačje oko (meglica)]]
+[[sv:Kattögenebulosan]]
+[[vi:Tinh vân Mắt Mèo]]
+[[zh:貓眼星雲]]

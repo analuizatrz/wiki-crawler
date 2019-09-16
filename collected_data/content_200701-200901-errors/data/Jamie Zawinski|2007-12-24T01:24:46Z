@@ -1,0 +1,59 @@
+'''Jamie W. Zawinski''' (born [[November 3]], [[1968]]<ref>http://jwz.livejournal.com/profile</ref> in [[Pittsburgh, Pennsylvania]]), commonly known as '''jwz''', is an [[United States|American]] computer [[programmer]] responsible for significant contributions to the [[free software]] projects [[Mozilla]] and [[XEmacs]], and early versions of the proprietary [[Netscape Navigator]] web browser. He still actively maintains the [[XScreenSaver]] project, used by most  [[Unix-like]] computer [[operating system]]s for [[screensaver|screenblanking]].
+
+Zawinski is currently the proprietor of the [[DNA Lounge]], a [[nightclub]] in [[San Francisco]].
+
+== Biography ==
+
+Zawinski was first hired by [[Scott Fahlman]]'s Lisp research group at [[Carnegie Mellon University]], came to California to work in Robert Wilensky and [[Peter Norvig]]'s group at Berkeley, and in the early 1990s was hired by [[Richard P. Gabriel]]'s [[Lucid Inc.]], where he was eventually put to work on Lucid's proprietary Energize [[C++]] [[Integrated Development Environment|IDE]]; a major portion of the IDE was a text editor. Lucid decided to use GNU Emacs due to its free license, popularity, and extensibility.  When the project ran into problems, Zawinski and the other programmers were forced to begin making fundamental changes to GNU Emacs to add new functionality; tensions over how to merge these patches into the main tree eventually led to the famous GNU Emacs/XEmacs [[Fork (software development)|fork]].<ref>{{cite web | last = Zawinski | first = Jamie | title = The Lemacs/FSFmacs Schism. | date = [[2000-02-11]] | url = http://www.jwz.org/doc/lemacs.html | accessdate = 2006-09-26 }}</ref>
+
+Zawinski worked on the early releases of [[Netscape Navigator]], particularly the 1.0 release of the [[Unix]] version. He became quite well known in the early days of the [[world wide web]] through an [[easter egg (virtual)|easter egg]] in the Netscape browser: typing "about:jwz" into the address box would take the user to his home page (a similar trick worked for other Netscape staffers). Also due to Zawinski, users running a [[Unix]] or [[Apple Macintosh|Macintosh]] version of the browser would see the Netscape [[throbber]] change to a ship's compass when a page was loading.  In addition, Zawinski says it was he who came up with the name "Mozilla".<ref>{{cite web | last = Zawinski | first = Jamie | title = nscp dorm | date = [[1996]] | url = http://www.jwz.org/gruntle/nscpdorm.html | accessdate = 2007-10-12 }}</ref>
+
+Zawinski was a major proponent of [[Open source|opening]] the [[source code]] of the Mozilla browser, but became disillusioned with the project when it was decided that the code would have to be [[Rewrite (programming)|rewritten]]. He resigned from [[Netscape Communications Corporation]] on [[April 1]] [[1999]].<ref>{{cite web | last = Zawinski | first = Jamie | title = resignation and postmortem. | date = [[1999-03-31]] | url = http://www.jwz.org/gruntle/nomo.html | accessdate = 2006-09-26 }}</ref> His current occupation is now running the [[DNA Lounge]] [[nightclub]] in [[San Francisco]].
+
+== Quotes ==
+
+{{quote|Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.| comp.lang.emacs}}
+
+Peter Norvig in [http://norvig.com/21-days.html Teach Yourself Programming in Ten Years]: "One of the best programmers I ever hired had only a High School degree; he's produced a lot of great software, has his own news group, and made enough in stock options to buy his own nightclub."
+
+''Zawinski's Law of Software Envelopment'' (also known as ''Zawinski's Law'') relates the pressure of popularity to the phenomenon of [[software bloat]]:
+
+{{quote|Every program attempts to expand until it can read [[E-mail|mail]]. Those programs which cannot so expand are replaced by ones which can.|Jamie Zawinski|[http://www.catb.org/~esr/jargon/html/Z/Zawinskis-Law.html Jargon file entry]}} 
+
+It may have been inspired by the humorous ''Law of Software Development and Envelopment at [[MIT]]'', which was posted on Usenet in 1989 by Greg Kuperberg, who wrote:
+
+{{quote|Every program in development at MIT expands until it can read mail.|[http://groups.google.com/group/rec.humor.funny/browse_thread/thread/2195f8fdf5402dbd/786a67b37348bc23 rec.humor.funny 1989 MIT reference]}}
+
+== See also ==
+
+* [[Greenspun's Tenth Rule]]
+
+== References ==
+
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+
+* [http://www.jwz.org/ Personal homepage]
+* [http://jwz.livejournal.com/ jwz's LiveJournal]
+
+{{Persondata | NAME = Zawinski, Jamie W. | ALTERNATIVE NAMES = JWZ | SHORT DESCRIPTION = American programmer | DATE OF BIRTH=November 3, 1968 | PLACE OF BIRTH = [[Pittsburgh, Pennsylvania]] }}
+
+{{DEFAULTSORT:Zawinski, Jamie}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:American bloggers]]
+[[Category:Emacs]]
+[[Category:Free software programmers]]
+[[Category:American Internet personalities]]
+[[Category:Mozilla developers]]
+[[Category:Netscape]]
+[[Category:People from Pennsylvania]]
+
+[[cs:Jamie Zawinski]]
+[[de:Jamie W. Zawinski]]
+[[es:Jamie Zawinski]]
+[[fr:Jamie Zawinski]]
+[[pl:Jamie Zawinski]]
+[[pt:Jamie Zawinski]]

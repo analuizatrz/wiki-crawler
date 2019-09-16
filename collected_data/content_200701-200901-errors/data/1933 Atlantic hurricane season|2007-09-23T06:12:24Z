@@ -1,0 +1,698 @@
+{{Infobox hurricane season 
+| Basin=Atl
+| Year=1933
+| Track=1933 Atlantic hurricane season map.png
+| First storm formed=[[May 14]], [[1933]]
+| Last storm dissipated=[[November 13]], [[1933]]
+| Strongest storm name=#18 - 130 knots (150&nbsp;mph, 240&nbsp;km/h)<br/> #12 - 948 mbar
+| Total storms=21
+| Total hurricanes=10
+| Total intense=5
+| Damages=85.4
+| Inflated=1
+| Fatalities=632+
+| five seasons=[[1931 Atlantic hurricane season|1931]], [[1932 Atlantic hurricane season|1932]], '''1933''', [[1934 Atlantic hurricane season|1934]], [[1935 Atlantic hurricane season|1935]]
+}}
+The '''1933 Atlantic hurricane season''' is the second most active Atlantic hurricane season on record, with 21 storms forming during that year. The season, which began on [[June 1]], [[1933]] and lasted until [[November 30]], [[1933]], is surpassed only by the [[2005 Atlantic hurricane season|2005 season]], which broke the record with its 28 storms. The 1933 season saw tropical activity before its start, and a tropical cyclone was active for all but 13 days from [[June 28]] to [[October 7]]. Tropical cyclones that did not approach populated areas or shipping lanes, especially if they were relatively weak and of short duration, may have remained undetected. Because technologies such as [[satellite imagery|satellite monitoring]] were not available until the [[1960s]], historical data on tropical cyclones from this period are often not reliable. Compensating for the lack of reliable observation, one hurricane researcher estimates the season produced 24 tropical cyclones.<ref>{{cite web|author=Chris Landsea|year=2007|title=Counting Atlantic Tropical Cyclones Back to 1900|publisher=American Meteorological Society|accessdate=2007-07-23|url=http://www.aoml.noaa.gov/hrd/Landsea/landsea-eos-may012007.pdf}}</ref>
+
+Ten of the season's 21 storms attained [[Atlantic hurricane|hurricane]] status. Five of those were major hurricanes, with sustained winds of over 111&nbsp;[[mph]] (179&nbsp;[[km/h]]); the strongest reached peak winds of 150&nbsp;mph (240&nbsp;km/h) near the [[Bahamas]] in early October. The season produced several deadly storms, with eight storms killing more than 20&nbsp;people. All but one of the 21 known storms affected land at some point during their lifetimes.
+
+==Season summary==
+[[Image:Stormking2.jpg|right|thumb|Damage from Chesapeake Potomac Hurricane]]
+The 1933 season was the most active of its time, surpassing the previous record-holder of 19 storms in [[1887 Atlantic hurricane season|1887]]. Nineteen of the season's storms made [[landfall (meteorology)|landfall]] as tropical cyclones, and another struck land as an extratropical storm. Eight tropical storms, including six hurricanes, hit the [[United States]] during the season, including the [[1933 Chesapeake Potomac Hurricane|Chesapeake Potomac Hurricane]], which the [[National Oceanic and Atmospheric Administration|U.S. Weather Bureau]] describes as one of the most severe in history along the [[Mid-Atlantic States]]. Seven tropical storms, including four hurricanes, hit [[Mexico]], two of which caused severe damage in the [[Tampico]] area.<ref name="mwr">{{cite web|author=Charles L. Mitchell|year=1933|title=1933 Monthly Weather Review|publisher=U.S. Weather Bureau|accessdate=2006-09-07|url=http://www.aoml.noaa.gov/general/lib/lib1/nhclib/mwreviews/1933.pdf}}</ref>
+
+The season was continuously active, with a record-setting total of seven storms forming during the month of August alone. This record was later tied by the [[1995 Atlantic hurricane season|1995 season]] and ultimately broken by the [[2004 Atlantic hurricane season|2004 season]] with its eight August storms.<ref name="augsum">{{cite web|author=Lawrence, Franklin, Avila, Beven, Pasch, & Stewart|year=2006|title=Tropical Weather Summary of August 2004|publisher=[[National Hurricane Center]]|accessdate=2006-09-19|url=http://www.nhc.noaa.gov/archive/2004/tws/MIATWSAT_aug.shtml?}}</ref> At the time, many storms received the distinction of being the earliest ''n''th storm to form, such as the earliest fifth tropical storm to form in a season. Though most of the records were broken in later years, the 1933 season retains the record for the earliest formation of a season's 18th storm by 27&nbsp;hours.<ref name="andyhatzos">{{cite web|author=Andy Hatzos|year=2006|title=Earliest Hurricane Research|accessdate=2006-09-19|url=http://pipsey.net:8080/~thegreatzo/hurricanes.html}}</ref>
+
+During the season, the U.S. [[Weather Bureau]] issued [[tropical cyclone warnings and watches#Tropical Storm Warning|storm]] and [[tropical cyclone warnings and watches#Hurricane Warning|hurricane warnings]] for eight storms, including coastal portions of [[Texas]], as well as from [[Florida]] to [[Massachusetts]], forcing the evacuations of thousands of people. The deadliest storm of the season was a hurricane that struck [[Tampico]], [[Mexico]], killing over 184&nbsp;residents. The costliest hurricane was the [[1933 Chesapeake Potomac Hurricane|Chesapeake Potomac Hurricane]], which caused $27&nbsp;million in damage (1933 [[USD]], $360&nbsp;million 2005 USD) from [[North Carolina]] to [[New Jersey]]. The hurricane produced rainfall that resulted in severe crop damage in [[Maryland]].<ref name="mwr"/>
+
+==Storms==
+<timeline>
+ImageSize = width:800 height:150
+PlotArea  = top:10 bottom:30 right:20 left:20
+AlignBars = early
+
+DateFormat = dd/mm/yyyy
+Period     = from:01/05/1933 till:31/12/1933
+TimeAxis   = orientation:horizontal
+ScaleMinor = grid:black unit:month increment:1 start:14/05/1933
+
+Colors     =
+  id:canvas value:gray(0.88)
+  id:GP     value:red
+  id:TD     value:rgb(0.38,0.73,1)
+  id:TS     value:rgb(0,0.98,0.96)
+  id:C1     value:rgb(1,1,0.80)
+  id:C2     value:rgb(1,0.91,0.46)
+  id:C3     value:rgb(1,0.76,0.25)
+  id:C4     value:rgb(1,0.56,0.13)
+  id:C5     value:rgb(1,0.38,0.38)
+
+Backgroundcolors = canvas:canvas
+
+BarData =
+  barset:Hurricane
+  bar:Month
+
+PlotData=
+
+  barset:Hurricane width:10 align:left fontsize:S shift:(4,-4) anchor:till
+  from:14/05/1933 till:19/05/1933 color:TS text:"One"
+   barset:break
+  from:27/06/1933 till:07/07/1933 color:C2 text:"Two"
+  from:14/07/1933 till:19/07/1933 color:TS text:"Three"
+  from:21/07/1933 till:23/07/1933 color:TS text:"Four"
+  from:25/07/1933 till:05/08/1933 color:C1 text:"Five"
+  from:12/08/1933 till:20/08/1933 color:TS text:"Six"
+  from:16/08/1933 till:21/08/1933 color:TS text:"Seven"
+   barset:break
+  from:17/08/1933 till:26/08/1933 color:C3 text:"[[1933 Chesapeake Potomac Hurricane|Eight]]"
+  from:24/08/1933 till:31/08/1933 color:TS text:"Nine"
+  from:26/08/1933 till:29/08/1933 color:TS text:"Ten"
+  from:28/08/1933 till:05/09/1933 color:C3 text:"Eleven"
+  from:31/08/1933 till:07/09/1933 color:C4 text:"Twelve"
+  from:08/09/1933 till:18/09/1933 color:C3 text:"[[1933 Outer Banks Hurricane|Thirteen]]"
+   barset:break
+  from:10/09/1933 till:15/09/1933 color:C1 text:"Fourteen"
+  from:16/09/1933 till:25/09/1933 color:C2 text:"Fifteen"
+  from:27/09/1933 till:04/10/1933 color:TS text:"Sixteen"
+  from:28/09/1933 till:30/09/1933 color:TS text:"Seventeen"
+  from:01/10/1933 till:09/10/1933 color:C4 text:"Eighteen"
+   barset:break
+  from:25/10/1933 till:07/11/1933 color:C2 text:"Nineteen"
+  from:26/10/1933 till:30/10/1933 color:TS text:"Twenty"
+  from:15/11/1933 till:17/11/1933 color:TS text:"Twenty-One"
+
+    barset:skip
+
+  bar:Month width:5 align:center fontsize:S shift:(0,-20) anchor:middle color:canvas
+  from:01/05/1933 till:01/06/1933 text:May
+  from:01/06/1933 till:01/07/1933 text:June
+  from:01/07/1933 till:01/08/1933 text:July
+  from:01/08/1933 till:01/09/1933 text:August
+  from:01/09/1933 till:01/10/1933 text:September
+  from:01/10/1933 till:01/11/1933 text:October
+  from:01/11/1933 till:01/12/1933 text:November
+  from:01/12/1933 till:31/12/1933 text:December
+</timeline>
+<div style='text-align: center;'>
+'''Timeline of tropical activity in 1933 Atlantic hurricane season'''
+</div>
+
+===Tropical Storm One===
+{{infobox hurricane small
+ |name=Tropical Storm One
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 1 track.png
+| formed=[[May 14]]
+| dissipated=[[May 19]], [[1933]]
+| highest winds=45&nbsp;[[miles per hour|mph]] (70&nbsp;[[kilometres per hour|km/h]]) 
+| pressure=Pressure unknown
+}}
+
+The first storm of the season formed on [[May 14]] in the western [[Caribbean Sea]], prior to the official start of the [[Atlantic hurricane]] season. It moved quickly towards the northwest and attained a peak intensity of 45&nbsp;[[mph]] (70&nbsp;km/h) on [[May 16]]. The storm turned to the west, then curved southwest, while moving around the [[Yucatan Peninsula]] just offshore. The tropical storm turned to the south, weakened to a tropical depression, and made landfall on northern [[Tabasco]]. It dissipated on [[May 19]].<ref name="unisys">{{cite web|author=Unisys Corporation|year=2006|title=1933 Atlantic hurricane season|accessdate=2006-09-07|url=http://www.weather.unisys.com/hurricane/atlantic/1933/index.html}}</ref>
+<div style="clear: both"></div>
+
+===Hurricane Two===
+{{infobox hurricane small
+ |name=Hurricane Two
+| category=cat2
+| type=hurricane
+| image=1933 Atlantic hurricane 2 track.png
+| formed=[[June 27]]
+| dissipated=[[July 7]], [[1933]]
+| highest winds=105&nbsp;[[miles per hour|mph]] (170&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=986&nbsp;[[mbar]]
+}}
+The hurricane season officially began on [[June 1]], but there was little detectable activity during most of June. That tranquility came to an end on [[June 27]], when a tropical storm was first observed just off the coast of northern [[Guyana]]. It strengthened as it moved west-northwestward, and it became a hurricane later that day. Continuing to the west-northwest, the hurricane brushed southern [[Tobago]] and made landfall on northeastern [[Venezuela]] on [[June 28]], becoming the earliest known tropical cyclone to affect the area.<ref name="mwr"/> The system weakened to a tropical storm over land but re-attained hurricane status on [[July 1]] while in the western [[Caribbean Sea]]. The hurricane curved to the northwest and moved over western [[Cuba]] on [[July 3]]. It turned to the west in the [[Gulf of Mexico]] and reached a peak intensity of 105&nbsp;mph (170&nbsp;km/h) on [[July 5]], making it a [[Saffir-Simpson Hurricane Scale|Category 2]] hurricane. The hurricane turned to the west-southwest due to a building [[ridge (meteorology)|high pressure area]] to its north then weakened. It made landfall on the coast of [[Tamaulipas]] and weakened to tropical storm status. The system finally dissipated over land on [[July 7]].<ref name="unisys"/>
+
+On southern Tobago, the hurricane caused severe damage, amounting to around $3&nbsp;million (1933 USD). 13&nbsp;people were killed on the island, and another 1,000 were left homeless. In northeastern Venezuela, the hurricane destroyed many houses, businesses, and boats, and strong winds downed power lines. Many people were killed, and property damage totaled to over $386,000 (1933 USD).<ref name="mwr"/> In Cuba, the storm killed 22&nbsp;people, while damage amounted to $4&nbsp;million (1933 USD).<ref name="Cuba">{{cite web|author=Pielke, Rubiera, Landsea, Fernandez, & Klien|year=2003|title=Hurricane Vulnerability in Latin America & The Caribbean|publisher=National Oceanic and Atmospheric Administration|url=http://www.aoml.noaa.gov/hrd/Landsea/NHR-Cuba.pdf}}</ref> The hurricane caused severe damage and several deaths in northeastern [[Mexico]].<ref name="mwr"/> In all, the hurricane killed 35&nbsp;people.<ref name="deadliest">{{cite web|author=Rappaport & Partagas|year=1997|title=The Deadliest Atlantic Hurricanes, 1492–1996|publisher=National Hurricane Center|accessdate=2006-09-19|url=http://www.nhc.noaa.gov/pastdeadly.shtml}}</ref>
+<div style="clear: both"></div>
+
+===Tropical Storm Three===
+{{infobox hurricane small
+ |name=Tropical Storm Three
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 3 track.png
+| formed=[[July 14]]
+| dissipated=[[July 19]], [[1933]]
+| highest winds=50&nbsp;[[miles per hour|mph]] (85&nbsp;[[kilometres per hour|km/h]]) 
+| pressure=Pressure unknown
+}}
+The third tropical storm of the season was first observed on [[July 14]] near [[St. Kitts]]. It moved quickly westward and passed just south of [[Puerto Rico]] and [[Hispaniola]] as a weak storm. The system curved slightly to the west-northwest and brushed the northern coast of [[Jamaica]] before turning slightly westward and hitting the [[States of Mexico|Mexican state]] of [[Quintana Roo]]. As it crossed the [[Yucatán Peninsula]] the cyclone weakened, and after crossing the [[Bay of Campeche]] the storm dissipated over coastal [[Veracruz]].<ref name="unisys"/> 
+
+While passing near Jamaica, the storm dropped heavy rainfall, including 9&nbsp;inches (230&nbsp;mm) in [[Kingston, Jamaica|Kingston]] which led to flooding and washouts. The rainfall also damaged several bridges and roads and resulting in delays in train schedules.<ref name="july181933">{{cite web|author=The Daily Gleaner|publishdate=1933-07-18|title=Torrential Rains Create Havoc in Kingston and St. Andrews|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=P9SpTvomPU+KID/6NLMW2o3JQ+mIMY1lsicqePOCHKn5p6QUxakzMQ==}}</ref> Mudslides and overflowing rivers flooded several towns with knee-deep waters. Moderate winds downed several banana trees across the island.<ref name="july201933">{{cite web|author=The Daily Gleaner|publisher=1933-07-20|title=Burst Rivers Flooded Roads in Villages|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=P9SpTvomPU+KID/6NLMW2o3JQ+mIMY1lsicqePOCHKnwK6pR4EpPGQ==}}</ref> 
+<div style="clear: both"></div>
+
+===Tropical Storm Four===
+{{infobox hurricane small
+ |name=Tropical Storm Four
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 4 track.png
+| formed=[[July 21]]
+| dissipated=[[July 23]], [[1933]]
+| highest winds= 45&nbsp;[[miles per hour|mph]] (70&nbsp;[[kilometres per hour|km/h]]) 
+| pressure=Pressure unknown
+}}
+On [[July 21]], another tropical storm formed, this time, in the central Gulf of Mexico to the northwest of the Yucatán Peninsula. It moved quickly to the northwest, and made landfall near [[Matagorda Bay]], in [[Texas]] on [[July 23]] as a 45&nbsp;mph (70&nbsp;km/h) tropical storm. The system turned to the northeast, and became extratropical to the east of [[Dallas, Texas]]. The extratropical system moved slowly through northern [[Louisiana]], turned to the northeast, and dissipated over northeastern [[Arkansas]] near [[Memphis, Tennessee]].<ref name="mwr"/> 
+
+Prior to the arrival of the storm, numerous coastal residents boarded up their houses and businesses and voluntarily evacuated further inland. Upon making landfall, the storm produced high tides.<ref name="july221933">{{cite web|author=The Ada Evening News|publishdate=1933-07-22|title=Storm Threatens Coast of Texas|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=4uFNimLMxoSKID/6NLMW2hJhiAt1UclRSzPrNQbF4WvOcHAW4t9Duw==}}</ref> In eastern Texas and western Louisiana, the system dropped very heavy [[Precipitation (meteorology)|precipitation]], which in places reached accumulations exceeding 20&nbsp;inches (500&nbsp;mm). The highest storm total occurred in [[Logansport, Louisiana]], which reported 24&nbsp;inches (610&nbsp;mm) in a 4-day period.<ref name="lahist">{{cite web|author=David Roth|year=2003|title=Louisiana Hurricane History|publisher=National Weather Service|accessdate=2006-09-01|url=http://www.srh.noaa.gov/lch/research/laerly20hur2.php}}</ref>  
+In Louisiana, the flooding severely damaged crops and forced about 250 families near [[Shreveport, Louisiana|Shreveport]] to evacuate their flooded homes. The torrential rainfall also resulted in overflowing rivers; numerous highways, roads, and railroads were either impassable or closed, with some locations experiencing water depths of up to 20&nbsp;feet (6.1&nbsp;m).<ref name="july271933">{{cite web|author=Port Arthur News|publishdate=1933-07-27|title=Rises Predicted|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=j91JOupTOn+KID/6NLMW2oireyJhj9/dY1VnFwifLX5lUezfkDbRiQ==}}</ref> 
+Total damage reached nearly $2&nbsp;million (1933 USD).<ref name="1933ussum">{{Cite web|author=R. J. Martin|year=1933|title=The Weather of 1933 in the United States|publisher=U.S. Weather Bureau|accessdate=2006-09-06|url=http://docs.lib.noaa.gov/rescue/mwr/061/mwr-061-12-0361.pdf}}</ref>
+<div style="clear: both"></div>
+
+===Hurricane Five===
+{{infobox hurricane small
+ |name=Hurricane Five
+| category=cat1
+| type=hurricane
+| image=1933 Atlantic hurricane 5 track.png
+| formed=[[July 25]]
+| dissipated=[[August 5]], [[1933]]
+| highest winds=90&nbsp;[[miles per hour|mph]] (140&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=981&nbsp;[[mbar]]
+}}
+On [[July 25]], two days after the remnants of Tropical Storm 4 dissipated, another tropical storm was detected. Located to the southeast of [[Antigua]], it tracked west-northwestward, passing near [[Saint Thomas, U.S. Virgin Islands|St. Thomas]] with winds of up to 60&nbsp;mph (95&nbsp;km/h). The storm strengthened and attained hurricane status the next day north of [[Puerto Rico]], and it continued its west-northwest movement. After moving through the northern [[Bahamas]], the hurricane struck near [[Fort Pierce, Florida]], with winds of 85&nbsp;mph (135&nbsp;km/h). 
+
+The hurricane crossed the state and weakened to minimal tropical storm intensity. It turned to the west-southwest and re-strengthened to a hurricane on [[August 4]] off the coast of [[Texas]]. It weakened again to tropical storm status and made its final landfall near [[Brownsville, Texas]], on [[August 5]] as a strong tropical storm. The system rapidly dissipated over northern [[Mexico]].<ref name="mwr"/>
+
+While moving over [[Saint Christopher]], the storm killed six people. Heavy rain was reported throughout the [[Virgin Islands]].<ref name="july261933">{{cite news|author=The Port Arthur News|publishdate=1933-07-26|title=Storm Strikes Island Group; Six Killed|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=j91JOupTOn+KID/6NLMW2oireyJhj9/dY1VnFwifLX4D85FYyBSQ4A==}}</ref> The hurricane caused the drowning of one person in the [[Bahamas]], and moderate winds produced severe structural damage to the buildings in the [[archipelago]].<ref name="july281933">{{cite web|author=Bismarck Tribune|publishdate=1933-07-28|title=Storm Hits Bahamas|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=wSCs6S0EhDCKID/6NLMW2qUCQ3Ru3x53R/ibi4RHAJydK7EiPu16aQ==}}</ref>
+In Florida, the National Weather Bureau issued storm warnings between [[Miami, Florida|Miami]] to [[Titusville, Florida|Titusville]], while [[List of governors of Florida|Governor]] [[David Sholtz]] issued a mandatory evacuation for 4,200&nbsp;residents in vulnerable areas around [[Lake Okeechobee]].<ref name="july301933">{{cite web|author=Port Arthur News|publishdate=1933-07-30|title=Tropical Storm Nears Florida|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=j91JOupTOn+KID/6NLMW2oireyJhj9/dY1VnFwifLX66FE7CLBICVg==}}</ref> Damage in Florida was minimal, limited to minor crops, roofs, and signs.<ref name=july311933">{{cite web|author=Times Herald|publishdate=1933-07-31|title=Florida Effects from Hurricane|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=wUP6BEk4rpmKID/6NLMW2viI7tHH0PFz1HYPxaUY79DTs29yjzQKTQ==}}</ref> In southern [[Texas]], the hurricane produced moderate damage of $500,000 (1933 USD), including disrupted telephone and telegraph lines.<ref name="aug51933">{{cite web|author=The Daily Northwestern|publishdate=1933-08-05|title=Tropical Hurricane Blows Self Out in Mountainous Region|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=MHMeTXbgRjuKID/6NLMW2v1J2GfSVUjj+SLNODwtcpdu/n7adn0Tkg==}}</ref>
+The hurricane produced high tides along the coast of Texas, covering parts of [[South Padre Island]],<ref name="texhis">{{cite web|author=David Roth|year=2000|title=Texas Hurricane History|publisher=National Weather Service|accessdate=2006-08-31|url=http://www.srh.noaa.gov/lch/research/txerly20hur3.php}}</ref> and heavy rains in northern Mexico caused heavy damage.<ref name="mwr"/>
+<div style="clear: both"></div>
+
+===Tropical Storm Six===
+{{infobox hurricane small
+ |name=Tropical Storm Six
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 6 track.png
+| formed=[[August 12]]
+| dissipated=[[August 20]], [[1933]]
+| highest winds=60&nbsp;[[miles per hour|mph]] (90&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=pressure unknown
+}}
+The sixth tropical storm of the season was first observed near [[Barbados]] on [[August 12]]. It quickly passed through the [[Lesser Antilles]] and slowly strengthened to reach a maximum strength of 60&nbsp;mph (95&nbsp;km/h) on [[August 15]]. After passing just south of [[Jamaica]], the storm turned to the northwest and crossed over both the [[Isle of Youth]] and western [[Cuba]] on [[August 18]]. It curved northward, made landfall on the [[Florida Panhandle]], and dissipated on [[August 20]] over southwestern [[Georgia (U.S. State)|Georgia]].<ref name="mwr"/> 
+
+The storm produced heavy rainfall in eastern Jamaica, including a record 24-hour total of 12.17 inches (309&nbsp;mm) in the Corporate Area.<ref name="aug171933">{{cite web|author=The Daily Gleaner|publishdate=1933-08-17|title=Hurricane Passes South of Island|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=P9SpTvomPU+KID/6NLMW2o3JQ+mIMY1lsicqePOCHKnUmHj5WP4tIA==}}</ref> This flooded and damaged properties and water systems in [[Kingston, Jamaica|Kingston]] and [[Saint Andrew Parish, Jamaica|Saint Andrew]], leading to a water famine until the water mains were fixed. Damage totaled to over $2.5&nbsp;million (1933  UD),<ref name="1933aug19">{{cite web|author=Winnipeg Free Press|publishdate=1933-08-19|title=Tail-end of Jamaica storm causes heavy damage on Trinidad|accessdate=2006-09-29|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=P9SpTvomPU+KID/6NLMW2o3JQ+mIMY1lsicqePOCHKnUmHj5WP4tIA==}}</ref> and 70&nbsp;people were reported killed due to the flooding.<ref name="deadliest"/> Damage was minimal in both Cuba and Florida.<ref name="mwr"/>
+<div style="clear: both"></div>
+
+===Tropical Storm Seven===
+{{infobox hurricane small
+ |name=Tropical Storm Seven
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 7 track.png
+| formed=[[August 16]]
+| dissipated=[[August 21]], [[1933]]
+| highest winds=40&nbsp;[[miles per hour|mph]] (65&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+On [[August 16]], the seventh tropical storm of the year was first sighted to the east of the [[Windward Islands]]. The system moved quickly to the west-northwest, followed by a turn to the west. It remained a minimal tropical storm for most of its lifetime, never gained significant intensity, and dissipated on [[August 21]] to the east of [[Honduras]].<ref name="unisys"/> 
+
+On [[Trinidad]], rainfall from Tropical Storms 6 and 7—the heaviest in 9&nbsp;years—caused rivers to overflow and flooded parts of the island. Several boats were damaged or driven ashore from rough seas. The two storms caused damage to fields, highways, and houses, and caused the loss of crops such as [[cocoa]] and [[banana]]s. In all, Storms 6 and 7 caused $3&nbsp;million (1933 USD) in damage and 13&nbsp;deaths on Trinidad.<ref name="1933aug19"/>
+<div style="clear: both"></div>
+
+===Hurricane Eight===
+{{infobox hurricane small
+ |name=Hurricane Eight
+| category=cat3
+| type=hurricane
+| image=1933 Atlantic hurricane 8 track.png
+| formed=[[August 17]]
+| dissipated=[[August 26]], [[1933]]
+| highest winds=120&nbsp;[[miles per hour|mph]] (195&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=971&nbsp;[[mbar]]
+}}
+{{hurricane main|1933 Chesapeake Potomac Hurricane}}
+A ship first reported the season's eighth tropical storm about 900&nbsp;miles (1450&nbsp;) east of [[Puerto Rico]] on [[August 17]]. This system would become one of the most destructive hurricanes of the season. The storm moved towards the northwest and quickly attained hurricane status late that same day. The hurricane continued to strengthen, and on [[August 21]], it passed about 150&nbsp;miles (240&nbsp;km) southwest of [[Bermuda]] as a [[Saffir-Simpson Hurricane Scale|Category 2 hurricane]]. [[St. George's, Bermuda|St. George's]] avoided a direct hit but reported wind speeds of up to 64&nbsp;mph (103&nbsp;km/h). On [[August 22]], the hurricane turned west-northwest and reached its peak intensity, with maximum sustained winds of 120&nbsp;mph (195&nbsp;km/h), equivalent to a Category 3 hurricane in the modern-day [[Saffir-Simpson Hurricane Scale]]. However, it weakened quickly afterwards. On [[August 23]], the storm made landfall on the [[Outer Banks]] of [[North Carolina]] as a Category 2 hurricane and continued to quickly weaken as it moved inland, away from its energy source.<ref name="NOAA1">{{cite web|author=Blake, Rappaport, and Landsea|year=2006|title=The Deadliest, Costliest, and Most Intense United States Tropical Cyclones (1851 to 2006)|publisher=NOAA|accessdate=2007-06-08|url=http://www.nhc.noaa.gov/pdf/NWS-TPC-5.pdf}}</ref> The storm turned to the north, then to the northeast, passing through [[Virginia]], [[Maryland]], and [[Pennsylvania]] before weakening to a tropical depression over [[New York]]. The system continued accelerating to the northeast and dissipated over the [[Gulf of Saint Lawrence]] on [[August 26]].<ref name="mwr"/>
+
+The hurricane caused damage ranging from moderate to severe in the corridor between North Carolina and New Jersey, due to high [[tide]]s and strong winds.<ref name="mwr"/> In the state of Maryland, the storm's effects resulted in severe crop damage, and many boats and piers were damaged or destroyed due to high tides and [[storm surge]].<ref name="mwr"/> The hurricane produced heavy rainfall along its path, with a peak of 13.28&nbsp;inches (337.3&nbsp;mm) in [[York, Pennsylvania]].<ref name="cphrain">{{cite web|author=David Roth|year=2006|title=Tropical Cyclone Point Maxima|publisher=Hydrometeorological Prediction Center|accessdate=2006-09-10|url=http://www.hpc.ncep.noaa.gov/tropical/rain/tcmaxima.html}}</ref> Overall, the hurricane caused $27&nbsp;million in damage (1933 USD, $360 million 2005 USD)<ref name="mwr"/> and 31&nbsp;deaths.<ref name="noaa">{{cite web|author=Roth & Cobb|year=2001|title=Virginia Hurricane History|publisher=[[National Oceanic and Atmospheric Administration]]|accessdate=2006-09-05|url=http://www.hpc.ncep.noaa.gov/research/roth/vaerly20hur.htm}}</ref><ref name="hc">{{cite web|author=Hurricanecity.com|year=2006|title=Ocean City, Maryland hurricanes|accessdate=2006-09-06|url=http://www.hurricanecity.com/city/oceancity.htm}}</ref>
+<div style="clear: both"></div>
+
+===Tropical Storm Nine===
+{{infobox hurricane small
+| name=Tropical Storm Nine
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 9 track.png
+| formed=[[August 24]]
+| dissipated=[[August 31]], [[1933]]
+| highest winds=50&nbsp;[[miles per hour|mph]] (85&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+A day after Hurricane 8 made landfall on the [[United States]], another tropical storm was observed on the [[Atlantic Ocean|Atlantic basin]] centered about 340&nbsp;miles (550&nbsp;km) northeast of [[Antigua]]. It moved northwestward for three days, slowly strengthening as it moved over the open ocean. The storm turned to the northeast and reached peak sustained winds of 50&nbsp;mph (80&nbsp;km/h) a short distance to the west of [[Bermuda]]. It began weakening shortly thereafter, and on [[August 30]] the storm became extratropical to the southeast of [[Newfoundland (island)|Newfoundland]]. It continued to the northeast and was last observed on [[August 31]] over the north-central Atlantic Ocean. It did not cause significant effects on land.<ref name="mwr"/><ref name="unisys"/>
+<div style="clear: both"></div>
+
+===Tropical Storm Ten===
+{{infobox hurricane small
+ |name=Tropical Storm Ten
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 10 track.png
+| formed=[[August 26]]
+| dissipated=[[August 29]], [[1933]]
+| highest winds=40&nbsp;[[miles per hour|mph]] (60&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+At approximately the same time on [[August 26]], another area of disturbed weather organized into the season's tenth tropical storm in the [[Bay of Campeche]]. It initially moved to the northwest. The cyclone remained a minimal tropical storm for most of its lifetime. On [[August 29]], the storm turned to the west-southwest and made landfall near Tampico, Mexico, dissipating shortly thereafter. The tropical storm caused heavy rains near the coast, although winds were minor. Due to uncertainty as to its course, tropical storm warnings were issued for portions of the southern [[Texas]] coastline.<ref name="mwr"/>
+<div style="clear: both"></div>
+
+===Hurricane Eleven===
+{{infobox hurricane small
+ |name=Hurricane Eleven
+| category=cat3
+| type=hurricane
+| image=1933 Atlantic hurricane 11 track.png
+| formed=[[August 28]]
+| dissipated=[[September 5]], [[1933]]
+| highest winds=125&nbsp;[[miles per hour|mph]] (200&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=949&nbsp;[[mbar]]
+}}
+On [[August 28]], the seventh tropical storm of the month was seen to the east of the northern [[Lesser Antilles]]. It tracked westward then turned to the west-northwest, strengthening as it passed to the north of the islands. On [[August 30]], the storm attained hurricane status as it approached the [[Turks and Caicos Islands|Turks & Caicos Islands]], continued to the west-northwest through the southern [[Bahamas]] and paralleled the northern coast of [[Cuba]]. From there, the system intensified to a [[Saffir-Simpson Hurricane Scale|Category 2]] hurricane to the north of [[Havana]] on [[September 1]]. It then entered the [[Gulf of Mexico]] and intensified into a major hurricane (defined as Category 3 or greater) on [[September 2]]. It continued westward and reached a peak intensity of 125&nbsp;mph (200&nbsp;km/h) on [[September 3]] for a period of about 41 hours. The hurricane maintained intensity as it approached the [[Texas]] coastline on [[September 4]],<ref name="NOAA1">{{cite web|author=Blake, Rappaport, and Landsea|year=2006|title=The Deadliest, Costliest, and Most Intense United States Tropical Cyclones (1851 to 2006)|publisher=NOAA|accessdate=2007-06-08|url=http://www.nhc.noaa.gov/pdf/NWS-TPC-5.pdf}}</ref> and it made landfall just north of [[Brownsville, Texas|Brownsville]] early on [[September 5]]. The system rapidly weakened as it moved through southern Texas and northeastern Mexico and dissipated within 24&nbsp;hours of making landfall.<ref name="mwr"/><ref name="unisys"/>
+
+Officials warned citizens along the Texas coastline to remain away from inaccessible places. Because it was predicted to strike on the [[Labor Day]] weekend, an estimated 6,000 to 10,000&nbsp;residents were feared to be in unreachable locations and potentially at risk.<ref name="mwr"/> [[Corpus Christi, Texas|Corpus Christi]] officials ordered a mandatory evacuation for residents in low-lying areas, declared [[martial law]], and set up shelters for the potentially affected citizens. Many businesses closed for what would otherwise have been a busy weekend.<ref name="corpus">{{cite web|author=Corpus Christi National Weather Service|year=2000|title=Hurricane #11, 1933|accessdate=2006-08-31|url=http://www.srh.noaa.gov/crp/docs/research/hurrhistory/1933-11.html}}</ref>
+
+In the Turks & Caicos islands, the hurricane produced winds of up to 56&nbsp;mph (90&nbsp;km/h) and a pressure of 996&nbsp;[[mbar]] (29.40&nbsp;[[inHg]]). The system produced 94&nbsp;mph (154&nbsp;km/h) winds and carried a pressure reading of 979&nbsp;mbar (28.91&nbsp;inHg) in [[Havana]]. Throughout Cuba, the hurricane caused damage of $11&nbsp;million (1933 USD) and killed 70&nbsp;people.<ref name="Cuba"/> In [[Key West, Florida|Key West]], the storm produced a 42&nbsp;mph (68&nbsp;km/h) winds and minor damage.<ref name="mwr"/> Brownsville suffered $1.75&nbsp;million (1933 USD) in damage, 40&nbsp;deaths, and 500&nbsp;injuries. In Corpus Christi, the storm damaged boats, created cuts in islands along the coast, and destroyed the [[causeway]] connecting [[Padre Island]] to the mainland.<ref name="corpus"/> Total damage in Texas amounted to $17&nbsp;million (1933 USD).<ref name="texhis"/> Throughout its lifespan, the hurricane killed 179&nbsp;people.<ref name="deadliest"/> Many businessmen who expected more severe damage were angry with the meteorologist in charge of the Corpus Christi station, although the National Weather Bureau confirmed that the preparations had been needed and had saved lives. Damage there totaled to $28&nbsp;million (1933 USD, $37&nbsp;million 2005 USD).<ref name="corpus"/>
+<div style="clear: both"></div>
+
+===Hurricane Twelve===
+{{infobox hurricane small
+ |name=Hurricane Twelve
+| category=cat4
+| type=hurricane
+| image=1933 Atlantic hurricane 12 track.png
+| formed=[[August 31]]
+| dissipated=[[September 7]], [[1933]]
+| highest winds=140&nbsp;[[miles per hour|mph]] (225&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=948&nbsp;[[mbar]]
+}}
+The eighth tropical storm in [[August]], and the seventh to form in 30 days, was first observed on [[August 31]] 225&nbsp;miles (360&nbsp;km) north-northeast of the island of [[Antigua]]. The storm rapidly intensified as it moved quickly to the west-northwest, attaining hurricane status later that day, and major hurricane strength on [[September 1]], while located to the north of [[Puerto Rico]]. It continued west-northwestward and attained its peak intensity, with maximum sustained winds of 140&nbsp;mph (225&nbsp;km/h), on [[September 2]]. The hurricane, then at Category 4 on the [[Saffir-Simpson Hurricane Scale]], moved through the northern Bahamas at peak intensity and weakened slightly before making landfall on [[Jupiter, Florida]], with winds of 125&nbsp;mph (200&nbsp;km/h) on [[September 4]]. The system weakened rapidly over [[Florida]] to tropical storm status, and after turning to the north, decelerated. The weakening storm slowly moved through [[Georgia (U.S. state)|Georgia]] before dissipating near the Georgia/[[South Carolina]] border on [[September 7]].<ref name="mwr"/> 
+
+On [[Eleuthera Island]], the Category 4 hurricane blew away the roofs of buildings, wrecked wharves, and lost boats. Hurricane warnings were issued for the eastern [[Florida]] coastline, and 3,000 people were evacuated around [[Lake Okeechobee]] to safer areas.<ref name="sept41933">{{cite news|author=Associated Press|publishdate=1933-09-04|title=Florida Coast is Lashed by Hurricane|accessdate=2006-10-01|url=http://www.thehurricanearchive.com/FullViewer.aspx?img=/TuInQ3tu5uKID/6NLMW2taMksCwxsVwi4UEBSRWt5/b8Taj/u51nA==}}</ref> In southeastern Florida, the strong winds broke many glass windows and downed trees and power lines; severe house damage was reported near the landfall location. The hurricane's powerful winds also severely damaged crops, including 4,000,000&nbsp;boxes of [[citrus]] fruit across the state.<ref name="mwr"/> In total, Florida suffered $2&nbsp;million (1933 USD) in damage and 2&nbsp;deaths.<ref name="Florida">{{cite web|author=Williams & Duedall|year=1997|title=Tropical storms and Hurricanes in Florida|accessdate=2006-09-01|url=http://nsgl.gso.uri.edu/flsgp/flsgpb97001.pdf}}</ref>
+<div style="clear: both"></div>
+
+===Hurricane Thirteen===
+{{infobox hurricane small
+ |name=Hurricane Thirteen
+| category=cat3
+| type=hurricane
+| image=1933 Atlantic hurricane 13 track.png
+| formed=[[September 8]]
+| dissipated=[[September 18]], [[1933]]
+| highest winds=120&nbsp;[[miles per hour|mph]] (195&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=957 [[mbar]]
+}}
+{{hurricane main|1933 Outer Banks Hurricane}}
+On [[September 8]], an area of disturbed weather to the east of the [[Lesser Antilles]] organized into a tropical storm. It moved north-northeastward, and after a turn to the northwest, the system intensified to hurricane strength on [[September 10]]. It steadily intensified and reached a peak strength of 120&nbsp;mph (195&nbsp;km/h) on [[September 15]]. It slowed as it turned to the north, striking southeastern [[North Carolina]] just west of [[Cape Hatteras, North Carolina|Cape Hatteras]] as a Category 3 hurricane.<ref name="NOAA1">{{cite web|author=Blake, Rappaport, and Landsea|year=2006|title=The Deadliest, Costliest, and Most Intense United States Tropical Cyclones (1851 to 2006)|publisher=NOAA|accessdate=2007-06-08|url=http://www.nhc.noaa.gov/pdf/NWS-TPC-5.pdf}}</ref> After moving through the [[Outer Banks]], the system accelerated to the northeast and became extratropical on [[September 18]] about halfway between [[Cape Cod]] and the southern tip of [[Nova Scotia]]. The extratropical storm passed over Nova Scotia, [[Newfoundland (island)|Newfoundland]], and [[Labrador]] before dissipating near [[Greenland]] on [[September 21]].<ref name="mwr"/>
+
+Strong winds from the hurricane downed trees and power lines in southeastern North Carolina, causing damage to many houses. The hurricane produced a storm surge that flooded coastal streets with 3 to 4&nbsp;feet (0.9–1.2&nbsp;m) of water. In all, the hurricane caused at least 21&nbsp;deaths, primarily due to drowning in high waters. Damage totaled to around $1&nbsp;million (1933 USD).<ref name="mwr"/>
+<div style="clear: both"></div>
+
+===Hurricane Fourteen===
+{{infobox hurricane small
+ |name=Hurricane Fourteen
+| category=cat1
+| type=hurricane
+| image=1933 Atlantic hurricane 14 track.png
+| formed=[[September 10]]
+| dissipated=[[September 15]], [[1933]]
+| highest winds=85 [[miles per hour|mph]] (215&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=960&nbsp;[[mbar]]
+}}
+On [[September 10]], as Hurricane 13 was intensifying over the waters of the Atlantic Ocean, another area of disturbed weather developed into a tropical storm over the western [[Caribbean Sea]] off the coast of [[Guatemala]]. It moved slowly northward and strengthened, becoming a hurricane on [[September 12]] just east of [[Belize]]. On the next day, the hurricane made landfall on the [[Mexico|Mexican]] state of [[Quintana Roo]], and the system weakened to a tropical storm as it moved northwestward across the [[Yucatán Peninsula]]. On [[September 14]] it again regained hurricane status over the [[Bay of Campeche]]. The hurricane struck [[Tampico]] on [[September 15]] and then dissipated.<ref name="mwr"/> 
+
+The storm caused severe damage in Tampico and further inland, leaving several thousand homeless. According to ''The New York Times'', at least 67&nbsp;people were killed. [[Tuxpan]], south of Tampico, also suffered heavy damage with many houses and office buildings destroyed. Total property losses were estimated at several million dollars.<ref>{{cite news|title=67 Mexicans Die In Storm|date=September 17, 1933|publisher=The New York Times}}</ref><div style="clear: both"></div>
+
+===Hurricane Fifteen===
+{{infobox hurricane small
+ |name=Hurricane Fifteen
+| category=cat2
+| type=hurricane
+| image=1933 Atlantic hurricane 15 track.png
+| formed=[[September 16]]
+| dissipated=[[September 25]], [[1933]]
+| highest winds=110&nbsp;[[miles per hour|mph]] (175&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=962&nbsp;[[mbar]]
+}}
+On the other side of the [[Caribbean Sea]], the 15th tropical storm was first observed on [[September 16]] to the east of the southern [[Leeward Islands]]. The cyclone tracked to the west-northwest through the islands, slowly strengthening to hurricane strength on [[September 20]] near [[Jamaica]]. Continuing west-northwestward, the hurricane reached Category 2 status and made landfall 40&nbsp;miles (65&nbsp;km) south of [[Cozumel Island]] on [[September 22]]. The hurricane weakened slightly over the [[Yucatán Peninsula]] then re-strengthened over the Gulf of Mexico to reach a peak intensity of 110&nbsp;mph (175&nbsp;km/h) on [[September 24]]. Only a week after Hurricane 14 had hit there, the storm made landfall near [[Tampico]]. It dissipated on [[September 25]] over Mexico.<ref name="mwr"/>
+
+Near Jamaica, the hurricane caused rough seas, although damage, if any, is unknown.<ref name="mwr"/> While moving across the Yucatán Peninsula, the storm produced heavy rainfall and strong winds. In [[Cozumel]], the winds destroyed a 300-foot (91&nbsp;m) pier and several buildings. Rough seas sunk several ships, and one person drowned. The rainfall caused several rivers to overflow, causing flooding and damage to roads and railroads in the state of [[Veracruz]].<ref name="sept221933">{{cite news|author=Associated Press|publishdate=1933-09-22|title=Storm Crossing Yucatan; Damage Reported Heavy|accessdate=2006-10-01}}</ref> Many people in low-lying areas around Tampico evacuated for the storm.<ref name="sept231933">{{cite news|author=AP|publishdate=1933-09-23|title=Storm Moving Through Gulf|accessdate=2006-10-01}}</ref> 
+
+Reports indicate much of the city of Tampico was destroyed, and the total number of deaths and injuries amounted to over 5,000. Most of the deaths occurred from flood waters, which were 10 to 15&nbsp;feet (3.0–4.6&nbsp;m) deep and covered the entire city;<ref name="sept261933">{{cite news|author=Associated Press|publishdate=1933-09-26|title=Port City of Mexico Destroyed by Storm|accessdate=2006-10-01}}</ref> many bodies were washed out to sea, and were never recovered. The flooding washed out [[road]]s and [[railroad]]s, delaying relief efforts into the devastated area. Water and food supplies in and around Tampico were damaged or contaminated, resulting in a threat of famine or disease that further aggravated the situation.<ref name="gdsept281933">{{cite news|author=Galveston Daily News|publishdate=1933-09-28|title=Storm Relief|accessdate=2006-10-01}}</ref> Torrential rains caused more flooding, and the powerful winds damaged or destroyed nearly every building in the city and left many homeless.<ref name="sept28ap">{{cite news|author=Associated Press|publishdate=1933-09-28|title=Tampico Flooded After Hurricane|accessdate=2006-10-01}}</ref> The strong winds downed numerous power lines, leaving the entire city in blackout, and destroyed two large water towers. There were at least 10&nbsp;cases of looting; all of the perpretators were executed. Damage in and around Tampico totaled to over $10&nbsp;million (1933 USD),<ref name="sept291933">{{cite news|author=The Hammond Times|publishdate=1933-09-29|title=Tampico Hurricane|accessdate=2006-10-01}}</ref> and the storm killed over 184&nbsp;people.<ref name="deadliest"/>
+
+The thousands of victims took refuge in churches, theatres, and public buildings. Immediately after the storm, the Mexican military placed the city under [[martial law]].<ref name="sept291933"/> Military and federal authorities dispatched trains with food, water, and medicine,<ref name="sept28ap"/> and planes bearing engineers and doctors. [[List of Presidents of Mexico|Mexican president]] [[Abelardo L. Rodríguez]] rallied citizens to aid the affected people in the storm area. The local chamber of deputies allowed $140,000 (1933 USD) in funds for the storm victims.<ref name="gdsept281933"/>
+<div style="clear: both"></div>
+
+===Tropical Storm Sixteen===
+{{infobox hurricane small
+ |name=Tropical Storm Sixteen
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 16 track.png
+| formed=[[September 27]]
+| dissipated=[[October 4]], [[1933]]
+| highest winds=45&nbsp;[[miles per hour|mph]] (70&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=960&nbsp;[[mbar]]
+}}
+On [[September 27]], a small tropical storm was seen about 290&nbsp;miles (460&nbsp;km) east of [[Saint Kitts]]. This sixteenth storm moved quickly westward and passed between St. Kitts and [[Saint Martin|St. Martin]] later that night. On [[September 28]], the cyclone passed to the south of [[Puerto Rico]] and reached its peak intensity of 45&nbsp;mph (70&nbsp;km/h). It continued quickly westward and hit the southern tip of the [[Dominican Republic]] on [[September 29]]. Later that night, it hit [[Jacmel]] in southwestern [[Haiti]] as a minimal tropical storm. The system turned abruptly to the northeast and weakened to a tropical depression. It then hit northwestern Haiti near [[Gonaïves]] on [[September 30]]. The circulation center dissipated shortly thereafter. Remnants moved to the northwest and dissipated on [[October 4]].<ref name="mwr"/><ref name="unisys"/>
+<div style="clear: both"></div>
+
+===Tropical Storm Seventeen===
+{{infobox hurricane small
+ |name=Tropical Storm Seventeen
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 17 track.png
+| formed=[[September 28]]
+| dissipated=[[September 30]], [[1933]]
+| highest winds=40&nbsp;[[miles per hour|mph]] (60&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+
+The seventeenth tropical storm of the season developed on [[September 28]] from an area of disturbed weather to the east of [[Costa Rica]]. It tracked to the north-northwest and passed near [[Cabo Gracias a Dios]] early on [[September 29]]. The storm turned to the west into the [[Gulf of Honduras]], and on [[September 30]], it made landfall on east-central [[Belize]]. Shortly thereafter, the system dissipated.<ref name="mwr"/><ref name="unisys"/><div style="clear: both"></div>
+
+===Hurricane Eighteen===
+{{infobox hurricane small
+| name=Hurricane Eighteen
+| category=cat4
+| type=hurricane
+| image=1933 Atlantic hurricane 18 track.png
+| formed=[[October 1]]
+| dissipated=[[October 9]], [[1933]]
+| highest winds=150&nbsp;[[miles per hour|mph]] (240&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=971&nbsp;[[mbar]]
+}}
+
+As the calendar turned to October, a persistent area of disturbed weather about 85&nbsp;miles (135&nbsp;km) north of [[Colón, Panama]] developed into a tropical storm on the first day of the month. It moved northward and steadily intensified, becoming a hurricane on [[October 3]] just west of [[Jamaica]]. The hurricane turned to the north-northwest and hit the [[Cuba]]n province of [[Havana Province|La Habana]] with winds of 110&nbsp;mph (175&nbsp;km/h) on [[October 4]]. The hurricane passed over [[Havana]] and turned to the northeast and strengthened, becoming a major hurricane as it moved through the [[Florida Keys]]. The hurricane reached a peak intensity of 150&nbsp;mph (240&nbsp;km/h) while passing through the [[Bahamas]] on [[October 6]], becoming the strongest recorded storm of the season—just 6&nbsp;mph (10&nbsp;km/h) below the threshold for the modern maximum of [[Saffir-Simpson Hurricane Scale|Category 5]]. The hurricane weakened as it accelerated to the northeast, and it became extratropical on [[October 8]] to the south of [[Nova Scotia]]. It paralleled the Nova Scotia coast, turned to the east-southeast, and lost its tropical characteristics on [[October 9]] over the open north [[Atlantic Ocean]].<ref name="unisys"/> 
+
+In [[Cuba]], people boarded up numerous buildings, and emergency workers assisted authorities in spreading the word about the impending storm; residents in vulnerable areas evacuated to shelters on higher ground. The hurricane's powerful winds destroyed several houses in [[Camagüey]], and heavy rainfall overflowed numerous rivers in low-lying districts.<ref name="oct41933">{{cite web|author=United Press International|publishdate=1933-10-04|title=Hurricane Aims for Florida, Cuba|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=44969370&firstvisit=true&currentResult=0&currentPage=0}}</ref> The winds damaged and disrupted telephone and telegraph lines and injured a few people in [[Havana]]. Despite government orders for police to kill any looters, large-scale looting occurred in Havana after the storm. Two looters were shot to death, and a third was injured. Two civilians were also wounded by snipers who fired to disperse thieves.<ref name="oct51933">{{cite web|author=AP|publishdate=1933-10-05|title=Tropical Storm Moves Northeast into the Ocean|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=8258004&firstvisit=true&currentResult=2&currentPage=0}}</ref>  
+Residents in southeast [[Florida]] boarded up for the storm while the National Weather Bureau issued storm warnings for portions of the coastline.<ref name="oct41933"/> The hurricane produced strong winds and rain in the [[Florida Keys]] and extreme southern Florida, but damage was minimal.<ref name="oct51933"/> In northwest [[Miami, Florida|Miami]], the hurricane spawned a tornado that damaged three houses and injured two.<ref name="oct51933ap">{{cite news|author=AP|publishdate=1933-10-05|title=Tropical Hurricane Hits Key West, but then Veers to Sea|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=4592424&firstvisit=true&currentResult=9&currentPage=0}}</ref> Damage in the Bahamas is unknown.
+<div style="clear: both"></div>
+
+===Hurricane Nineteen===
+{{infobox hurricane small
+ |name=Hurricane Nineteen
+| category=cat2
+| type=hurricane
+| image=1933 Atlantic hurricane 19 track.png
+| formed=[[October 25]]
+| dissipated=[[November 7]], [[1933]]
+| highest winds=105&nbsp;[[miles per hour|mph]] (170&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+After a two-week period of inactivity, a tropical storm was detected in the western [[Caribbean Sea]] on [[October 25]]. It moved to the east-northeast then curved to the northwest while slowly intensifying. On [[October 29]], it strengthened into a hurricane near [[Jamaica]] and reached peak winds of 105&nbsp;mph (170&nbsp;km/h) before striking the western portion of the island. The hurricane turned to the northeast and weakened. It made landfall on southeastern [[Cuba]] as a strong tropical storm on [[October 31]]. The weakening storm changed its course to the north-northwest, as it drifted through Cuba and the [[Bahamas]]. On [[November 4]] the storm turned once more to the northeast, accelerated, and became extratropical on [[November 7]] near [[Bermuda]].<ref name="unisys"/>
+
+While drifting over western [[Jamaica]], the hurricane dropped heavy precipitation and produced strong winds, which severely damaged the banana crop.<ref name="oct301933">{{cite web|author=The Daily Gleaner|publishdate=1933-10-30|title=Struck!|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=15927757&firstvisit=true&currentResult=0&currentPage=0}}</ref> The rainfall caused mudslides, downed trees, and disrupted road and rail traffic and telegraph services.<ref name="oct301933b>{{cite news|author=The Daily Gleaner|publishdate=1933-10-02|title=Storm Sweeps over the West of the Island Doing Damage|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=15927752&firstvisit=true&currentResult=2&currentPage=0}}</ref>  The hurricane destroyed or severely damaged hundreds of homes, leaving hundreds to thousands homeless. Twenty-three people were killed in Jamaica.<ref name="nov21933">{{cite web|author=The Daily Gleaner|publishdate=1933-11-02|title=Hurricane Sufferers in the West are Calling for Help|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=34145079&firstvisit=true&currentResult=0&currentPage=0}}</ref> The storm dropped heavy rainfall in Cuba, as well, though damage there is unknown.<ref name="nov11933">{{cite web|author=Daily Gleaner|publishdate=1933-11-01|title=The Wonder Year|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=34145065&firstvisit=true&currentResult=0&currentPage=0}}</ref>
+
+<div style="clear: both"></div>
+
+===Tropical Storm Twenty===
+{{infobox hurricane small
+ |name=Tropical Storm Twenty
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 20 track.png
+| formed=[[October 26]]
+| dissipated=[[October 30]], [[1933]]
+| highest winds=70&nbsp;[[miles per hour|mph]] (110&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+Almost simultaneous to Hurricane 19, a tropical storm developed a short distance east of the central [[Bahamas]] on [[October 26]]. It moved north-northeastward, then northeastward, steadily strengthening along its path. On [[October 27]], a [[atmospheric pressure|barometric pressure]] of 993&nbsp;[[mbar]] (29.32&nbsp;inHg) was recorded within the storm, and on [[October 28]] the storm reached a peak intensity of 70&nbsp;mph (110&nbsp;km/h). On [[October 29]], the storm became [[extratropical cyclone|extratropical]] and turned north to hit [[Nova Scotia]]. Wedged between two [[ridge (meteorology)|high pressure systems]], it continued northward until dissipating over extreme eastern portions of [[Quebec]] on [[October 30]].<ref name="octmwr">{{cite web|author=Willis E. Hurd|year=1933|title=Weather of the Atlantic and Pacific Oceans|publisher=Marine Division|accessdate=2006-09-07|url=http://docs.lib.noaa.gov/rescue/mwr/061/mwr-061-10-0309b.pdf}}</ref> 
+
+In [[City of Halifax|Halifax, Nova Scotia]], the storm's moderately powerful winds downed telephone and telegraph wires and uproofed several buildings. Heavy seas caused by the storm damaged or destroyed many boats, and rainfall flooded highways across the province.<ref name="oct301933canada">{{cite web|author=UP|publishdate=1933-10-30|title=Hurricane Leaves Path of Wreckage Across Nova Scotia|accessdate=2006-10-02|url=http://www.thehurricanearchive.com/Viewer.aspx?img=39727926&firstvisit=true&currentResult=1&currentPage=0}}</ref>
+<div style="clear: both"></div>
+
+===Tropical Storm Twenty-One===
+{{infobox hurricane small
+ |name=Tropical Storm Twenty-One
+| category=storm
+| type=tropical storm
+| image=1933 Atlantic tropical storm 21 track.png
+| formed=[[November 15]]
+| dissipated=[[November 17]], [[1933]]
+| highest winds=40&nbsp;[[miles per hour|mph]] (65&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=Pressure unknown
+}}
+
+After another calm period, the final tropical storm of the season was first observed on [[November 15]] in the southwestern [[Caribbean Sea]]. It moved slowly westward, never strengthening beyond a minimal tropical storm in its short lifetime. On [[November 16]], it struck the southeastern coast of [[Nicaragua]], and it dissipated soon after on [[November 17]].<ref name="unisys"/>
+<div style="clear: both"></div>
+
+==Accumulated Cyclone Energy Rating (ACE)==
+
+The table below shows the [[Accumulated Cyclone Energy|ACE]] for each storm in the season. Broadly speaking, the ACE is a measure of the power of the hurricane multiplied by the duration of its lifetime; thus, hurricanes that lasted a long time (such as Thirteen and Eighteen) have higher ACEs. The ACE rating is only calculated for full advisories on tropical systems at or exceeding 35 knots (39 mph/63 km/h) or tropical storm strength.
+ 
+{|class="wikitable" align=right|)
+|-
+!colspan=9|ACE (10<sup>4</sup> kt²) – Storm<ref name="hurdat">{{cite web|author=Hurricane Research Division|year=2006|title=Best Track of Atlantic tropical cyclones (1851–2005)|publisher=National Oceanic and Atmospheric Administration|accessdate=2006-10-04|url=http://www.aoml.noaa.gov/hrd/hurdat/easyhurdat_5105.html}}</ref>
+|-
+! 1
+| 26.37 || [[1933 Outer Banks Hurricane|Thirteen]]
+! 2
+| 22.42  || Eighteen
+! 3
+| 21.96 || Eleven
+|-
+! 4
+| 20.80 || Two
+! 5
+| 20.46 || Twelve
+! 6
+| 18.47 || [[1933 Chesapeake Potomac Hurricane|Eight]]
+|-
+! 7
+| 17.91 || Five
+! 8
+| 17.29 || Fifteen
+! 9
+| 12.75 || Nineteen
+|-
+! 10
+| 7.08 || Fourteen
+! 11
+| 6.04 || Six
+! 12
+| 3.76 || Three
+|-
+! 13
+| 3.72 || Nine
+! 14
+| 2.76 || One
+! 15
+| 2.41 || Twenty
+|-
+! 16
+| 1.83 || Seven
+! 17
+| 1.73 || Thirteen
+! 18
+| 1.65 || Four
+|-
+! 19
+| 1.47 || Ten
+! 20
+| 1.22 || Seventeen
+! 21
+| .857 || Twenty-one
+|-
+!colspan=9| Total=212.967 (213)
+|}
+
+==See also==
+*[[List of notable Atlantic hurricanes]]
+*[[List of Atlantic hurricane seasons]]
+*[[1925-1949 Pacific hurricane seasons|1933 Pacific hurricane season]]
+
+==External links==
+*[http://www.aoml.noaa.gov/general/lib/lib1/nhclib/mwreviews/1933.pdf Monthly Weather Review]
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+<div style="clear: both"></div>
+<div style="margin-left:-1.0em; margin-right: -1.0em"><div style="background-color: #EEEEEE; padding-bottom: 0.25em; padding-top: 0.25em; padding-left: 0.1em; padding-right: 1em; border-bottom: 1px solid #AAAAAA; border-top: 1px solid #AAAAAA"><table cellpadding="5" style="background-color: #EEEEEE; text-align: center; margin: auto;"><tr><td><center>'''Tropical cyclones of the 1933 Atlantic hurricane season'''</center><table cellpadding="0" cellspacing="0" style="background-color: #EEEEEE; text-align: center; margin: auto; font-size: 90%;"><tr>
+
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=One
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_One
+|storminitial=1
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat2}}
+|stormname=Two
+|strength=Category 2
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Two
+|storminitial=2
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Three
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Three
+|storminitial=3
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Four
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Four
+|storminitial=4
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat1}}
+|stormname=Five
+|strength=Category 1
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Five
+|storminitial=5
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Six
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Six
+|storminitial=6
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Seven
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Seven
+|storminitial=7
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat3}}
+|stormname=Eight
+|strength=Category 3
+|linkname=1933 Chesapeake Potomac Hurricane 
+|storminitial=8
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Nine
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Nine
+|storminitial=9
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Ten
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Ten
+|storminitial=10
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat3}}
+|stormname=Eleven
+|strength=Category 3
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Eleven
+|storminitial=11
+}}
+</tr>
+<tr><td><!--pixel-wide gap--></td></tr>
+<tr>
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat4}}
+|stormname=Twelve
+|strength=Category 4
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Twelve
+|storminitial=12
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat3}}
+|stormname=Thirteen
+|strength=Category 3
+|linkname=1933 September Hurricane
+|storminitial=13
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat1}}
+|stormname=Fourteen
+|strength=Category 1
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Fourteen
+|storminitial=14
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat2}}
+|stormname=Fifteen
+|strength=Category 2
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Fifteen
+|storminitial=15
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Sixteen
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Sixteen
+|storminitial=16
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Seventeen
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Seventeen
+|storminitial=17
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat4}}
+|stormname=Eighteen
+|strength=Category 4
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Eighteen
+|storminitial=18
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|cat2}}
+|stormname=Nineteen
+|strength=Category 2
+|linkname=1933_Atlantic_hurricane_season#Hurricane_Nineteen
+|storminitial=19
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Twenty
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Twenty
+|storminitial=20
+}}
+{{Hurricane_season_bar_button
+|buttonspacing=0.25em
+|intensity={{Storm_colour|storm}}
+|stormname=Twenty-One
+|strength=Tropical Storm
+|linkname=1933_Atlantic_hurricane_season#Tropical_Storm_Twenty-one
+|storminitial=21
+}}
+{{Hurricane_season_bar_end}}
+
+{{featured article}}
+{{1930-1939 Atlantic hurricane seasons}}
+
+[[Category:Atlantic hurricane seasons|1933]]
+[[Category:1933 Atlantic hurricane season|*]]
+
+[[nl:Atlantisch orkaanseizoen 1933]]

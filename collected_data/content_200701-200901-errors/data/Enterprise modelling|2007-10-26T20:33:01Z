@@ -1,0 +1,41 @@
+'''Enterprise modelling''' is the process of improving the enterprise performance through the creation of enterprise models. This includes the modelling of both [[business process]]es and [[information technology|IT]].
+
+== Overview ==
+An enterprise model is a computational representation of the structure, activities, processes, information, resources, people, behavior, goals, and constraints of a business, government, or other enterprises.  Thomas Naylor (Naylor,T. 1970) defines a model as ". . . an attempt to describe the interrelationships among a corporation's financial, marketing, and production activities in terms of a set of mathematical and logical relationships which are programmed into the computer." These interrelationships should (according to Gershefski) represent in detail all aspects of the firm including ". . . the physical operations of the company, the accounting and financial practices followed, and the response to investment in key areas" (Gershefski,G. 1971 : 44). 
+
+The [[RM-ODP]] reference model identifies enterprise modelling as providing one of the five viewpoints of an open distributed system.
+
+The modelling of the enterprise network could facilitate the creation of enhanced understanding of the business processes of the extended enterprise and relations that extend across the boundaries of the enterprise.
+
+This way a fast understanding can be achieved throughout the enterprise about how business functions are working and how they depend upon other functions in the organization.
+
+== Types of Enterprise modelling ==
+=== Economic modelling ===
+{{main|Economic model}}
+The modelling of the enterprise network could facilitate the creation of enhanced understanding of the business processes of the extended enterprise and relations that extend across the boundaries of the enterprise. A particularly effective form of enterprise modelling is concerned with the definition of statements of purpose and the derivation of human activity systems. In an organisational context these Human Activity Systems become conceptual Enterprise Models, whereas in a programme and project management context they are known as Programme Blueprints, each representing what needs to be done to achieve the stated purpose. Enterprise models derived in this way are useful tools for conducting organisational reviews, information analysis and business systems alignment. 
+
+=== Soft Systems Methodology (SSM) ===
+{{main|Soft systems methodology}}
+Enterprise modelling has been developed by as a variant of Soft Systems Methodology by [[Brian Wilson (systems)|Brian Wilson]] He also developed an Enterprise Model entitled Vision Realisation in support of the Office of Government Commerce's (OGC) methodology for programme management, i.e. Managing Successful Programmes (MSP) and applied his approach in a large number of public and private organisations, e.g. MoD, NHS, DWP, British Telecom, BAE Systems, Hachette Livre UK, etc.
+
+=== Other techniques ===
+There are several techniques for modelling the enterprise such as Active Knowledge Modelling, Process modelling ([[CIMOSA]], PERA, [[LOVEM]], DYA, etc.), [[Object-Oriented Modeling]], and modelling the enterprise with [[multi-agent systems]].
+
+== See also ==
+*[[Enterprise architecture]]
+
+== References ==
+{{Unreferenced|date=October 2007}}
+
+== Further reading ==
+* Gershefski, G. (1971) "What's happening in the world of corporate models?", ''Interfaces'', Vol 1, No 4.
+* Naylor, T. (1970) ''Corporate simulation models and the economic theory of the firm'', in Schrieber, A. (editor) "Corporate simulation models", University of Washington Press, Seattle, 1970, pp 1-35.
+* Rosenkranz, F. (1979) ''An Introduction to Corporate Modelling'', Duke University Press, Durham NC, ISBN 0-8223-0426-0
+* Vernadat, F.B. (1996) Enterprise Modeling and Integration: Principles and Applications, Chapman & Hall, London, ISBN 0-412-60550-3
+* Wilson, B. (2001) Soft Systems Methodology, Conceptual Modelling and its Contribution, Wiley, ISBN 0-471-89489-3
+* Wilson, B. (1980, 1990) Systems: Concepts Methodologies and Applications (2Ed), Wiley,
+
+[[Category:Business terms]]
+[[Category:Enterprise modelling]]
+[[Category:Scientific modeling]]
+[[Category:Systems engineering]]

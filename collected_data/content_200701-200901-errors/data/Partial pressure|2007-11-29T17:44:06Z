@@ -1,0 +1,229 @@
+In a mixture of [[ideal gas]]es, each gas has a '''partial pressure''' which is the pressure which the gas would have if it alone occupied the volume. The total pressure of a gas mixture is the sum of the partial pressures of each individual gas in the mixture.
+
+In [[chemistry]], the partial pressure of a [[gas]] in a mixture of gases is defined as above. The partial pressure of a gas dissolved in a liquid is the partial [[pressure]] of that gas which would be generated in a gas phase in equilibrium with the liquid at the same temperature.<ref name=UIUC>[http://www.life.uiuc.edu/crofts/bioph354/thermo_eq.htm University of Illinois class notes on thermodynamics]</ref> The partial pressure of a gas is a measure of thermodynamic activity of the gas's [[molecule]]s. Gases will always flow from a region of higher partial pressure to one of lower pressure; the larger this difference, the faster the flow. Gases dissolve, diffuse, and react according to their partial pressures, and not necessarily according to their [[concentration]]s in a gas mixture
+
+==Dalton's law of partial pressures==
+{{main|Dalton's law}}
+
+The pressure of an [[ideal gas]] in a mixture is equal to the pressure it would exert if it occupied the same volume alone at the same temperature. This is because ideal gas molecules are so far apart that they don't interfere with each other at all. Actual real-world gases come very close to this ideal.
+
+A consequence of this is that the total pressure of a mixture of ideal gases is equal to the sum of the partial pressures of the individual gases in the mixture as stated by [[Dalton's law]].<ref>[http://undergrad-ed.chemistry.ohio-state.edu/chemapplets/GasLaws/DaltonsLaw.html Chemistry notes at Ohio Sate University]</ref> For example, given an ideal gas mixture of [[nitrogen]] (N<sub>2</sub>), [[hydrogen]] (H<sub>2</sub>) and  [[ammonia]] (NH<sub>3</sub>):
+
+:<math>P = P_{{\mathrm{N}}_2} + P_{{\mathrm{H}}_2} + P_{{\mathrm{NH}}_3}</math>
+
+{| border="0" cellpadding="2"
+|-
+|align=right|where:
+|&nbsp;
+|-
+!align=right|<math>P \,</math>  
+|align=left|= total pressure of the gas mixture
+|-
+!align=right|<math>P_{{\mathrm{N}}_2}</math>
+|align=left|= partial pressure of nitrogen (N<sub>2</sub>)
+|-
+!align=right|<math>P_{{\mathrm{H}}_2}</math>
+|align=left|= partial pressure of hydrogen (H<sub>2</sub>)
+|-
+!align=right|<math>P_{{\mathrm{NH}}_3}</math>
+|align=left|= partial pressure of ammonia (NH<sub>3</sub>)
+|}
+
+==Ideal gas mixtures==
+
+The [[mole fraction]] of an individual gas component in an ideal gas mixture can be expressed in terms of the component's partial pressure or the [[mole (unit)|moles]] of the component:
+
+:<math>x_{\mathrm{i}} = \frac{P_{\mathrm{i}}}{P} = \frac{n_{\mathrm{i}}}{n}</math>
+
+and the partial pressure of an individual gas component in an ideal gas can be obtained using this expression:
+
+:<math>P_{\mathrm{i}} = x_{\mathrm{i}} \cdot P</math>
+
+{| border="0" cellpadding="2"
+|-
+|align=right|where:
+|&nbsp;
+|-
+!align=right|<math>x_{\mathrm{i}}</math>  
+|align=left|= mole fraction of any individual gas component in a gas mixture
+|-
+!align=right|<math>P_{\mathrm{i}}</math>
+|align=left|= partial pressure of any individual gas component in a gas mixture
+|-
+!align=right|<math>n_{\mathrm{i}}</math>
+|align=left|= moles of any individual gas component in a gas mixture
+|-
+!align=right|<math>n</math>
+|align=left|= total moles of the gas mixture
+|-
+!align=right|<math>P</math>
+|align=left|= pressure of the gas mixture
+|}
+
+The mole fraction of a gas component in a gas mixture is equal to the volumetric fraction of that component in a gas mixture.<ref>[http://granular.che.pitt.edu/~mccarthy/che0035/MB/single/ideal.html Pittsburgh University chemical engineering class notes]</ref>
+
+== Vapor pressure ==
+
+{{main|Vapor pressure}}
+
+[[Image:Vapor Pressure Chart.png|thumb|right|301 px|A typical vapor pressure chart for various liquids]]
+
+[[Vapor pressure]] is the pressure of a [[vapor]] in equilibrium with its non-vapor phases (i.e., liquid or solid). Most often the term is used to describe a [[liquid]]'s tendency to [[evaporate]].  It is a measure of the tendency of [[molecule]]s and [[atom]]s to escape from a liquid or a [[solid]]. A liquid's atmospheric pressure boiling point corresponds to the temperature at which its vapor pressure is equal to the surrounding atmospheric pressure and it is often called the '''normal boiling point'''.
+
+The higher is the vapor pressure of a liquid at a given temperature, the lower is the normal boiling point of the liquid.
+
+The vapor pressure chart to the right has graphs of the vapor pressures versus temperatures for a variety of liquids.<ref>{{cite book|author=Perry, R.H. and Green, D.W. (Editors)|title=[[Perry's  Chemical Engineers' Handbook]]|edition=7th Edition|publisher=McGraw-Hill|year=1997|id= ISBN 0-07-049841-5}}</ref> As can be seen in the chart, the liquids with the highest vapor pressures have the lowest normal boiling points. 
+
+For example, at any given temperature, [[propane]] has the highest vapor pressure of any of the liquids in the chart. It also has the lowest normal boiling point(-43.7 °C), which is where the vapor pressure curve of propane (the purple line) intersects the horizontal pressure line of one atmosphere ([[Atmosphere (unit)|atm]]) of absolute vapor pressure.
+
+==Equilibrium constants of reactions involving gas mixtures== 
+It is possible to work out the [[equilibrium constant]] for a chemical reaction involving a mixture of gases given the partial pressure of each gas and the overall reaction formula. For a reversible reaction involving gas reactants and gas products, such as:<br><br>
+
+:<math>a\,A + b\,B \leftrightarrow c\,C + d\,D</math>
+
+the equilibrium constant of the reaction would be:
+
+:<math>K_P = \frac{P_C^c\, P_D^d} {P_A^a\, P_B^b}</math>
+
+{| border="0" cellpadding="2"
+|-
+|align=right|where:
+|&nbsp;
+|-
+!align=right|<math>K_P</math>
+|align=left|= &nbsp;the equilibrium constant of the reaction
+|-
+!align=right|<math>a</math>  
+|align=left|= &nbsp;coefficient of reactant <math>A</math>
+|-
+!align=right|<math>b</math>
+|align=left|= &nbsp;coefficient of reactant <math>B</math>
+|-
+!align=right|<math>c</math>  
+|align=left|= &nbsp;coefficient of product <math>C</math>
+|-
+!align=right|<math>d</math>
+|align=left|= &nbsp;coefficient of product <math>D</math>
+|-
+!align=right|<math>P_C^c</math>
+|align=left|= &nbsp;the partial pressure of <math>C</math> raised to the power of <math>c</math>
+|-
+!align=right|<math>P_D^d</math>
+|align=left|= &nbsp;the partial pressure of <math>D</math> raised to the power of <math>d</math>
+|-
+!align=right|<math>P_A^a</math>
+|align=left|= &nbsp;the partial pressure of <math>A</math> raised to the power of <math>a</math>
+|-
+!align=right|<math>P_B^b</math>
+|align=left|= &nbsp;the partial pressure of <math>B</math> raised to the power of <math>b</math>
+|}
+
+For reversible reactions, changes in the total pressure, temperature or reactant concentrations will shift the [[Chemical equilibrium|equilibrium]] so as to favor either the right or left side of the reaction in accordance with [[Le Chatelier's Principle]]. However, the [[Chemical kinetics|reaction kinetics]] may either oppose or enhance the equilibrium shift. In some cases, the reaction kinetics may be the over-riding factor to consider.
+
+==Henry's Law and the solubility of gases==
+{{main|Henry's Law}}
+
+Gases will [[solvation|dissolve]] in [[liquid]]s to an extent that is determined by the equilibrium between the undissolved gas and the gas that has dissolved in the liquid (called the [[solvent|''solvent'']]).<ref name=psigate>[http://www.intute.ac.uk/sciences/reference/plambeck/chem2/p01182.htm  Intute University Introductory Chemistry]</ref> The equilibrium constant for that equilibrium is: 
+
+:(1) &nbsp; &nbsp; <math>k = \frac {P_X}{C_X}</math> 
+
+:{| border="0" cellpadding="2"
+|-
+|align=right|where:
+|&nbsp;
+|-
+!align=right|<math>k</math>
+|align=left|= &nbsp;the equilibrium constant for the [[solvation]] process
+|-
+!align=right|<math>P_X</math>
+|align=left|= &nbsp;partial pressure of gas <math>X</math> in equilibrium with a [[solution]] containing some of the gas 
+|-
+!align=right|<math>C_X</math>
+|align=left|= &nbsp;the concentration of gas <math>X</math> in the liquid solution
+|}
+
+The form of the equilibrium constant shows that '''the concentration of a [[solute]] gas in a solution is directly proportional to the partial pressure of that gas above the solution'''. This statement is known as [[Henry's Law]] and the equilibrium constant <math>k</math> is quite often referred to as the Henry's Law constant.<ref name=psigate/><ref>[http://www.udel.edu/pchem/C443/Lectures/Lecture33.pdf University of Delaware physical chemistry lecture]</ref><ref>[http://www.owlnet.rice.edu/~chem312/Class%20Summaries/Class12.html Rice University chemistry class notes]</ref>
+
+Henry's Law is sometimes written as:<ref name=UArizona>[http://www.chem.arizona.edu/~salzmanr/103a004/nts004/l41/l41.html University of Arizona chemistry class notes]</ref>
+
+:(2) &nbsp; &nbsp; <math>k' = \frac {C_X}{P_X}</math> 
+
+where <math>k'</math> is also referred to as the Henry's Law constant.<ref name=UArizona/> As can be seen by comparing equations (1) and (2) above,  <math>k'</math> is the reciprocal of <math>k</math>. Since both may be referred to as the Henry's Law constant, readers of the technical literature must be quite careful to note which version of the Henry's Law equation is being used.
+
+Henry's Law is an approximation that only applies for dilute, ideal solutions and for solutions where the liquid solvent does not [[chemical reaction|react chemically]] with the gas being dissolved.
+
+==Partial pressure in diving breathing gases==
+
+In [[recreational diving]] and [[professional diving]] the richness of individual component gases of [[breathing gas]]es is expressed by partial pressure. 
+
+Using diving terms, partial pressure is calculated as:
+
+:'''partial pressure = total absolute pressure x volume fraction of gas component'''
+
+For the component gas "i":
+
+:'''ppi = P x Fi'''
+
+For example, at 50 metres (165 feet), the total absolute pressure is 6 bar (600 kPa) (i.e., 1 bar of [[atmospheric pressure]] + 5 bar of [[water]] pressure) and the partial pressures of the main components of [[Earth's atmosphere|air]], [[oxygen]] 21% by volume and [[nitrogen]] 79% by volume are:
+
+:'''ppN2''' = 6 bar x 0.79 = 4.7 bar absolute
+:'''ppO2''' = 6 bar x 0.21 = 1.3 bar absolute
+
+{| border="0" cellpadding="2"
+|-
+|align=right|where:
+|&nbsp;
+|-
+!align=right|ppi  
+|align=left|= partial pressure of gas component i &nbsp;= <math>P_{\mathrm{i}}</math> in the terms used in this article
+|-
+!align=right|P
+|align=left|= total pressure = <math>P</math> in the terms used in this article
+|-
+!align=right|Fi 
+|align=left|= volume fraction of gas component i &nbsp;= &nbsp;mole fraction, <math>x_{\mathrm{i}}</math>, in the terms used in this article
+|-
+!align=right|ppN2
+|align=left|= partial pressure of nitrogen&nbsp; = <math>P_{{\mathrm{N}}_2}</math> in the terms used in this article
+|-
+!align=right|ppO2 
+|align=left|= partial pressure of oxygen&nbsp; = <math>P_{{\mathrm{O}}_2}</math> in the terms used in this article
+|}
+
+The minimum safe lower limit for the partial pressures of oxygen in a gas mixture is 0.16 bar (16 kPa) absolute. [[Hypoxia (medical)|Hypoxia]] and sudden unconsciousness becomes a problem with an oxygen partial pressure of less than 0.16 bar absolute. The [[NOAA]] Diving Manual recommends a maximum single exposure of 45 minutes at 1.6 bar absolute, of 120 minutes at 1.5 bar absolute, of 150 minutes at 1.4 bar absolute, of 180 minutes at 1.3 bar absolute and of 210 minutes at 1.2 bar absolute. [[Oxygen toxicity]], involving convulsions, becomes a risk when these oxygen partial pressures and exposures are exceeded. The partial pressure of oxygen determines the [[maximum operating depth]] of a gas mixture.
+
+[[Nitrogen narcosis]] is a problem with gas mixes containing nitrogen. A typical planned maximum partial pressure of nitrogen for [[technical diving]] is 3.5 bar absolute, based on an [[equivalent air depth]] of 35 metres (115 feet).
+
+==See also==
+
+* [[Vapor]]
+* [[Gas]], [[Ideal gas]] and [[Ideal gas law]] 
+* [[Mole fraction]] and [[Mole (unit)]]
+* [[Dalton's law]]
+* [[Henry's law]]
+* [[Breathing gas]]
+
+==References==
+<references/>
+
+[[Category:Chemical properties]]
+[[Category:Gas laws]]
+[[Category:Chemical engineering]]
+[[Category:Physical chemistry]]
+[[Category:Gases]]
+[[Category:Underwater diving]]
+
+[[da:Partialtryk]]
+[[de:Partialdruck]]
+[[es:Presión parcial]]
+[[eo:Parta premo]]
+[[fr:Pression partielle]]
+[[it:Pressione totale e parziale in un miscuglio di gas]]
+[[he:לחץ חלקי]]
+[[nl:Partiële druk]]
+[[ja:分圧]]
+[[pl:Ciśnienie cząstkowe]]
+[[ru:Парциальное давление]]
+[[sl:Delni tlak]]
+[[sv:Partialtryck]]
+[[uk:Парціальний тиск]]

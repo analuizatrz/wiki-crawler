@@ -1,0 +1,218 @@
+{{dablink|For other senses of this term, see [[escape velocity (disambiguation)]].}}
+
+[[Image:KSC-95EC-0911.jpg|right|thumb|Space Shuttle ''[[Space Shuttle Atlantis|Atlantis]]'' launches on mission ''[[STS-71]]''. It has rocket boosters and needs only to get into low-earth orbit, so it does not need to reach escape velocity.]]
+
+In [[physics]] '''Escape Velocity''' is the speed where the [[kinetic energy]] of an object is equal in magnitude to its [[potential energy]] in a [[gravitational field]].
+
+It is commonly described as the speed needed to "break free" from a gravitational field.
+
+==Significance==
+
+For a given [[gravitational field]] and a given position, the '''escape velocity''' is the minimum [[speed]] an object without [[Spacecraft propulsion|propulsion]] needs to have to move away indefinitely from the source of the field, as opposed to falling back or staying in an [[orbit]] within a bounded distance from the source. For this to actually occur the object must be influenced by no significant [[force]]s except the gravitational field; in particular there is no propulsion (as by a rocket), there is no significant [[friction]] (as between the object and the [[Earth]]'s atmosphere; these conditions correspond to [[freefall]]), and there is no [[gravitational radiation]].
+
+One somewhat counterintuitive feature of escape velocity is that it is independent of direction, so that "velocity" is a misnomer; it is a [[scalar (physics)|scalar]] quantity and would more accurately be called "escape speed". The simplest way of deriving the formula for escape velocity is to use [[conservation of energy]], thus: in order to escape, an object must have at least as much [[kinetic energy]] as the increase of [[potential energy]] required to move to infinite height.
+
+Defined a little more formally, "escape velocity" is the initial speed required to go from an initial point in a gravitational potential field to infinity with a residual velocity of zero, relative to the field. Conversely, an object starting at rest and at infinity, dropping towards the attracting mass, would, throughout this trajectory (until it reaches the surface), move at a speed equal to the escape velocity corresponding to its position. In common usage, the initial point is on the surface of a [[planet]] or [[natural satellite|moon]]. On the surface of the Earth, the escape velocity is about 11.2 [[km/s|kilometres per second]] (~6.96 mi/s). However, at 9,000&nbsp;km altitude in "space," it is slightly less than 7.1&nbsp;km/s.
+
+The escape velocity ''relative to the surface'' of a rotating body depends on direction in which the escaping body travels. For example, as the Earth's rotational velocity is 465 m/s to the east at the equator, a rocket launched tangentially from the Earth's equator to the east requires an initial velocity of about 10.735&nbsp;km/s ''relative to Earth'' to escape whereas a rocket launched tangentially from the Earth's equator to the west requires an initial velocity of about 11.665&nbsp;km/s ''relative to Earth''. The surface velocity decreases with the [[trigonometric function|cosine]] of the geographic latitude, so space launch facilities are often located as close to the equator as feasible, e.g. the American [[Cape Canaveral]] in [[Florida]] and the European [[Guiana Space Center]], only 5 degrees from the equator in [[French Guiana]].
+
+To simply state this, all objects on Earth have the same escape velocity. It does not matter if the mass is 1 kg or 1000 kg, escape velocity is always the same. What differs is the amount of energy needed to accelerate the mass to escape velocity: the energy needed for an object of mass m to escape the Earth's gravitational field is <math>GMm/r_0</math>, a function of the object's mass (where <math>{r_0}</math> is the radius of the Earth). More massive objects require more energy to reach escape velocity.
+
+==List of escape velocities==
+[[Image:The Earth seen from Apollo 17.jpg|right|thumb|To leave planet [[Earth]] an escape velocity of 11.2 km/s is required, however a speed of 42.1 km/s is required to escape the [[Sun]]'s gravity (and exit the solar system) from the same position]]
+{|
+!align=left| &nbsp; Location 
+!align=left| &nbsp; with respect to 
+! ''V<sub>e</sub>''
+!&nbsp; &nbsp;
+!align=left| &nbsp; Location 
+!align=left| &nbsp; with respect to 
+! ''V<sub>e</sub>''
+|-
+| on the [[Sun]], || the Sun's gravity: || align=right| 617.5&nbsp;km/s
+|-
+| on [[Mercury (planet)|Mercury]], || Mercury's gravity: || align=right| 4.4&nbsp;km/s || || at Mercury, || the Sun's gravity: || align=right| 67.7&nbsp;km/s
+|-
+| on [[Venus (planet)|Venus]], || Venus' gravity: || align=right| 10.4&nbsp;km/s || ||at Venus, || the Sun's gravity: || align=right| 49.5&nbsp;km/s
+|-
+|on [[Earth]], || the Earth's gravity: || align=right| 11.2&nbsp;km/s || ||at the Earth/Moon, || the Sun's gravity: || align=right| 42.1&nbsp;km/s
+|-
+| on the [[Moon]], || the Moon's gravity: || align=right| 2.4&nbsp;km/s || ||at the Moon, || the Earth's gravity: || align=right| 1.4&nbsp;km/s
+|-
+| on [[Mars]], || Mars' gravity: || align=right| 5.0&nbsp;km/s || ||at Mars, || the Sun's gravity: || align=right| 34.1&nbsp;km/s 
+|-
+| on [[Jupiter (planet)|Jupiter]], || Jupiter's gravity: || align=right| 59.5&nbsp;km/s || ||at Jupiter, || the Sun's gravity: || align=right| 18.5&nbsp;km/s
+|-
+| on [[Saturn (planet)|Saturn]], || Saturn's gravity: || align=right| 35.5&nbsp;km/s || ||at Saturn, || the Sun's gravity: || align=right| 13.6&nbsp;km/s
+|-
+| on [[Uranus (planet)|Uranus]], || Uranus' gravity: || align=right| 21.3&nbsp;km/s || ||at Uranus, || the Sun's gravity: || align=right| 9.6&nbsp;km/s
+|-
+| on [[Neptune (planet)|Neptune]], || Neptune's gravity: || align=right| 23.5&nbsp;km/s || ||at Neptune, || the Sun's gravity: || align=right| 7.7&nbsp;km/s
+|-
+| at the [[solar system]], &nbsp; || the [[Milky Way]]'s gravity: &nbsp; || align=right| ~1000&nbsp;km/s<ref> {{cite web|url=http://hyperphysics.phy-astr.gsu.edu/hbase/solar/soldata2.html |title=Solar System Data |accessdate=2007-01-21 |publisher=Georgia State University }}</ref>
+|}
+Due to the atmosphere it is not useful and hardly possible to give an object near the surface of the Earth a speed of 11.2&nbsp;km/s, as these speeds are too far in the [[hypersonic]] regime for most practical propulsion systems and would cause most objects to burn up due to atmospheric friction. For an actual escape orbit a spacecraft is first placed in [[low Earth orbit]] and then accelerated to the escape velocity at that altitude, which is a little less, ca. 10.9&nbsp;km/s. The required acceleration, however, is generally even less because from that sort of an orbit the spacecraft already has a speed of 8&nbsp;km/s.
+
+==Calculating an escape velocity==
+
+In the simple case of escape from a single body, the escape velocity is that for which the corresponding [[kinetic energy]] is equal to minus the [[Potential energy#Gravitational potential energy|gravitational potential energy]].  This is because the positive kinetic energy is needed to increase the negative gravitational potential energy to zero, which applies when the object is at an infinite distance.
+
+:<math> \begin{matrix}\frac12\end{matrix} mv_e^2=\frac{GMm}{r}</math>
+
+:<math>v_e = \sqrt{\frac{2GM}{r}} = \sqrt{\frac{2\mu}{r}} = \sqrt{2gr\,}.</math>
+
+where <math>v_e</math> is the escape velocity, ''G'' is the [[gravitational constant]], ''M'' is the [[mass]] of the body being escaped from, ''m'' is the [[mass]] of the escaping body (factors out), ''g'' is the the [[gravitational acceleration]], and ''r'' is the [[distance]] between the center of the body and the point at which escape velocity is being calculated, and μ is the [[standard gravitational parameter]].<ref>Bate, Mueller and White, p. 35</ref>
+
+The escape velocity at a given height is <math>\sqrt 2</math> times the speed in a circular orbit at the same height, compare (14) in [[circular motion]]. This corresponds to the fact that the potential energy with respect to infinity of an object in such an orbit is minus two times its kinetic energy, while to escape the sum of potential and kinetic energy needs to be at least zero.
+
+For a body with a spherically-symmetric distribution of mass, the escape velocity <math>v_e</math> from the surface (in m/s) is approximately 2.364×10<sup>−5</sup> m<sup>1.5</sup>kg<sup>−0.5</sup>s<sup>−1</sup> times the radius ''r'' (in meters) times the square root of the average density ρ (in kg/m<sup>3</sup>), or:
+
+:<math>v_e \approx 2.364 \times 10^{-5} r \sqrt \rho.\,</math>
+
+==Deriving escape velocity using calculus==
+
+These derivations use [[calculus]], [[Newton's laws of motion]] and [[Newton's law of universal gravitation]].
+
+=== Derivation using only ''g'' and ''r'' ===
+
+the Earth's escape speed can be derived from "''[[standard gravity|g]]''," the acceleration due to gravity at the Earth's surface. It is not necessary to know the [[gravitational constant]] ''G'' or the mass ''M'' of the Earth.  Let
+
+:''r'' = the Earth's radius, and
+
+:''g'' = the acceleration of gravity at the Earth's surface.
+
+Above the Earth's surface, the acceleration of gravity is governed by Newton's [[inverse-square law|inverse-square]] [[Newton's law of universal gravitation|law of universal gravitation]].  Accordingly, the acceleration of gravity at height ''s'' above the center of the Earth (where
+''s''  >  ''r'' ) is <math>g (r / s)^2</math>.
+The weight of an object of mass ''m'' at the surface is ''g m'', and its weight at height ''s'' above the center of the Earth is ''gm'' (''r'' / ''s'')<sup>2</sup>.
+Consequently the energy needed to lift an object of mass ''m'' from height ''s'' above the Earth's center to height ''s'' + ''ds'' (where ''ds'' is an [[infinitesimal]]
+increment of ''s'') is ''gm'' (''r'' / ''s'')<sup>2</sup> ''ds''.
+Since this decreases sufficiently fast as ''s'' increases, the total energy needed to lift the object to infinite height does not diverge to infinity, but converges to a finite amount. That amount is the integral of the expression above:
+
+:<math>\int_r^\infty gm (r/s)^2 \, ds
+=gmr^2 \int_r^\infty s^{-2}\,ds
+=gmr^2 \left[-s^{-1}\right]_{s:=r}^{s:=\infty}
+</math>
+
+:<math>=gmr^2\left(0-(-r^{-1})\right)=gmr.</math>
+
+That is how much ''kinetic'' energy the object of mass ''m'' needs in order to escape.  The kinetic energy of an object of mass ''m'' moving at speed ''v'' is (1/2)''mv''<sup>2</sup>.  Thus we need
+
+:<math> \begin{matrix}\frac12\end{matrix} mv^2=gmr.</math>
+
+The factor ''m'' cancels out, and solving for ''v'' we get
+
+:<math>v=\sqrt{2gr\,}.</math>
+
+If we take the radius of the Earth to be ''r'' = 6400 kilometers and the acceleration of gravity at the surface to be ''g'' = 9.8 m/s<sup>2</sup>, we get
+
+:<math>v\cong\sqrt{2\left(9.8\ {\mathrm{m}/\mathrm{s}^2}\right)(6.4\times 10^6\ \mathrm{m})}= 11\,201\ \mathrm{m}/\mathrm{s}.</math>
+
+This is just a bit over 11 kilometers per second, or a bit under 7 miles per second, as [[Isaac Newton]] calculated.
+
+=== Derivation using ''G'' and ''M'' ===
+
+Let ''G'' be the [[gravitational constant]] and let ''M'' be the mass of the earth or other body to be escaped.
+
+:<math>ma=m\frac{dv}{dt}=-\frac{GMm}{r^2}\,</math>
+
+:<math>a=\frac{dv}{dt}=-\frac{GM}{r^2}\,</math>
+By applying the [[chain rule]], we get:
+
+:<math>\frac{dv}{dt}=\frac{dv}{dr} \cdot \frac{dr}{dt}=-\frac{GM}{r^2}\,</math>
+
+Because <math>v=\frac{dr}{dt}</math>
+:<math>\frac{dv}{dr}\cdot v = -\frac{GM}{r^2}\,</math>
+
+:<math>v \cdot dv = -\frac{GM}{r^2}\,dr\,</math>
+
+:<math>\int_{v_0}^{v(t)} v\,dv = -\int_{r_0}^{r(t)}\frac{GM}{r^2}\,dr\,</math>
+
+:<math>\frac{v(t)^2}{2}-\frac{v_0^2}{2} = \frac{GM}{r(t)}-\frac{GM}{r_0}\,</math>
+Since we want escape velocity 
+:<math>t \rightarrow \infty \ \ r(t) \rightarrow \infty</math> and <math>v(t) \rightarrow 0</math>
+
+:<math>-\frac{v_0^2}{2} = -\frac{GM}{r_0}\,</math>
+
+:<math>v_0 = \sqrt\frac{2GM}{r_0}\,</math>
+v<sub>0</sub> is the escape velocity and r<sub>0</sub> is the radius of the planet. Note that the above derivation relies on the equivalence of [[inertial mass]] and [[gravitational mass]].
+
+
+===Mathematical and physical note===
+
+It is important to note that the above derivations are essentially the same. In mathematics and physics, the two final equations are the same, because of the equation
+
+:<math> g = \frac{GM}{r^2} </math>
+
+And thus, the equations
+
+:<math>v_0 = \sqrt\frac{2GM}{r_0}\,</math>  and  <math>v=\sqrt{2gr\,}.</math>
+
+are the same.
+
+==Multiple sources==
+
+The escape velocity from a position in a field with multiple sources is derived from the total potential energy per kg at that position, relative to infinity. The potential energies for all sources can simply be added. For the escape velocity this results in the square root of the sum of the squares of the escape velocities of all sources separately.
+
+For example, at the Earth's surface the escape velocity for the combination Earth and  Sun is <math>\sqrt{11.2^2 + 42.1^2} = 43.56\ \mathrm{km}/\mathrm{s}</math>. As a result, to leave the solar system requires a speed of 13.6&nbsp;km/s relative to  Earth in the direction of the Earth's orbital motion,  since the speed is then added to the speed of 30&nbsp;km/s of that orbital motion
+
+==[[Gravity well]]==
+
+In the hypothetical case of uniform density, the velocity that an object would achieve when dropped in a hypothetical vacuum hole from the surface of the Earth to the center of the Earth is the escape velocity divided by <math>\sqrt 2</math>, i.e. the speed in a circular orbit at a low height. Correspondingly, the escape velocity from the center of the Earth would be <math>\sqrt {1.5}</math> times that from the surface. 
+
+A refined calculation would take into account the fact that the Earth's mass is not uniformly distributed as the center is approached. This gives higher speeds.
+
+See also [[Potential energy#Gravitational potential energy|Gravitational potential energy]].
+
+==Orbit==
+[[Image:Newton_Cannon.svg|right|thumb|An orbiting cannon ball showing various [[Planetary orbit|orbital]] possibilities]]
+If a free falling body at any position has the escape velocity for that position, this is the case for the whole orbit. If the gravity source is a spherically symmetric body the orbit is (part of) a [[parabola]] with the center of the source as [[focus (geometry)|focus]] ([[parabolic trajectory]]), or part of a straight line through the source. When moving away from the source it is called an [[escape orbit]], otherwise a [[capture orbit]]. Both are also known as ''C''3 = 0 orbit.
+
+An actual escape requires that the parabolic orbit does not intersect the celestial body. More generally, for an arbitrarily shaped body it requires that the orbit does not intersect the body. For non-convex  bodies, not each point on the surface needs to be a possible starting point of such an orbit.
+
+If the body has the escape velocity with respect to the Earth, this is not enough to escape the Solar System, so near the Earth the orbit resembles a parabola, but further away it bends into an elliptical orbit around the Sun.
+
+== References ==
+{{cite book |author=Roger R. Bate, Donald D. Mueller, and Jerry E. White |title=Fundamentals of astrodynamics |publisher=Dover Publications |location=New York |year=1971 |isbn=0-486-60061-0 |oclc= |doi=}}
+{{unreferenced|date=August 2006}}
+<references />
+
+==See also ==
+* [[Delta-v budget]]
+* [[Gravitational slingshot]]
+* [[Gravity well]]
+* [[Two-body problem]]
+* [[Black hole]]
+
+[[Category:Astrodynamics]]
+[[Category:Celestial mechanics]]
+
+[[als:Fluchtgeschwindigkeit]]
+[[bg:Втора космическа скорост]]
+[[cs:Úniková rychlost]]
+[[da:Undvigelseshastighed]]
+[[de:Fluchtgeschwindigkeit]]
+[[et:Paokiirus]]
+[[es:Velocidad de escape]]
+[[eo:Eskapa rapido]]
+[[eu:Ihes-abiadura]]
+[[fa:سرعت گریز]]
+[[fr:Vitesse de libération]]
+[[hr:Brzina oslobađanja]]
+[[it:Velocità di fuga]]
+[[he:מהירות מילוט]]
+[[hu:Szökési sebesség]]
+[[nl:Ontsnappingssnelheid]]
+[[ja:宇宙速度]]
+[[nn:Unnsleppingsfart]]
+[[pl:Prędkość ucieczki]]
+[[pt:Velocidade de escape]]
+[[ru:Вторая космическая скорость]]
+[[simple:Escape velocity]]
+[[sk:Úniková rýchlosť]]
+[[sl:Ubežna hitrost]]
+[[ta:விடுபடு திசைவேகம்]]
+[[fi:Pakonopeus]]
+[[sv:Flykthastighet]]
+[[vi:Tốc độ vũ trụ cấp 2]]
+[[uk:Друга космічна швидкість]]
+[[zh:宇宙速度]]

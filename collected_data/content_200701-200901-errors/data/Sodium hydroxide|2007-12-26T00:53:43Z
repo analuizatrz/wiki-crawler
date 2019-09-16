@@ -1,0 +1,208 @@
+{{Chembox new
+|   Name = Sodium hydroxide
+|   ImageFile = Sodium hydroxide.jpg
+|   ImageFile1 = Sodium-hydroxide-crystal-3D-vdW.png
+|   IUPACName = Sodium hydroxide
+|   OtherNames = Lye, Caustic Soda
+| Section1 = {{Chembox Identifiers
+|   CASNo = 1310-73-2
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = NaOH
+|   MolarMass = 39.9971 g/mol
+|   Appearance = White solid
+|   Density = 2.1 g/cm³, solid
+|   Solubility = 111 g/100 ml (20°C)
+|   MeltingPt = 318°C (591 K)
+|   BoilingPt = 1390°C (1663 K)
+|   pKb = -2.43
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://physchem.ox.ac.uk/MSDS/SO/sodium_hydroxide.html External MSDS] 
+|   NFPA-H = 3
+|   NFPA-F =
+|   NFPA-R = 1
+|   FlashPt = Non-flammable.
+  }}
+| Section8 = {{Chembox Related
+|   Function = [[base (chemistry)|base]]s
+|   OtherFunctn = [[Ammonia]], [[Calcium hydroxide|lime]].
+  }}
+}}
+'''Sodium hydroxide''' ([[sodium|Na]][[hydroxide|OH]]), also known as '''lye''', '''caustic soda''' and '''sodium hydrate''', is a [[caustic (substance)|caustic]] metallic [[Base (chemistry)|base]]. Caustic soda forms a strong [[alkaline]] solution when dissolved in a solvent such as water. It is used in many industries, mostly as a strong [[chemical compound|chemical]] [[pH|base]] in the manufacture of [[pulp]] and [[paper]], [[textile]]s, [[drinking water]], [[soap]]s and [[detergent]]s and as a [[drain cleaner]]. Worldwide production in 1998 was around 45 million [[tonne]]s. Sodium hydroxide is the most used base in chemical laboratories.
+
+Pure sodium hydroxide is a white solid; available in pellets, flakes, granules and as a 50% saturated solution. It is [[deliquescent]] and readily absorbs [[carbon dioxide]] from the air, so it should be stored in an [[Hermetically sealed|airtight]] container. It is very soluble in water with liberation of heat. It also dissolves in [[ethanol]] and [[methanol]], though it exhibits lower solubility in these solvents than [[potassium hydroxide]]. It is insoluble in [[diethyl ether|ether]] and other non-polar solvents. A sodium hydroxide [[solution]] will leave a yellow stain on fabric and paper.
+
+==Chemical properties==
+
+Sodium hydroxide is completely [[Ionic bonding|ionic]], containing sodium ions and [[hydroxide]] ions.  The hydroxide ion makes sodium hydroxide a strong base which reacts with acids to form [[water]] and the corresponding salts, e.g., with [[hydrochloric acid]], [[sodium chloride]] is formed:
+
+:NaOH([[Aqueous|aq]])  +  [[Hydrochloric acid|HCl]](aq)  →  [[Sodium chloride|NaCl]](aq)  +  [[Water (molecule)|H<sub>2</sub>O]]([[Liquid|l]])
+
+In general such [[neutralization]] reactions are represented by one simple net ionic equation:
+
+:[[Hydroxide|OH<sup>&minus;</sup>]](aq)  +  [[Hydronium|H<sub>3</sub>O<sup>+</sup>(aq)]]  →  2H<sub>2</sub>O
+
+This type of reaction with a strong acid, releases heat, and hence is referred to as [[exothermic reaction|exothermic]]. Such [[acid-base reaction]]s can also be used for [[titration]]s, which is a common method to determine the concentration of acids. 
+Another type of reaction that sodium hydroxide is involved in is with acidic oxides. The reaction of [[carbon dioxide]] has already been mentioned, but other acidic oxides such as [[sulfur dioxide]] (SO<sub>2</sub>) also react completely.  Such reactions are often used to "scrub" harmful acidic gases (like SO<sub>2</sub> and H<sub>2</sub>S) and prevent their release into the atmosphere.
+
+:2NaOH  +  [[Carbon dioxide|CO<sub>2</sub>]]  →  [[Sodium carbonate|Na<sub>2</sub>CO<sub>3</sub>]]  +  H<sub>2</sub>O
+
+Sodium hydroxide slowly reacts with glass to form [[sodium silicate]], so glass joints and [[stopcock]]s exposed to NaOH have a tendency to "freeze". {{Fact|date=August 2007}}  [[Laboratory flask|Flask]]s and glass-lined [[chemical reactor]]s are damaged by long exposure to hot sodium hydroxide, and the glass becomes frosted. Sodium hydroxide does not attack [[iron]] or [[copper]], but other metals such as [[aluminium]], [[zinc]] and [[titanium]] are attacked rapidly. In 1986 an aluminium [[tank truck|road tanker]] in the UK was mistakenly used to transport 25% sodium hydroxide solution, causing pressurisation of the contents and damage to the tanker. For this reason aluminium pans should never be cleaned with sodium hydroxide.
+
+:2[[Aluminium|Al]]([[Solid|s]])  +  6NaOH(aq)  →  3[[Hydrogen|H<sub>2</sub>]]([[Gas|g]]) +  2Na<sub>3</sub>AlO<sub>3</sub>(aq)
+
+Many non-metals also react with sodium hydroxide, giving salts. For example [[phosphorus]] forms [[sodium hypophosphite]], while [[silicon]] gives [[sodium silicate]]. 
+
+Unlike NaOH, the hydroxides of most metals are insoluble, and therefore sodium hydroxide can be used to precipitate metal hydroxides. One such hydroxide is [[aluminium hydroxide]], used as a gelatinous [[flocculation|floc]] to filter out particulate matter in [[water treatment]]. Aluminium hydroxide is prepared at the treatment plant from [[aluminium sulfate]] by reacting with NaOH:
+
+:6NaOH(aq)   +  [[Aluminium sulfate|Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>]](aq)  →  2[[Aluminium hydroxide|Al(OH)<sub>3</sub>]](s)  +  3[[Sodium sulfate|Na<sub>2</sub>SO<sub>4</sub>]](aq)
+
+Sodium hydroxide reacts readily with [[carboxylic acid]]s to form their salts and is even a strong enough base to form salts with [[phenol]]s. NaOH can be used for the base-driven [[hydrolysis]] of [[ester]]s (as in [[saponification]]), [[amide]]s and [[alkyl halide]]s. However, the limited solubility of NaOH in organic solvents means that the more [[soluble]] [[Potassium hydroxide|KOH]] is often preferred.
+
+[[Image:Ester hydrolysis.png|frame|center|Basic hydrolysis of an ester]]
+
+==Manufacture==
+In 1998, total world production was around 45 million [[tonne]]s. North America and Asia collectively contributed around 14 million tonnes, while Europe produced around 10 million tonnes.
+
+===Methods of production===<!-- This section is linked from [[Mercury (element)]] -->
+Sodium hydroxide is produced (along with [[chlorine]] and [[hydrogen]]) via the [[chloralkali process]].  This involves the [[electrolysis]] of an aqueous solution of [[sodium chloride]]. The sodium hydroxide builds up at the [[cathode]], where water is reduced to hydrogen gas and [[hydroxide]] ion:
+
+:2Na<sup>+</sup> + 2H<sub>2</sub>O + 2e<sup>−</sup> → H<sub>2</sub> + 2NaOH
+
+To produce NaOH it is necessary to prevent reaction of the NaOH  with the [[chlorine]].  This is typically done in one of three ways, of which the membrane cell process is economically the most viable.
+* '''Mercury cell process''' (also called the [[Castner-Kellner process]]) &ndash; Sodium ions are reduced to [[Sodium|sodium metal]], which forms an [[amalgam]] with a [[mercury (element)|mercury]] [[cathode]]; this sodium is then reacted with water to produce NaOH. There have been concerns about mercury releases, although modern plants claim to be safe in this regard.<ref>{{cite web|url=http://www.eurochlor.org/animations/mercury-cell.asp| title=Chlorine Online Diagram of mercury cell process| publisher=Euro Chlor| accessdate=2006-09-15}}</ref>
+* '''Diaphragm cell process''' &ndash; uses a steel cathode, and the reaction of NaOH with Cl<sub>2</sub> is prevented using a porous [[diaphragm seal|diaphragm]], often made of [[asbestos|asbestos fibers]]. In the diaphragm cell process the anode area is separated from the cathode area by a permeable diaphragm. The brine is introduced into the anode compartment and flows through the diaphragm into the cathode compartment. A diluted caustic brine leaves the cell. The caustic soda must usually be concentrated to 50% and the salt removed. This is done using an evaporative process with about three tonnes of steam per tonne of caustic soda. The salt separated from the caustic brine can be used to saturate diluted brine. The chlorine contains oxygen and is purified by liquefaction and evaporation.<ref>{{cite web|url=http://www.eurochlor.org/makingchlorine| title=Euro Chlor - How is chlorine made?| publisher=Euro Chlor| accessdate=2006-09-15}}</ref><ref>{{cite web|url=http://www.eurochlor.org/animations/diaphragm-cell.asp| title=Chlorine Online Diagram of diaphragm cell process| publisher=Euro Chlor| accessdate=2006-09-15}}</ref>
+* '''Membrane cell process''' &ndash; similar to the diaphragm cell process, with a [[Nafion]] membrane to separate the cathode and anode reactions. Only sodium ions and a little water pass through the membrane. It produces a higher quality of NaOH. Of the three processes, the membrane cell process requires the lowest consumption of electric energy and the amount of steam needed for concentration of the caustic is relatively small (less than one tonne per tonne of caustic soda).<ref>{{cite web|url=http://www.eurochlor.org/animations/membrane-cell.asp| title=Chlorine Online Diagram of membrane cell process| publisher=Euro Chlor| accessdate=2006-09-15}}</ref><ref>{{cite web|url=http://www.eurochlor.org/makingchlorine| title=Euro Chlor - How is chlorine made?| publisher=Euro Chlor| accessdate=2006-09-15}}</ref>
+
+An older method for sodium hydroxide production was the [[LeBlanc process]], which produced [[sodium carbonate]], followed by roasting to create [[carbon dioxide]] and [[sodium oxide]]. This method is still occasionally used.  It helped establish sodium hydroxide as an important commodity chemical.
+
+The LeBlanc process was superseded by the [[Solvay process]] in the late 19th century.
+
+===Major producers===
+
+{{Globalize/USA}}
+
+In the United States, the major producer of sodium hydroxide is the [[Dow Chemical Company]], which has annual production around 3.7 million [[tonne]]s from sites at [[Freeport, Texas]], and [[Plaquemine, Louisiana]].  Other major US producers include [[Oxychem]], [[PPG Industries|PPG]], [[Olin Corporation|Olin]], Pioneer Companies, Inc. (PIONA), and [[Formosa Plastics Group|Formosa]]. All of these companies use the [[chloralkali process]]<ref>See ''Kirk-Othmer'' in general references</ref>.
+
+==Uses==
+===General applications===
+Sodium hydroxide is the principal strong [[base (chemistry)|base]] used in the chemical industry. In bulk it is most often handled as an [[aqueous]] [[solution]], since solutions are cheaper and easier to handle.  It is used to drive chemical reactions and also for the [[neutralization]] of acidic materials. It can be used also as a neutralizing agent in petroleum refining
+
+===Gold pennies===
+Sodium hydroxide has also been used in conjunction with [[zinc]] for creation of the famous "Gold pennies" experiment.  When a [[penny]] is boiled in a solution of NaOH together with some granular [[zinc]] metal ([[Hot-dip galvanizing|galvanized nails]] are one source), the color of the penny will turn silver in about 45 seconds. The penny is then held in the flame of a burner for a few seconds and it turns golden. The reason this happens is that granular [[zinc]] dissolves in NaOH to form Zn(OH)<sub>4</sub><sup>2-</sup> (tetrahydroxozincate). This zincate ion becomes reduced to metallic [[zinc]] on the surface of a [[copper]] penny. [[Zinc]] and [[copper]] when heated in a flame form [[brass]].
+
+===Alumina Production - [[Bayer process]]===
+Sodium hydroxide is used in the refining of [[alumina]] containing ore ([[bauxite]]) to produce alumina (aluminium oxide) which is the raw material used to produce [[aluminium]] metal via the [[smelting]] process.
+
+===Use in chemical analysis===
+In [[analytical chemistry]], sodium hydroxide solutions are often used to measure the [[concentration]] of acids by [[titration]].  Since NaOH is not a [[primary standard]], solutions must first be standardised by titration against a standard such as [[Potassium hydrogen phthalate|KHP]].  [[Burette]]s exposed to NaOH should be rinsed out immediately after use to prevent "freezing" of the stopcock.  Sodium hydroxide was traditionally used to test for [[cation]]s in [[Qualitative inorganic analysis|Qualitative Inorganic Analysis]], as well as to provide alkaline media for some reactions that need it, such as the [[Biuret]] test.
+
+===Soap production===
+Sodium hydroxide was traditionally used in soap making ([[cold process]] soap, [[saponification]]). The [[Arab]]s began producing soap in this way in the 7th century, and the same basic process is used today.
+
+===Biodiesel===
+For the manufacture of [[biodiesel]], sodium hydroxide is used as a [[catalyst]] for the [[transesterification]] of methanol and triglycerides. This only works with [[anhydrous]] sodium hydroxide, because water and lye would turn the fat into [[soap]] which would be tainted with [[methanol]]. It is used more often than [[potassium hydroxide]] because it is cheaper and a smaller quantity is needed.
+
+===Aluminium etching===
+Strong bases attack [[aluminium]]. This can be useful in etching through a resist or in converting a polished surface to a satin-like finish, but without further [[passivation]] such as [[anodizing]] or [[allodizing]] the surface may become corroded, either under normal use or in severe atmospheric conditions.
+
+===Food preparation===
+Food uses of lye include washing or chemical peeling of [[fruits]] and [[vegetables]], [[chocolate]] and [[cocoa]] processing, [[caramel]] color production, [[poultry]] scalding, [[soft drink]] processing, and thickening [[ice cream]]. [[Olive]]s are often soaked in lye to soften them, while [[pretzel]]s and [[Germany|German]] [[lye roll]]s are glazed with a lye solution before baking to make them crisp. Due to the difficulty in obtaining food grade lye in small quantities for home use, [[Sodium carbonate| sodium carbonate]] is often used in place of sodium hydroxide<ref>{{cite web|url=http://www.uga.edu/nchfp/publications/uga/hominy_without_lye.html| title=Hominy without Lye| publisher=National Center for Home Food Preservation}}</ref>.
+
+Specific foods processed with lye include:
+* The [[Scandinavia]]n delicacy known as [[lutefisk]] (from ''lutfisk'', "lye fish").
+* [[Hominy]] is dried [[maize]] (corn) kernels reconstituted by soaking in lye-water. These expand considerably in size and may be further processed by frying to make [[corn nuts]] or by drying and grinding to make [[grits]]. [[Nixtamal]] is similar, but uses [[calcium hydroxide]] instead of sodium hydroxide.
+* Sodium hydroxide is also the chemical that causes gelling of egg whites in the production of [[Century egg]]s.
+* German [[pretzel]]s are poached in a boiling sodium hydroxide solution before baking, which contributes to their unique crust.
+
+===Delignification of Cellulosic Materials===
+
+Sodium Hydroxide, in addition to Sodium Sulfide, is a key component of the white liquor solution used to separate lignin from cellulose fibers in the [[Kraft process]]. It also plays a key role in several following stages of the process of bleaching the brown pulp resulting from the pulping process. These stages include oxygen delignification, oxidative extraction, and simple extraction, all of which require a strong alkaline environment with a pH > 10.5 at the end of the stages.
+
+===Domestic uses===
+Sodium hydroxide is used in the home as a drain cleaning agent for clearing clogged drains.  It is distributed as a dry crystal or as a thick liquid gel. The chemical mechanism employed is the conversion of grease to a form of [[soap]].  Soap is water-soluble, and can be dissolved by flushing with water.  Sodium hydroxide also decomposes complex molecules such as the [[protein]] that composes [[hair]]. Such '''drain cleaners''' (and their [[acid]]ic versions) are highly caustic and should be handled with care.
+
+Lye has been used as a [[relaxer]] to straighten hair. However, because of the high incidence and intensity of chemical burns, chemical relaxer manufacturers have now switched to other alkaline chemicals, although lye relaxers are still available, used mostly by professionals.
+
+===Tissue Digestion===
+This is a process that was used with farm animals at one time. This process involves the placing of a carcass into a sealed chamber, which then puts the carcass in a mixture of lye and water, which breaks chemical bonds keeping the body intact. This eventually turns the body into a coffee-like liquid, and the only solid remains are bone hulls, which could be crushed between one's fingertips. It is also of note that sodium hydroxide is frequently used in the process of decomposing [[roadkill]] dumped in landfills by animal disposal contractors{{Fact|date=February 2007}}.
+
+Sodium hydroxide has also been used by criminals and [[serial killer]]s to dispose of their victims' bodies.{{fact|date=November 2007}}
+
+===Illegal drugs===
+Sodium hydroxide is a key reagent in the process of making [[Methamphetamine]] and other illegal drugs. Contrary to popular media reports, it is not actually an "ingredient" in these drugs, but simply a strong base used to manipulate the pH at various points in a chemical synthesis.
+
+==Safety==
+Solid sodium hydroxide or solutions containing high concentrations of sodium hydroxide may cause [[chemical burn]]s, permanent injury or scarring, and [[blindness]].
+
+[[solvation|Dissolution]] of sodium hydroxide is highly exothermic, and the resulting heat may cause heat burns or ignite flammables. 
+
+The combination of aluminium and sodium hydroxide results in a large production of hydrogen gas:<br />
+2[[Aluminium|Al]]([[Solid|s]])  +  6NaOH(aq)  →  3[[Hydrogen|H<sub>2</sub>]]([[Gas|g]]) +  2Na<sub>3</sub>AlO<sub>3</sub>(aq).<br />
+Mixing these two in a closed container is therefore dangerous.
+
+==See also==
+* [[Common chemicals]]
+* [[Soda lime]]
+
+==External links==
+* [http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc03/icsc0360.htm International Chemical Safety Card 0360]
+* [http://www.cdc.gov/niosh/npg/npgd0565.html NIOSH Pocket Guide to Chemical Hazards]
+* [http://ecb.jrc.it/ European Chemicals Bureau]
+* [http://www.eurochlor.org/factsfigures Chlorine Online] - Facts about Chlorine, Sodium Hydroxide (Caustic Soda) is an important co-product of Chlorine
+* [http://www.chlorineinstitute.org/ The Chlorine Institute, Inc. website]
+* [http://www.bayermaterialsciencenafta.com/businesses/ibc/index.html Sodium hydroxide products of Bayer MaterialScience in North America]
+* [http://www2.iq.usp.br/docente/gutz/Curtipot_.html Titration of acids with sodium hydroxide – freeware for data analysis, simulation of curves and pH calculation]
+
+==References==
+{{reflist}}
+
+==General references==
+# N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997.
+# Heaton, A. (1996) ''An Introduction to Industrial Chemistry'', 3rd edition, New York:Blackie. ISBN 0-7514-0272-9.
+# Kirk-Othmer Encyclopedia of Chemical Technology 5th edition ([http://www.mrw.interscience.wiley.com/kirk/kirk_articles_fs.html online], account needed), John Wiley & Sons.  Accessed November 21, 2005.
+# Euro Chlor - How is chlorine made? [http://www.eurochlor.org/makingchlorine Chlorine Online]
+
+[[Category:Bases]]
+[[Category:Sodium compounds]]
+[[Category:Household chemicals]]
+[[Category:Inorganic compounds]]
+[[Category:Hydroxides]]
+[[Category:Deliquescent substances]]
+[[Category:Desiccants]]
+
+[[ar:هيدروكسيد صوديوم]]
+[[bg:Натриева основа]]
+[[ca:Hidròxid sòdic]]
+[[cs:Hydroxid sodný]]
+[[da:Natriumhydroxid]]
+[[de:Natriumhydroxid]]
+[[es:Hidróxido sódico]]
+[[et:Naatriumhüdroksiid]]
+[[fi:Natriumhydroksidi]]
+[[fr:Hydroxyde de sodium]]
+[[gl:Hidróxido de sodio]]
+[[he:נתרן הידרוקסידי]]
+[[hu:Nátrium-hidroxid]]
+[[it:Idrossido di sodio]]
+[[ja:水酸化ナトリウム]]
+[[ko:수산화나트륨]]
+[[lt:Natrio šarmas]]
+[[lv:Nātrija hidroksīds]]
+[[mk:Натриум хидроксид]]
+[[nds:Natronlaug]]
+[[nl:Natriumhydroxide]]
+[[nn:Natriumhydroksid]]
+[[no:Natriumhydroksid]]
+[[pl:Wodorotlenek sodu]]
+[[pt:Hidróxido de sódio]]
+[[ro:Hidroxid de sodiu]]
+[[ru:Гидроксид натрия]]
+[[simple:Sodium hydroxide]]
+[[sk:Hydroxid sodný]]
+[[sv:Natriumhydroxid]]
+[[th:โซดาไฟ]]
+[[tr:Sodyum hidroksit]]
+[[uk:Гідроксид натрію]]
+[[zh:氢氧化钠]]

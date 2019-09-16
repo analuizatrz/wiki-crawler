@@ -1,0 +1,17 @@
+'''Go-Back-N ARQ''' is a specific instance of the [[ARQ|Automatic Repeat-reQuest (ARQ)]] Protocol, in which the sending process continues to send a number of [[Data frame|frames]] specified by a ''window size'' even without receiving an [[ACK (computing)|ACK]] packet from the receiver.
+
+The receiver process keeps track of the sequence number of the next [[Data frame|frame]] it expects to receive, and sends that number with every ACK it sends. The receiver will ignore any frame that does not have the exact sequence number it expects -- whether that frame is a "past" duplicate of a frame it has already ACK'ed{{Fact|date=December 2007}}, or whether that frame is a "future" frame past the lost packet it is waiting for. Once the sender has sent all of the [[Data frame|frames]] in its ''window'', it will detect that all of the [[Data frame|frame]]s since the first lost [[Data frame|frame]] are ''outstanding'', and will go back to sequence number of the last ACK it received from the receiver process and fill its window starting with that [[Data frame|frame]] and continue the process over again.
+
+The sending window size must be no more than the number of sequence numbers (if they are numbered from zero to n-1) to verify transmission in cases of any packet (any data or ACK packet) being dropped. (Source: Tanenbaum, Andrew S. Computer Networks 4th ed. ISBN 0-13-066102-3)
+
+Go-Back-N ARQ is a more efficient use of a connection than [[Stop-and-wait ARQ]], since unlike waiting for an acknowledgement for each packet, the connection is still being utilized as packets are being sent. In other words, during the time that would otherwise be spent waiting, more packets are being sent. However, this method also results in sending frames multiple times -- if any frame was lost or damaged, or the ACK acknowledging them was lost or damaged, then that frame and all following frames in the window (even if they were received without error) will be re-sent. To avoid this, [[Selective Repeat ARQ]] can be used. (Source: Tanenbaum, Andrew S. Computer Networks 4th ed. ISBN 0-13-066102-3)
+
+==External links==
+* [http://media.pearsoncmg.com/aw/aw_kurose_network_2/applets/go-back-n/go-back-n.html Go-Back-N ARQ demonstration in a Java applet]
+
+* [http://www.jmartinho.net/sd Go-Back-N ARQ Video and Interactive Demonstration Work made at University of Minho, Portugal (Joao Martinho Moura)(in portuguese)]
+
+[[Category:Network protocols]]
+
+[[es:Parada y espera]]
+[[it:Go-Back-N ARQ]]

@@ -1,0 +1,162 @@
+{{Mergefrom|GNU Debugger front-end|date=June 2007}}
+{{Infobox_Software
+ |name = GNU Debugger
+ |logo = <!--  Commented out because image was deleted: [[Image:GDB Logo.svg|{{deletable image-caption|1=Sunday, 4 November 2007}}]] -->
+ |screenshot = [[Image:GDB Screenshot.png|200px]]
+ |caption = 
+ |developer = [[GNU Project]]
+ |latest_release_version = 6.7.1
+ |latest_release_date = [[October 29]], [[2007]]
+ |operating_system = 
+ |genre = [[Debugger]]
+ |license = [[GNU General Public License|GPL]]
+ |website = [http://www.gnu.org/software/gdb/ gnu.org/software/gdb/]
+}}
+The '''GNU Debugger''', usually called just '''GDB''', is the standard [[debugger]] for the [[GNU]] software system. It is a portable debugger that runs on many [[Unix-like]] systems and works for many [[programming language]]s, including [[Ada programming language|Ada]], [[C (programming language)|C]], [[C++]], [[FreeBASIC]], and [[Fortran programming language|Fortran]].
+
+==History==
+GDB was first written by [[Richard Stallman]] in [[1986]] as part of his [[GNU]] system, after his [[GNU Emacs]] was "reasonably stable".<ref>{{cite web
+ |      title = Richard Stallman lecture at the Royal Institute of Technology, Sweden (1986-10-30)
+ |        url = http://www.gnu.org/philosophy/stallman-kth.html
+ | accessdate = 2006-09-21
+ |      quote = Then after GNU Emacs was reasonably stable, which took all in all about a year and a half, I started getting back to other parts of the system. I developed a debugger which I called GDB which is a symbolic debugger for C code, which recently entered distribution. Now this debugger is to a large extent in the spirit of DBX, which is a debugger that comes with Berkeley Unix.
+}}</ref> GDB is [[free software]] released under the [[GNU General Public License]] (GPL). It was modeled after the [[Dbx debugger]], which came with [[BSD| Berkeley Unix]] distributions.
+
+From 1990 to 1993 it was maintained by [[John Gilmore (activist)|John Gilmore]] while he worked for [[Cygnus Solutions]].
+
+==Technical details==
+===Features===
+GDB offers extensive facilities for tracing and altering the execution of [[computer program]]s. The user can monitor and modify the values of programs' internal [[variable]]s, and even call [[function (programming)|functions]] independently of the program's normal behavior.
+
+GDB target processors (as of [[2003]]) include:
+[[DEC Alpha|Alpha]], [[ARM architecture|ARM]], [[Atmel AVR|AVR]], [[Hitachi H8|H8/300]], [[System/370]], [[System 390]], [[X86]] and [[X86-64]], [[Itanium|IA-64]] "Itanium", [[Motorola 68000]], [[MIPS architecture|MIPS]], [[PA-RISC]], [[PowerPC]], [[SuperH]], [[SPARC]], and [[VAX]].
+
+Lesser-known target processors supported in the standard release have included [[A29K]], [[Advanced RISC Computing|ARC]], [[CRIS]], [[D10V]], [[D30V]], [[FR-30]], [[FR-V]], [[Intel i960]], [[M32R]], [[Motorola 68HC11|68HC11]], [[Motorola 88000]], [[MCORE]], [[MN10200]], [[MN10300]], [[320xx microprocessor|NS32K]], [[Stormy16]], [[V850]], and [[Zilog Z8000|Z8000]].  (Newer releases will likely not support some of these.)
+
+GDB has compiled-in [[Instruction Set Simulator|simulators]] for target processors even for lesser-known target processors such like M32R or V850.
+
+GDB is still actively developed.  As of early 2007, the focus is on adding "reversible debugging" support<ref>{{cite web
+ |      title = GDB and Reversible Debugging
+ |        url = http://sourceware.org/gdb/news/reversible.html
+ | accessdate = 2007-03-01
+ |      quote = Reversible debugging (the ability to "step backwards" through a program) is an obviously powerful tool. GDB does not support it today, but the foundations have been laid, and the GDB maintainers are looking for contributors interested in expanding those foundations.
+ }}</ref> &mdash; allowing a debugging session to step backwards, much like rewinding a crashed program to see what happened. Adding reversible debugging is one of the [[High Priority Free Software Projects]].
+
+===Remote debugging===
+GDB offers a 'remote' mode often used when debugging embedded systems. Remote operation is when GDB runs on one machine and the program being debugged runs on another. GDB can communicate to the remote 'stub' which understands GDB protocol via Serial or TCP/IP.
+
+The same mode is also used by KGDB for debugging a running [[Linux kernel]] on the source level with gdb. With kgdb, kernel developers can debug a kernel in much the same way as they debug application programs. It makes it possible to place breakpoints in kernel code, step through the code and observe variables. On architectures where hardware debugging registers are available, watchpoints can be set which trigger breakpoints when specified memory addresses are executed or accessed. kgdb requires an additional machine which is connected to the machine to be debugged using a [[serial cable]] or [[ethernet]]. On [[FreeBSD]], it is also possible to debug using [[Firewire]] [[Direct memory access|DMA]].
+
+===Limitations===
+The debugger does not contain its own [[graphical user interface]], and defaults to a [[command-line interface]]. Several front-ends have been built for it, such as [[Data Display Debugger|DDD]], [[List of Eclipse projects#Tools projects|Eclipse CDT]], [[Xcode]] debugger, GDBtk/[http://sources.redhat.com/insight/ Insight] and the "GUD mode" in [[GNU Emacs]]. These offer facilities similar to debuggers found in [[integrated development environment]]s.
+
+GDB does not correctly support C++ templates. <ref>{{cite web
+ |      title = Debug problems when there are multiple expansions of same template
+ |  publisher = GDB Bug Database
+ |       date = 2007-03-16
+ |        url = http://sourceware.org/cgi-bin/gnatsweb.pl?cmd=view%20audit-trail&database=gdb&pr=375
+ | accessdate = 2007-06-08
+ }}</ref>
+
+Some other debugging tools have been designed to work with GDB, such as [[memory leak]] detectors.
+
+==Examples of commands==
+{| class="wikitable"
+! style="text-align:left" | <tt>$ gdb prog.out</tt>
+| debug prog.out (from the shell)
+|-
+! style="text-align:left" | <tt>gdb> run -v</tt>
+| run the loaded program with the parameters
+|-
+! style="text-align:left" | <tt>gdb> bt </tt>
+| backtrace (in case the program crashed)
+|-
+! style="text-align:left" | <tt>gdb> info registers</tt>
+| dump all registers
+|-
+! style="text-align:left" | <tt>gdb> disass $pc-32 $pc+32</tt>
+| disassemble
+|}
+
+== An example session ==
+This is an example GDB session on the example program in [[Stack trace]]:
+
+<pre>
+GNU gdb Red Hat Linux (6.3.0.0-1.21rh)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "i386-redhat-linux-gnu"...Using host libthread_db library "/lib/libthread_db.so.1".
+
+(gdb) run
+Starting program: /home/sam/programming/crash
+Reading symbols from shared object read from target memory...done.
+Loaded system supplied DSO at 0xc11000
+This program will demonstrate gdb
+
+Program received signal SIGSEGV, Segmentation fault.
+0x08048428 in function_2 (x=24) at crash.c:22
+22         return *y;
+(gdb) edit
+(gdb) shell gcc crash.c -o crash -gstabs+
+(gdb) run
+The program being debugged has been started already.
+Start it from the beginning? (y or n) y
+warning: cannot close "shared object read from target memory": File in wrong format
+`/home/sam/programming/crash' has changed; re-reading symbols.
+Starting program: /home/sam/programming/crash
+Reading symbols from shared object read from target memory...done.
+Loaded system supplied DSO at 0xa3e000
+This program will demonstrate gdb
+24
+Program exited normally.
+(gdb) quit
+</pre>
+
+The program is being run.  After the cause of the segmentation fault is found, the program is edited to use the correct behavior.  The corrected program is recompiled with [[GNU Compiler Collection|GCC]] and then run.
+
+== See also ==
+{{portal|Free software|Free Software Portal Logo.svg}} 
+
+*[[Binary File Descriptor library]] (libbfd)
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.gnu.org/software/gdb/ GDB homepage]
+*[http://kgdb.linsyssoft.com kgdb, the gdb backend for debugging the Linux kernel]
+
+===Documentation===
+* [[Richard Stallman|Richard M. Stallman]], [[Roland Pesch]], [[Stan Shebs]], et al., [http://sourceware.org/gdb/current/onlinedocs/gdb.html ''Debugging with GDB''] ([[Free Software Foundation]], 2002) ISBN 1-882114-88-4
+*[http://sourceware.org/gdb/current/onlinedocs/gdbint.html GDB Internals]
+
+===Tutorials===
+*[http://www.dirac.org/linux/gdb/ Peter Jay Salzman's GDB guide]: ''Using GNU's GDB Debugger''
+
+
+{{GNU}}
+
+[[Category:Debuggers]]
+[[Category:GNU project software|Debugger]]
+[[Category:High Priority Free Software Projects]]
+
+[[cs:GNU Debugger]]
+[[de:GNU Debugger]]
+[[es:GNU Debugger]]
+[[eo:GDB]]
+[[eu:GNU Debugger]]
+[[fr:GNU Debugger]]
+[[ko:GNU 디버거]]
+[[it:GNU Debugger]]
+[[he:GNU Debugger]]
+[[ja:GNUデバッガ]]
+[[pl:GNU Debugger]]
+[[pt:GNU Debugger]]
+[[ro:GDB]]
+[[ru:GNU Debugger]]
+[[sv:GNU Debugger]]
+[[tr:GNU Debugger]]
+[[zh:GNU除錯器]]

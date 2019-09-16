@@ -1,0 +1,34 @@
+{{about|a tumor supressor gene|ARF small GTP-binding protein|ADP ribosylation factor}}
+
+{{protein
+|Name=cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)
+|caption=
+|image=
+|width=
+|HGNCid=1787
+|Symbol=CDKN2A
+|AltSymbols=CDKN2, MLM
+|EntrezGene=1029
+|OMIM=600160
+|RefSeq=NM_000077
+|UniProt=P42771
+|PDB=
+|ECnumber=
+|Chromosome=9
+|Arm=p
+|Band=21
+|LocusSupplementaryData=
+}}
+{{lowercase|p14ARF}}
+'''p14ARF''' is an alternate reading frame (ARF) product of the [[CDKN2A]] locus. Both [[p16INK4a]] and p14ARF are involved in [[cell cycle]] regulation. p14ARF inhibits [[mdm2]], thus promoting [[p53]], which promotes [[p21]] activation, which then binds and inactivates certain [[cyclin]]-[[CDK]] complexes, which would otherwise promote [[Transcription (genetics)|transcription]] of [[gene]]s that would carry the [[cell (biology)|cell]] through the [[G<sub>1</sub>/S checkpoint]] of the cell cycle.  Loss of p14ARF by a [[Mutation#By_inheritance|homozygous mutation]] in the CDKN2A (INK4A) gene will lead to elevated levels in [[MDM2]] and therefore loss of [[p53]] function and cell cycle control.
+
+
+==External links==
+* {{MeshName|Tumor+Suppressor+Protein+p14ARF}}
+
+[[Category:Genes]]
+
+
+{{genetics-stub}}
+{{Tumor suppressor genes}}
+{{Cell cycle proteins}}

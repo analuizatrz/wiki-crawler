@@ -1,0 +1,129 @@
+{{Chembox new
+|   Name = Rhodium(III) chloride
+|   ImageFile = Rhodium(III) chloride.jpg
+<!-- | ImageSize = 200px -->
+|   ImageName = Rhodium(III) chloride
+|   OtherNames = Rhodium trichloride
+|   Name = Safety data
+| Section1 = {{Chembox Identifiers
+|   CASOther = [10049-07-7] (''anhydrous'')
+|   EINECS = 233-165-4
+|   RTECS = VI9290000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = RhCl<sub>3</sub>
+|   MolarMass = 209.26 g/mol (''anhydrous'')
+|   Appearance = dark red solid
+|   Density = 5.38 g/cm<sup>3</sup>, solid
+|   Solubility = soluble
+|   MeltingPt = 450 °C (''uncertain'')
+|   BoilingPt = 717 °C
+|   pKa = acidic in solution
+  }}
+| Section3 = {{Chembox Structure
+|   Coordination = octahedral
+|   CrystalStruct = [[Yttrium trichloride|YCl<sub>3</sub>]]
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = -234 kJ/mol
+  }}
+| Section7 = {{Chembox Hazards
+|   EUClass = not listed
+|   FlashPt = non-flammable
+  }}
+
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Rhodium(III) fluoride]]<br />[[Rhodium(III) bromide]]<br />[[Rhodium(III) iodide]]
+|   OtherCations = [[Cobalt(II) chloride]]<br />[[Iridium(III) chloride]]
+|   OtherCpds = [[Ruthenium(III) chloride]]<br />[[Palladium(II) chloride]]}}
+}}
+
+'''Rhodium(III) chloride''' usually refers to '''hydrated rhodium trichloride''', a molecular compound with the formula RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub>.  Another prominent rhodium chloride is  RhCl<sub>3</sub>, a polymeric solid with the AlCl<sub>3</sub> structure.  Inexperienced workers sometimes confuse the two rhodium chlorides, but their behavior is completely different.  Most chemistry ascribed to "rhodium trichloride" requires the use of the hydrated form.  Some procedures calling for a rhodium chloride imply the use of Na<sub>3</sub>RhCl<sub>6</sub>, which is also a molecular, hence reactive, form of Rh(III).
+<!--I think the the anhydrous form in dead and unreactive toward degradation by normal donor ligands-->
+
+Rhodium(III) chlorides are the products of the separation of [[rhodium]] from the other [[Platinum group|platinum group metals]].
+
+==Properties==
+RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>x</sub> exists as dark red  [[diamagnetic]] [[crystalline|crystals]].  It is mildly [[hygroscopic]].  It is soluble in water to give reddish solutions that, depending on the age of the solution, contain varying proportions of RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub>, [RhCl<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub>]<sup>+</sup>, and [RhCl(H<sub>2</sub>O)<sub>5</sub>]<sup>2+</sup>.
+
+==Preparation==
+RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> is  produced by the action of hydrochloric acid on hydrated [[rhodium(III) oxide]].<!--and where does the oxide come from?-->  RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> can be [[recrystallization|crystallized]] from a solution in concentrated [[hydrochloric acid]]. This method helps to remove [[nitrogen]]-containing impurities. 
+
+RhCl<sub>3</sub> is prepared by reaction of [[chlorine]] with rhodium sponge at 200-300°C. The corresponding reaction in molten [[sodium chloride]] affords Na<sub>3</sub>RhCl<sub>6</sub>. 
+
+==Coordination complexes==
+<!--It can act as a Lewis acid, and form chloride complexes such as [[octahedral]], [[diamagnetic]] (low spin)  K<sub>3</sub><nowiki>[</nowiki>RhCl<sub>6</sub><nowiki>]</nowiki>.  When this is treated with water, the complex  K<sub>2</sub><nowiki>[</nowiki>Rh(H<sub>2</sub>O)Cl<sub>5</sub><nowiki>]</nowiki> is formed.  If the caesium complex Cs<sub>3</sub><nowiki>[</nowiki>RhCl<sub>6</sub><nowiki>]</nowiki> is suspended in cold 1 [[Molar|M]] [[Nitric acid|HNO<sub>3</sub>]] and treated with {{Cerium}}<sup>4+</sup> and chlorine, a green rhodium(IV) complex Cs<sub>2</sub><nowiki>[</nowiki>RhCl<sub>6</sub><nowiki>]</nowiki>
+is formed.  This is a strong [[Redox|oxidiser]], much less stable than the corresponding [[iridium]](IV) complex.-->
+
+RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> is used to prepare a variety of [[Complex (chemistry)|complexes]], as illustrated below.  The Rh(III)  complexes are generally kinetically inert with octahedral geometry.  Rh(I) derivatives tend to be square planar.
+
+===Ammines===
+Ethanol solutions of RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> react with ammonia to give the pentammine chloride [RhCl(NH<sub>3</sub>)<sub>5</sub>]<sup>2+</sup>.
+[[Zinc]] reduction of this cation followed by the addition of [[sulfate]] gives the colourless hydride<nowiki>[</nowiki>[RhH(NH<sub>3</sub>)<sub>5</sub>]SO<sub>4</sub><nowiki></nowiki>.
+Note that complexes of NH<sub>3</sub> are generally referred to as "ammines".
+
+===Thioethers===
+[[Ethanol]]ic solutions of RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> react with [[thioether|dialkyl sulfides]].
+::RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub>  +   3 [[Thioether|SR<sub>2</sub>]]  →  RhCl<sub>3</sub>(SR<sub>2</sub>)<sub>3</sub> + 3 H<sub>2</sub>O
+Both ''fac'' and ''mer'' [[stereoisomer]]s of such compounds have been isolated.
+
+===Tertiary phosphines===
+Reaction of RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> under mild conditions with tertiary phosphines affords adducts akin to the aforementioned thioether complexes.  When these reactions are conducted in boiling [[ethanol]] solution, one obtains Rh(I) derivatives such as RhCl(PPh<sub>3</sub>)<sub>3</sub>, [[Wilkinson's catalyst]].  In this case, ethanol probably serves as the reducing agent, affording acetaldehyde.
+::RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub>  + 3 PPh<sub>3</sub>  +  [[Ethanol|CH<sub>3</sub>CH<sub>2</sub>OH]]  →  [[Wilkinson's catalyst|RhCl(PPh<sub>3</sub>)<sub>3</sub>]]  +  [[Acetaldehyde|CH<sub>3</sub>CHO]]  +  2 HCl  +  3 H<sub>2</sub>O
+Alternatively, PPh<sub>3</sub>/H<sub>2</sub>O could be the reductant, affording OPPh<sub>3</sub> and HCl.
+<!--RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>''x''</sub>  +  [[Triphenylphosphine|PPh<sub>3</sub>]]  →  [[Wilkinson's catalyst|RhCl(PPh<sub>3</sub>)<sub>3</sub>]]  +  [[Triphenylphosphine oxide|Ph<sub>3</sub>P=O]]  (Not balanced)-->
+
+===Pyridine===
+Upon boiling in a mixture of ethanol and [[pyridine]] (py), RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub>  gives trans-[RhCl<sub>2</sub>(py)<sub>4</sub>)]Cl. The reducing influence of the ethanol is apparent because the corresponding reaction in water affords fac-RhCl<sub>3</sub>(pyridine)<sub>3</sub>, analogous to the thioether derivatives.
+Oxidation of aqueous ethanolic solution of [[pyridine]] and RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> by air affords blue [[paramagnetic]]<nowiki>[</nowiki>Cl(py)<sub>4</sub>Rh-O<sub>2</sub>Rh(py)<sub>4</sub>Cl<nowiki>]</nowiki><sup>5+</sup>.
+
+===Alkenes===
+Reaction of RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> with olefins affords compounds of the type Rh<sub>2</sub>Cl<sub>2</sub>(alkene)<sub>4</sub>.  Most commonly, dialkenes are employed in this reaction, such as [[norbornadiene]] and 1,5-cyclooctadiene.  Illustrative of its high reactivity of its alkene complexes, when 1,3-cyclooctadiene is treated with RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> in ethanol, one obtains the 1,5-cyclooctadiene complex.  The diolefin ligands can be removed by decomplexation using cyanide.<!--Ref for this reaction is OrgmetOrgSynth -->
+
+===Carbon monoxide===
+Stirring a [[methanol]] solution of RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> under 1 bar of [[carbon monoxide]] produces the ''dicarbonyldichlororhodate(I)'' anion, [RhCl<sub>2</sub>(CO)<sub>2</sub>]<sup>&minus;</sup>.  Treatment of solid RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> with flowing CO gives [RhCl(CO)<sub>2</sub>]<sub>2</sub>, a red solid which in turn dissolves in alcohols to in the presence of chloride to give the aforementioned dichloride.
+
+Numerous Rh-CO-PR<sub>3</sub> (R = organic group) compounds have been prepared in the course of extensive investigations on hydroformylation catalysis.  RhCl(PPh<sub>3</sub>)<sub>3</sub> reacts with CO to give trans-RhCl(CO)(PPh<sub>3</sub>)<sub>2</sub>, stoichiometrically analogous to but less reactive than [[Vaska's complex]].  This same compound can be prepared using formaldehyde in place of CO.  Trans-RhCl(CO)(PPh<sub>3</sub>)<sub>2</sub> reacts with a mixture of NaBH<sub>4</sub> and PPh<sub>3</sub> gives RhH(CO)(PPh<sub>3</sub>)<sub>3</sub>.
+
+==Rhodium and catalysis==
+Beginning especially in the 1960's, RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> was demonstrated to be catalytically active for a variety of reactions involving CO, H<sub>2</sub>, and [[alkene]]. 
+For example, RhCl<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub> was shown to dimerise [[ethene]] to a mixture of ''cis'' and ''trans'' [[2-butene]]:
+::2 [[Ethene|C<sub>2</sub>H<sub>4</sub>]]  →  [[2-Butene|CH<sub>3</sub>-CH=CH-CH<sub>3</sub>]]
+(Unfortunately this reaction fails for higher alkenes).
+
+Over the following decades, however, rhodium-based catalysis has emphasized reactions in organic solvents using organic ligands in place of H<sub>2</sub>O.  Thus,  ethylene dimerization was shown to involve catalysis by Rh<sub>2</sub>Cl<sub>2</sub>(C<sub>2</sub>H<sub>4</sub>)<sub>4</sub>.  This and many related discoveries nurtured the then young field of "homogeneous catalysis", wherein the catalysts are dissolved in the medium with the substrate.  Previous to this era, most metal catalysts were "heterogeneous", i.e. the catalysts were solids and the substrates were either liquid or gases.
+
+A significant advance in homogeneous catalysis was the finding that [[triphenylphosphine|PPh<sub>3</sub>]]-derived complexes  were particularly active catalytically as well as soluble in organic solvents.  Best known of the phosphine-supported catalysts is [[Wilkinson's catalyst|RhCl(PPh<sub>3</sub>)<sub>3</sub>]],:<ref>Bennet, M. A.; & Longstaff, P. A. (1965). Complexes of Rhodium(I) with Triphenylphosphine. ''Chem. Ind. (London)'' 846. {{cite book | author=Collman, J. P.; Hegedus, L.S.; Norton, J. R.; & Finke, R. G. | title=Principles and Applications of Organotransition Metal Chemistry | publisher=Mill Valley (CA):University Science Books | year=1987 | id=ISBN 0-935702-51-2}}</ref> which catalyzes the  [[hydrogenation]] and isomerization of alkenes.  The  [[hydroformylation]]. of [[alkene]]s is catalyzed by the related RhH(CO)(PPh<sub>3</sub>)<sub>3</sub>.  Catalysis by rhodium is so efficient that it has significantly displaced the previous technology based on less expensive cobalt catalysts.
+
+<!-- Properties of RhCl(CO)P2: dP = +30.4 (J = 127). nu = 1963. This article is about Rh(III) chloride, not directive effects in specific hydrogenations, it seems.  A useful catalyst for "directed hydrogenation", where a nearby [[hydroxy]] group coordinates to rhodium and directs the reaction, is prepared from RhCl<sub>3</sub>·3H<sub>2</sub>O, a phosphine and [[norbornadiene]].<ref>J. M. Brown, J. M.; Evans, P. L.; &James, A. P. (1993). ''[[Organic Syntheses|Org. Synth. Coll. Vol.]]'' 8:420.</ref>.  RhCl63- is used in photography apparently-->
+
+==Safety==
+Rhodium(III) chloride is not listed under Annex I of [[Directive 67/548/EEC]], but is usually classified as ''[[harmful]]'', '''R22''': ''Harmful if swallowed''. Some Rh compounds have been investigated as anti-cancer drugs. 
+Rhodium is not an essential element.
+
+It is listed in the inventory of the [[Toxic Substances Control Act]] (TSCA).
+
+==Bibliography==
+*{{cite book | author=Greenwood, N. N.; & Earnshaw, A. |title=Chemistry of the Elements | edition=2nd Ed. |location=Oxford | publisher=Butterworth-Heinemann | year=1997 | id=ISBN 0-7506-3365-4}}
+*{{cite book | author=Canterford, J. H.; & Colton, R. | title=Halides of the Second and Third Row Transition Metals | location=London | publisher=Wiley-Interscience | year=1968}}
+*{{cite book | author=Cotton, S. A. | title=Chemistry of the Precious Metals | publisher=Chapman&Hall | year=1997 | id=ISBN 0-7514-0413-6}}
+
+==References==
+{{Citationstyle|date=September 2007}}
+<references/>
+<!-- Dead note "RhVaska": Evans, D; Osborn, J. A.; & [[Geoffrey Wilkinson|Wilkinson, G.]] (1968). ''trans''-Chlorocarbonylbis(triphenylphosphine)rhodium and Related Complexes. ''Inorg. Synth.'' 11:99&ndash;101. -->
+<!-- Dead note "codCl": Giordano, G.; & Crabtree, R. H. (1979). Di(μ-chloro)bis(η<sup>4</sup>-1,5-cyclooctadiene)dirhodium(I). ''Inorg. Synth.'' 19:218&ndash;20. -->
+<!-- Dead note "conCl": van der Ent, A.; & Onderdelinden, A. L. (1973). Chlorobis(cyclooctene)rhodium(I) and -iridium(I) Complexes. ''Inorg. Synth.'' 14:92&ndash;95. -->
+<!-- Dead note "OrgmetOrgSynth": {{cite book | author=Swan, J. M.; & Black, D. St. C. | title=Organometallics in Organic Synthesis | location=London | publisher=Chapman & Hall | year=1974 | id=ISBN 0-412-10870-4}} -->
+
+==External links==
+*[http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc07/icsc0746.htm International Chemical Safety Card 0746]
+*[http://www.cdc.gov/niosh/npg/npgd0545.html NIOSH Pocket Guide to Chemical Hazards]
+
+[[Category:Rhodium compounds]]
+[[Category:Chlorides]]
+[[Category:Metal halides]]
+
+[[fr:Trichlorure de rhodium]]
+[[ja:塩化ロジウム(III)]]
+[[ru:Хлориды родия]]

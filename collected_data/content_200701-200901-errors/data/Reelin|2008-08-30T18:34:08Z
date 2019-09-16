@@ -1,0 +1,609 @@
+{{PBB|geneid=5649}}
+'''Reelin''' is a [[protein]] found mainly in the [[brain]], but also in the spinal cord, blood and other body organs and tissues. Reelin is crucial for regulating the processes of [[Neural development#Neuronal Migration|neuronal migration]] and positioning in the developing brain.
+Besides this important role in early development, reelin continues to work in the adult brain. It modulates the [[synaptic plasticity]] by enhancing [[Long-term potentiation|LTP]] induction and maintenance.<!--
+
+--><ref name="LTP1">{{cite journal |author=Weeber EJ, Beffert U, Jones C, ''et al'' |title=Reelin and ApoE receptors cooperate to enhance hippocampal synaptic plasticity and learning |journal=J. Biol. Chem. |volume=277 |issue=42 |pages=39944–52 |year=2002 |month=October |pmid=12167620 |doi=10.1074/jbc.M205147200 |url=}}W</ref><ref name="LTP2">{{cite journal |author=D'Arcangelo G |title=Apoer2: a reelin receptor to remember |journal=Neuron |volume=47 |issue=4 |pages=471–3 |year=2005 |month=August |pmid=16102527 |doi=10.1016/j.neuron.2005.08.001 |url=}}</ref> It also stimulates dendrite development<!--
+
+--><ref name="Niu_2004">{{cite journal |author=Niu S, Renfro A, Quattrocchi CC, Sheldon M, D'Arcangelo G |title=Reelin promotes hippocampal dendrite development through the VLDLR/ApoER2-Dab1 pathway |journal=Neuron |volume=41 |issue=1 |pages=71–84 |year=2004 |month=January |pmid=14715136  |url= |doi=10.1016/S0896-6273(03)00819-5}}</ref><!--
+
+--> and regulates the continuing migration of [[neuroblast]]s generated in [[adult neurogenesis]] sites like [[subventricular zone|subventricular]] and [[subgranular zone]]s.
+
+Reelin is implicated in pathogenesis of several brain diseases. Significantly lowered expression of the protein have been found in [[schizophrenia]] and psychotic [[bipolar disorder]]. Total lack of reelin causes a form of [[lissencephaly]]. Reelin also may play a role in [[Alzheimer's disease]], [[temporal lobe epilepsy]], and [[autism]]. 
+
+Reelin's name comes from the abnormal reeling [[gait]] of ''[[reeler]]'' mice,<!--
+
+--><ref name="falconer">Falconer DS (1951) ''2 new mutants, trembler and reeler, with neurological actions in the house mouse (mus-musculus l)'' Journal of Genetics 50 (2): 192-201 [http://cercor.oxfordjournals.org/cgi/external_ref?access_num=A1951XX17400002&link_type=ISI]</ref><!--
+
+--> which were found to have a deficiency of this brain [[protein]] and were [[Zygosity|homozygous]] for mutation of the RELN gene, which encodes reelin synthesis. 
+The primary phenotype associated with loss of reelin function is a rough inversion of cortical layers.  The mice [[Zygosity|heterozygous]] for the reelin gene, while having little neuroanatomical defects, display the [[endophenotype|endophenotypic]] traits linked to psychotic disorders.<!--
+
+--><ref name="pmid16769115">{{cite journal |author=Tueting P, Doueiri MS, Guidotti A, Davis JM, Costa E |title=Reelin down-regulation in mice and psychosis endophenotypes |journal=Neurosci Biobehav Rev |volume=30 |issue=8 |pages=1065–77 |year=2006 |pmid=16769115 |doi=10.1016/j.neubiorev.2006.04.001 }}</ref><!--
+
+-->[[Image:Reeler 100kbps.ogg|230px|thumb|left|Video: the reeler mice mutants, first described in 1951 by [[D.S.Falconer]], were later found to lack reelin protein.]]
+
+== Discovery ==
+[[Image:Reeler_lamination.png|thumb|right|250px|Normal and [[Reeler]] mice brain slices.]]
+Mutant mice provide insight into the underlying molecular mechanisms of the development of the [[Central nervous system|CNS]]. Useful spontaneous mutations were first identified by scientists interested in motor behavior, and it proved relatively easy to screen [[littermate]]s for mice that showed difficulties moving around the cage. A number of such mice were found and given descriptive names such as reeler, weaver, lurcher, nervous, and staggerer.
+
+The "[[reeler]]" mouse was first described in the [[1951]] by [[Douglas Scott Falconer|D.S.Falconer]].<!--
+
+--><ref name="falconer"/><!--
+
+--> Histopathological studies in the 1960's revealed that the [[cerebellum]] in reeler mice is dramatically decreased in size and the normal laminar organization found in several brain regions is disrupted.<!--
+
+--><ref name="hamburgh">{{cite journal |author=Hamburgh M |title=Analysis of the postnatal developmental effects of "reeler", a neurological mutation in mice. A study in developmental genetics |journal=Dev. Biol. |volume=19 |issue= |pages=165–85 |year=1963 |month=October |pmid=14069672 |url= |doi=10.1016/0012-1606(63)90040-X}}</ref><!--
+
+--> The 1970's brought the discovery of cellular layers inversion in the mice neocortex,<!--
+
+--><ref name="caviness">{{cite journal |author=Caviness VS |title=Patterns of cell and fiber distribution in the neocortex of the reeler mutant mouse |journal=J. Comp. Neurol. |volume=170 |issue=4 |pages=435–47 |year=1976 |month=December |pmid=1002868 |doi=10.1002/cne.901700404 |url=}}</ref> <!--
+
+--> which attracted more attention to the reeler mutation. 
+
+In [[1995]], the RELN gene was mapped to chromosome 7q22 and sequenced by Gabriella D'Arcangelo and colleagues.<!--
+
+--><ref name="Darcan1">{{cite journal |author=D'Arcangelo G, Miao GG, Chen SC, Soares HD, Morgan JI, Curran T |title=A protein related to extracellular matrix proteins deleted in the mouse mutant reeler |journal=Nature |volume=374 |issue=6524 |pages=719–23 |year=1995 |month=April |pmid=7715726 |doi=10.1038/374719a0 |url=}}</ref> <!--
+
+--> Almost immediately,  Japanese scientists at [[Kochi Medical School]] had successfully created the first [[Monoclonal antibodies|monoclonal antibody]] for reelin, called CR-50.<!--
+
+--><ref name="cr50">{{cite journal |author=Ogawa M, Miyata T, Nakajima K, ''et al'' |title=The reeler gene-associated antigen on Cajal-Retzius neurons is a crucial molecule for laminar organization of cortical neurons |journal=Neuron |volume=14 |issue=5 |pages=899–912 |year=1995 |month=May |pmid=7748558 |doi= 10.1016/0896-6273(95)90329-1}}</ref><!--
+
+--> They noted that CR-50 reacted specifically with [[Cajal-Retzius cell|Cajal-Retzius neurons]], whose functional role was unknown until then. 
+
+The Reelin receptors, [[ApoER2|apolipoprotein E receptor 2]] (ApoER2) and [[VLDLR|very-low-density lipoprotein receptor]] (VLDLR), were discovered serendipitously by Trommsdorff et al, who found that the double [[Gene knockout|knockout]] mice for ApoER2 and VLDLR, which they generated for another experiment, showed defects in cortical layering similar to that in reeler.<!--
+
+--><ref name="receptors_discovery">{{cite journal |author=Trommsdorff M, Gotthardt M, Hiesberger T, ''et al'' |title=Reeler/Disabled-like disruption of neuronal migration in knockout mice lacking the VLDL receptor and ApoE receptor 2 |journal=Cell |volume=97 |issue=6 |pages=689–701 |year=1999 |month=June |pmid=10380922 |url= |doi=10.1016/S0092-8674(00)80782-5}}</ref>
+
+The downstream pathway of Reelin was further clarified using other mutant mice, including [[yotari]] and [[Scrambler mouse|scrambler]]. These mutants have phenotypes similar to that of reeler but have no mutation in reelin. It was then demonstrated that the mouse ''disabled homologue 1'' ([[DAB1|Dab1]]) gene is responsible for the phenotypes of these mutant mice, as Dab1 protein was absent (yotari) or only barely (scrambler) detectable in these mutants.<!--
+
+--><ref name="yotari_and_scrambler">{{cite journal |author=Sheldon M, Rice DS, D'Arcangelo G, ''et al'' |title=Scrambler and yotari disrupt the disabled gene and produce a reeler-like phenotype in mice |journal=Nature |volume=389 |issue=6652 |pages=730–3 |year=1997 |month=October |pmid=9338784 |doi=10.1038/39601 |url=}}</ref><!--
+
+--> Targeted disruption of Dab1 also caused a phenotype similar to that of reeler. Pinpointing the [[DAB1]] as a pivotal regulator of the reelin signaling cascade started the tedious process of deciphering its complex interactions.
+
+There followed a series of important findings linking reelin's genetic variation and interactions to schizophrenia, Alzheimer's disease, autism and other highly complex dysfunctions. These and other discoveries, coupled with the perspective of unraveling the evolutionary changes that allowed for the creation of human brain, highly intensified the research. As of 2008, some 13 years after the gene coding the protein was discovered, hundreds of scientific articles address the multiple aspects of its structure and functioning.<!--
+
+--><ref name="reelin_G_scholar_search_title>[http://scholar.google.com/scholar?as_q=reelin&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=title&as_sauthors=&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en&lr=&safe=off "Reelin" mentioned in the titles of scientific literature] - a search in the [[Google Scholar]]</ref><!--
+
+--> These aspects have been summarized by the leading researchers in a book called "Reelin Glycoprotein: Structure, Biology and Roles in Health and Disease" that saw print in 2008.<!--
+
+--><ref name="Reelin_book_2008">{{cite book
+  | last = 
+  | first = 
+  | editor = Hossein S. Fatemi
+  | authorlink = 
+  | title = Reelin Glycoprotein: Structure, Biology and Roles in Health and Disease
+  | publisher = Springer
+  | series = 
+  | year = 2008
+  | doi = 
+  | url = http://www.springer.com/biomed/neuroscience/book/978-0-387-76760-4
+  | pages = 444
+  | isbn = 978-0-387-76760-4 }}</ref>
+
+==Tissue distribution and secretion==
+[[Image:Reeler ontogenesis.png|thumb|370px|left|Corticogenesis in a normal (left) and [[reeler]] (right) mice]]
+
+Studies show that Reelin is absent from [[synaptic vesicle]]s and is secreted via [[secretory pathway|constitutive secretory pathway]], being stored in [[Golgi apparatus|Golgi]] secretory vesicles.<!--
+
+--><ref name="golgi">{{cite journal |author=Lacor PN, Grayson DR, Auta J, Sugaya I, Costa E, Guidotti A |title=Reelin secretion from glutamatergic neurons in culture is independent from neurotransmitter regulation |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=97 |issue=7 |pages=3556–61 |year=2000 |month=March |pmid=10725375 |pmc=16278 |doi=10.1073/pnas.050589597 }}</ref><!--
+
+--> Reelin's release rate is not regulated by [[depolarization]], but strictly depends on its synthesis rate. This relationship is similar to that reported for the secretion of other [[Extracellular matrix|ECM]] proteins.
+
+During the brain development, reelin is secreted in the cortex and hippocampus by [[Cajal-Retzius cell]]s, Cajal cells, and Retzius cells.<!--
+
+--><ref name="cr_cells">{{cite journal |author=Meyer G, Goffinet AM, Fairén A |title=What is a Cajal-Retzius cell? A reassessment of a classical cell type based on recent observations in the developing neocortex |journal=Cereb. Cortex |volume=9 |issue=8 |pages=765–75 |year=1999 |month=December |pmid=10600995 |url= |doi=10.1093/cercor/9.8.765}}</ref><!--
+
+--> Reelin-expressing cells in the prenatal and early postnatal brain are predominantly found in the marginal zone (MZ) of the cortex and in the temporary [[subpial granular layer]] (SGL), which is manifested to the highest extent in human,<!--
+
+--><ref name="pmid9671277">{{cite journal |author=Meyer G, Goffinet AM |title=Prenatal development of reelin-immunoreactive neurons in the human neocortex |journal=J. Comp. Neurol. |volume=397 |issue=1 |pages=29–40 |year=1998 |month=July |pmid=9671277 |doi=10.1002/(SICI)1096-9861(19980720)397:1 |doi_brokendate=2008-08-23}}</ref><!--
+
+--> and in the hippocampal [[stratum lacunosum-moleculare]] and the upper marginal layer of the [[dentate gyrus]].
+
+In the developing [[cerebellum]], Reelin is expressed first in the external [[granule cell]] layer (EGL) before the granule cell migration to the internal granule cell layer (IGL).<!--
+
+--><ref>{{cite journal |author=Schiffmann SN, Bernier B, Goffinet AM |title=Reelin mRNA expression during mouse brain development |journal=Eur. J. Neurosci. |volume=9 |issue=5 |pages=1055–71 |year=1997 |month=May |pmid=9182958 |url= |doi=10.1111/j.1460-9568.1997.tb01456.x}}</ref> <!--
+
+--> 
+
+Peaking just after the birth, the synthesis of reelin then goes down sharply and becomes more diffuse compared with the distinctly laminar expression in the developing brain. In the adult brain, Reelin is expressed by [[GABA]]-ergic [[interneuron]]s of the cortex and glutamatergic cerebellar neurons,<!--
+
+--><ref name="Interneurons">{{cite journal |author=Pesold C, Impagnatiello F, Pisu MG, ''et al'' |title=Reelin is preferentially expressed in neurons synthesizing gamma-aminobutyric acid in cortex and hippocampus of adult rats |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=95 |issue=6 |pages=3221–6 |year=1998 |month=March |pmid=9501244 |pmc=19723 |url= |doi=10.1073/pnas.95.6.3221}}</ref><!--
+
+--> and by the few extant [[Cajal-Retzius cell]]s. Among GABAergic interneurons, Reelin seems to be detected predominantly in those expressing [[calretinin]] and [[calbindin]], like [[bitufted neuron|bitufted]], [[horizontal neuron|horizontal]], and [[Martinotti cell]]s, but not [[parvalbumin]]-expressing cells, like [[chandelier neuron|chandelier]] or [[basket neuron]]s.<!--
+
+--><ref name="Regional_patterns_1998">{{cite journal |author=Alcántara S, Ruiz M, D'Arcangelo G, ''et al'' |title=Regional and cellular patterns of reelin mRNA expression in the forebrain of the developing and adult mouse |journal=J. Neurosci. |volume=18 |issue=19 |pages=7779–99 |year=1998 |month=October |pmid=9742148 |url=http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=9742148}}</ref><!--
+
+--><ref name="No_parvalbumin_1999">{{cite journal |author=Pesold C, Liu WS, Guidotti A, Costa E, Caruncho HJ |title=Cortical bitufted, horizontal, and Martinotti cells preferentially express and secrete reelin into perineuronal nets, nonsynaptically modulating gene expression |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=96 |issue=6 |pages=3217–22 |year=1999 |month=March |pmid=10077664 |pmc=15922 |url= |doi=10.1073/pnas.96.6.3217}}</ref><!--
+
+--> Outside the brain, reelin is found in adult mammalian blood, [[liver]], pituitary [[pars intermedia]], and adrenal [[chromaffin cell]]s.<!--
+
+--><ref name="bodyexpr">{{cite journal |author=Smalheiser NR, Costa E, Guidotti A, ''et al'' |title=Expression of reelin in adult mammalian blood, liver, pituitary pars intermedia, and adrenal chromaffin cells |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=97 |issue=3 |pages=1281–6 |year=2000 |month=February |pmid=10655522 |pmc=15597 |url= |doi=10.1073/pnas.97.3.1281}}</ref><!--
+
+--> In the liver, reelin is localized in [[hepatic stellate cell]]s.<ref name="liver2">{{cite journal |author=Samama B, Boehm N |title=Reelin immunoreactivity in lymphatics and liver during development and adult life |journal=Anat Rec a Discov Mol Cell Evol Biol |volume=285 |issue=1 |pages=595–9 |year=2005 |month=July |pmid=15912522 |doi=10.1002/ar.a.20202 |url=}}</ref><!--
+
+--> The expression of Reelin increases when the liver is damaged, and returns to normal following its repair.<!--
+
+--> <ref name="Kobold_2002_liver1">{{cite journal |author=Kobold D, Grundmann A, Piscaglia F, ''et al'' |title=Expression of reelin in hepatic stellate cells and during hepatic tissue repair: a novel marker for the differentiation of HSC from other liver myofibroblasts |journal=J. Hepatol. |volume=36 |issue=5 |pages=607–13 |year=2002 |month=May |pmid=11983443 | doi= 10.1016/S0168-8278(02)00050-8 |url=}}</ref>
+[[image:Schema of the Reelin protein vertical en.png|thumb|right|Schema of the Reelin protein]]
+In the eyes reelin is secreted by [[retinal ganglion cell]]s and is also found in the endothelial layer of the cornea.<!--
+
+--><ref name="pmid17120005">{{cite journal |author=Pulido JS, Sugaya I, Comstock J, Sugaya K |title=Reelin expression is upregulated following ocular tissue injury |journal=Graefes Arch. Clin. Exp. Ophthalmol. |volume=245 |issue=6 |pages=889–93 |year=2007 |month=June |pmid=17120005 |doi=10.1007/s00417-006-0458-4 |url=}}</ref><!--
+
+--> Similar to liver, the expression increases after an injury.
+
+==Structure==
+[[Image:2e26.png|thumb|left|250px|The structure of two [[mouse|murine]] ''reelin repeats'' as revealed by [[X-ray crystallography]] and electron tomography. Yasui et al., 2007,<ref name="pmid17548821">{{cite journal |author=Yasui N, Nogi T, Kitao T, Nakano Y, Hattori M, Takagi J |title=Structure of a receptor-binding fragment of reelin and mutational analysis reveal a recognition mechanism similar to endocytic receptors |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=104 |issue=24 |pages=9988–93 |year=2007 |month=June |pmid=17548821 |pmc=1891246 |doi=10.1073/pnas.0700438104}}</ref> {{PDB|2E26}}.]]
+Reelin is a secreted [[extracellular matrix]] [[glycoprotein]] composed of 3461 amino acids with a relative molecular mass of 388 [[Atomic mass unit|kDa]]; its structural features allow for an [[enzyme|enzymatic]] activity, making it a [[serine protease]].<ref name="pmid11689558"/> Murine RELN gene consists of 65 [[exon]]s spanning approximately 450 [[base pair|kb]].<!--
+
+--><ref name="pmid9417911">{{cite journal |author=Royaux I, Lambert de Rouvroit C, D'Arcangelo G, Demirov D, Goffinet AM |title=Genomic organization of the mouse reelin gene |journal=Genomics |volume=46 |issue=2 |pages=240–50 |year=1997 |month=December |pmid=9417911|url= |doi=10.1006/geno.1997.4983}}</ref><!--
+
+--> One exon, coding for only two amino acids near the protein's C-terminal, undergoes alternative splicing, but the exact functional impact of this is unknown.<ref name="Reelin_book_2008"/> Two transcription initiation sites and two polyadenilation sites are identified in the gene structure.<ref name="pmid9417911"/>
+
+The Reelin protein starts with a signaling peptide 27 amino acids in length, followed by a region bearing similarity to [[F-spondin]], marked as "SP" on the scheme, and by a region unique to reelin, marked as "H". Next comes 8 repeats of 300-350 amino acids. These are called ''reelin repeats'' and have an [[Epidermal growth factor|EGF]] motif at their center, dividing each repeat into two subrepeats, ''A'' and ''B''. Despite this interruption, the two subdomains make direct contact, resulting in a compact overall structure.<!--
+
+--><ref name="reelinstructure2006japan">{{cite journal |author=Nogi T, Yasui N, Hattori M, Iwasaki K, Takagi J |title=Structure of a signaling-competent reelin fragment revealed by X-ray crystallography and electron tomography |journal=EMBO J. |volume=25 |issue=15 |pages=3675–83 |year=2006 |month=August |pmid=16858396 |pmc=1538547 |doi=10.1038/sj.emboj.7601240 |url=}}</ref>
+
+The final Reelin domain contains a highly basic and short C-terminal region (CTR, marked "+") with a length of 32 amino acids. This region is highly conserved, being 100% identical in all investigated mammals. It was thought that CTR is necessary for reelin secretion, because Orleans [[reeler]] mutation, which lacks a part of 8th repeat and the whole CTR, is unable to secrete the misshaped protein, leading to its concentration in cytoplasm. However, one recent study has shown that the CTR is not essential for secretion, which is most probably hindered then reelin is cut along one of the repeats.<!--
+
+--><ref name="Nakano_2007_CTR_1">{{cite journal |author=Nakano Y, Kohno T, Hibi T, ''et al'' |title=The extremely conserved C-terminal region of Reelin is not necessary for secretion but is required for efficient activation of downstream signaling |journal=J. Biol. Chem. |volume=282 |issue=28 |pages=20544–52 |year=2007 |month=July |pmid=17504759 |doi=10.1074/jbc.M702300200 }}</ref><!--
+
+-->  
+
+Reelin is cleaved ''in vivo'' at two sites located after domains 2 and 6 - approximately between repeats 2 and 3 and between repeats 6 and 7, resulting in the production of three fragments.<!--
+
+--><ref name="cleave">{{cite journal |author=Lambert de Rouvroit C, de Bergeyck V, Cortvrindt C, Bar I, Eeckhout Y, Goffinet AM |title=Reelin, the extracellular matrix protein deficient in reeler mutant mice, is processed by a metalloproteinase |journal=Exp. Neurol. |volume=156 |issue=1 |pages=214–7 |year=1999 |month=March |pmid=10192793 |doi=10.1006/exnr.1998.7007 |url=}}</ref><!--
+
+--> This splitting does not decrease the protein's activity, as constructs made of the predicted central fragments (repeats 3–6) bind to lipoprotein receptors, trigger Dab1 phosphorylation and mimic functions of reelin during [[cortical plate]] development.<!--
+
+--><ref name="centralfragment">{{cite journal |author=Jossin Y, Ignatova N, Hiesberger T, Herz J, Lambert de Rouvroit C, Goffinet AM |title=The central fragment of Reelin, generated by proteolytic processing in vivo, is critical to its function during cortical plate development |journal=J. Neurosci. |volume=24 |issue=2 |pages=514–21 |year=2004 |month=January |pmid=14724251 |doi=10.1523/JNEUROSCI.3408-03.2004 |url=}}</ref><!--
+
+--> Moreover, the processing of reelin by embryonic neurons may be neccessary for proper corticogenesis.<!--
+
+--><ref name="pmid17442808">{{cite journal |author=Jossin Y, Gui L, Goffinet AM |title=Processing of Reelin by embryonic neurons is important for function in tissue but not in dissociated cultured neurons |journal=J. Neurosci. |volume=27 |issue=16 |pages=4243–52 |year=2007 |month=April |pmid=17442808 |doi=10.1523/JNEUROSCI.0023-07.2007 |url=}}</ref><!--
+
+-->
+
+==Function==
+
+The primary functions of Reelin are the regulation of corticogenesis and neuronal cell positioning in the prenatal period, but the protein is also implicated in a number of other processes, and the research is ongoing.
+
+Reelin is found in numerous tissues and organs, and one could roughly subdivide its functional roles by the time of expression and by localisation of its action.
+
+A number of non-nervous tissues and organs express reelin in the developing organism, with the expression sharply going down after the organ had been formed. The role of the protein here is largely unexplored, because the knockout mice show no major pathology in these organs. In the adult organism the non-neural expression is much less widespread, but goes up sharply when some organs are injured.<!--
+
+--><ref name="pmid17120005"/><ref name="Kobold_2002_liver1"/><!--
+
+--> The exact function of reelin upregulation following an injury is still being researched.
+[[Image:Journal.pone.0001454.g005 center cropped.jpg|thumb|280px|Reelin controls the direction of radial glia growth. A fragment of an [[Commons:Image:Journal.pone.0001454.g005.jpg|illustration]] from Nomura T. et al., 2008.<ref name="pmid18197264"/> Reelin-expressing cells (red) on C stimulate the growth of green glial fibers, while on B, where the red cells do not express reelin, radial glia is more disarrayed.]]
+On the other hand, reelin's role in the growing CNS is more important and more explored. It promotes the differentiation of progenitor cells into [[radial glia]] and affects the orientation of its fibers, which serve as the guides for the migrating neuroblasts.<!--
+
+--><ref name="pmid12925587">{{cite journal |author=Hartfuss E, Förster E, Bock HH, ''et al'' |title=Reelin signaling directly affects radial glia morphology and biochemical maturation |journal=Development |volume=130 |issue=19 |pages=4597–609 |year=2003 |month=October |pmid=12925587 |doi=10.1242/dev.00654 |url=}}</ref><!--
+
+--> The position of reelin-secreting cell layer is important, because the fibers orient themselves in the direction of its higher concentration.<!--
+
+--><ref name="pmid18197264">{{cite journal |author=Nomura T, Takahashi M, Hara Y, Osumi N |title=Patterns of neurogenesis and amplitude of Reelin expression are essential for making a mammalian-type cortex |journal=PLoS ONE |volume=3 |issue=1 |pages=e1454 |year=2008 |pmid=18197264 |pmc=2175532 |doi=10.1371/journal.pone.0001454 |url=}}</ref><!--
+
+-->
+
+Mammalian corticogenesis is another process where reelin plays a major role. In this process the temporary layer called preplate is split into the marginal zone on the top and subblate below, and the space between them is populated by neuronal layers in the inside-out pattern. In such an arrangement, where the newly created neurons pass through the settled layers and position themselves one step above, is a distinguishing feature of mammalian brain, in contrast to the evolutionary older reptile cortex, in which layers are positioned in an "outside-in" fashion. When reelin is absent, like in the mutant reeler mouse, the order of cortical layering becomes roughly inverted, with younger neurons finding themselves to be unable to pass the settled layers. Subplate neurons fail to stop and invade the uppermost layer, creating the so-called superplate in which they mix with [[Cajal-Retzius cell]]s and some cells normally destined for the second layer. 
+
+[[Image:Pone.0001454.g007.jpg|thumb|280px|Increased reelin expression changes the morphology of migrating neurons: unlike the round neurons with short branches (C) they assume bipolar shape (D) and attach themselves (E) to the [[radial glia]] fibers that are extending in the direction of reelin-expressing cells. Nomura T. et al., 2008.<ref name="pmid18197264"/>]]
+
+There is no agreement concerning the role of reelin in the proper positioning of  cortical layers. The original hypothesis, that the protein is a stop signal for the migrating cells, is supported by its ability to induce the dissociation,<ref name="roleofreelin1"/> its role  in asserting the compact granule cell layer in the hippocampus, and by the fact  that migrating neuroblasts evade the reelin-rich areas. But an experiment in which murine corticogenesis went normally despite the malpositioned reelin secreting layer,<!--
+
+--><ref name="pmid16410414">{{cite journal |author=Yoshida M, Assimacopoulos S, Jones KR, Grove EA |title=Massive loss of Cajal-Retzius cells does not disrupt neocortical layer order |journal=Development |volume=133 |issue=3 |pages=537–45 |year=2006 |month=February |pmid=16410414 |doi=10.1242/dev.02209 |url=}}</ref><!--
+
+--> and lack of evidence that reelin affects the growth cones and leading edges of neurons, caused some additional hypotheses to be proposed. According to one of them, reelin makes the cells more susceptible to some yet undescribed positional signaling cascade.
+
+The protein is thought to  act on migrating neuronal precursors and thus controls correct cell positioning in the cortex and other brain structures. The proposed role is one of a dissociation signal for neuronal groups, allowing them to separate and go from tangential chain-migration to radial individual migration.<!--
+
+--><ref name="roleofreelin1">{{cite journal |author=Hack I, Bancila M, Loulier K, Carroll P, Cremer H |title=Reelin is a detachment signal in tangential chain-migration during postnatal neurogenesis |journal=Nat. Neurosci. |volume=5 |issue=10 |pages=939–45 |year=2002 |month=October |pmid=12244323 |doi=10.1038/nn923 |url=}}</ref><!--
+
+--> Dissociation detaches migrating neurons from the [[glial cell]]s that are acting as their guides, converting them into individual cells that can strike out alone to find their final position.
+
+In the adult nervous system, reelin plays an eminent role at the two most active neurogenesis sites, the subventricular zone and the dentate gyrus. In some species, the neuroblasts from the subventricular zone migrate in chains in the [[rostral migratory stream]] to reach the olfactory bulb, where reelin dissociates them into individual cells that are able to migrate further individually. They change their mode of migration from tangential to radial, and begin using the radial glia fibers as their guides. In the adult dentate gyrus, reelin provides guidance cues for new neurons that are constantly arriving to the granule cell layer from subgranular zone, keeping the layer compact.<!--
+
+--><ref name="dentate_gyrus">{{cite journal | author = Frotscher M, Haas CA, Förster E | title = Reelin controls granule cell migration in the dentate gyrus by acting on the radial glial scaffold | journal = Cereb. Cortex | volume = 13 | issue = 6 | pages = 634–40 | year = 2003 | month = June | pmid = 12764039 | url = | doi = 10.1093/cercor/13.6.634 }}</ref>
+
+Reelin also plays an important role in the adult brain by modulating cortical pyramidal neuron [[dendritic spine]] expression density, the branching of [[dendrite]]s, and the expression of [[long-term potentiation]]<ref name="LTP2"/> as its secretion is continued diffusely by the GABAegric cortical interneurons those origin is traced to the medial [[ganglionic eminence]].
+
+One study suggests that reelin may be the part of the mechanism behind the developmental change in the subunit composition of [[NMDA receptor]], a major player in the memory and neuroplasticity processes. Reelin was shown to increase the mobility of its [[GRIN2B|NR2B]] subunit.<!-- 
+
+--><ref name="pmid17881522">{{cite journal |author=Groc L, Choquet D, Stephenson FA, Verrier D, Manzoni OJ, Chavis P |title=NMDA receptor surface trafficking and synaptic subunit composition are developmentally regulated by the extracellular matrix protein Reelin |journal=J. Neurosci. |volume=27 |issue=38 |pages=10165–75 |year=2007 |pmid=17881522 |doi=10.1523/JNEUROSCI.1772-07.2007}}</ref>
+
+==Evolutionary significance==
+[[Image:Cajal-Retzius_cell_drawing_by_Cajal_1891.gif|left|thumb|440px|[[Cajal-Retzius cell]]s, as drawn by Cajal in 1891. The development of a distinct layer of these reelin-secreting cells played a major role in brain evolution.]]
+[[Image:Schematic illustration of differences in neuronal specification and migration patterns between the mammalian and avian pallium.png|thumb|left|250px|Neuronal development: mammals (left) and avians (right) have different patterns of reelin expression (pink). Nomura T. et al., 2008.<ref name="pmid18197264"/>]]
+Reelin-DAB1 interactions could have played a key role in the structural evolution of the cortex that evolved from a single layer in the common amniote predeccessor into multiple-layered cortex of contemporary mammals.<!--
+
+--><ref name="pmid11137154">{{cite journal |author=Bar I, Lambert de Rouvroit C, Goffinet AM |title=The evolution of cortical development. An hypothesis based on the role of the Reelin signaling pathway |journal=Trends Neurosci. |volume=23 |issue=12 |pages=633–8 |year=2000 |month=December |pmid=11137154|url= |doi=10.1016/S0166-2236(00)01675-1}}</ref><!--
+
+--> Research shows that reelin expression goes up as the cortex becomes more complex, reaching the maximum in the human brain in which the reelin-secreting Cajal-Retzius cells have significantly more complex axonal arbour.<!--
+
+--><ref name="pmid16519657">{{cite journal |author=Molnár Z, Métin C, Stoykova A, ''et al'' |title=Comparative aspects of cerebral cortical development |journal=Eur. J. Neurosci. |volume=23 |issue=4 |pages=921–34 |year=2006 |month=February |pmid=16519657 |pmc=1931431 |doi=10.1111/j.1460-9568.2006.04611.x |url=}}</ref><!--
+
+--> Reelin is present in the telencephalon of all the vertebrates studied so far, but the pattern of expression is widely differential. For example, in zebra fish there are no Cajal-Retzius cells and the protein is being secreted by other neurons.<!--
+
+--><ref name="pmid11173219"/><ref name="pmid12124768">{{cite journal |author=Costagli A, Kapsimali M, Wilson SW, Mione M |title=Conserved and divergent patterns of Reelin expression in the zebrafish central nervous system |journal=J. Comp. Neurol. |volume=450 |issue=1 |pages=73–93 |year=2002 |month=August |pmid=12124768 |doi=10.1002/cne.10292 |url=}}</ref><!--
+
+--> These cells do not form a dedicated layer in amphibians, and radial migration in their brains is very weak.<!--
+
+--><ref name="pmid11173219">{{cite journal |author=Pérez-García CG, González-Delgado FJ, Suárez-Solá ML, ''et al'' |title=Reelin-immunoreactive neurons in the adult vertebrate pallium |journal=J. Chem. Neuroanat. |volume=21 |issue=1 |pages=41–51 |year=2001 |month=January |pmid=11173219 |url= |doi=10.1016/S0891-0618(00)00104-6}}</ref><!--
+
+-->
+
+As the cortex becomes more complex and convoluted, migration along the radial glia fibers becomes more important for the proper lamination. The emergence of a distinct reelin-secreting layer is thought to play an important role in this evolution.<!--
+
+--><ref name="pmid18197264"/> There are conflicting data concerning the importance of this layer,<ref name="pmid16410414"/> and these are explained in the literature either by the existence of an additional signaling positional mechanism that interacts with the reelin cascade,<ref name="pmid16410414"/> or by the assumption that mice that are used in such experiments have  reduntant secretion of reelin<!--
+
+--><ref name="pmid17132178">{{cite journal |author=Goffinet AM |title=What makes us human? A biased view from the perspective of comparative embryology and mouse genetics |journal=J Biomed Discov Collab |volume=1 |issue= |pages=16 |year=2006 |pmid=17132178 |pmc=1769396 |doi=10.1186/1747-5333-1-13 |url=}}</ref><!--
+
+--> compared with more localized synthesis in the human brain.<!--
+
+--><ref name="pmid9671277">{{cite journal |author=Meyer G, Goffinet AM |title=Prenatal development of reelin-immunoreactive neurons in the human neocortex |journal=J. Comp. Neurol. |volume=397 |issue=1 |pages=29–40 |year=1998 |month=July |pmid=9671277 |doi=10.1002/(SICI)1096-9861(19980720)397:1 |url= |doi_brokendate=2008-08-23}}</ref>
+
+Cajal-Retzius cells, most of which disappear around the time of birth, coexpress reelin with the [[HAR1]] gene that is thought to have undergone the most significant evolutionary change in humans compared with chimpanzee, being the most «evolutionary accelerated» of the genes from the [[human accelerated regions]] discovered in 2006.<!--
+
+--><ref name="pmid16915236">{{cite journal |author=Pollard KS, Salama SR, Lambert N, ''et al'' |title=An RNA gene expressed during cortical development evolved rapidly in humans |journal=Nature |volume=443 |issue=7108 |pages=167–72 |year=2006 |month=September |pmid=16915236 |doi=10.1038/nature05113 |url=}}</ref><!--
+
+--> There is evidence of an ongoing evolution in the reelin pathway: DAB1 gene variant was described in 2007 that has spread recently in the Chinese but not in another populations.<!--
+
+--><ref name="pmid17542651">{{cite journal |author=Williamson SH, Hubisz MJ, Clark AG, Payseur BA, Bustamante CD, Nielsen R |title=Localizing Recent Adaptive Evolution in the Human Genome |journal= PLoS Genetics|volume=3 |issue=6 |pages=e90 |year=2007 |pmid=17542651 |doi=10.1371/journal.pgen.0030090}}</ref><ref name="NYT1">{{cite web | url = http://www.nytimes.com/2007/06/26/science/26human.html?pagewanted=1 | title = Humans Have Spread Globally, and Evolved Locally  | author = Wade N | authorlink = | coauthors = | date = 2007-06-26 | format = | work = Science | publisher = New York Times | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}}</ref><!--
+
+-->
+
+==Mechanism of action==
+[[Image:Journal.pone.0000252.g008.png|thumb|280px|The main reelin signaling cascade (ApoER2 and VLDLR) and its interaction with [[LIS1]].  Zhang et al., 2008<ref name="Zhang_2007_Pafah1b"/>]]
+The main action of reelin is apparently conducted through the two members of [[:Category:low density lipoprotein receptor gene family|Low density lipoprotein receptor gene family]], [[VLDL receptor|VLDLR]] and the [[ApoER2]]. It also has been shown that alpha-3-beta-1 [[integrin]] receptor binds the N-terminal region of reelin, a site distinct from the region of reelin shown to associate with VLDLR/ApoER2.<!--
+
+--><ref name="integrin">{{cite journal |author=Schmid RS, Jo R, Shelton S, Kreidberg JA, Anton ES |title=Reelin, integrin and DAB1 interactions during embryonic cerebral cortical development |journal=Cereb. Cortex |volume=15 |issue=10 |pages=1632–6 |year=2005 |month=October |pmid=15703255 |doi=10.1093/cercor/bhi041 |url=}}</ref><!--
+
+--> The proposal that the proto[[cadherin]] CNR1 behaves as a Reelin receptor<!--
+
+--><ref name="cadherin">{{cite journal |author=Senzaki K, Ogawa M, Yagi T |title=Proteins of the CNR family are multiple receptors for Reelin |journal=Cell |volume=99 |issue=6 |pages=635–47 |year=1999 |month=December |pmid=10612399 |url= |doi=10.1016/S0092-8674(00)81552-4}}</ref><!--
+
+--> has been disproven.<!--
+
+--><ref name="centralfragment"/>
+
+Reelin receptors are present on both [[neuron]]s and [[glial cell]]s, with one study showing that the [[radial glia]] express the same amount of [[Low density lipoprotein receptor-related protein 8|ApoER2]] but being ten times less rich in [[VLDL receptor|VLDLR]].<ref name="pmid12925587"/> One study suggests that [[CD29|beta-1 integrin receptors]] on glial cells play more important role in neuronal layering than the same receptors on the migrating neuroblasts.<ref name="pmid18077697">{{cite journal |author=Belvindrah R, Graus-Porta D, Goebbels S, Nave KA, Müller U |title=Beta1 integrins in radial glia but not in migrating neurons are essential for the formation of cell layers in the cerebral cortex |journal=J. Neurosci. |volume=27 |issue=50 |pages=13854–65 |year=2007 |month=December |pmid=18077697 |doi=10.1523/JNEUROSCI.4494-07.2007 }}</ref>
+
+The intracellular adaptor [[DAB1]] binds to the VLDLR and ApoER2 through an NPxY motif and is involved in transmission of Reelin signals through these lipoprotein receptors. It becomes phosphorylated and apparently stimulates the [[actin]] cytoskeleton to change its shape, affecting the proportion of integrin receptors on the cell surface, which leads to the change in adhesion. Phosphorylation of DAB1 leads to its [[ubiquitination]] and subsequent degradation, and this explains the hightened levels of DAB1 in the absense of reelin.<!--
+
+--><ref name="pmid17974915">{{cite journal |author=Feng L, Allen NS, Simo S, Cooper JA |title=Cullin 5 regulates Dab1 protein levels and neuron positioning during cortical development |journal=Genes Dev. |volume=21 |issue=21 |pages=2717–30 |year=2007 |month=November |pmid=17974915 |pmc=2045127 |doi=10.1101/gad.1604207 |url=}}</ref><!--
+
+--> Such [[negative feedback]] is thought to be important for proper cortical lamination.<!--
+
+--><ref name="pmid18006681">{{cite journal | author = Kerjan G, Gleeson JG | title = A missed exit: Reelin sets in motion Dab1 polyubiquitination to put the break on neuronal migration | journal = Genes Dev. | volume = 21 | issue = 22 | pages = 2850–4 | year = 2007 | month = November | pmid = 18006681 | doi = 10.1101/gad.1622907 | url =  }}</ref><!--
+
+--> 
+[[Image:Reelin induces GFAP and FABP7 via Notch1.jpg|thumb|280px|Reelin stimulates the progenitor cells to differentiate into radial glia, inducing the expression of radial glial marker [[FABP7|BLBP]] by affecting the [[NOTCH1]] cascade. A fragment of an [[Commons:Image:Reelin-induced radial glial phenotype is dependent on gamma-secretase activity.jpg|illustration]] from Keilani et al., 2008.<ref name="pmid18593473"/>]]
+A protein having an important role in lissencephaly and accordingly called [[LIS1]] ([[PAFAH1B1]]), was shown to interact with the intracellular segment of VLDLR, thus reacting to the activation of reelin pathway.<!--
+
+--><ref name="Zhang_2007_Pafah1b">{{cite journal | author = Zhang G, Assadi AH, McNeil RS, Beffert U, Wynshaw-Boris A, Herz J, Clark GD, D’Arcangelo G. | title = The Pafah1b complex interacts with the Reelin receptor VLDLR | journal = PLoS ONE | volume = 2 | issue = 2 | pages = e252 | year = 2007 | pmid = 17330141 | pmc = 1800349 | doi = 10.1371/journal.pone.0000252 | url =  }}</ref>
+
+The two main reelin receptors seem to have slightly different roles: according to one study, VLDLR conducts the stop signal, while ApoER2 is essential for the migration of late-born neocortical neurons.<!--
+
+--><ref name="pmid17913789">{{cite journal |author=Hack I, Hellwig S, Junghans D, Brunne B, Bock HH, Zhao S, Frotscher M |title=Divergent roles of ApoER2 and Vldlr in the migration of cortical neurons |journal=Development |volume=134 |issue=21 |pages=3883–91 |year=2007 |pmid=17913789 |doi=10.1242/dev.005447}}</ref><!--
+
+-->
+
+Reelin molecules have been shown<!--
+
+--><ref name="hugecomplex">{{cite journal |author=Utsunomiya-Tate N, Kubo K, Tate S, ''et al'' |title=Reelin molecules assemble together to form a large protein complex, which is inhibited by the function-blocking CR-50 antibody |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=97 |issue=17 |pages=9729–34 |year=2000 |month=August |pmid=10920200 |pmc=16933 |doi=10.1073/pnas.160272497 }}</ref><ref name="complex">{{cite journal |author=Kubo K, Mikoshiba K, Nakajima K |title=Secreted Reelin molecules form homodimers |journal=Neurosci. Res. |volume=43 |issue=4 |pages=381–8 |year=2002 |month=August |pmid=12135781 |url= |doi=10.1016/S0168-0102(02)00068-8}}</ref><!--
+
+--> to form a large protein complex, a [[Disulfide bond|disulfide-linked]] [[homodimer]]. If the homodimer fails to form, efficient tyrosine [[phosphorylation]] of DAB1 ''in vitro'' fails. But reelin itself can cut the peptide bonds holding other proteins together, being a serine protease,<!--
+
+--><ref name="pmid11689558">{{cite journal | author = Quattrocchi CC, Wannenes F, Persico AM, Ciafré SA, D'Arcangelo G, Farace MG, Keller F. | title = Reelin is a serine protease of the extracellular matrix | journal = J. Biol. Chem. | volume = 277 | issue = 1 | pages = 303–9 | year = 2002 | month = January | pmid = 11689558 | doi = 10.1074/jbc.M106996200 | url =  }}</ref><!--
+
+--> and this may affect the cellular adhesion and migration processes.
+
+Reelin-dependent strengthening of [[long-term potentiation]] is caused by [[ApoER2]] interaction with [[NMDA receptor]]. This interaction happens when ApoER2 has a region coded by exon 19. ApoER2 gene is alternatively spliced, with the exon 19-containing variant more actively produced during periods of activity.<!--
+
+--><ref name="Reelin_ApoER2_Exon19_2005_Beffert">{{cite journal |author=Beffert U, Weeber EJ, Durudas A, ''et al'' |title=Modulation of synaptic plasticity and memory by Reelin involves differential splicing of the lipoprotein receptor Apoer2 |journal=Neuron |volume=47 |issue=4 |pages=567–79 |year=2005 |month=August |pmid=16102539 |doi=10.1016/j.neuron.2005.07.007 |url=http://jax.herzlab.org/Course2006/presentations/Beffert2005.pdf}}</ref><!--
+
+--> According to one study, the hippocampal reelin expression rapidly goes up when there is need to store a memory, as [[demethylase]]s open up the RELN gene.<!--
+
+--><ref name="pmid17359920">{{cite journal |author=Miller CA, Sweatt JD |title=Covalent modification of DNA regulates memory formation |journal=Neuron |volume=53 |issue=6 |pages=857–69 |year=2007 |month=March |pmid=17359920 |doi=10.1016/j.neuron.2007.02.022 |url=}}</ref>
+
+The activation of dendrite growth by reelin is apparently conducted throuth Src family kinases and is dependent upon the expression of Crk family proteins.<!--
+
+--><ref name="pmid18477607">{{cite journal |author=Matsuki T, Pramatarova A, Howell BW |title=Reduction of Crk and CrkL expression blocks reelin-induced dendritogenesis |journal=J. Cell. Sci. |volume= 121|issue= |pages= 1869|year=2008 |month=May |pmid=18477607 |doi=10.1242/jcs.027334 |url=}}</ref><!--
+
+-->
+
+One study shows that reelin somehow activates the signaling cascade of [[NOTCH1|Notch-1]], inducing the expression of [[FABP7]] and prompting progenitor cells to assume [[radial glia]]l phenotype.<!--
+
+--><ref name="pmid18593473">{{cite journal |author=Keilani S, Sugaya K |title=Reelin induces a radial glial phenotype in human neural progenitor cells by activation of Notch-1 |journal=BMC Dev. Biol. |volume=8 |issue=1 |pages=69 |year=2008 |month=July |pmid=18593473 |doi=10.1186/1471-213X-8-69 |url=}}</ref>
+
+One study shows that proper corticogenesis ''in vivo'' is highly dependent upon reelin being processed by embrionic neurons,<ref name="pmid17442808"/> which are thought to secrete some as yet unidentified [[metalloproteinase]]s that free the central signal-competent part of the protein. Some other unknown proteolytic mechanisms may also play a role.<!--
+
+--><ref name="pmid12959647">{{cite journal |author=Lugli G, Krueger JM, Davis JM, Persico AM, Keller F, Smalheiser NR |title=Methodological factors influencing measurement and processing of plasma reelin in humans |journal=BMC Biochem. |volume=4 |issue= |pages=9 |year=2003 |month=September |pmid=12959647 |pmc=200967 |doi=10.1186/1471-2091-4-9 |url=}}</ref><!--
+
+--> It is supposed that full-sized reelin stucks to the extracellular matrix fibers on the higher levels, and the central fragments, as they are being freed up by the breaking up of reelin, are able to permeate into the lower levels.<!--
+
+--><ref name="pmid17442808"/><!--
+
+--> It is possible that as [[neuroblast]]s reach the higher levels they stop their migration either because of the heightened combined expression of all forms of reelin, or due to the peculiar mode of action of the full-sized reelin molecules and its homodimers.<!--
+
+--><ref name="Reelin_book_2008"/>
+
+== Role in brain pathology ==
+=== Lissencephaly ===
+Disruptions of the RELN gene are considered to be the cause of the rare form of [[lissencephaly]] with cerebellar hypoplasia called [[Norman-Roberts syndrome]].<!--
+
+--><ref name="liss2000">{{cite journal |author=Hong SE, Shugart YY, Huang DT, ''et al'' |title=Autosomal recessive lissencephaly with cerebellar hypoplasia is associated with human RELN mutations |journal=Nat. Genet. |volume=26 |issue=1 |pages=93–6 |year=2000 |month=September |pmid=10973257 |doi=10.1038/79246 |url=}}</ref><ref name="liss2001">{{cite journal |author=Crino P |title=New RELN Mutation Associated with Lissencephaly and Epilepsy |journal=Epilepsy Curr |volume=1 |issue=2 |pages=72 |year=2001 |month=November |pmid=15309195 |pmc=320825 |doi=10.1046/j.1535-7597.2001.00017.x |url=}}</ref><!--
+
+--> The mutations disrupt [[Splicing (genetics)|splicing]] of RELN [[Complementary DNA|cDNA]], resulting in low or undetectable amounts of reelin protein. The [[phenotype]] in these patients was characterized by [[hypotonia]], [[ataxia]], and developmental delay, with lack of unsupported sitting and profound mental retardation with little or no language development. Seizures and congenital [[lymphedema]] were also present. A novel [[chromosomal translocation]] causing the syndrome was described in 2007.<!--
+
+--><ref name="pmid17431900">{{cite journal |author=Zaki M, Shehab M, El-Aleem AA, ''et al'' |title=Identification of a novel recessive RELN mutation using a homozygous balanced reciprocal translocation |journal=Am. J. Med. Genet. A |volume=143A |issue=9 |pages=939–44 |year=2007 |month=May |pmid=17431900 |doi=10.1002/ajmg.a.31667 |url=}}</ref><!--
+
+--> The mutations affecting reelin in human are usually associated with [[Consanguinity|consanguineous marriage]].
+
+=== Schizophrenia ===
+Reduced expression of reelin and its [[Messenger RNA|mRNA]] levels in the brains of [[schizophrenia]] sufferers had been reported in 1998<!--
+
+--><ref name="szproof1">{{cite journal |author=Impagnatiello F, Guidotti AR, Pesold C, ''et al'' |title=A decrease of reelin expression as a putative vulnerability factor in schizophrenia |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=95 |issue=26 |pages=15718–23 |year=1998 |month=December |pmid=9861036 |pmc=28110 |url= |doi=10.1073/pnas.95.26.15718}}</ref><!--
+
+--> and 2000<!--
+
+--><ref name="szproof2">{{cite journal |author=Guidotti A, Auta J, Davis JM, ''et al'' |title=Decrease in reelin and glutamic acid decarboxylase67 (GAD67) expression in schizophrenia and bipolar disorder: a postmortem brain study |journal=Arch. Gen. Psychiatry |volume=57 |issue=11 |pages=1061–9 |year=2000 |month=November |pmid=11074872 |url= |doi=10.1001/archpsyc.57.11.1061 }}</ref><!--
+
+--> and independently confirmed in the postmortem studies of hippocampus,<!--
+
+--><ref name="szconfirm1">{{cite journal |author=Fatemi SH, Earle JA, McMenomy T |title=Reduction in Reelin immunoreactivity in hippocampus of subjects with schizophrenia, bipolar disorder and major depression |journal=Mol. Psychiatry |volume=5 |issue=6 |pages=654–63, 571 |year=2000 |month=November |pmid=11126396 |url= |doi=10.1038/sj.mp.4000783}}</ref><!--
+
+--> [[cerebellum]],<ref name="pmid15560956"/> [[basal ganglia]],<!--
+
+--><ref name="BDP_basal_ganglia_2007">{{cite journal | author = Veldic M, Kadriu B, Maloku E, Agis-Balboa RC, Guidotti A, Davis JM, Costa E | title = Epigenetic mechanisms expressed in basal ganglia GABAergic neurons differentiate schizophrenia from bipolar disorder | journal = Schizophr. Res. | volume = 91 | issue = 1-3 | pages = 51–61 | year = 2007 | month = March | pmid = 17270400 | pmc = 1876737 | doi = 10.1016/j.schres.2006.11.029 | url =  }}</ref><!--
+
+--> and in the cortex studies.<!--
+
+--><ref name="szconfirm2">{{cite journal |author=Eastwood SL, Harrison PJ |title=Interstitial white matter neurons express less reelin and are abnormally distributed in schizophrenia: towards an integration of molecular and morphologic aspects of the neurodevelopmental hypothesis |journal=Mol. Psychiatry |volume=8 |issue=9 |pages=769, 821–31 |year=2003 |month=September |pmid=12931209 |doi=10.1038/sj.mp.4001371 |url=}}</ref><ref name="szconfirm3">{{cite journal |author=Abdolmaleky HM, Cheng KH, Russo A, ''et al'' |title=Hypermethylation of the reelin (RELN) promoter in the brain of schizophrenic patients: a preliminary report |journal=Am. J. Med. Genet. B Neuropsychiatr. Genet. |volume=134B |issue=1 |pages=60–6 |year=2005 |month=April |pmid=15717292 |doi=10.1002/ajmg.b.30140 |url=}}</ref><!--
+
+--> The reduction may reach up to 50% in some brain regions and is coupled with reduced expression of [[GAD-67]] [[enzyme]],<!--
+
+--><ref name="pmid15560956">{{cite journal |author=Fatemi SH, Hossein Fatemi S, Stary JM, Earle JA, Araghi-Niknam M, Eagan E |title=GABAergic dysfunction in schizophrenia and mood disorders as reflected by decreased levels of glutamic acid decarboxylase 65 and 67 kDa and Reelin proteins in cerebellum |journal=Schizophr. Res. |volume=72 |issue=2-3 |pages=109–22 |year=2005 |month=January |pmid=15560956 |doi=10.1016/j.schres.2004.02.017 |url=}}</ref><!--
+
+--> which catalyses the transition of [[glutamate]] to [[GABA]]. [[Blood test|Blood levels]] of reelin and its [[isoform]]s are also altered in schizophrenia, along with [[mood disorder]]s, according to one study.<!--
+
+--><ref name="fatemi_blood_reelin">{{cite journal | author = Fatemi SH, Kroll JL, Stary JM | title = Altered levels of Reelin and its isoforms in schizophrenia and mood disorders | journal = Neuroreport | volume = 12 | issue = 15 | pages = 3209–15 | year = 2001 | month = October | pmid = 11711858  | url =  | doi = 10.1097/00001756-200110290-00014 }}</ref><!--
+
+--> Reduced reelin mRNA prefrontal expression in schizophrenia was found to be the most statistically relevant disturbance found in the multicenter study conducted in 14 separate laboratories in 2001 by Stanley Foundation Neuropathology Consortium.<!--
+
+--><ref name="Knable_2001">{{cite journal |author=Knable MB, Torrey EF, Webster MJ, Bartko JJ |title=Multivariate analysis of prefrontal cortical data from the Stanley Foundation Neuropathology Consortium |journal=Brain Res. Bull. |volume=55 |issue=5 |pages=651–9 |year=2001 |month=July |pmid=11576762 |url= |doi=10.1016/S0361-9230(01)00521-4}}</ref><!--
+
+--> 
+
+[[Epigenetics|Epigenetic]] hypermethylation of DNA in schizophrenia patients is proposed as a cause of the reduction,<!--
+
+--><ref name="hypermeth">{{cite journal |author=Grayson DR, Jia X, Chen Y, ''et al'' |title=Reelin promoter hypermethylation in schizophrenia |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=102 |issue=26 |pages=9341–6 |year=2005 |month=June |pmid=15961543 |pmc=1166626 |doi=10.1073/pnas.0503736102 |url=}}</ref><ref name="dong">{{cite journal |author=Dong E, Agis-Balboa RC, Simonini MV, Grayson DR, Costa E, Guidotti A |title=Reelin and glutamic acid decarboxylase67 promoter remodeling in an epigenetic methionine-induced mouse model of schizophrenia |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=102 |issue=35 |pages=12578–83 |year=2005 |month=August |pmid=16113080 |pmc=1194936 |doi=10.1073/pnas.0505394102 |url=}}</ref><!--
+
+--> in agreement with the observations dating from the 1960's that administration of [[methionine]] to schizophrenic patients results in a profound exacerbation of schizophrenia symptoms in sixty to seventy percent of patients.<!--
+
+--><ref name="methionine1">{{cite journal |author=Pollin W, Cardon PV, Kety SS |title=Effects of amino acid feedings in schizophrenic patients treated with iproniazid |journal=Science (journal) |volume=133 |issue= |pages=104–5 |year=1961 |month=January |pmid=13736870 |doi= 10.1126/science.133.3446.104 |url=}}</ref><ref name="methionine2">{{cite journal |author=Brune GG, Himwich HE |title=Effects of methionine loading on the behavior of schizophrenic patients |journal=J. Nerv. Ment. Dis. |volume=134 |issue= |pages=447–50 |year=1962 |month=May |pmid=13873983 |doi= |url=}}</ref><ref name="methionine3">{{cite journal |author=Park L, Baldessarini RJ, Kety SS |title=Effects of methionine ingestion in chronic schizophrenia patients treated with monoamine oxidase inhibitors |journal=Arch. Gen. Psychiatry |volume=12 |issue= |pages=346–51 |year=1965 |month=April |pmid=14258360 |url=}} </ref><ref name="methionine4>{{cite journal |author=Antun FT, Burnett GB, Cooper AJ, Daly RJ, Smythies JR, Zealley AK |title=The effects of L-methionine (without MAOI) in schizophrenia |journal=J Psychiatr Res |volume=8 |issue=2 |pages=63–71 |year=1971 |month=June |pmid=4932991 |url= |doi=10.1016/0022-3956(71)90009-4}}</ref><!--
+
+--> The proposed mechanism is a part of the "epigenetic hypothesis for schizophrenia pathophysiology" formulated in 2008.<!--
+
+--><ref name="urlSchizophrenia Research Forum: Current Hypotheses">{{cite web | url = http://www.schizophreniaforum.org/for/curr/grayson/default.asp | title = Current Hypotheses | author = Grayson DR, Guidotti A, Costa E | authorlink = | coauthors = | date = 2008-01-17 | format = | work = Schizophrenia Research Forum | publisher = schizophreniaforum.org | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}}</ref><!--
+
+--> A postmortem study comparing [[DNA methyltransferase#DNMT_1|DNMT1]] and Reelin mRNA expression in cortical layers I and V of schizophrenic patients and normal controls demonstrated that in the layer V both DNMT1 and Reelin levels were normal, while in the layer I DNMT1 was threefold higher, probably leading to the twofold decrease in the Reelin expression.<!--
+
+--><ref name="epigenetic2007">{{cite journal |author=Ruzicka WB, Zhubi A, Veldic M, Grayson DR, Costa E, Guidotti A |title=Selective epigenetic alteration of layer I GABAergic neurons isolated from prefrontal cortex of schizophrenia patients using laser-assisted microdissection |journal=Mol. Psychiatry |volume=12 |issue=4 |pages=385–97 |year=2007 |month=April |pmid=17264840 |doi=10.1038/sj.mp.4001954 |url=}}</ref><!--
+
+--> There is evidence that the change is selective, and DNMT1 is overexpressed in reelin-secreting GABAegric neurons but not in their glutamatergic neighbours.<!--
+
+--><ref name="DNMT_inhibition_GAD67_Reelin_2004">{{cite journal | author = Veldic M, Caruncho HJ, Liu WS, Davis J, Satta R, Grayson DR, Guidotti A, Costa E | title = DNA-methyltransferase 1 mRNA is selectively overexpressed in telencephalic GABAergic interneurons of schizophrenia brains | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 101 | issue = 1 | pages = 348–53 | year = 2004 | month = January | pmid = 14684836 | pmc = 314188 | doi = 10.1073/pnas.2637013100 | url =  }}</ref><ref name="pmid15684088">{{cite journal | author = Veldic M, Guidotti A, Maloku E, Davis JM, Costa E | title = In psychosis, cortical interneurons overexpress DNA-methyltransferase 1 | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 102 | issue = 6 | pages = 2152–7 | year = 2005 | month = February | pmid = 15684088 | pmc = 548582 | doi = 10.1073/pnas.0409665102 | url =  }}</ref><!--
+
+--> [[Methylation]] inhibitors and [[histone deacetylase]] inhibitors, such as [[valproic acid]], increase reelin mRNA levels,<!--
+
+--><ref name ="valpro">{{cite journal |author=Tremolizzo L, Doueiri MS, Dong E, ''et al'' |title=Valproate corrects the schizophrenia-like epigenetic behavioral modifications induced by methionine in mice |journal=Biol. Psychiatry |volume=57 |issue=5 |pages=500–9 |year=2005 |month=March |pmid=15737665 |doi=10.1016/j.biopsych.2004.11.046 |url=}}</ref><ref name="valproicreelin">{{cite journal |author=Chen Y, Sharma RP, Costa RH, Costa E, Grayson DR |title=On the epigenetic regulation of the human reelin promoter |journal=Nucleic Acids Res. |volume=30 |issue=13 |pages=2930–9 |year=2002 |month=July |pmid=12087179 |pmc=117056 |url= |doi=10.1093/nar/gkf401}}</ref><ref>{{cite journal |author=Mitchell CP, Chen Y, Kundakovic M, Costa E, Grayson DR |title=Histone deacetylase inhibitors decrease reelin promoter methylation in vitro |journal=J. Neurochem. |volume=93 |issue=2 |pages=483–92 |year=2005 |month=April |pmid=15816871 |doi=10.1111/j.1471-4159.2005.03040.x |url=}}</ref><!--
+
+--> while L-methionine treatment downregulates the phenotypic expression of reelin.<!--
+
+--><ref name="l-meth">{{cite journal |author=Tremolizzo L, Carboni G, Ruzicka WB, ''et al'' |title=An epigenetic mouse model for molecular and behavioral neuropathologies related to schizophrenia vulnerability |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=99 |issue=26 |pages=17095–100 |year=2002 |month=December |pmid=12481028 |pmc=139275 |doi=10.1073/pnas.262658999 |url=}}</ref> One study indicated the upregulation of histone deacetylase HDAC1 in the hippocampi of patients.<!--
+
+--><ref name="pmid17553960">{{cite journal | author = Benes FM, Lim B, Matzilevich D, Walsh JP, Subburaju S, Minns M | title = Regulation of the GABA cell phenotype in hippocampus of schizophrenics and bipolars | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 104 | issue = 24 | pages = 10164–9 | year = 2007 | month = June | pmid = 17553960 | pmc = 1888575 | doi = 10.1073/pnas.0703806104 | url =  }}</ref><!--
+
+--> Histone deacetylases supress gene promoters; hyperacetylation of hystones was shown in murine models to demethylate the promoters of both reelin and GAD67.<!--
+
+--><ref name="Dong_2007">{{cite journal | author = Dong E, Guidotti A, Grayson DR, Costa E | title = Histone hyperacetylation induces demethylation of reelin and 67-kDa glutamic acid decarboxylase promoters | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 104 | issue = 11 | pages = 4676–81 | year = 2007 | month = March | pmid = 17360583 | pmc = 1815468 | doi = 10.1073/pnas.0700529104 | url =  }}</ref><!--
+
+--> DNMT1 inhibitors in animals have been shown to increase the expression of both reelin and GAD67.<!--
+
+--><ref name="DNMT_inhibition_GAD67_Reelin_2006">{{cite journal | author = Kundakovic M, Chen Y, Costa E, Grayson DR | title = DNA methyltransferase inhibitors coordinately induce expression of the human reelin and glutamic acid decarboxylase 67 genes | journal = Mol. Pharmacol. | volume = 71 | issue = 3 | pages = 644–53 | year = 2007 | month = March | pmid = 17065238 | doi = 10.1124/mol.106.030635 | url =  }}</ref><!--
+
+--> As one study shows, [[S-adenosyl methionine|SAM]] concentration in patients' prefrontal cortex is twice as high as in the cortices of non-affected people.<!--
+
+--><ref name="SAM_and_DNMT1_psychosis_2007">{{cite journal | author = Guidotti A, Ruzicka W, Grayson DR, ''et al'' | title = S-adenosyl methionine and DNA methyltransferase-1 mRNA overexpression in psychosis | journal = Neuroreport | volume = 18 | issue = 1 | pages = 57–60 | year = 2007 | month = January | pmid = 17259861 | doi = 10.1097/WNR.0b013e32800fefd7 | url =  }}</ref><!--
+
+--> SAM, being a methyl group donor neccessary for DNMT activity, could further shift epigenetic control of gene expression. 
+
+The factors mentioned above serve to corroborate the epigenetic hypothesis. But it is worth mentioning that in contrast with initial data, two recent studies have failed to confirm the RELN hypermethylation,<!--
+
+--><ref name="pmid17870056">{{cite journal |author=Tochigi M, Iwamoto K, Bundo M, Komori A, Sasaki T, Kato N, Kato T |title=Methylation Status of the Reelin Promoter Region in the Brain of Schizophrenic Patients |journal= Biological Psychiatry|volume= 63|issue=  | pages = 530|year=2007 |pmid=17870056 |doi=10.1016/j.biopsych.2007.07.003}}</ref><ref name="pmid18319075">{{cite journal |author=Mill J, Tang T, Kaminsky Z, Khare T, Yazdanpanah S, Bouchard L, Jia P, Assadzadeh A, Flanagan J, Schumacher A, Wang SC, Petronis A |title=Epigenomic profiling reveals DNA-methylation changes associated with major psychosis |journal=Am. J. Hum. Genet. |volume=82 |issue=3 |pages=696–711 |year=2008 |pmid=18319075 |doi=10.1016/j.ajhg.2008.01.008}}</ref><!--
+
+--> and psychotropic medication could in itself affect the reelin expression in the brain, as animal studies show ([[Reelin#Psychotropic_medication_and_reelin_expression|see below]]).
+
+Other interesting findings probably linking reelin pathway to developmental hypotheses of schizophrenia are noted in the studies on mice that are either prenatally infected with [[influenza]] virus<!---
+
+---><ref name="influenza1">{{cite journal | author = Fatemi SH, Emamian ES, Kist D, Sidwell RW, Nakajima K, Akhter P, Shier A, Sheikh S, Bailey K | title = Defective corticogenesis and reduction in Reelin immunoreactivity in cortex and hippocampus of prenatally infected neonatal mice | journal = Mol. Psychiatry | volume = 4 | issue = 2 | pages = 145–54 | year = 1999 | month = March | pmid = 10208446 | url =  | doi = 10.1038/sj.mp.4000520 }}</ref><!---
+
+---> or have their immune system activated artificially during pregnancy.<!--
+
+--><ref name="pmid18023140">{{cite journal |author=Meyer U, Nyffeler M, Yee BK, Knuesel I, Feldon J |title=Adult brain and behavioral pathological markers of prenatal immune challenge during early/middle and late fetal development in mice |journal=Brain Behav Immun |volume= 22|issue= |pages= 469|year=2007 |pmid=18023140 |doi=10.1016/j.bbi.2007.09.012}}</ref><!--
+
+--> The [[Cajal-Retzius cell]]s in the newborns secrete significantly less reelin despite keeping their expression of [[calretinin]] and [[NOS1|nNos]] within normal range. These data run in parrallel with the findings of increased risk of schizophrenia in humans after a prenatal infection during the second trimester. 
+
+Chromosome region 7q22 that harbours the RELN gene is associated with schizophrenia,<!--
+
+--><ref name="pmid17684500">{{cite journal |author=Wedenoja J, Loukola A, Tuulio-Henriksson A, Paunio T, Ekelund J, Silander K, Varilo T, Heikkilä K, Suvisaari J, Partonen T, Lönnqvist J, Peltonen L |title=Replication of linkage on chromosome 7q22 and association of the regional Reelin gene with working memory in schizophrenia families |journal= Mol Psychiatry |volume= 13|issue= |pages= 673|year=2007 |pmid=17684500 |doi=10.1038/sj.mp.4002047}}</ref><!--
+
+--> and the gene itself was associated with the disease in a large study that found the polymorphism rs7341475 to increase the risk of the disease in women, but not in men. The women that have the SNP are about 1.4 times more likely to get ill, according to the study.<!--
+
+--><ref name="pmid18282107">{{cite journal |author=Shifman S, Johannesson M, Bronstein M, Chen SX, Collier DA, Craddock NJ, Kendler KS, Li T, O'Donovan M, O'Neill FA, Owen MJ, Walsh D, Weinberger DR, Sun C, Flint J, Darvasi A |title=Genome-Wide Association Identifies a Common Variant in the Reelin Gene That Increases the Risk of Schizophrenia Only in Women |journal=PLoS Genet. |volume=4 |issue=2 |pages=e28 |year=2008 |pmid=18282107 |doi=10.1371/journal.pgen.0040028}} [http://genetics.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pgen.0040028 free full text]</ref><!--
+
+--> Allelic variations of RELN have also been correlated with working memory, memory and executive functioning in nuclear families where one of the members suffers from schizophrenia.<ref name="pmid17684500"/>
+
+One study showed that patients have decreased levels of one of reelin receptors, [[VLDLR]], in the peripheral [[lymphocyte]]s.<!--
+
+--><ref name="pmid17936586">{{cite journal |author=Suzuki K, Nakamura K, Iwata Y, Sekine Y, Kawai M, Sugihara G, Tsuchiya KJ, Suda S, Matsuzaki H, Takei N, Hashimoto K, Mori N |title=Decreased expression of reelin receptor VLDLR in peripheral lymphocytes of drug-naive schizophrenic patients |journal= Schizophrenia Research|volume= 98|issue= |pages= 148|year=2007 |pmid=17936586 |doi=10.1016/j.schres.2007.09.029}}</ref><!--
+
+--> After six months of [[antipsychotic]] therapy the expression went up; according to authors, peripheral VLRLR levels may serve as a reliable peripheral biomarker of schizophrenia.<ref name="pmid17936586"/> 
+
+Considering the role of reelin in promoting dendritogenesis,<ref name="Niu_2004"/><ref name="pmid18477607"/> suggestions were made that the localized dendritic spine deficit observed in schizophrenia <!--
+
+--><ref name="pmid18463626">{{cite journal |author=Sweet RA, Henteleff RA, Zhang W, Sampson AR, Lewis DA |title=Reduced Dendritic Spine Density in Auditory Cortex of Subjects with Schizophrenia |journal=[[Neuropsychopharmacology]] |volume= |issue= |pages= |year=2008 |month=May |pmid=18463626 |doi=10.1038/npp.2008.67}}</ref><ref name="pmid10632234">{{cite journal |author=Glantz LA, Lewis DA |title=Decreased dendritic spine density on prefrontal cortical pyramidal neurons in schizophrenia |journal=Arch. Gen. Psychiatry |volume=57 |issue=1 |pages=65–73 |year=2000 |month=January |pmid=10632234 |url= |doi=10.1001/archpsyc.57.1.65}}</ref><!--
+
+--> could be in part connected with the downregulation of reelin.<!--
+
+--><ref name="pmid10725376">{{cite journal |author=Rodriguez MA, Pesold C, Liu WS, ''et al'' |title=Colocalization of integrin receptors and reelin in dendritic spine postsynaptic densities of adult nonhuman primate cortex |journal=[[Proc. Natl. Acad. Sci. U.S.A.]] |volume=97 |issue=7 |pages=3550–5 |year=2000 |month=March |pmid=10725376 |pmc=16277 |doi=10.1073/pnas.050589797 |url=}}</ref><ref name="pmid11592844">{{cite journal |author=Costa E, Davis J, Grayson DR, Guidotti A, Pappas GD, Pesold C |title=Dendritic spine hypoplasticity and downregulation of reelin and GABAergic tone in schizophrenia vulnerability |journal=Neurobiol. Dis. |volume=8 |issue=5 |pages=723–42 |year=2001 |month=October |pmid=11592844 |doi=10.1006/nbdi.2001.0436}}</ref><!--
+
+--> 
+
+Reelin pathway could also be linked to schizophrenia and other psychotic disorders through its interaction with risk genes. One example is the neuronal transcription factor [[NPAS3]], disruption of which is  linked to schizophrenia<!--
+
+--><ref name="Kamnasaran_2003">{{cite journal | author = Kamnasaran D, Muir WJ, Ferguson-Smith MA, Cox DW | title = Disruption of the neuronal PAS3 gene in a family affected with schizophrenia | journal = J. Med. Genet. | volume = 40 | issue = 5 | pages = 325–32 | year = 2003 | month = May | pmid = 12746393 | pmc = 1735455 | doi = 10.1136/jmg.40.5.325 | url =  | issn = }}</ref><!--
+
+--> and learning disability. Knockout mice lacking NPAS3 or the similar protein [[NPAS1]] have significantly lower levels of reelin;<!--
+
+--><ref name="Erbel-Sieler_NPAS3_deficient_mice_2004">{{cite journal | author = Erbel-Sieler C, Dudley C, Zhou Y, ''et al'' | title = Behavioral and regulatory abnormalities in mice deficient in the NPAS1 and NPAS3 transcription factors | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 101 | issue = 37 | pages = 13648–53 | year = 2004 | month = September | pmid = 15347806 | pmc = 518807 | doi = 10.1073/pnas.0405310101 | url = | issn = }}</ref><!--
+
+--> the precise mechanism leading to this is unknown. Another example is the schizophrenia-linked gene [[MTHFR]], with murine knockouts showing decreased levels of reelin in the cerebellum.<!--
+
+--><ref name="pmid15979267">{{cite journal |author=Chen Z, Schwahn BC, Wu Q, He X, Rozen R |title=Postnatal cerebellar defects in mice deficient in methylenetetrahydrofolate reductase |journal=Int. J. Dev. Neurosci. |volume=23 |issue=5 |pages=465–74 |year=2005 |month=August |pmid=15979267 |doi=10.1016/j.ijdevneu.2005.05.007 }}</ref><!--
+
+--> Along the same line, it is worth noting that the gene coding for the subunit [[GRIN2B|NR2B]] that is presumably affected by reelin in the process of NR2B->NR2A developmental change of NMDA receptor composition,<ref name="pmid17881522"/> stands as one of the strongest risk gene candidates.<!--
+
+--><ref name="GRIN2B_SZ_GENE_DB">[http://www.schizophreniaforum.org/res/sczgene/geneoverview.asp?geneid=135 Gene Overview of All Published Schizophrenia-Association Studies for GRIN2B] - Schizophrenia Gene Database.</ref><!--
+
+-->
+
+The [[Zygosity|heterozygous]] reeler mouse, which is [[Haploinsufficiency|haploinsufficient]] for the RELN gene, shares several neurochemical and behavioral abnormalities with schizophrenia and bipolar disorder,<!--
+
+--><ref name="HRM_shared_abnormalities_with_SZ">{{cite journal |author=Pappas GD, Kriho V, Pesold C |title=Reelin in the extracellular matrix and dendritic spines of the cortex and hippocampus: a comparison between wild type and heterozygous reeler mice by immunoelectron microscopy |journal=J. Neurocytol. |volume=30 |issue=5 |pages=413–25 |year=2001 |month=May |pmid=11951052 |doi= 10.1023/A:1015017710332 |url= }}</ref><!--
+
+--> but is considered not suitable for use as a genetic mouse model of schizophrenia.<!--
+
+--><ref name="HRM_not_SZ">{{cite journal |author=Podhorna J, Didriksen M |title=The heterozygous reeler mouse: behavioural phenotype |journal=Behav. Brain Res. |volume=153 |issue=1 |pages=43–54 |year=2004 |month=August |pmid=15219705 |doi=10.1016/j.bbr.2003.10.033 |url=}}</ref>
+
+===Bipolar disorder===
+Decrease in RELN expression with concurrent upregulation of [[DNMT1]] is typical of [[bipolar disorder]] with psychosis, but is not characteristic of patients with major depression without psychosis, wich could speak of specific association of the change with psychoses.<ref name="szproof2"/> One study suggests that unlike in schizophrenia, such changes are found only in the cortex and do not affect the deeper structures in psychotic bipolar patients, as their basal ganglia were found to have the normal levels of DNMT1 and subsequently both the reelin and GAD67 levels were within the normal range.<ref name="BDP_basal_ganglia_2007"/>
+
+===Autism===
+The role of reelin in autism is not decided yet: three studies provide no link,<!--
+
+--><ref name="noautism1">Devlin B, Bennett P, Dawson G, Figlewicz DA, Grigorenko EL, McMahon W, Minshew N, Pauls D, Smith M, Spence MA, Rodier PM, Stodgell C, Schellenberg GD; CPEA Genetics{{cite journal | author = Devlin B, Bennett P, Dawson G, ''et al'' | title = Alleles of a reelin CGG repeat do not convey liability to autism in a sample from the CPEA network | journal = Am. J. Med. Genet. B Neuropsychiatr. Genet. | volume = 126B | issue = 1 | pages = 46–50 | year = 2004 | month = April | pmid = 15048647 | doi = 10.1002/ajmg.b.20125 | url = | issn = }}</ref><ref name="noautism2">{{cite journal | author = Li J, Nguyen L, Gleason C, ''et al'' | title = Lack of evidence for an association between WNT2 and RELN polymorphisms and autism | journal = Am. J. Med. Genet. B Neuropsychiatr. Genet. | volume = 126B | issue = 1 | pages = 51–7 | year = 2004 | month = April | pmid = 15048648 | doi = 10.1002/ajmg.b.20122 | url = | issn = }}</ref><ref name="pmid18597938">{{cite journal |author=Dutta S, Sinha S, Ghosh S, Chatterjee A, Ahmed S, Usha R |title=Genetic analysis of reelin gene (RELN) SNPs: No association with autism spectrum disorder in the Indian population |journal=Neurosci. Lett. |volume=441 |issue=1 |pages=56–60 |year=2008 |month=August |pmid=18597938 |doi=10.1016/j.neulet.2008.06.022 }}</ref><!--
+
+--> two other works suggest that the genetic variations of RELN may have an effect.<!--
+
+--><ref name="autism1">{{cite journal | author = Serajee FJ, Zhong H, Mahbubul Huq AH | title = Association of Reelin gene polymorphisms with autism | journal = Genomics | volume = 87 | issue = 1 | pages = 75–83 | year = 2006 | month = January | pmid = 16311013 | doi = 10.1016/j.ygeno.2005.09.008 | url =  }}</ref><ref name="autism2">{{cite journal | author = Skaar DA, Shao Y, Haines JL, Stenger JE, Jaworski J, Martin ER, DeLong GR, Moore JH, McCauley JL, Sutcliffe JS, Ashley-Koch AE, Cuccaro ML, Folstein SE, Gilbert JR, Pericak-Vance MA | title = Analysis of the RELN gene as a genetic risk factor for autism | journal = Mol. Psychiatry | volume = 10 | issue = 6 | pages = 563–71 | year = 2005 | month = June | pmid = 15558079 | doi = 10.1038/sj.mp.4001614 | url =  }}</ref><!--
+
+--> In one study, a postmortem analysis of five patients showed decrease of reelin expression in the cerebellar cortex.<!--
+
+--><ref name="pmid11814262">{{cite journal |author=Fatemi SH, Stary JM, Halt AR, Realmuto GR |title=Dysregulation of Reelin and Bcl-2 proteins in autistic cerebellum |journal=J Autism Dev Disord |volume=31 |issue=6 |pages=529–35 |year=2001 |month=December |pmid=11814262|url= |doi=10.1023/A:1013234708757}}</ref><!--
+
+--> A study conducted in 2002 detected decreased blood levels of reelin in both patients and their relatives.<!--
+
+--><ref name="pmid12363196">{{cite journal |author=Fatemi SH, Stary JM, Egan EA |title=Reduced blood levels of reelin as a vulnerability factor in pathophysiology of autistic disorder |journal=Cell. Mol. Neurobiol. |volume=22 |issue=2 |pages=139–52 |year=2002 |month=April |pmid=12363196 |url= |doi=10.1023/A:1019857620251}}</ref>
+
+===Temporal lobe epilepsy===
+Decreased reelin expression in the hippocampal tissue samples from patients with [[temporal lobe epilepsy]] was found to be directly correlated with the extent of [[granule cell]] dispersion, a major feature of the disease that is noted in 45%-73% of patients.<!--
+
+--><ref name="TLE1">{{cite journal |author=Haas CA, Dudeck O, Kirsch M, ''et al'' |title=Role for reelin in the development of granule cell dispersion in temporal lobe epilepsy |journal=J. Neurosci. |volume=22 |issue=14 |pages=5797–802 |year=2002 |month=July |pmid=12122039 |doi=20026621 |url= |doi_brokendate=2008-07-08}}</ref><ref name="TLE2">{{cite journal |author=Heinrich C, Nitta N, Flubacher A, ''et al'' |title=Reelin deficiency and displacement of mature neurons, but not neurogenesis, underlie the formation of granule cell dispersion in the epileptic hippocampus |journal=J. Neurosci. |volume=26 |issue=17 |pages=4701–13 |year=2006 |month=April |pmid=16641251 |doi=10.1523/JNEUROSCI.5516-05.2006 |url=}}</ref><!--
+
+--> According to one study, prolonged seizures in a rat model of mesial temporal lobe epilepsy have led to the loss of reelin-expressing interneurons and subsequent ectopic chain migration and aberrant integration of newborn dentate granule cells.  Without reelin, the chain-migrating neuroblasts failed to detach properly.<!--
+
+--><ref name="Gonq_2007">{{cite journal |author=Gong C, Wang TW, Huang HS, Parent JM |title=Reelin regulates neuronal progenitor migration in intact and epileptic hippocampus |journal=J. Neurosci. |volume=27 |issue=8 |pages=1803–11 |year=2007 |month=February |pmid=17314278 |doi=10.1523/JNEUROSCI.3111-06.2007 |url=}}</ref><!--
+-->
+
+===Alzheimer's disease===
+According to one study, reelin expression and [[glycosylation]] patterns are altered in [[Alzheimer's disease]]. In the cortex of the patients, reelin levels were 40% higher compared with controls, but the cerebellar levels of the protein remain normal in the same patients.<ref name="alz">{{cite journal |author=Botella-López A, Burgaya F, Gavín R, ''et al'' |title=Reelin expression and glycosylation patterns are altered in Alzheimer's disease |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=103 |issue=14 |pages=5573–8 |year=2006 |month=April |pmid=16567613 |pmc=1414634 |doi=10.1073/pnas.0601279103 |url=}}</ref> This finding is in agreement with an earlier study showing the presence of Reelin associated with amyloid plaques in a transgenic AD mouse model.<ref name="alzmouse">{{cite journal |author=Wirths O, Multhaup G, Czech C, ''et al'' |title=Reelin in plaques of beta-amyloid precursor protein and presenilin-1 double-transgenic mice |journal=Neurosci. Lett. |volume=316 |issue=3 |pages=145–8 |year=2001 |month=December |pmid=11744223|url= |doi=10.1016/S0304-3940(01)02399-0}}</ref><!--
+
+--> A large genetic study of 2008 showed that RELN gene variation is associated with an increased risk of Alzheimer's disease in women.<!--
+
+--><ref name="pmid18599960">{{cite journal |author=Seripa D, Matera MG, Franceschi M, ''et al'' |title=The RELN locus in Alzheimer's disease |journal=J. Alzheimers Dis. |volume=14 |issue=3 |pages=335–44 |year=2008 |month=July |pmid=18599960 |url=http://iospress.metapress.com/openurl.asp?genre=article&issn=1387-2877&volume=14&issue=3&spage=335}}</ref><!--
+
+--> The number of reelin-producing Cajal-Retzius cells is significantly decreased in first cortical layer of patients.<!--
+
+--><ref name="pmid16051543">{{cite journal |author=Baloyannis SJ |title=Morphological and morphometric alterations of Cajal-Retzius cells in early cases of Alzheimer's disease: a Golgi and electron microscope study |journal=Int. J. Neurosci. |volume=115 |issue=7 |pages=965–80 |year=2005 |month=July |pmid=16051543 |doi=10.1080/00207450590901396 |url=}}</ref><ref name="pmid17453452">{{cite journal |author=Baloyannis SJ, Costa V, Mauroudis I, Psaroulis D, Manolides SL, Manolides LS |title=Dendritic and spinal pathology in the acoustic cortex in Alzheimer's disease: morphological and morphometric estimation by Golgi technique and electron microscopy |journal=Acta Otolaryngol. |volume=127 |issue=4 |pages=351–4 |year=2007 |month=April |pmid=17453452 |doi=10.1080/00016480601126986 }}</ref><!--
+
+--> Some authors consider the reelin pathway to be a link between the Alzheimer's disease and schizophrenia.<!--
+
+--><ref name="Relation_ALZ_SCHZ_RELN">Aoki, Takeya; Mizuki, Yasushi; Terashima, Toshio [http://www.ingentaconnect.com/content/bsc/psy/2005/00000005/00000002/art00007 Relation between schizophrenia and Alzheimer's disease: the reelin signaling pathway] Psychogeriatrics, Volume 5, Number 2, June 2005 , pp. 42-47(6)</ref><!--
+
+-->
+
+== Cancer ==
+DNA methylation patterns are often changed in tumours, and RELN gene could be affected: according to one study, in the pancreatic cancer the expression is suppressed, along with other reelin pathway components.<!--
+
+--><ref name="Pancreatic_Cancer_2006">Sato N, Fukushima N, Chang R, Matsubayashi H, Goggins M. (2006) ''Differential and epigenetic gene expression profiling identifies frequent disruption of the RELN pathway in pancreatic cancers.'' Gastroenterology. 130(2):548-65. PMID 16472607</ref><!--
+
+--> On the contrary, in prostate cancer the RELN expression is excessive and correlates with [[Gleason score]].<!--
+
+--><ref name="Prostate_Cancer_2007_1"> Perrone G, Vincenzi B, Zagami M, Santini D, Panteri R, Flammia G, Verzi A, Lepanto D, Morini S, Russo A, Bazan V, Tomasino RM, Morello V, Tonini G, Rabitti C. (2007) ''Reelin expression in human prostate cancer: a marker of tumor aggressiveness based on correlation with grade.'' Modern Pathology. doi:10.1038/modpathol.3800743. PMID 17277764</ref><!--
+
+--> [[Retinoblastoma]] presents another example of RELN overexpression.<!--
+
+--><ref name="pmid17615543">{{cite journal |author=Seigel GM, Hackam AS, Ganguly A, Mandell LM, Gonzalez-Fernandez F |title=Human embryonic and neuronal stem cell markers in retinoblastoma |journal=Mol. Vis. |volume=13 |issue= |pages=823–32 |year=2007 |pmid=17615543 |url=http://www.molvis.org/molvis/v13/a90/}}</ref>
+
+== Psychotropic medication and reelin expression ==
+As reelin is being implicated in a number of brain disorders and its expression is usually measured posthumously, assessing the possible medication effects is important. Fatemi et al. conducted a study in which RELN mRNA and reelin protein levels were measured in rat prefrontal cortex following  a 21-day of [[intraperitoneal injection]]s of the following drugs:<ref name="Reelin_book_2008"/>
+
+{| class="wikitable" style="text-align:center" 
+|-
+! width="125" | Reelin expression
+! width="85" | [[Clozapine]]
+! width="85" | [[Fluoxetine]]
+! width="85" | [[Haloperidol]]
+! width="85" | [[Lithium]]
+! width="85" | [[Olanzapine]]
+! width="85" | [[Valproic Acid]]
+|-
+| protein || '''↓''' || '''↔''' || '''↓''' || '''↓''' || '''↑''' || '''↔'''
+|-
+| mRNA || '''↑''' || '''↑''' || '''↓''' || '''↑''' || '''↑''' || '''↓''' 
+|-
+|}
+
+==References==
+{{Reflist|2}}
+
+==Recommended reading==
+{{Commonscat}}
+* The book: {{cite book | author = Fatemi, S. Hossein | authorlink = | editor = | others = | title = Reelin Glycoprotein: Structure, Biology and Roles in Health and Disease | edition = | language = | publisher = Springer | location = Berlin | year = 2008 | origyear = | pages = 444 pages | quote = | isbn = 978-0-387-76760-4 | oclc = | doi = | url = http://www.springer.com/biomed/neuroscience/book/978-0-387-76760-4 | accessdate = }}
+* A review: {{cite journal |author=Förster E, Jossin Y, Zhao S, Chai X, Frotscher M, Goffinet AM |title=Recent progress in understanding the role of Reelin in radial neuronal migration, with specific emphasis on the dentate gyrus |journal=Eur. J. Neurosci. |volume=23 |issue=4 |pages=901–9 |year=2006 |month=February |pmid=16519655 |doi=10.1111/j.1460-9568.2006.04612.x |url=}}
+
+==External links==
+===Articles, publications, webpages===
+* {{cite web | url = http://lifesci.rutgers.edu/~molbiosci/faculty/darcangelo.html | title = Gabriella D'Arcangelo | author = | authorlink = | coauthors = | date = | format = | work = | publisher = Rutgers University | pages = | language = | archiveurl = | archivedate = | quote = the scientist who discovered the reelin gene and protein | accessdate = 2008-08-23}}
+* [http://www.wikigenes.org/e/gene/e/5649.html Human RELN at WikiGenes]
+
+===Figures and images===
+{{refbegin | 2}}
+* {{cite web | url = http://www.stjudebgem.org/web/view/probe/viewProbeDetails.php?id=404 | title = Reelin gene expression in mice  | author = | authorlink = | coauthors = | date = | format = | work = Brain Gene Expression Map | publisher = St. Jude Children’s Research Hospital | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}}
+* {{cite web | url = http://www.jlr.org/cgi/content-nw/full/45/3/403/FIG4 | title = Schematic representation of signaling through the LDLR family members apoER2 and VLDL receptor | author = | authorlink = | coauthors = | date = | format = | work = | publisher = | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}} – A figure from {{cite journal | author = Beffert U, Stolt PC, Herz J | title = Functions of lipoprotein receptors in neurons | journal = J. Lipid Res. | volume = 45 | issue = 3 | pages = 403–9 | year = 2004 | month = March | pmid = 14657206 | doi = 10.1194/jlr.R300017-JLR200 | url =  }}
+* {{cite web | url = http://www.pnas.org/cgi/content-nw/full/102/35/12578/FIG5 | title = Proposed mechanism by which mouse RELN promoter regulate reelin gene expression | author = | authorlink = | coauthors = | date = | format = | work = | publisher = Proc. Natl. Acad. Sci. USA | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}} – A figure from {{cite journal |author=Dong E, Agis-Balboa RC, Simonini MV, Grayson DR, Costa E, Guidotti A |title=Reelin and glutamic acid decarboxylase67 promoter remodeling in an epigenetic methionine-induced mouse model of schizophrenia |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=102 |issue=35 |pages=12578–83 |year=2005 |month=August |pmid=16113080 |doi=10.1073/pnas.0505394102 |url=}}
+* {{cite web | url = http://www.sciencedirect.com/science?_ob=MiamiCaptionURL&_method=retrieve&_udi=B6VRT-44PC6R0-G&_image=fig2&_ba=2&_user=10&_coverDate=12%2F11%2F2001&_fmt=full&_orig=search&_cdi=6243&_qd=1&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=61889242c72086d56e74e498ceadd958 | title = Corticogenesis in wild-type, reeler mutant and β1 deficient mice | author = | authorlink = | coauthors = | date = | format = | work = | publisher = | pages = | language = | archiveurl = | archivedate = | quote = Pictorial rendition of the difference that the lack of reelin brings to the cortical structure | accessdate = 2008-08-23}} – A figure from {{cite journal | author = Magdaleno SM, Curran T | title = Brain development: integrins and the Reelin pathway | journal = Curr. Biol. | volume = 11 | issue = 24 | pages = R1032–5 | year = 2001 | month = December | pmid = 11747842 | doi = 10.1016/S0960-9822(01)00618-2 | url =  }}
+* {{cite web | url = http://www.nature.com/ng/journal/v26/n1/fig_tab/ng0900_93_F5.html | title = Effects of human and naturally occurring mouse RELN mutations on the predicted protein. | author = | authorlink = | coauthors = | date = | format = | work = | publisher = Nature Genetics | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}} A figure from {{cite journal |author=Hong SE, Shugart YY, Huang DT, ''et al'' |title=Autosomal recessive lissencephaly with cerebellar hypoplasia is associated with human RELN mutations |journal=Nat. Genet. |volume=26 |issue=1 |pages=93–6 |year=2000 |month=September |pmid=10973257 |doi=10.1038/79246 |url=}}
+* {{cite web | url = http://www.nature.com/ng/journal/v26/n1/fig_tab/ng0900_93_F2.html | title = MRI analysis of chromosome 7q22-linked lissencephaly with cerebellar hypoplasia. | author = | authorlink = | coauthors = | date = | format = | work = | publisher = Nature Genetics | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-08-23}} – A figure from Hong et al.
+{{refend}}
+
+{{Proteases}}
+{{Serine endopeptidases}}
+[[Category:EC 3.4.21|*]]
+
+[[Category:Molecular neuroscience]]
+[[Category:Neurology]]
+[[Category:Glycoproteins]]
+
+[[de:Reelin]]
+[[ru:Рилин]]
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = no
+}}

@@ -1,0 +1,272 @@
+<!-- Here is a table of data; skip past it to edit the text. -->
+{| align="right" border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+
+! {{chembox header}} | Urea <!-- replace if not identical with the article name -->
+|-
+| align="center" colspan="2" | [[Image:Urea.png|150px|Chemical structure of urea]] [[Image:Urea-3D-vdW.png|100px|Urea 3D structure of urea]] 
+|-
+! {{chembox header}} | General
+|- 
+| [[IUPAC nomenclature|Systematic name]]
+| Diaminomethanal
+|-
+| Other names
+| ? <!-- e.g. Ferrous chloride etc, + linked mineral names -->
+|-
+| [[Chemical formula|Molecular formula]]
+| (NH<sub>2</sub>)<sub>2</sub>CO
+|-
+| [[Simplified molecular input line entry specification|SMILES]] <!-- mostly for organic compounds, omit otherwise -->
+| NC(=O)N
+|-
+| [[Molar mass]]
+| 60.07 g/mol
+|-
+| Appearance
+| white odourless solid
+|-
+| [[CAS registry number|CAS number]]
+| <nowiki>[57-13-6]</nowiki>
+|-
+! {{chembox header}} | Properties
+|-
+| [[Density]] and [[Phase (matter)|phase]]
+| 1.33·10<sup>3</sup> kg/m<sup>3</sup>, solid
+|-
+| [[Soluble|Solubility]] in [[Water (molecule)|water]]
+| 108 g/100 ml (20 °C)<br/>167 g/100 ml (40 °C)<br/>251 g/100 ml (60 °C)<br/>400 g/100 ml (80 °C)<br/>733 g/100 ml (100 °C)
+|-
+<!-- | Other solvents e.g. [[ethanol]], [[acetone]] -->
+<!-- | solubility info on other solvents -->
+<!-- |- -->
+| [[Melting point]]
+| 132.7 °C (406 K)<br/>decomposes
+|-
+| [[Boiling point]]
+| n.a.
+|-
+| [[Acid dissociation constant|Acidity]] (p''K''<sub>a</sub>) <!-- omit if not an acid or a base.  If several values, be clear -->
+| 0.18
+|-
+| [[Acid dissociation constant|Basicity]] (p''K''<sub>b</sub>) <!-- omit if not a base. If several values, be clear -->
+| 13.82
+|-
+| [[Specific rotation|Chiral rotation <nowiki>[α]</nowiki><sub>D</sub>]] <!-- (Only include this for chiral compounds, indicate direction/enantiomer combo if known) -->
+| Not chiral
+|-
+| [[Viscosity]]
+| ? c[[Poise|P]] at ? °C<!-- Liquids only, omit if data unavailable. You may use [[Pascal-second|Pa.s]] if you prefer -->
+|-
+| [[Critical relative humidity]]
+| 81% (20°C)<br/>73% (30°C)
+|-
+| Heat of solution in water
+| -57,8 cal/g (endothermic)
+|-
+| Nitrogen content
+| 46,6 %N
+|-
+
+! {{chembox header}} | Structure
+|-
+| [[Orbital hybridisation#Molecule shape|Molecular shape]]
+<!-- for simple covalent molecules (omit for most large molecules, ionics and complexes) -->
+| ? <!-- e.g. trigonal bipyramidal -->
+|-
+| [[Coordination geometry]] 
+<!-- for a metal complex or an ionic crystal, otherwise omit -->
+| trigonal planar <!-- e.g. trigonal bipyramidal -->
+|-
+| [[Crystal structure]] <!-- omit if not a solid -->
+| ? <!-- e.g. [[triclinic]], [[monoclinic]], [[orthorhombic]], [[hexagonal]], [[rhombohedral|trigonal]], [[tetragonal]], [[cubic]], and mention "close packed" or similar.  You may also cite what class it belongs to, e.g. [[Cadmium chloride#Crystal structure|CdCl<sub>2</sub>]]  -->
+|-
+| [[Dipole#Molecular dipoles|Dipole moment]]
+| ? [[Debye|D]]
+|-
+
+! {{chembox header}} | Hazards <!--  Summary only- MSDS entry provides more complete information -->
+|-
+| [[Material safety data sheet|MSDS]]
+| [http://www.jtbaker.com/msds/englishhtml/U4725.htm J.T. Baker]
+|-
+| Main [[Worker safety and health|hazard]]s
+| ? <!-- e.g. highly toxic, explosive, flammable,  -->
+|-
+| [[Flash point]]
+| ? °C
+|-
+| [[Risk and Safety Statements|R/S statement]]
+| R: ? S: ?
+|-
+| [[RTECS]] number
+| ?
+|-
+| [[NFPA 704]]
+| [[image:nfpa_h1.png]][[image:nfpa_f0.png]][[image:nfpa_r0.png]] estimated
+|-
+
+! {{chembox header}} | [[Urea chemdata supplement|Supplementary data page]]
+|-
+| [[Urea chemdata supplement#Structure and properties|Structure & properties]] 
+| [[Refractive index|''n'']], [[Dielectric constant|''ε<sub>r</sub>'']], etc. 
+|-
+| [[Urea chemdata supplement#Thermodynamic properties|Thermodynamic data]] 
+| Phase behaviour<br>Solid, liquid, gas
+
+|-
+| [[Urea chemdata supplement#Spectral data|Spectral data]]
+| [[UV/VIS spectroscopy|UV]], [[Infrared spectroscopy|IR]], [[NMR spectroscopy|NMR]], [[Mass spectrometry|MS]]
+|-
+! {{chembox header}} | Related compounds
+|-
+| Other [[Ion|anion]]s <!-- please omit if not applicable -->
+| ? <!-- Put in related anions e.g, iron(II) fluoride & iron(II) bromide if compound is iron(II) fluoride -->
+|-
+| Other [[Ion|cation]]s <!-- please omit if not applicable -->
+| ? <!-- Put in other oxidn states of same element e.g. [[iron(III) chloride]], also for related metals such as [[manganese(II) chloride]], [[cobalt(II) chloride]], ruthenium(III) chloride-->
+|-
+| Related [[?]] <!-- PLEASE INSERT FUNCTIONAL GROUP (e.g. [[aldehyde]]) FOR ORGANICS, please omit if not applicable -->
+| [[biuret]]<br/>[[triuret]]<br/>[[thiourea]] <!-- Insert related organics e.g. on formaldehyde page put [[acetaldehyde]] -->
+|-
+| Related compounds 
+<!-- A miscellaneous heading- use for covalent inorganics;  e.g. for PCl<sub>3</sub> you would list PCl<sub>5</sub>, POCl<sub>3</sub>, PF<sub>3</sub>, PBr<sub>3</sub>, NCl<sub>3</sub> and AsCl<sub>3</sub>. 
+Please omit if not applicable -->
+| ?
+|-
+| {{chembox header}} | <small>Except where noted otherwise, data are given for<br> materials in their [[standard state|standard state (at 26°C, 100 kPa)]]<br/>[[wikipedia:Chemical infobox|Infobox disclaimer and references]]</small>
+|-
+|}
+'''Urea''' is an [[organic compound]] of [[carbon]], [[nitrogen]], [[oxygen]] and [[hydrogen]], with the [[chemical formula|formula]] CON<sub>2</sub>H<sub>4</sub> or (NH<sub>2</sub>)<sub>2</sub>CO.
+
+Urea is also known as '''carbamide''', especially in the recommended International Non-proprietary Names (rINN) in use in Europe. For example, the medicinal compound ''hydroxyurea'' (old British Approved Name) is now ''[[hydroxycarbamide]]''. Other names include '''carbamide resin''', '''isourea''', '''carbonyl diamide''', and '''carbonyldiamine'''.
+
+It was the first organic compound to be artificially synthesized from inorganic starting materials, thus shattering any remaining alchemical or spiritual notions that organic and inorganic materials were completely distinct from each other.
+
+==Discovery==
+Urea was discovered by [[Hilaire Rouelle]] in [[1773]]. It was the first organic compound to be artificially synthesized from inorganic starting materials, in [[1828]] by [[Friedrich Woehler]], who prepared it by the reaction of [[potassium cyanate]] with [[ammonium sulfate]]. Although Woehler was attempting to prepare ammonium cyanate, by forming urea, he inadvertently disproved [[vitalism]], the theory that the chemicals of living organisms are fundamentally different from inanimate matter, thus starting the discipline of [[organic chemistry]].
+
+==Physiology==
+The individual atoms that make up a urea molecule come from [[carbon dioxide]], water, [[aspartate]] and [[ammonia]] in a [[metabolic pathway]] known as the [[urea cycle]], an [[Anabolism|anabolic process]].  This expenditure of energy is necessary because ammonia, a common [[metabolism|metabolic]] waste product, is toxic and must be neutralized.  Urea production occurs in the [[liver]] and is under the regulatory control of ''N''-acetylglutamate.
+
+Most [[organism]]s have to deal with the excretion of nitrogen waste originating from [[protein]] and [[amino acid]] [[catabolism]]. In [[marine biology|aquatic]] organisms the ''most common'' form of nitrogen waste is ammonia, while land-dwelling organisms [[adaptation|developed]] ways to convert the toxic ammonia to either urea or [[uric acid]]. Generally, [[bird]]s and [[saurian]] [[reptile]]s excrete uric acid, while the remaining species, including [[mammal]]s, excrete urea. Remarkably, [[tadpole]]s excrete ammonia, and shift to urea production during [[Metamorphosis (biology)|metamorphosis]]. In veterinary medicine, Dalmatian breeds of dogs are different in that they excrete urea in the form of uric acid in the urine rather than in the urea form. This is due to a defect in one of the genes controlling expression of the conversion enzymes in the Urea cycle.
+
+The urea is formed in the livers of mammals in a cyclic pathway, from the break down of [[ammonia]], (a metabolic waste), which was initially named the Krebs-Henseleit cycle after its discoverers, and later became known simply as the [[urea cycle]]. This cycle was partially deduced by [[Krebs]] & [[Kurt Henseleit|Henseleit]] in 1932 and was clarified in the 1940s as the roles of [[citrulline]] and [[argininosuccinate]] as intermediates were understood. 
+
+In this cycle, [[amino]] groups donated by [[ammonia]] and L-[[aspartate]] are converted to urea, while L-[[ornithine]], citrulline, L-arginino-succinate, and L-[[arginine]] act as intermediates. 
+
+Despite the generalization above, the pathway has been documented not only in mammals and amphibians, but in many other organisms as well, including birds, [[invertebrate]]s, [[insect]]s, [[plant]]s, [[yeast]], [[fungi]], and even [[microorganism]]s. 
+
+Urea is essentially a waste product, although it is used by the body during times of volume reduction.  In the later portions of the [[kidney]] collecting tubule, urea is reintroduced into the kidney medulla to raise osmolality.  Afterwards, water flowing through the collecting tubule follows back into the body by [[osmosis]].
+
+Urea is dissolved in blood (in humans in a concentration of 2.5 - 7.5 mmol/liter) and excreted by the kidney in the [[urine]].
+
+In addition, a small amount of urea is excreted (along with [[sodium chloride]] and water) in human [[sweat]].
+
+==Production==
+Urea is a nitrogen-containing chemical product which is produced on a scale of some 100,000,000 tonnes per year worldwide.
+
+Urea is produced commercially from synthetic [[ammonia]] and [[carbon dioxide]]. Urea can be produced as [[prill]]s, [[granules]], flakes, pellets, crystals and solutions.
+
+More than 90% of world production is destined for use as a [[fertilizer]]. Urea has the highest [[nitrogen]] content of all solid nitrogenous fertilizers in common use (46.4%) It therefore has the lowest transportation costs per unit of nitrogen [[nutrient]].
+
+Urea is highly soluble in water and is therefore also very suitable for use in fertilizer solutions (in combination with [[ammonium nitrate]]: [[UAN]]), e.g. in “foliar feed’ fertilizers.
+
+Solid urea is marketed as prills or granules. The advantage of prills is that in general they can be produced more cheaply than granules which, because of their narrower particle size distribution have an advantage over prills if applied mechanically to the [[soil]]. Properties such as impact strength, crushing strength and free-flowing behaviour are particularly important in product handling, storage and bulk transportation.
+
+===Commercial production===
+Urea is produced commercially from two raw materials, [[ammonia]] and [[carbon dioxide]]. Large quantities of carbon dioxide are produced during the manufacture of ammonia from coal or from [[hydrocarbons]] such as natural gas and petroleum derived raw materials. This allows direct synthesis of urea from these raw materials.
+
+The production of urea from ammonia and carbon dioxide takes place in an equilibrium reaction, with incomplete conversion of the reactants. The various urea processes are characterized by the conditions under which urea formation takes place and the way in which unconverted reactants are further processed. 
+
+Unconverted reactants can be used for the manufacture of other products, for example [[ammonium nitrate]] or [[sulphate]], or they can be recycled for complete conversion to urea in a total-recycle process.
+
+Two principal reactions take place in the formation of urea from [[ammonia]] and [[carbon dioxide]]. The first reaction is exothermic:
+:2NH<sub>3</sub> + CO<sub>2</sub> → H<sub>2</sub>N-COONH<sub>4</sub> ([[ammonium carbamate]])  <br />
+While the second reaction is endothermic:
+:H<sub>2</sub>N-COONH<sub>4</sub> → (NH<sub>2</sub>)<sub>2</sub>CO + H<sub>2</sub>O 
+Both reactions combined are exothermic.
+
+==Uses==
+Urea's commercial uses include:
+*As a raw material for the manufacture of [[plastic]]s specifically, [[urea-formaldehyde resin]].
+*As a raw material for the manufacture of various glues (urea-formaldehyde or urea-melamine-formaldehyde). The latter is waterproof and is used for marine plywood.
+*As a component of [[fertilizer]] and [[animal feed]], providing a relatively cheap source of [[Nitrogen fixation|fixed nitrogen]] to promote growth.
+*As an alternative to rock salt in the deicing of roadways and runways. It does not promote metal corrosion to the extent that salt does.
+*As an additive ingredient in [[cigarette]]s, designed to enhance [[flavour]].
+*Sometimes used as a browning agent in factory-produced [[pretzels]].
+*As an ingredient in some hair conditioners, facial cleansers, bath oils and lotions.
+*It is also used as a [[reactant]] in some ready-to-use cold compresses for first-aid use, due to the [[endothermic]] reaction it creates when mixed with [[water]].
+*Active ingredient for diesel engine exhaust treatment [[AdBlue]] and some other SCR systems.
+*Used, along with salts, as a [[cloud seeding]] agent to expedite the condensation of water in clouds, producing precipitation.
+*The ability of urea to form [[clathrates]] (also called host-guest complexes, inclusion compounds, and adducts) was used in the past to separate paraffins.
+*As a flame-proofing agent.
+*As a clean burning fuel for motor vehicles and stationary engines.
+*As a NOx-reducing reactant in combustion exhaust streams, especially diesel.
+*As an ingredient in many [[tooth whitening]] products.
+
+===Laboratory use===
+Urea is a powerful [[protein]] [[denaturation (biochemistry)|denaturant]].  This property can be exploited to increase the solubility of some proteins.  For this application it is used in concentrations up to 10 [[Molar volume|M]].
+Urea is used to effectively disrupt the noncovalent bonds in proteins.
+Urea is an ingredient in the synthesis of [[urea nitrate]].
+
+===Medical use===
+;Drug use
+Urea is used in topical [[Dermatology|dermatological]] products to promote [[rehydration]] of the [[skin]].  If covered by an [[occlusive dressing]], 40% urea preparations may also be used for nonsurgical [[debridement]] of [[Nail (anatomy)|nails]].
+
+;Clinical diagnosis
+''See [[blood urea nitrogen]] ("BUN") for a commonly performed urea test, and marker of [[renal function]].''
+
+;Other diagnostic use
+Isotopically-labeled urea ([[carbon-14|carbon 14]] - radioactive, or [[Carbon-13|carbon 13]] - stable isotope) is used in the [[Urea breath test]], which is used to detect the presence of ''[[Helicobacter pylori]]'' (''H. pylori'', a bacterium) in the stomach and duodenum of humans.  The test detects the characteristic enzyme urease, produced by ''H. pylori'', by a reaction that produces ammonia from urea.  This increases the pH (reduces acidity) of the stomach environment around the bacteria. 
+
+Similar bacteria species to ''H. pylori'' can be identified by the same test in animals (apes, dogs, cats - including big cats).
+
+===Textile use===
+Urea in texile laboratories are frequently used both in dyeing and printing as an important auxiliary which provide solubility to your bath and keep some moisture which is required to dye or print your textile.
+
+===Other suggested uses===
+;Ocean fertilization
+It has been suggested that fertilizing the ocean with Urea could reduce atmospheric CO<sub>2</sub> concentrations by encouraging algal blooming
+
+==Ureas==
+'''Ureas''' or '''carbamides''' are a class of [[chemical compound]]s sharing the same [[functional group]] RR'N-CO-NRR' based on a [[carbonyl]] group flanked by two organic [[amine]] residues. They can be accessed in the laboratory by reaction of [[phosgene]] with primary or secondary [[amine]]s. Example of ureas are the compounds [[carbamide peroxide]], [[allantoin]] and [[Hydantoin]]. Ureas are closely related to [[biuret]]s and structurally related to [[amide]]s, [[carbamate]]s, [[diimide]]s, [[carbodiimide]]s and [[thiocarbamide]]s.
+
+==External links==
+* [http://www.jtbaker.com/msds/englishhtml/U4725.htm MSDS sheet on urea]
+* [http://www.pburch.net/dyeing/FAQ/urea.shtml Use of urea in hand dyeing]
+* [http://www.globalcheminfo.com/chemicals/details/41837 Urea: synonymes, CAS, formula]
+* [http://www.u3kenergy.com U3K Energy: Patented technology for use of urea as fuel (not SCR additive) for internal combustion engines and fuel cells.]
+{{E number infobox 920-929}}
+
+{{ChemicalSources}}
+
+[[Category:Nitrogen metabolism]]
+[[Category:Ureas| ]]
+[[Category:Functional groups]]
+[[Category:Agricultural chemicals]]
+[[Category:Excretion]]
+[[Category:Nitrogen metabolism]]
+[[Category:Soil improvers]]
+
+[[ca:Urea]]
+[[da:Urinstof]]
+[[de:Harnstoff]]
+[[es:Urea]]
+[[fa:اوره]]
+[[fr:Urée]]
+[[is:Þvagefni]]
+[[it:Urea]]
+[[he:שתנן]]
+[[nl:Ureum]]
+[[ja:尿素]]
+[[no:Urea]]
+[[nn:Urea]]
+[[pl:Mocznik]]
+[[pt:Uréia]]
+[[ru:Мочевина]]
+[[sk:Močovina]]
+[[fi:Urea]]
+[[sv:Urea]]
+[[vi:Urê]]
+[[tr:Üre]]
+[[zh:尿素]]

@@ -1,0 +1,16 @@
+'''Numerical diffusion''' is a difficulty with [[computer simulation]]s of [[Continuous function|continuous]] systems such as [[fluid]]s or [[Plasma (physics)|plasmas]].  
+
+== Explanation ==
+
+In [[Eulerian method|Eulerian simulations]], time and space are divided into a discrete grid and the continuous [[differential equation]]s of motion (such as the [[Navier-Stokes equation]]) are [[discretization|discretized]] into [[finite-difference equation]]s.  The discrete equations are in general more [[diffusion|diffusive]] than the original differential equations, so that the simulated system behaves differently than the intended physical system.  The amount and character of the difference depends on the system being simulated and the type of discretization that is used.  Most fluid dynamic or [[MHD]] simulations seek to reduce numerical diffusion to the minimum possible, to achieve high fidelity — but under certain circumstances diffusion is added deliberately into the system to avoid [[singularity|singularities]].  For example, [[shock wave]]s in fluids and [[current sheet]]s in [[plasma (physics)|plasma]]s are in some approximations infinitely thin; this can cause difficulty for numerical codes.  A simple way to avoid the difficulty is to add diffusion that smooths out the shock or current sheet.
+
+== Example ==
+
+As an example of numerical diffusion, consider an Eulerian simulation of a drop of green dye diffusing through water.  If the water is flowing diagonally through the simulation grid, then it is impossible to move the dye in the exact direction of the flow: at each time step the simulation can at best transfer some dye in each of the vertical and horizontal directions.  After a few time steps, the dye will have spread out through the grid due to this sideways transfer.  This numerical effect takes the form of an extra high diffusion rate.
+
+When numerical diffusion applies to the components of the [[momentum]] vector, it is called [[numerical viscosity]]; when it applies to a magnetic field, it is called [[numerical resistivity]].
+
+[[Category:Numerical differential equations]]
+
+
+{{mathapplied-stub}}

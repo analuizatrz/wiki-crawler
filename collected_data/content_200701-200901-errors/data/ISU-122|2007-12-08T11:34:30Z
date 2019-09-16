@@ -1,0 +1,95 @@
+{{Infobox Weapon
+| name=ISU-122
+|        image=[[Image:ISU-122 skos RB.jpg|300px|]]
+|      caption=[[Poland|Polish]] ISU-122
+|origin={{flagcountry|Soviet Union|1923}}
+|type=[[Self-propelled gun]]
+|is_vehicle=yes
+|       length=9.85 m
+|        width=3.07 m
+|       height=2.48 m
+|       weight=45.5 tonnes
+|   suspension=[[torsion bar]]
+|   speed=37 km/h
+|        vehicle_range=220 km
+|      primary_armament=[[A-19 122mm gun|A-19S]] 122 mm gun, with 30 rounds
+|    secondary_armament=12.7 mm [[DShK]] AA machine gun, with 250 rounds
+|       armour=front 90 mm<br />gun shield 120 mm<br />side 90 mm
+|       engine=12-cyl. 4-stroke [[diesel]] model V-2IS
+|         crew=4 or 5
+|    engine_power=520 hp (382 kW)
+|        pw_ratio=11 hp/tonne
+}}
+
+The '''ISU-122''' (''Istrebitelnaja Samokhodnaya Ustanovka 122'') was a [[Soviet Union|Soviet]] self-propelled gun used during [[World War II]].
+
+==History==
+The prototype of heavy self-propelled gun ISU-122 (in Russian ИСУ-122) was built at [[ChKZ]] (''Chelyabinskiy Kirovskiy Zavod'', the [[Chelyabinsk Kirov Plant]], [[Chelyabinsk]], Russia) in December 1943. It shares the same chassis with [[ISU-152]] self-propelled gun and differs only in armament. ISU-122 has the [[A-19 122mm gun|A-19S]] 121.92-mm gun as its main weapon instead of the ISU-152's ML-20S gun-howitzer. The towed versions of these guns had the same carriage 52-L-504A (Russian designation 52-Л-504А). So the installation of an A-19 instead of ML-20 was not a difficult task.  After completing the ISU-152 prototype, ChKZ engineers mounted an A-19 on the [[ISU-152]] chassis, designated ''"Object 242"'' — the first ISU-122 prototype. It was successfully tested, but not immediately launched into mass production.
+
+At that time all ISU hulls were equipped with ML-20S gun-howitzer, but the production of hulls increased quickly and there was lack of ML-20S tubes in the beginning of 1944. State authorities ordered these uncompleted hulls armed with A-19 gun (specifically with the A-19S variant, slightly modified for self-propelled gun mounting). Another reason for ISU rearming was the need of increasing the direct fire distance against heavy German tanks. In the light of such circumstances, State Defense Committee adopted ''Object 242'' for [[Red Army]] service as ISU-122 at [[12 March]] 1944.  In April 1944 the first series ISU-122 left the ChKZ production lines.<ref name="Zheltov1" />
+
+The A-19S gun had a manual-piston breech, which reduced the fire rate to 1.5 from 2.5 shots per minute. Soviet designers developed the D-25 variant by modernizing the breech to a semi-automatic variant of 121.92-mm gun. D-25 gun were installed in [[IS-2]] tanks first, but in September 1944 they became available for self-propelled guns. The prototype ISU vehicle, armed with a D-25S gun, was designated "Object 249" and successfully passed plant and state testing. The fire rate was improved to 2 to 3 shots per minute (with two strong, experienced loaders the rate of fire reached 4 shots per minute). Due to the muzzle brake decreasing recoil force, the D-25 had a smaller recoil device than the A-19 ones. This improved the crew's work conditions and allowed for a smaller, lighter gun shield with the same armour thickness. 
+
+After testing, "Object 249" was immediately launched in mass production as the ISU-122S (ИСУ-122С) self-propelled gun. However, the original ISU-122 was still in production concurrently with [[ISU-152]] and ISU-122S due to a large stock of A-19 guns (the ML-20 and D-25 came directly from artillery factories). The mass production of ISU-122 and ISU-122S ceased at the end of 1945. ChKZ produced 1,735 ISU-122 and 675<ref name="Zheltov1">Solyankin et al. ''Soviet heavy self propelled guns 1941—1945'', pp. 19, 24</ref> ISU-122S in total.
+
+After World War Two, many surviving ISU-122s were rebuilt as rocket launchers, very large calibre gun chassis, and supply vehicles. 
+
+The small number of ISU-122s which kept their original armament was modernized in 1958. This modernization was not as complete as that of the [[ISU-152]]. Most ISU-122 did not receive a new engine, only upgraded gun sights and radio sets. In the beginning of 1960, the ISU-122 was withdrawn from Soviet Army service ([[ISU-152]] served much longer). Some disarmed ISU-122 were transferred to civil organizations, to be used as emergency vehicles in Soviet Railways or as tracked transport in Arctic areas of Soviet Union.
+
+== Variants ==
+
+Some vehicles were fitted with a 12.7 mm [[DShK]] anti-aircraft machine gun.
+
+'''ISU-122S''': In later models the A-19 gun was modified, to have a semi-automatic breech block. This gun was designated '''D-25S'''. This increased rate of fire from 1.5 rounds/minute to 3 rounds/minute.  This vehicle is recognizable by the ball-shaped [[gun mantlet]] and double-baffle [[muzzle brake]].
+
+== Construction and design ==
+
+Construction of ISU-122 and [[ISU-152]] is the same except gun mounting, sights and ammunition stowage. The A-19S or D-25S cannons of ISU-122 had 18 degrees elevation angle and 30 rounds of ammunition ([[ISU-152]] had 20 degrees and 20 rounds respectively). The A-19S cannon was equipped with telescopic sight ST-18 (СТ-18) and D-25S cannon was equipped with TSh-17 (ТШ-17) one. Both types of sights had maximal exact targeting distance of 1.5 km (ISU-152 had only 900 m). The maximum direct fire distance of A-19S or D-25S cannons was 5 km and it was much greater than the telescopic sight abilities. For direct or indirect firing on distances over 1.5 km the gunner used the second, panoramic sight.
+
+The crew of ISU-122 was 5 men and their workplaces and roles were identical to [[ISU-152]] crewmen. The ISU-122S were used with 4-men or 5-men crew. The semi-automatic breech allowed keep reasonable fire rate with crew of four and the place of absent loader was used often for additional ammunition. In the case of five men crew (with two loaders) ISU-122S demonstrated better fire rate than four-manned same vehicle.
+
+== Organisation ==
+
+The organisation of military units utilizing the ISU-122 was the same as with the [[ISU-152]]. It should be noted that Soviet Army commanders tried not to mix the ISU-122 and the [[ISU-152]] in one regiment or brigade, although there were some units equipped with both types of heavy self-propelled guns. The different armament of the ISU-122 and the [[ISU-152]] made for some problems with ammunition supplies and logistics. Another disadvantage of mixed-type units was double the calculation of indirect fire data for the different guns of the vehicles.
+
+== Combat history ==
+[[Image:Lodz liberation2.jpg|thumb|right|250px|[[Red Army]] ISU-122 entering the city of [[Łódź]], [[Poland]], being greeted by the citizens of the city liberated from German occupation.]]
+
+The ISU-122 was used as a powerful assault gun, a self-propelled howitzer, and a long-range [[tank destroyer]]. This usage was the same as with the [[SU-152]] and [[ISU-152]] heavy self-propelled guns in general. However these vehicles had different trends in their combat use. The primary application role of the ISU-122 was as a tank destroyer, while the SU/ISU-152 tended more towards the assault gun role. Having the same armament as the [[IS-2]] it also had good armor performance but more importantly very good performance with high-explosive rounds. In order to kill a [[King Tiger]] frontally it had to be within 200m. A [[Panther tank|Panther]] however could be killed within 1500m.
+A-19S or D-25S cannon fired the 25 kg armour-piercing BR-471 (Russian БР-471) projectile with a muzzle velocity of 800 m/s. It was able to penetrate the armour of all German World War II AFVs, with rare exceptions (only JagdTiger on its gun mantlet and superstructure, and Elefant were strong enough to resist the BR-471, although heavy spalling would be experienced, and the King Tiger could only be penetrated at 200m or less). But the BR-471 had high kinetic energy, and it often damaged heavily armoured German vehicles without armour penetration by mechanical shock, causing engine or gearbox failures. So the ISU-122 was very popular in the Red Army as a long-range tank destroyer. The 121.92-mm gun had great potential, but it should be noted that the gun's abilities were somewhat reduced by the available projectiles. In 1944 only the armour-piercing BR-471 was available (the Germans usually had these as well, but with ballistic nose and sub-caliber variants also). The improved version, BR-471B (БР-471Б) was developed in early 1945, but it was available in quantity only after World War II ended. So in difficult cases the ISU-122 fought against enemy heavy armour with high explosive projectiles OF-471 (ОФ-471). These shells also had a mass of 25 kg, muzzle velocity of 800 m/s, and were equipped with a 3 kg [[trinitrotoluene|TNT]] charge. Mechanical shock and explosion was often enough to knock-out enemy AFV without any armour penetration.
+
+In urban combat ISU-122's were utilized as assault guns, but with lower efficiency in comparison with SU/ISU-152. But in general Red Army commanders viewed the ISU-122 as a good assault gun. The OF-471 projectile was powerful enough against unprotected and entrenched infantry, pillboxes, and fortified buildings. In urban combat the long barrel of the 121.92-mm cannon sometimes made difficult maneuvering in narrow places.
+
+The usage of the ISU-122 as self-propelled howitzer was rare, although its maximum range of fire exceeded 14 km. Usually the ISU-122 delivered indirect fire to the enemy in rapid advance operations when the support of towed artillery was not available.
+
+== Surviving examples ==
+
+Most of the ISU-122s produced survived the Second World War and examples can be seen. But only a few of the surviving ISU-122s kept their initial appearance. Many of them were rebuilt or scrapped in mid-1960. So the number of ISU-122s in museums and memorials is substantially lower than the [[ISU-152]]. Preserved ISU 122s can be seen in the museums of the Russia Central Artillery and Engineer Troops in [[St Petersburg]], the [[Kubinka Tank Museum]], the [[Central Museum of the Russian Army]], the [[Museum of the Great Patriotic War, Kiev]] and other tank museums and World War II memorials in [[Poland]] and [[Belarus]].
+
+==See also==
+{{commons|ISU-122}}
+* [[List of Soviet tanks]] - covers all periods
+
+== Notes ==
+{{reflist}}
+
+== References ==
+* Solyankin A. G., Pavlov M. V., Pavlov I. V., Zheltov I. G. — ''Soviet heavy self-propelled guns 1941—1945'', Moscow, Printing centre «Exprint», 2005, 48 pp. ISBN 5-94038-080-8 (Солянкин А. Г., Павлов М. В., Павлов И. В., Желтов И. Г. ''Советские тяжёлые самоходные артиллерийские установки 1941-1945 гг.'', М. ООО Издательский центр «Экспринт», 2005, 48 с. ISBN 5-94038-080-8)
+
+== External links ==
+* [http://www.battlefield.ru/index.php?option=com_content&task=view&id=40&Itemid=45 ISU-122 on BattleField.Ru]
+* [http://armor.kiev.ua/Tanks/WWII/isu122/ ISU-122 on Vasiliy Chobitok's ArmorSite] (articles by A. Meretzkov and A. Sorokin) {{ru icon}}
+
+{{WWIISovietAFVs}}
+
+[[Category:Assault guns]]
+[[Category:Tank destroyers]]
+[[Category:Self-propelled artillery of World War II]]
+[[Category:Self-propelled artillery of the Soviet Union]]
+[[Category:World War II Soviet self-propelled guns]]
+
+[[cs:ISU-122]]
+[[de:ISU-122]]
+[[it:ISU-122 (semovente)]]
+[[pl:ISU-122]]
+[[ru:ИСУ-122]]

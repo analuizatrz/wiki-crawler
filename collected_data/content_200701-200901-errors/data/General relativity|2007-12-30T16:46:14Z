@@ -1,0 +1,1310 @@
+{{seeintro}}
+'''General relativity''' ('''GR''') or '''General theory of relativity''' ('''GTR''') is the [[Geometry|geometrical]] [[Theoretical physics|theory]] of [[gravitation]] published by [[Albert Einstein]] in 1915/16.<ref>{{Harvnb|Einstein|1915}} and {{Harvnb|Einstein|1916}}.</ref> It unifies [[special relativity]], [[Newton's law of universal gravitation]], and the insight that gravitational [[acceleration]] can be described by the [[curvature]] of [[space]] and [[Time in physics|time]], this latter being produced by the [[mass]]-[[energy]] and [[momentum]] content of the matter in [[spacetime]]. 
+
+General relativity is distinguished from other metric [[:Category:Theories of gravitation|theories of gravitation]] by its use of the [[Einstein field equations]] to relate spacetime content and spacetime curvature.<ref name = Ein1916>{{Harvnb|Einstein|1916}}</ref><ref>{{cite book | last = Einstein | first = A. | title = Relativity: The Special and General Theory | location = New York | publisher = Crown | year = 1961 | id = ISBN 0-517-02961-8 | url = http://www.gutenberg.org/etext/5001 }}</ref>  The field equations are a system of [[partial differential equations]] whose solution gives the [[metric tensor (general relativity)|metric tensor]] of spacetime, describing its "shape". In the resulting geometry, an object moving [[inertia]]lly in a gravitational field is viewed as following a [[geodesic (general relativity)|geodesic path]] that may be found using the [[Christoffel symbol]]s of the metric. [[Solutions of the Einstein field equations]] model gravitating systems, especially important ones exhibiting spherical symmetry, notable examples being the [[Schwarzschild solution]], the [[Reissner-Nordström black hole|Reissner-Nordström solution]] and the [[Kerr metric]].
+
+General relativity is currently the most successful gravitational theory, being almost universally accepted and well-supported by observations.{{Facts|date=November 2007}} General relativity's first success was in explaining the [[Tests of general relativity#Perihelion precession of Mercury|anomalous perihelion precession]] of [[Mercury (planet)|Mercury]]. In 1919, Sir [[Arthur Stanley Eddington]] announced that observations of [[star]]s near the [[eclipse]]d [[Sun]] confirmed general relativity's prediction that massive objects bend [[light]]. Other [[tests of general relativity|observations and experiments]] have since confirmed many of the [[#Predictions|predictions of general relativity]], including [[gravitational time dilation]], the [[gravitational redshift]] of light, [[Shapiro delay|signal delay]], [[gravitational radiation]] and the [[metric expansion of space|expansion of the universe]]. Numerous observations are also interpreted as confirming one of general relativity's most mysterious and exotic predictions, the existence of [[black hole]]s.
+
+{{General relativity}}
+__TOC__
+</div>
+
+==Justification==
+{{main|Equivalence principle}}
+[[Image:Elevator gravity2.png|thumb|left|250px|Ball falling to the floor in an accelerated rocket (left) and on [[Earth]] (right)]]
+The justification for creating general relativity came from the [[equivalence principle]], which dictates that [[free-fall]]ing observers are the ones in [[inertia]]l motion. Roughly speaking, the principle states that the most obvious effect of [[gravity]] – things falling down – can be eliminated by making the transition to a reference frame that is in free fall, and that in such a reference frame, the laws of physics will be approximately the same as in special relativity.<ref>While the equivalence principle is still part of modern expositions of general relativity, there are some differences between the modern version and Einstein's original concept, cf. Norton 1985.</ref> A consequence of this insight is that inertial observers can accelerate with respect to each other. For example, a person in [[free fall]] in an elevator whose cable has been cut will experience weightlessness: objects will either float alongside him, or drift at constant speed. In this way, the experiences of an observer in free fall will be very similar to those of an observer in deep space, far away from any source of gravity, and in fact to those of the privileged ("inertial") observers in Einstein's theory of [[special relativity]].<ref>This is described in detail in chapter 2 of Wheeler 1990.</ref>  [[Albert Einstein]] realized that the close connection between weightlessness and special relativity represented a fundamental property of gravity. 
+
+Einstein's key insight was that there is no fundamental difference between the constant pull of [[gravity]] we know from everyday experience and the [[fictitious forces]] felt by an accelerating observer (in the language of physics: an observer in a [[non-inertial reference frame]]).<ref name="Einstein:1907">{{cite journal|last=Einstein| first=Albert|date=1907| title=Über das Relativitätsprinzip und die aus demselben gezogene Folgerungen| journal=Jahrbuch der Radioaktivitaet und Elektronik | volume = 4}}</ref><ref>E. g. Janssen (2005), p. 64f. Einstein himself also explains this in section XX of his non-technical book Einstein 1961. Following earlier ideas by [[Ernst Mach]], Einstein also explored [[centrifugal force]]s and their gravitational analogue, cf. Stachel 1989.</ref> So what people standing on the surface of the Earth perceive as the 'force of gravity' is a result of their undergoing a continuous physical acceleration which could just as easily be imitated by placing an observer within a rocket accelerating at the same rate as gravity (9.81 [[metre per second squared|m/s<sup>2</sup>]]).
+
+This redefinition is incompatible with [[Newton's first law of motion]], and cannot be accounted for in the [[Euclidean geometry]] of [[special relativity]]. To quote Einstein himself:
+{{cquote|If all accelerated systems are equivalent, then Euclidean geometry cannot hold in all of them. <ref> See [http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/General_relativity.html http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/General_relativity.html]</ref>}}
+Thus the equivalence principle led Einstein to develop a gravitational theory which involves curved space-times. Paraphrasing [[John Archibald Wheeler|John Wheeler]], Einstein's geometric theory of gravity can be summarized thus: spacetime tells matter how to move; matter tells spacetime how to curve.<ref>E.g. p. xi in Wheeler 1990.</ref>
+
+Another motivating factor was the realization that relativity calls for the gravitational potential to be expressed as a symmetric rank-two [[tensor]], and not just a [[scalar field|scalar]] as was the case in Newtonian physics (An analogy is the [[electromagnetic four-potential]] of special relativity). Thus, [[Einstein]] sought a rank-two tensor means of describing curved space-times surrounding massive objects.<ref>{{cite journal|last=Einstein| first=Albert| coauthors = Grossmann, Marcel|date=1913| title=Entwurf einer verallgemeinerten Relativitaetstheorie und einer Theorie der Gravitation| journal=Zeitschrift fuer Mathematik und Physik| pages=225-261| url=http://www.bun.kyoto-u.ac.jp/~suchii/gen.GR3.html | accessdate=2006-09-20}}</ref> This effort came to fruition with the discovery of the Einstein field equations in 1915.<ref name=Ein1915>{{Harvnb|Einstein|1915}}</ref>
+
+==Fundamental principles==
+[[Image:spacetime curvature.png|thumb|right|300px|Two-dimensional analogy of space-time distortion. The presence of matter changes the geometry of [[spacetime]], this (curved) geometry being interpreted as [[gravity]]. Note that the white lines do not represent the curvature of space, but instead represent the [[coordinate system]] imposed on the curved spacetime which would be [[rectilinear]] in a flat spacetime]]
+General relativity is a metric theory of gravitation. For this class of theory, the main defining feature is the concept of gravitational 'force' being replaced by [[spacetime]] geometry. Phenomena that in [[classical mechanics]] are ascribed to the action of the force of [[gravity]] (such as [[free-fall]], [[orbit]]al motion, and [[spacecraft]] [[trajectories]]) are taken in general relativity to represent inertial motion within a [[curvature|curved geometry]] of spacetime.
+
+General relativity (and all other metric theories of gravitation) are predicated upon several underlying assumptions. The [[general principle of relativity]] states that the laws of physics must be the same for all observers (accelerated or not). The [[principle of general covariance]] states the [[Physical law|laws of physics]] must take the same form in all coordinate systems. General relativity also requires equivalence between [[inertia]]l and [[geodesic (general relativity)|geodesic motion]] because the world lines of particles unaffected by physical forces are timelike or null geodesics of spacetime.  The principle of [[local Lorentz invariance]] requires that the laws of [[special relativity]] apply locally for all inertial observers. Finally, there is the principle that the curvature of spacetime and its energy-momentum content are related. (As mentioned above, this relationship between curvature and spacetime content is specifically dictated by the Einstein field equations in general relativity.)
+
+The [[equivalence principle]], which was the starting point for the [[history of general relativity|development of general relativity]], ended up being a consequence of the general principle of relativity and the principle that inertial motion is geodesic motion.
+
+==Mathematical framework==
+{{main|Mathematics of general relativity}}
+{{see also|Physical theories modified by general relativity}}
+
+The requirements of the mathematics of general relativity are further modified by the other principles. Local Lorentz Invariance requires that the manifolds described in GR be 4-dimensional and Lorentzian instead of [[Riemannian manifold|Riemannian]]. In addition, the principle of [[general covariance]] requires that mathematics to be expressed using [[tensor calculus]]. Tensor calculus permits a manifold as [[map]]ped with a [[coordinate system]] to be equipped with a [[metric tensor (general relativity)|metric tensor of spacetime]] which describes the incremental (spacetime) intervals between coordinates from which both the [[geodesic equation]]s of motion and the [[curvature tensor]] of the spacetime can be ascertained.
+
+===Geometry===
+[[Image:Earth geo.gif|thumb|right|250px|Converging geodesics: two lines of longitude (green) that start out in parallel at the equator (red) but converge to meet at the pole]]
+Due to the expectation that spacetime is curved, non-Euclidean geometry must be used.  (In particular, the geometry is described by a [[Pseudo-Riemannian manifold|pseudo-Riemannian]] metric, or more specifically still, a Lorentzian metric.)  In essence, spacetime does not adhere to the "common sense" rules of Euclidean geometry, but instead objects that were initially traveling in parallel paths through spacetime (meaning that their velocities do not differ to first order in their separation) come to travel in a non-parallel fashion. This effect is called [[geodesic deviation]], and it is used in general relativity as an alternative to gravity. For example, two people on the Earth heading due north from different positions on the [[equator]] are initially traveling on parallel paths, yet at the [[north pole]] those paths will cross. Similarly, two balls initially at rest with respect to and above the surface of the Earth (which are parallel paths by virtue of being at rest with respect to each other) come to have a converging component of relative velocity as both accelerate towards the center of the Earth due to their subsequent free-fall.
+
+[[Image:Tide fall.png|thumb|right|150px|Two bodies falling towards the center of the Earth accelerate towards each other as they fall.]]
+The curvature of spacetime (caused by the presence of stress-energy) can be viewed intuitively in the following way. Placing a heavy object such as a bowling ball on a trampoline will produce a 'dent' in the trampoline. This is analogous to a large mass such as the Earth causing the local spacetime geometry to curve. This is represented by the image at the top of this article. The larger the mass, the bigger the amount of curvature. A relatively light object placed in the vicinity of the 'dent', such as a ping-pong ball, will accelerate towards the bowling ball in a manner governed by the 'dent'. Firing the ping-pong ball at some suitable combination of direction and speed towards the 'dent' will result in the ping-pong ball 'orbiting' the bowling ball. This is analogous to the Moon orbiting the Earth, for example.
+
+Similarly, in general relativity massive objects do not directly impart a force on other massive objects as hypothesized in Newton's [[Action at a distance (physics)|action at a distance]] idea. Instead (in a manner analogous to the ping-pong ball's response to the bowling ball's ''dent'' rather than the bowling ball itself), other massive objects respond to how the first massive object curves spacetime. Notice that the most important part of the curvature near a massive object is in the plane defined by the ''time'' and ''radial'' directions, although there is also some purely spatial curvature.
+
+===Coordinate vs. physical acceleration===
+One of the greatest sources of confusion about general relativity comes from the need to distinguish between coordinate and physical accelerations.{{Fact|date=December 2007}}
+
+In [[classical mechanics]], space is preferentially mapped with a [[Cartesian coordinate system]]. Inertial motion then occurs as one moves through this space at a constant coordinate rate with respect to time. Any change in this rate of progression must be due to a force, and therefore a physical and coordinate acceleration were in classical mechanics one and the same. It is important to note that in [[special relativity]] that same kind of Cartesian coordinate system was used, with time being added as a fourth dimension and defined for an observer using the [[Einstein synchronisation|Einstein synchronization procedure]]. As a result, physical and coordinate acceleration correspond in special relativity too, although their magnitudes may vary.
+
+In general relativity, the unwarranted assumption that nature provides a preferred set of coordinates is abandoned. Instead, an observer may ''choose'' a set of coordinates for their own convenience, this choice being restricted only by the condition that these coordinates be related to those of any other [[coordinate system]] by a smooth functional dependence. Only statements that do not depend on the arbitrary choice of a coordinate system by the observer (i.e. the ''description'' of a physical phenomenon) can be considered of physical relevance. This is the principle of [[general covariance]] of physical laws. 
+
+It implies, for example, that a quantity like [[acceleration]] cannot simply be described as the second derivative of the coordinate functions of a velocity, because a non zero "coordinate acceleration" may merely be an artifact of the choice of coordinates. Such an artifact occurs for the description in polar coordinates of a uniformly moving particle not passing through the (chosen!) origin. <!-- This is an example of an inertially moving object undergoing a coordinate acceleration, and the way this coordinate acceleration changes as the object travels is given by the [[geodesic]] equations for the manifold and coordinate system in use.-->
+In fact, the definition of acceleration of a particle requires that one knows how to subtract velocities measured at two different points along its track in spacetime. Equivalently, it must be possible to define in an observer and coordinate invariant way which velocity vectors are constant along such a path in spacetime. This is called [[parallel transport]]. It does not come for free but requires an additional structure on [[spacetime]] called a [[connection]]. It so happens that if there is defined a "length" of all velocity vectors (which may be negative) - achieved via a [[Lorentzian metric]] - there is a natural connection called the [[Levi Civita connection]] that is uniquely determined by requiring that parallel velocity vectors have constant "length" and the technical assumption of zero [[torsion]]. 
+It was one of Einstein's great insights that this description can be applied to describe the influence of gravity. In general relativity, gravity is seen as a consequence of the fact that parallel transport of a velocity vector may depend on the path through spacetime, not only on its endpoints. How the [[metric tensor (general relativity)|metric]], and thereby connection and parallel transport, are determined by the transport of energy-momentum in spacetime by [[matter]] and [[radiation]] (described with the so-called [[stress-energy tensor|stress-energy-momentum tensor]]) is the content of the theory of general relativity.
+
+===Einstein field equations===
+{{main|Einstein field equations}}
+
+The Einstein field equations (EFE) describe how stress-energy causes curvature of spacetime and are usually written in [[tensor]] form (using [[abstract index notation]]) as
+
+:<math> G_{ab} = \kappa\, T_{ab} </math>
+
+where ''G<sub>ab</sub>'' is the [[Einstein tensor]], ''T<sub>ab</sub>'' is the [[stress-energy tensor]] and <math>\kappa </math> is a constant. The Einstein tensor is related to the curvature of space-time and is a function only of the metric tensor and its first and second derivatives. The stress energy tensor, which is the source of the gravitational field, includes stress (pressure and shear), the density of momentum, and the density of energy including the energy of mass (the source for Newtonian gravity). The tensors ''G<sub>ab</sub>'' and ''T<sub>ab</sub>'' are both rank-2 symmetric tensors, that is, they can each be thought of as 4×4 matrices, each of which contains 10 independent terms.
+
+A concise description of the field equations was given by John Archibald Wheeler:
+ 
+{{cquote|Spacetime grips mass, telling it how to move, and mass grips spacetime, telling it how to curve|30px|30px|[[John Archibald Wheeler]]|''QuoteSource''}}
+
+The EFE reduce to [[Newton's law of gravity]] in the [[Correspondence principle#Other uses of the term|limiting cases]] of a [[weak-field approximation|weak gravitational field]] and [[slow-motion approximation|slow speed]] relative to the speed of light. In fact, the value of <math>\kappa</math> in the EFE is [[Einstein field equations#Properties of Einstein's equation|determined to be]] <math>\kappa = 8 \pi G / c^4 \ </math> by making these two approximations.<ref name = Ein1916/>
+
+The [[solutions of the Einstein field equations|solutions of the EFE]] are [[metric tensor (general relativity)|metrics of spacetime]]. These metrics describe the structure of spacetime given the stress-energy and coordinate mapping used to obtain that solution. Being non-linear differential equations, the EFE often defy attempts to obtain an [[exact solutions in general relativity|exact solution]]; however, many such solutions are known.
+
+The EFE are the identifying feature of general relativity. Other theories built out of the same premises include additional rules and/or constraints. The result almost invariably is a theory with different [[field equation]]s (such as [[Brans-Dicke theory]], [[teleparallelism]], [[Rosen's bimetric theory]], and [[Einstein-Cartan theory]]).
+
+==Consequences of Einstein's theory==
+
+General relativity has a number of consequences, some following directly from the theory's axioms, others having become clear only in the course of the ninety years of research that followed Einstein's initial publication.
+
+===Gravitational time dilation and frequency shift===
+{{main|Gravitational time dilation}}
+[[Image:Gravitational red-shifting2.png|thumb|right|175px|Schematic representation of the gravitational redshift of a light wave escaping from the surface of a massive body]]
+In general relativity (and, in fact, in any theory in which the equivalence principle holds<ref>Cf. {{Harvnb|Rindler|2001|loc=pp. 24–26 vs. pp. 236–237}} and {{Harvnb|Ohanian|Ruffini|1994|loc=pp. 164–172}}. In fact, Einstein derived these effects using the equivalence principle as early as 1907, cf. {{Harvnb|Einstein|1907}} and the description in {{Harvnb|Pais|1982|loc=pp. 196–198}}.</ref>), gravity has an immediate influence on the passage of time. Imagine two observers Alice and Bob, both of which are at rest in a [[stationary]] gravitational field, with Alice closer to the source of gravity ("deeper in the [[gravity well]]") and Bob at a greater distance.  Then for light sent from Alice to Bob or vice versa, Bob will measure a lower [[frequency]] than Alice: light sent down into a gravity well is [[blue-shift]]ed, light climbing out of a gravity well is [[redshifted]].  Also, Alice's clocks tick more slowly than Bob's: whenever the two are compared (either by sending light signals back and forth, or by slowly transporting clocks from one location to the other), the result will be that Bob's clocks are running faster.  This effect is not restricted to clocks, but applies to all processes (the rate at which Alice and Bob age, cook five-minute eggs, or play Chopin's [[Minute Waltz]]); it is known as [[gravitational time dilation]].<ref>{{Harvnb|Rindler|2001|loc=pp. 24–26}}; {{Harvnb|Misner|Thorne|Wheeler|1973 |loc=§ 38.5}}.</ref>.
+
+The gravitational redshift was first measured in 1959 in a laboratory experiment by [[Pound-Rebka experiment|Pound and Rebka]]<ref>See {{Harvnb|Pound|Rebka|1959}}, {{Harvnb|Pound|Rebka|1960}}; {{Harvnb|Pound|Snider|1964}}; a list of further experiments is given in {{Harvnb|Ohanian|Ruffini|1994|loc=table 4.1 on p. 186}}.</ref> and later confirmed by astronomical observations.<ref>E.g. {{Harvnb|Greenstein|Oke|Shipman|1971}}; the most recent and most accurate Sirius B measurements are published in {{Harvnb|Barstow|Bond|Holberg|Burleigh|2005}}.</ref>   There are numerous direct measurements of gravitational time dilation using [[atomic clocks]]<ref>Starting with the [[Hafele-Keating experiment]], {{Harvnb|Hafele|Keating|1972a}} and {{Harvnb|Hafele|Keating|1972b}}, and culminating in the [[Gravity Probe A]] experiment; an overview of experiments can be found in {{Harvnb|Ohanian|Ruffini|1994|loc=table 4.1 on p. 186}}.</ref> while ongoing validation is provided as a side-effect of the operation of the [[Global Positioning System]] (GPS).<ref>GPS is continually tested by comparing atomic clocks on the ground and aboard orbiting satellites; for an account of relativistc effects, see {{Harvnb|Ashby|2002}} and {{Harvnb|Ashby|2003}}.</ref> Tests in stronger gravitational fields are provided by the observation of [[binary pulsar]]s.<ref>Reviews are given in {{Harvnb|Stairs|2003}} and {{Harvnb|Kramer|2004}}.</ref> All results are in agreement with general relativity;<ref>General overviews can be found in section 2.1. of Will 2006; Will 2003, pp. 32–36; {{Harvnb|Ohanian|Ruffini|1994|loc=section 4.2}}.</ref> however, at the current level of accuracy, these observations cannot distinguish between general relativity and other theories in which the equivalence principle is valid.<ref>Cf. {{Harvnb|Ohanian|Ruffini|1994|loc=pp. 164–172}}.</ref>
+
+===Light deflection and gravitational time delay===
+{{Main|Kepler problem in general relativity|Shapiro delay}}
+[[Image:Light deflection.png|thumb|left|275px|Deflection of light (sent out from the location shown in blue) near a compact body (shown in gray).]]
+
+In general relativity, light follows a special variety of straightest-possible world-line, so-called light-like or null [[geodesics]] – a generalization of the straight lines along which light travels in [[classical physics]], and the [[invariance]] of [[lightspeed]] in [[special relativity]].<ref>The fact that light follows null geodesics is not an independent axiom; it can be derived from Einstein's equations and the Maxwell [[Lagrangian]] using a [[WKB approximation]], cf. {{Harvnb|Ehlers|1973|loc=section 5}}.</ref>  As one examines suitable model spacetimes (either the exterior [[Schwarzschild solution]] or, for more than a single mass, the [[Post-Newtonian expansion]]),<ref>A brief descriptions and pointers to the literature can be found in {{Harvnb|Blanchet|2006|loc=section 1.3}}.</ref> several effects of gravity on light propagation emerge.
+
+The best-known is the bending of light in a gravitational field: light passing a massive body is deflected towards that body.  While such an effect can also be derived by extending the [[universality of free fall]] to light,<ref>See {{Harvnb|Rindler|2001|loc=section 1.16}}; for the historical examples, {{Harvnb|Israel|1987|loc=p. 202–204.}}; in fact, Einstein published one such derivation as {{Harvnb|Einstein|1907}}.  Such calculations tacitly assume that the geometry of space is [[Euclidean space|Euclidean]], cf. {{Harvnb|Ehlers|Rindler|1997}}.</ref> the maximal angle of deflection resulting from such heuristic calculations is only half the value given by general relativity; from the standpoint of Einstein's theory they take into account the effect of gravity on time, but not its consequences for the warping of space.<ref>E.g. {{Harvnb|Rindler|2001|loc=sec. 11.11}}.</ref> An important example of this is starlight being deflected as it passes the [[Sun]]; in consequence, the positions of stars observed in the Sun's vicinity during a [[solar eclipse]] appear shifted by up to 1.75 [[arc second]]s. This effect was first measured by a British expedition directed by [[Arthur Eddington]], and confirmed with significantly higher accuracy by subsequent measurements.<ref>Cf. {{Harvnb|Kennefick|2005}}; for an overview of more recent measurements, see {{Harvnb|Ohanian|Ruffini|1994|loc=chapter 4.3}}. The most precise direct modern observations measure the deflection of the light of distant [[quasar]]s by the Sun, cf. {{Harvnb|Shapiro|Davis|Lebach|Gregory|2004}}.</ref>
+
+Closely related to the bending of light is the gravitational time delay, also known as the [[Shapiro effect]]: light signals take longer to move through a gravitational field than they would in the absence of the gravitational field. This effect was discovered through the observations of radar signals sent from Earth to planets such as [[Venus]] or [[Mercury (planet)|Mercury]] and thence reflected back;<ref>{{Harvnb|Shapiro|1965}}; a pedagogical introduction can be found in {{Harvnb|Weinberg|1972|loc=ch. 8, sec. 7}}.</ref> later, much more accurate measurements utilized signals sent to space probes and sent back using active transponders.<ref>The most recent measurements are {{Harvnb|Bertotti|Iess|Tortora|2003}}; for an overview, see {{Harvnb|Ohanian|Ruffini|1994|loc=table 4.4 on p. 200}}.</ref>  In both the case of the planets and the probes, what was measured was the propagation of signals in the Sun's gravitational field. More recent measurements have detected the Shapiro effect in signals sent by a [[pulsar]] that is part of a binary system; in that case, the gravitational field causing the time delay is that of the other pulsar.<ref>Cf. {{Harvnb|Stairs|2003|loc=section 4.4}}.</ref> In the [[parameterized post-Newtonian formalism]] (PPN), measurements of both the deflection of light and the gravitational time delay are used to determine a parameter called <math>\gamma</math> that reflects the influence of gravity on the geometry of space.<ref>{{Harvnb|Will|1993|loc=sec. 7.1 and 7.2}}.</ref>
+
+===Gravitational waves===
+{{main|Gravitational waves}}
+[[Image:Gravwav initial.gif|thumb|right|150px|Ring of test particles floating in space]]
+[[Image:Gravwav.gif|thumb|right|150px|Ring of test particles influenced by gravitational wave]]
+There are several analogies between weak-field gravity and [[electromagnetism]]. One is that, for [[electromagnetic wave]]s, there are corresponding [[gravitational waves]]: ripples in spacetime that propagate at the [[speed of light]].<ref>For an overview, see {{Harvnb|Misner|Thorne|Wheeler|1973|loc=part VIII}}. Note, however that for gravitational waves, the dominant contribution is not the [[dipole]], but the quadrupole cf.  {{Harvnb|Schutz|2001}}.</ref> 
+
+The simplest variety of gravitational wave can be visualized via their action on a ring of freely floating particles (see first image to the right). As a simple sine wave propagates through such a ring from out of the page towards the reader, the ring is distorted in a characteristic, rhythmic fashion (see second image to the right).<ref>Any textbook on general relativity will contain a description of these properties, e.g. {{Harvnb|Schutz|1981|loc=ch. 9}}.</ref> Such linearized gravitational waves are important when it comes to describing the exceedingly weak waves that are expected to arrive here on Earth from far-off cosmic events, which typically result in distances increasing and decreasing by <math>10^{-21}</math> or less.  Data analysis methods routinely make use of the fact that these linearized waves can be [[Fourier decomposition|Fourier decomposed]].<ref>For example {{Harvnb|Jaranowski|Królak|2005}}.</ref>  It is, however, important to note that the linearized waves are only approximations.  Generically, the non-linearity of the Einstein equations means that there is no [[linear superposition]] for gravitational waves.  Describing such more general waves is not an easy task.  There are some [[exact solution]]s describing gravitational waves, for instance a wave train traveling through empty space<ref>{{Harvnb|Rindler|2001|loc=ch. 13}}.</ref> or so-called [[Gowdy universe]]s, varieties of an expanding cosmos filled with gravitational waves,<ref>See {{Harvnb|Gowdy|1971}}, {{Harvnb|Gowdy|1974}}.</ref> while, when it comes to describing the gravitational waves produced in astrophysically relevant situations such as the merger of two black holes, [[numerical relativity|numerical methods]] are presently the only way to construct appropriate models.<ref>See {{Harvnb|Lehner|2002}} for a brief introduction to the methods of numerical relativity, and {{Harvnb|Seidel|1998}} for the connection with gravitational wave astronomy.</ref>
+
+===Orbital effects and the relativity of direction===
+{{Main|Kepler problem in general relativity}}
+General relativity differs from classical mechanics in a number of predictions concerning orbiting bodies. The most striking one concerns the relativistic [[apsis|apside]] shifts, orbital decay caused by the emission of gravitational waves, and effects that are due to the relativity of direction.
+
+====Precession of apsides====
+[[Image:Relativistic precession.svg|thumb|left|200px|Newtonian (red) vs. Einsteinian orbit (blue) of a lone planet orbiting a star]]
+In general relativity, the [[Apsis|apsides]] of [[orbit]]s (the points of an orbiting body closest approach to the system's [[center of mass]]) will [[precess]] – the orbit is not an [[ellipse]], but akin to an ellipse that rotates on its focus, resulting in a [[rosette]]-like shape (see image).  Einstein himself derived this result by using an approximate metric representing the Newtonian limit and treating the orbiting body like a [[test particle]]<ref>{{Harvnb|Pais|1982|loc=pp. 253–254}}</ref>; the result can also be obtained by using either the exact [[Schwarzschild metric]] (describing spacetime around a spherical mass)<ref>See {{Harvnb|Rindler|2001|loc=section241}}.</ref> or the much more general [[post-Newtonian formalism]].<ref>See {{Harvnb|Will|1993|loc=pp. 177–181}}.</ref> The effect is due both to the influence of gravity on the geometry of space and to the way that [[self energy]] contributes to a body's gravity (in other words, the special kind of [[nonlinearity]] exhibited by Einstein's theory).<ref>In consequence, in the [[parameterized post-Newtonian formalism]] (PPN), measurements of this effect determine a linear combination of the terms <math>\beta</math> and <math>\gamma</math>, cf. {{Harvnb|Will|2006|loc=sec. 3.5}} and {{Harvnb|Will|1993|loc=sec. 7.3}}.</ref>
+
+An early success of general relativity was that the theory offered a straightforward explanation for an [[Tests of general relativity#Perihelion precession of Mercury|anomalous perihelion shift]] of the planet [[Mercury (planet)|Mercury]], which had been discovered by [[Urbain Le Verrier]] in 1859 but had remained mysterious.<ref>See {{Harvnb|Schutz|2003|loc=pp. 48-49}} and {{Harvnb|Pais|1982|loc=pp. 253–254}}.</ref>  This agreement between theory and experiment confirmed for Einstein that he had at last identified the correct form of the [[Einstein field equations|gravitational field equations]].  More recent observations have shown that the field equations predict the correct anomalous perihelion shift for all planets where this can be measured accurately ([[Mercury (planet)|Mercury]], [[Venus (planet)|Venus]] and the [[Earth]]).<ref>The most precise measurements are [[VLBI]] measurements of planetary positions; see {{Harvnb|Will|1993|loc=chapter 5}}, {{Harvnb|Will|2006|loc=section 3.5}}, {{Harvnb|Anderson|Campbell|Jurgens|Lau|1992}}; for an overview, {{Harvnb|Ohanian|Ruffini|1994|loc=pp. 406-407}}.</ref>
+The effect has also been checked in [[binary pulsar]] systems where it is larger by five [[order of magnitude|orders of magnitude]].<ref>See {{Harvnb|Kramer|Stairs|Manchester|2006}}.</ref>
+
+====Orbital decay====
+<!--This subsection is linked to from below (from the subsection Gravitational Waves in Astrophysical Applications), so please do not change its title or you will break the link -->
+[[Image:Psr1913+16-weisberg en.png|thumb|right|250px|Orbital decay for PSR1913+16: time shift in seconds, tracked over three decades.]]
+According to general relativity, a [[Binary system (astronomy)|binary system]] will emit [[gravitational waves]], thereby losing [[energy]]. Due to this loss, the distance between the two orbiting bodies decreases, and so does their orbital period. Within the [[solar system]] or for ordinary [[double star]]s, the effect is too small to be observable.  Not so for a close [[binary pulsar]], a system of two orbiting [[neutron stars]], one of which is a [[pulsar]]: from the pulsar, observers on Earth receive a regular series of radio pulses that can serve as a highly accurate clock, which allows precise measurements of the orbital period; since the neutron stars are very compact, significant amounts of energy are emitted in the form of gravitational radiation.<ref>See {{Harvnb|Stairs|2003}} and {{Harvnb|Schutz|2003|loc=pp. 317–321}}; an accessible account can be found in {{Harvnb|Bartusiak|2000|loc=pp. 70–86}}.</ref> 
+
+The first observation of a decrease in orbital period due to the emission of gravitational waves was made by [[Russell Alan Hulse|Hulse]] and [[Joseph Hooton Taylor Jr.|Taylor]] using binary pulsar [[PSR1913+16]] they had discovered in 1974; it amounts to the first indirect detection of gravitational waves, rewarded with the Nobel Prize in physics in 1993.<ref>An overview can be found in {{Harvnb|Weisberg|Taylor|2003}}; for the pulsar discovery, see {{Harvnb|Hulse|Taylor|1975}}; for the initial evidence for gravitational radiation, see {{Harvnb|Taylor|1994}}.</ref>  Since then, several other binary pulsars have been found, the most spectacular find being the double pulsar [[PSR J0737-3039]] in which both stars are pulsars.<ref>Cf. {{Harvnb|Kramer|2004}}.</ref>
+
+====Geodetic precession and frame-dragging====
+{{main|Geodetic precession|Frame dragging}}
+Several relativistic effects are directly related to the relativity of direction.<ref>See e.g. {{Harvnb|Penrose|2004|loc=§14.5}}, {{Harvnb|Misner|Thorne|Wheeler|1973|loc=sec. §11.4}}.</ref>  One is [[geodetic effect|geodetic precession]]: for a [[gyroscope]] in free fall in curved spacetime, the direction of its axis will change when compared, for instance, with the direction of light received from distant stars – even though its motion comes closest to keeping its axis direction constant ("[[parallel transport]]").<ref>See {{Harvnb|Weinberg|1972|loc=sec. 9.6}}, {{Harvnb|Ohanian|Ruffini|1982|loc=sec. 7.8}}.</ref> For the [[Moon]]-[[Earth]]-system, this effect has been measured with the help of [[lunar laser ranging]];<ref>See {{Harvnb|Bertotti|Ciufolini|Bender|1987}} and, for a more recent review, {{Harvnb|Nordtvedt|2003}}.</ref> more recently, it has been measured for test masses aboard the satellite [[Gravity Probe B]] to a precision of better than 1 percent.<ref>See {{Harvnb|Kahn|2007}}.</ref>
+
+Near a rotating mass, there are so-called gravitomagnetic or [[frame-dragging]] effects: for a distant observer, it will seem that objects close to the mass gets "dragged around"; this is most extreme for [[Kerr solution|rotating black holes]] where, for an object entering a  zone known as the [[ergosphere]], rotation is inevitable.<ref>E.g. {{Harvnb|Townsend|1997|loc=sec. 4.2.1}}, {{Harvnb|Ohanian|Ruffini|1994|loc=pp. 469–471.}}</ref>  Such effects can again be tested through their influence on the orientation of a gyroscope in free fall:<ref>E.g. {{Harvnb|Ohanian|Ruffini|1994|loc=sec. 4.7}}, {{Harvnb|Weinberg|1972|loc=sec. 9.7}}; for a more recent review, see {{Harvnb|Schäfer|2004}}.</ref> somewhat controversial tests have been performed using the [[LAGEOS]] satellites, confirming the relativistic prediction;<ref>E.g. {{Harvnb|Ciufolini|Pavlis|2004}}, {{Harvnb|Ciufolini|Pavlis|Peron|2006}}; see the entry [[frame-dragging]] for an account of the debate.</ref> a precision measurement is the main aim of the [[Gravity Probe B]] mission, whose final results are expected in May 2008.<ref>A mission description can be found in {{Harvnb|Everitt|Buchman|DeBra|Keiser|2001}}; a first post-flight evaluation is given in {{Harvnb|Everitt||Parkinson|Kahn|2007}}; further updates will be available on the mission website {{Harvnb|Kahn|1996–2007}}.</ref>
+
+==Astrophysical applications==
+===Gravitational lensing===
+{{main|Gravitational lensing}}
+[[Image:Einstein ring.jpg|thumb|right|250px|[[Einstein cross]]: four images of the same astronomical object, produced by a [[gravitational lens]]]]
+The deflection of light by gravity can have an intriguing side effect: a massive object between the observer and a distant target object makes it possible for the observer to see multiple distorted images of the target.  This and similar effects are known as [[gravitational lens]]ing<ref>For overviews of gravitational lensing and its applications, see {{Harvnb|Ehlers|Falco|Schneider|1992}} and {{Harvnb|Wambsganss|1998}}.</ref> and, depending on the configuration, scale, and mass distribution, it can result in two images, a bright ring known as an [[Einstein ring]], or partial rings called arcs.<ref>For a simple derivation, see {{Harvnb|Schutz|2003|loc=ch. 23}}; cf. {{Harvnb|Narayan|Bartelmann|1997|loc=sec. 3}}.</ref>
+The [[Twin Quasar|earliest example]] was discovered in 1979;<ref>See {{Harvnb|Walsh|Carswell|Weymann|1979}}.</ref> since then, more than a hundred gravitational lenses have been observed.<ref>Images of all the known lenses can be found on the pages of the CASTLES project, {{Harvnb|Kochanek|Falco|Impey|Lehar|2007}}.</ref>  Images too close to be resolved can still lead to a measurable effect, namely an overall brightening of a given star or other point-like object; a number of such "[[microlensing]] events" has been observed, as well.<ref>For an overview, see {{Harvnb|Roulet|Mollerach|1997}}.</ref>
+
+Gravitational lensing has developed into a tool of [[observational astronomy]]. Notably, it is used to detect the presence and distribution of [[dark matter]], provide a "natural telescope" for observing distant galaxies, and obtain an independent estimate of the [[Hubble constant]]. Statistical evaluations of lensing data are also used to understand the structural evolution of [[galaxy|galaxies]].<ref>See {{Harvnb|Narayan|Bartelmann|1997|loc=sec. 3.7}}.</ref>
+
+===Gravitational wave astronomy===
+{{main|Gravitational waves}}
+[[Image:LISA.jpg|thumb|left|180px|Artist's impression of the space-borne gravitational wave detector [[LISA (astronomy)|LISA]]]]
+From observations of binary pulsars, there is strong indirect evidence for the existence of gravitational waves (see the section on [[General relativity#Orbital decay|Orbital decay]], above).  However, gravitational waves reaching us from the depths of the cosmos have not been detected directly, this being one of the major goals of current relativity-related research.<ref>For an overview, {{Harvnb|Barish|2005}}; accessible accounts can be found in {{Harvnb|Bartusiak|2000}} and {{Harvnb|Blair|McNamara|1997}}.</ref> To this end, a number of land-based [[gravitational wave detector]]s are currently in operation, most notably the [[interferometric detector]]s [[GEO 600]], [[LIGO]] (three detectors),  [[TAMA 300]] and [[VIRGO]].<ref>An overview is given in {{Harvnb|Hough|Rowan|2000}}.</ref>
+A joint US-European mission to launch a space-based detector, [[LISA (astronomy)|LISA]], is currently under development,<ref>See {{Harvnb|Danzmann|Rüdiger|2003}}.</ref> with a precursor mission ([[LISA Pathfinder]]) due for launch in late 2009.<ref>See {{Harvnb|Landgraf|Hechler|Kemble|2005}}.</ref>
+
+Gravitational waves promise to yield information about astronomical objects that is inaccessible by observations using [[electromagnetic radiation]]:<ref>Cf. {{Harvnb|Thorne|1995}}.</ref> Terrestrial detectors are expected to yield new information about inspiral phase and mergers of binary [[stellar black hole|stellar mass black holes]] and binaries consisting of one such black hole and a [[neutron star]] (of interest as a candidate mechanism for [[gamma ray burst]]s); they could also detect signals from [[core-collapse supernova]]e and from periodic sources such as rotating neutron stars with small deformation. If there is truth to speculation about certain kinds of [[phase transition]]s or kink bursts from long [[cosmic string]]s in the very early universe (at [[cosmic time]]s around <math>10^{-25}</math> seconds) these could also be detectable.<ref>See {{Harvnb|Cutler|Thorne|2001|loc=sec. 2}}.</ref>  Space-based detectors like LISA should detect objects such as binaries consisting of two [[White Dwarf]]s, and [[AM CVn]] stars (a [[White Dwarf]] accreting matter from its binary partner, a low-mass helium star), and also observe the mergers of [[supermassive black hole]]s and the inspiral of smaller objects (between one and a thousand [[solar mass]]es) into such black holes. LISA should also be able to listen to the same kind of sources from the early universe as ground-based detectors, but at even lower frequencies and with greatly increased sensitivity.<ref>See {{Harvnb|Cutler|Thorne|2001|loc=sec. 3}}.</ref>
+
+===Black holes and other compact objects===
+{{main|Black holes}}
+[[Image:Star collapse to black hole.png|thumb|250px|right|Simulation based on the equations of general relativity: a star collapsing to form a black hole while emitting gravitational waves]]
+Whenever an object becomes sufficiently compact, general relativity predicts the formation of a [[black hole]]: a region of space from which nothing, not even light, can escape. In the currently accepted models of [[stellar evolution]], [[neutron stars]] with around 1.4 [[solar mass]] and so-called [[stellar black hole]]s with a few to a few dozen solar masses are thought to be the final state for the evolution of massive stars.<ref>See {{Harvnb|Miller|2002|loc=lectures 19 and 21}}.</ref>   [[Supermassive black hole]]s with between a few million and a few [[1000000000 (number)|billion]] solar masses are now thought to be the rule rather than the exception in the centers of galaxies,<ref>E.g. {{Harvnb|Celotti|Miller|Sciama|1999|loc=sec. 3}}.</ref> and their presence is thought to have played an important role in the formation of galaxies and larger cosmic structures.<ref>Cf. {{Harvnb|Springel|al.|2005}} and the accompanying summary {{Harvnb|Gnedin|2005}}.</ref>
+
+Astronomically, the most important property of compact objects is that they provide a superbly efficient mechanism for converting gravitational into radiation energy.<ref>Cf. {{Harvnb|Blandford|1987|loc=section 8.2.4}}, </ref>  [[Accretion]], the falling of [[dust]] or gaseous matter onto [[stellar black hole|stellar]] or [[supermassive black hole|supermassive]] black holes, is thought to be responsible for some spectacularly luminous astronomical objects, notably diverse kinds of [[Active galactic nucleus|active galactic nuclei]] on galactic scales and stellar-size objects such as [[Microquasar]]s.<ref>For the basic mechanism, see {{Harvnb|Carroll|Ostlie|1996|loc=sec. 17.2}}; for more about the different types of astronomical objects associated with this, cf. {{Harvnb|Robson|1996}}.</ref> In particular, accretion can lead to [[relativistic jet]]s, focused beams of highly energetic particles that are being flung into space at almost [[speed of light|light speed]].<ref>For a review, see {{Harvnb|Begelman|Blandford|Rees|1984}}.</ref> General relativity plays a central role in modelling all these phenomena<ref>For stellar end states, cf. {{Harvnb|Oppenheimer|Snyder|1939}} or, for more recent numerical work, {{Harvnb|Font|2003|loc=sec. 4.1}}; for supernovae, there are still major problems to be solved, cf. {{Harvnb|Buras|Rampp|Janka|Kifonidis|2003}}; for simulating accretion and the formation of jets, cf. {{Harvnb|Font|2003|loc=sec. 4.2}}.</ref>, relativistic lensing effects being thought to play a role for the signals received from [[X-ray pulsar]]s.<ref>Cf. {{Harvnb|Kraus|1998}}.</ref>
+
+Limits on compactness from the observation of accretion-driven phenomena ("[[Eddington luminosity]]"),<ref>See {{Harvnb|Celotti|Miller|Sciama|1999}}.</ref> observations of stellar dynamics in the center of our own [[Milky Way]] galaxy,<ref>Cf. {{Harvnb|Schödel|Ott|Genzel|Eckart|2003}}.</ref> and indications that at least some of the compact objects in question appear to have no solid surface<ref>Examination of [[X-ray burst]]s for which the central compact object is either a [[neutron star]] or a [[black hole]]; cf.  {{Harvnb|Remillard|Lin|Cooper|Narayan|2006}} and, for an overview, {{Harvnb|Narayan|2006|loc=sec. 5}}.</ref> provide strong indirect evidence for the existence of black holes. Direct evidence, such as observing the "shadow" of the Milky Way galaxy's central black hole horizon,<ref>Cf. {{Harvnb|Falcke|Melia|Agol|2000}}.</ref> is eagerly sought for.    
+
+Black holes are also sought-after targets in the search for gravitational waves (see the section [[General relativity#Gravitational waves|Gravitational waves]], above): merging black hole binaries should lead to some of the strongest gravitational wave signals reaching detectors here on Earth, and reliable simulations of such mergers are one of the main goals of current research in [[numerical relativity]];<ref>Cf. {{Harvnb|Seidel|1998}}.</ref> the phase directly before the merger ("chirp") could be used as a "[[standard candle]]" to deduce the distance to the merger events, and hence as a probe of cosmic expansion at large distances;<ref>Cf. {{Harvnb|Dalal|Holz|Hughes|Jain|2006}}.</ref> the gravitational waves produced as a stellar black hole plunges into a supermassive one should serve as a probe of the supermassive black hole's geometry.<ref>E.g. {{Harvnb|Barack|Cutler|2004}}.</ref>
+
+===Cosmology===
+{{main|Physical cosmology}}
+
+Each solution of Einstein's equations describes a whole universe, so it should come as no surprise that there are solutions that provide useful models for cosmology, the study of the universe as a whole. The current models are based on an extension of the original form of Einstein's equations which include the [[cosmological constant]] <math>\Lambda</math>, an additional term that has an important influence on the large-scale dynamics of the cosmos,
+:<math> G_{ab} + \Lambda\ g_{ab} = \kappa\, T_{ab} </math>
+where ''g<sub>ab</sub>''  is the [[metric tensor (general relativity)|spacetime metric]].<ref>Originally {{Harvnb|Einstein|1917}}; cf. the description in {{Harvnb|Pais|1982|loc=pp. 285–288}}.</ref> 
+ 
+[[Image:WMAP image of the CMB anisotropy.jpg|thumb|left|350px|Image of radiation emitted no more than a few hundred thousand years after the big bang, captured with the satellite telescope [[WMAP]]]]
+On the basis of isotropic and homogeneous solutions of these enhanced equations, the so-called [[Friedmann-Lemaître-Robertson-Walker metric|Friedmann-Lemaître-Robertson-Walker solutions]],<ref>See {{Harvnb|Carroll|2001|loc=ch. 2}}.</ref> are built the [[Physical cosmology|models of modern cosmology]] in which the universe has evolved over the past 14 [[1000000000 (number)|billion]] years from a hot, early [[Big bang]] phase.<ref>See {{Harvnb|Bergström|Goobar|2003|loc=ch. 9–11}}; use of these models is justified by the fact that, at large scales of around hundred million [[light-year]]s and more, our own universe indeed appears to be isotropic and homogeneous, cf. {{Harvnb|Peebles|Schramm|Turner|Kron|1991}}.</ref> Once a small number of parameters (for example the universe's mean [[matter]] [[density]]) have been fixed by astronomical observation,<ref>E.g. with [[WMAP]] data, see {{Harvnb|Spergel|Verde|Peiris|Komatsu|2003}}.</ref> further observational data can be used to put the models to the test: successful predictions include the initial abundance of chemical elements formed in a period of [[Big bang nucleosynthesis|primordial nucleosynthesis]],<ref>See {{Harvnb|Peebles|1966}}; for a recent account of predictions, see {{Harvnb|Coc|Vangioni-Flam|Descouvemont|Adahchour|2004}}; an accessible account can be found in {{Harvnb|Weiss|2006}}.</ref> which is in good agreement with astronomical observations;<ref>See {{Harvnb|Olive|Skillman|2004}}, {{Harvnb|Bania|Rood|Balser|2002}}, {{Harvnb|O'Meara|Tytler|Kirkman|Suzuki|2001}}, and {{Harvnb|Charbonnel|Primas|2005}}.</ref> the existence and properties of a "[[thermal]] echo" from the early cosmos, the [[cosmic background radiation]],<ref>Cf. {{Harvnb|Alpher|Herman|1948}} and, for a pedagogical introduction, see {{Harvnb|Bergström|Goobar|2003|loc=ch. 11}}; for the initial detection, see {{Harvnb|Penzias|Wilson|1965}}, andfor precision measurements by satellite observatories see {{Harvnb|Mather|Cheng|Cottingham|Eplee|1994}} ([[COBE]]) and {{Harvnb|Bennett|Halpern|Hinshaw|Jarosik|2003}} ([[WMAP]]).</ref>  and the large-scale distribution of galaxies.<ref>A review can be found in {{Harvnb|Lahav|Suto|2004}}.</ref>
+
+The status of the resulting models is mixed. On the one hand, the standard models of cosmology have been very successful: to date, they have passed all observational tests,<ref>See, e.g., fig. 2 in {{Harvnb|Bridle|Lahav|Ostriker|Steinhardt|2003}}.</ref> and they have proven a sound basis to explaining the evolution of the universe's large-scale structure.<ref>For a review, see {{Harvnb|Bertschinger|1998}}; more recent results can be found in  {{Harvnb|Springel|White|Jenkins|Frenk|2005}}.</ref>  On the other hand, there are a number of important open questions.  The determination of cosmological parameters (in line with other astronomical observations<ref>These additional observations involve the dynamics of galaxies and galaxy clusters cf. chapter 18 of {{Harvnb|Peebles|1993}}, evidence from gravitational lensing, cf. {{Harvnb|Peacock|1999|loc=sec. 4.6}}, and simulations of large-scale structure formation, see {{Harvnb|Springel|White|Jenkins|Frenk|2005}}.</ref>) suggests that about 90 percent of all matter in the universe is in the form of so-called [[dark matter]], which has mass (and hence gravitational influence), but does not interact electromagnetically (and hence cannot be observed directly); there is currently no generally accepted description of this new kind of matter within the framework of [[particle physics]]<ref>See {{Harvnb|Peacock|1999|loc=ch. 12}}, and {{Harvnb|Peskin|2007}}; in particular, observations indicate that all but a negligible portion of that matter is not in the form of the usual [[elementary particle]]s ("non-[[baryon]]ic matter"), cf. {{Harvnb|Peacock|1999|loc=ch. 12}}.</ref> or otherwise.<ref>Namely, some physicists have questioned whether or not the evidence for dark matter is, in fact, evidence for deviations from the Einsteinian (and the Newtonian) description of gravity cf. the overview in  {{Harvnb|Mannheim|2006|loc=sec. 9}}.</ref> A similar open question is that of [[dark energy]].  Observational evidence from redshift surveys of distant [[supernova]]e and measurements of the cosmic background radiation show that the evolution of our universe is significantly influenced by a [[cosmological constant]] resulting in an acceleration of cosmic expansion or, equivalently, by a form of energy with an unusual [[equation of state]], namely dark energy;<ref>See {{Harvnb|Carroll|2001}}; an accessible overview is given in {{Harvnb|Caldwell|2004}}.</ref> the nature of this new form of energy remains unclear.<ref>Here, too, scientists have argued that the evidence indicates not a new form of energy, but the need for modifications in our cosmological models, cf. {{Harvnb|Mannheim|2006|loc=sec. 10}}; aforementioned modifications need not be modifications of general relativity, they could, for example, be modifications in the way we treat the inhomogeneities in the universe, cf. {{Harvnb|Buchert|2007}}.</ref>
+
+A number of further problems of the classical cosmological models (such as "why is the cosmic background radiation so highly homogeneous")<ref>More precisely, these are the [[flatness problem]], the [[horizon problem]], and the [[monopole problem]]; a pedagogical introduction can be found in {{Harvnb|Narlikar|1993|loc=sec. 6.4}}, see also {{Harvnb|Börner|1993|loc=sec. 9.1}}.</ref> have led to the introduction of an additional phase of strongly accelerated expansion at cosmic times of around <math>10^{-}</math> seconds, known as an [[cosmic inflation|inflationary phase]].<ref>A good introduction is {{Harvnb|Linde|1990}}; for a more recent review, see {{Harvnb|Linde|2005}}.</ref> While recent measurements of the cosmic background radiation have resulted in first evidence for this scenario,<ref>See {{Harvnb|Spergel|Bean|Doré|Nolta|2007|loc=sec. 5 & 6}}.</ref> problems remain. There is a bewildering variety of possible inflationary scenarios not restricted by current observations.<ref>More concretely, the [[potential]] function that is crucial to determining the dynamics of the [[inflaton]] is simply postulated, but not derived from an underlying physical theory.</ref> Also, the question remains what happened in the earliest universe, close to where the classical models predict the big bang [[singularity]]; an authoritative answer would require a complete theory of [[quantum gravity]], which does not exist at the moment<ref>See {{Harvnb|Brandenberger|2007|loc=sec. 2}}.</ref> (cf. the section [[#|Quantum gravity]], below).
+
+==Advanced concepts==
+===Causal structure and global geometry===
+{{main|Causal structure}}
+[[Image:Penrose.svg|right|thumb|300px|Penrose diagram of an infinite [[Minkowski]] universe]]
+In general relativity, no material body can catch up with or over take a light pulse; no influence from an event A can reach any other location before light sent out at A does so. Hence, an exploration of all light worldlines ([[Geodesic (general relativity)|null geodesic]]s) yields key information about the spacetime's causal structure. This structure can be displayed using [[Penrose diagram|Penrose-Carter diagrams]] in which infinitely large regions of space and infinite time intervals are shrunk ("[[Compactification (mathematics)|compactified]]") so as to fit onto a finite map, while light still travels along diagonals as in standard [[spacetime diagram]]s.<ref>See {{Harvnb|Fraundiener|2004}}, {{Harvnb|Wald|1984|loc=section 11.1}}, and {{Harvnb|Hawking|Ellis|1973|loc=section 6.8 & 6.9}}</ref>
+
+Aware of the importance of causal structure, [[Roger Penrose]] and others developed important techniques that are now termed [[global geometry]].  In global geometry, the object of study is not one particular [[Solutions of the Einstein field equations|solution]] (or family of solutions) to Einstein's equations. Rather, relations that hold true for all geodesics, such as the [[Raychaudhuri equation]], are utilized in conjunction with non-specific assumptions about the nature of [[matter]] (usually in the form of so-called [[energy conditions]]) to derive general results.<ref>E.g. {{Harvnb|Wald|1984|loc=sec. 9.2–9.4}} and {{Harvnb|Hawking|Ellis|1973|loc=ch. 6.}}</ref>
+
+===Cosmic partitions: horizons===
+{{main|Horizon (general relativity)|No hair theorem|Black hole mechanics}}
+One of the most striking conclusions that can be drawn from studies of global geometry is the existence of boundaries called [[event horizon|horizons]], which demarcate one [[spacetime]] region from the rest of the spacetime. The best-known examples are [[black holes]]: if mass is compressed into a sufficiently compact region of space, one can define a surface that separates the inside from the outside world. No light from the inside can escape to the outside, and since, in general relativity, no object can overtake a light pulse, all inside matter is imprisoned as well. However, matter and radiation may cross the horizon into the black hole - this illustrates the idea that horizons are not physical barriers that act as 'blockers'. The resulting object is known as a <em>black hole</em>, and the surface in question as the black hole's horizon.<ref>For an account of the evolution of this concept, see {{Harvnb|Israel|1987}}. A more exact mathematical description distinguishes several kinds of horizon, notably [[event horizon]]s and [[apparent horizon]]s cf. {{Harvnb|Hawking|Ellis|1973|loc=pp. 312–320}} or {{Harvnb|Wald|1984|loc=sec. 12.2}}; there are also more intuitive definitions for isolated systems that do not require knowledge of spacetime properties at infinity, cf. {{Harvnb|Ashtekar|Krishnan|2004}}.</ref> The [[hoop conjecture]] states when a black hole is expected to form: every mass <math>M</math> determines a length known as the [[Schwarzschild radius]],
+
+<math>r_s=\frac{2GM}{c^2},</math>
+
+where <math>G</math> is the [[gravitational constant]] and <math>c</math> the [[speed of light]].  Imagine a circular hoop with the circumference <math>2\pi r_s</math>. A mass <math>M</math> small enough to fit through that hoop, regardless of their relative orientation, is compact enough to form a black hole.<ref>See {{Harvnb|Thorne|1972}}; for an account of more recent numerical studies, see {{Harvnb|Berger|2002|loc=sec. 2.1}}.</ref>
+
+Initial black hole studies relied on simplified models obtained from [[exact solution|explicit solutions]] of [[Einstein field equations|Einstein's equation]], especially the spherically-symmetric [[Schwarzschild solution]] (used to describe a [[Static spacetime|static]] black hole) and the axisymmetric [[Kerr solution]] (used to describe a rotating, [[Stationary spacetime|stationary]] black hole). Subsequent studies using global geometry have revealed more general properties of black holes. In the long run, they are rather simple objects characterized by eleven parameters specifying [[energy]], [[linear momentum]], [[angular momentum]], location at a specified time and [[electric charge]]. This is the result of what are called the [[no hair theorem|black hole uniqueness theorems]]: "black holes have no hair", that is, no distinguishing marks like hairstyles of humans. Irrespective of the complexity of a gravitating object collapsing to form a black hole, the object that results (having emitted [[gravitational waves]]) is very simple.<ref>For first steps, cf. {{Harvnb|Israel|1971}}; see {{Harvnb|Hawking|Ellis|1973|loc=sec. 9.3}} or {{Harvnb|Heusler|1996|loc=ch. 9 and 10}} for a derivation, and {{Harvnb|Heusler|1998}} as well as {{Harvnb|Beig|Chrusciel|2006}} as overviews of more recent results.</ref>
+
+Even more remarkably, there is a general set of laws known as [[black hole mechanics]],  analogous to the [[laws of thermodynamics]]. For example, by the second law of black hole mechanics, the area of the event horizon of a general black hole will never decrease with time, just as the [[entropy]] of a thermodynamic system. This law sets a limit to the energy that can be extracted from a rotating black hole (e.g. by the [[Penrose process]]).<ref>The laws of black hole mechanics were first described in {{Harvnb|Bardeen|Carter|Hawking|1973}}; a more pedagogical presentation can be found in {{Harvnb|Carter|1979}}; for a more recent review, see chapter 2 of {{Harvnb|Wald|2001}}. A thorough, book-length introduction including an introduction to the necessary mathematics {{Harvnb|Poisson|2004}}. For the Penrose process, see {{Harvnb|Penrose|1969}}.</ref> In fact, there is strong evidence that the laws of black hole mechanics are indeed a special case of the laws of thermodynamics, and that the black hole area does indeed denote its entropy:<ref>See {{Harvnb|Bekenstein|1973}}, {{Harvnb|Bekenstein|1974}}.</ref> semi-classical calculations indicate that black holes do emit [[thermal radiation]], with the surface gravity playing the role of temperature in [[Planck's law]].  This radiation is known as [[Hawking radiation]], and we will come back to it in the section on general relativity and quantum theory, below.<ref>The fact that black holes radiate, quantum mechanically, was first derived in {{Harvnb|Hawking|1975}}; a more thorough derivation can be found in {{Harvnb|Wald|1975}}. A review is given in chapter 3 of {{Harvnb|Wald|2001}}.</ref>
+
+Horizons also play a role for other kinds of solutions. In an expanding universe, some regions of the past can be unobservable ("[[particle horizon]]"), and some regions of the future cannot be influenced (event horizon); in both cases, the location of the horizon in spacetime depends on the event in question.<ref>Cf. {{Harvnb|Narlikar|1993|loc=sec. 4.4.4 and 4.4.5}}.</ref>  Even in flat Minkowski space, when described by an accelerated observer ([[Rindler space]]), there will be horizons<ref>Cf. {{Harvnb|Rindler|2001|loc=sec. 12.4}}</ref> (associated with a semi-classical radiation known as [[Unruh effect|Unruh radiation]]).<ref>{{Harvnb|Unruh|1976}}, cf. {{Harvnb|Wald|2001|loc=chapter 3}}.</ref>
+
+===Singularities===
+{{main|Spacetime singularity}}
+Another general – and quite disturbing – feature of general relativity is the appearance of spacetime boundaries known as singularities.  Ordinary spacetime can be explored by following up on all possible ways that light and particles in free fall can travel (that is, all timelike and lightlike geodesics). But there are spacetimes which fulfill all the requirements of Einstein's theory, yet have "ragged edges" – regions where the paths of light and falling particles come to an abrupt end and geometry becomes ill-defined. By definition, these are [[spacetime singularity|spacetime singularities]]. In more interesting cases, the geometrical quantities characterizing spacetime curvature (e.g. the [[Ricci scalar]]) take on infinite values at such "curvature singularities".<ref>See {{Harvnb|Hawking|Ellis|1973|loc=csection 8.1}}, {{Harvnb|Wald|1984|loc=section 9.1}}.</ref>  Well-known examples of spacetimes with future singularities – where [[worldline]]s end – are the [[Schwarzschild solution]], which describes a singularity inside an eternal static black hole,<ref>See {{Harvnb|Townsend|1997|loc=chapter 2}}; a more extensive treatment of this solution can be found in {{Harvnb|Chandrasekhar|1983|loc=chapter 3}}.</ref> or the [[Kerr solution]] with its ring-shaped singularity inside an eternal rotating black hole.<ref>See {{Harvnb|Townsend|1997|loc=chapter 4}}; for a more extensive treatment, cf. {{Harvnb|Chandrasekhar|1983|loc=chapter 6}}.</ref> The [[Friedmann-Lemaître-Robertson-Walker metric|Friedmann-Lemaître-Robertson-Walker solution]]s, and other spacetimes describing universes, have past singularities on which worldlines begin, namely [[big bang]] singularities.<ref>See {{Harvnb|Ellis|van Elst|1999}}; a closer look at the singularity itself is taken in {{Harvnb|Börner|1993|loc=sec. 1.2}}</ref>
+
+Given just these examples, which are all highly symmetric and thus simplified, one might think the occurrence of singularities to be an idealization.  The famous [[singularity theorems]] proved using the methods of global geometry suggest otherwise: singularities are a generic feature of general relativity, and unavoidable once the collapse of an object with realistic matter properties has proceeded beyond a certain stage<ref>Namely when there are [[trapped null surface]]s, cf. {{Harvnb|Penrose|1965}}.</ref> and also at the beginning of a wide class of expanding universes.<ref>See {{Harvnb|Hawking|1966}}.</ref>  However, these theorems say very little about the properties of singularities, and much of current research is devoted to characterizing these entities' generic structure (hypothesized e.g. by the so-called [[BKL conjecture]]).<ref>The conjecture was made in {{Harvnb|Belinskii|Khalatnikov|Lifschitz|1971}}; for a more recent review, see {{Harvnb|Berger|2002}}. An accessible exposition is given by {{Harvnb|Garfinkle|2007}}.</ref> As problematic as singularities are, there are indications that all realistic future singularities (where no symmetry is perfect, and matter has realistic properties) are safely hidden away behind a horizon, and thus invisible for all distant observers.  This is postulated by the [[cosmic censorship hypothesis]] ([[Roger Penrose|Penrose]] 1969); while no formal proof of this conjecture exists, numerical simulations offer supporting evidence of it's validity.<ref>The restriction to future singularities naturally excludes initial singularities such as the big bang singularity, which in principle be visible to observers at later cosmic time. The cosmic censorship conjecture was first presented in {{Harvnb|Penrose|1969}}; a text-book level account is given in {{Harvnb|Wald|1984|loc=pp. 302-305}}. For numerical results, see the review {{Harvnb|Berger|2002|loc=sec. 2.1}}.</ref>
+
+===Evolution equations===
+{{main|Initial value formulation (general relativity)}}
+
+Each [[Solutions of the Einstein field equations|solution of Einstein's equation]] encompasses the whole history of a universe – it is not just some snapshot of how things are, but a whole [[spacetime]]: a statement encompassing the state of matter and geometry everywhere and at every moment in that particular universe.  By this token, Einstein's theory appears to be different from most other physical theories, which specify [[evolution equation]]s for physical systems; if the system is in a given state at some given moment, the laws of physics allow you to extrapolate its past or future.  For [[Einstein field equations|Einstein's equations]], there appear to be subtle differences compared with other [[Field (physics)|fields]], for example, they are self-interacting (that is, [[non-linear]] even in the absence of other fields, and they have no fixed background structure – the stage itself evolves as the cosmic drama is played out).<ref>Cf. {{Harvnb|Hawking|Ellis|1973|loc=sec. 7.1}}.</ref> 
+
+Nevertheless, in order to understand Einstein's equations as [[partial differential equation]]s, it is crucial to re-formulate them in a way that describes the evolution of the universe over time. This is achieved by so-called "3+1" formulations, where spacetime is split into three space dimensions and one time dimension, such as the [[ADM formalism]].<ref>{{Harvnb|Arnowitt|Deser|Misner|1962}};  for a pedagogical introduction, see {{Harvnb|Misner|Thorne|Wheeler|1973|loc=§21.4–§21.7}}.</ref> These decompositions show that the spacetime evolution equations of general relativity are indeed well-behaved, meaning that solutions always [[existence theorem|exist]] and are [[uniqueness theorem|uniquely]] defined (once suitable initial conditions are specified).<ref>{{Harvnb|Fourès-Bruhat|1952}} and {{Harvnb|Bruhat|1962}}; for a pedagogical introduction, see {{Harvnb|Wald|1984|loc=ch. 10}}; an online review can be found in {{Harvnb|Reula|1998}}.</ref>  Formulations like this are also the basis of [[numerical relativity]]: attempts to simulate the evolution of relativistic spacetimes (notably merging black holes or gravitational collapse) using computers.<ref>See {{Harvnb|Gourgoulhon|2007}}; for a review of the basics of numerical relativity, including the problems arising from the peculiarities of Einstein's equations, see {{Harvnb|Lehner|2001}}.</ref>
+
+===Global and quasi-local quantities===
+{{main|Mass in general relativity}}
+The notion of evolution equations is intimately tied in with another aspect of general relativistic physics.  In Einstein's theory, it turns out to be impossible to find a general definition for a seemingly  simple property such as a system's total [[mass]] (or [[energy]]).  The main reason for this is that the gravitational field - like any physical field - must be ascribed a certain energy. However, it is fundamentally impossible to localize that energy.<ref>Cf. {{Harvnb|Misner|Thorne|Wheeler|1973|loc=§20.4}}.</ref> 
+
+Nevertheless, there are possibilities to define a system's total mass, either using a hypothetical "infinitely distant observer" ([[ADM mass]])<ref>{{Harvnb|Arnowitt|Deser|Misner|1962}}.</ref> or suitable symmetries ([[Komar mass]])<ref>Cf. {{Harvnb|Komar|1959}}; for a pedagogical introduction, see {{Harvnb|Wald|1984|loc=sec. 11.2}}; although defined in a totally different way, it can be shown to be equivalent to the ADM mass for stationary spacetimes, cf.  {{Harvnb|Ashtekar|Magnon-Ashtekar|1979}}.</ref>  If one excludes from the system's total mass the energy being carried away to infinity by gravitational waves, the result is the so-called [[Mass in general relativity#ADM and Bondi masses in asymptotically flat space-times|Bondi mass]] at null infinity.<ref>For a pedagogical introduction, see {{Harvnb|Wald|1984|loc=sec. 11.2}}.</ref> Just as in [[Physics in the Classical Limit|classical physics]], it can be shown that these masses are positive.<ref>See the various references given on p. 295 of {{Harvnb|Wald|1984}}; this is important for questions of stability – if there were negative mass states, then flat, empty [[Minkowski space]], which has mass zero, could evolve into these states.</ref>  Analogous global definitions exist for [[momentum]] and [[angular momentum]].<ref>E.g. {{Harvnb|Townsend|1997|loc=ch. 5}}.</ref> In addition, there have been a number of attempts to define ''quasi-local'' quantities, such as the mass of an isolated system formulated using only quantities defined within a finite region of space containing that system; the hope is to obtain a quantity useful for general statements about [[isolated system]]s, such as a more precise formulation of the [[hoop conjecture]].<ref>Such quasi-local mass-energy definitions are the [[Hawking energy]], [[Geroch energy]], or [[Roger Penrose|Penrose's]] quasi-local energy-momentum based on [[twistor]] methods; cf. the review article {{Harvnb|Szabados|2004}}.</ref>
+
+==Alternative theories==
+{{Main|Alternatives to general relativity}}
+There are a number of theories that attempt to describe gravitation, some being formulated before the advent of relativity whereas others are based on general relativity. Such formulations not incorporating quantum mechanical notions are called [[classical theories of gravitation]], and include ''metric theories of gravitation''. 
+
+For example, [[Newton's law of universal gravitation]] was the first [[field theory]] of gravitation, whilst the [[Brans-Dicke theory]] only differs from general relativity with the addition of a scalar field. There are also classical theories which attempt to formulate consistent schemes combining gravitation and electromagnetism, the most well-known being [[Kaluza-Klein theory]]. 
+
+Classical theories of gravitation are superseded by more ambitious schemes that incorporate [[Quantum mechanics|quantum mechanical]] ideas into general relativity in order to unite gravitation with some or all of the other [[Fundamental interaction|fundamental forces]]. Such theories include [[supergravity]] and [[string theory]].
+
+Even for "weak field" observations confined to our Solar system, various alternative theories of gravity predict quantitatively distinct deviations from Newtonian gravity. In the weak-field, slow-motion limit, it is possible to define 10 experimentally measurable parameters which completely characterize predictions of any such theory. This system of these parameters, which can be roughly thought of as describing a kind of ten dimensional "superspace" made from a certain class of classical gravitation theories, is known as [[PPN formalism]] (Parametrized Post-Newtonian formalism). [http://relativity.livingreviews.org/open?pubNo=lrr-2001-4&page=node8.html] Current bounds on the PPN parameters [http://wugrav.wustl.edu/people/CMW/expgravpage/ppnbounds.html] are compatible with GR.
+
+See in particular [http://www.arxiv.org/abs/gr-qc/0103036 The confrontation between Theory and Experiment in Gravitational Physics], a review paper by Clifford Will.
+
+==Relationship with quantum mechanics==
+[[Quantum mechanics]] is viewed as a fundamental theory of physics along with general relativity, but combining the two theories has presented many difficulties.
+
+===Quantum field theory in curved spacetime===
+:{{main|Quantum field theory in curved spacetime}}
+Normally, [[quantum field theory]] models are considered in flat [[Minkowski space]] (or [[Euclidean space]]), which is an excellent approximation for weak gravitational fields like those on Earth. In the presence of strong gravitational fields, the principles of quantum field theory have to be modified. The [[spacetime]] is static so the theory is not fully relativistic in the sense of general relativity; it is neither [[background independent]] nor [[general covariance|generally covariant]] under the [[diffeomorphism group]]. The interpretation of excitations of quantum fields as particles becomes frame dependent. [[Hawking radiation]] is a prediction of this semiclassical approximation.
+
+===Einstein gravity is nonrenormalizable===
+{{unsolved|physics|How can the theory of [[quantum mechanics]] be merged with the theory of general relativity to produce a so-called "[[theory of everything]]"?}}
+
+General relativity is presently known to be incompatible with [[quantum mechanics]],{{Facts|date=November 2007}} meaning that if the [[gravitational field]] is analysed using the ordinary rules of [[quantum field theory]], physical quantities are found to be divergent. Such [[Ultraviolet divergence|divergences]] are common in quantum field theories, and can be cured by adding parameters to the theory known as [[counterterms]]. These counterterms are 'infinities' which are equal in magnitude and opposite in sign to the divergent terms. When they are added, the infinities cancel, leaving only finite terms, but modifying the meaning of terms in the equation such as "mass" and "charge" {{Facts|date=February 2007}}.
+
+Many of the best understood [[quantum]] field theories, such as [[quantum electrodynamics]], contain divergences which are canceled by counterterms that have been effectively measured. One needs to say ''effectively'' because the counterterms are formally infinite, however it suffices to measure observable quantities, such as physical particle masses and coupling constants, which depend on the counterterms in such a way that the various infinities cancel.
+
+A problem arises, however, when the cancellation of all infinities requires the inclusion of an infinite number of counterterms. In this case the theory is said to be [[nonrenormalizable]]. While nonrenormalizable theories are sometimes seen as problematic, the framework of [[effective field theory|effective field theories]] presents a way to get low-energy predictions out of nonrenormalizable theories. The result is a theory that works correctly at low energies, though such a theory cannot be considered a [[theory of everything]] as it cannot be self-consistently extended to the high-energy realm.
+
+===Proposed quantum gravity theories===
+General relativity fits nicely into the effective field theory formalism and makes sensible predictions at low energies.<ref>{{cite web | author = Donoghue, John F.| title=Introduction to the Effective Field Theory Description of Gravity |date=1995 | url=http://arxiv.org/abs/gr-qc/9512024 | accessdate=2006-08-26}} Lectures presented at the Advanced School on Effective Field Theories (Almunecar, Spain, June 1995), to be published in the proceedings.</ref> However, high enough energies will "break" the theory.
+
+It is generally held that one of the most important unsolved problems in modern physics is the problem of obtaining the [[theory of everything|true quantum theory of gravitation]], that is, the theory chosen by nature, one that will work at all energies. Discarded attempts at obtaining such theories include [[supergravity]], a [[field theory]] which unifies general relativity with [[supersymmetry]]. In the [[second superstring revolution]], supergravity has come back into fashion, with its as yet undefined quantum completion rebranded with a new name: [[M-theory]].
+
+A very different approach to that described above is employed by [[loop quantum gravity]]. In this approach, one does not try to quantize the gravitational field as one quantizes other fields in quantum field theories. Thus the theory is not plagued with divergences and one does not need counterterms. However it has not been demonstrated that the classical limit of loop quantum gravity does in fact contain flat space Einsteinian gravity. This being said, the universe has only one spacetime and it is not flat at all scales.
+
+Of these two proposals, the M-theory approach is significantly more ambitious in that it also attempts to incorporate the other known [[fundamental force]]s of Nature, whereas loop quantum gravity "merely" attempts to provide a viable quantum theory of gravitation with a well-defined [[classical limit]] which agrees with general relativity.
+
+==History==
+[[Image:1919 eclipse negative.jpg|250px|thumb|right|One of Eddington's photographs of the 1919 eclipse, presented in his 1920 paper announcing its success.]]
+{{main|History of general relativity|Golden age of general relativity|Classical theories of gravitation}}
+Soon after publishing his theory of [[special relativity]] in 1905, Einstein  began to think about how to incorporate [[gravity]] into his new relativistic framework. His considerations led him from a simple thought experiment involving an observer in free fall to the [[equivalence principle]] and thence to a fully geometric theory of gravity:<ref>This development is traced in 
+in chapters 9 through 15 of {{Harvnb|Pais|1982}} and in {{Harvnb|Janssen|2005}}; an accessible overview can be found in {{Harvnb|Renn|2005|loc=p. 110ff.}}.</ref> from explorations of some consequences of the equivalence principle such as the influence of gravity and acceleration on the propagation of light published in 1907<ref>{{Harvnb|Einstein|1907}}, cf. {{Harvnb|Pais|1982|loc=ch. 9}}.</ref> to the main work in the years 1911 to 1915 with the realization of the role of differential geometry (with help from [[Marcel Grossmann]] on the intricacies of that field of mathematics) and a long search, including detours and false starts, for the field equations relating geometry and the mass-energy content of spacetime. In December of 1915, these efforts culminated in Einstein's presentation to the [[Prussian Academy of Science]] of the [[Einstein field equations]].<ref>Published in the Academy's proceedings as {{Harvnb|Einstein|1915}}; cf. {{Harvnb|Pais|1982|loc=ch. 11–15}}.</ref>
+
+Already in 1916, [[Karl Schwarzschild|Schwarzschild]] found the eponymous solution to the Einstein field equations, laying the groundwork for the description of gravitational collapse and, eventually, black holes. The same year saw the first steps of generalization to electrically charged objects that would result in the  [[Reissner-Nordström]] solution.<ref>See {{Harvnb|Schwarzschild|1916a}}, {{Harvnb|Schwarzschild|1916b}} and {{Harvnb|Reissner|1916}} (later complemented in {{Harvnb|Nordström|1918}}).</ref> In 1917, Einstein initiated the field of relativistic cosmology. However, in line with contemporary thinking, he tried to describe a static universe, adding the [[cosmological constant]] to his original field equations for that purpose.<ref>{{Harvnb|Einstein|1917}}, cf. {{Harvnb|Pais|1982|loc=ch. 15e}}.</ref>  
+When it became clear in 1929 with the work of [[Edwin Hubble|Hubble]] and others that our universe is indeed expanding (and thus better described by expanding cosmological solutions found by [[Alexander Friedmann|Friedmann]] in 1922), [[Georges Lemaître|Lemaître]] formulated the earliest version of the [[big bang]] models.<ref>Hubble's original article is {{Harvnb|Hubble|1929}}; a readable overview is given in {{Harvnb|Singh|2004|loc=ch. 2-4}}.</ref>  
+
+During all that time, general relativity remained something of a curiosity among physical theories. There was evidence that it was indeed to be preferred to Newton's description: Einstein himself had shown in 1915 how it explained the [[Tests of general relativity#Perihelion precession of Mercury|anomalous perihelion advance]] of the planet [[Mercury (planet)|Mercury]],<ref>Cf. {{Harvnb|Pais|1982|loc=p. 253-254}}.</ref> and a 1919 expedition led by [[Arthur Eddington|Eddington]] had announced confirmation of general relativity's prediction for the deflection of the light of distant stars by the Sun<ref>Cf. {{Harvnb|Kennefick|2005}}.</ref> (instantly catapulting Einstein to world fame<ref>Cf. {{Harvnb|Pais|1982|loc=ch. 16}}.</ref>).  Yet it was only with the developments between approximately 1960 and 1975, now known as the [[Golden age of general relativity]], that the theory entered the mainstream of [[theoretical physics]] and [[astrophysics]], as both the theoretical basis of [[black hole]]s as well as their astrophysical applications ([[quasars]]) became clear<ref>Cf. {{Harvnb|Israel|1987|loc=ch. 7.8-7.10}} and {{Harvnb|Thorne|1993|loc=ch. 3-9}}.</ref>, ever more precise solar system tests confirmed the theory's predictive power,<ref>Cf. the sections [[General relativity#Orbital effects and the relativity of direction|Orbital effects and the relativity of direction]], [[General relativity#Gravitational time dilation and frequency shift|Gravitational time dilation and frequency shift]] and [[General relativity#Light deflection and gravitational time delay|Light deflection and gravitational time delay]], and references therein.</ref> and relativistic cosmology, too, became amenable to direct observational tests.<ref>Cf. the section [[General relativity#Cosmology|Cosmology]] and references therein; the historical development is traced in {{Harvnb|Overbye|1999}}.</ref>
+
+==Status==
+{{weasel}}
+{{main|Tests of general relativity}}
+General relativity is a highly successful model of gravitation and cosmology. It has passed every unambiguous test to which it has been subjected so far, both observationally and experimentally. It is almost universally accepted by the [[scientific community]].{{weasel-inline}}
+
+However, general relativity is inconsistent with [[quantum mechanics]].  Furthermore, the nature of the [[Gravitational singularity]] remains an important open question in general relativity.
+
+Currently, better tests of general relativity are needed. Even the most recent [[binary pulsar]] discoveries only test general relativity to the first order of deviation from Newtonian projections in the [[Parameterized post-Newtonian formalism|post-Newtonian parameterizations]]{{Fact|date=June 2007}}. Some way of testing second and higher order terms is needed, and may shed light on how reality differs from general relativity (if it does).
+
+Any [[Lorentzian manifold]] is a solution of the [[Einstein field equation]] for ''some'' conceivable [[stress-energy tensor]]. Thus one must add auxiliary assumptions about the kinds of energy, momentum, and stress in the universe to make any inferences from GTR, e.g. about cosmology.
+
+==See also==
+{{wiktionary|general relativity}}
+{{wikibooks}}
+{{Wikisourcepar|Relativity: The Special and General Theory}}
+
+*[[Classical theories of gravitation]]
+*[[Contributors to general relativity]]
+*[[David Hilbert]]
+*[[Einstein-Hilbert action]]
+*[[General relativity resources]], an annotated reading list giving bibliographic information on some of the most cited resources.
+*[[Golden age of general relativity]]
+*[[History of general relativity]]
+*[[Introduction to mathematics of general relativity]]
+*[[Mathematics of general relativity]]
+
+<div class="noprint" style="clear: right"></div>
+
+==Notes==
+
+{{reflist|2}}
+
+==References==
+<!-- NOTE: THIS SECTION IS RESERVED FOR TEXTS CONSULTED IN THE CONSTRUCTION AND REVISION OF THIS ARTICLE. ALL OTHER TEXTS/WEB SITES/RESOURCES SHOULD BE LISTED IN [[general relativity resources]] -->
+<!-- A number of Citation templates have been expanded since there were limit problems, cf. [[Wikipedia:Template_limits]] -->
+<div class="references-small">
+;Books
+*<cite 
+id="CITEREFAlpherHerman1948">Alpher, R. A.&#32;&amp;&#32;R. C. Herman&#32;(1948),&#32;"Evolution of the universe",&#32;''Nature''&#32;'''162'''<nowiki>: </nowiki> 774-775</cite>
+*<cite 
+id="CITEREFArnowittDeserMisner1962">Arnowitt, Richard<nowiki>; </nowiki>Stanley Deser&#32;&amp; Charles W. Misner&#32;(1962),&#32;"The dynamics of general relativity", in&#32;Witten, L.,&#32;''Gravitation: An Introduction to Current Research'', Wiley, pp. 227-265</cite>
+*<cite 
+id="CITEREFBeigChruściel2006">Beig, Robert&#32;&amp;&#32;Piotr T. Chruściel&#32;(2006),&#32;"Stationary black holes", in&#32;Francoise, J.-P.<nowiki>; </nowiki>G. Naber&#32;&amp; T.S. Tsou,&#32;''Encyclopedia of Mathematical Physics, Volume 2'', Elsevier, [[arXiv]]:[http://arxiv.org/abs/gr-qc/0502041  gr-qc/0502041], ISBN 0-12-512660-3</cite>
+*<cite 
+id="CITEREFBergströmGoobar2003">Bergström, Lars&#32;&amp;&#32;Ariel Goobar&#32;(2003),&#32;''Cosmology and Particle Astrophysics''&#32;(2nd ed.), Wiley & Sons, ISBN 3-540-43128-4</cite>
+*<cite 
+id="CITEREFBlandford1987">Blandford, R. D.&#32;(1987),&#32;"Astrophysical Black Holes", in&#32;Hawking, Stephen W.&#32;&amp;&#32;Werner Israel,&#32;''300 Years of Gravitation'', Cambridge University Press, pp. 277–329</cite>
+*<cite 
+id="CITEREFBörner1993">Börner, Gerhard&#32;(1993),&#32;''The Early Universe. Facts and Fiction'', Springer, ISBN 0-387-56729-1</cite>
+*<cite 
+id="CITEREFBruhat1962">Bruhat, Yvonne&#32;(1962),&#32;"The Cauchy Problem", in&#32;Witten, Louis,&#32;''Gravitation: An Introduction to Current Research'', Wiley, pp. 130</cite>
+*<cite 
+id="CITEREFCarrollOstlie1996">Carroll, Bradley W.&#32;&amp;&#32;Dale A. Ostlie&#32;(1996),&#32;''An Introduction to Modern Astrophysics'', Addison-Wesley, ISBN 0-201-54730-9</cite>
+*<cite 
+id="CITEREFCarter1979">Carter, Brandon&#32;(1979),&#32;"The general theory of the mechanical, electromagnetic and thermodynamic properties of black holes", in&#32;Hawking, S. W.&#32;&amp;&#32;W. Israel,&#32;''General Relativity, an Einstein Centenary Survey'', Cambridge University Press, pp. 294–369 and 860–863, ISBN 0-521-29928-4</cite>
+*<cite 
+id="CITEREFChandrasekhar1983">[[Subrahmanyan Chandrasekhar|Chandrasekhar, Subrahmanyan]]&#32;(1983),&#32;''The Mathematical Theory of Black Holes'', Oxford University Press, ISBN 0-19-850370-9</cite>
+*{{Citation
+ | last= Dirac
+ | first=Paul
+ | author-link=Paul Dirac
+ | title=General Theory of Relativity 
+ | publisher=Princeton University Press
+ | year=1996 
+ | isbn=0-691-01146-X
+ }}
+*{{Citation
+ | last=Ehlers
+ | first = Jürgen
+ | contribution=Survey of general relativity theory
+ | editor-last=Israel
+ | editor-first=Werner
+ | title=Relativity, Astrophysics and Cosmology
+ | year=1973
+ | publisher=D. Reidel
+ | pages=1–125
+ }}
+* {{Citation
+ | last1=Ehlers
+ | first1=Jürgen
+ | last2=Falco
+ | first2=Emilio E.
+ | last3=Schneider
+ | first3=Peter
+ | title=Gravitational lenses
+ | publisher=Springer
+ | year=1992
+ | isbn=3-540-66506-4 
+   }}
+* {{Citation
+ | last1=Grøn
+ | first1=Øyvind
+ | last2=Hervik
+ | first2=Sigbjørn
+ | title=Einstein's General Theory of Relativity with Modern Applications in   Cosmology
+ | publisher=Springer
+ | year=2007
+ | isbn=978-0-387-69199-2 
+   }}
+
+*{{Citation
+ | last1=Hawking
+ | first1=Stephen W.
+ | last2=Ellis
+ | first2=George F. R. 
+ | title=The large scale structure of space-time
+ | publisher=Cambridge University Press
+ | isbn=0-521-09906-4
+ | year=1973
+ }}
+*{{Citation
+ | last=Heusler
+ | first=Markus
+ |  title=Black Hole Uniqueness Theorems
+ | publisher=Cambridge University Press
+ | year=1996
+ | isbn=0-521-56735-1
+ }}
+*{{Citation
+ | last=Israel
+ | first=Werner
+ | contribution=Dark stars: the evolution of an idea
+ | editor2-last=Israel
+ | editor2-first=Werner
+ | editor1-last=Hawking
+ | editor1-first=Stephen W.
+ | title=300 Years of Gravitation
+ | publisher=Cambridge University Press
+ | year=1987
+ | pages=199–276
+ }}
+*<cite 
+id="CITEREFKraus1998">Kraus, Ute&#32;(1998),&#32;"Light Deflection Near Neutron Stars",&#32;''Relativistic Astrophysics'', Vieweg, ISBN 352-806909-0, at 66–81</cite>
+* <cite 
+id="CITEREFMisnerThorneWheeler1973">Misner, Charles W.<nowiki>; </nowiki>Kip. S. Thorne&#32;&amp; John A. Wheeler&#32;(1973),&#32;''Gravitation'', W. H. Freeman, ISBN 0-7167-0344-0</cite>
+*<cite 
+id="CITEREFNarlikar1993">Narlikar, Jayant V.&#32;(1993),&#32;''Introduction to Cosmology'', Cambridge University Press, ISBN 0-521-41250-1</cite>
+*<cite 
+id="CITEREFOhanianRuffini1994">Ohanian, Hans C.&#32;&amp;&#32;Remo Ruffini&#32;(1994),&#32;''Gravitation and Spacetime'', W. W. Norton & Company, ISBN 0-393-96501-5</cite>
+*{{Citation
+ | last=Overbye
+ | first=Dennis 
+ | title=Lonely Hearts of the Cosmos: the story of the scientific quest for the secret of the Universe
+ | publisher=Back Bay
+ | year=1999
+ | isbn=0316648965
+ }}
+* <cite 
+id="CITEREFPais1982">[[Abraham Pais|Pais, Abraham]]&#32;(1982),&#32;'''Subtle is the Lord...' The Science and life of Albert Einstein'', Oxford University Press, ISBN 0-19-853907-X</cite>
+*{{Citation
+ | last=Peacock
+ | first=John A.
+ | year=1999
+ | title=Cosmological Physics
+ | publisher=Cambridge University Press
+ | isbn=0-521-41072-X
+ }}
+*{{Citation
+ | last=Peebles
+ | first=P. J.
+ | title=Principles of physical cosmology
+ | publisher= Princeton University Press
+ | year=1993
+ | isbn=0-691-01933-9
+ }}
+* <cite 
+id="CITEREFPenrose2004">[[Roger Penrose|Penrose, Roger]]&#32;(2004),&#32;''The Road to Reality'', A. A. Knopf, ISBN 0679454438</cite>
+* <cite 
+id="CITEREFPoisson2004">Poisson, Eric&#32;(2004),&#32;''A Relativist's Toolkit. The Mathematics of Black-Hole Mechanics'', Cambridge University Press, ISBN 0-521-83091-5</cite>
+* <cite 
+id="CITEREFRenn2005">Renn, Jürgen, ed.&#32;(2005),&#32;''Albert Einstein – Chief Engineer of the Universe: Einstein's Life and Work in Context'', Berlin<nowiki>:</nowiki> Wiley-VCH, ISBN 3-527-40571-2</cite>
+* <cite 
+id="CITEREFRindler2001">Rindler, Wolfgang&#32;(2001),&#32;''Relativity. Special, General and Cosmological'', Oxford University Press, ISBN 0-19-850836-0</cite>
+*<cite 
+id="CITEREFRobson1996">Robson, Ian&#32;(1996),&#32;''Active galactic nuclei'', John Wiley, ISBN 0471958530</cite>
+*<cite 
+id="CITEREFSchutz1985">Schutz, Bernard F.&#32;(1985),&#32;''A first course in general relativity'', Cambridge University Press, ISBN 0-521-27703-5</cite>
+*<cite 
+id="CITEREFSchutz">Schutz, Bernard F.,&#32;"Gravitational radiation", in&#32;Murdin, Paul,&#32;''Encyclopedia of Astronomy and Astrophysics'', Grove's Dictionaries, ISBN 1561592684</cite>
+*<cite 
+id="CITEREFSchutz2003">Schutz, Bernard F.&#32;(2003),&#32;''Gravity from the ground up'', Cambridge University Press, ISBN 0-521-45506-5</cite>
+*{{Citation
+ | last=Singh
+ | first=Simon
+ | title=Big Bang: The Origin of the Universe
+ | publisher=Fourth Estate
+ | year=2004
+ | isbn=0007152515
+ }}
+*<cite 
+id="CITEREFThorne1972">[[Kip Thorne|Thorne, Kip S.]]&#32;(1972),&#32;"Nonspherical Gravitational Collapse - A Short Review", in&#32;Klauder, J.,&#32;''Magic without Magic'', W. H. Freeman, at 231–258</cite>
+* {{Citation
+ | last = Thorne
+ | first=Kip
+ | authorlink=Kip Thorne
+ | year = 1994
+ | title = Black Holes and Time Warps: Einstein's Outrageous Legacy
+ | publisher = W W Norton & Company
+ | isbn = 0-393-31276-3}}
+*<cite 
+id="CITEREFWeinberg1972">[[Steven Weinberg|Weinberg, Steven]]&#32;(1972),&#32;''Gravitation and Cosmology'', John Wiley, ISBN 0-471-92567-5</cite>
+* <cite 
+id="CITEREFWheeler1990">[[John Archibald Wheeler|Wheeler, John A.]]&#32;(1990),&#32;''A Journey Into Gravity and Spacetime'', San Francisco<nowiki>:</nowiki> W. H. Freeman, ISBN 0-7167-6034-7</cite>
+* <cite 
+id="CITEREFWill1993">[[Clifford Will|Will, Clifford M.]]&#32;(1993),&#32;''Theory and experiment in gravitational physics'', Cambridge University Press, ISBN 0-521-43973-6</cite>
+
+;Journals
+*<cite 
+id="CITEREFAndersonCampbellJurgensLau1992">Anderson, J. D.<nowiki>; </nowiki>J. K. Campbell&#32;&amp; R. F. Jurgens&#32;et al.&#32;(1992),&#32;"Recent developments in solar-system tests of general relativity", in&#32;Sato, H.&#32;&amp;&#32;T. Nakamura,&#32;''Proceeding of the Sixth Marcel Großmann Meeting on General Relativity'', World Scientific, pp. 353–355</cite> 
+* <cite 
+id="CITEREFAshby2002">Ashby, Neil&#32;(2002),&#32;"[http://www.ipgp.jussieu.fr/~tarantola/Files/Professional/GPS/Neil_Ashby_Relativity_GPS.pdf Relativity and the Global Positioning System]",&#32;''Physics Today''&#32;'''55(5)'''<nowiki>: </nowiki> 41–47<span class="printonly">, &lt;http://www.ipgp.jussieu.fr/~tarantola/Files/Professional/GPS/Neil_Ashby_Relativity_GPS.pdf&gt;</span></cite>
+* <cite 
+id="CITEREFAshby2003">Ashby, Neil&#32;(2003),&#32;"[http://relativity.livingreviews.org/Articles/lrr-2003-1/index.html Relativity in the Global Positioning System]",&#32;''[http://relativity.livingreviews.org Living Reviews in Relativity]''&#32;'''6'''<span class="printonly">, &lt;http://relativity.livingreviews.org/Articles/lrr-2003-1/index.html&gt;</span>&#32;(retrieved on 2007-07-06)</cite>
+*<cite 
+id="CITEREFAshtekarKrishnan2004">Ashtekar, Abhay&#32;&amp;&#32;Badri Krishnan&#32;(2004),&#32;"[http://www.livingreviews.org/lrr-2004-10 Isolated and Dynamical Horizons and Their Applications]",&#32;''Living Rev. Relativity''&#32;'''7'''<span class="printonly">, &lt;http://www.livingreviews.org/lrr-2004-10&gt;</span>&#32;(retrieved on 2007-08-28)</cite>   
+*<cite 
+id="CITEREFAshtekarMagnon-Ashtekar1979">Ashtekar, Abhay&#32;&amp;&#32;Anne Magnon-Ashtekar&#32;(1979),&#32;"[http://dx.doi.org/10.1063%2F1.524151 On conserved quantities in general relativity]",&#32;''Journal of Mathematical Physics''&#32;'''20'''<nowiki>: </nowiki> 793–800<span class="printonly">, DOI 10.1063/1.524151</span></cite>
+*<cite 
+id="CITEREFBaniaRoodBalser2002">Bania, T. M.<nowiki>; </nowiki>R. T. Rood&#32;&amp; D. S. Balser&#32;(2002),&#32;"The cosmological density of baryons from observations of 3He+ in the Milky Way",&#32;''Nature''&#32;'''415'''<nowiki>: </nowiki> 54</cite>
+*<cite 
+id="CITEREFBarackCutler2004">Barack, Leor&#32;&amp;&#32;Curt Cutler&#32;(2004),&#32;"LISA Capture Sources: Approximate Waveforms, Signal-to-Noise Ratios, and Parameter Estimation Accuracy",&#32;''Phys. Rev.''&#32;'''D69'''<nowiki>: </nowiki> 082005, [[arXiv]]:[http://arxiv.org/abs/gr-qc/031012  gr-qc/031012]</cite>
+*<cite 
+id="CITEREFBardeenCarterHawking1973">Bardeen<nowiki>; </nowiki>[[Brandon Carter|B. Carter]]&#32;&amp; [[Stephen Hawking|S. W. Hawking]]&#32;(1973),&#32;"[http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.cmp/1103858973 The Four Laws of Black Hole Mechanics]",&#32;''Comm. Math. Phys.''&#32;'''31'''<nowiki>: </nowiki> 161–170<span class="printonly">, &lt;http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.cmp/1103858973&gt;</span></cite>
+*<cite 
+id="CITEREFBarish2005">Barish, Barry&#32;(2005),&#32;"Towards detection of gravitational waves",&#32;''General Relativity and Gravitation. Proceedings of the 17th International Conference'', World Scientific, pp. 24–34</cite>
+*<cite 
+id="CITEREFBarstowBondHolbergBurleigh2005">Barstow, M.<nowiki>; </nowiki>Howard E. Bond&#32;&amp; J.B. Holberg&#32;et al.&#32;(2005),&#32;"Hubble Space Telescope Spectroscopy of the Balmer lines in Sirius B",&#32;''Mon.Not.Roy.Astron.Soc.''&#32;'''362'''<nowiki>: </nowiki> 1134–1142, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0506600  astro-ph/0506600]</cite>
+*<cite 
+id="CITEREFBegelmanBlandfordRees1984">Begelman, Mitchell C.<nowiki>; </nowiki>Roger D. Blandford&#32;&amp; Martin J. Rees&#32;(1984),&#32;"Theory of extragalactic radio sources",&#32;''Rev. Mod. Phys.''&#32;'''56'''<nowiki>: </nowiki> 255-351</cite>
+*<cite 
+id="CITEREFBekenstein1973">[[Jacob Bekenstein|Bekenstein, Jacob D.]]&#32;(1973),&#32;"Black Holes and Entropy",&#32;''Phys. Rev.''&#32;'''D7'''<nowiki>: </nowiki> 2333–2346</cite>
+*<cite 
+id="CITEREFBekenstein1974">[[Jacob Bekenstein|Bekenstein, Jacob D.]]&#32;(1974),&#32;"Generalized Second Law of Thermodynamics in Black-Hole Physics",&#32;''Phys. Rev.''&#32;'''D9'''<nowiki>: </nowiki> 3292–3300</cite>
+*<cite 
+id="CITEREFBelinskiiKhalatnikovLifschitz1971">Belinskii, V. A.<nowiki>; </nowiki>I. M. Khalatnikov&#32;&amp; E. M. Lifschitz&#32;(1971),&#32;"Oscillatory approach to the singular point in relativistic cosmology",&#32;''Soviet Physics Uspekhi''&#32;'''13'''<nowiki>: </nowiki> 745–765</cite>
+*<cite 
+id="CITEREFBennettHalpernHinshawJarosik2003">Bennett, C. L.<nowiki>; </nowiki>M. Halpern&#32;&amp; G. Hinshaw&#32;et al.&#32;(2003),&#32;"First Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Preliminary Maps and Basic Results",&#32;''Astrophys. J. Suppl.''&#32;'''148'''<nowiki>: </nowiki> 1, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0302207  astro-ph/0302207]</cite>
+*<cite 
+id="CITEREFBerger2002">Berger, Beverly K.&#32;(2002),&#32;"[http://www.livingreviews.org/lrr-2002-1 Numerical Approaches to Spacetime Singularities]",&#32;''Living Rev. Relativity''&#32;'''5'''<span class="printonly">, &lt;http://www.livingreviews.org/lrr-2002-1&gt;</span>&#32;(retrieved on 2007-08-04)</cite>
+*<cite 
+id="CITEREFBertottiCiufoliniBender1987">Bertotti, Bruno<nowiki>; </nowiki>Ignazio Ciufolini&#32;&amp; Peter L. Bender&#32;(1987),&#32;"[http://dx.doi.org/10.1103%2FPhysRevLett.58.1062 New test of general relativity: Measurement of de Sitter geodetic precession rate for lunar perigee]",&#32;''Physical Review Letters''&#32;'''58'''<nowiki>: </nowiki> 1062-1065<span class="printonly">, DOI 10.1103/PhysRevLett.58.1062</span></cite>
+*<cite 
+id="CITEREFBertottiIessTortora2003">Bertotti, Bruno<nowiki>; </nowiki>L. Iess&#32;&amp; P. Tortora&#32;(2003),&#32;"[http://dx.doi.org/10.1038%2Fnature01997 A test of general relativity using radio links with the Cassini spacecraft]",&#32;''Nature''&#32;'''425'''<nowiki>: </nowiki> 374–376<span class="printonly">, DOI 10.1038/nature01997</span></cite>
+*<cite 
+id="CITEREFBertschinger1998">Bertschinger, Edmund&#32;(1998),&#32;"Simulations of structure formation in the universe",&#32;''Annu. Rev. Astron. Astrophys.''&#32;'''36'''<nowiki>: </nowiki> 599–654</cite>
+*<cite 
+id="CITEREFBlanchet2006">Blanchet, Luc&#32;(2006),&#32;"[http://www.livingreviews.org/lrr-2006-4 Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries]",&#32;''Living Rev. Relativity''&#32;'''9'''<span class="printonly">, &lt;http://www.livingreviews.org/lrr-2006-4&gt;</span>&#32;(retrieved on 2007-08-07)</cite>
+*<cite 
+id="CITEREFBrandenberger2007">Brandenberger, Robert H.&#32;(2007),&#32;''Conceptual Problems of Inflationary Cosmology and a New Approach to Cosmological Structure Formation'', [[arXiv]]:[http://arxiv.org/abs/hep-th/0701111  hep-th/0701111]</cite>
+*<cite 
+id="CITEREFBridleLahavOstrikerSteinhardt2003">Bridle, Sarah L.<nowiki>; </nowiki>Ofer Lahav&#32;&amp; Jeremiah P. Ostriker&#32;et al.&#32;(2003),&#32;"Precision Cosmology? Not Just Yet",&#32;''Science''&#32;'''299'''<nowiki>: </nowiki> 1532, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0303180  astro-ph/0303180]</cite>
+*<cite 
+id="CITEREFBuchert2007">Buchert, Thomas&#32;(2007),&#32;''Dark Energy from Structure - A Status Report'', [[arXiv]]:[http://arxiv.org/abs/0707.2153v1  0707.2153v1]</cite>
+*<cite 
+id="CITEREFBurasRamppJankaKifonidis2003">Buras, R.<nowiki>; </nowiki>M. Rampp&#32;&amp; H.-Th. Janka&#32;et al.&#32;(2003),&#32;"Improved Models of Stellar Core Collapse and Still no Explosions: What is Missing?",&#32;''Phys.Rev.Lett.''&#32;'''90'''<nowiki>: </nowiki> 241101, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0303171  astro-ph/0303171]</cite>
+*<cite 
+id="CITEREFCarroll2001">Carroll, Sean M.&#32;(2001),&#32;"[http://www.livingreviews.org/lrr-2001-1 The Cosmological Constant]",&#32;''Living Rev. Relativity''&#32;'''4'''<span class="printonly">, &lt;http://www.livingreviews.org/lrr-2001-1&gt;</span>&#32;(retrieved on 2007-07-21)</cite>
+*<cite 
+id="CITEREFCelottiMillerSciama1999">Celotti, Annalisa<nowiki>; </nowiki>John C. Miller&#32;&amp; Dennis W. Sciama&#32;(1999),&#32;"Astrophysical evidence for the existence of black holes",&#32;''Class.Quant.Grav.''&#32;'''16'''<nowiki>: </nowiki> A3, [[arXiv]]:[http://arxiv.org/abs/astro-ph/9912186  astro-ph/9912186]</cite>
+*{{Citation
+ | first1=C. 
+ | last1=Charbonnel 
+ | first2=F. 
+ | last2=Primas
+ |title=The Lithium Content of the Galactic Halo Stars 
+ | journal= Astronomy & Astrophysics 
+ | volume=442 
+ | year=2005
+ | pages= 961
+ | id={{arxiv|astro-ph|0505247}}
+ }}
+*{{Citation 
+ | last1=Ciufolini
+ | first1=Ignazio
+ | last2=Pavlis
+ | first2=Erricos C.
+ | title=A confirmation of the general relativistic prediction of the Lense-Thirring effect 
+ | journal=Nature
+ | volume=431
+ | pages=958–960
+ | year=2004
+  }}
+*{{Citation 
+ | last1=Ciufolini
+ | first1=Ignazio
+ | last2=Pavlis
+ | first2=Erricos C.
+ | last3=Peron
+ | first3=R.
+ | title=Determination of frame-dragging using Earth gravity models from CHAMP and GRACE
+ | journal=New Astron.
+ | volume=11
+ | pages=527–550
+ | year=2006
+ }}
+*{{Citation 
+ | first1=A.
+ | last1=Coc
+ | first2= E.
+ | last2=Vangioni-Flam 
+ | first3=P. 
+ | last3=Descouvemont 
+ | first4=A. 
+ | last4=Adahchour 
+ | first5=C.
+ | last5=Angulo 
+ | title=Updated Big Bang Nucleosynthesis confronted to WMAP observations and to the Abundance of Light Elements 
+ | journal=Astrophysical Journal
+ | volume=600 
+ | year= 2004 
+ | pages=544 
+ | id= {{arxiv|astro-ph|0309480}}
+ }}
+* {{Citation
+ | last1=Cutler
+ | first1=Curt
+ | last2=Thorne
+ | first2=Kip S.
+ | contribution=An overview of gravitational wave sources
+ | year=2002
+ | title=Proceedings of 16th International Conference on General Relativity and Gravitation (GR16)
+ | editor1-last=Bishop
+ | editor1-first=Nigel
+ | editor2-last=Maharaj
+ | editor2-first=Sunil D.
+ | publisher=World Scientific
+ | isbn=981-238-171-6
+ | year=2002
+ | id={{arxiv|gr-qc|0204090}}
+  }}
+*{{Citation
+  |first=Neal
+  |last=Dalal
+  |first2=Daniel E. 
+  |last2=Holz
+  |first3=Scott A. 
+  |last3=Hughes 
+  |first4=Bhuvnesh 
+  |last4=Jain
+  |title=Short GRB and binary black hole standard sirens as a probe of dark energy
+  |journal=Phys.Rev. 
+  |volume=D74 
+  | year=2006
+  | pages=063006
+  |id={{arxiv|astro-ph|0601275}}
+  }}
+*{{Citation
+ | first1=Karsten
+ | last1= Danzmann 
+ | first2= Albrecht
+ | last2= Rüdiger
+ | title=LISA Technology - Concepts, Status, Prospects
+ | journal= Class. Quant. Grav. 
+ | volume=20 
+ | year=2003
+ | pages=S1-S9 
+ | url=http://www.srl.caltech.edu/lisa/documents/KarstenAlbrechtOverviewCQG20-2003.pdf
+ }}
+*{{Citation
+ | last = Donoghue
+ | first= John F.
+ | title=Introduction to the Effective Field Theory Description of Gravity 
+ |date=1995 
+ | id={{arxiv|gr-qc9512024}}
+ | accessdate=2006-08-26
+ }} – Lectures presented at the Advanced School on Effective Field Theories (Almunecar, Spain, June 1995), to be published in the proceedings.
+* {{Citation
+ | last=Ehlers
+ | first = Jürgen
+ | last2= Rindler
+ | first2=Wolfgang
+ | authorlink2=Wolfgang Rindler
+ | title=Local and Global Light Bending in Einstein's and other Gravitational Theories
+ | journal=General Relativity and Gravitation
+ | volume =29
+ | year=1997
+ | pages= 519–529}}
+*{{Citation
+ |last=Einstein
+ | first=Albert
+ | authorlink=Albert Einstein
+ | year=1907
+ | title=Über das Relativitätsprinzip und die aus demselben gezogene Folgerungen
+ | journal=Jahrbuch der Radioaktivitaet und Elektronik 
+ | volume = 4 
+ | pages=411}}
+*{{Citation
+ | last=Einstein
+ | first=Albert
+ | authorlink = Albert Einstein
+ | year=1915
+ | title=Die Feldgleichungen der Gravitation
+ | journal=Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin
+ | pages=844–847 
+ |url=http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=6E3MAXK4&step=thumb  
+ | accessdate=2006-09-12
+}}
+*{{Citation
+ | last = Einstein
+ | first = Albert
+ | authorlink = Albert Einstein
+ | title = Die Grundlage der allgemeinen Relativitätstheorie
+ | journal = Annalen der Physik
+ | volume = 49 | issue = | pages = 
+ |date=1916| publisher = 
+ | url = http://www.alberteinstein.info/gallery/gtext3.html| format = [[PDF]]
+ | id =  | accessdate = 2006-09-03 
+  }} 
+* {{Citation
+ | last= Einstein
+ | first=Albert
+ | authorlink=Albert Einstein
+ | title=Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie
+ | year=1917
+ | journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften
+ | page=142
+ }}
+*{{Citation
+ | first1=George F R 
+ | last1=Ellis
+ | first2=Henk 
+ | last2=van Elst 
+ | contribution=Cosmological models (Cargèse lectures 1998)
+ | title=Theoretical and Observational Cosmology
+ | editor-first=Marc 
+ | editor-last=Lachièze-Rey
+ | publisher=Kluwer
+ | year=1999
+ | pages=1–116
+ | id={{arxiv|gr-qc|9812046}}
+  }}
+*{{Citation
+ | first1=C. W. F. 
+ | last1=Everitt
+ | first2= S. 
+ | last2= Buchman
+ | first3= D. B. 
+ | last3= DeBra
+ | first4= G. M. 
+ | last4= Keiser
+ | contribution=Gravity Probe B: Countdown to launch
+ | title=Gyros, Clocks, and Interferometers: Testing Relativistic Gravity in Space (Lecture Notes in Physics 562)
+ | editor-first1= C. 
+ | editor-last1=Lämmerzahl,
+ | editor-first2= C. W. F. 
+ | editor-last2= Everitt, and
+ | editor-first3= F. W. 
+ | editor-last3= Hehl
+ | publisher=Springer
+ | year=2001
+ | pages= 52–82
+ | isbn=3-540-41236-0
+ }}
+*{{Citation
+ | first1=C. W. F. 
+ | last1=Everitt
+ | first2=Bradford
+ | last2=Parkinson
+ | first3=Bob
+ | last3=Kahn
+ | year=2007
+ | title=The Gravity Probe B experiment. Post Flight Analysis – Final Report (Preface and Executive Summary)
+ | url=http://einstein.stanford.edu/content/exec_summary/GP-B_ExecSum-scrn.pdf
+ | accessdate=2007-08-05
+ }}
+*{{Citation
+ | last=Falcke
+ | first=Heino
+ | last2=Melia
+ | first2=Fulvio
+ | last3=Agol
+ | first3=Eric
+ | title=Viewing the Shadow of the Black Hole at the Galactic Center
+ | journal=Astrophysical Journal
+ | volume=528
+ | pages=L13-L16
+ | year=2000
+ | id={{arxiv|astro-ph|9912263}}
+ | doi=10.1086/312423
+  }}
+*{{Citation
+ | last1=Flanagan
+ | first1=Eanna E. 
+ | first2=Scott A. 
+ | last2=Hughes
+ | title=The basics of gravitational wave theory
+ | journal=New J.Phys.
+ | volume= 7 
+ | year=2005
+ | pages= 204
+ | id= {{arxiv|gr-qc|0501041}}
+  }}
+*{{Citation
+ | first=José A. 
+ | last=Font
+ | title=Numerical Hydrodynamics in General Relativity
+ | journal=Living Rev. Relativity 
+ | volume=6
+ | year=2003
+ | url=http://www.livingreviews.org/lrr-2003-4
+ | accessdate=2007-08-19
+ }}
+*{{Citation
+ | first=Yvonne
+ | last= Fourès-Bruhat
+ | title= Théoréme d'existence pour certains systémes d'équations aux derivées partielles non linéaires
+ | journal= Acta Mathematica 
+ | volume=88 
+ | year=1952
+ | pages=141–225
+ }}
+*{{Citation
+ | first=Jörg 
+ | last=Frauendiener
+ | title=Conformal Infinity
+ | journal=Living Rev. Relativity 
+ | volume=7  
+ | year=2004
+ | url=http://www.livingreviews.org/lrr-2004-1
+ | accessdate=2007-07-21
+ }}
+*{{Citation
+ | last=Garfinkle
+ | first=David 
+ | title=Of singularities and breadmaking
+ | url=http://www.einstein-online.info/en/spotlights/singularities_bkl/index.html
+ | journal=[http://www.einstein-online.info/en Einstein Online]
+ | year=2007
+ | accessdate=2007-08-03
+ }}
+* {{Citation
+ | last=Gnedin
+ | first=Nickolay Y.
+ | title=Digitizing the Universe
+ | journal=Nature
+ | volume=435
+ | year=2005
+ | pages=572–573
+ }}
+*{{Citation
+ | first=Eric 
+ | last=Gourgoulhon
+ | title=3+1 Formalism and Bases of Numerical Relativity
+ | id={{arxiv|gr-qc|0703035}}
+ | year=2007
+ }}
+*{{Citation
+ | first=Robert H. 
+ | last=Gowdy
+ | title=Gravitational Waves in Closed Universes
+ | journal=Phys. Rev. Lett. 
+ | volume=27 
+ | pages=826-829
+ | year=1971
+ }}
+*{{Citation
+ | first=Robert H. 
+ | last=Gowdy
+ | title=Vacuum spacetimes with two-parameter spacelike isometry groups and compact invariant hypersurfaces: Topologies and boundary conditions
+ | journal=Ann. Phys. (N.Y.)
+ | volume= 83
+ | pages=203–241
+ | year=1974
+ }}
+*{{Citation
+ | last=Greenstein
+ | first=J. L.
+ | last2=Oke
+ | first2=J. B.
+ | last3=Shipman
+ | first3=H. L.
+ | title=Effective Temperature, Radius, and Gravitational Redshift of Sirius B
+ | journal=Astrophysical Journal
+ | volume=169
+ | pages=563
+ | year=1971
+ }}
+*{{Citation 
+ | last=Hafele 
+ | first= J. 
+ | last2 = Keating
+ | first2=R. 
+ | year=1972
+ | title=Around the world atomic clocks:predicted relativistic time gains 
+ | journal=Science
+ | volume = 177 
+ | pages=166–168
+ | url= http://www.sciencemag.org/cgi/content/abstract/177/4044/166
+ | accessdate= 2006-09-18
+ }}
+*{{Citation 
+ | last=Hafele 
+ | first= J. 
+ | last2 = Keating
+ | first2= R. 
+ | year=1972
+ | title=Around the world atomic clocks: observed relativistic time gains 
+ | journal=Science
+ | volume = 177 
+ | pages=168–170
+ | url= http://www.sciencemag.org/cgi/content/abstract/177/4044/168 
+ | accessdate=2006-09-18
+ }}
+*{{Citation
+ | last=Hawking
+ | first=Stephen W.
+ | year=1966
+ | title=The occurrence of singularities in cosmology
+ | journal=Proceedings of the Royal Society of London
+ | volume= A294
+ | pages=511–521
+ }} 
+*{{Citation
+ | last=Hawking
+ | first=S. W. 
+ | year=1975
+ | title=Particle Creation by Black Holes
+ | journal=Communications in Mathematical Physics 
+ | volume=43 
+ | pages=199–220
+  }}
+*{{Citation
+ | last=Heusler
+ | first=Markus
+ | title=Stationary Black Holes: Uniqueness and Beyond
+ | journal=Living Rev. Relativity 
+ | volume=1  
+ | year=1998
+ | url=http://www.livingreviews.org/lrr-1998-6
+ | accessdate=2007-08-04
+ }}
+*{{Citation
+ | first1=Jim
+ | last1= Hough 
+ | first2=Sheila
+ | last2=Rowan
+ | title=Gravitational Wave Detection by Interferometry (Ground and Space)
+ | journal=Living Rev. Relativity 
+ | volume=3
+ | year=2000
+ | url=http://www.livingreviews.org/lrr-2000-3
+ | accessdate=2007-07-21
+ }}
+*{{Citation
+ | last=Hubble
+ | first=Edwin
+ | author-link=Edwin Hubble
+ | title=A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae
+ | journal=Proc. Nat. Acad. Sci. 
+ | volume=15
+ | pages=168-73 
+ | year=1929
+ | url=
+ }} 
+*{{Citation
+ | last1=Hulse
+ | first1=Russell A.
+ | last2=Taylor
+ | first2=Joseph H.
+ | journal=Astrophys. J.
+ | volume=324
+ | year=1975
+ | pages=355
+ }}
+*{{Citation
+ | last=Israel
+ | first=Werner
+ | year= 1971
+ | title=Event Horizons and Gravitational Collapse
+ | journal= General Relativity and Gravitation
+ | volume= 2
+ | pages= 53–59
+ }}
+*{{Citation
+ | last = Janssen
+ | first = Michel
+ | title = Of pots and holes: Einstein’s bumpy road to general relativity
+ | journal = Ann. Phys. (Leipzig)
+ | volume= 14
+ | year = 2005
+ | pages = 58–85
+ | url = http://www.tc.umn.edu/~janss011/pdf%20files/potsandholes.pdf
+ }}
+*{{Citation
+ | first1=Piotr 
+ | last1=Jaranowski
+ | first2=Andrzej 
+ | last2=Królak,
+ |title=Gravitational-Wave Data Analysis. Formalism and Sample Applications: The Gaussian Case
+ | journal=Living Rev. Relativity 
+ | volume=8
+ | year=2005
+ | url=http://www.livingreviews.org/lrr-2005-3
+ | accessdate=2007-07-30
+ }}
+*{{Citation
+ | last=Kahn
+ | first=Bob
+ | year=1996–2007
+ | title=Gravity Probe B Website
+ | url=http://einstein.stanford.edu/
+ }}
+*{{Citation
+ | last=Kahn
+ | first=Bob
+ | year=2007
+ | url=http://einstein.stanford.edu/content/press_releases/SU/pr-aps-041807.pdf
+ | title=Was Einstein right? Scientists provide first public peek at Gravity Probe B results (Stanford University Press Release)
+ }}
+*{{Citation
+ | last=Kennefick
+ | first=Daniel
+ | contribution=Astronomers Test General Relativity: Light-bending and the Solar Redshift
+ | pages=178–181
+ | editor-last=Renn
+ | editor-first=Jürgen
+ | title=One hundred authors for Einstein
+ | year=2005
+ | publisher = Wiley-VCH
+ | isbn=3-527-40574-7 }}
+*{{Citation
+ | first=C.S. 
+ | last=Kochanek
+ | first2=E.E. 
+ | last2=Falco
+ | first3=C.  
+ | last3=Impey
+ | first4=J.  
+ | last4=Lehar
+ | title=CASTLES Survey Website
+ | url=http://cfa-www.harvard.edu/castles
+ | accessdate=2007-08-21
+ }}
+*{{Citation
+ | last=Komar
+ | first=Arthur
+ | title=Covariant Conservation Laws in General Relativity
+ | doi=10.1103/PhysRev.113.934 
+ | journal=Phys. Rev.
+ | volume=113
+ | pages=934–936
+ | year=1959
+ }}
+*{{Citation
+ | last=Kramer
+ | first=Michael
+ | contribution=Millisecond Pulsars as Tools of Fundamental Physics
+ | pages=33-54
+ | editor-last=Karshenboim
+ | editor-first=S. G.
+ | editor-last2=Peik
+ | editor-first2=E.
+ | title=Astrophysics, Clocks and Fundamental Constants (Lecture Notes in Physics Vol. 648)
+ | publisher=Springer
+ | year=2004
+ }} (E-Print at [http://de.arxiv.org/abs/astro-ph/0405178 astro-ph/0405178])
+*<cite 
+id="CITEREFKramerStairsManchesterMcLaughlin2006">Kramer, M.<nowiki>; </nowiki>I.H. Stairs&#32;&amp; R.N. Manchester&#32;et al.&#32;(2006),&#32;"Tests of general relativity from timing the double pulsar",&#32;''Science''&#32;'''314'''<nowiki>: </nowiki> 97–102, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0609417  astro-ph/0609417]</cite>
+*<cite 
+id="CITEREFLahavSuto2004">Lahav, Ofer&#32;&amp;&#32;Yasushi Suto&#32;(2004),&#32;"[http://www.livingreviews.org/lrr-2004-8 Measuring our Universe from Galaxy Redshift Surveys]",&#32;''Living Rev. Relativity''&#32;'''7'''. Retrieved on 2007-08-19</cite>
+*<cite 
+id="CITEREFLandgrafHechlerKemble2005">Landgraf, M.<nowiki>; </nowiki>M. Hechler&#32;&amp; S. Kemble&#32;(2005),&#32;"Mission design for LISA Pathfinder",&#32;''Class.Quant.Grav.''&#32;'''22'''<nowiki>: </nowiki> S487-S492, [[arXiv]]:[http://arxiv.org/abs/gr-qc/0411071  gr-qc/0411071]</cite>
+*{{Citation
+ | last=Lehner
+ | first=Luis
+ | title=Numerical Relativity: A review
+ | journal =Class. Quant. Grav. 
+ | volume=18
+ | year=2001
+ | pages=R25-R86
+ | id={{arxiv|gr-qc|0106072}}
+ }}
+*<cite 
+id="CITEREFLehner2002">Lehner, Luis&#32;(2002),&#32;''Numerical Relativity: Status and Prospects'', [[arXiv]]:[http://arxiv.org/abs/gr-qc/0202055  gr-qc/0202055]</cite>
+*<cite 
+id="CITEREFLinde1990">[[Andrei Linde|Linde, Andrei]]&#32;(1990),&#32;''Particle Physics and Inflationary Cosmology'', Harwood, [[arXiv]]:[http://arxiv.org/abs/hep-th/0503203  hep-th/0503203], ISBN 3718604892</cite>
+*<cite 
+id="CITEREFLinde2005">[[Andrei Linde|Linde, Andrei]]&#32;(2005),&#32;''Inflation and String Cosmology'',&#32;''J. Phys. Conf. Ser.''&#32;'''24'''<nowiki>: </nowiki> 151-160, [[arXiv]]:[http://arxiv.org/abs/hep-th/0503195  hep-th/0503195]</cite>
+*<cite 
+id="CITEREFMannheim2006">Mannheim, Philip D.&#32;(2006),&#32;"Alternatives to Dark Matter and Dark Energy",&#32;''Prog.Part.Nucl.Phys.''&#32;'''56'''<nowiki>: </nowiki> 340–445, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0505266v2  astro-ph/0505266v2]</cite>
+*<cite 
+id="CITEREFMatherChengCottinghamEplee1994">Mather, J. C.<nowiki>; </nowiki>E. S. Cheng&#32;&amp; D. A. Cottingham&#32;et al.&#32;(1994),&#32;"[http://adsabs.harvard.edu/abs/1994ApJ...420..439M Measurement of the cosmic microwave spectrum by the COBE FIRAS instrument]",&#32;''Astrophysical Journal''&#32;'''420'''<nowiki>: </nowiki> 439–444</cite>
+*<cite 
+id="CITEREFMiller2002">Miller, Cole&#32;(2002),&#32;''[http://www.astro.umd.edu/~miller/teaching/astr606/ Stellar Structure and Evolution (Lecture notes for Astronomy 606)]'', University of Maryland. Retrieved on 2007-07-25</cite>
+*<cite 
+id="CITEREFNarayan2006">Narayan, Ramesh&#32;(2006),&#32;"[http://dx.doi.org/10.1088%2F1367-2630%2F7%2F1%2F199 Black holes in astrophysics]",&#32;''New Journal of Physics''&#32;'''7'''<nowiki>: </nowiki> 199, [[arXiv]]:[http://arxiv.org/abs/gr-qc/0506078  gr-qc/0506078]</cite>
+*<cite 
+id="CITEREFNarayanBartelmann1997">Narayan, Ramesh&#32;&amp;&#32;Matthias Bartelmann&#32;(1997),&#32;''Lectures on Gravitational Lensing''</cite> (E-print [http://arxiv.org/abs/astro-ph/9606001 arXiv:astro-ph/9606001v2])
+* {{Citation 
+ | last = Nordström 
+ | first = Gunnar
+ | authorlink = Gunnar Nordström
+ | year = 1918 
+ | title = On the Energy of the Gravitational Field in Einstein's Theory 
+ | journal = Verhandl. Koninkl. Ned. Akad. Wetenschap.,
+ | volume = 26 
+ | pages = 1201-1208
+ }}
+*<cite 
+id="CITEREFNordtvedt2003">Nordtvedt, Kenneth&#32;(2003),&#32;''Lunar Laser Ranging - a comprehensive probe of post-Newtonian gravity'', [[arXiv]]:[http://arxiv.org/abs/gr-qc/0301024  gr-qc/0301024]</cite>
+*<cite 
+id="CITEREFOliveSkillman2004">Olive, K. A.&#32;&amp;&#32;E. A. Skillman&#32;(2004),&#32;"A Realistic Determination of the Error on the Primordial Helium Abundance",&#32;''Astrophysical Journal''&#32;'''617'''<nowiki>: </nowiki> 29, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0405588  astro-ph/0405588]</cite>
+*<cite 
+id="CITEREFO'MearaTytlerKirkmanSuzuki2001">O'Meara, John M.<nowiki>; </nowiki>David Tytler&#32;&amp; David Kirkman&#32;et al.&#32;(2001),&#32;"The Deuterium to Hydrogen Abundance Ratio Towards a Fourth QSO: HS0105+1619",&#32;''Astrophysical Journal''&#32;'''552'''<nowiki>: </nowiki> 718, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0011179  astro-ph/0011179]</cite>
+*<cite 
+id="CITEREFOppenheimerSnyder1939">[[Robert Oppenheimer|Oppenheimer, J. Robert]]&#32;&amp;&#32;H. Snyder&#32;(1939),&#32;"On continued gravitational contraction",&#32;''Physical Review''&#32;'''56'''<nowiki>: </nowiki> 455-459</cite>
+* <cite 
+id="CITEREFPeebles1966">Peebles, P. J.&#32;(1966),&#32;"Primordial Helium abundance and primordial fireball II",&#32;''Astrophysical Journal''&#32;'''146'''<nowiki>: </nowiki> 542–552</cite>
+* <cite 
+id="CITEREFPeeblesSchrammTurnerKron1991">Peebles, P.J.<nowiki>; </nowiki>D.N. Schramm&#32;&amp; E.L. Turner&#32;et al.&#32;(1991),&#32;"[http://dx.doi.org/10.1038%2F352769a0 The case for the relativistic hot Big Bang cosmology]",&#32;''Nature''&#32;'''352'''<nowiki>: </nowiki> 769-776</cite>
+* <cite 
+id="CITEREFPenrose1965">[[Roger Penrose|Penrose, Roger]]&#32;(1965),&#32;"Gravitational collapse and space-time singularities",&#32;''Physical Review Letters''&#32;'''14'''<nowiki>: </nowiki> 57–59</cite>
+* <cite 
+id="CITEREFPenrose1969">[[Roger Penrose|Penrose, Roger]]&#32;(1969),&#32;"Gravitational collapse: the role of general relativity",&#32;''Rivista del Nuovo Cimento''&#32;'''1'''<nowiki>: </nowiki> 252–276</cite>
+*<cite 
+id="CITEREFPenziasWilson1965">[[Arno Penzias|Penzias, A. A.]]&#32;&amp;&#32;[[Robert W. Wilson|R. W. Wilson]]&#32;(1965),&#32;"A measurement of excess antenna temperature at 4080 Mc/s",&#32;''Astrophysical Journal''&#32;'''142'''<nowiki>: </nowiki> 419–421</cite>
+*{{Citation
+ | first=Michael E. 
+ | last=Peskin
+ | title=Dark Matter and Particle Physics
+ | year=2007
+ | id={{arxiv|0707.1536}}
+ }}
+* <cite 
+id="CITEREFPoisson2004">Poisson, Eric&#32;(2004),&#32;"[http://www.livingreviews.org/lrr-2004-6 The Motion of Point Particles in Curved Spacetime]",&#32;''Living Rev. Relativity''&#32;'''7'''. Retrieved on 2007-06-13</cite>
+*<cite 
+id="CITEREFPoundRebka1959">Pound, R. V.&#32;&amp;&#32;G. A. Rebka&#32;(1959),&#32;"[http://prola.aps.org/abstract/PRL/v3/i9/p439_1 Gravitational Red-Shift in Nuclear Resonance]",&#32;''Physical Review Letters''&#32;'''3''' (9)<nowiki>: </nowiki> 439–441</cite>
+*<cite 
+id="CITEREFPoundRebka1960">Pound, R. V.&#32;&amp;&#32;G. A. Rebka&#32;(1960),&#32;"[http://prola.aps.org/abstract/PRL/v4/i7/p337_1 Apparent weight of photons]",&#32;''Physical Review Letters''&#32;'''4'''<nowiki>: </nowiki> 337–341</cite>
+*<cite 
+id="CITEREFPoundSnider1964">Pound, R. V.&#32;&amp;&#32;J. L. Snider&#32;(1964),&#32;"[http://prola.aps.org/abstract/PRL/v13/i18/p539_1 Effect of Gravity on Nuclear Resonance]",&#32;''Physical Review Letters''&#32;'''13'''<nowiki>: </nowiki> 539–540</cite>
+* {{Citation
+  | last = Reissner 
+  | first = H 
+ | year = 1916 
+ | title = Über die Eigengravitation des elektrischen Feldes nach der Einstein'schen Theorie 
+ | journal = Annalen der Physik
+ | volume = 50 
+ | pages = 106-120
+ }}
+*{{Citation
+ | last=Remillard
+ | first=Ronald A.
+ | last2=Lin
+ | first2=Dacheng
+ | last3=Cooper
+ | first3=Randall L.
+ | last4=Narayan
+ | first4=Ramesh
+ | title=The Rates of Type I X-Ray Bursts from Transients Observed with RXTE: Evidence for Black Hole Event Horizons
+ | journal=Astrophysical Journal
+ | volume=646
+ | pages=407–419
+ | year=2006
+ | id={{arxiv|astro-ph|0509758}}
+ | doi=10.1086/504862
+ }}
+*{{Citation
+ |first= Oscar A. 
+ | last=Reula
+ | title=Hyperbolic Methods for Einstein's Equations
+ | journal=Living Rev. Relativity 
+ | volume=1
+ | year=1998
+ | url=http://www.livingreviews.org/lrr-1998-3
+ | accessdate=2007-08-29
+}}
+*<cite 
+id="CITEREFRouletMollerach1997">Roulet, E.&#32;&amp;&#32;S. Mollerach&#32;(1997),&#32;"Microlensing",&#32;''Physics Reports''&#32;'''279'''<nowiki>: </nowiki> 67</cite>
+*<cite 
+id="CITEREFSchäfer2004">Schäfer, Gerhard&#32;(2004),&#32;"Gravitomagnetic Effects",&#32;''General Relativity and Gravitation''&#32;'''36'''<nowiki>: </nowiki> 2223–2235, [[arXiv]]:[http://arxiv.org/abs/gr-qc/0407116  gr-qc/0407116]</cite>
+*<cite 
+id="CITEREFSchödelOttGenzelEckart2003">Schödel, R.<nowiki>; </nowiki>T. Ott&#32;&amp; R. Genzel&#32;et al.&#32;(2003),&#32;"[http://esoads.eso.org/cgi-bin/nph-data_query?bibcode=2003ApJ...596.1015S&link_type=ARTICLE&db_key=AST&high=461a15a6b016770 Stellar Dynamics in the Central Arcsecond of Our Galaxy]",&#32;''Astrophysical Journal''&#32;'''596'''<nowiki>: </nowiki> 1015–1034, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0306214  astro-ph/0306214]</cite>
+*{{Citation
+ | last=Schwarzschild
+ | first=Karl
+ | author-link=Karl Schwarzschild
+ | title=Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie
+ | journal=Sitzungsber. Preuss. Akad. d. Wiss.
+ | year=1916a
+ |pages=189-196
+ }}
+*{{Citation
+ | last=Schwarzschild
+ | first=Karl
+ | author-link=Karl Schwarzschild
+ | title=Über das Gravitationsfeld eines Kugel aus inkompressibler Flüssigkeit nach der Einsteinschen Theorie
+ | journal=Sitzungsber. Preuss. Akad. d. Wiss.
+ | pages=424-434
+ | year=1916b
+ }}
+*{{Citation
+ | last=Seidel
+ | first=Edward
+ | contribution=Numerical Relativity: Towards Simulations of 3D Black Hole Coalescence
+ | title=Proceedings of GR15, Poona
+ | id={{arxiv|gr-qc|9806088}}
+ | year=1998
+ }}
+*{{Citation
+ |last=Shapiro
+ | first=S.S. 
+ |last=Davis 
+ | first=J.L. 
+ |last=Lebach
+ | first=D.E. 
+ |last=Gregory 
+ | first=J.S.
+ | title=Measurement of the solar gravitational deflection of radio waves using geodetic very-long-baseline interferometry data, 1979-1999
+ | journal=Phys. Rev. Lett.
+ | volume=92
+ | pages=121101
+ | year=2004
+ }}
+*<cite 
+id="CITEREFShapiro1964">[[Irwin I. Shapiro|Shapiro, Irwin I.]]&#32;(1964),&#32;"[http://prola.aps.org/abstract/PRL/v13/i26/p789_1 Fourth test of general relativity]",&#32;''Physical Review Letters''&#32;'''13'''<nowiki>: </nowiki> 789-791. Retrieved on 2006-09-18</cite>
+*<cite 
+id="CITEREFShapiroPettengillAshStone1968">[[Irwin I. Shapiro|Shapiro, I. I.]]<nowiki>; </nowiki>Gordon H. Pettengill&#32;&amp; Michael E. Ash&#32;et al.&#32;(1968),&#32;"[http://dx.doi.org/10.1103%2FPhysRevLett.20.1265 10.1103/PhysRevLett.20.1265 Fourth test of general relativity: preliminary results]",&#32;''Physical Review Letters''&#32;'''20''' (22)<nowiki>: </nowiki> 1265-1269. Retrieved on 2006-09-18</cite>
+*<cite 
+id="CITEREFSpergelVerdePeirisKomatsu2003">Spergel, D. N.<nowiki>; </nowiki>L. Verde&#32;&amp; H. V. Peiris&#32;et al.&#32;(2003),&#32;"First Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Determination of Cosmological Parameters",&#32;''Astrophys. J. Suppl.''&#32;'''148'''<nowiki>: </nowiki> 175, [[arXiv]]:[http://arxiv.org/abs/astro-ph/0302209  astro-ph/0302209]</cite>
+*{{Citation
+ | first=D. N. 
+ | last=Spergel
+ | first2=R.  
+ | last2=Bean
+ | first3=O.  
+ | last3=Doré
+ | first4=M. R.  
+ | last4=Nolta
+ | title=Wilkinson Microwave Anisotropy Probe (WMAP) Three Year Results: Implications for Cosmology
+ | journal=Astrophysical Journal Supplement
+ | volume=170
+ | pages=377 
+ | year=2007
+ | id={{arxiv|astro-ph|0603449}}
+ }}
+* <cite 
+id="CITEREFSpringelWhiteJenkinsFrenk2005">Springel, Volker<nowiki>; </nowiki>Simon D. M. White&#32;&amp; Adrian Jenkins&#32;et al.&#32;(2005),&#32;"Simulations of the formation, evolution and clustering of galaxies and quasars",&#32;''Nature''&#32;'''435'''<nowiki>: </nowiki> 629–636</cite>
+*<cite 
+id="CITEREFStairs2003">Stairs, Ingrid H.&#32;(2003),&#32;"[http://www.livingreviews.org/lrr-2003-5 Testing General Relativity with Pulsar Timing]",&#32;''Living Rev. Relativity''&#32;'''6'''. Retrieved on 2007-07-21</cite>
+*{{Citation
+  | last=Szabados
+  | first=László B. 
+  | title=Quasi-Local Energy-Momentum and Angular Momentum in GR
+  | journal=Living Rev. Relativity 
+  | volume=7
+  | year=2004
+  | url=http://www.livingreviews.org/lrr-2004-4 
+  | accessdate=2007-08-23
+  }}
+*<cite 
+id="CITEREFTaylor1994">Taylor, Joseph H.&#32;(1994),&#32;''Rev. Mod. Phys.''&#32;'''66'''<nowiki>: </nowiki> 711</cite>
+*<cite 
+id="CITEREFThorne1995">[[Kip Thorne|Thorne, Kip S.]]&#32;(1995),&#32;''Gravitational radiation'', [[arXiv]]:[http://arxiv.org/abs/gr-qc/9506086  gr-qc/9506086]</cite>
+*<cite 
+id="CITEREFTownsend1997">Townsend, P. K.&#32;(1997),&#32;''Black Holes (Lecture notes)'', [[arXiv]]:[http://arxiv.org/abs/gr-qc/9707012  gr-qc/9707012]</cite>
+*<cite 
+id="CITEREFUnruh1976">[[Bill Unruh|Unruh, W. G.]]&#32;(1976),&#32;"Notes on Black Hole Evaporation",&#32;''Phys. Rev. D''&#32;'''14'''<nowiki>: </nowiki> 870–892</cite>
+* <cite 
+id="CITEREFWald1975">[[Robert M. Wald|Wald, Robert M.]]&#32;(1975),&#32;"On Particle Creation by Black Holes",&#32;''Commun. Math. Phys.''&#32;'''45'''<nowiki>: </nowiki> 9–34</cite>
+* <cite 
+id="CITEREFWald1984">[[Robert M. Wald|Wald, Robert M.]]&#32;(1984),&#32;''[[General Relativity (book)|''General Relativity'']]'', Chicago<nowiki>:</nowiki> University of Chicago Press, ISBN 0-226-87033-2</cite>
+* <cite 
+id="CITEREFWald2001">[[Robert M. Wald|Wald, Robert M.]]&#32;(2001),&#32;"[http://www.livingreviews.org/lrr-2001-6 The Thermodynamics of Black Holes]",&#32;''Living Rev. Relativity''&#32;'''4'''. Retrieved on 2007-08-08</cite>
+* {{Citation
+ | last= Walsh
+ | first= D.
+ | last2=Carswell
+ | first2=R. F.
+ | last3=Weymann
+ | first3=R. J. 
+ | title=0957 + 561 A, B: twin quasistellar objects or gravitational lens?
+ | journal=Nature 
+ | volume=279
+ | pages=381 
+ | year=1979
+ | doi=10.1038/279381a0
+ }}
+* <cite 
+id="CITEREFWambsganss1998">Wambsganss, Joachim&#32;(1998),&#32;"[http://www.livingreviews.org/lrr-1998-12 Gravitational Lensing in Astronomy]",&#32;''Living Rev. Relativity''&#32;'''1'''. Retrieved on 2007-07-20</cite>
+*<cite 
+id="CITEREFWeisbergTaylor2003">Weisberg, Joel M.&#32;&amp;&#32;Joseph H. Taylor&#32;(2003),&#32;"The Relativistic Binary Pulsar B1913+16", in&#32;Bailes, M.<nowiki>; </nowiki>D.J. Nice&#32;&amp; S. E. Thorsett,&#32;''Proceedings of "Radio Pulsars," Chania, Crete, August, 2002'', ASP Conference Series</cite>
+*<cite 
+id="CITEREFWeiss2006">Weiss, Achim&#32;(2006),&#32;[http://www.einstein-online.info/en/spotlights/BBN_obs/index.html "Elements of the past: Big Bang Nucleosynthesis and observation"],&#32;''[http://www.einstein-online.info Einstein Online]''. Retrieved on 2007-02-24</cite>
+* <cite 
+id="CITEREFWill2006">[[Clifford Will|Will, Clifford M.]]&#32;(2006),&#32;"[http://www.livingreviews.org/lrr-2006-3 The Confrontation between General Relativity and Experiment]",&#32;''Living Rev. Relativity''&#32;'''9'''. Retrieved on 2007-06-12</cite>
+* <cite 
+id="CITEREFWright2007">Wright, Ned&#32;(2007),&#32;''[http://www.astro.ucla.edu/~wright/cosmolog.htm Cosmology tutorial and FAQ]''. Retrieved on 2007-06-12</cite>
+</div>
+
+==External links==
+*[http://video.google.com/videoplay?docid=-8550767253417678390&hl=en Yale University Video Lecture: Special and General Relativity] at Google Video
+*[http://video.google.ca/videosearch?q=General+Relativity+MIT+Physics+Lecture Video Lectures on General Relativity] by [[MIT]] Physics Professor Edmund Bertschinger.
+*[http://www.luth.obspm.fr/IHP06/ Series of lectures on General Relativity] given in 2006 at the Institut Henri Poincaré (introductory courses and advanced ones).
+*[http://www.math.ucr.edu/home/baez/gr/ General Relativity Tutorials] by [[John Baez]]
+
+{{Physics-footer}}
+{{clear}}
+{{theories of gravitation}}
+
+<!-- WIKIPEDIA POLICY NOTE: This is the main article for Category:General_relativity. Additional categorizations should be done for the category, not this article. See Wikipedia:Categorization for current guidelines (not WP:CSL, which is only a proposal). -->
+
+[[Category:General relativity| ]]
+[[Category:Fundamental physics concepts]]
+
+{{Link FA|de}}
+{{Link FA|pt}}
+{{Link FA|ru}}
+{{Link FA|sv}}
+[[ar:نظرية النسبية العامة]]
+[[bs:Opća teorija relativnosti]]
+[[br:Relativelezh hollek]]
+[[bg:Обща теория на относителността]]
+[[ca:Relativitat general]]
+[[cs:Obecná teorie relativity]]
+[[da:Almen relativitetsteori]]
+[[de:Allgemeine Relativitätstheorie]]
+[[et:Üldrelatiivsusteooria]]
+[[el:Γενική σχετικότητα]]
+[[es:Relatividad general]]
+[[eo:Fizika relativeco]]
+[[fa:نسبیت عام]]
+[[fr:Relativité générale]]
+[[gl:Relatividade Xeral]]
+[[ko:일반 상대성 이론]]
+[[id:Relativitas umum]]
+[[it:Relatività generale]]
+[[he:תורת היחסות הכללית]]
+[[la:Relativitas generalis]]
+[[lt:Bendroji reliatyvumo teorija]]
+[[hu:Általános relativitáselmélet]]
+[[nl:Algemene relativiteitstheorie]]
+[[ja:一般相対性理論]]
+[[no:Den generelle relativitetsteorien]]
+[[nn:Den generelle relativitetsteorien]]
+[[pl:Ogólna teoria względności]]
+[[pt:Relatividade geral]]
+[[ru:Общая теория относительности]]
+[[simple:General relativity]]
+[[sk:Všeobecná teória relativity]]
+[[sl:Splošna teorija relativnosti]]
+[[sr:Општа теорија релативности]]
+[[fi:Yleinen suhteellisuusteoria]]
+[[sv:Allmänna relativitetsteorin]]
+[[th:ทฤษฎีสัมพัทธภาพทั่วไป]]
+[[vi:Lý thuyết tương đối rộng]]
+[[tr:Genel görelilik kuramı]]
+[[uk:Загальна теорія відносності]]
+[[zh:廣義相對論]]

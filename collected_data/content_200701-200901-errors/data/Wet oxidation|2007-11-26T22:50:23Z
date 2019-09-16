@@ -1,0 +1,27 @@
+{{environmental technology}}
+'''Wet oxidation''' is a form of hydrothermal treatment.  It is the [[oxidation]] of dissolved or suspended components in [[water]] using [[oxygen]] as the [[oxidizer]].  It is referred to as "Wet Air Oxidation" (WAO) when [[air]] is used.  The oxidation reactions occur at [[temperature]] above the [[normal boiling point]] of water (100 °C) but below the [[Critical point (thermodynamics)|critical point]] (374 °C).  
+
+The system must be maintained under pressure to avoid excessive [[evaporation]] of water.  This is done to control energy consumption due to the [[latent heat of vaporization]].  It is also done because liquid water is necessary for most of the oxidation reactions to occur.  [[Compounds]] oxidize under wet oxidation conditions that would not oxidize under [[dry]] conditions at the same temperature and pressure.  
+
+==Commercial applications==
+Wet oxidation has been used commercially for around 60 years.  It is used predominately for treating [[wastewater]].  It is often referred to as the Zimpro process; after [[Fred T. Zimmermann]] who [[commercialized]] it in the mid 20th century.
+
+Commercial systems typically use a bubble column reactor, where air is bubbled through a vertical column that is liquid full of the hot and pressurized wastewater.  Fresh wastewater enters the bottom of the column and oxidized wastewater exits the top.  The heat released during the oxidation is used to maintain the operating temperature.
+
+The majority of commercial wet oxidation systems are used to treat industrial wastewaters, such as [[sulfide]] laden [[spent caustic]] streams.  Almost as many systems are also used for treating [[biosolids]], in order to [[pasteurize]] and to decrease volume of material to dispose of.
+
+==See also==
+*[[Supercritical water oxidation]]
+*[[Incineration]]
+
+==References==
+*Zimmermann, F. ''Waste Disposal'', US Patent 2665249, 1950.
+*Mishra, V.; Mahajani, V.; Joshi, J. "Wet Air Oxidation", ''Ind. Eng. Chem. Res.", '''34''', 2-48, 1995.
+*Maugans C.; Ellis, C. "Wet Air Oxidation: A Review of Commercial Sub-Critical Hydrothermal Treatment", Twenty First Annual International Conference on Incineration and Thermal Treatment Technologies, New Orleans, May 13-17, 2002.   [[http://www.usfilter.com/NR/rdonlyres/BA897F25-AC3B-4CF9-8009-F6BAF92DDB03/0/IT32002WAOhistorypaper.pdf|WAO History Paper]]
+*Patria, L.; Maugans, C.; Ellis, C.; Belkhodja, M.; Cretenot, D.; Luck, F.; Copa, B. "Wet Air Oxidation Processes", ''Advanced Oxidation Processes for Water and Wastewater Treatment'', S. Parsons Editor, pp 247-274. 2004, IWA Publishing.
+*Giudici, D.; Maugans, C. "Improvement of Industrial Synthesis of Methyl Methacrylate Application of a Wet Air Oxidation Process (WAO)", [[http://www.usfilter.com/SiteCollectionDocuments/Product_Lines/Zimpro/Brochures/Improvement%20of%20Industrial%20Sysnthesis%20by%20Methly%20Methacrylate.pdf|USFilter Technical Report No. 428.]]
+
+
+[[Category:Chemical engineering]]
+[[Category:Thermal treatment]]
+[[Category:Waste treatment technology]]

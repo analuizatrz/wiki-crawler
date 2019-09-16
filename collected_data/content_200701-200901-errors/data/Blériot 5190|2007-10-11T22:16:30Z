@@ -1,0 +1,132 @@
+__NOTOC__
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{{Infobox Aircraft
+ |name=5190
+ |image=
+ |caption=
+ |type=Airliner
+ |manufacturer=[[Blériot Aéronautique|Blériot]]
+ |designer=[[Filippo Zappata]]
+ |first flight=3 August [[1933 in aviation|1933]]
+ |introduced=[[1935 in aviation|1935]]
+ |retired=[[1937 in aviation|1937]]
+ |status=
+ |primary user=[[Aéropostale]]
+ |more users=
+ |produced=
+ |number built=1, plus 3 under construction
+ |variants with their own articles=
+}}
+The '''Blériot 5190''' was a French transatlantic mailplane of the 1930s, a large parasol-wing monoplane flying boat. It was of slightly unusual design, with a low-profile hull and the crew compartment housed in the thick pylon that supported the wing. The four engines were arranged with three along the leading edge of the wing, and the fourth on the centreline of the trailing edge. It was constructed for a French government contract to carry airmail to South America. 
+
+The first example, christened ''[[Alberto Santos-Dumont|Santos-Dumont]]'' flew on 3 August [[1933 in aviation|1933]] and by the end of [[1934 in aviation|1934]] had completed two proving flights across the Atlantic. In February [[1935 in aviation|1935]] with Aéropostale's only other transatlantic mailplane, the [[Latécoère 300]] ''[[la Croix du Sud]]'', out of commission for maintenance, the ''Santos-Dumont'' entered service. From then until April, she carried all of France's transatlantic mail at the rate of one crossing per week until rejoined by ''la Croix du Sud'' and a new [[Farman 220]] named ''[[Le Centaure]]''. As part of this small fleet, the ''Santos-Dumont'' continued in this role until June [[1937 in aviation|1937]]. Altogether, by that time, she had made 38 crossings of the Atlantic.
+
+In the meantime, the French government had ordered a further three 5190s from Blériot, and the company had borrowed heavily in order to build the aircraft. Suddenly, the contract was cancelled without explanation or compensation, forcing the firm into bankruptcy. [[Louis Blériot]] himself died of a heart attack soon afterwards, on 1 August 1936.
+
+<!-- ==Development== -->
+
+<!-- ==Operational history== -->
+
+<!-- ==Variants== -->
+
+==Operators== 
+* [[Aéropostale]]
+
+==Specifications==
+{{aerospecs
+|met or eng?=<!-- eng for US/UK aircraft, met for all others -->met
+
+|crew=Four
+|capacity=
+|length m=43.00
+|length ft=141
+|length in=0
+|span m=26.00
+|span ft=85
+|span in=3
+|dia m=<!-- helicopters -->
+|dia ft=<!-- helicopters -->
+|dia in=<!-- helicopters -->
+|height m=6.90
+|height ft=22
+|height in=8
+|wing area sqm=236.0
+|wing area sqft=2,539
+|rot area sqm=<!-- helicopters -->
+|rot area sqft=<!-- helicopters -->
+|aspect ratio=<!-- sailplanes -->
+|empty weight kg=12,750
+|empty weight lb=28,109
+|gross weight kg=22,000
+|gross weight lb=48,500
+
+|eng1 number=4
+|eng1 type=[[Hispano-Suiza 12N]]br
+|eng1 kw=<!-- prop engines -->485
+|eng1 hp=<!-- prop engines -->650
+|eng1 kn=<!-- jet/rocket engines -->
+|eng1 lbf=<!-- jet/rocket engines -->
+|eng1 kn-ab=<!-- afterburners -->
+|eng1 lbf-ab=<!-- afterburners -->
+|eng2 number=
+|eng2 type=
+|eng2 kw=<!-- prop engines -->
+|eng2 hp=<!-- prop engines -->
+|eng2 kn=<!-- jet/rocket engines -->
+|eng2 lbf=<!-- jet/rocket engines -->
+|eng2 kn-ab=<!-- afterburners -->
+|eng2 lbf-ab=<!-- afterburners -->
+
+|max speed kmh=210
+|max speed mph=131
+|max speed mach=<!-- for supersonic aircraft -->
+|cruise speed kmh=<!-- if max speed unknown -->
+|cruise speed mph=<!-- if max speed unknown -->
+|range km=5,000
+|range miles=3,100
+|endurance h=<!-- if range unknown -->
+|endurance min=<!-- if range unknown -->
+|ceiling m=5,100
+|ceiling ft=16,730
+|glide ratio=<!-- sailplanes -->
+|climb rate ms=
+|climb rate ftmin=
+|sink rate ms=<!-- sailplanes -->
+|sink rate ftmin=<!-- sailplanes -->
+
+|armament1=
+|armament2=
+|armament3=
+|armament4=
+|armament5=
+|armament6=
+}}
+
+==References==
+* {{cite book |last= Taylor |first= Michael J. H. |title=Jane's Encyclopedia of Aviation |year=1989 |publisher=Studio Editions |location=London |pages=162 }}
+* [http://www.aviafrance.com/1677.htm aviafrance.com]
+
+
+
+<!-- ==External links== -->
+
+==Related content==
+{{aircontent
+<!-- include as many lines are appropriate. additional lines/entries with carriage return. -->
+
+|related=<!-- related developments -->
+
+|similar aircraft=<!-- similar or comparable aircraft -->
+
+|sequence=<!-- designation sequence, if appropriate -->
+
+|lists=<!-- related lists -->
+
+|see also=<!-- other relevant information -->
+
+}}
+
+{{DEFAULTSORT:Bleriot 5190}}
+[[Category:French mailplanes 1930-1939 ]]
+[[Category:Seaplanes and flying boats]]
+[[Category:Blériot aircraft|5190]]

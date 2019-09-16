@@ -1,0 +1,312 @@
+{{otheruses}}
+{{Infobox Philosopher |
+ <!-- Scroll down to edit this page -->
+ <!-- Philosopher Category -->
+ region = Classical Greek philosophy |
+ era = Ancient philosophy |
+ color = #B0C4DE |
+
+ <!-- Image -->
+ image_name = Domenico-Fetti Archimedes 1620.jpg |
+ image_caption = ''Archimedes Thoughtful'' by [[Domenico Fetti|Fetti]] (1620) |
+
+ <!-- Information -->
+ name = Archimedes of Syracuse (Greek: Άρχιμήδης) |
+ birth = ''c''. 287 BC ([[Syracuse, Sicily]], [[Magna Graecia]]) |
+ death = ''c''. 212 BC (Syracuse) |
+ school_tradition = [[Euclid of Alexandria]]<br /> [[Natural philosophy]] |
+ main_interests = [[mathematics]], [[physics]], [[engineering]], [[astronomy]]|
+ influences = |
+ influenced = |
+ notable_ideas = [[Hydrostatics]], [[Lever]]s, <br />[[Archimedes' use of infinitesimals|Infinitesimals]] |
+}}
+
+'''Archimedes of Syracuse''' ([[Greek language|Greek]]: {{polytonic|Άρχιμήδης}} ''c''. 287 BC – ''c.'' 212 BC) was an [[Ancient Greece|ancient Greek]] [[mathematician]], [[physicist]] and [[engineer]]. Although little is known of his life, he is regarded as one of the leading [[scientist]]s in [[classical antiquity]]. In addition to making discoveries in the fields of [[mathematics]] and [[geometry]], he is credited with producing [[machine]]s that were well ahead of their time. He laid the foundations of [[hydrostatics]], and explained the principle of the [[lever]], the device on which [[mechanics]] is based. His early advances in [[calculus]] included the first known [[summation]] of an [[infinite series]] with a method that is still used today.<ref>{{cite web | title = A history of calculus |author=O'Connor, J.J. and Robertson, E.F. | publisher = [[University of St Andrews]]| url = http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/The_rise_of_calculus.html |date= February 1996|accessdate= 2007-08-07}}</ref>
+The historians of [[Ancient Rome]] showed a strong interest in Archimedes and wrote accounts of his life and works, while the relatively few copies of his treatises that survived through the [[Middle Ages]] were an influential source of ideas for scientists during the [[Renaissance]].<ref>{{cite web | title = Galileo, Archimedes, and Renaissance engineers |author=Bursill-Hall, Piers | publisher = sciencelive with the University of Cambridge| url = http://www.sciencelive.org/component/option,com_mediadb/task,view/idstr,CU-MMP-PiersBursillHall/Itemid,30|accessdate= 2007-08-07 }}</ref>
+
+The death of Archimedes occurred during the [[Siege of Syracuse (212 BC)|Siege of Syracuse]], when he was killed by a Roman soldier despite orders that he should not be harmed. [[Carl Friedrich Gauss]] is said to have remarked that Archimedes was one of the three {{nowrap|epoch-making}} mathematicians, with the others being [[Sir Isaac Newton]] and [[Ferdinand Eisenstein]].<ref>{{cite web | title = Review of ''Archimedes: What Did He Do Besides Cry Eureka?'' |author=Sandifer, Ed| publisher =[[Mathematical Association of America]] | url = http://www.maa.org/reviews/archim.html|accessdate=2007-07-23}}</ref>
+
+==Biography==
+[[Image:Gerhard Thieme Archimedes edited.jpg|thumb|right|This [[bronze]] statue of Archimedes is at the [[Archenhold Observatory]] in [[Berlin]]. It was sculpted by Gerhard Thieme and unveiled in 1972.]]
+Archimedes was born ''c''. 287 BC in the seaport city of [[Syracuse, Sicily]], which was then a colony of [[Magna Graecia]]. The date of his birth is based on an assertion by the [[Byzantine Greeks|Byzantine Greek]] historian [[John Tzetzes]] that he lived for 75 years.<ref>[[John Tzetzes]]. [[Chiliades]], II.35,105.</ref> In ''[[The Sand Reckoner]]'' Archimedes gives his father's name as Phidias, an [[astronomer]] about whom nothing is known. [[Plutarch]] wrote in his ''[[Parallel Lives]]'' that Archimedes was related to King [[Hiero II of Syracuse|Hieron II]], the ruler of Syracuse.<ref>{{cite web | name| lives|title = ''Parallel Lives'' Complete e-text from Gutenberg.org|author=[[Plutarch]] | publisher = [[Project Gutenberg]]| url = http://www.gutenberg.org/etext/674|accessdate=2007-07-23}}</ref> A biography of Archimedes was written by his friend Heracleides but this work has been lost, leaving the details of his life obscure.<ref name="mactutor">{{cite web |name|andrews| author=O'Connor, J.J. and Robertson, E.F. | url = http://www-history.mcs.st-andrews.ac.uk/Biographies/Archimedes.html | title = Archimedes of Syracuse | publisher = University of St Andrews | accessdate = 2007-01-02 }}</ref> It is unknown, for instance, whether he ever married or had children. Archimedes probably spent part of his youth in [[Alexandria]], [[Egypt]], where [[Conon of Samos]] and [[Eratosthenes]] were contemporaries. He referred to Conon of Samos as his friend, while two of his works (''The Sand Reckoner'' and the ''[[Archimedes' Cattle Problem|Cattle Problem]]'') contain introductions addressed to Eratosthenes.{{Ref_label|A|a|none}} Archimedes used his correspondence with the scholars in Alexandria as a way of making his results known.
+
+Archimedes died ''c''. 212 BC during the [[Second Punic War]], when [[Ancient Rome|Roman]] forces under General [[Marcus Claudius Marcellus]] captured the city of Syracuse after a two year long [[siege]]. According to the popular account given by Plutarch, Archimedes was contemplating a mathematical diagram when the city was captured. A Roman soldier commanded him to come and meet General Marcellus but he declined, saying that he had to finish working on the problem. The soldier was enraged by this, and killed Archimedes with his sword. Plutarch also gives a {{nowrap|lesser-known}} account of the death of Archimedes which suggests that he may have been killed while attempting to surrender to a Roman soldier. According to this story, Archimedes was carrying mathematical instruments, and was killed because the soldier thought that they were valuable items. General Marcellus was reportedly angered by the death of Archimedes, as he had ordered him not to be harmed.<ref>{{cite web |first=Chris |last=Rorres | url = http://www.math.nyu.edu/~crorres/Archimedes/Death/Histories.html | title = Death of Archimedes: Sources | publisher = [[Courant Institute of Mathematical Sciences]] | accessdate = 2007-01-02 }}</ref>
+
+The last words attributed to Archimedes are "Do not disturb my circles" ([[Greek language|Greek]]: μή μου τούς κύκλους τάραττε), a reference to the circles in the mathematical drawing that he was supposedly studying when disturbed by the Roman soldier. This quote is often given in [[Latin]] as "''Noli turbare circulos meos''", but there is no reliable evidence that Archimedes uttered these words and they do not appear in the account given by Plutarch.
+{{listen
+|filename=Archimedes circles.ogg
+|title=Μη μου τους κύκλους τάραττε - ''Do not disturb my circles''
+|description=Listen to the last words attributed to Archimedes.
+}}
+[[Image:Archimedes sphere and cylinder crop.png|thumb|right|The [[sphere]] has 2/3 the surface area and volume of the circumscribing [[cylinder (geometry)|cylinder]]. This proof was carved on the tomb of Archimedes at his request.]]
+The tomb of Archimedes had a carving of his favorite mathematical diagram, which was a [[sphere]] inside a [[cylinder (geometry)|cylinder]] of the same height and diameter. Archimedes had proved that the volume and surface area of the sphere would be two thirds that of the cylinder. In 75 BC, 137 years after his death, the Roman [[orator]] [[Cicero]] was serving as [[quaestor]] in [[Sicily]]. He had heard stories about the tomb of Archimedes, but none of the locals was able to give him the location. Eventually he found the tomb near the Agrigentine gate in Syracuse, in a neglected condition and overgrown with bushes. Cicero had the tomb cleaned up, and was able to see the carving and read some of the verses that had been added as an inscription.<ref>{{cite web |first=Chris |last=Rorres | url = https://www.math.nyu.edu/~crorres/Archimedes/Tomb/Cicero.html | title = Tomb of Archimedes: Sources | publisher = Courant Institute of Mathematical Sciences | accessdate = 2007-01-02 }}</ref>
+
+The standard versions of the life of Archimedes were written long after his death by the historians of [[Ancient Rome]]. The account of the siege of Syracuse given by [[Polybius]] in his ''Universal History'' was written around seventy years after his death, and was used subsequently as a source by Plutarch and [[Livy]]. It sheds little light on Archimedes as a person, and focuses on the war machines that he is said to have built in order to defend the city.<ref>{{cite web |name | siege| first=Chris |last=Rorres | url = https://www.math.nyu.edu/~crorres/Archimedes/Siege/Polybius.html | title = Siege of Syracuse| publisher = Courant Institute of Mathematical Sciences | accessdate = 2007-07-23 }}</ref>
+
+==Discoveries and inventions==
+The most commonly related [[anecdote]] about Archimedes tells how he discovered the principle of [[buoyancy]]. According to [[Vitruvius]], a new crown in the shape of a [[laurel wreath]] had been made for [[Hiero II of Syracuse|King Hieron]], and Archimedes was asked to determine whether it was of solid [[gold]], or whether [[silver]] had been added by a dishonest goldsmith. <ref>{{cite web | title = ''De Architectura'', Book IX, paragraphs 9-12, text in English and Latin|author= [[Vitruvius]]| publisher = [[University of Chicago]] | url = http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/9*.html|accessdate=2007-08-30}}</ref> Archimedes had to solve the problem without damaging the crown, so he could not melt it down in order to measure its [[density]] as a [[cube]], which would have been the simplest solution. While taking a bath, he noticed that the level of the water rose as he got in. He realized that this effect could be used to determine the [[volume]] of the crown, and therefore its density after weighing it. The density of the crown would be lower if cheaper and less dense metals had been added. He then took to the streets naked, so excited by his discovery that he had forgotten to dress, crying "[[Eureka (word)|Eureka]]!" "I have found it!" ([[Greek language|Greek]]: "εύρηκα!")<ref>{{cite web | title = Buoyancy|author= | publisher = [[HyperPhysics]] | url = http://hyperphysics.phy-astr.gsu.edu/Hbase/pbuoy.html|accessdate=2007-07-23}}</ref>
+
+The story about the golden crown does not appear in the known works of Archimedes, but in his treatise ''On Floating Bodies'' he gives the principle known in [[hydrostatics]] as [[Archimedes' Principle]]. This states that a body immersed in a fluid experiences a buoyant force equal to the weight of the displaced fluid.<ref>{{cite web | title = ''Archimedes' Principle''|first=Bradley W |last=Carroll |publisher=[[Weber State University]] | url =http://www.physics.weber.edu/carroll/Archimedes/principle.htm|accessdate=2007-07-23}}</ref>
+
+[[Image:Archimedes screw.JPG|thumb|right|The [[Archimedes' screw]] was operated by hand and could raise water efficiently]]
+Another invention bearing his name is the [[Archimedes screw|Archimedes' screw]], a machine with a revolving screw shaped blade inside a cylinder. It was turned by hand, and used to drain ships or transfer water from a {{nowrap|low-lying}} body of water into irrigation [[canal]]s. Versions of the Archimedes' screw are still in use today in developing countries. The Archimedes' screw described in Roman times by Vitruvius may have been an improvement on a screw pump that was used to irrigate the [[Hanging Gardens of Babylon]].<ref>{{cite web | title = ''Sennacherib, Archimedes, and the Water Screw: The Context of Invention in the Ancient World''|author=Dalley, Stephanie. Oleson, John Peter| publisher = ''Technology and Culture'' Volume 44, Number 1, January 2003 (PDF)| url =http://muse.jhu.edu/journals/technology_and_culture/toc/tech44.1.html|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Archimedes Screw - Optimal Design|author=Rorres, Chris| publisher =Courant Institute of Mathematical Sciences | url =http://www.mcs.drexel.edu/~crorres/Archimedes/Screw/optimal/optimal.html |accessdate=2007-07-23}}</ref><ref>{{cite web | title = Watch an animation of an Archimedes' Screw|author=| publisher =[[Wikimedia Commons]] | url =http://commons.wikimedia.org/wiki/Image:Archimedes-screw_one-screw-threads_with-ball_3D-view_animated.gif|accessdate=2007-07-23}}</ref>
+
+While Archimedes did not invent the [[lever]], he wrote the earliest known rigorous explanation of the principle involved. According to [[Pappus of Alexandria]], his work on levers caused him to remark: "Give me a place to stand on, and I will move the Earth." ([[Greek language|Greek]]: "δος μοι που στω και κινω την γην")<ref>Quoted by [[Pappus of Alexandria]] in ''Synagoge'', Book VIII</ref> Plutarch describes how Archimedes designed [[block and tackle]] [[pulley]] systems, allowing sailors to use the principle of [[leverage]] to lift objects that would otherwise have been too heavy to move.<ref>{{cite web | author=Dougherty, F. C.; Macari, J.; Okamoto, C.|title = Pulleys |author= | publisher=[[Society of Women Engineers]] | url = http://www.swe.org/iac/lp/pulley_03.html|accessdate=2007-07-23}}</ref>
+
+A large part of Archimedes' work in engineering arose from fulfilling the needs of his home city of Syracuse. The Greek writer [[Athenaeus|Athenaeus of Naucratis]] described how King Hieron II commissioned Archimedes to design a huge ship, the ''[[Syracusia]]'', which could be used for luxury travel, carrying supplies, and as a naval warship. The ''Syracusia'' is said to have been the largest ship built in classical antiquity. According to Athenaeus, it was capable of carrying 600 people and contained garden decorations, a [[Gymnasium (ancient Greece)|gymnasium]] and a [[temple]] dedicated to the goddess [[Aphrodite]]. Since a ship of this size would leak a considerable amount of water through the hull, the [[Archimedes' Screw]] was purportedly developed in order to remove the [[bilge]] water.<ref>{{cite web | title = The Syracusia Ship|author= Lahanas, Michael| publisher = | url = http://www.mlahanas.de/Greeks/Syracusia.htm|accessdate=2007-07-23}}</ref>
+[[Image:Archimedes Heat Ray conceptual diagram.png|thumb|right|Archimedes may have used [[mirror]]s acting as a [[parabolic reflector]] to burn ships attacking [[Syracuse, Sicily|Syracuse]]]]
+[[Lucian]] wrote that during the [[Siege of Syracuse (212 BC)|Siege of Syracuse]] (''c.'' 214-212 [[BC]]), Archimedes repelled an attack by [[Ancient Rome|Roman]] forces with a [[burning glass]].<ref>''Hippias'', C.2.</ref> The device was used to focus sunlight on to the approaching ships, causing them to catch fire. This claim, sometimes called the "Archimedes death ray", has been the subject of ongoing debate about its credibility since the [[Renaissance]].<ref>{{cite web | title = Archimedes and his Burning Mirrors|author= Lahanas, Michael| publisher = | url = http://www.mlahanas.de/Greeks/Mirrors.htm|accessdate=2007-07-23}}</ref> [[René Descartes]] rejected it as false, while modern researchers have attempted to recreate the effect using only the means that would have been available to Archimedes.
+
+It has been suggested that a large array of highly polished [[bronze]] or [[copper]] shields acting as [[mirror]]s could have been employed to focus sunlight on to a ship. This would have used the principle of the [[parabolic reflector]] in a manner similar to a [[solar furnace]]. In October 2005 a group of students from the [[Massachusetts Institute of Technology]] carried out an experiment with 127 one foot (30&nbsp;cm) square mirror tiles, focused on a {{nowrap|mocked-up}} wooden ship at a range of around 100&nbsp;feet (30&nbsp;m). Flames broke out on a patch of the ship, but only after the sky had been cloudless and the ship had remained stationary for around ten minutes. It was concluded that the weapon was a feasible device under these conditions. The MIT group repeated the experiment for the television show ''[[MythBusters]]'', using a wooden fishing boat in [[San Francisco]] as the target. Again some charring occurred, along with a small amount of flame. When ''Mythbusters'' broadcast the result of the San Francisco experiment in January 2006, the claim was placed in the category of "busted" due to the length of time and ideal weather conditions required for combustion to occur. Critics of the MIT experiments have argued that the moisture content of the wood needs to be taken into consideration. However, the [[flash point]] of wood is around 300 degrees [[Celsius]] (572 degrees [[Fahrenheit]]), and this is hotter than the maximum temperature produced by domestic [[oven]]s.<ref>{{cite web | title = How Wildfires Work|author= Bonsor, Kevin| publisher = [[HowStuffWorks]]| url = http://science.howstuffworks.com/wildfire.htm|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Archimedes Death Ray: Idea Feasibility Testing|author= | publisher = [[MIT]]| url = http://web.mit.edu/2.009/www//experiments/deathray/10_ArchimedesResult.html|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Archimedes Death Ray: Testing with MythBusters|author= | publisher = MIT| url = http://web.mit.edu/2.009/www//experiments/deathray/10_Mythbusters.html|accessdate=2007-07-23}}</ref>
+
+A similar test of the "Archimedes death ray" was carried out in 1973 by the Greek scientist Ioannis Sakkas. The experiment took place at the [[Skaramagas]] naval base outside [[Athens]]. On this occasion 70 mirrors were used, each with a copper coating and a size of around five by three feet (1.5 by 1&nbsp;m). The mirrors were pointed at a [[plywood]]  {{nowrap|mock-up}} of a Roman warship at a distance of around 160&nbsp;feet (50&nbsp;m). When the mirrors were focused accurately, the ship burst into flames within a few seconds. The plywood ship had a coating of [[bitumen|tar]] paint, which is [[flammable]] and may have aided combustion.<ref>{{cite web | title = Archimedes' Weapon| publisher = [[Time Magazine]]|date = [[November 26]], [[1973]]| url = http://www.time.com/time/magazine/article/0,9171,908175,00.html?promoid=googlep|accessdate=2007-08-12}}</ref>
+
+The [[Claw of Archimedes]] is another weapon that he is said to have designed in order to defend the city of Syracuse. Also known as "the ship shaker", the claw consisted of a crane-like arm from which a large metal [[grappling hook]] was suspended. When the claw was dropped on to an attacking ship the arm would swing upwards, lifting the ship out of the water and possibly sinking it. As with the "Archimedes death ray" there have been modern experiments to test the feasibility of the claw, and in 2005 a television documentary entitled ''Superweapons of the Ancient World'' built a version of the claw and concluded that it was a workable device.<ref>{{cite web |first=Chris |last=Rorres | title = Archimedes' Claw - Illustrations and Animations - a range of possible designs for the claw| publisher = Courant Institute of Mathematical Sciences | url = https://www.math.nyu.edu/~crorres/Archimedes/Claw/illustrations.html|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Archimedes' Claw - watch an animation|first=Bradley W |last=Carroll | publisher = Weber State University| url = http://physics.weber.edu/carroll/Archimedes/claw.htm|accessdate=2007-08-12}}</ref>
+
+Archimedes has also been credited with improving the power and accuracy of the [[catapult]], and with inventing the [[odometer]] during the [[First Punic War]]. The odometer was described as a [[cart]] with a [[gear]] mechanism that dropped a ball into a container after each [[mile]] traveled.<ref>{{cite web | title = Gears by Archimedes|author= Lahanas, Michael| publisher = | url = http://www.mlahanas.de/Greeks/ArchimedesGears.htm|accessdate=2007-07-23}}</ref>
+
+[[Cicero]] wrote that after the capture of Syracuse, General [[Marcus Claudius Marcellus|Marcellus]] took two mechanical devices back to [[Ancient Rome|Rome]] that were used as aids in [[astronomy]]. He credits [[Thales]] and [[Eudoxus of Cnidus]] with constructing these devices. The motions of the [[Sun]], [[Moon]] and five [[planets]] were shown by one device, and it was demonstrated to Cicero some 150 years later by a man named Gallus. Cicero described the event as follows:
+
+{{cquote|''Hanc sphaeram Gallus cum moveret, fiebat ut soli luna totidem conversionibus in aere illo quot diebus in ipso caelo succederet, ex quo et in caelo sphaera solis fieret eadem illa defectio, et incideret luna tum in eam metam quae esset umbra terrae, cum sol e regione.'' — When Gallus moved the globe, it happened that the Moon followed the Sun by as many turns on that bronze contrivance as in the sky itself, from which also in the sky the Sun's globe became to have that same eclipse, and the Moon came then to that position which was its shadow on the Earth, when the Sun was in line.<ref>{{cite web | title = ''de Re Publica''|author= [[Cicero]]| publisher =thelatinlibrary.com | url = http://www.thelatinlibrary.com/cicero/repub1.shtml#21|accessdate=2007-07-23}}</ref>}}
+
+The device described by Cicero is a [[planetarium]] or [[orrery]]. [[Pappus of Alexandria]] stated that Archimedes had written a manuscript (now lost) on the construction of these devices entitled {{nowrap|''[[On Sphere-Making]]''}}. Modern research in this area has been focused on the [[Antikythera mechanism]], another device from [[classical antiquity]] that was probably designed for the same purpose. Constructing devices of this kind would have required a sophisticated knowledge of [[gear|differential gearing]]. This was once thought to have been beyond the range of the [[technology]] available in ancient times, but the discovery of the Antikythera mechanism in 1902 has confirmed that devices of this kind were known to the [[Ancient Greece|ancient Greeks]].<ref>{{cite web | title = Spheres and Planetaria |first=Chris |last=Rorres | publisher = Courant Institute of Mathematical Sciences | url = https://www.math.nyu.edu/~crorres/Archimedes/Sphere/SphereIntro.html|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Ancient Moon 'computer' revisited|author= | publisher = BBC News|date = [[November 29]], [[2006]]| url = http://news.bbc.co.uk/1/hi/sci/tech/6191462.stm|accessdate=2007-07-23}}</ref>
+
+==Mathematics==
+While he is often regarded as a designer of mechanical devices, Archimedes also made contributions to the field of [[mathematics]]. [[Plutarch]] wrote: “He placed his whole affection and ambition in those purer speculations where there can be no reference to the vulgar needs of life.”<ref>{{cite web | title = Extract from ''Parallel Lives''|author= [[Plutarch]]| publisher = fullbooks.com| url = http://www.fullbooks.com/Plutarch-s-Lives10.html|accessdate=2007-08-07}}</ref>
+[[Image:Archimedes pi.svg|thumb|right|Archimedes used the [[method of exhaustion]] to approximate the value of [[Pi|π]]]]
+Archimedes was able to use [[infinitesimals]] in a way that is similar to modern [[integral calculus]]. By assuming a proposition to be true and showing that this would lead to a [[contradiction]], he could give answers to problems to an arbitrary degree of accuracy, while specifying the limits within which the answer lay. This technique is known as the [[method of exhaustion]], and he employed it to approximate the value of [[Pi|π]] (Pi). He did this by drawing a larger [[polygon]] outside a [[circle]], and a smaller polygon inside the circle. As the number of sides of the polygon increases, it becomes a more accurate approximation of a circle. When the polygons had 96 sides each, he calculated the lengths of their sides and showed that the value of π lay between {{nowrap|3 + 1/7}} (approximately 3.1429) and {{nowrap|3 + 10/71}} (approximately 3.1408). This was a remarkable achievement, since the ancient [[Greek numerals]] did not use the [[positional notation]] system of today. He also proved that the [[area]] of a circle was equal to π multiplied by the [[square (geometry)|square]] of the [[radius]] of the circle.
+
+In ''The Measurement of a Circle'', Archimedes gives the value of the [[square root]] of 3 as being more than {{nowrap|265/153}} (approximately 1.732) and less than {{nowrap|1351/780}} (approximately 1.7320512). The modern value is around 1.7320508076, making this a very accurate estimate. He introduced this result without offering any explanation of the method used to obtain it. This aspect of the work of Archimedes caused [[John Wallis]] to remark that he was: "as it were of set purpose to have covered up the traces of his investigation as if he had grudged posterity the secret of his method of inquiry while he wished to extort from them assent to his results."<ref>Quoted in [[T L Heath]], ''Works of Archimedes'', Dover Publications, ISBN 0-486-42084-1.</ref>
+<div style="float:right;padding:5px;text-align:center">[[Image:Parabola-and-inscribed triangle text.png]]<br /></div>
+In ''[[The Quadrature of the Parabola]]'', Archimedes proved that the area enclosed by a [[parabola]] and a straight line is {{nowrap|4/3}} multiplied by the area of a [[triangle (geometry)|triangle]] with equal base and height.
+
+He expressed the solution to the problem as a [[geometric progression]] that summed to [[infinity]] with the [[ratio]] {{nowrap|1/4}}:
+
+:<math> \sum_{n=0}^\infty 4^{-n} = 1 + 4^{-1} + 4^{-2} + 4^{-3} + \cdots = {4\over 3} \; . </math>
+
+If the first term in this series is the area of the triangle, then the second is the sum of the areas of two triangles whose bases are the two smaller [[secant line]]s, and so on. This [[mathematical proof|proof]] is a variation of the [[infinite series]] {{nowrap|[[1/4 + 1/16 + 1/64 + 1/256 + · · ·]]}} which sums to {{nowrap|1/3}}.
+
+In ''[[The Sand Reckoner]]'', Archimedes set out to calculate the number of grains of [[sand]] that the [[universe]] could contain. In doing so, he challenged the notion that the number of grains of sand was too large to be counted. He wrote: "There are some, King Gelon (Gelon II, son of [[Hieron II]]), who think that the number of the sand is infinite in multitude; and I mean by the sand not only that which exists about Syracuse and the rest of Sicily but also that which is found in every region whether inhabited or uninhabited." To solve the problem, Archimedes devised a system of counting based around the [[myriad]]. This was a word used to mean [[infinity]], based on the Greek word for uncountable, ''murious''. The word myriad was also used to denote the number 10,000. He proposed a number system using powers of myriad myriads (100 million) and concluded that the number of grains of sand required to fill the universe would be 8{{e|63}} in modern notation.<ref>{{cite web | title = The Sand Reckoner |first=Bradley W |last=Carroll | publisher = Weber State University| url = http://physics.weber.edu/carroll/Archimedes/sand.htm|accessdate=2007-07-23}}</ref>
+
+==Writings by Archimedes==
+[[Image:Archimedes lever (Small).jpg|thumb|right|Archimedes is said to have remarked about the [[lever]]: "''Give me a place to stand on, and I will move the Earth.''"]]
+* ''On the Equilibrium of Planes'' (Two volumes)
+: The first book is in fifteen propositions with seven [[postulate]]s, while the second book is in ten propositions. In this work Archimedes explains the ''Law of the Lever'', stating:
+
+{{cquote|Equal weights at equal distances are in equilibrium, and equal weights at unequal distances are not in equilibrium but incline towards the weight which is at the greater distance.}}
+
+:Archimedes uses the principles derived to calculate the [[area (geometry)|areas]] and [[center of mass|centers of gravity]] of various geometric figures including [[triangle (geometry)|triangles]], [[paraboloid]]s, and [[sphere|hemispheres]].
+* ''On the Measurement of the Circle''
+:This is a short work consisting of three propositions. It is written in the form of a correspondence with Dositheus of Pelusium, who was a student of [[Conon of Samos]]. In Proposition II, Archimedes shows that the value of [[π]] (Pi) is greater than {{nowrap|223/71}} and less than {{nowrap|22/7}}. The latter figure was used as an approximation of π throughout the [[Middle Ages]] and is still used today when a rough figure is required.
+* ''On Spirals''
+{{main|Archimedean spiral}}
+:This work of 28 propositions is also addressed to Dositheus. The treatise defines what is now called the Archimedean spiral. It is the [[locus (mathematics)|locus]] of points corresponding to the locations over time of a point moving away from a fixed point with a constant speed along a line which rotates with constant [[angular velocity]]. Equivalently, in [[coordinates (elementary mathematics)|polar coordinates]] (''r'', &theta;) it can be described by the equation
+
+:<math>\, r=a+b\theta</math>
+
+:with [[real numbers]] ''a'' and ''b''. This is an early example of a [[mechanical curve]] (a curve traced by a moving [[point (geometry)|point]]) considered by a Greek mathematician.
+* ''On the Sphere and the Cylinder'' (Two volumes)
+:In this treatise addressed to Dositheus, Archimedes obtains the result of which he was most proud, namely the relationship between a [[sphere]] and a [[circumscribe]]d [[cylinder (geometry)|cylinder]] of the same height and [[diameter]]. The volume is '''4/3πr³''' for the sphere, and '''2πr³''' for the cylinder; the surface area is '''4πr²''' for the sphere, and '''6πr²''' for the cylinder. Archimedes therefore shows that the sphere will have two thirds of the volume and surface area of the cylinder. A carving of this proof was used on the tomb of Archimedes at his request.
+* ''On Conoids and Spheroids''
+:A work in 32 propositions addressed to Dositheus. In this treatise Archimedes calculates the areas and volumes of [[cross section (geometry)|sections]] of [[cone]]s, spheres, and paraboloids.
+* ''On Floating Bodies'' (Two volumes)
+:In the first part of this treatise, Archimedes spells out the law of [[equilibrium]] of fluids, and proves that water will adopt a spherical form around a center of gravity. This may have been an attempt at explaining the theory of contemporary Greek astronomers such as [[Eratosthenes]] that the Earth is round. The fluids described by Archimedes are not {{nowrap|self-gravitating}}, since he assumes the existence of a point towards which all things fall in order to derive the spherical shape.
+[[Image:Archimedes greece 1983.png|thumb|right|Archimedes is commemorated on a Greek postage stamp from 1983]]
+:In the second part, he calculates the equilibrium positions of [[cross section (geometry)|sections]] of paraboloids. This was probably an idealization of the shapes of ships' hulls. Some of his sections float with the base under water and the summit above water, similar to the way that [[iceberg]]s float. Archimedes' principle of [[buoyancy]] is given in the work, stated as follows: {{cquote|Any body wholly or partially immersed in a fluid experiences an upthrust equal to, but opposite in sense to, the weight of the fluid displaced.}}
+* ''The Quadrature of the Parabola''
+{{main|The Quadrature of the Parabola}}
+:A work of 24 propositions addressed to Dositheus. In this treatise Archimedes proves by two methods that the area enclosed by a [[parabola]] and a straight line is {{nowrap|4/3}} multiplied by the area of a [[triangle (geometry)|triangle]] with equal base and height. He achieves this by calculating the value of a [[geometric progression]] that sums to infinity with the [[ratio]] {{nowrap|1/4}}.
+* ''Stomachion''
+:This is a [[dissection puzzle]] similar to a [[Tangram]], and the treatise describing it was found in more complete form in the [[Archimedes Palimpsest]]. Archimedes calculates the areas of the 14 pieces which can be assembled to form a [[square (geometry)|square]]. Research published by Dr. Reviel Netz of [[Stanford University]] in 2003 argued that Archimedes was attempting to determine how many ways the pieces of paper could be assembled into the shape of a square. The figure given by Dr. Netz is that the pieces can be made into a square in 17,152 ways. The number of arrangements is 536 when solutions that are equivalent by rotation and reflection have been excluded. The ''Stomachion'' represents an example of an early problem in [[combinatorics]]. For reasons that are unclear, ''Stomachion'' is derived from the [[Greek language|Greek]] word for stomach, στομάχ.<ref>{{cite web | title = In Archimedes' Puzzle, a New Eureka Moment|author= Kolata, Gina| publisher =[[New York Times]] |date = [[December 14]], [[2003]]| url = http://query.nytimes.com/gst/fullpage.html?res=9D00E6DD133CF937A25751C1A9659C8B63&sec=&spon=&pagewanted=all|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Stomachion|author= | publisher =[[MathWorld]] | url = http://mathworld.wolfram.com/Stomachion.html|accessdate=2007-08-01}}</ref>
+* ''Archimedes' Cattle Problem''
+{{main|Archimedes' Cattle Problem}}
+:This work was discovered by [[Gotthold Ephraim Lessing]] in a Greek manuscript containing a poem of 44 lines, in the Herzog August Library in [[Wolfenbüttel]], [[Germany]] in 1773. It is addressed to Eratosthenes and the mathematicians at the [[University of Alexandria]]. Archimedes challenges them to count the numbers of cattle in the Herd of the Sun by solving a number of simultaneous [[Diophantine equation]]s. There is a more difficult version of the problem in which some of the answers are required to be [[square numbers]]. This version of the problem was first solved by a [[computer]] in 1965, and the answer is a very large number, approximately 7.760271{{e|206544}}.<ref>{{cite web | title =Archimedes' Cattle Problem |author= | publisher =MathWorld | url =http://mathworld.wolfram.com/ArchimedesCattleProblem.html |accessdate=2007-07-23}}</ref>
+* ''The Sand Reckoner''
+{{main|The Sand Reckoner}}
+:In this treatise, Archimedes counts the number of grains of sand that will fit inside the [[universe]]. This book mentions the [[heliocentric]] theory of the [[solar system]] proposed by [[Aristarchus of Samos]] (concluding that "this is impossible") , contemporary ideas about the size of the Earth and the distance between various celestial bodies. By using a system of numbers based on powers of the [[myriad]], Archimedes concludes that the number of grains of sand required to fill the universe is 8{{e|63}} in modern notation. The introductory letter contains the information that Archimedes' father was an astronomer named Phidias. ''The Sand Reckoner'' or ''Psammites'' is the only surviving work in which Archimedes discusses his views on [[astronomy]].<ref>{{cite web | title =English translation of ''The Sand Reckoner'' |author= | publisher = [[University of Waterloo]]| url = http://www.math.uwaterloo.ca/navigation/ideas/reckoner.shtml|accessdate=2007-07-23}}</ref>
+* ''The Method of Mechanical Theorems''
+:This treatise was thought lost until the discovery of the [[Archimedes Palimpsest]] in 1906. In this work Archimedes uses [[Archimedes' use of infinitesimals|infinitesimals]], and shows how breaking up a figure into an infinite number of infinitely small parts can be used to determine its area or volume. Archimedes may have considered this method lacking in formal rigor, so he also used the [[method of exhaustion]] to derive the results. As with ''The Cattle Problem'', ''The Method of Mechanical Theorems'' was written in the form of a letter to Eratosthenes in [[Alexandria]].
+
+===Apocryphal works===
+''Archimedes' Book of Lemmas'' or ''Liber Assumptorum'' is a treatise containing fifteen propositions on the nature of circles. The earliest known copy of the text is in [[Arabic]]. The scholars [[T. L. Heath]] and [[Marshall Clagett]] argued that it cannot have been written by Archimedes in its current form. Archimedes is quoted in the work, suggesting modification by another author. The ''Lemmas'' may be based on an earlier work by Archimedes that is now lost.<ref>{{cite web | title = Archimedes' Book of Lemmas|author=| publisher = [[cut-the-knot]]| url = http://www.cut-the-knot.org/Curriculum/Geometry/BookOfLemmas/index.shtml|accessdate= 2007-08-07}}</ref>
+
+It has also been claimed by the Arab scholar Abu'l Raihan Muhammed al-Biruni that [[Heron's formula]] for calculating the area of a [[triangle (geometry)|triangle]] from the length of its sides was known to Archimedes. {{Ref_label|C|c|none}} However, the first reliable reference to the formula is given by [[Heron of Alexandria]] in the [[1st century]] [[AD]].<ref>{{cite web | title = Heron's Formula|author= | publisher = MathWorld| url = http://mathworld.wolfram.com/HeronsFormula.html|accessdate=2007-07-23}}</ref>
+
+==The Archimedes Palimpsest==
+[[Image:Stomachion.JPG|thumb|right|''Stomachion'' is a [[dissection puzzle]] in the [[Archimedes Palimpsest]]]]
+{{main|Archimedes Palimpsest}}
+The written work of Archimedes has not survived as well as that of [[Euclid]], and seven of his treatises are known to exist only through references made to them by other authors. [[Pappus of Alexandria]] mentions ''[[On Sphere-Making]]'' and another work on [[polyhedron|polyhedra]], while [[Theon of Alexandria]] quotes a remark about [[refraction]] from the {{nowrap|now-lost}} ''Catoptrica''.{{Ref_label|B|b|none}} The writings of Archimedes were collected by the [[Byzantine]] [[architect]] [[Isidore of Miletus]] (''c''. 530 [[AD]]), while translations into [[Arabic]] and [[Latin]] made during the [[Middle Ages]] helped to keep his work alive.<ref>{{cite web | title =Archimedes Sources |author= Lahanas, Michael| publisher = | url = http://www.mlahanas.de/Greeks/ArchimedesSources.html|accessdate=2007-07-23}}</ref> Archimedes' work was translated into Arabic by [[Thābit ibn Qurra]] (836-901 AD), and Latin by [[Gerard of Cremona]] (''c.'' 1114-1187 AD). During the [[Renaissance]], the ''Editio Princeps'' (First Edition) was published in [[Basel]] in 1544 by Johann Herwagen and contained the works of Archimedes in [[Greek language|Greek]] and [[Latin]].<ref>{{cite web | title = Editions of Archimedes' Work|author= | publisher = Brown University Library| url = http://www.brown.edu/Facilities/University_Library/exhibits/math/wholefr.html|accessdate=2007-07-23}}</ref> Around the year 1586 [[Galileo Galilei]] invented a hydrostatic balance for weighing metals in air and water after apparently being inspired by the work of Archimedes.<ref>{{cite web | title = Hydrostatic balance|author= Van Helden, Albert| publisher = | url = http://cnx.org/content/m12127/latest/|accessdate=2007-07-23}}</ref>
+
+The foremost document containing Archimedes' work is the [[Archimedes Palimpsest]]. A [[palimpsest]] is a document written on [[vellum]] that has been {{nowrap|re-used}} by scraping off the ink of an older text and writing new text in its place. This was often done during the Middle Ages since animal skin parchments were expensive. In 1906, the [[Denmark|Danish]] professor [[Johan Ludvig Heiberg]] realized that a goatskin parchment containing prayers written in the [[13th century AD]] also carried an older work written in the [[10th century AD]], which he identified as previously unknown copies of works by Archimedes. The parchment spent hundreds of years in a monastery library in [[Constantinople]] before being sold to a private collector in the 1920s. On [[October 29]], [[1998]] it was sold at auction to an anonymous buyer for $2 million at [[Christie's]] in [[London]]. The palimpsest contains seven treatises, including the only surviving copy of ''On Floating Bodies'' in the original Greek. It contains the only known source of the ''Method of Mechanical Theorems'', referred to by Suidas and thought to have been lost forever. ''Stomachion'' was also discovered in the palimpsest, containing a more complete analysis of the puzzle than had been found in previous texts. The palimpsest is now stored at the [[Walters Art Museum]] in [[Baltimore]], [[Maryland]], where it has been subjected to a range of modern tests including the use of [[ultraviolet]] and {{nowrap|[[x-ray]]}} [[light]] to read the overwritten text.<ref>{{cite web | title = X-rays reveal Archimedes' secrets|author= | publisher = BBC News|date = [[August 2]], [[2006]]| url = http://news.bbc.co.uk/1/hi/sci/tech/5235894.stm|accessdate=2007-07-23}}</ref>
+
+The treatises contained in the Archimedes Palimpsest are: ''On the Equilibrium of Planes, On Spirals, The Measurement of the Circle, On the Sphere and the Cylinder, On Floating Bodies, The Method of Mechanical Theorems'' and ''Stomachion''.
+
+==Legacy==
+[[Image:FieldsMedalFront.jpg|thumb|right|The [[Fields Medal]] carries a portrait of Archimedes]]
+There is a [[impact crater|crater]] on the [[Moon]] named [[Archimedes (crater)|Archimedes]] (29.7° N, 4.0° W) in his honor, and a lunar mountain range, the [[Montes Archimedes]] (25.3° N, 4.6° W).
+
+The [[Fields Medal]] for outstanding achievement in [[mathematics]] carries a portrait of Archimedes, along with his [[mathematical proof|proof]] concerning the sphere and the cylinder. The [[inscription]] around the head of Archimedes is a quote attributed to him which reads in [[Latin]]: ''Transire suum pectus mundoque potiri'' (Rise above oneself and grasp the world).<ref>{{cite web | title = Fields Medal|author= | publisher = MathWorld| url = http://mathworld.wolfram.com/FieldsMedal.html|accessdate=2007-07-23}}</ref><ref>{{cite web | title = Fields Medal|author= | publisher =[[International Mathematical Union]] | url =http://www.mathunion.org/medals/Fields/AboutPhotos.html |accessdate=2007-07-23}}</ref>
+
+Archimedes has appeared on [[postage stamp]]s issued by [[East Germany]] (1973), [[Greece]] (1983), [[Italy]] (1983), [[Nicaragua]] (1971), [[San Marino]] (1982) and [[Spain]] (1963). <ref>{{cite web |first=Chris |last=Rorres | url = http://math.nyu.edu/~crorres/Archimedes/Stamps/stamps.html | title = Stamps of Archimedes| publisher = Courant Institute of Mathematical Sciences | accessdate = 2007-08-25 }}</ref>
+ 
+The exclamation of [[Eureka (word)|Eureka!]] attributed to Archimedes is the state [[motto]] of [[California]]. In this instance the word refers to the discovery of gold near [[Sutter's Mill]] in 1848 which sparked the [[California gold rush]].
+
+==See also==
+<div style="-moz-column-count:2; column-count:2;">
+* [[Axiom of Archimedes|Archimedes' Axiom]]
+* [[Archimedes number]]
+* [[Archimedes Paradox]]
+* [[Archimedean property]]
+* [[Archimedean solid]]
+* [[Archimedes' use of infinitesimals]]
+* [[Zhang Heng]]
+</div>
+
+==Notes and references==
+===Notes===
+'''a.''' {{Note_label|A|a|none}}In the preface to ''On Spirals'' addressed to Dositheus of Pelusium, Archimedes says that "many years have elapsed since Conon's death." [[Conon of Samos]] lived {{nowrap|''c.'' 280-220 BC}}, suggesting that Archimedes may have been an older man when writing some of his works.
+
+'''b.''' {{Note_label|B|b|none}}The treatises by Archimedes known to exist only through references in the works of other authors are: ''[[On Sphere-Making]]'' and a work on polyhedra mentioned by Pappus of Alexandria; ''Catoptrica'', a work on optics mentioned by [[Theon of Alexandria]]; ''Principles'', addressed to Zeuxippus and explaining the number system used in ''[[The Sand Reckoner]]''; ''On Balances and Levers''; ''On Centers of Gravity''; ''On the Calendar''. Of the surviving works by Archimedes, [[T. L. Heath]] offers the following suggestion as to the order in which they were written: ''On the Equilibrium of Planes I'', ''The Quadrature of the Parabola'', ''On the Equilibrium of Planes II'', ''On the Sphere and the Cylinder I, II'', ''On Spirals'', ''On Conoids and Spheroids'', ''On Floating Bodies I, II'', ''On the Measurement of a Circle'', ''The Sand Reckoner''.
+
+'''c.'''{{Note_label|C|c|none}}[[Carl Benjamin Boyer|Boyer, Carl Benjamin]] ''A History of Mathematics'' (1991) ISBN 0471543977 "Arabic scholars inform us that the familiar area formula for a triangle in terms of its three sides, usually known as Heron's formula - k=sqrt(s(s-a)(s-b)(s-c)), where s is the semiperimeter - was known to Archimedes several centuries before Heron lived. Arabic scholars also attribute to Archimedes the 'theorem on the broken [[chord (geometry)|chord]]' [...] Archimedes is reported by the Arabs to have given several proofs of the theorem."
+
+===References===
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+<references/>
+</div>
+
+==Further reading==
+* [[E. J. Dijksterhuis|Dijksterhuis, E.J.]], ''Archimedes'', 1987, Princeton University Press, Princeton, ISBN 0-691-08421-1. Republished translation of the 1938 study of Archimedes and his works by an historian of science.
+* Gow, Mary, ''Archimedes: Mathematical Genius of the Ancient World'', 2005, Enslow Publishers, Inc, ISBN 0-7660-2502-0
+* Hasan, Heather, ''Archimedes: The Father of Mathematics'', 2005, Rosen Central, ISBN 978-1404207745
+* [[T L Heath|Heath, T.L.]], ''Works of Archimedes'', 1897, Dover Publications, ISBN 0-486-42084-1. Complete works of Archimedes in English.
+* Netz, Reviel and Noel, William ''The Archimedes Codex'', 2007, Orion Publishing Group, ISBN 0-297-64547-1
+* Simms, Dennis L., ''Archimedes the Engineer'', 1995, Continuum International Publishing Group Ltd , ISBN 0-720-12284-8
+* Stein, Sherman, ''Archimedes: What Did He Do Besides Cry Eureka?'', 1999, Mathematical Association of America, ISBN 0-88385-718-9
+
+== External links ==
+{{Commonscat|Archimedes}}
+{{wikiquote}}
+*[http://www.bbc.co.uk/radio4/history/inourtime/inourtime_20070125.shtml Archimedes—The Greek mathematician and his Eureka moments]—BBC Radio 4 discussion from ''[[In Our Time (BBC Radio 4)|In Our Time]]'', broadcast [[January 25]], [[2007]] (requires [[RealPlayer]])
+*[http://www.archimedespalimpsest.org/ The Archimedes Palimpsest project at The Walters Art Museum in Baltimore, Maryland]
+*[http://www.thewalters.org/archimedes/frame.html New techniques used to examine the Archimedes Palimpsest]
+*[http://www.pbs.org/wgbh/nova/archimedes/palimpsest.html NOVA program on the Archimedes Palimpsest]
+* [http://news.bbc.co.uk/1/hi/technology/6591221.stm New commentary on Aristotle found by researchers in Archimedes Palimpsest] BBC News [[April 27]], [[2007]]
+*[http://www.math.nyu.edu/~crorres/Archimedes/contents.html Archimedes Home Page] - Site maintained by Chris Rorres at the [[Courant Institute of Mathematical Sciences]]
+*[http://www.math.nyu.edu/~crorres/Archimedes/Crown/CrownIntro.html Archimedes—The Golden Crown] argues that Archimedes may have used a more subtle method than the one in the classic version of the story
+*[http://www.dctech.com/eureka/archimedes/crown/ ''Archimedes and the Crown''] Illustrated version of the story by Doug Craigen
+*[http://mathdb.org/articles/archimedes/e_archimedes.htm The Mathematical Achievements and Methodologies of Archimedes]
+*[http://www.mathpages.com/home/kmath038.htm Article examining how Archimedes may have calculated the square root of 3]
+*[http://www.math.ubc.ca/~cass/archimedes/parabola.html Archimedes' ''Quadrature Of The Parabola''] Translated by [[T. L. Heath]]
+*[http://www.math.ubc.ca/~cass/archimedes/circle.html Archimedes' ''On The Measurement Of The Circle''] Translated by T. L. Heath
+*[http://www.archive.org/details/worksofarchimede029517mbp ''The Works Of Archimedes'' (1897) by T. L. Heath] Download the unabridged work from [[Archive.org]] in PDF form (19&nbsp;MB)
+*{{gutenberg author|id=Archimedes|name=Archimedes}}
+*[http://www.cs.drexel.edu/~crorres/bbc_archive/mirrors_sailors_sakas.jpg Photograph of the Sakkas experiment in 1973]
+*[http://www.cs.drexel.edu/~crorres/bbc_archive/rorres_claw_v2.jpg Diagram of the Claw of Archimedes]
+*[http://agutie.homestead.com/files/rhombicubocta.html Archimedes and the Rhombicuboctahedron] by Antonio Gutierrez from Geometry Step by Step from the Land of the Incas
+*[http://www.archimedesclock.gr/ The Archimedes Water Clock and other examples of ancient technology]
+* [http://www.idsia.ch/~juergen/archimedes.html Archimedes—The Greatest Scientist Ever] Article by [[Jürgen Schmidhuber]]
+
+{{Ancient_Greece}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+
+{{Persondata
+|NAME=Archimedes
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=ancient Greek mathematician, physicist and engineer
+|DATE OF BIRTH=circa 287 BC
+|PLACE OF BIRTH=[[Syracuse, Sicily]], [[Magna Graecia]]
+|DATE OF DEATH=circa 212 BC
+|PLACE OF DEATH=[[Syracuse, Sicily]], [[Magna Graecia]]
+}}
+[[Category:Archimedes|*]]
+[[Category:287 BC births]]
+[[Category:212 BC deaths]]
+[[Category:People from Syracuse (city), Sicily]]
+[[Category:Ancient Greek engineers]]
+[[Category:Ancient Greek inventors]]
+[[Category:Ancient Greek mathematicians]]
+[[Category:Ancient Greek physicists]]
+[[Category:Hellenistic philosophers]]
+[[Category:Sicilian Greeks]]
+[[Category:Sicilian mathematicians|Archimedes]]
+[[Category:Sicilian scientists|Archimedes]]
+[[Category:Murdered scientists]]
+[[Category:Geometers]]
+[[Category:Greek murder victims]]
+[[Category:People with craters of the Moon named after them]]
+
+{{Link FA|it}}
+[[af:Archimedes]]
+[[ar:أرخميدس]]
+[[bn:আর্কিমিডিস]]
+[[zh-min-nan:Archimedes]]
+[[map-bms:Archimedes]]
+[[be-x-old:Архімэд]]
+[[bs:Arhimed]]
+[[br:Arc'himedes]]
+[[bg:Архимед]]
+[[ca:Arquimedes]]
+[[cs:Archimédés]]
+[[cy:Archimedes]]
+[[da:Arkimedes]]
+[[de:Archimedes]]
+[[et:Archimedes]]
+[[el:Αρχιμήδης]]
+[[es:Arquímedes]]
+[[eo:Arkimedo]]
+[[eu:Arkimedes]]
+[[fa:ارشمیدس]]
+[[fr:Archimède]]
+[[gd:Archimedes]]
+[[gl:Arquimedes]]
+[[ko:아르키메데스]]
+[[hi:आर्किमिडिज़]]
+[[hr:Arhimed]]
+[[io:Archimede]]
+[[id:Archimedes]]
+[[ia:Archimedes]]
+[[is:Arkímedes]]
+[[it:Archimede]]
+[[he:ארכימדס]]
+[[jv:Archimedes]]
+[[ka:არქიმედე]]
+[[ku:Archimedes]]
+[[la:Archimedes]]
+[[lv:Arhimēds]]
+[[lb:Archimedes]]
+[[lt:Archimedas]]
+[[hu:Arkhimédész]]
+[[mk:Архимед]]
+[[ml:ആര്‍ക്കിമിഡീസ്‌]]
+[[mt:Arkimede]]
+[[nl:Archimedes]]
+[[ja:アルキメデス]]
+[[no:Arkimedes]]
+[[nn:Arkimedes]]
+[[pms:Archimede]]
+[[pl:Archimedes]]
+[[pt:Arquimedes]]
+[[ro:Arhimede]]
+[[ru:Архимед]]
+[[sco:Archimedes]]
+[[sq:Arkimedi]]
+[[scn:Archimedi]]
+[[simple:Archimedes]]
+[[sk:Archimedes]]
+[[sl:Arhimed]]
+[[sr:Архимед]]
+[[sh:Arhimed]]
+[[su:Archimedes]]
+[[fi:Arkhimedes]]
+[[sv:Arkimedes]]
+[[tl:Archimedes]]
+[[th:อาร์คิมิดีส]]
+[[vi:Archimedes]]
+[[tg:Архимед]]
+[[tr:Arşimet]]
+[[uk:Архімед]]
+[[ur:ارشمیدس]]
+[[diq:Archimedes]]
+[[zh:阿基米德]]

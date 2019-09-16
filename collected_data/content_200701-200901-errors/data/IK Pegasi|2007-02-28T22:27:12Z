@@ -1,0 +1,88 @@
+{{Starbox begin
+| name=IK Pegasi }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|21|26|26.6624}}
+| dec={{DEC| +19|22|32.304}}
+| appmag_v=6.078
+| constell=[[Pegasus (constellation)|Pegasus]] }}
+{{Starbox character
+| class=A8m:<ref name="apj221">{{cite journal | last = Kurtz | first = D. W. | title=Metallicism and pulsation - The marginal metallic line stars | journal=Astrophysical Journal | year=1978 | volume=221 | pages=869-880 | url=http://adsabs.harvard.edu/abs/1978ApJ...221..869K }}</ref>/DA
+| b-v=0.22/unknown
+| u-b=0.06/unknown
+| variable=[[Delta Scuti variable|Delta Scuti]] }}
+{{Starbox astrometry
+| radial_v=-11.4
+| prop_mo_ra=80.23
+| prop_mo_dec=17.28
+| parallax=21.72
+| p_error=0.78
+| absmag_v=2.762 }}
+{{Starbox detail
+| mass=1.65<ref name="mnras267">{{cite journal | author=D. Wonnacott, B. J. Kellett, B. Smalley, C. Lloyd | title=Pulsational Activity on Ik-Pegasi | journal=Monthly Notices of the Royal Astronomical Society | year=1994 | volume=267 | issue=4 | pages=1045-1052 | url=http://adsabs.harvard.edu/abs/1994MNRAS.267.1045W }}</ref>/1.15
+| radius=1.6<ref name="mnras267" />/0.0074<ref name="mnras267" />
+| luminosity=?
+| temperature=7,700<ref name="nras278">{{cite journal | author=B. Smalley, K. C. Smith, D. Wonnacott, C. S. Allen | title=The chemical composition of IK Pegasi | journal=Monthly Notices of the Royal Astronomical Society | year=1996 | volume=278 | issue=3 | pages=688-696 | url=http://adsabs.harvard.edu/abs/1996MNRAS.278..688S }}</ref>/?
+| metal=115/? % Sun
+| rotation=?
+| age=5&ndash;60 &times; 10<sup>7</sup><ref name="mnras267" /> }}
+{{Starbox catalog
+| names=V*&nbsp;IK&nbsp;Peg, [[Harvard Revised catalogue|HR&nbsp;8210]], [[Bonner Durchmusterung|BD&nbsp;+18&deg;4794B]], [[Henry Draper catalogue|HD&nbsp;204188]], [[Smithsonian Astrophysical Observatory|SAO&nbsp;107138]], [[Hipparcos catalogue|HIP&nbsp;105860]]. }}
+{{Starbox reference
+| Simbad=V*+IK+Peg }}
+{{Starbox end}}
+'''IK Pegasi''' is a [[spectroscopic binary]] [[star system]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. The primary (IK Pegasi A) is a [[main sequence]], [[spectral class]] A star that displays minor pulsations in luminosity.<ref name="nras278" /> The companion (IK Pegasi B) is a high-temperature [[white dwarf]]; a star that has evolved past the main sequence and is no longer generating energy through [[nuclear fusion]]. The two stars are separated from each other by about 31 million kilometres, or 0.21 [[Astronomical unit]]s: 21% of the average distance between the Earth and the Sun. They orbit around their common [[barycenter]] every 21.7 days.
+
+This is the nearest known [[supernova]] candidate to the [[Solar System]]. When the primary begins to evolve into a [[red giant]], it is expected to share a common gaseous envelope with the white dwarf. The later star will begin to [[Accretion (science)|accrete]] matter from the primary, and, when it approaches the [[Chandrasekhar limit]] of 1.44 [[solar mass]]es, it will explode as a Type Ia supernova.<ref>{{cite news | first=Eugenie | last=Samuel | title=Supernova poised to go off near Earth | publisher=New Scientish | date=May 23, 2002 | url=http://www.newscientist.com/article.ns?id=dn2311 | accessdate=2007-01-18 }}</ref>
+
+==Observation==
+This star system was catalogued in the 1862 ''[[Durchmusterung|Bonn Durchmusterung]]'' ("Bonn astrometric Survey") as BD&nbsp;+18°4794B. It later appeared in [[Edward Charles Pickering|Pickering's]] 1908 ''[[Bright Star Catalogue|Harvard Revised Photometry Catalogue]]'' as HR 8210.<ref>{{cite journal | last = Pickering | first = Edward Charles | title=Revised Harvard photometry : a catalogue of the positions, photometric magnitudes and spectra of 9110 stars, mainly of the magnitude 6.50, and brighter observed with the 2 and 4 inch meridian photometers | journal=Annals of the Astronomical Observatory of Harvard College | year=1908 | volume=50 | pages=182 | url=http://adsabs.harvard.edu/abs/1908AnHar..50....1P }}</ref> The designation "IK Pegasi" follows the expanded form of the [[variable star designation|variable star nomenclature]] introduced by [[Friedrich Wilhelm Argelander|Friedrich W. Argelander]].
+
+Examination of the [[spectrograph]]ic features of this star showed that characteristic [[absorption line]] shift of a binary star system. This shift is created when their orbit carries the members stars toward and then away from the observer, producing a shift in the wavelength of the line features. (See [[redshift]].) The measurement of this shift allows astronomers to determine the relative orbital velocity of at least one of the stars, even when they are unable to resolve the individual components.
+
+In 1927, the Canadian astronomer [[William Edmund Harper|William E. Harper]] used this technique to measure the period of this single-line spectroscopic binary, and determined it to be 21.724 days. He also estimated the [[orbital eccentricity]] as 0.0, which is the value for a circular orbit. The velocity amplitude was measured as 41.5 km/s, which is the maximum velocity of the primary component along the line of sight to the Solar System.<ref>{{cite journal | last = Falk | first = Michael | title=The orbits of A Persei and HR 8210 | journal=Publications of the Dominion Astrophysical Observatory | year=1927 | volume=4 | pages=161-169 | url=http://adsabs.harvard.edu/abs/1998RPPh...61...77K }}</ref>
+
+The distance to the IK Pegasi system can be measured directly by observing the tiny [[parallax]] shifts of this system against the more distant background, as the Earth orbits around the Sun. This shift was measured to high precision by the [[Hipparcos]] spacecraft, yielding a distance estimate of 150 [[light year]]s.<ref>{{cite journal | author=M. A. C. Perryman, L. Lindegren, J. Kovalevsky, E. Hoeg, U. Bastian, P. L. Bernacca, M. Crézé, F. Donati, M. Grenon, F. van Leeuwen, H. van der Marel, F. Mignard, C. A. Murray, R. S. Le Poole, H. Schrijver, C. Turon, F. Arenou, M. Froeschlé, C. S. Petersen | title=The HIPPARCOS Catalogue | journal=Astronomy and Astrophysics | year=1997 | volume=323 | pages=L49-L52 | url=http://adsabs.harvard.edu/cgi-bin/bib_query?1997A&A...323L..49P }}</ref> The same spacecraft also measured the [[proper motion]] of this system; the small angular motion of IK Pegasi across the sky due to its motion through space.
+
+The combination of the distance and proper motion of this system gives the [[space velocity]] of IK Pegasi in the direction perpendicular to the line of sight. The third component, the heliocentric [[radial velocity]], can be measured by the average [[red-shift]] (or blue-shift) of the stellar spectrum. The ''General Catalogue of Stellar Radial Velocities'' lists a radial velocity of -11.4&nbsp;km/s for this system.<ref>{{cite book  | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | url=http://adsabs.harvard.edu/abs/1953QB901.W495..... }}</ref>
+
+An attempt was made to photograph the individual components of this binary using the [[Hubble Space Telescope]], but, unsurprisingly, the stars proved too close to resolve.<ref>{{cite conference | author=Burleigh, M. R.; Barstow, M. A.; Bond, H. E.; Holberg, J. B. | editor=Provencal, J. L. ; Shipman, H. L.; MacDonald, J.; Goodchild, S. | title = Resolving Sirius-like Binaries with the Hubble Space Telescope | booktitle = Proceedings 12th European Workshop on White Dwarfs | pages = 222 | publisher = Astronomy Society of the Pacific | date = July 28-August 1, 1975 | location = San Francisco | url = http://adsabs.harvard.edu/abs/2001ASPC..226..222B | accessdate = 2007-02-27 | id = ISBN 1-58381-058-7 }}</ref>
+
+==Component A==
+The [[Hertzsprung-Russell diagram]] is a plot of [[luminosity]] versus surface [[temperature]] for a set of stars. IK Pegasi A lies in a narrow, nearly vertical band of the HR diagram that is known as the [[instability strip]]. Stars in this band oscillate in a coherent manner, resulting in periodic pulsations in the star's luminosity.<ref name="araa33">{{cite journal | author=A. Gautschy, H. Saio | title=Stellar Pulsations Across The HR Diagram: Part 1 | journal=Annual Review of Astronomy and Astrophysics | year=1995 | volume=33 | pages=75-114 | url=http://adsabs.harvard.edu/abs/1995ARA&A..33...75G }}</ref>
+
+The pulsations result from a process called the ''&kappa;''-mechanism. A part of the star's atmosphere becomes optically thick due to partial ionization of certain elements, which causes the atmosphere to expand in compensation. The inflated atmosphere becomes less ionized and looses energy, causing it to cool and shrink back down again. The result of this cycle is a periodic pulsation of the atmosphere, and a matching variation of the luminosity.<ref name="araa33" />
+
+Stars within the portion of the instability strip that crosses the main sequence are called [[Delta Scuti variable]]s. (Named after the prototypical star for such variables: [[Delta Scuti]].) Delta Scuti variables typically range from spectral class A2 to F8, and a stellar luminosity class of III ([[subgiant]]s) to V ([[main sequence]] stars). They are short-period variables that have a regular pulsation rate between 0.025 and 0.25 days. Delta Scuti stars have an abundance of elements similar to the Sun's ([[Population I]] stars), and between 1.5 and 2.5 [[solar mass]]es.<ref> {{cite web | last = Templeton | first = Matthew | year = 2004 | url = http://www.aavso.org/vstar/vsots/summer04.shtml | title = Variable Star of the Season: Delta Scuti and the Delta Scuti variables | publisher = AAVSO | accessdate = 2007-01-23 }}</ref>
+
+The spectrum star is classified as marginal Am (or "Am:"), which means it displays the characteristics of a spectral class A but is marginally metallic-lined. That is, the atmosphere of this star displays slightly (but anomalously) higher than normal absorption line strengths for elements heavier than [[Lithium]].<ref name="apj221" /> Stars of spectral type Am are often members of close binaries with a companion of about the same mass, as is the case for IK Pegasi.<ref>{{cite journal | author=J. G. Mayer, J. Hakkila | title=Photometric Effects of Binarity on AM Star Broadband Colors | journal=Bulletin of the American Astronomical Society | year=1994 | volume=26 | pages=868 | url=http://adsabs.harvard.edu/abs/1994AAS...184.0607M }}</ref>
+
+Astronomers define the [[metallicity]] of a star as the abundance of elements that are heavier in mass than hydrogen and helium. This is measured by a [[spectroscopic]] analysis of the atmosphere, followed by a comparison with the results expected from computed stellar models. In the case of IK Pegasus A, the estimated metal abundance is:
+
+:<math>\left [ \frac{M}{H} \right ]\ =\ +0.06\ \pm\ 0.20</math>
+
+This notation givens the [[logarithm]] of the ratio of metal elements (M) to hydrogen (H), minus the logarithm of the Sun's metal ratio. That is, if the star matches the metal abundance of the Sun, this value will be zero. A logarithmic value of 0.06 is equivalent to an actual metallicity ratio of 1.15, so the star is about 15% richer in metallic elements than the Sun.<ref name="mnras267" /> However the margin of error for this result is relatively high.
+
+Spectral class A stars are hotter more massive than the Sun, but, in consequence, their life span on the main sequence is correspondingly brief. For a star with a mass similar to IK Pegasi A, the expected lifetime on the [[main sequence]] is 2&ndash;3&nbsp;&times;&nbsp;10<sup>9</sup>&nbsp;years, which is about half the current age of the Sun.<ref>{{cite web | author=Anonymous | year = 2005 | url = http://hyperphysics.phy-astr.gsu.edu/hbase/astro/startime.html | title = Stellar Lifetimes | publisher = Georgia State University | accessdate = 2007-02-26 }}</ref>
+
+In terms of mass, the relatively young [[Altair]] is the nearest star to the Sun that is a stellar analogue of component A&mdash;it has an estimated 1.7 times the [[solar mass]]. The binary system as a whole has been compared to [[Sirius]], which has a type-A primary and a white dwarf companion. Sirius A, however, is more massive than IK Pegasi A and the orbit of it's companion is larger, with a semimajor axis is 20 A.U.
+
+==Component B==
+The companion star is a dense [[white dwarf]] star consisting primarily of [[carbon]] and [[oxygen]]. This category of stellar object has reached the end of its evolutionary life span and is no longer generating energy through [[nuclear fusion]]. Instead, under normal circumstances, a white dwarf will gradually radiate away its remaining energy, growing cooler and dimmer over the course of many billions of years.
+
+Nearly all small and medium-size stars (such as the Sun) will end up as a white dwarf, once they have exhausted their supply of hydrogen and helium fuel. Such stars spend most of their energy-producing life span as a [[main sequence]] star&mdash;a term used to describe a relationship between the normal star's luminosity and its surface temperature. The amount of time that a star spends on the main sequence depends primarily on its mass, with the lifespan decreasing as a function of increasing mass. Thus, for IP&mdash;Pegasi&mdash;B to become a white dwarf before component A, this star must have once possessed greater mass.
+
+As its hydrogen fuel became consumed, this star evolved
+into a [[red giant]].
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{cite web | url = http://www.alcyone.de/SIT/bsc/HR8210.html | title = IK Pegasi | publisher = Alcyone | accessdate = 2007-01-18 }}
+
+{{star-stub}}
+[[Category:Pegasus constellation]]
+[[Category:Spectroscopic binaries]]
+[[Category:White main sequence stars]]
+[[Category:White dwarfs]]

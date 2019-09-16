@@ -1,0 +1,48 @@
+{{Infobox VG|title = Jr. Pac-Man
+|image = [[Image:Jr. Pac Man.png|225px]]
+|developer = [[Midway Games|Bally Midway]] 
+|publisher = [[Midway Games|Bally Midway]] 
+|designer = 
+|release = [[1983]]
+|genre = [[Computer and video game genres#Retro|Retro]]/[[Computer and video game genres#Maze|Maze]]
+|modes = Up to 2 players, alternating turns
+|cabinet = Upright
+|arcade system = [[Namco Pac-Man]]
+|cpu = {{z80|1|3.072}}
+|sound = 1x [[Namco WSG]] (3-channel mono) @ 3.072 [[Megahertz|MHz]]
+|monitor = [[Raster graphics|Raster]], vertical orientation, 224 x 288 resolution
+|input = 4-way [[Joystick]]
+|platforms = [[Arcade game|Arcade]]
+}}
+
+'''''Jr. Pac-Man''''' is an [[arcade game]] released in [[1983]] by [[Midway Games|Bally Midway]].  It is based on ''[[Pac-Man]]'' and its derivatives, but is not officially part of the ''Pac-Man'' series &mdash; along with ''[[Baby Pac-Man]]'', this game was created without the authorization of [[Namco]].  This was one of the games that eventually led to the termination of the [[license|licensing agreement]] between Namco and Midway.{{Fact|date=June 2007}}
+
+==Gameplay==
+The gameplay of ''Jr. Pac-Man'' is largely identical to that of its predecessors, with a few differences.  The maze is now two times the width of the display, and a virtual camera pans left and right along the maze to follow Jr. Pac-Man, sometimes resulting in the ghosts being off-screen.  A total of seven mazes appear throughout the game, and unlike previous ''Pac-Man'' games, none of the mazes have tunnels that wrap from one side of the screen to the other.
+
+As in prior games, bonus prizes appear in each level.  (These prizes were called fruits in ''Pac-Man'', but none of the prizes in this game are fruits.)  Similar to ''Ms. Pac-Man'', prizes appear in the middle of the maze and bounce around for a time, but as a prize encounters dots, it changes them into larger dots that slow Jr. Pac-Man down but are worth more points.  If not eaten beforehand, a prize self-destructs with an energizer (also known as a "power pellet"), taking the energizer with it.
+
+There are also a few cosmetic differences: The main character is Jr. Pac-Man (who wears a [[beanie|propeller beanie]]); Clyde, the orange ghost, is now called Tim; and the game's graphics and sound have been updated, including a lower-case [[anti-aliased]] [[font]] for scores and game text.  The game's intermissions center around the developing relationship between Jr. Pac-Man and Yum-Yum (apparently the daughter of Blinky).
+
+[[Image:Jrpacman.tim.png|thumb|Tittle Screen]]
+==Home versions==
+Between the effects of the [[video game crash of 1983]] and the unauthorized status of this game, the only sanctioned port of this game was released for the [[Atari 2600]] in [[1987]] with a 1984 copyright date.  It is generally considered a faithful port of the arcade game, especially given the console's limitations.  A version for the [[Atari 5200]] was nearly completed, but was never officially released.  A [[Read-only memory|ROM]] image for this game can be played with an [[emulator]].
+
+A similar game called ''[[Pac-Man 2: The New Adventures#Side quests|Pac-Jr.]]'' was released as a minigame in the [[Sega Mega Drive|Sega Mega Drive/Genesis]] version of ''[[Pac-Man 2: The New Adventures]]'' in [[1994]].  This version is an official release by [[Namco]] and bears only a passing resemblance to ''Jr. Pac-Man'', playing much more like ''[[Ms. Pac-Man]]'' instead.
+
+==External links==
+*{{KLOV game|id=8246}}
+*{{moby game|id=/jr-pac-man}}
+* {{StrategyWiki}}
+*[http://www.classicgaming.com/pac-man/Pac-Games/JrPacMan/ ClassicGaming.com entry on ''Jr. Pac-Man'']
+
+{{Pac-Man series}}
+
+[[Category:Pac-Man]]
+[[Category:Arcade games]]
+[[Category:1983 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Maze games]]
+[[Category:Midway Games]]
+
+[[it:Jr. Pac-Man]]

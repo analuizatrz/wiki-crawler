@@ -1,0 +1,148 @@
+{{Starbox begin
+| name=16 Cygni A/B }}
+{{Starbox observe 2s
+| epoch=[[J2000.0]]
+| constell=[[Cygnus (constellation)|Cygnus]]
+| component1=16 Cygni A
+| ra1={{RA|19|41|48.9535}}
+| dec1={{DEC|+50|31|30.217}}
+| appmag_v1=5.96
+| component2=16 Cygni B
+| ra2={{RA|19|41|51.9720}}
+| dec2={{DEC|+50|31|03.083}}
+| appmag_v2=6.20
+}}
+{{Starbox astrometry
+| radial_v=-25.6
+| prop_mo_ra=-147.75
+| prop_mo_dec=-158.85
+| parallax=46.25
+| p_error=0.50
+| dist_ly=70.5
+| dist_pc=21.6
+| absmag_v=4.29 / 4.53 }}
+{{Starbox catalog
+| names='''16 Cygni A'''
+
+[[Gliese Catalogue of Nearby Stars|Gl]]&nbsp;765.1 A, [[Harvard Revised catalogue|HR]]&nbsp;7503, [[Bonner Durchmusterung|BD]]&nbsp;+50°2847, [[Henry Draper catalogue|HD]]&nbsp;186408, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;15750, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;4634.00, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;31898, Struve&nbsp;4046A, [[Hipparcos catalogue|HIP]]&nbsp;96895
+
+'''16 Cygni B'''
+
+[[Gliese Catalogue of Nearby Stars|Gl]]&nbsp;765.1 B, [[Harvard Revised catalogue|HR]]&nbsp;7504, [[Bonner Durchmusterung|BD]]&nbsp;+50°2848, [[Henry Draper catalogue|HD]]&nbsp;186427, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;15751, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;31899, Struve&nbsp;4046B, [[Hipparcos catalogue|HIP]]&nbsp;96901}}
+{{Starbox end}}
+'''16 Cygni''' (abbreviated 16 Cyg) is a [[triple star]] system located around 70 [[light-year]]s away in the [[constellation]] [[Cygnus]]. It consists of two [[Sun]]-like [[yellow dwarf]] stars and a [[red dwarf]]. In 1996 an [[extrasolar planet]] was discovered in an [[eccentricity (orbit)|eccentric]] [[orbit]] around the sunlike star 16 Cygni B.
+
+==Distance==
+The parallax of the two brightest stars were measured as part of the [[Hipparcos]] [[astrometry]] mission. This yielded a parallax of 46.25 [[milliarcsecond]]s for 16 Cygni A<ref>{{cite web|url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2096895|title=HIP 96895|work=The Hipparcos and Tycho Catalogues|publisher=ESA|year=1997|accessmonthday=27 June|accessyear=2006}}</ref> and 46.70 milliarcseconds for 16 Cygni B.<ref>{{cite web|url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2096901|title=HIP 96901|work=The Hipparcos and Tycho Catalogues|publisher=ESA|year=1997|accessmonthday=27 June|accessyear=2006}}</ref> Since the two components are associated, it is reasonable to assume they lie at the same distance, so the different parallaxes are a result of experimental error (indeed, when the associated parallax errors are taken into account, the ranges of the parallaxes overlap). Using the parallax of the A component, the distance is 21.6 [[parsec]]s. The parallax of the B component corresponds to a distance of 21.4 [[parsec]]s.
+
+==System components==
+16 Cygni is a hierarchial triple system. Stars A and C form a close binary with a projected separation of 73 [[Astronomical unit|AU]].<ref name="raghavan">Raghavan, D. et al. (2006) [http://fr.arxiv.org/abs/astro-ph/0603836 "Two Suns in The Sky: Stellar Multiplicity in Exoplanet Systems"] (preprint)</ref> The [[orbital elements]] of the A-C binary are currently unknown. At a distance of 860 AU from A is a third component designated 16 Cygni B. The [[orbit]] of B relative to the A-C pair is not well determined: plausible orbits range in period from 18,200 to 1.3 million [[year]]s, with a [[semimajor axis]] ranging from 877 to 15,180 AU.<ref>{{cite journal|url=http://www.journals.uchicago.edu/PASP/journal/issues/v111n757/980185/brief/980185.abstract.html|author=Hauser, H., Marcy, G.|title=The Orbit of 16 Cygni AB|journal=Publications of the Astronomical Society of the Pacific|volume=111|pages=321 &ndash; 334|year=1999}}</ref>
+
+Both 16 Cygni A and 16 Cygni B are [[yellow dwarf]] stars like our [[Sun]]. According to data from the Geneva-Copenhagen survey, both stars have masses similar to the sun.<ref>{{cite web|url=http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/117/table1&recno=13627|title=Record 13627|work=Geneva-Copenhagen Survey of Solar neighbourhood|author=Nordstrom et al.|year=2004|accessmonthday=4 July|accessyear=2006}}</ref><ref>{{cite web|url=http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/117/table1&recno=13631|title=Record 13631|work=Geneva-Copenhagen Survey of Solar neighbourhood|author=Nordstrom et al.|year=2004|accessmonthday=4 July|accessyear=2006}}</ref> Age estimates for the two stars vary slightly, but 16 Cygni is likely to be much older than our [[solar system]], at around 10,000 million years old. 16 Cygni C is much fainter than either of these stars, and may be a [[red dwarf]].<ref name="raghavan" />
+
+{| class="toccolours" border=1 cellspacing=0 cellpadding=2 align=center style="margin-left: auto; margin-right: auto; border-collapse:collapse;"
+|-
+!
+! 16 Cyg A
+! 16 Cyg B
+! 16 Cyg C
+|-
+| style="background-color: #ffffc0;" colspan="4" | '''Characteristics'''
+|-
+| '''[[Stellar classification|Spectral type]]'''
+| G1.5Vb
+| G2.5Vb
+| M?
+|-
+| '''B-V [[color index]]'''
+| 0.64
+| 0.66
+| ?
+|-
+| '''U-B [[color index]]'''
+| 0.19
+| 0.20
+| ?
+|-
+| '''[[Variable star|Variable type]]'''
+| none
+| none
+| ?
+|-
+| style="background-color: #ffffc0;" colspan="4" | '''Details'''
+|-
+| '''[[Mass]]''' ([[Solar mass|''M''<sub>☉</sub>]])
+| 1.02
+| 0.97
+| ?
+|-
+| '''[[Radius]]''' ([[Solar radius|''R''<sub>☉</sub>]])
+| 1.4
+| 1.2
+| ?
+|-
+| '''[[Luminosity]]''' ([[Solar luminosity|''L''<sub>☉</sub>]])
+| 1.6
+| 1.3
+| ?
+|-
+| '''[[Temperature]]''' ([[Kelvin|K]])
+| 5825
+| 5640
+| ?
+|-
+| '''[[Metallicity]]'''
+| 114%
+| 123%
+| ?
+|-
+| '''[[Rotation]]''' ([[day]]s)
+| 26.9
+| 29.1
+| ?
+|-
+| '''[[Star#Age and size of stars|Age]]''' ([[year]]s)
+| 10.4 &times; 10<sup>9</sup>
+| 9.9 &times; 10<sup>9</sup>
+| ?
+|-
+|}
+
+==Planetary system==
+In 1996 an [[extrasolar planet]] in an [[eccentricity (orbit)|eccentric]] orbit was announced around the star 16 Cygni B.<ref>{{cite journal | url=http://www.journals.uchicago.edu/ApJ/journal/issues/ApJ/v483n1/35587/35587.html | author=Cochran et al.| title=The Discovery of a Planetary Companion to 16 Cygni B | journal=The [[Astrophysical Journal]] | volume=483 |year=1997|pages=457-463 }}</ref> The planet's orbit takes 798.5 [[day]]s to complete, with a semimajor axis of 1.68 AU.<ref>{{cite journal|url=http://http://www.journals.uchicago.edu/doi/abs/10.1086/504701|author=Butler, R. et al.|title=Catalog of Nearby Exoplanets|journal=[[The Astrophysical Journal]]|volume=646|pages=505 &ndash; 522|year=2006}} ([http://exoplanets.org/planets.shtml web version])</ref> Like the majority of known extrasolar planets, [[16 Cygni Bb]] was detected by measuring the [[radial velocity]] of its parent star, which only gives a lower limit on the mass: in this case, about 1.68 times that of [[Jupiter]].
+
+{{Planetbox-1p
+| [[16 Cygni Bb|Bb]]
+| >1.68 ± 0.15
+| 798.5 ± 1.0
+| 1.681 ± 0.097
+| 0.681 ± 0.017
+}}
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==
+*[http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=16+Cyg+A '''SIMBAD''': 16 Cyg A]
+*[http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=16+Cyg+B '''SIMBAD''': 16 Cyg B]
+*[http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=16+Cyg+C '''SIMBAD''': 16 Cyg C]
+*[http://vo.obspm.fr/exoplanetes/encyclo/planet.php?p1=16+Cyg+B&p2=b '''Extrasolar Planets Encyclopaedia''': 16 Cyg Bb]
+*[http://www.extrasolar.net/startour.asp?StarCatId=&StarId=6 '''Extrasolar Visions''': 16 Cygni B]
+*[http://www.extrasolar.net/planettour.asp?StarCatId=&PlanetId=14 '''Extrasolar Visions''': 16 Cygni Bb]
+* [http://www.astro.uiuc.edu/~kaler/sow/16cyg.html 16 Cygni-B] by Professor Jim Kaler.
+* [http://www.solstation.com/stars2/16cygni2.htm 16 Cygni 2?] at SolStation.
+
+[[Category:Binary stars]]
+[[Category:Cygnus constellation]]
+[[Category:Flamsteed objects|Cygni, 16]]
+[[Category:Yellow dwarfs]]
+
+[[es:16 Cygni]]
+[[fr:16 Cygni]]
+[[it:16 Cygni]]
+[[pl:16 Cygni]]
+[[sk:16 Cygni]]
+[[fi:16 Cygni]]
+[[zh:天鵝座16]]

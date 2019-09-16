@@ -1,0 +1,83 @@
+[[Image:19350904sfc.gif|thumb|right|250px|Surface weather map of the Labor Day Hurricane of 1935 moving up the west coast of Florida]]
+{{tropical cyclone}}
+'''Tropical cyclone observation''' has been carried out over the past couple of centuries in various ways.  The passage of typhoons, hurricanes, as well as other tropical cyclones have been detected by word of mouth from sailors recently coming to port or by radio transmissions from ships at sea, from sediment deposits in near shore estuaries, to the wiping out of cities near the coastline.  Since [[World War II]], advances in technology have included using planes to survey the ocean basins, satellites to monitor the world's oceans from [[outer space]] using a variety of methods, radars to monitor their progress near the coastline, and recently the introduction of [[unmanned aerial vehicles]] to penetrate storms.  Recent studies have concentrated on studying hurricane impacts lying within rocks or near shore lake sediments, which are branches of a new field known as [[paleotempestology]].  This article details the various methods employed in the creation of the hurricane database, as well as reconstructions necessary for reanalysis of past storms used in projects such as the [[Atlantic hurricane reanalysis]].
+
+==Geological markers of past activity==
+{{see also|Paleotempestology}}
+===Stalagmites in caves===
+Recent studies of the [[Oxygen-18|<sup>18</sup>O]] and [[Carbon-13|<sup>13</sup>C]] isotopes found in [[stalagmite]]s in [[Belize]] show that tropical cyclone events can leave markers that can be separated out on a week-by-week basis.  The error rate of this type of microanalysis was 1 error in 1,200 sampling points.<ref name="Frappier2007">{{cite journal |last=Frappier |first=Amy Benoit |authorlink= |coauthors=Sahagian, Dork; Carpenter, Scott J.; González, Luis A.; Frappier Brian R. |year=2007 |month= |title=Stalagmite stable isotope record of recent tropical cyclone events |journal=Geology |volume=35 |issue=2 |pages=111&ndash;114 |doi=10.1130/G23145A.1 |url= |accessdate= |quote= }}</ref>
+
+===Markers in coral===
+Rocks contain certain isotopes of elements, known as natural tracers, which describe the conditions under which they formed.  By studying the calcium carbonate in coral rock, past sea surface temperature and hurricane information can be revealed.  Lighter oxygen isotopes (<sup>18</sup>O) are left behind in coral during periods of very heavy rainfall.<ref>Nobu Shimizu. [http://www.whoi.edu/oceanus/viewArticle.do?id=2437 If Rocks Could Talk...] Retrieved on [[2006-12-09]].</ref>  Since hurricanes are the main source of extreme rainfall in the tropical oceans, past hurricane events can be dated to the days of their impact on the coral by looking at the increased <sup>18</sup>O concentration within the coral.<ref>Anne L. Cohen and Graham D. Layne. [http://web.mit.edu/mit-whoi/www/research/mgg/coral_hurricane_signature.html Seeking a hurricane signature in coral skeleton.] Retrieved on [[2006-12-09]].</ref>
+
+===Sediment deposition in coastal lakes===
+Kam Biu-Liu, a professor at [[Louisiana State University]], has been studying sediment lying at the bottom of coastal lakes and marshes in order to study the frequency and intensity of hurricanes over the past 5,000 years.<ref>{{cite journal |last=Liu |first=Kam-biu |authorlink= |coauthors=Fearn, Miriam L. |year=2000 |month= |title=Reconstruction of Prehistoric Landfall Frequencies of Catastrophic Hurricanes in Northwestern Florida from Lake Sediment Records |journal=Quaternary Research |volume=54 |issue=2 |pages=238&ndash;245 |doi=10.1006/qres.2000.2166 |url= |accessdate= |quote= }}</ref>  Since storm surges sweep coastal sands with them as they progress inland, a layer of sand is left behind in coastal lakes and marshes.  [[Radiocarbon dating]] is then used to date the layers.<ref>Louisiana State University. [http://www.lsu.com/UNV002.NSF/(NoteID)/4E68FC0ECAA2770A86256D6B004A12DF?OpenDocument LSU Professor looks for link between hurricanes and coastal fires:  Evidence suggests risk for fire may be higher after catastrophic storms.] Retrieved on [[2006-12-09]].</ref>
+
+==Newspapers==
+Before the invention of the [[telegraph]] in the early to mid 19th century, news was as fast as the quickest horse, stage, or ship.  Normally, there was no advance warning of a tropical cyclone impact.  However, the situation changed in the 19th century as sea-faring people and land-based researchers, such as Father Viñes in [[Cuba]], came up with systematic methods of reading the sky's appearance or the sea state, which could foretell a tropical cyclone's approach up to a couple days in advance.
+
+In [[China]], the abundance of historical documentary records in the form of ''{{lang|zh-Latn|Fang Zhi}}'' (semiofficial local gazettes) offers an extraordinary opportunity for providing a high-resolution historical dataset for the frequency of typhoon strikes. Kam-biu Liu ''et al.'' (2001) reconstructed a 1,000-year time series of typhoon landfalls in the Guangdong Province of southern China since AD 975 and found that on a decadal timescale, the twenty-year interval from AD 1660 to 1680 is the most active period on record, with twenty-eight to thirty-seven typhoon landfalls per decade. The variability in typhoon landfalls in Guangdong mimics that observed in other paleoclimatic proxies (e.g., tree rings, ice cores) from China and the northern hemisphere. Remarkably, the two periods of most frequent typhoon strikes in Guangdong (AD 1660-1680, 1850-1880) coincide with two of the coldest and driest periods in northern and central China during the [[Little Ice Age]].<ref name="Liu2001">{{cite journal |author=Kam-biu Liu; Caiming Shen; Kin-sheun Louie |year=2001 |month= |title=A 1,000-Year History of Typhoon Landfalls in Guangdong, Southern China, Reconstructed from Chinese Historical Documentary Records |journal=Annals of the Association of American Geographers |volume=91 |issue=3 |pages=453&ndash;464 |doi=10.1111/0004-5608.00253 |url= |accessdate= |quote= }}</ref>
+
+==Surface observations==
+{{double image|right|1933 Atlantic hurricane season map.png|250|2005 Atlantic hurricane season map.png|250|<small>Maps of the 1933 and 2005 Atlantic hurricane season, the two most active on the record. 28 storms formed in 2005 of which 17 made landfall, while 19 of 21 detected storms formed in 1933 hit the coast. Note that there wasn't any hurricane detected on Mid-Atlantic in 1933.</small>}}
+===Ship reports===
+For centuries, people have sailed the world's oceans and seas, and for just as long, they have encountered storms.  The worst of the cyclones over the open seas likely took those that observed them into the depths of the oceans.  However, some did survive to report harrowing tales.  Before the invention of the wireless [[telegraph]] in 1905, reports about storms at sea either coincided with their arrival at the coast as ships scrambled into port, or came weeks and months afterwards from remote ports of call.  Ship and buoy reports, available since the 1970s, are used in real-time not only for their temperature, pressure, and wind measurements, but also for their sea surface temperature and wave height measurements.
+
+Wind reports from ships at sea have become increasingly based on anemometers, and less so on the [[Beaufort Scale]].  This is important to note as the Beaufort Scale underestimates winds at higher wind speeds, indicating ship wind observations taken for older storms are likely to underrepresent their true value.<ref name="TM22">Brian R. Jarvinen, Charles J. Neumann, and Mary A. S. Davis. [http://www.aoml.noaa.gov/general/lib/lib1/nhclib/nwstechmemos/techmemo22.pdf A Tropical Cyclone Data Tape For the North Atlantic Basin, 1886-1983:  Contents, Limitations, and Uses.] Retrieved on [[2006-12-09]].</ref>
+
+As [[Christopher Landsea]] ''et al.'' point out, many tropical cyclones that formed on the open sea and did not affect any coast usually went undetected prior to satellite observation since the [[1970s]]. They estimated an undercount bias of zero to six tropical cyclones per year between 1851 and 1885 and zero to four per year between 1886 and 1910. These undercounts roughly take into account the typical size of tropical cyclones, the density of shipping tracks over the Atlantic basin, and the amount of populated coastline.<ref>{{cite book |title=Hurricanes and Typhoons: Past, Present and Future |chapter=The Atlantic hurricane database re-analysis project: Documentation for the 1851–1910 alterations and additions to the HURDAT database |last=Landsea |first=C. W. |authorlink= |coauthors=''et al.'' |editor=Murname, R. J.; Liu, K.-B. |year=2004 |publisher=Columbia University Press |location=New York |isbn=0231123884 |pages=177–221 }}</ref>
+
+===Land-based observations===
+In the early 20th century, forecasting the track of cyclones was still confined to areas of the greatest surface pressure falls, based upon [[surface weather observation]]s, and climatology.  These methods proved to be the cutting edge of tropical cyclone forecasting through the mid 20th century.  Land-based surface observations remain invaluable as a source of real-time information at locations near the coastline and inland.  Combined with ship observations and newspapers, they formed the total information network for hurricane detection until radiosondes were introduced in 1941 and reconnaissance aircraft began in 1944.<ref name="TM22"/>  Land-based observations of pressure and wind can show how quickly a tropical cyclone is decaying as it moves inland.  Their rainfall reports show where significant rainfall is occurring, and can be an alert for possible flooding.  With the establishment of the ASOS network in the [[United States]] during the 1990s, more locations are reporting around the clock than ever before.<ref name="CPHC">Central Pacific Hurricane Center. [http://www.prh.noaa.gov/cphc/HAW/observations.php Observations.] Retrieved on [[2006-12-09]].</ref>
+
+====Mobile platforms====
+Since the 1990s, academic researchers have begun to deploy mobile weather stations fortified to withstand hurricane-force winds. The two largest programs are the Florida Coastal Monitoring Program<ref name="FCMP">{{cite web | url = http://users.ce.ufl.edu/~fcmp/overview/overview.htm | author = Florida Coastal Monitoring Program | title = Project Overview | accessdate = 2006-03-30 | publisher = [[University of Florida]]}}</ref> and the Wind Engineering Mobile Instrumented Tower Experiment.<ref name="WEMITE">{{cite web | url = http://www.atmo.ttu.edu/WEMITE/introduction.htm | author= Hurricane Research Team | title = Texas Tech Hurricane Research Team Project History and Information | publisher = [[Texas Tech University]] | accessdate = 2006-03-30}}</ref> During landfall, the NOAA Hurricane Research Division compares and verifies data from reconnaissance aircraft, including wind speed data taken at flight level and from GPS dropwindsondes and stepped-frequency microwave radiometers, to wind speed data transmitted in real time from weather stations erected near or at the coast.  The National Hurricane Center uses the data to evaluate conditions at landfall and to verify forecasts.
+
+==Upper air observations==
+===Reconnaissance aircraft===
+{{seealso|Tropical cyclone forecasting}}
+The idea of aircraft reconnaissance of tropical cyclones first was put forth by Captain W. L. Farnsworth of the Galveston Commercial Association in the early 1930s.  Supported by the [[United States Weather Bureau]], it passed both the [[United States Senate]] and [[United States House of Representatives]] in 1936.<ref>[[Associated Press]]. [http://www.thehurricanearchive.com/Viewer.aspx?img=45222992_clean&firstvisit=true&src=search&currentResult=2&currentPage=0 STORM PATROL BILL PASSED TO PRESIDENT.] Retrieved on [[2008-06-06]].</ref>  Since 1944, aircraft have been flying out to sea to find tropical cyclones.  Before regular satellite coverage, this was a hit-or-miss affair.  Thereafter, aircraft flights into tropical systems became more targeted and precise.  Nowadays, a C-130 is used as a hurricane hunter by the Air Force, while the P-3 Orion is used by the [[National Oceanic and Atmospheric Administration]] for research projects used to better understand [[tropical cyclone]]s and improve hurricane forecasts.<ref name="CPHC">Central Pacific Hurricane Center. [http://www.prh.noaa.gov/cphc/HAW/observations.php Observations.] Retrieved on [[2006-12-09]].</ref>
+The implementation of synoptic observation missions by a Gulfstream jet, where dropwinsondes are used to investigate a tropical cyclone's environment, has led to a 15-20 percent reduction in track forecast errors where such missions were present.<ref name="GEE">B. Geerts. [http://www-das.uwyo.edu/~geerts/cwx/notes/chap13/tc_track.html Tropical cyclone track forecasting.] Retrieved on [[2007-04-10]].</ref>
+
+===Unmanned aerial vehicles===
+{{See also|Unmanned aerial vehicle|Insitu Aerosonde}}
+The era of the aerosonde began in 1998, when the [[Australia]]n [[Bureau of Meteorology]] flew an aerosonde into Tropical Cyclone Tiffany.<ref name="GEE">B. Geerts. [http://www-das.uwyo.edu/~geerts/cwx/notes/chap13/tc_track.html Tropical cyclone track forecasting.] Retrieved on [[2007-04-10]].</ref>  In 2005, [[Hurricane Ophelia]] became the first Atlantic [[tropical cyclone]] where an unmanned aerial vehicle, known as an aerosonde, mission was used for a [[tropical cyclone]].  The first typhoon was penetrated by an aerosonde in 2005 as well.  Unlike normal reconnaissance flights, the aerosonde stayed near the surface after a 10-hour flight within the tropical cyclone.<ref>Aerosonde. [http://www.aerosonde.com/drawarticle/127 Aerosonde first UAV to Recce a Tropical Cyclone.] Retrieved on [[2006-12-09]].</ref>
+
+==Remote sensing==
+===Radar===
+[[Image:Hurricane Erika 2003 Radar.jpg|thumb|right|250px|Radar image of [[Hurricane Erika (2003)|Hurricane Erika]] making landfall over Northeastern Mexico]]
+{{Main article|Weather radar}}
+During [[World War II]], [[radar]] technology was developed to detect aircraft.  It soon became apparent that large areas became obscured when significant weather was in the area.  In 1957, the [[National Weather Service]] established the [[United States]]' first radar network to cover the coastline and act as first warning of an impending tropical cyclone.  Upgraded in the 1990s to use doppler technology, radar can provide rainfall estimates, wind estimates, possible locations of tornadoes within a system's spiral bands, as well as the center location of a tropical cyclone.<ref name="CPHC"/>
+
+===Satellite===
+Beginning with the launching of Tiros I in April 1960, satellites have been used to look for tropical cyclones.  The Dvorak technique was developed from early satellite images of tropical cyclones to determine real-time a tropical cyclone's strength from characteristics seen on satellite imagery.  In most tropical cyclone basins, use of the satellite-based [[Dvorak technique]] is the primary method used to determine a tropical cyclone's maximum sustained winds.  The extent of banding and difference in temperature between the eye and eyewall is used within the technique to assign a maximum sustained wind and pressure.<ref>Atlantic Oceanographic and Meteorological Laboratory. [http://www.aoml.noaa.gov/hrd/tcfaq/H1.html Subject: H1) What is the Dvorak technique and how is it used?] Retrieved on [[2006-12-08]].</ref>  Since the mid 1990s, microwave imagery has been able to determine the center of rotation when that center is obscured by mid to high level cloudiness.  Cloud top temperatures are used in real-time to estimate rainfall rates within the cyclone.<ref name="CPHC"/>
+
+{| class="wikitable" style="clear:all;"
+|+ '''Satellite Images of Selected Tropical Storms and Associated T-Number''' 
+|-
+| [[Image:Wilma-17-1315z-T30-discussion1500z.png]]
+| [[Image:Dennis-06-1445z-T40-discussion1500z.png]]
+| [[Image:Jeanne-22-1945z-T50-discussion2100z.png]]
+| [[Image:Emily-14-1915z-T60-discussion15-0300z.png]]
+|- align=center 
+| [[Hurricane Wilma|Tropical Storm Wilma]] at T3.0 
+| [[Hurricane Dennis|Tropical Storm Dennis]] at T4.0
+| [[Hurricane Jeanne]] at T5.0
+| [[Hurricane Emily (2005)|Hurricane Emily]] at T6.0
+|}
+
+==See also==
+*[[Atlantic hurricane reanalysis]]
+*[[Hurricane hunters]]
+*[[Paleotempestology]]
+*[[Radiocarbon dating]]
+*[[Satellite]]
+*[[Surface weather analysis]]
+*[[Tropical cyclone]]
+
+==References==
+{{reflist}}
+
+[[Category:Tropical cyclones]]
+
+[[pt:Observação de ciclones tropicais]]

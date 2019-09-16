@@ -1,0 +1,147 @@
+{{Infobox_road
+|state=NY
+|type=NY
+|route=59
+|length_mi=14.08<ref>[http://www.gribblenation.net/nyroutes/ind/050_059.htm#059 New York Routes - New York State Route 59]</ref>
+|length_km=22.67
+|direction_a=West
+|starting_terminus=[[Image:NY-17.svg|20px]] [[NY 17]] in [[Hillburn, New York|Hillburn]]
+|junction=[[Image:US 202.svg|25px]] [[US 202]] in [[Suffern, New York|Suffern]]<br>[[Image:I-87.svg|20px]][[Image:I-287.svg|25px]] [[I-87]]/[[I-287]] in [[Nanuet, New York|Nanuet]]<br>[[Palisades Interstate Parkway|Palisades]] in [[West Nyack, New York|West Nyack]]
+|direction_b=East
+|ending_terminus=[[Image:US 9W.svg|20px]] [[US 9W]] in [[Nyack, New York|Nyack]]
+|counties=[[Rockland County, New York|Rockland]]
+|previous_type=State
+|previous_route=58
+|next_type=State
+|next_route=60
+}}
+'''New York State Route 59''' is an east-west road in southern Rockland County in the State of New York. It runs from [[New York State Route 17]] at Exit 15A of the [[New York State Thruway]] in [[Ramapo, New York|Ramapo]] to [[U.S. Route 9W|US-9W]] in [[Nyack, New York|Nyack]]. In [[Suffern, New York]], it also shares a [[wrong-way concurrency]] with [[U.S. Route 202]] for 0.05 miles. 
+
+==Route description==
+{{sectstub}}
+Route 59 always runs in close proximity to [[New York State Thruway|I-87-287]], except northwest of Suffern, where it only runs along the east side of [[Interstate 87|I-87]]. It runs on the south side of the Thruway between Suffern and [[Monsey, New York|Monsey]], crossing over to the north side at a bridge with no interchange in Monsey to Exit 14 on the Thruway in [[Nanuet, New York|Nanuet]], where it goes back on the south side and stays there until reaching [[Nyack, New York|Nyack]]. Motorists using Exit 11 join Route 59 which goes under the Thruway again to [[U.S. Route 9W]]. 
+
+==Communities along the route==
+*[[Hillburn, New York|Hillburn]]
+*[[Suffern, New York|Suffern]]
+*[[Airmont, New York|Airmont]]
+*[[Ramapo, New York|Ramapo town]] &mdash; Monsey hamlet
+*[[Spring Valley, New York|Spring Valley]]
+*[[Clarkstown, New York|Clarkstown town]]
+*[[Nyack, New York|Nyack]]
+
+==Major intersections==
+{{NYinttop}}
+{{NYint
+|county=Rockland
+|cspan=17
+|mile=0.0
+|road=[[Image:NY-17.svg|20px]] [[NY 17]]
+|location_special=Hillburn-Suffern village line
+}}
+{{NYint
+|mile=0.0
+|road=[[Image:I-87.svg|20px]][[Image:I-287.svg|25px]][[Image:NYS Thruway Sign.png|20px]]<br/>[[I-87]]/[[I-287]]/[[New York State Thruway|Thruway]]
+|location=Suffern
+|lspan=2
+|notes=Exit 15A (I-87/I-287/Thruway).
+}}
+{{NYint
+|type=mplex
+|mile=1.7
+|road=[[Image:US 202.svg|25px]] [[US 202]]
+|notes=Wrong Way concurrency with US 202 beneath the [[New York State Thruway]].
+}}
+{{NYint
+|mile=3.9
+|road=[[Image:Rockland County Route 89 NY.svg|20px]] [[County Route 89 (Rockland County, New York)|CR 89]]
+|location=Airmont
+|notes=North Airmont Road-South Airmont Road
+}}
+{{NYint
+|type=noaccess
+|road=[[Image:I-87.svg|20px]][[Image:I-287.svg|25px]][[Image:NYS Thruway Sign.png|20px]]<br/>[[I-87]]/[[I-287]]/[[New York State Thruway|Thruway]]
+|location=Ramapo
+|lspan=2
+|notes=NY 59 passes over the New York State Thruway.
+}}
+{{NYint
+|mile=6.2
+|road=[[Image:NY-306.svg|25px]] [[New York State Route 306|NY 306]]
+|notes=Hamlet of Monsey. Southern terminus of NY 306
+}}
+{{NYint
+|mile=6.9
+|road=Kennedy Drive
+|location=Spring Valley
+|lspan=2
+}}
+{{NYint
+|mile=7.6
+|road=[[Image:NY-45.svg|20px]] [[New York State Route 45|NY 45]]
+}}
+{{NYint
+|mile=8.5
+|road=[[Image:I-87.svg|20px]][[Image:I-287.svg|25px]][[Image:NYS Thruway Sign.png|20px]]<br/>[[I-87]]/[[I-287]]/[[New York State Thruway|Thruway]]
+|location=Nanuet
+|lspan=4
+|notes=Exit 14 (NYS Thruway).
+}}
+{{NYint
+|mile=9.5
+|road=[[Image:Rockland County Route 33 NY.svg|20px]] [[County Route 33 (Rockland County, New York)|CR 33]]
+|notes=Middletown Road 
+}}
+{{NYint
+|type=decomd
+|road=[[Image:NY-59A.svg|25px]] [[New York State Route 59A|NY 59A]]
+|notes=West Nyack Road 
+}}
+{{NYint
+|mile=10.3
+|road=[[Image:NY-304.svg|25px]] [[New York State Route 304|NY 304]]
+|notes=Interchange with no exit numbers.
+}}
+{{NYint
+|mile=10.7
+|road=[[Image:Palisades Interstate Pkwy.svg|20px]] [[Palisades Interstate Parkway|PIP]]
+|location=West Nyack
+|lspan=2
+|notes=Exit 8 (PIP).
+}}
+{{NYint
+|type=decomd
+|road=[[Image:NY-59A.svg|25px]] [[New York State Route 59A|NY 59A]]
+|notes=West Nyack Road. Interchange with [[Image:Rockland_County_Route_15_NY.svg|20px]] [[County Route 15 (Rockland County, New York)|Rockland CR 15]]
+}}
+{{NYint
+|mile=12.9
+|road=[[Image:NY-303.svg|25px]] [[New York State Route 303|NY 303]]
+|location=Central Nyack
+|notes=Interchange with no exit numbers.
+}}
+{{NYint
+|mile=14.0
+|road=[[Image:I-87.svg|20px]][[Image:I-287.svg|25px]][[Image:NYS Thruway Sign.png|20px]]<br/>[[I-87]]/[[I-287]]/[[New York State Thruway|Thruway]]
+|location=Nyack
+|lspan=2
+|notes=Exit 11 (NYS Thruway).
+}}
+{{NYint
+|mile=14.1
+|road=[[Image:US 9W.svg|20px]] [[US 9W]]
+|notes=North Highland Avenue.
+}}
+{{NYintbtm}}
+
+==Miscellanea==
+The presence of grade-separated interchanges at NY 304, Strawtown Road ([[County Route 23 (Rockland County, New York)|CR 23]]), Western Highway ([[County Route 15 (Rockland County, New York)|CR 15]]) and [[New York State Route 303|NY 303]], along with the southern half of the formerly proposed '''Spring Valley Bypass''', indicates that it may have been proposed at one time as a toll-free alternative to the Thruway for local, limited-access traffic. Route 59 used to go further east along '''Main Street''' in Nyack to '''North Broadway'''.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gribblenation.net/nyends/59.html New York State Route 59 @ State-Ends.com]
+*[http://www.empirestateroads.com/week/week31.html NY 59 @ NYS Thruway Exits 11 to 14 (Empire State Roads.com)]
+[[Category:New York state highways|059]]
+[[Category:Transportation in Rockland County, New York]]

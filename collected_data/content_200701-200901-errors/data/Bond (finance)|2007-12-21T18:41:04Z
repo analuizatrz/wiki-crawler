@@ -1,0 +1,218 @@
+{{otheruses|bond}}
+{{Finance}}
+In [[finance]], a '''bond'''  is a [[debt]] [[security (finance)|security]], in which the authorized issuer owes the holders a debt and is obliged to repay the principal and interest (the [[coupon (bond)|coupon]]) at a later date, termed [[Maturity (finance) | maturity]].  Other stipulations may also be attached to the bond issue, such as the obligation for the issuer to provide certain information to the bond holder, or limitations on the behavior of the issuer. Bonds are generally issued for a fixed term longer than ten years. [[Treasury security | U.S. Treasury securities]] issue debt with life of ten years or more, which is a bond. New debt between one year and ten years is a "note", and new debt less than a year is a "bill".
+
+A bond is simply a [[loan]], but in the form of a security, although terminology used is rather different. The ''issuer'' is equivalent to the ''borrower'', the ''bond holder'' to the ''lender'', and the ''coupon'' to the ''interest''. Bonds enable the issuer to finance long-term [[investment]]s with external funds. [[certificate of deposit|Certificates of deposit]] (CDs) or [[commercial paper]] are considered [[money market]] instruments.
+
+In some nations, both ''bonds'' and ''notes'' are used irrespective of the maturity. Market participants normally use ''bonds'' for large issues offered to a wide public, and ''notes'' for smaller issues originally sold to a limited number of investors. There are no clear demarcations.  There are also "bills" which usually denote fixed income securities with three years or less, from the issue date, to maturity.  Bonds have the highest risk, notes are the second highest risk, and bills have the least risk.  This is due to a statistical measure called [[bond duration|duration]], where lower durations have less risk, and are associated with shorter term obligations.
+
+Bonds and [[stock]]s are both [[security (finance)|securities]], but the difference is that stock holders own a part of the issuing company (have an [[Stock|equity]] stake), whereas bond holders are in essence lenders to the issuer.  Also bonds usually have a defined term, or maturity, after which the bond is redeemed whereas stocks may be outstanding indefinitely.  An exception is a [[consol]] bond, which is a [[perpetuity]] (i.e. bond with no maturity).
+
+==Issuers==
+
+The range of issuers of bonds is very large. Almost any organization could issue bonds, but the underwriting and legal costs can be prohibitive. Regulations to issue bonds are very strict. Issuers are often classified as follows:
+
+*Supranational agencies, such as the [[European Investment Bank]] or the [[Asian Development Bank]] issue supranational bonds.
+*National Governments issue [[government bonds]] in their own currency. They also issue [[sovereign bonds]] in foreign [[currency|currencies]].
+*Sub-sovereign, provincial, state or local authorities (municipalities). In the U.S. state and local government bonds are known as [[municipal bond]]s.
+*[[Government sponsored entities]].  In the U.S., examples include the [[Federal Home Loan Mortgage Corporation]] (Freddie Mac), the [[Federal National Mortgage Association]] (Fannie Mae), and the [[Federal Home Loan Banks]].  The bonds of these entities are known as agency bonds, or agencies.
+*Companies (corporates) issue [[corporate bond]]s.
+*Special purpose vehicles are companies set up for the sole purpose of containing assets against which bonds are issued, often called [[asset-backed security|asset-backed securities]].
+
+==Issuing bonds==
+Bonds are issued by public authorities, credit institutions, companies and supranational institutions in the [[primary market]]s. The most common process of issuing bonds is through underwriting. In underwriting, one or more securities firms or banks, forming a syndicate, buy an entire issue of bonds from an issuer and re-sell them to investors. Government bonds are typically auctioned.
+
+== Features of bonds ==
+
+The most important features of a bond are:
+*nominal, principal or face amount—the amount over which the issuer pays interest, and which has to be repaid at the end.
+
+*issue price—the price at which investors buy the bonds when they are first issued, typically $1,000.00. The net proceeds that the issuer receives are calculated as the issue price, less issuance fees, times the nominal amount.
+
+*maturity date—the date on which the issuer has to repay the nominal amount. As long as all payments have been made, the issuer has no more obligations to the bond holders after the maturity date. The length of time until the maturity date is often referred to as the term or maturity of a bond. The maturity can be any length of time, although debt securities with a term of less than one year are generally designated money market instruments rather than bonds. Most bonds have a term of up to thirty years. Some bonds have been issued with maturities of up to one hundred years, and some even do not mature at all. In early [[2005]], a market developed in [[euro]]s for bonds with a maturity of fifty years. In the market for U.S. Treasury securities, there are three groups of bond maturities:
+**short term (bills): maturities up to one year;
+**medium term (notes): maturities between one and ten years;
+**long term (bonds): maturities greater than ten years.
+
+*[[coupon (bond)|coupon]]—the interest rate that the issuer pays to the bond holders. Usually this rate is fixed throughout the life of the bond. It can also vary with a money market index, such as [[LIBOR]], or it can be even more exotic. The name coupon originates from the fact that in the past, physical bonds were issued which had coupons attached to them. On coupon dates the bond holder would give the coupon to a bank in exchange for the interest payment.
+
+*coupon dates—the dates on which the issuer pays the coupon to the bond holders. In the U.S., most bonds are semi-annual, which means that they pay a coupon every six months. In Europe, most bonds are annual and pay only one coupon a year.
+
+*indenture or covenants—a document specifying the rights of bond holders. In the U.S., federal and state securities and commercial laws apply to the enforcement of those documents, which are construed by courts as contracts.  The terms may be changed only with great difficulty while the bonds are outstanding, with amendments to the governing document generally requiring approval by a majority (or super-majority) vote of the bond holders.
+
+*Optionality: a bond may contain an embedded option; that is, it grants [[Option (finance)|option like]] features to the buyer or issuer:
+**callability—Some bonds give the issuer the right to repay the bond before the maturity date on the [[call dates]]; see [[call option]]. These bonds are referred to as [[callable bonds]]. Most callable bonds allow the issuer to repay the bond at [[Par value|par]]. With some bonds, the issuer has to pay a premium, the so called [[call premium]]. This is mainly the case for high-yield bonds. These have very strict covenants, restricting the issuer in its operations. To be free from these covenants, the issuer can repay the bonds early, but only at a high cost.
+**puttability—Some bonds give the bond holder the right to force the issuer to repay the bond before the maturity date on the put dates; see [[put option]].
+**call dates and put dates—the [[option style|dates]] on which callable and puttable bonds can be redeemed early. There are four main categories.
+***A Bermudan callable has several call dates, usually coinciding with coupon dates.
+***A European callable has only one call date. This is a special case of a Bermudan callable.
+***An American callable can be called at any time until the maturity date.
+***A death put is an optional redemption feature on a debt instrument allowing the beneficiary of the estate of the deceased to put (sell) the bond (back to the issuer) in the event of the beneficiary's death or legal incapacitation. Also known as a "survivor's option". 
+
+*sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically. The entire bond issue can be liquidated by the maturity date. If that is not the case, then the remainder is called balloon maturity. Issuers may either pay to trustees, which in turn call randomly selected bonds in the issue, or, alternatively, purchase bonds in open market, then return them to trustees.
+
+*[[convertible bond]] lets a bondholder exchange a bond to a number of shares of the issuer's common stock. 
+
+*[[exchangeable bond]] allows for exchange to shares of a corporation other than the issuer.
+
+==Types of bond==
+
+*[[Fixed rate bond]]s have a coupon that remains constant throughout the life of the bond.
+
+*[[Floating rate note]]s (FRN's) have a coupon that is linked to a [[money market index]], such as [[LIBOR]] or [[Euribor]], for example three months USD LIBOR + 0.20%. The coupon is then reset periodically, normally every three months.
+
+*[[High-yield bond|High yield bonds]] are bonds that are rated below investment grade by the [[credit rating agency|credit rating agencies]]. As these bonds are relatively risky, investors expect to earn a higher yield. These bonds are also called [[junk bonds]].
+
+*[[Zero coupon bond]]s do not pay any interest. They trade at a substantial discount from [[par value]]. The bond holder receives the full principal amount as well as value that has accrued on the redemption date. An example of zero coupon bonds are Series E savings bonds issued by the U.S. government. [[Zero coupon bond]]s may be created from fixed rate bonds by financial institutions by "stripping off" the coupons. In other words, the coupons are separated from the final principal payment of the bond and traded independently.   
+
+*[[Inflation linked bond]]s, in which the principal amount is indexed to inflation. The interest rate is lower than for fixed rate bonds with a comparable maturity. However, as the principal amount grows, the payments increase with inflation. The [[government of the United Kingdom]] was the first to issue inflation linked [[Gilts]] in the [[1980s]]. [[Treasury Inflation-Protected Securities]] (TIPS) and [[I-bonds]] are examples of inflation linked bonds issued by the U.S. government. 
+
+* Other indexed bonds, for example [[equity linked note]]s and bonds indexed on a business indicator (income, added value) or on a country's [[GDP]].
+
+*[[Asset-backed security|Asset-backed securities]] are bonds whose interest and principal payments are backed by underlying cash flows from other assets. Examples of asset-backed securities are [[mortgage-backed security|mortgage-backed securities]] (MBS's), [[collateralized mortgage obligation]]s (CMOs) and [[collateralized debt obligation]]s (CDOs).
+
+*[[Subordinated bonds]] are those that have a lower priority than other bonds of the issuer in case of [[liquidation]]. In case of bankruptcy, there is a hierarchy of creditors. First the [[liquidator (law)|liquidator]] is paid, then government taxes, etc. The first bond holders in line to be paid are those holding what is called senior bonds. After they have been paid, the subordinated bond holders are paid. As a result, the risk is higher. Therefore, subordinated bonds usually have a lower credit rating than senior bonds. The main examples of subordinated bonds can be found in bonds issued by banks, and asset-backed securities. The latter are often issued in [[tranches]]. The senior tranches get paid back first, the subordinated tranches later.
+
+*[[Perpetual bonds]] are also often called [[perpetuities]]. They have no maturity date. The most famous of these are the UK Consols, which are also known as Treasury Annuities or Undated Treasuries. Some of these were issued back in [[1888]] and still trade today. Some ultra long-term bonds (sometimes a bond can last centuries: West Shore Railroad issued a bond which matures in 2361 (i.e. 24th century)) are sometimes viewed as perpetuities from a financial point of view, with the current value of principal near zero.
+
+*[[Bearer bond]] is an official certificate issued without a named holder. In other words,  the person who has the paper certificate can claim the value of the bond. Often they are registered by a number to prevent counterfeiting,  but may be traded like cash. Bearer bonds are very risky because they can be lost or stolen. Especially after federal income tax began in the United States, bearer bonds were seen as an opportunity to conceal income or assets.<ref>Eason, Yla (June 6, 1983). "Final Surge in Bearer Bonds" ''New York Times''.</ref>  U.S. corporations stopped issuing bearer bonds in the 1960s, the U.S. Treasury stopped in 1982, and state and local tax-exempt bearer bonds were prohibited in 1983.<ref>Quint, Michael (August 14, 1984). "Elements in Bearer Bond Issue". ''New York Times''.</ref>
+
+*[[Bear bond]], often confused with [[Bearer bond]], is a bond issued in Russian roubles by a Russian entity in the Russian market. 
+
+*Registered bond is a bond whose ownership (and any subsequent purchaser) is recorded by the issuer, or by a transfer agent.  It is the alternative to a [[Bearer bond]].  Interest payments, and the principal upon maturity, are sent to the registered owner.
+
+*[[Municipal bond]] is a bond issued by a state, U.S. Territory, city, local government, or their agencies. Interest income received by holders of municipal bonds is often [[tax advantage|exempt]] from the federal [[income tax]] and from the income tax of the state in which they are issued, although municipal bonds issued for certain purposes may not be tax exempt.
+
+*Book-entry bond is a bond that does not have a paper certificate.  As physically processing paper bonds and interest coupons became more expensive, issuers (and banks that used to collect coupon interest for depositors) have tried to discourage their use.  Some book-entry bond issues do not offer the option of a paper certificate, even to investors who prefer them.<ref>no byline (July 18, 1984). "Book Entry Bonds Popular". ''New York Times''.</ref>
+
+*[[Lottery Bond|Lottery bond]] is a bond issued by a state, usually a European state. Interest is paid like a traditional fixed rate bond, but the issuer will redeem randomly selected individual bonds within the issue according to a schedule. Some of these redemptions will be for a higher value than the face value of the bond.
+
+*[[War bond]] is a bond issued by a country to fund a war.
+===Bonds issued by foreign entities===
+Some companies, banks, governments, and other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency. 
+Issuing bonds denominated in foreign curriencies also gives issuers the ability to access investment capital available in foreign markets. The proceeds from the issuance of these bonds can be used by companies to break into foreign markets, or can be converted into the issuing company's local currency to be used on existing operations. Foreign issuer bonds can also be used to hedge foreign exchange rate risk. Some of these bonds are called by their nicknames, such as the "samurai bond."
+
+*Eurodollar bond, a U.S. dollar-denominated bond issued by a non-U.S. entity outside the U.S.{{Fact|date=July 2007}}
+*Kangaroo bond, an Australian dollar-denominated bond issued by a non-Australian entity in the Australian market
+*Maple bond, a Canadian Dollar-denominated bond issued by a non-Canadian entity in the Canadian market
+*Samurai bond, a Japanese Yen-denominated bond issued by a non-Japanese entity in the Japanese market
+*Yankee bond, a US Dollar-denominated bond issued by a non-US entity in the US market
+*Shogun bond, a non-yen-denominated bond issued in Japan by a non-Japanese institution or government
+*Bulldog bond, a pound sterling-denominated bond issued in London by a foreign institution or government
+*Matrioshka Bond, a Russian rouble-denominated bond issued in the Russian Federation by non-Russian entities. The name derives from the famous Russian wooden dolls, [[Matrioshka]], popular among foreign visitors to Russia
+*[[Arirang bond]], a Korean won-denominated bond issued by a non-Korean entity in the Korean market<ref>{{cite journal|url=http://www.tcd.ie/iiis/documents/discussion/pdfs/iiisdp138.pdf|title=Developing Foreign Bond Markets: The Arirang Bond Experience in Korea|last=Batten|first=Jonathan A.|coauthors=Peter G. Szilagyi|format=PDF|journal=IIS Discussion Papers|issue=138|date=2006-04-19|accessdate=2007-07-06}}</ref>
+*[[Kimchi bond]], a non-Korean won-denominated bond issued by a non-Korean entity in the Korean market.<ref>{{cite news|url=http://www.hani.co.kr/arti/economy/stock/126171.html|publisher=The Hankyoreh|title=‘김치본드’ 내달 처음으로 선보인다 (Announcement: first 'Kimchi Bonds' next month)|date=2006-05-24|last=Gwon|first=Yeong-seok|accessdate=2007-07-06}}</ref>
+* Ninja loan, a Japanese yen syndicated loan by a foreign borrower [http://www.thestandard.hk/news_detail.asp?we_cat=10&art_id=7106&sid=5769214&con_type=1&d_str=20051205]
+* [[Formosa bond]], a non-New Taiwan Dollar-denominated bond issued by a non-Taiwan entity in the Taiwan market<ref name="TaipeiTimes20070419">{{cite news|publisher=Taipei Times|date=2007-04-19|accessdate=2007-07-04|title=BNP Paribas mulls second bond issue on offshore market|last=Chung|first=Amber|url=http://www.taipeitimes.com/News/biz/archives/2007/04/19/2003357355}}</ref>
+* [[Panda bond]], a Chinese renminbi-denominated bond issued by a non-China entity in the People's Republic of China market<ref name="WSJ20051011">{{cite news|publisher=The Wall Street Journal|title=Chinese Markets Take New Step With Panda Bond|last=Areddy|first=James T.|date=2005-10-11|accessdate=2007-07-06|url=http://online.wsj.com/article/SB112893305062664267.html?mod=article-outset-box}}</ref>
+*[[State of Israel bond]], a bond demoninated in multiple currencies issued by the State of Israel through the Development Corporation of Israel.
+
+==Trading and valuing bonds==
+{{See also|Bond valuation}}
+
+The interest rate that the issuer of a bond must pay is influenced by a variety of factors, such as current market interest rates, the length of the term and the credit worthiness of the issuer. 
+
+These factors are likely to change over time, so the market value of a bond can vary after it is issued.  Because of these differences in market value, bonds are priced in terms of percentage of par value. Bonds are not necessarily issued at par (100% of face value, corresponding to a price of 100), but all bond prices converge to par when they reach maturity. This is because if the prices do not converge, [[arbitrage | arbitrageurs]] can make risk-free profit by buying the bonds at a discount and collecting the face value at maturity.  At other times, prices can either rise (bond is priced at greater than 100), which is called trading at a premium, or fall (bond is priced at less than 100), which is called trading at a discount.  Most government bonds are denominated in units of $1000, if in the [[United States]], or in units of £100, if in the [[United Kingdom]].  Hence, a deep discount US bond, selling at a price of 75.26, indicates a selling price of $752.60 per bond sold.  (Often, bond prices are quoted in points and thirty-seconds of a point, rather than in decimal form.)  Some short-term bonds, such as the U.S. [[Treasury Bill]], are always issued at a discount, and pay par amount at maturity rather than paying coupons.  This is called a discount bond.  
+
+The market price of a bond is the [[present value]] of all future interest and principal payments of the bond discounted at the bond's [[yield]], or [[rate of return]].  The yield represents the current market interest rate for bonds with similar characteristics.  The yield and price of a bond are inversely related so that when market interest rates rise, bond prices generally fall and vice versa.
+
+The [[market price]] of a bond may include the [[accrued interest]] since the last coupon date. (Some bond markets include accrued interest in the trading price and others add it on explicitly after trading.) The price including accrued interest is known as the "flat" or "[[dirty price]]". (''See also'' [[Accrual bond]].)  The price excluding accrued interest is sometimes known as the [[Clean price]].
+
+The interest rate adjusted for the current price of the bond is called the "current yield" or "earnings yield" (this is the nominal yield multiplied by the par value and divided by the price). 
+
+Taking into account the expected [[capital gain]] or loss (the difference between the current price and the [[redemption value]]) gives the "redemption yield": roughly the current [[yield]] plus the capital gain (negative for loss) per year until redemption.
+
+The relationship between yield and maturity for otherwise identical bonds is called a [[yield curve]].
+
+Bonds markets, unlike stock or share markets, often do not have a centralized exchange or trading system.  Rather, in most developed [[bond market]]s such as the U.S., Japan and western Europe, bonds trade in decentralized, dealer-based [[over-the-counter (finance)|over-the-counter]] markets.  In such a market, [[market liquidity]] is provided by dealers and other market participants committing risk capital to trading activity.  In the bond market, when an investor buys or sells a bond, the counterparty to the trade is almost always a bank or securities firm acting as a dealer.  In some cases, when a dealer buys a bond from an investor, the dealer carries the bond "in inventory."  The dealer's position is then subject to risks of price fluctuation.  In other cases, the dealer immediately resells the bond to another investor.
+
+Bond markets also differ from stock markets in that investors generally do not pay brokerage commissions to dealers with whom they buy or sell bonds.  Rather, dealers earn revenue for trading with their investor customers by means of the spread, or difference, between the price at which the dealer buys a bond from one investor--the "bid" price--and the price at which he or she sells the same bond to another investor--the "ask" or "offer" price.  The [[bid-ask spread|bid/offer spread]] represents the total transaction cost associated with transferring a bond from one investor to another.
+
+==Investing in bonds==
+
+Bonds are bought and traded mostly by institutions like pension funds, insurance companies and banks.  Most individuals who want to own bonds do so through [[bond fund]]s.  Still, in the U.S., nearly ten percent of all bonds outstanding are held directly by households. 
+
+As a rule, bond markets rise (while yields fall) when stock markets fall. Thus bonds are generally viewed as safer investments than [[stock]]s, but this perception is only partially correct.  Bonds do suffer from less day-to-day volatility than stocks, and bonds' interest payments are higher than [[dividend]] payments that the same company would generally choose to pay to its stockholders.  Bonds are liquid &mdash; it is fairly easy to sell one's bond investments, though not nearly as easy as it is to sell stocks &mdash; and the certainty of a fixed interest payment twice per year is attractive.  Bondholders also enjoy a measure of legal protection: under the law of most countries, if a company goes [[bankruptcy|bankrupt]], its bondholders will often receive some money back (the [[recovery amount]]), whereas the company's stock often ends up valueless.  However, bonds can be risky:
+
+* Fixed rate bonds are subject to ''[[interest rate risk]]'', meaning that their market prices will decrease in value when the generally prevailing interest rates rise.  Since the payments are fixed, a decrease in the market price of the bond means an increase in its yield. When the market's interest rates rise, then the [[market price]] for bonds will fall, reflecting investors' improved ability to get a good interest rate for their money elsewhere &mdash; perhaps by purchasing a newly issued bond that already features the newly higher interest rate.  Note that this drop in the bond's market price does not affect the interest payments to the bondholder at all, so long-term investors need not worry about price swings in their bonds and do not suffer from interest rate risk. 
+However, price changes in a bond immediately affect [[mutual fund]]s that hold these bonds. Many institutional investors have to "[[mark to market]]" their trading books at the end of every day. If the value of the bonds held in a trading [[Portfolio (finance)|portfolio]] has fallen over the day, the "mark to market" value of the portfolio may also have fallen. This can be damaging for professional investors such as banks, insurance companies, pension funds and asset managers.
+If there is any chance a holder of individual bonds may need to sell his bonds and "cash out" for some reason, interest rate risk could become a real problem.  (Conversely, bonds' market prices would increase if the prevailing interest rate were to drop, as it did from 2001 through 2003.) One way to quantify the interest rate risk on a bond is in terms of its [[Macaulay Duration|duration]].  Efforts to control this risk are called [[Immunization (finance)|immunization]] or [[hedging]].
+
+* Bond prices can become volatile if one of the [[credit rating agency|credit rating agencies]] like [[Standard & Poor's]] or [[Moody's]] upgrades or downgrades the credit rating of the issuer. A downgrade can cause the market price of the bond to fall.  As with interest rate risk, this risk does not affect the bond's interest payments, but puts at risk the market price, which affects mutual funds holding these bonds, and holders of individual bonds who may have to sell them.
+
+* A company's bondholders may lose much or all their money if the company goes [[bankrupt]].  Under the laws of many countries (including the United States and Canada), bondholders are in line to receive the proceeds of the sale of the assets of a liquidated company ahead of some other creditors.  Bank lenders, deposit holders (in the case of a deposit taking institution such as a bank) and trade creditors may take precedence. 
+There is no guarantee of how much money will remain to repay bondholders.  As an example, after an accounting scandal and a [[Chapter 11]] bankruptcy at the giant telecommunications company [[MCI_Inc.|Worldcom]], in [[2004]] its bondholders ended up being paid 35.7 cents on the dollar. In a bankruptcy involving reorganization or recapitalization, as opposed to liquidation, bondholders may end up having the value of their bonds reduced, often through an exchange for a smaller number of newly issued bonds.
+
+*Some bonds are callable, meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time, the company can choose to pay off the bond early. This creates [[reinvestment risk]], meaning the investor is forced to find a new place for his money, and the investor might not be able to find as good a deal, especially because this usually happens when interest rates are falling.
+
+===Bond indices===
+{{See also|Bond market index}}
+A number of bond indices exist for the purposes of managing portfolios and measuring performance, similar to the [[S&P 500]] or [[Russell Indexes]] for [[stocks]]. The most common American benchmarks are the [[Lehman Aggregate]], [[Citigroup BIG]] and [[Merrill Lynch Domestic Master]]. Most indices are parts of families of broader indices that can be used to measure global bond portfolios, or may be further subdivided by maturity and/or sector for managing specialized portfolios.
+
+==See also==
+*[[Bond market]]
+*[[Bond fund]]
+*[[Bond market index]]
+*[[Brady Bonds]]
+*[[Eurobond]]
+*[[Bond credit rating]]
+*[[Collective action clause]]
+*[[Criticism of debt]]
+*[[Debenture]]
+*[[Fixed income]]
+*[[Immunization (finance)]]
+*[[List of accounting topics]]
+*[[List of economics topics]]
+*[[List of finance topics]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.sifma.org The Securities Industry and Financial Markets Association]
+*[http://bonds.yahoo.com/bond_ed.html Bonds 101], bonds.yahoo.com
+*[http://bonds.yahoo.com/glossary1.html Bond Glossary], bonds.yahoo.com
+*[http://www.dmo.gov.uk/ UK Debt Management Office]
+*[http://www.deutsche-finanzagentur.de/eng/ German Finance Agency]
+*[http://www.moneyweek.com/file/38/bonds.html MoneyWeek Magazine - Investing in Bonds]
+*[http://www.investinginbonds.com/ InvestingInBonds.com], Investor education site sponsored by the Securities Industry and Financial Markets Association, includes real-time prices for corporate and municipal bonds
+*[http://www.investopedia.com/university/advancedbond/advancedbond2.asp Bond Pricing@investopedia]
+
+{{Bond market}}
+
+[[Category:Bonds|*]]
+
+[[be-x-old:Абліґацыя]]
+[[bg:Облигация]]
+[[ca:Obligació]]
+[[cs:Dluhopis]]
+[[da:Obligation]]
+[[de:Verzinsliches Wertpapier]]
+[[el:Ομόλογο]]
+[[es:Bono (finanzas)]]
+[[eo:Obligacio]]
+[[fr:Obligation (finance)]]
+[[hy:Պարտատոմս]]
+[[hr:Obveznica]]
+[[id:Obligasi]]
+[[it:Obbligazione (finanza)]]
+[[he:איגרת חוב]]
+[[lb:Obligatioun]]
+[[lt:Obligacija]]
+[[hu:Kötvény]]
+[[nl:Obligatie]]
+[[ja:債券]]
+[[no:Obligasjon]]
+[[nn:Obligasjon]]
+[[pl:Obligacja]]
+[[pt:Obrigação (bolsa de valores)]]
+[[ro:Obligaţiune]]
+[[ru:Облигация]]
+[[sk:Dlhopis (cenný papier)]]
+[[sr:Обвезница]]
+[[sh:Obveznica]]
+[[fi:Joukkovelkakirja]]
+[[sv:Obligation]]
+[[tr:Tahvil]]
+[[uk:Облігація]]
+[[zh:债券]]

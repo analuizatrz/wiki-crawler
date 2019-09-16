@@ -1,0 +1,500 @@
+{{pp-semi-vandalism|small=yes}}
+{{featured article}}
+{{two other uses|Earth's moon|moons in general|Natural satellite}}
+<!--
+ Please note the formatting and layout of this infobox has been matched with the other bodies of the solar system. Please do not arbitrarily change it without discussion.
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+|bgcolour          = #dddddd
+|name              = Moon
+|apsis             = gee
+|symbol            = [[Image:Moon symbol decrescent.svg|25px]]
+|image             = [[Image:Full Moon Luc Viatour.jpg|280px]]
+|caption           = The Moon as seen by an observer on [[Earth]]
+|periapsis          = 363,104&nbsp;km<br />0.0024&nbsp;[[Astronomical unit|AU]]
+|apoapsis           = 405,696&nbsp;km<br />0.0027&nbsp;AU
+|semimajor         = 384,399&nbsp;km<br />0.00257&nbsp;AU <ref name="W06"/>
+|eccentricity      = 0.0549 <ref name="W06"/>
+|period   = 27.321582 d<br />{{nowrap|27 d 7 h 43.1 min}} <ref name="W06"/>
+|synodic_period     = 29.530588 d<br />{{nowrap|29 d 12 h 44.0 min}}
+|avg_speed         = 1.022 km/s
+|inclination       = 5.145° to [[ecliptic]] <ref name="W06"/><!--Wieczorek et al. 2006; 18.29° when the longitude of the Moon's ascending node is 180°, 28.58° when it is 0°--><br />(between 18.29° and 28.58° to Earth's equator)
+|asc_node          = regressing,<br />1 revolution in 18.6 years
+|arg_peri       = progressing,<br />1 revolution in 8.85 years 
+|satellite_of      = [[Earth]]
+|physical_characteristics = yes
+|flattening        = 0.00125 <!--Calculated from data below-->
+|equatorial_radius = 1,738.14 km<br />0.273&nbsp;Earths <!--Smith et al. 1997 --><!-- more detail needed for this ref -->
+|polar_radius      = 1,735.97 km<br />0.273&nbsp;Earths <!-- Smith et al. 1997-->
+|mean_radius       = 1,737.10 km<br />0.273&nbsp;Earths <ref name="W06"/>
+|circumference   = 10,921 km ([[equator]]ial)
+|surface_area      = 3.793{{e|7}} km²<br />0.074&nbsp;Earths
+|volume            = 2.1958{{e|10}} km³<br />0.020&nbsp;Earths
+|mass              = 7.3477{{e|22}} kg<br />0.0123&nbsp;Earths <ref name="W06"/>
+|density          = 3,346.4 kg/m³ <ref name="W06"/>
+|surface_grav    = 1.622 m/s²<br />0.1654&nbsp;[[g-force|g]]
+|escape_velocity = 2.38 km/s
+|sidereal_day    = 27.321582 d ([[Synchronous rotation|synchronous]]) 
+<!--Wieczorek et al. 2006-->
+|rot_velocity    = 4.627 m/s
+|axial_tilt      = 1.5424° (to ecliptic)<br>6.687° (to orbit plane) 
+|albedo          = 0.12
+|magnitude       = –2.5 to –12.9 <ref>The ''maximum value'' is given based on scaling of the brightness from the value of -12.74 given for an equator to Moon centre distance of 378 000 km in the NASA factsheet reference to the minimum Earth-Moon distance given there, after the latter is corrected for the Earth's equatorial radius of 6378 km, giving 350 600 km. The ''minimum value'' (for a distant [[new moon]]) is based on a similar scaling using the maximum Earth-Moon distance of 407 000 km, given in the fact sheet, and by calculating the brightness of the [[earthshine]] onto such a new moon. The brightness of the earthshine is Earth albedo × (Earth radius / Moon orbit radius) ² relative to the direct solar illumination that occurs for a full moon. Earth albedo = 0.367, Earth radius = (polar radius × equatorial radius)<sup>1/2</sup>=6367 km.</ref><br>
+–12.74 (mean [[full moon]])<ref name=nasafact/>
+|angular_size    = 29.3′ — 34.1' <ref name=nasafact>{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html|title = Moon Fact Sheet|publisher = NASA|last = Williams|first = D.R.|accessdate = 2007-10-12|date = February 10, 2006}}</ref><ref>The range of angular size values given are based on simple scaling of the following values given in the fact sheet reference: at an Earth equator to Moon centre distance of 378 000 km, the angular size is 1896". The same fact sheet gives extreme Earth-Moon distances of 407 000 km and 357 000 km. For the maximum angular size, the minimum distance has to be corrected for the Earth's equatorial radius of 6378 km, giving 350 600 km.</ref>
+|adjectives      = lunar
+|temperatures    = yes
+|temp_name1      = equator 
+|min_temp_1      = 100 [[kelvin|K]]
+|mean_temp_1     = 220 K
+|max_temp_1      = 390 K
+|temp_name2      = 85°N <ref name=Vasavada1999>{{cite journal|author=A.R. Vasavada, D.A. Paige, and S.E. Wood|journal=Icarus|title= Near-Surface Temperatures on Mercury and the Moon and the Stability of Polar Ice Deposits|volume=141|pages=179|yesr=1999|url=http://adsabs.harvard.edu/abs/1999Icar..141..179V}}</ref>
+|min_temp_2      = 70 K 
+|mean_temp_2     = 130 K
+|max_temp_2      = 230 K
+|atmosphere      = yes
+|atmosphere_ref  = <ref name="L06"/><ref name="pressure explanation">Lucey et al. (2006) give 10<sup>7</sup> particles cm<sup>−3</sup> (day) and 10<sup>5</sup> particles cm<sup>−3</sup> (night). Combining this with equatorial surface temperatures of 390 K (day)and 100 K (night), one can use the [[Ideal gas law]] to obtain pressures. Rounding to the nearest order of magnitude gives the infobox values of 10<sup>-7</sup> Pa (day) and 10<sup>-10</sup> Pa (night).</ref>
+|surface_pressure = 10<sup>-7</sup> [[pascal (unit)|Pa]] (day)<br/>10<sup>-10</sup> [[pascal (unit)|Pa]] (night)
+}}
+
+The '''Moon''' ({{lang-la|Luna}}) is [[Earth]]'s only [[natural satellite]], and  is the [[List of natural satellites by diameter|fifth largest one]] in the [[Solar System]]. The average centre-to-centre distance from the Earth to the Moon is 384,403 km, which is about thirty times the diameter of the Earth. The Moon has a diameter of 3,474 km<ref name="worldbook">{{cite web | last =  Spudis | first = P.D. | date = 2004 | url = http://www.nasa.gov/worldbook/moon_worldbook.html | title = Moon | publisher = World Book Online Reference Center, [[NASA]] | accessdate = 2007-04-12}}</ref>&mdash;slightly more than a quarter that of the Earth and slightly smaller than the east–west distance across the United States. This means that the volume of the Moon is about 2 percent that of Earth. The [[gravitation]]al pull at its surface is about 17 percent of the Earth's. The Moon makes a complete [[orbit]] around the Earth every 27.3 days, and the periodic variations in the geometry of the Earth–Moon–[[Sun]] system are responsible for the [[lunar phase]]s that repeat every 29.5&nbsp;days.
+
+The Moon is the only [[astronomical object|celestial body]] to which humans have travelled and upon which humans have landed. The first artificial object to escape Earth's gravity and pass near the Moon was the [[Soviet Union]]'s [[Luna 1]], the first artificial object to impact the lunar surface was [[Luna 2]], and the first photographs of the normally occluded [[far side of the Moon]] were made by [[Luna 3]], all in 1959. The first spacecraft to perform a successful lunar soft landing was [[Luna 9]], and the first unmanned vehicle to orbit the Moon was [[Luna 10]], both in 1966.<ref name="worldbook" /> The [[United States]] (U.S.) [[Apollo program]] achieved the only manned missions to date, resulting in six landings between 1969 and 1972. Human exploration of the Moon ceased with the conclusion of the Apollo program, although several countries have announced plans to send people or robotic spacecraft to the Moon.
+
+==Name and etymology==
+Unlike the moons of other planets, the moon of the Earth has no proper [[English language|English]] name other than "the Moon" (capitalized).
+
+The word ''moon'' is a [[Germanic languages|Germanic word]], related to Latin {{lang|la|''mensis''}}; it is ultimately a derivative of the [[PIE|Proto-Indo-European]] root ''me-'', also represented in ''measure''<ref name="etymonline" /> (time), with reminders of its importance in measuring time in words derived from it like Monday, [[month]] and menstrual. In English, the word ''moon'' exclusively meant "the Moon" until 1665, when it was extended to refer to the recently-discovered [[natural satellite]]s of other planets.<ref name="etymonline">{{cite web |url = http://www.etymonline.com/index.php?l=m&p=21 | last = Harper | first = D. | title = Moon | publisher = Online Etymology Dictionary | date = November 2001 | accessdate = 2007-08-17}}</ref> The Moon is occasionally referred to by its Latin name, {{lang|la|''Luna''}}, in order to distinguish it from other natural satellites, with a related adjective ''lunar'', and an adjectival prefix ''seleno-'' or suffix ''-selene'' (from the [[Greek mythology|Greek deity]] [[Selene]]<!-- The word usually came before the naming of the deity "in the beginning was the word" -->).
+
+==Lunar surface==
+{{main|Geology of the Moon}}
+
+===Two sides of the Moon===
+The Moon is in [[synchronous rotation]], meaning that it keeps nearly the same face turned towards the Earth at all times. Early in the Moon's history, its rotation slowed and became [[Tidal locking|locked]] in this configuration as a result of [[friction]]al effects associated with tidal deformations caused by the Earth.<ref>{{cite journal | last = Alexander | first = M. E. | title = The Weak Friction Approximation and Tidal Evolution in Close Binary Systems | journal = Astrophysics and Space Science | date = 1973 | volume = 23 | pages = 459&ndash;508 | url = http://adsabs.harvard.edu/abs/1973Ap&SS..23..459A| accessdate = 2007-04-12}}</ref> 
+
+Long ago when the Moon spun much faster, its tidal bulge preceded the Earth-Moon line because it couldn't "snap back" its bulges quickly enough to keep its bulges in line with Earth.<ref>[http://www.wonderquest.com/MoonSpin.htm Does the Moon rotate?] </ref> The rotation swept the bulge beyond the Earth-Moon line. This out-of-line bulge caused a torque, slowing the Moon spin, like a wrench tightening a nut. When the Moon's spin slowed enough to match its orbital rate, then the bulge always faced Earth, the bulge was in line with Earth, and the torque disappeared. That is why the Moon rotates at the same rate as it orbits and we always see the same side of the Moon. 
+
+Small variations ([[libration]]) in the angle from which the Moon is seen allow about 59% of its surface to be seen from the earth (but only half at any instant).<ref name="worldbook" /> 
+{| class="toccolours" align="center"
+| [[Image:Moon PIA00302.jpg|200px]]
+|&nbsp;
+| [[Image:Moon PIA00304.jpg|200px]]
+|-
+| style="text-align:center;"|[[Near side of the Moon]]
+|&nbsp;
+| style="text-align:center;"|[[Far side of the Moon]]
+|}
+The side of the Moon that faces Earth is called the [[Near side of the Moon|near side]], and the opposite side the [[Far side of the Moon|far side]]. The far side should not be confused with the dark side, which is the hemisphere that is not being illuminated by the [[Sun]] at a given moment (this may be the side facing the Earth, as it is once a month during the New Moon phase). The far side of the Moon was first photographed by the Soviet probe [[Luna 3]] in 1959. One distinguishing feature of the far side is its almost complete lack of [[lunar mare|''maria'']].
+
+[[Image:Lunar libration with phase Oct 2007.gif|thumb|right|250px|Lunar [[libration]]]]
+
+===Maria===
+{{Main|Lunar mare}}
+The dark and relatively featureless lunar plains humans can clearly see when the Moon is full  are called ''[[lunar mare|maria]]'' (singular ''mare''), Latin for seas, since they were believed by ancient [[astronomer]]s to be filled with water. These are now known to be vast solidified pools of ancient [[basalt]]ic lava. The majority of these lavas erupted or flowed into the depressions associated with [[impact crater|impact basins]] that formed by the collisions of meteors and comets with the lunar surface. ([[Oceanus Procellarum]] is a major exception in that it does not correspond to a known impact basin). Maria are found almost exclusively on the near side of the Moon, with the far side having only a few scattered patches covering only about 2% of its surface,<ref>{{cite journal | last = Gillis | first = J.J. | coauthors = Spudis, P.D. | title = The Composition and Geologic Setting of Lunar Far Side Maria | journal = Lunar and Planetary Science | date = 1996 | volume = 27 | pages = 413&ndash;404 | url = http://adsabs.harvard.edu/abs/1996LPI....27..413G| accessdate = 2007-04-12}}</ref> compared with about 31% on the near side.<ref name="worldbook" /> The most likely explanation for this difference is related to a higher concentration of heat-producing elements on the near-side hemisphere, as has been demonstrated by geochemical maps obtained from the [[Lunar Prospector]] gamma-ray spectrometer.<ref name="S06">{{cite journal | last = Shearer | first = C. | coauthors = et al. | title = Thermal and magmatic evolution of the Moon | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 365&ndash;518 | date = 2006}}</ref><ref>{{cite web | url = http://www.psrd.hawaii.edu/Aug00/newMoon.html | title = A New Moon for the Twenty-First Century | last = Taylor | first = G.J. | publisher = Hawai'i Institute of Geophysics and Planetology | date = [[2000-08-31]] | accessdate = 2007-04-12}}</ref> Several provinces containing [[shield volcano]]es and volcanic [[lunar dome|dome]]s are found within the near side maria.<ref>{{cite journal | last = Head | first = L.W.J.W. | title = Lunar Gruithuisen and Mairan domes: Rheology and mode of emplacement | journal = Journal of Geophysical Research | date = 2003 | volume = 108 | url = http://www.agu.org/pubs/crossref/2003/2002JE001909.shtml | accessdate = 2007-04-12}}</ref>
+
+===Terrae===
+The lighter-colored regions of the Moon are called ''terrae'', or more commonly just ''highlands'', since they are higher than most maria. Several prominent mountain ranges on the near side are found along the periphery of the giant [[impact crater|impact basins]], many of which have been filled by mare basalt. These are believed to be the surviving remnants of the impact basin's outer rims.<ref>{{cite web |first = W. | last = Kiefer | date = [[2000-10-03]] | url = http://www.lpi.usra.edu/expmoon/orbiter/orbiter-basins.html | title = Lunar Orbiter: Impact Basin Geology | publisher = Lunar and Planetary Institute | accessdate = 2007-04-12}}</ref> In contrast to the Earth, no major lunar mountains are believed to have formed as a result of tectonic events.<ref>{{cite web | last = Munsell | first = K. | publisher = NASA | work = Solar System Exploration | title = Majestic Mountains | url = http://sse.jpl.nasa.gov/educ/themes/display.cfm?Item=mountains | date = [[2006-12-04]] | accessdate = 2007-04-12}}</ref>
+
+From images taken by the [[Clementine mission]], it appears that four mountainous regions on the rim of the 73 km-wide [[Peary (crater)|Peary crater]] at the Moon's north pole remain illuminated for the entire lunar day. These [[Peak of Eternal Light|peaks of eternal light]] are possible because of the Moon's extremely small axial tilt to the [[ecliptic plane]]. No similar regions of eternal light were found at the south pole, although the rim of [[Shackleton (crater)|Shackleton crater]] is illuminated for about 80% of the lunar day. Another consequence of the Moon's small axial tilt is regions that remain in permanent shadow at the bottoms of many polar craters.<ref name="M03">{{cite web | url = http://www.psrd.hawaii.edu/June03/lunarShadows.html | title = The Moon's Dark, Icy Poles | last = Martel | first = L. | publisher = Hawai'i Institute of Geophysics and Planetology | date = [[2003-06-04]] | accessdate = 2007-04-12}}</ref>
+
+===Impact craters===
+[[Image:Moon-craters.jpg|right|thumb|Lunar crater [[Daedalus (crater)|Daedalus]] on the Moon's far side]]
+
+The Moon's surface shows obvious evidence of having been affected by [[impact crater]]ing.<ref>{{cite book | title = Impact cratering: A geologic process | last = Melosh | first = H. J. | publisher = Oxford Univ. Press | date = 1989}}</ref> Impact craters form when asteroids and comets collide with the lunar surface, and globally about half a million craters with diameters greater than 1 km can be found. Since impact craters accumulate at a nearly constant rate, the number of craters per unit area superposed on a geologic unit can be used to estimate the age of the surface (see [[crater counting]]). The lack of an atmosphere, weather and recent geological processes ensures that many of these craters have remained relatively well preserved in comparison to those found on Earth.
+
+The largest crater on the Moon, which also has the distinction of being the largest known crater in the Solar System, is the [[South Pole-Aitken basin]]. This impact basin is located on the far side, between the South Pole and equator, and is some 2240&nbsp;km in diameter and 13&nbsp;km in depth.<ref>{{cite web | url = http://www.psrd.hawaii.edu/July98/spa.html | title = The biggest hole in the Solar System | last = Taylor | first = G.J. | date = [[1998-07-17]] | publisher = Hawai'i Institute of Geophysics and Planetology | accessdate = 2007-04-12}}</ref> Prominent impact basins on the near side include [[Mare Imbrium|Imbrium]], [[Mare Serenitatis|Serenitatis]], [[Mare Crisium|Crisium]], and [[Mare Nectaris|Nectaris]].
+
+===Regolith===
+Blanketed atop the Moon's crust is a highly [[Comminution|comminuted]] (broken into ever smaller particles) and "impact gardened" surface layer called [[regolith]]. Since the regolith forms by impact processes, the regolith of older surfaces is generally thicker than for younger surfaces. In particular, it has been estimated that the regolith varies in thickness from about 3–5&nbsp;m in the maria, and by about 10–20&nbsp;m in the highlands.<ref>{{cite book | last = Heiken | first = G. | coauthors = Vaniman, D.; French, B. (eds.) |date = 1991 |title = Lunar Sourcebook, a user's guide to the Moon | publisher = Cambridge University Press | location = New York | pages = 736}}</ref> Beneath the finely comminuted regolith layer is what is generally referred to as the ''megaregolith''. This layer is much thicker (on the order of tens of kilometres) and comprises highly fractured bedrock.<ref>{{cite journal | last = Rasmussen | first = K.L. | coauthors = Warren, P.H. | title = Megaregolith thickness, heat flow, and the bulk composition of the moon | journal = Nature | date = 1985 | volume = 313 | pages = 121&ndash;124 | url = http://adsabs.harvard.edu/abs/1985Natur.313..121R | accessdate = 2007-04-12}}</ref>
+
+===Presence of water===
+{{main|Lunar ice}}
+The continuous bombardment of the Moon by [[comet]]s and [[meteoroid]]s has most likely added small amounts of water to the lunar surface. If so, sunlight would split much of this water into its constituent elements of hydrogen and oxygen, both of which would ordinarily escape into space over time, because of the Moon's weak gravity. However, because of the slightness of the axial tilt of the Moon's spin axis to the ecliptic plane—only 1.5°—some deep craters near the poles never receive direct light from the Sun and are thus in permanent shadow (see [[Shackleton (crater)|Shackleton crater]]). Water molecules that ended up in these craters could be stable for long periods of time.
+
+Clementine has mapped craters at the lunar south pole<ref>{{cite web| url = http://www.lpi.usra.edu/publications/slidesets/clem2nd/slide_32.html| title = Lunar Polar Composites | publisher = Lunar and Planetary Institute | accessdate = 2007-04-12}}</ref> that are shadowed in this way, and computer simulations suggest that up to 14,000&nbsp;km² might be in permanent shadow.<ref name="M03"/> Results from the [[Clementine mission]] bistatic radar experiment are consistent with small, frozen pockets of water close to the surface, and data from the [[Lunar Prospector]] neutron spectrometer indicate that anomalously high concentrations of hydrogen are present in the upper metre of the regolith near the polar regions.<ref>{{cite web | url = http://lunar.arc.nasa.gov/results/ice/eureka.htm | title = Eureka! Ice found at lunar poles | publisher = Lunar Prospector (NASA) | date = [[2001-08-31]] | accessdate = 2007-04-12}}</ref> Estimates for the total quantity of water ice are close to one cubic kilometre.
+
+Water ice can be mined and then split into its constituent hydrogen and oxygen atoms by means of nuclear generators or electric power stations equipped with solar panels. The presence of usable quantities of water on the Moon is an important factor in rendering [[lunar habitation]] cost-effective, since transporting water from Earth would be prohibitively expensive. However, recent observations made with the [[Arecibo Observatory|Arecibo]] planetary radar suggest that some of the near-polar Clementine radar data that were previously interpreted as being indicative of water ice might instead be a result of rocks ejected from young impact craters.<ref>{{cite web| last= Spudis | first = P. | title = Ice on the Moon | url = http://www.thespacereview.com/article/740/1 | publisher = The Space Review | date = [[2006-11-06]] | accessdate = 2007-04-12}}</ref> The question of how much water there is on the Moon has not been resolved.
+
+==Physical characteristics==
+===Internal structure===
+{{main|Internal structure of the Moon}}
+[[Image:Moon Schematic Cross Section.svg|thumb|Schematic illustration of the internal structure of the Moon]]
+
+The Moon is a [[planetary differentiation|differentiated]] body, being composed of a geochemically distinct [[Crust (geology)|crust]], [[Mantle (geology)|mantle]], and [[Planetary core|core]]. This structure is believed to have resulted from the [[fractional crystallization]] of a [[lunar magma ocean|magma ocean]] shortly after its formation about 4.5 billion years ago. The energy required to melt the outer portion of the Moon is commonly attributed to a [[giant impact hypothesis|giant impact]] event that is postulated to have formed the Earth-Moon system, and the subsequent reaccretion of material in Earth orbit. Crystallization of this magma ocean would have given rise to a [[mafic]] mantle and a [[plagioclase]]-rich crust (see ''Origin and geologic evolution'' below).
+
+Geochemical mapping from orbit implies that the crust of the Moon is largely [[anorthosite|anorthositic]] in composition,<ref name="L06">{{cite journal | last = Lucey | first = P. | coauthors = et al. |title = Understanding the lunar surface and space-Moon interactions | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 83&ndash;219 | date = 2006}}</ref> consistent with the magma ocean hypothesis. In terms of elements, the crust is composed primarily of [[oxygen]], [[silicon]], [[magnesium]], [[iron]], [[calcium]], and [[aluminium]]. Based on geophysical techniques, its thickness is estimated to be on average about 50 km.<ref name="W06">{{cite journal | last = Wieczorek | first = M. | coauthors = et al. | title = The constitution and structure of the lunar interior | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 221&ndash;364 | date = 2006 }}</ref>
+
+Partial melting within the mantle of the Moon gave rise to the eruption of mare basalts on the lunar surface. Analyses of these basalts indicate that the mantle is composed predominantly of the minerals [[olivine]], [[orthopyroxene]] and [[clinopyroxene]], and that the lunar mantle is more iron rich than that of the Earth. Some lunar basalts contain high abundances of [[titanium]] (present in the mineral [[ilmenite]]), suggesting that the mantle is highly heterogeneous in composition. Moonquakes have been found to occur deep within the mantle of the Moon about 1,000 km below the surface. These occur with monthly periodicities and are related to tidal stresses caused by the eccentric orbit of the Moon about the Earth.<ref name="W06" />
+
+The Moon has a mean density of 3,346.4&nbsp;kg/m³, making it the second densest moon in the Solar System after [[Io (moon)|Io]]. Nevertheless, several lines of evidence imply that the core of the Moon is small, with a radius of about 350&nbsp;km or less.<ref name="W06"/> This corresponds to only about 20% the size of the Moon, in contrast to about 50% as is the case for most other terrestrial bodies. The composition of the lunar core is not well constrained, but most believe that it is composed of metallic iron alloyed with a small amount of [[sulfur]] and [[nickel]]. Analyses of the Moon's time-variable rotation indicate that the core is at least partly molten.<ref>{{cite journal | last = Williams | first = J.G. | coauthors = Turyshev, S.G.; Boggs, D.H.; Ratcliff, J.T. | title = Lunar laser ranging science: Gravitational physics and lunar interior and geodesy | journal = Advances in Space Research | date = 2006 | volume = 37 | issue = 1 | pages = 6771 | url=http://adsabs.harvard.edu/abs/1987AREPS..15..271S | accessdate = 2007-04-12}}</ref>
+
+===Topography===
+{{main|Topography of the Moon}}
+[[Image:MoonTopoGeoidUSGS.jpg|thumb|right|Topography of the Moon, referenced to the lunar geoid]]
+
+The [[topography]] of the Moon has been measured by the methods of laser altimetry and stereo image analysis, most recently from data obtained during the [[Clementine mission]]. The most visible topographic feature is the giant far side [[South Pole-Aitken basin]], which possesses the lowest elevations of the Moon. The highest elevations are found just to the north-east of this basin, and it has been suggested that this area might represent thick [[ejecta]] deposits that were emplaced during an oblique South Pole-Aitken basin impact event. Other large impact basins, such as [[Mare Imbrium|Imbrium]], [[Mare Serenitatis|Serenitatis]], [[Mare Crisium|Crisium]], [[Mare Smythii|Smythii]], and [[Mare Orientale|Orientale]], also possess regionally low elevations and elevated rims. Another distinguishing feature of the Moon's shape is that the elevations are on average about 1.9&nbsp;km higher on the far side than the near side.<ref name="W06"/>
+
+===Gravity field===
+{{main|Gravity of the Moon}}
+
+The gravitational field of the Moon has been determined through tracking of radio signals emitted by orbiting spacecraft. The principle used depends on the [[Doppler effect]], whereby the spacecraft acceleration in the line-of-sight direction can be determined by means of small shifts in frequency of the radio signal, and the distance from the spacecraft to a station on Earth. However, because of the Moon's [[synchronous rotation]] it is not possible to track spacecraft much over the [[wiktionary:Limb|limb]]s of the Moon, and the farside gravity field is thus only poorly characterised.<ref>{{cite web | url = http://lunar.arc.nasa.gov/results/dopres.htm | publisher = Lunar Prospector (NASA) | title = Doppler Gravity Experiment Results | date = [[2001-08-31]] | accessdate = 2007-04-12}}</ref>
+[[Image:MoonLP150Q grav 150 j2.jpg|right|thumb|Radial gravitational anomaly at the surface of the Moon]]
+
+The major characteristic of the Moon's gravitational field is the presence of [[mascon]]s, which are large positive gravitational anomalies associated with some of the giant [[impact crater|impact basins]].<ref>{{cite journal | last = Muller | first = P. | coauthors = Sjogren, W. | title = Masons: lunar mass concentrations | journal = Science | volume = 161 |pages = 680&ndash;684 | date = 1968}}</ref> These anomalies greatly influence the orbit of spacecraft about the Moon, and an accurate gravitational model is necessary in the planning of both manned and unmanned missions. The mascons are in part due to the presence of dense mare basaltic lava flows that fill some of the impact basins. However, lava flows by themselves can not explain the entirety of the gravitational signature, and uplift of the crust-mantle interface is required as well. Based on [[Lunar Prospector]] gravitational models, it has been suggested that some mascons exist that do not show evidence for mare basaltic volcanism.<ref>{{cite journal | last = Konopliv | first = A. | coauthors = Asmar, S.; Carranza, E.; Sjogren, W.; Yuan, D. | title = Recent gravity models as a result of the Lunar Prospector mission | journal = Icarus | volume = 50 | pages = 1&ndash;18 | date = 2001}}</ref> The huge expanse of mare basaltic volcanism associated with [[Oceanus Procellarum]] does not possess a positive gravitational anomaly.
+
+===Magnetic field===
+{{main|Magnetic field of the Moon}}
+[[Image:Moon LP ER magnetic field.jpg|thumb|right|Total magnetic field strength at the surface of the Moon as derived from the [[Lunar Prospector]] electron reflectometer experiment]]
+
+The Moon has an external [[magnetic field]] of the order of one to a hundred [[Tesla (unit)|nanotesla]]—more than 100 times smaller than the [[Earth's magnetic field|Earth's]], which is 30-60&nbsp;microtesla. Other major differences are that the Moon does not currently have a [[dipole|dipolar]] magnetic field (as would be generated by a [[geodynamo]] in its core), and the magnetizations that are present are almost entirely crustal in origin.<ref>{{cite web |url = http://lunar.arc.nasa.gov/results/magelres.htm | publisher = Lunar Prospector (NASA) | title = Magnetometer / Electron Reflectometer Results | date = 2001 | accessdate = 2007-04-12}}</ref> One hypothesis holds that the crustal magnetizations were acquired early in lunar history when a geodynamo was still operating. The small size of the lunar core, however, is a potential obstacle to this theory. Alternatively, it is possible that on an airless body such as the Moon, transient magnetic fields could be generated during large impact events. In support of this, it has been noted that the largest crustal magnetizations appear to be located near the [[antipodes]] of the giant impact basins. It has been proposed that such a phenomenon could result from the free expansion of an impact generated plasma cloud around the Moon in the presence of an ambient magnetic field.<ref>{{cite journal |last = Hood | first = L.L. | coauthors = Huang, Z. | title = Formation of magnetic anomalies antipodal to lunar impact basins: Two-dimensional model calculations | journal = J. Geophys. Res. | volume = 96 | pages = 9837&ndash;9846 | date = 1991}}</ref>
+
+===Atmosphere===
+{{main|Atmosphere of the Moon}}
+The Moon has an atmosphere so thin as to be almost negligible, with a total atmospheric mass of less than 10<sup>4</sup> kg.<ref>{{cite web| last = Globus | first = Ruth | title = Impact Upon Lunar Atmosphere | url = http://www.nas.nasa.gov/About/Education/SpaceSettlement/75SummerStudy/5appendJ.html| year = 2002|accessdate=2007-08-29}}</ref> One source of its atmosphere is [[outgassing]]&mdash;the release of gases such as [[radon]] that originate by [[radioactive decay]] processes within the crust and mantle. Another important source is generated through the process of [[sputtering]], which involves the bombardment of micrometeorites, solar wind ions, electrons, and sunlight.<ref name="L06"/> Gases that are released by sputtering can either reimplant into the [[regolith]] as a result of the Moon's gravity, or can be lost to space either by solar radiation pressure or by being swept away by the solar wind magnetic field if they are ionised. The elements [[sodium]] (Na) and [[potassium]] (K) have been detected using earth-based spectroscopic methods, whereas the element [[radon]]&ndash;222 (<sup>222</sup>Ra) and [[polonium-210]] (<sup>210</sup>Po) have been inferred from data obtained from the [[Lunar Prospector]] [[alpha particle]] spectrometer.<ref>{{cite journal | last = Lawson | first = S. | coauthors = Feldman, W.; Lawrence, D.; Moore, K.; Elphic, R.; Belian, R. | title = Recent outgassing from the lunar surface: the Lunar Prospector alpha particle spectrometer | journal = J. Geophys. Res. | volume = 110 | pages=1029 | date = 2005}}</ref> [[Argon]]&ndash;40 (<sup>40</sup>Ar), [[helium-4]] (<sup>4</sup>He), [[oxygen]] (O<sub>2</sub>) and/or [[methane]] (CH<sub>4</sub>), [[nitrogen]] (N<sub>2</sub>) and/or [[carbon monoxide]] (CO), and [[carbon dioxide]] (CO<sub>2</sub>) were detected by in-situ detectors placed by the Apollo astronauts.<ref>{{cite journal | last = Stern | first = S.A. | title = The Lunar atmosphere: History, status, current problems, and context | journal = Rev. Geophys. | volume = 37 | date = 1999 | pages = 453&ndash;491}}</ref>
+
+==Origin and geologic evolution==
+===Formation===
+Several mechanisms have been suggested for the Moon's formation. Early speculation proposed that the Moon broke off from the Earth's crust because of [[centrifugal force]]s, leaving a basin (presumed to be the Pacific Ocean) behind as a scar.<ref>{{cite journal | last = Binder | first = A.B. | title = On the origin of the moon by rotational fission | journal = The Moon | date = 1974 | volume = 11 | issue = 2 | pages = 53&ndash;76 | url = http://adsabs.harvard.edu/abs/1974Moon...11...53B | accessdate = 2007-04-12}}</ref> This ''fission'' concept, however, requires too great an initial spin of the Earth. Furthermore, it would have resulted in an orbit following Earth's equatorial plane, which is not the case.  Others speculated that the Moon formed elsewhere and was captured into Earth's orbit.<ref>{{cite journal | last = Mitler | first = H.E. | title = Formation of an iron-poor moon by partial capture, or: Yet another exotic theory of lunar origin | journal = Icarus | date = 1975 | volume = 24 | pages = 256&ndash;268 | url = http://adsabs.harvard.edu/abs/1975Icar...24..256M | accessdate = 2007-04-12}}</ref> However, the conditions required for this ''capture'' mechanism to work (such as an extended atmosphere of the Earth for dissipating energy) are improbable. The ''coformation'' hypothesis posits that the Earth and the Moon formed together at the same time and place from the primordial [[accretion disk]]. In this hypothesis, the Moon formed from material surrounding the proto-Earth, similar to the formation of the planets around the Sun. Some suggest that this hypothesis fails to adequately explain the depletion of metallic iron in the Moon. A major deficiency with all of these hypotheses is that they cannot easily account for the high [[angular momentum]] of the Earth–Moon system.<ref>{{cite journal | last = Stevenson | first = D.J. | title = Origin of the moon &ndash; The collision hypothesis | journal = Annual review of earth and planetary sciences | date = 1987 | volume = 15 | pages = 271&ndash;315 | url = http://adsabs.harvard.edu/abs/1987AREPS..15..271S | accessdate = 2007-04-12}}</ref>
+
+Today, the [[giant impact hypothesis]] for forming the Earth–Moon system is widely accepted by the scientific community. In this hypothesis, the impact of a Mars-sized body ([[Giant impact hypothesis|Theia]]) on the proto-Earth is postulated to have put enough material into circumterrestrial orbit to form the Moon.<ref name="worldbook" /> Given that planetary bodies are believed to have formed by the hierarchical accretion of smaller bodies to larger ones, giant impact events such as this are thought to have affected most planets. Computer simulations modelling this impact are consistent with measurements of the angular momentum of the Earth–Moon system, as well as the small size of the lunar core.<ref>{{cite journal | last = Canup | first = R. | coauthors = Asphaug, E. | title = Origin of the Moon in a giant impact near the end of the Earth's formation | journal = Nature | volume = 412 | pages = 708&ndash;712 | date = 2001}}</ref> Unresolved questions regarding this theory have to do with determining the relative sizes of the proto-Earth and impactor, and with determining how much material from the proto-Earth and impactor ended up in the Moon. The formation of the Moon is believed to have occurred 4.527&nbsp;± 0.010 billion years ago, about 30–50 million years after the origin of the solar system.<ref>{{cite journal | url = http://www.sciencemag.org/cgi/content/abstract/310/5754/1671 | journal = Science | date = 2005 | volume = 310 | issue = 5754 | pages = 1671&ndash;1674 | title = Hf&ndash;W Chronometry of Lunar Metals and the Age and Early Differentiation of the Moon | last = Kleine | first = T. | coauthors = Palme, H.; Mezger, K.; Halliday, A.N. | accessdate = 2007-04-12}}</ref>
+
+===Lunar magma ocean===
+As a result of the large amount of energy liberated during both the giant impact event and the subsequent reaccretion of material in Earth orbit, it is commonly believed that a large portion of the Moon was once initially molten. The molten outer portion of the Moon at this time is referred to as a [[lunar magma ocean|magma ocean]], and estimates for its depth range from about 500&nbsp;km to the entire radius of the Moon.<ref name="S06"/>
+
+As the magma ocean cooled, it [[fractional crystallization|fractionally crystallised]] and [[planetary differentiation|differentiated]], giving rise to a geochemically distinct crust and mantle. The mantle is inferred to have formed largely by the precipitation and sinking of the minerals [[olivine]], [[clinopyroxene]], and [[orthopyroxene]]. After about three-quarters of magma ocean crystallisation was complete, the mineral [[anorthite]] is inferred to have precipitated and floated to the surface because of its low density, forming the crust.<ref name="S06"/>
+
+The final liquids to crystallise from the magma ocean would have been initially sandwiched between the crust and mantle, and would have contained a high abundance of incompatible and heat-producing elements. This geochemical component is referred to by the acronym [[KREEP]], for [[potassium]] (K), [[rare earth elements]] (REE), and [[phosphorus]] (P), and appears to be concentrated within the [[lunar terranes|Procellarum KREEP Terrane]], which is a small geologic province that encompasses most of [[Oceanus Procellarum]] and [[Mare Imbrium]] on the near side of the Moon.<ref name="W06"/>
+
+===Geologic evolution===
+{{seealso|Geology of the Moon}}
+A large portion of the Moon's post&ndash;magma-ocean geologic evolution was dominated by impact cratering. The [[lunar geologic timescale]] is largely divided in time on the basis of prominent basin-forming impact events, such as [[Nectarian|Nectaris]], [[Lower Imbrian|Imbrium]], and [[Mare Orientale|Orientale]]. These impact structures are characterised by multiple rings of uplifted material, and are typically hundreds to thousands of kilometres in diameter. Each multi-ring basin is associated with a broad apron of ejecta deposits that forms a regional stratigraphic horizon. While only a few multi-ring basins have been definitively dated, they are useful for assigning relative ages on the basis of [[Stratigraphy|stratigraphic]] grounds. The continuous effects of impact cratering are responsible for forming the [[regolith]].
+
+The other major geologic process that affected the Moon's surface was [[lunar mare|mare volcanism]]. The enhancement of heat-producing elements within the [[lunar terranes|Procellarum KREEP Terrane]] is thought to have caused the underlying mantle to heat up, and eventually, to partially melt. A portion of these magmas rose to the surface and erupted, accounting for the high concentration of mare basalts on the near side of the Moon.<ref name="S06"/> Most of the Moon's [[lunar mare|mare basalts]] erupted during the Imbrian period in this geologic province 3.0–3.5 billion years ago. Nevertheless, some dated samples are as old as 4.2 billion years,<ref name = "Papike">{{cite journal | last = Papike | first = J. | coauthors = Ryder, G.; Shearer, C. | title = Lunar Samples  | journal = Reviews in Mineralogy and Geochemistry | volume = 36 | pages = 5.1&ndash;5.234 | date = 1998}}</ref> and the youngest eruptions, based on the method of [[crater counting]], are believed to have occurred only 1.2 billion years ago.<ref name = "Hiesinger">{{cite journal | last = Hiesinger | first = H. | coauthors = Head, J.W.; Wolf, U.; Jaumanm, R.; Neukum, G. | title = Ages and stratigraphy of mare basalts in Oceanus Procellarum, Mare Numbium, Mare Cognitum, and Mare Insularum | journal = J. Geophys. Res. | volume = 108 | pages = 1029 | date = 2003}}</ref>
+
+There has been controversy over whether features on the Moon's surface undergo changes over time. Some observers have claimed that craters either appeared or disappeared, or that other forms of transient phenomena had occurred. Today, many of these claims are thought to be illusory, resulting from observation under different lighting conditions, poor [[astronomical seeing]], or the inadequacy of earlier drawings. Nevertheless, it is known that the phenomenon of [[outgassing]] does occasionally occur, and these events could be responsible for a minor percentage of the reported [[transient lunar phenomenon|lunar transient phenomena]]. Recently, it has been suggested that a roughly 3&nbsp;km diameter region of the lunar surface was modified by a gas release event about a million years ago.<ref>{{cite web |url = http://www.psrd.hawaii.edu/Nov06/MoonGas.html | last = Taylor | first = G.J. | title = Recent Gas Escape from the Moon | publisher = Hawai'i Institute of Geophysics and Planetology | date = [[2006-11-08]] | accessdate = 2007-04-12}}</ref><ref>{{cite journal | last = Schultz | first = P.H. | coauthors = Staid, M.I.; Pieters, C.M. | date = 2006 | title = Lunar activity from recent gas release | journal= Nature |volume = 444 |pages = 184&ndash;186}}</ref>
+
+===Moon rocks===
+{{main|Moon rocks}}
+Moon rocks fall into two main categories, based on whether they underlie the lunar highlands (terrae) or the maria. The lunar highlands rocks are composed of three suites: the ''ferroan anorthosite suite'', the ''magnesian suite'', and the ''alkali suite'' (some consider the alkali suite to be a subset of the mg-suite). The ferroan anorthosite suite rocks are composed almost exclusively of the mineral [[anorthite]] (a calic [[plagioclase feldspar]]), and are believed to represent plagioclase flotation cumulates of the lunar magma ocean. The ferroan anorthosites have been dated using radiometric methods to have formed about 4.4 billion years ago.<ref name = "Papike" /><ref name = "Hiesinger" />
+
+The mg- and alkali-suite rocks are predominantly mafic plutonic rocks. Typical rocks are [[dunite]]s, [[troctolite]]s, [[gabbro]]s, alkali [[anorthosite]]s, and more rarely, [[granite]]. In contrast to the ferroan anorthosite suite, these rocks all have relatively high Mg/Fe ratios in their mafic minerals. In general, these rocks represent intrusions into the already-formed highlands crust (though a few rare samples appear to represent extrusive lavas), and they have been dated to have formed about 4.4–3.9&nbsp;billion years ago. Many of these rocks have high abundances of, or are genetically related to, the geochemical component [[KREEP]].
+
+The lunar maria consist entirely of mare basalts. While similar to terrestrial basalts, they have much higher abundances of iron, are completely lacking in hydrous alteration products, and have a large range of titanium abundances.<ref>{{cite web | url = http://www.psrd.hawaii.edu/April04/lunarAnorthosites.html | title = The Oldest Moon Rocks | last = Norman | first = M. | publisher = Hawai'i Institute of Geophysics and Planetology | date = [[2004-04-21]] | accessdate = 2007-04-12}}</ref><ref>{{cite book | last = Varricchio | first = L. | title = Inconstant Moon | publisher = Xlibris Books | date = 2006 | isbn = 1-59926-393-9}}</ref>
+
+Astronauts reported that the dust from the surface felt like snow and smelled like spent [[gunpowder]].<ref>[http://science.nasa.gov/headlines/y2006/30jan_smellofmoondust.htm The Smell of Moondust] from [[NASA]]</ref> The dust is mostly made of [[silicon dioxide]] glass (SiO<sub>2</sub>), most likely created from the meteors that have crashed into the Moon's surface. It also contains [[calcium]] and [[magnesium]].
+
+==Orbit and relationship to Earth==
+{{main|Orbit of the Moon}}
+[[Image:NASA-Apollo8-Dec24-Earthrise.jpg|thumb|right|[[Earth]] as viewed from the Moon during the [[Apollo 8]] mission, [[Christmas Eve]], 1968]]
+The Moon makes a complete orbit around the Earth with respect to the fixed stars (its [[sidereal period]]) about once every 27.3 days. However, since the Earth is moving in its orbit about the Sun at the same time, it takes slightly longer for the Moon to show its same [[lunar phase|phase]] to Earth, which is about 29.5&nbsp;days (its [[synodic period]]).<ref name="worldbook" /> Unlike most satellites of other planets, the Moon orbits near the [[ecliptic]] and not the Earth's [[equatorial plane]]. It is the largest moon in the solar system relative to the size of its planet. ([[Charon (moon)|Charon]] is larger relative to the [[dwarf planet]] [[Pluto]].) The [[natural satellite]]s orbiting other planets are called "moons", after Earth's Moon.
+
+Most of the tidal effects seen on the Earth are caused by the Moon's gravitational pull, with the Sun making only a small contribution. Tidal effects result in an increase of the mean Earth-Moon distance of about 3.8 m per century, or 3.8 cm per year.<ref>{{cite web | url = http://sunearth.gsfc.nasa.gov/eclipse/SEhelp/ApolloLaser.html | title = Apollo Laser Ranging Experiments Yield Results | publisher = NASA | date = [[2005-07-11]] | accessdate = 2007-05-30}}</ref> As a result of the [[conservation of angular momentum]], the increasing semimajor axis of the Moon is accompanied by a gradual slowing of the Earth's rotation by about 0.002 seconds per day per century.<ref>{{cite web | last = Ray | first = R. | date = [[2001-05-15]] | url = http://bowie.gsfc.nasa.gov/ggfc/tides/intro.html | title = Ocean Tides and the Earth's Rotation | publisher = IERS Special Bureau for Tides | accessdate = 2007-04-12}}</ref>
+
+The Earth–Moon system is sometimes considered to be a [[double planet]] rather than a planet–moon system. This is due to the exceptionally large size of the Moon relative to its host planet; the Moon is a quarter the diameter of Earth and 1/81 its mass. However, this definition is criticised by some, since the common centre of mass of the system (the [[barycentre]]) is located about 1700 km beneath the surface of the Earth, or about a quarter of the Earth's radius. The surface of the Moon is less than 1/10<sup>th</sup> that of the Earth, and only about a quarter the size of the Earth's land area (or about as large as Russia, Canada, and the U.S. combined).
+
+In 1997, the asteroid [[3753 Cruithne]] was found to have an unusual Earth-associated [[horseshoe orbit]]. However, astronomers do not consider it to be a second moon of Earth, and its orbit is not stable in the long term.<ref>{{cite web | url = http://www.captaincosmos.clara.co.uk/cruithne.html | last = Vampew | first = A | title = No, it's not our "second" moon!!! | accessdate = 2007-04-12}}</ref> Three other [[near-Earth asteroid]]s, (54509) 2000 PH5, (85770) 1998 UP1 and [[2002 AA29]], which exist in orbits similar to Cruithne's, have since been discovered.<ref>{{cite journal | last = Morais | first = M.H.M. | coauthors = Morbidelli, A. | title = The Population of Near-Earth Asteroids in Coorbital Motion with the Earth | journal = Icarus | date = 2002 | volume = 160 | pages = 1&ndash;9 | url = http://adsabs.harvard.edu/abs/2002Icar..160....1M | accessdate = 2007-04-12}}</ref>
+
+[[Image:Speed of light from Earth to Moon.gif|thumb|600px|center|The relative sizes and separation of the Earth–Moon system along with light’s time-of-flight are shown to scale above. Surface-to-surface transit time of the beam from the Earth to the Moon at its mean orbital distance is 1.255 seconds. The light beam helps provide the sense of scale of the Earth-Moon system relative to the Sun, which is 8.28 light-minutes away (photosphere to Earth surface).]]
+
+==Ocean tides==
+Earth’s<sup>&nbsp;</sup>[[tide|ocean tides]] are initiated by the ''[[tidal force]]'' (a gradient in intensity) of Moon’s gravity and are magnified by a host of effects in Earth’s oceans. The gravitational tidal force arises because the side of Earth facing the Moon (nearest it) is attracted more strongly by the Moon’s gravity than is the center of the Earth and(even less so)the Earth’s far side. The gravitational tide stretches the Earth’s oceans into an ellipse with the Earth in the center. The effect takes the form of two ''bulges''—elevated sea level relative to the Earth: one nearest the Moon and one farthest from it. Since these two bulges rotate around the Earth once a day as it spins on its axis, ocean water is continuously rushing towards the ever-moving bulges. The effects of the two bulges and the massive ocean currents chasing them are magnified by an interplay of other effects; namely frictional coupling of water to Earth’s rotation through the ocean floors, inertia of water’s movement, ocean basins that get shallower near land, and oscillations between different ocean basins. The magnifying effect is a bit like water sloshing high up the sloped end of a bathtub after a relatively small disturbance of one’s body in the deep part of the tub.
+
+Gravitational coupling between the Moon and the oceans affects the [[orbit of the Moon]].  From the Moon's point of view, the tidal bulges are carried ahead by the rotation of the Earth, so that they don't point directly toward the Moon.  The gravitational coupling drains [[kinetic energy]] and [[angular momentum]] from the Earth’s rotation. In turn, angular momentum is added to the Moon's orbit. Somewhat counterintuitively, this moves the Moon to a higher orbit with a longer period.  This results in a 3.8&nbsp;cm yearly increase in the distance between the two bodies.<ref>{{cite web | url = http://sunearth.gsfc.nasa.gov/eclipse/SEhelp/ApolloLaser.html | title = Apollo Laser Ranging Experiments Yield Results | publisher = NASA | date = [[2005-07-11]] | accessdate = 2007-05-30}}</ref> The Moon will continue to move slowly away from the Earth until the tidal effects between the two are no longer of significance, whereupon the Moon's orbit will stabilize.
+
+==Eclipses==
+{{main|Solar eclipse|Lunar eclipse}}
+[[Image:Solar eclips 1999 4 NR.jpg|thumb|right|The 1999 solar eclipse]]
+[[Image:LunarEclipse20070303CRH.JPG|thumb|The 3 March 2007 [[lunar eclipse]]]]
+
+Eclipses can occur only when the Sun, Earth, and Moon are all in a straight line. [[Solar eclipse]]s occur near a [[new moon]], when the Moon is between the Sun and Earth. In contrast, [[lunar eclipse]]s occur near a [[full moon]], when the Earth is between the Sun and Moon.
+
+Because the Moon's orbit around the Earth is inclined by about 5° with respect to the [[ecliptic|orbit of the Earth around the Sun]], eclipses do not occur at every full and new moon. For an eclipse to occur, the Moon must be near the intersection of the two orbital planes.<ref name="eclipse">{{cite web | last = Thieman | first = J. | coauthors = Keating, S. | date = [[2006-05-02]] | url = http://eclipse99.nasa.gov/pages/faq.html | title = Eclipse 99, Frequently Asked Questions | publisher = NASA | accessdate = 2007-04-12}}</ref>
+
+The periodicity and recurrence of eclipses of the Sun by the Moon, and of the Moon by the Earth, is described by the [[saros cycle]], which has a period of approximately 6,585.3&nbsp;days (18 years 11 days 8 hours).<ref>{{cite web |url = http://sunearth.gsfc.nasa.gov/eclipse/SEsaros/SEsaros.html | last = Espenak | first = F |title = Saros Cycle | publisher = NASA | accessdate = 2007-04-12}}</ref>
+
+The angular diameters of the Moon and the Sun as seen from Earth overlap in their variation, so that both [[total eclipse|total]] and [[annular eclipse|annular]] solar eclipses are possible.<ref>{{cite web | first = F | last = Espenak | date = 2000 | url = http://www.mreclipse.com/Special/SEprimer.html | title = Solar Eclipses for Beginners | publisher = MrEclipse | accessdate = 2007-04-12}}</ref> In a total eclipse, the Moon completely covers the disc of the Sun and the solar [[corona]] becomes visible to the [[naked eye]]. Since the distance between the Moon and the Earth is very slightly increasing over time, the angular diameter of the Moon is decreasing. This means that hundreds of millions of years ago the Moon could always completely cover the Sun on solar eclipses so that no annular eclipses were possible. Likewise, about 600&nbsp;million years from now (assuming that the angular diameter of the Sun will not change), the Moon will no longer cover the Sun completely and only annular eclipses will occur.<ref name="eclipse" />
+
+A phenomenon related to eclipse is [[occultation]]. The Moon is continuously blocking our view of the sky by a 1/2 degree-wide circular area. When a bright star or planet ''passes behind'' the Moon it is ''occulted'' or hidden from view. A solar eclipse is an occultation of the Sun. Because the Moon is close to Earth, occultations of individual stars are not visible everywhere, nor at the same time. Because of the precession of the lunar orbit, each year different stars are occulted.<ref>{{cite web | url = http://occsec.wellington.net.nz/total/totoccs.htm | title = Total Lunar Occultations | publisher = Royal Astronomical Society of New Zealand | accessdate = 2007-04-12}}</ref>
+
+The most recent total lunar eclipse took place on [[August 28]], [[2007]]. It was visible from the Americas, the Pacific Ocean, eastern Asia and Oceania. The most recent solar eclipse took place on [[September 11]], [[2007]], visible from southern South America and parts of Antarctica. The next total solar eclipse, on [[August 1]], [[2008]], will have a path of totality beginning in northern Canada and passing through Russia and China.<ref name="Espenak">{{cite web | last = Espenak | first = F. | date = 2007 | url = http://sunearth.gsfc.nasa.gov/eclipse/eclipse.html |title = NASA Eclipse Home Page | publisher = NASA | accessdate = 2007-04-12}}</ref>
+
+==Observation==
+{{see also|Lunar phase|Earthshine|Observing the Moon}}
+During its brightest phase, at "full moon", the Moon has an [[apparent magnitude]] of about −12.6. By comparison, the Sun has an apparent magnitude of −26.8. When the Moon is in a quarter phase, its brightness is not half of a full moon, but only about a tenth. This is because the lunar surface is not a perfect [[Lambertian reflectance|Lambertian reflector]]. When the Moon is full the [[opposition effect]] makes it appear brighter, but away from full there are shadows projected onto the surface which diminish the amount of reflected light.
+
+The Moon appears larger when close to the horizon. This is a purely psychological effect (see [[Moon illusion]]). It is actually about 1.5% smaller when the Moon is near the horizon than when it is high in the sky (because it is farther away by up to one Earth radius).
+
+The moon appears as a relatively bright object in the sky, in spite of its low [[albedo]].  The Moon is about the poorest [[reflector]] in the [[solar system]] and reflects only about 7% of the light incident upon it (about the same proportion as is reflected by a lump of coal).<ref>{{cite web | url = http://liftoff.msfc.nasa.gov/Academy/UNIVERSE/MOON.HTML | publisher = NASA | title = Exploration: The Moon | date = [[1997-11-22]] | accessdate = 2007-08-28}}</ref>
+[[Color constancy]] in the [[visual system]] recalibrates the relations between the colours of an object and its surroundings, and since the surrounding sky is comparatively dark the sunlit Moon is perceived as a bright object.
+[[Image:Halo around moon.jpg|right|thumb|A [[Halo (optical phenomenon)|halo]] around the Moon]]
+
+The highest [[altitude (astronomy)|altitude]] of the Moon on a day varies and has nearly the same limits as the Sun. It also depends on the Earth season and lunar phase, with the full moon being highest in winter. Moreover, the 18.6 year nodes cycle also has an influence, as when the ascending node of the lunar orbit is in the vernal equinox, the lunar declination can go as far as 28° each month (which happened most recently in 2006). This results that the Moon can go overhead on latitudes till 28 degrees (e.g. [[Florida]], [[Canary Islands]] or in the southern hemisphere [[Brisbane]]). Slightly more than 9 years later (next time in 2015) the declination reaches only 18° N or S each month.
+The orientation of the Moon's crescent also depends on the latitude of the observation site. Close to the equator, an observer can see a ''boat'' Moon.<ref>{{cite web | url = http://curious.astro.cornell.edu/question.php?number=393 | publisher = Curious About Astronomy | title = Is the Moon seen as a crescent (and not a "boat") all over the world? | date = [[2002-10-18]] | first = K.| last = Spekkens | accessdate = 2007-04-12}}</ref>
+
+Like the Sun, the Moon can give rise to atmospheric effects, including a 22° [[Halo (optical phenomenon)|halo]] ring, and the smaller [[Corona (meteorology)|coronal rings]] seen more often through thin clouds. For more information on how the Moon appears in Earth's sky, see [[lunar phase]].
+
+==Exploration==
+{{main|Exploration of the Moon|Apollo program|Moon landing}}
+{{see also|Robotic exploration of the Moon|Future lunar missions|Colonization of the Moon}}
+
+The first leap in lunar observation was prompted by the invention of the telescope. [[Galileo Galilei]] made good use of this new instrument and observed mountains and craters on the Moon's surface.
+
+The [[Cold War]]-inspired [[space race]] between the Soviet Union and the U.S. led to an acceleration of interest in the Moon. Unmanned probes, both flyby and impact/lander missions, were sent almost as soon as launcher capabilities would allow. The Soviet Union's [[Luna programme|Luna program]] was the first to reach the Moon with unmanned [[spacecraft]]. The first man-made object to escape Earth's gravity and pass near the Moon was [[Luna 1]], the first man-made object to impact the lunar surface was [[Luna 2]], and the first photographs of the normally occluded far side of the Moon were made by [[Luna 3]], all in 1959. The first spacecraft to perform a successful lunar soft landing was [[Luna 9]] and the first unmanned vehicle to orbit the Moon was [[Luna 10]], both in 1966.<ref name="worldbook" /> Moon samples have been brought back to Earth by three Luna missions ([[Luna 16]], [[Luna 20|20]], and [[Luna 24|24]]) and the Apollo missions 11 to 17 (except [[Apollo 13]], which aborted its planned lunar landing).
+
+[[Image:Luna3mosaic.jpg|thumb|left|First images of the [[far side of the Moon]] taken from [[Luna 3]]]]
+
+The landing of the first humans on the Moon in 1969 is seen as the culmination of the space race.<ref name=CNN>{{cite news | last = Coren | first = M | title = 'Giant leap' opens world of possibility | publisher = CNN.com | date = [[2004-07-26]] | url = http://edition.cnn.com/2004/TECH/space/07/16/moon.landing/index.html | accessdate = 2007-04-12}}
+</ref> [[Neil Armstrong]] became the first person to walk on the Moon as the commander of the American mission [[Apollo 11]] by first setting foot on the Moon at 02:56&nbsp;UTC on [[21 July]], [[1969]].  The American [[Moon landing]] and return was enabled by considerable technological advances, in domains such as [[ablation]] chemistry and [[atmospheric re-entry]] technology, in the early 1960s.
+
+Scientific instrument packages were installed on the lunar surface during all of the ''Apollo'' missions. Long-lived [[ALSEP]] stations (Apollo lunar surface experiment package) were installed at the [[Apollo 12]], [[Apollo 14|14]], [[Apollo 15|15]], [[Apollo 16|16]], and [[Apollo 17|17]] landing sites, whereas a temporary station referred to as EASEP (Early Apollo Scientific Experiments Package) was installed during the Apollo 11 mission. The ALSEP stations contained, among others, heat flow probes, seismometers, magnetometers, and corner-cube retroreflectors. Transmission of data to Earth was terminated on [[30 September]], [[1977]] because of budgetary considerations<ref>{{cite press release | title = NASA news release 77-47 page 242| date = [[1977-09-01]] | url = http://www.nasa.gov/centers/johnson/pdf/83129main_1977.pdf | accessdate = 2007-08-29 }}</ref><ref>{{cite news | url = http://www.ast.cam.ac.uk/~ipswich/Miscellaneous/Archived_spaceflight_news.htm | accessdate = 2007-08-29 | location = NASA Turns A Deaf Ear To The Moon | date = 1977 | title = OASI Newsletters Archive | last = Appleton | first = James | coauthors = Charles Radley, John Deans, Simon Harvey, Paul Burt, Michael Haxell, Roy Adams, N Spooner and Wayne Brieske }}</ref>. Since the [[Lunar laser ranging experiment|lunar laser ranging]] (LLR) corner-cube arrays are passive instruments, they are still being used. Ranging to the LLR stations is routinely performed from earth-based stations with an accuracy of a few centimetres, and data from this experiment are being used to place constraints on the size of the lunar core.<ref>{{cite journal | last = Dickey | first = J. | coauthors = et al. | date = 1994 | title = Lunar laser ranging: a continuing legacy of the Apollo program | journal = Science | volume = 265 |pages = 482&ndash;490}}</ref>
+
+It is now {{age in years and days|1972|12|14}} since [[Eugene Cernan]], as part of the mission [[Apollo 17]], left the surface of the Moon on [[14 December]] [[1972]] and no one has set foot on it since.
+
+[[Image:Aldrin Apollo 11.jpg|thumb|[[Astronaut]] [[Buzz Aldrin]] photographed by [[Neil Armstrong]] during the [[moon landing|first moon landing]] on [[20 July]] [[1969]].]]
+
+From the mid-1960s to the mid-1970s, there were 65 instances of artificial objects reaching the Moon (both manned and robotic, with ten in 1971 alone), with the last being [[Luna 24]] in 1976. Only 18 of these were controlled [[moon landings]], with nine completing a round trip from Earth and returning samples of [[moon rocks]].  The Soviet Union then turned its primary attention to [[Venus]] and [[space station]]s, and the U.S. to [[Mars]] and beyond. In 1990, Japan orbited the Moon with the ''[[Hiten]]'' spacecraft, becoming the third country to place a spacecraft into lunar orbit. The spacecraft released a smaller probe, ''Hagormo'', in lunar orbit, but the transmitter failed, thereby preventing further scientific use of the mission.
+
+In 1994, the U.S. finally returned to the Moon, robotically at least, sending the Joint Defense Department/NASA spacecraft [[Clementine mission|Clementine]]. This mission obtained the first near-global topographic map of the Moon, and the first global [[multispectral]] images of the lunar surface. This was followed by the ''[[Lunar Prospector]]'' mission in 1998. The [[neutron]] [[spectrometer]] on ''Lunar Prospector'' indicated the presence of excess hydrogen at the lunar poles, which is likely to have been caused by the presence of water ice in the upper few metres of the regolith within permanently shadowed craters. The European spacecraft ''[[Smart 1]]'' was launched [[September 27]], [[2003]] and was in lunar orbit from [[November 15]], [[2004]] to [[September 3]], [[2006]].
+
+On [[January 14]], [[2004]], U.S. President [[George W. Bush]] called for a plan to return manned missions to the Moon by 2020 (see [[Vision for Space Exploration]]).<ref>{{cite press release|url = http://www.nasa.gov/missions/solarsystem/bush_vision.html| title = President Bush Offers New Vision For NASA | date = [[2004-12-14]] | publisher = NASA | accessdate = 2007-04-12}}</ref> NASA is now planning for the construction of a permanent outpost at one of the lunar poles.<ref>{{cite press release | title =  
+NASA Unveils Global Exploration Strategy and Lunar Architecture | publisher = NASA | date = [[2006-12-04]] | url = http://www.nasa.gov/home/hqnews/2006/dec/HQ_06361_ESMD_Lunar_Architecture.html | accessdate = 2007-04-12}}</ref> The People's Republic of China has expressed ambitious plans for exploring the Moon and has started the [[Chang'e program]] for lunar exploration, successfully launching its first spacecraft, [[Chang'e-1]], on [[October 24]], 2007. <ref>{{cite web|url=http://news3.xinhuanet.com/tech/2007-07/07/content_6340313.htm|title =“嫦娥一号”发射时间确定 但未到公布时机|publisher= [[XINHUA Online]]|date=July 7, 2007|accessdate=July 12|accessyear=2007}}</ref>  [[India]] intends to launch several unmanned missions, beginning with ''[[Chandrayaan|Chandrayaan I]]'' in February 2008, followed by ''Chandaryaan II'' in 2010 or 2011; the latter is slated to include a robotic lunar rover.  India also has expressed its hope for a manned mission to the Moon by 2030.<ref>{{cite web | url = http://www.hindu.com/thehindu/holnus/008200609212240.htm| publisher = The Hindu | title = Kalam visualises establishing space industry| date = [[2006-09-21]] | accessdate = 2007-08-28}}</ref> The U.S. will launch the ''[[Lunar Reconnaissance Orbiter]]'' in 2008. Russia also announced to resume its previously frozen project ''[[Luna-Glob]]'', consisting of an unmanned lander and orbiter, which is slated to land in 2012.<ref>{{cite web | url = http://www.aviationnow.com/avnow/news/channel_awst_story.jsp?id=news/aw060506p2.xml | title = Russia Plans Ambitious Robotic Lunar Mission | last = Covault | first = C. | publisher = Aviation Week | date = [[2006-06-04]] | accessdate = 2007-04-12}}</ref>
+
+The Google Lunar X Prize announced [[13 September]] [[2007]] hopes to boost and encourage privately funded lunar exploration. The [[X Prize Foundation]] is offering anyone 20 million dollars US who can land a robotic rover on the Moon and meet other specified criteria.
+
+On [[September 14]], [[2007]] the [[Japan Aerospace Exploration Agency]] launched [[SELENE]] a lunar orbiter which is fitted with a [[High Definition]] camera and two small satellites. The mission is expected to last one year. <ref>[http://en.epochtimes.com/news/7-10-1/60291.html Japan Embarks on the Largest Moon Mission Since Apollo]</ref>
+
+==Human understanding==
+{{see also|The Moon in mythology|Moon in art and literature|Lunar effect|Artemis}}
+[[Image:Hevelius Map of the Moon 1647.jpg|thumb|Map of the Moon by [[Johannes Hevelius]] (1647)]]
+
+The Moon has been the subject of many works of art and literature and the inspiration for countless others. It is a motif in the visual arts, the performing arts, poetry, prose and music. A 5,000-year-old rock carving at [[Knowth]], [[Ireland]] may represent the Moon, which would be the earliest depiction discovered.<ref name=spacetoday>{{cite web | url = http://www.spacetoday.org/SolSys/Earth/OldStarCharts.html | title = Carved and Drawn Prehistoric Maps of the Cosmos | publisher = Space Today Online | date = 2006 | accessdate = 2007-04-12}}</ref> In many prehistoric and ancient cultures, the Moon was thought to be a [[lunar deity|deity]] or other [[supernatural]] phenomenon, and [[Moon (astrology)|astrological views]] of the Moon continue to be propagated today.
+
+Among the first in the Western world to offer a scientific explanation for the Moon was the Greek philosopher [[Anaxagoras]], who reasoned that the Sun and Moon were both giant spherical rocks, and that the latter reflected the light of the former. His atheistic view of the heavens was one cause for his imprisonment and eventual exile.<ref>{{cite web | last = O'Connor | first = J.J. | coauthors = Robertson, E.F. | date = February 1999 | url = http://www-history.mcs.st-andrews.ac.uk/Biographies/Anaxagoras.html | title = Anaxagoras of Clazomenae | publisher = University of St Andrews | accessdate = 2007-04-12}}</ref>
+
+In [[Aristotle]]'s description of the universe, the Moon marked the boundary between the spheres of the mutable elements (earth, water, air and fire), and the imperishable stars of aether. This separation was held to be part of physics for many centuries after.<ref>{{cite book | last = [[C.S. Lewis|Lewis, C.S.]] | title = The Discarded Image | pages = 108 | publisher = Cambridge University Press | date = 1964 | location = Cambridge | isbn = 0-521047735-2}}</ref>
+
+[[Image:Moon and red blue haze.jpg|left|thumb|Moon against the [[Belt of Venus]]]]
+
+By the [[Middle Ages]], before the invention of the telescope, more and more people began to recognise the Moon as a sphere, though they believed that it was "perfectly smooth".<ref>{{cite web | last = Van Helden | first = A. | date = 1995 | url = http://galileo.rice.edu/sci/observations/moon.html | title = The Moon | publisher = Galileo Project | accessdate = 2007-04-12}}</ref> In 1609, [[Galileo Galilei]] drew one of the first telescopic drawings of the Moon in his book {{lang|la|''[[Sidereus Nuncius]]''}} and noted that it was not smooth but had mountains and craters. Later in the 17th century, [[Giovanni Battista Riccioli]] and [[Francesco Maria Grimaldi]] drew a map of the Moon and gave many craters the names they still have today.
+
+[[Image:Le Voyage dans la lune.jpg|thumb|Still from silent film ''{{lang|fr|[[Le Voyage dans la Lune]]}}'' (1902) by [[Georges Méliès]]]]
+
+On maps, the dark parts of the Moon's surface were called ''maria'' (singular ''mare'') or seas, and the light parts were called ''terrae'' or continents.
+The possibility that the Moon contains vegetation and is inhabited by selenites was seriously considered by major astronomers even into the first decades of the 19th century. The contrast between the brighter highlands and darker maria create the patterns seen by different cultures as the [[Man in the Moon]], the rabbit and the buffalo, among others.
+
+In 1835, the [[Great Moon Hoax]] fooled some people into thinking that there were exotic animals living on the Moon.<ref>{{cite web|url = http://www.museumofhoaxes.com/moonhoax.html | title = The Great Moon Hoax | last = Boese | first = A. | publisher = Museum of Hoaxes | date = 2002 | accessdate = 2007-04-12}}</ref> Almost at the same time however (during 1834&ndash;1836), [[Wilhelm Beer]] and [[Johann Heinrich Mädler]] were publishing their four-volume {{lang|la|''Mappa Selenographica''}} and the book {{lang|de|''Der Mond''}} in 1837, which firmly established the conclusion that the Moon has no bodies of water nor any appreciable atmosphere.
+
+The far side of the Moon remained completely unknown until the [[Luna 3]] probe was launched in 1959, and was extensively mapped by the [[Lunar Orbiter program]] in the 1960s.
+
+==Legal status==
+{{main|Space law}}
+Although several pennants of the Soviet Union were scattered by [[Luna 2]] in 1959 and by later landing missions, and [[U.S. flag]]s have been symbolically planted on the Moon, no nation currently claims ownership of any part of the Moon's surface. Russia and the U.S. are party to the [[Outer Space Treaty]], which places the Moon under the same jurisdiction as [[international waters]] ({{lang|la|''[[res communis]]''}}). This treaty also restricts the use of the Moon to peaceful purposes, explicitly banning military installations and [[weapons of mass destruction]] (including [[nuclear weapons]]).<ref>{{cite web | title = International Space Law | publisher = United Nations Office for Outer Space Affairs | url = http://www.unoosa.org/oosa/en/SpaceLaw/index.html | date = 2006 | accessdate = 2007-04-12}}</ref>
+
+A second treaty, the [[Moon Treaty]], was proposed to restrict the exploitation of the Moon's resources by any single nation, but it has not been signed by any of the [[space-faring nations]]. Several individuals have made [[Extraterrestrial real estate|claims]] to the Moon in whole or in part, although none of these are generally considered credible.<ref>[http://www.theregister.co.uk/2006/12/08/nasa_real_estate/ theregister.co.uk] "NASA crushes lunar real estate industry"</ref>
+
+==See also==
+{{portal|Solar System|Solar system.jpg}}
+<div style="-moz-column-count:3; column-count:3;">
+* [[3753 Cruithne]]
+* [[Blue moon]]
+* [[Extraterrestrial real estate]]
+* [[Late Heavy Bombardment]]
+* [[List of artificial objects on the Moon]]
+* [[List of craters on the Moon]]
+* [[List of features on the Moon]]
+* [[List of maria on the Moon]]
+* [[List of mountains on the Moon]]
+* [[List of valleys on the Moon]]
+* [[Lunar space elevator]]
+* [[Month]]
+* [[Moon in art and literature]]
+* [[Selenography]]
+* [[Space weathering]]
+</div>
+
+==References==
+;Cited
+{{Reflist|2}}
+
+;General
+<div class="references-small">
+* {{cite book| title=The Clementine Atlas of the Moon | last = Bussey | first = B. | coauthors = [[Paul Spudis|Spudis, P.D.]] | publisher = Cambridge University Press | date = 2004 | isbn = 0-521-81528-2}}
+* {{cite journal | last = Jolliff | first = B. | coauthors = Wieczorek, M.; Shearer, C.; Neal, C. (eds.) | title = New views of the Moon | journal = Rev. Mineral. Geochem. |publisher = Min. Soc. Amer. | location = Chantilly, Virginia | pages = 721 | date = 2006 | volume = 60 | url = http://www.minsocam.org/msa/RIM/Rim60.html | accessdate = 2007-04-12}}
+* {{cite book| title = On the Moon | last = [[Patrick Moore|Moore, P.]] | publisher = Sterling Publishing Co. | location =  Tucson, Arizona | date = 2001 | isbn = 0-304-35469-4}} 
+* {{cite book| title = The Once and Future Moon | last = Spudis | first = P.D. | publisher = Smithsonian Institution Press | date = 1996 | isbn = 1-56098-634-4}}
+* {{cite book | last = Taylor | first = S.R. | title = Solar system evolution | publisher = Cambridge Univ. Press | pages = 307 | date = 1992}}
+* {{cite journal | last = Wilhelms | first = D.E. | title = Geologic History of the Moon | journal = U.S. Geological Survey Professional paper | date = 1987 | volume = 1348 | url = http://ser.sese.asu.edu/GHM/ | accessdate = 2007-04-12}}
+* {{cite book| title = To a Rocky Moon: A Geologist's History of Lunar Exploration | last = Wilhelms | first = D.E. | publisher = University of Arizona Press | location =  Tucson, Arizona | date = 1993}}
+</div>
+
+==External links==
+{{sisterlinks|Moon}}
+;Images and maps
+* {{cite web | last = Constantine | first = M. | title = Apollo Panoramas | publisher = moonpans.com | date = 2004 | url = http://moonpans.com/missions.htm | accessdate = 2007-04-12}}
+* {{cite web | title = Clementine Lunar Image Browser 1.5 | publisher = U.S. Navy | date = [[2003-10-15]] | url = http://www.cmf.nrl.navy.mil/clementine/clib/ | accessdate = 2007-04-12}}
+* {{cite web | title = Digital Lunar Orbiter Photographic Atlas of the Moon | publisher = Lunar and Planetary Institute | url = http://www.lpi.usra.edu/resources/lunar_orbiter/ | accessdate = 2007-04-12}}
+* {{cite web | title = Google Moon | publisher = Google | date = 2007 | url = http://moon.google.com | accessdate = 2007-04-12}}
+* {{cite web | title = Lunar Atlases | publisher = Lunar and Planetary Institute | url = http://www.lpi.usra.edu/resources/lunar_atlases/ | accessdate = 2007-04-12}}
+* {{cite web | last = Aeschliman | first = R. | title = Lunar Maps | work = Planetary Cartography and Graphics | url = http://ralphaeschliman.com/id26.htm | accessdate = 2007-04-12}}
+* {{cite web | title = Lunar Photo of the Day | date = 2007 | url = http://www.lpod.org/ | accessdate = 2007-04-12}}
+* {{cite web | title = Moon | work = World Wind Central | publisher = NASA | date = 2007 | url = http://www.worldwindcentral.com/wiki/Moon | accessdate = 2007-04-12}}
+* {{cite web | title = The Moon: 50 fantastic features | publisher = Skymania | date = 2007 | url = http://moon.skymania.com/ | accessdate = 2007-09-29}}
+* {{cite web | title = Numerous Moon Overlays for Google Earth| publisher = Google Earth Library | date = 2007 | url = http://www.gelib.com/moon-overlays.htm | accessdate = 2007-11-09}}
+
+;Exploration
+* {{cite web | last = Jones | first = E.M. | title = Apollo Lunar Surface Journal | publisher = NASA | date = 2006 | url = http://www.hq.nasa.gov/office/pao/History/alsj/ | accessdate = 2007-04-12}}
+* {{cite web | title = Exploring the Moon | publisher = Lunar and Planetary Institute | url = http://www.lpi.usra.edu/expmoon/ | accessdate = 2007-04-12}}
+* {{cite web | last = Teague | first = K. | title = The Project Apollo Archive | date = 2006 | url = http://www.apolloarchive.com/apollo_archive.html | accessdate = 2007-04-12}}
+* {{cite web | title =  Google Lunar X Prize | date = 2007 | url = http://www.googlelunarxprize.org | accessdate = 2007-09-15}}
+
+;Moon phases
+* {{cite web | title = Current Moon Phase | date = 2007 | url = http://www.moonphaseinfo.com/ | accessdate = 2007-04-12}}
+* {{cite web | title = NASA's SKYCAL - Sky Events Calendar | publisher = NASA Eclipse Home Page | url = http://sunearth.gsfc.nasa.gov/eclipse/SKYCAL/SKYCAL.html | accessdate = 2007-08-27}}
+* {{cite web | title = Virtual Reality Moon Phase Pictures | publisher = U.S. Naval Observatory | url = http://tycho.usno.navy.mil/vphase.html | accessdate = 2007-04-12}}
+
+;Others
+* {{cite web | title = All About the Moon | publisher = Space.com | date = 2007 | url = http://www.space.com/moon/ | accessdate = 2007-04-12}}
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Moon Earth's Moon Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* {{cite web | title = Archive of Moon Articles | publisher = Planetary Science Research Discoveries | date = 2007 | url = http://www.psrd.hawaii.edu/Archive/Archive-Moon.html | accessdate = 2007-04-12}}
+* {{cite web | last = Williams | first = D.R. | title = Moon Fact Sheet | publisher = NASA | date = 2006 | url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html | accessdate = 2007-04-12}}
+* {{cite web | title = Moon Wiki | date = 2007 | url = http://the-moon.wikispaces.com/ | accessdate = 2007-09-06}}
+
+{{Moon footer}}
+{{Natural satellites of the Solar System (compact)}}
+{{Footer SolarSystem}}
+
+<!--Categories-->
+[[Category:Moon| ]]
+[[Category:Moons]]
+
+{{Link FA|af}}
+{{Link FA|ar}}
+{{Link FA|bg}}
+{{Link FA|cs}}
+{{Link FA|de}}
+{{Link FA|es}}
+{{Link FA|hu}}
+{{Link FA|sk}}
+{{Link FA|sr}}
+<!--Other languages-->
+
+[[af:Maan]]
+[[als:Mond]]
+[[ang:Mōna]]
+[[ar:قمر]]
+[[ast:Lluna]]
+[[ay:Phaxsi]]
+[[az:Ay]]
+[[bn:চাঁদ]]
+[[zh-min-nan:Go̍eh-niû]]
+[[be:Месяц (спадарожнік Зямлі)]]
+[[bs:Mjesec (mjesec)]]
+[[br:Loar]]
+[[bg:Луна]]
+[[ca:Lluna]]
+[[ceb:Bulan (astronomiya)]]
+[[cs:Měsíc]]
+[[co:Luna]]
+[[za:Ronghndwen]]
+[[cy:Lleuad]]
+[[da:Månen]]
+[[de:Mond]]
+[[nv:Ooljéé’]]
+[[et:Kuu]]
+[[el:Σελήνη]]
+[[es:Luna]]
+[[eo:Luno]]
+[[eu:Ilargia]]
+[[fa:ماه]]
+[[fo:Mánin]]
+[[fr:Lune]]
+[[fy:Moanne (himellichem)]]
+[[fur:Lune]]
+[[ga:An Ghealach]]
+[[gd:Gealach]]
+[[gl:Lúa]]
+[[gu:ચંદ્ર]]
+[[zh-classical:月]]
+[[ko:달]]
+[[hy:Լուսին]]
+[[hi:चन्द्रमा]]
+[[hr:Mjesec]]
+[[io:Luno]]
+[[ilo:Bulan]]
+[[id:Bulan]]
+[[ia:Luna]]
+[[iu:ᑕᖅᑭᖅ/taqqiq]]
+[[is:Tunglið]]
+[[it:Luna]]
+[[he:הירח]]
+[[jv:Bulan]]
+[[pam:Bulan]]
+[[kn:ಚಂದ್ರ]]
+[[ka:მთვარე]]
+[[kk:Ай (серік)]]
+[[kw:Loer]]
+[[sw:Mwezi (gimba la angani)]]
+[[ht:Lalin]]
+[[la:Luna (satelles)]]
+[[lv:Mēness]]
+[[lb:Äerdmound]]
+[[lt:Mėnulis]]
+[[li:Luna]]
+[[ln:Sánzá (monzɔ́tɔ)]]
+[[lmo:Lüna]]
+[[hu:Hold]]
+[[mk:Месечина]]
+[[ml:ചന്ദ്രന്‍]]
+[[mt:Qamar]]
+[[ms:Bulan (satelit)]]
+[[mn:Сар]]
+[[nah:Mētztli]]
+[[nl:Maan]]
+[[nds-nl:Maone (eerde)]]
+[[cr:ᑎᐱᔅᑳᐅᐲᓯᒻ]]
+[[ne:चन्द्रमा]]
+[[new:तिमिला]]
+[[ja:月]]
+[[nap:Luna]]
+[[no:Månen]]
+[[nn:Månen]]
+[[nrm:Leune]]
+[[oc:Luna]]
+[[uz:Oy (tabiiy yoʻldosh)]]
+[[pa:Moon]]
+[[nds:Maand (Eer)]]
+[[pl:Księżyc]]
+[[pt:Lua]]
+[[ksh:Moond (Ääd)]]
+[[ro:Lună]]
+[[rmy:Chhon (chereski)]]
+[[qu:Killa]]
+[[ru:Луна]]
+[[sq:Hëna]]
+[[scn:Luna]]
+[[simple:Moon]]
+[[sk:Mesiac]]
+[[sl:Luna]]
+[[sr:Месец]]
+[[sh:Mjesec]]
+[[fi:Kuu]]
+[[sv:Månen]]
+[[tl:Buwan (astronomiya)]]
+[[te:చంద్రుడు]]
+[[th:ดวงจันทร์]]
+[[vi:Mặt Trăng]]
+[[tg:Моҳ]]
+[[tpi:Mun (i stap long heven)]]
+[[tr:Ay (uydu)]]
+[[uk:Місяць (супутник)]]
+[[ur:چاند]]
+[[vec:Łuna]]
+[[vo:Mun]]
+[[wa:Lune]]
+[[yi:לבנה]]
+[[yo:Òsùpá]]
+[[zh-yue:月光]]
+[[bat-smg:Mienolis]]
+[[zh:月球]]

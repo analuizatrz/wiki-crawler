@@ -1,0 +1,54 @@
+In [[game theory]] a '''mixed strategy''' is a strategy which chooses randomly between possible moves.  The strategy has some probability distribution which corresponds to how frequently each move is chosen.  A '''totally mixed strategy''' is a mixed strategy in which the player assigns strictly positive probability to every [[pure strategy]].  (Totally mixed strategies are important for the [[equilibrium refinement]] [[Trembling hand perfect equilibrium]].)
+
+A mixed strategy should be understood in contrast to a [[pure strategy]] where a player plays a single strategy with probability 1.
+
+== Illustration ==
+{| align=right border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+ align=bottom |''A game''
+|
+!A
+!B
+|-
+!A
+|1, 1
+|0, 0
+|-
+!B
+|0, 0 
+|1, 1
+|}
+
+Suppose the [[payoff matrix]] pictured to the right (known as a [[coordination game]]).  Here one player chooses the row and the other chooses a column.  The row player receives the first payoff, the column the second.  If row opts to play '''A''' with probability 1 (i.e. play '''A''' for sure), then he is said to be playing a pure strategy.  If column opts to flip a coin and play '''A''' if the coin lands heads and '''B''' if the coin lands tails,  then she is said to be playing a mixed strategy not a pure strategy.
+
+== Significance ==
+
+In his famous paper [[John Forbes Nash]] proved that there is what's now called a [[Nash equilibrium]] for every finite game.  One can divide Nash equilibria into two types.  ''Pure strategy Nash equilibria'' are Nash equilibria where all players are playing pure strategies.  ''Mixed strategy Nash equilibria'' are equilibria where at least one player is playing a mixed strategy.  While Nash proved that every finite game has a Nash equilibrium, not all have pure strategy Nash equilibria.  For an example of a game that does not have a Nash equilibrium in pure strategies see [[Rock paper scissors]].
+
+== A disputed meaning ==
+
+During the 1980s, the concept of mixed strategies came under heavy fire for being "intuitively problematic" ([[Robert Aumann|Aumann]] 1985<ref>Aumann, R. [http://www.ma.huji.ac.il/raumann/pdf/what%20is%20game%20theory.pdf "What is Game Theory Trying to accomplish?"]. Frontiers of Economics, edited by K. Arrow and S. Honkapohja, pp. 909-924, Basil Blackwell, Oxford, 1985.</ref>). Randomization, central in mixed stategies, lacks behavioral support. Seldom do people make their choices following a lottery. This behavioral problem is compounded by the cognitive difficulty that people are unable to generate random outcomes without the aid of a [[Random number generator|random or pseudo-random generator]]. 
+
+Game theorist [[Ariel Rubinstein]] points out two alternative ways of understanding the concept (Rubinstein 1991<ref>Rubinstein, A. "Comments on the interpretation of Game Theory", ''Econometrica'', July, 1991 (Vol. 59, n°4)</ref>):
+One is to imagine that the game players stand for a large population of agents. Each of the agents chooses a pure strategy, and the payoff depends on the fraction of agents choosing each strategy. The mixed strategy hence represents the distribution of pure strategies chosen by each population. However, this does not provide any justification for the case when players are individual agents. 
+
+The other, called ''purification'', is to suppose that the mixed strategies interpretation merely reflects our lack of knowledge of the agent's information and decision-making process. Apparently random choices are then seen as consequences of non-specified, payoff-irrelevant exogeneous factors, such as [[John Maynard Keynes|Keynes]]' "animal spirits". However, it is unsatisfying to have results that hang on unspecified factors, and this dismisses the possibility of a mixed-strategies analysis to have any predictive power. Arguing that those factors are simply other players' beliefs about a player's strategy (hence, adopting a mixed strategy is the best response to a player playing mixed strategies) gives a credible interpretation, but does not restore predictive power to the concept of mixed equilibria.
+
+Ever since, economists' attitude towards mixed strategies-based results have been ambivalent. Mixed strategies are still widely used for their capacity to provide Nash equilibria in any game, but the model shall specify why and how players randomize their decisions.
+
+==References==
+<references/>
+
+== See also ==
+* [[Pure strategy]]
+* [[Nash equilibrium]]
+* [[Trembling hand perfect equilibrium]]
+
+{{Game theory}}
+
+[[Category:Game theory]]
+
+[[de:Strategie (Spieltheorie)]]
+[[es:Estrategia mezclada]]
+[[fr:Stratégie mixte]]
+[[pl:Strategia mieszana]]
+[[uk:Стратегія змішана]]

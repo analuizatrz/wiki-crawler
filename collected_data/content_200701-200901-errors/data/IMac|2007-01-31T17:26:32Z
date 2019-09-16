@@ -1,0 +1,320 @@
+{{otheruses3|IMAC}}
+{{lowercase|title=iMac}}
+{{Infobox Computer
+ | name       = iMac Intel Core 2 Duo
+ | developer  = [[Apple Inc.]]
+ | type       = [[Desktop computer|Desktop]]
+ | photo      = [[Image:IMac transparency.png|The iMac Core Duo|Sharing design with the iMac G5|150px]] 
+ | caption    = The iMac Core 2 Duo.
+ | first_release_date = [[6 September]] [[2006]]
+ | processor  = [[Intel Core 2 Duo]], 1.83&ndash;2.33&nbsp;GHz
+ | price      = US$999&ndash;US$1,999
+}}
+The '''iMac''' is a desktop computer designed and built by [[Apple Inc.]] It has been a cornerstone of Apple's [[Apple Macintosh|Macintosh]] line of personal computers since its introduction in 1998, and has evolved through three distinct forms, all adhering to an "all-in-one" design ethos.  
+
+The machine enjoys a relatively high profile in [[popular culture]] due to its distinctive aesthetics and Apple's successful [[marketing]]. iMacs and other [[Macintosh]] [[computer]]s can also be seen in various movies, commercials, and [[Television|TV]] shows (both "real" and animated); due to their implication in video editing/film production.  
+
+iMacs have also received considerable critical acclaim, including praise from technology columnist [[Walt Mossberg]] as the "Gold Standard of desktop computing"; [[Forbes Magazine]] described the original candy-colored line of iMac computers as being an "industry-altering success".<ref>{{cite web
+|url=http://www.forbes.com/2000/04/14/feat.html
+|title=Resurgence Of An American Icon
+|author=Jon Swartz
+|date=[[April 14]] [[2000]]
+|accessdate=2006-11-24
+|publisher=Forbes
+}}</ref>
+
+The new 24" [[Core 2 Duo]] iMacs received [[CNET]]'s "Must-have desktop" in their ''Top 10 Holiday Gift Picks''.[http://www.cnettv.com/9710-1_53-24930.html Video] 
+
+==History==
+=== G3 ===
+[[Image:Steve Jobs with iMac.jpg|thumb|left|[[Steve Jobs]] introducing the original iMac computer in 1998.]]
+[[Steve Jobs]] streamlined the company's large and confusing product lines immediately after becoming Apple's interim CEO in 1997; towards the end of the year, Apple trimmed its line of desktop Macs down to the beige [[Power Macintosh G3]] series. Having discontinued the consumer-targeted [[Macintosh Performa|Performa]] series, Apple needed a replacement for the Performa's price point. The company announced the iMac on [[7 May]] [[1998]], and started shipping the iMac on [[15 August]] [[1998]]. The launch of the iMac was a landmark event for its time, and had a massive impact on both the company and the computer industry.
+
+At the time, Apple was unique in producing all-in-one desktop computers, in which the [[Central processing unit|CPU]] and the [[Computer display|monitor]] are contained in one enclosure. Many other PC manufacturers have tried to imitate this, most have met with little success.
+
+[[Image:IMac history.png|thumb|right|iMac history (Core Duo iMac looks same as G5)]][[aesthetics|Aesthetically]], the iMac was dramatically different from any other mainstream computer ever released. It was made of translucent "[[Bondi blue]]"-colored plastic, and was egg-shaped around a 15-inch (38&nbsp;cm) [[cathode ray tube|CRT]]. There was a handle, and the computer interfaces were hidden behind a door that opened on the right-hand side of the machine. Two headphone jacks in the front complemented the built-in stereo speakers. [[Jonathan Ive]], currently Vice President of Industrial Design at Apple, is credited with the industrial design.
+
+Legacy Macintosh peripheral connections, such as the [[Apple Desktop Bus|ADB]], [[SCSI]] (Small Computer System Interface), and [[GeoPort]] serial ports, were eliminated in favor of USB ports; the [[floppy drive]] was discarded (the first [[Original Equipment Manufacturer|OEM]] to do so). Although these were aging technologies, Apple's move was considered ahead of its time and was hotly debated. For example, there was no analogous way to exchange small files with other existing machines, possibly requiring owners to buy an external USB floppy drive (the floppy drive sold well in the first few years of the iMac G3).
+
+[[Image:Apple iMac USB mouse.png|200px|left|thumb|The original iMac "hockey puck" mouse]]
+
+The keyboard and [[Mouse (computing)|mouse]] were redesigned for the iMac with translucent plastics and a Bondi Blue trim (Apple USB Keyboard and Apple USB Mouse). The keyboard was smaller than Apple's previous keyboards, with white letters on black keys, both features that attracted debate. The mouse was of a round, "[[hockey puck]]" design, which was instantly derided as being unnecessarily difficult for users with larger hands. Apple continued shipping the round mouse, adding a divot in later versions so that users could distinguish where the button was. Eventually, a new oblong [[Mouse (computing)|optical mouse]], known as the ''[[Apple Pro Mouse]]'', replaced the round mouse across all of Apple's hardware offerings. A redesigned version called the ''Apple Mouse'' was produced, with the side grips white and the tension control removed. On [[2 August]] [[2005]] Apple replaced the one-button Mouse with the [[Apple Mighty Mouse|Mighty Mouse]]. On [[12 October]] [[2005]] Apple began shipping its new [[Apple Mighty Mouse|Mighty Mouse]] with its iMac and [[Power Macintosh|PowerMac]] computers.<ref>http://www.macworld.com/news/2005/10/17/imacfaq/index.php</ref>
+
+====Technical====
+Internally, the iMac was a combination of the [[MacNC|MacNC project]] and [[Common Hardware Reference Platform|CHRP]]. Although the promise of CHRP has never been fully realized, the work that Apple had done on CHRP significantly helped in the designing of the iMac. The original iMac had a 233&nbsp;MHz [[PowerPC G3]] (PowerPC 750) chip, with 512&nbsp;[[KiB]] [[CPU cache|L2 cache]] running at 116.6&nbsp;MHz, which also ran in Apple's high-end [[Power Macintosh]] line at the time, though at higher speeds, with more expensive models shipping with 1&nbsp;[[MB]] L2 cache. It sold for US$1,299, and had a 4&nbsp;GB [[Hard disk|hard drive]], 32&nbsp;MB [[Random access memory|RAM]], 2&nbsp;MB [[Dynamic random access memory|video RAM]], and shipped with [[Mac OS 8|Mac OS 8.1]], which was soon upgraded to Mac OS 8.5. Parts such as the front-mounted [[Infrared Data Association|IrDA]] port and the tray-loading [[CD-ROM]] drive were borrowed from the Apple [[laptop]]s. Although the iMac did not officially have an [[Expansion card|expansion slot]], the first versions had a slot dubbed the "[[mezzanine slot]]". It was only for internal use by Apple, although a few third-party expansion cards were released for it, including some [[Central processing unit|CPU]] upgrades from [[Newer Technology]], a Voodoo II video card upgrade from [[3dfx]], and [[SCSI]]/SCSI-[[TV tuner card|TV tuner]] cards (iProRAID and iProRAID TV) from the German company Formac; this was removed from later iMacs. According to an article in the German computer magazine ''[[c't]]'', the socket can be retrofitted on revision C iMacs.
+
+====Updates====
+
+[[Image:IMac G3 flavors.jpg|400px|thumb|The thirteen "flavors" of the iMac G3]]
+The iMac line was continually updated after initial release. Aside from increasing processor speed, video RAM, and hard-disk capacity, Apple replaced Bondi blue with new colors—initially blueberry, strawberry, tangerine, grape, and lime; later other colors, such as graphite, ruby, sage, snow, and indigo, and the "Blue [[Dalmatian]]" and "Flower Power" patterns. A later hardware update created a sleeker design. This second-generation iMac featured a slot-loading optical drive, [[FireWire]], "fanless" operation (through [[free convection]] cooling), and the option of [[AirPort]] [[wireless networking]]. Apple continued to sell this line of iMacs until March 2003, mainly to customers who wanted the ability to run the older Mac OS 9 operating system.
+
+USB and FireWire support, and support for [[dial-up]], [[Ethernet]], and [[wireless networking]] (via [[802.11b]] and [[Bluetooth]]) soon became standard across Apple's entire product line. In particular, the high-speed interface, FireWire, corrected the deficiencies of the earlier iMacs. As Apple continued to release new versions of its computers, the term "iMac" continued to be used to refer to machines in its consumer desktop line. Later redesigns of the iMac, however, never matched the first iMac in sales.
+
+===G4===
+[[Image:IMac.jpg|thumb|150px|The iMac G4, the first iMac with a flat panel screen]]
+By [[2002]], the CRT iMac needed to be superseded. The iMac G3's processor and 15-inch monitor were quickly becoming outdated. In January 2002, a flat panel iMac was launched with a completely new design. A 15-inch [[Liquid crystal display|LCD]] was mounted on an adjustable arm above a hemisphere containing a full-size, tray-loading optical drive and a fourth-generation CPU (the [[PowerPC G4|PPC 74xx-series]]). Apple advertised it as having the flexibility of a desk lamp, similar to "[[Luxo Jr.]]", who was featured in a short film produced by [[Pixar]], another venture of Apple co-founder [[Steve Jobs]]. Indeed, it was nicknamed the "iLamp". This LCD computer was known and sold as "The New iMac" throughout its production life, but after it was discontinued, it was retroactively labeled iMac G4. The iMac G3 CRT model was kept in production, primarily for the educational market.
+
+The iMac G4 was incrementally upgraded. They were made available with 17-inch (43&nbsp;cm) and then 20-inch (51&nbsp;cm) widescreen LCDs over the following two years. By then, Apple had all but eliminated the CRT machines from its product line. However, the LCD iMacs were unable to match the low price point of the previous iMac G3s, largely because of the higher cost of the LCD technology at the time.
+
+[[Image:EMac.png|thumb|150px|left|The [[eMac]], continuation of the original iMac design line]]
+The iMac G3 was, by this point, obsolete and low-cost machines were particularly important for the education market, therefore, the [[eMac]] was released in April 2002. The eMac is a G4-powered Macintosh that resembles the original iMac G3 with the egg-shape encasing a flat 17-inch CRT in an all-in-one design. It was initially sold only to the educational market (the "e" stands for "education"), but Apple started selling it to the general public a month later. The eMac was essentially the 17-inch iMac that consumers had been requesting a few years earlier. By 2005 Apple had returned to selling the eMac exclusively to the educational market, presumably because of the introduction of the low-cost [[Mac Mini]], targeted at the same market.
+
+===G5===
+[[Image:IMacG5guts.png|right|150px|thumb|Inside an iMac G5 Rev. A]]
+In August [[2004]], the iMac design was overhauled yet again. By that time, the [[PowerPC 970]] chip had been released and was being used in the Power Macintosh G5 line. Famously, the Power Macintosh G5 needed multiple fans in a large casing because of the larger heat output from the [[PowerPC 970]]. Apple's new iMac design managed to incorporate the PowerPC 970 into an all-in-one design with a distinctive [[form factor]] that echoed the [[Netpliance]] [[i-Opener]] [[internet appliance]]. The new design of the iMac used the same 17 and 20-inch widescreen LCDs, with all of the main logic board and optical drive mounted directly behind the LCD panel; this gave the appearance of a thickened desktop LCD monitor. The iMac G5 was later updated with a thinner design, an [[iSight]] webcam mounted above the LCD and Apple's [[FrontRow]] media interface.
+
+===Intel===
+
+{{main|Apple Intel transition}}
+At the [[Macworld Conference and Expo]] on [[10 January]] [[2006]], Steve Jobs announced that the new iMac would be the first Macintosh to use an [[Intel]] CPU, the [[Intel Core|Core Duo]]. The design, features and price remained unchanged from the iMac G5. The processor speed, according to tests run by Apple using SPEC,<ref>{{cite web
+|url=http://web.archive.org/web/20060529204150/http://www.apple.com/imac/intelcoreduo.html
+|title=Apple - iMac - Intel Core Duo
+|accessdate=2007-03-01
+|publisher=Apple Inc
+}}</ref> was declared as two to three times faster.
+
+In early February 2006, Apple confirmed reports of video display problems on the new Intel-based iMacs. When playing video on Apple's Front Row media browser, some 20-inch iMacs (those built-to-order with upgraded video cards) showed random horizontal lines, ghosting, video tearing and other problems. The problem was fixed with a software update.
+
+The current iMac ships with the [[Apple Mighty Mouse|Mighty Mouse]], [[computer keyboard|keyboard]], [[Bluetooth]] and [[AirPort]] cards, an internal [[iSight]] camera, the [[Apple Remote]] for use with [[Front Row]], and a power cord. A Bluetooth wireless keyboard and mouse are available for additional cost.
+
+In late 2006, Apple introduced a new version of the iMac which included a [[Core 2 Duo]] chip and a lower price. Except for the 17–inch 1.83 GHz processor model, it also included an 802.11n draft card. <ref>[http://www.apple.com/airportextreme/performance.html AirPort Extreme performance page] see footnote 2</ref>
+
+==Impact==
+===Popular culture===
+The announcement of the iMac initially caused considerable buzz among commentators, Mac fans, and detractors in the press and on websites. Opinions were polarized over Apple's drastic changes to the Macintosh hardware. At the time, Apple was revamping its [[retail]] strategy to improve the Mac purchasing experience. Apple famously declared that "the back of our computer looks better than the front of anyone else's."<ref>http://www.computerworld.co.nz/news.nsf/default/536E5950A3BB66BACC256F0100744663</ref> The distinctive aesthetics were easily spotted in public. iMacs were recognizable on television, in films and in print. This increased Apple's brand awareness, and embedded the iMac into [[popular culture]]. When released, iMacs were the best selling computers in the U.S. and Japan for months, and Apple was unable to meet demand. 
+
+Apple declared the "i" in iMac to stand for "[[Internet]]". Attention was given to the out-of-box experience: the user needed to go through only two steps to set up and connect to the Internet. "There's no step 3!" was the catch-phrase in a popular iMac commercial narrated by actor [[Jeff Goldblum]]. Another commercial, dubbed "Simplicity Shootout", pitted seven-year-old [[Johann Thomas]] and his [[border collie]] Brodie, with an iMac, against Adam Taggart, a [[Stanford University]]&nbsp;MBA student, with a [[Hewlett-Packard]] Pavilion 8250, in a race to set up their computers. Johann and Brodie finished in 8 minutes and 15 seconds,<ref>http://www.wap.org/journal/imac/default.html</ref> whereas Adam was still working on it by the end of the commercial. Apple later adopted the "i" prefix across its consumer hardware and software lines, such as the [[iPod]], [[iBook]], [[iPhone]], [[iLife]], [[iPhoto]], [[iMovie]], [[iDVD]], [[iTunes]], [[iWeb]], [[iWork]], [[iSight]], and [[iSync]]. The prefix has caught on for non-Apple Inc products as well.
+
+The increasing amount of Apple-brand awareness promoted the sale of Apple-branded clothing, pens, etc. These were not sold by Apple Inc but by other small companies. Apple has stated in the past that it does not wish to have a clothing section in its retail stores. Brand awareness also started an Apple cult-like sect. These fanatics (or "fanboys"), are stereotypically seen displaying the Apple brand regularly, trying to convert Windows users, and more. The term "fanboy" is used often in the technological world, but can be seen as offensive and demeaning to the person being labeled as such. 
+
+Apple's use of translucent candy-coloured plastics inspired similar designs in other consumer electronics. For example, [[George Foreman Grill|grilling machines]], portable electronics, pencil sharpeners, video game consoles and peripherals (including the [[Nintendo 64]] which was released in special edition "Funtastic" colours) featured the translucent plastic. Apple's introduction of the [[iPod]], [[iBook]], and iMac G4, all featuring snowy white plastic, inspired similar designs in consumer electronic products. The colour rollout also featured two distinctive ads: when the "Life Savers" colour scheme was based upon the [[Rolling Stones]] song "[[She's A Rainbow|She's a Rainbow]]" and the white advert had [[Cream (band)|Cream]]'s "[[White Room]]", specifically its introduction, as its backing track.
+
+===USB===
+The iMac was the first Macintosh computer to include a USB port.  It allowed current Macintosh users to use a large selection of inexpensive devices, such as [[USB hub|hubs]], [[Image scanner|scanners]], [[Data storage device|storage devices]] and mice. A third-party [[cottage industry]] sprang up around the iMac. Via the USB port, hardware makers could make products compatible with both PCs and Macs, though sometimes Mac driver software was required. Oddly, although USB was invented by [[Intel]] and was also available on the PC, many of these USB peripherals were made of translucent coloured plastic to match the colour schemes of the original iMacs. After the iMac, Apple continued to remove legacy peripheral connections and floppy drives from the rest of its product line.
+
+The successful iMac allowed Apple to continue targeting the Power Macintosh line at the high-end of the market. This foreshadowed a similar strategy in the notebook market, when the iBook was released in 1999. Since then, the company has continued this strategy of differentiating the consumer versus professional product lines. Apple's focus on design has allowed each of its subsequent products to create a distinctive identity. Apple derided the beige colours pervading the PC industry. The company would later use [[Anodising|anodized]] [[Aluminium|aluminum]], and white, black and clear [[polycarbonate]] plastics.
+
+===Legal action===
+<!--expand?-->
+Apple protected the iMac design with aggressive legal action against computer makers who made imitations, such as [[eMachines]]' [[eOne]]. Some manufacturers conspicuously added translucent plastics to existing designs. In 1999, Apple obtained the [[domain name]] '''appleimac.com''' from Abdul Traya, after legal intervention.
+
+==Models==
+===iMac (Tray Loading) (aka ''iMac G3'')===
+{{Infobox Computer
+|name = iMac G3 (tray loading)
+|developer = [[Apple Inc]]
+|type = [[Desktop computer|Desktop]]
+|photo = [[Image:IMac Bondi Blue.jpg|Bondi Blue iMac G3|The original iMac model|150px]] 
+|caption = The original iMac.
+|first_release_date = [[15 August]] [[1998]]
+|processor = [[PowerPC G3]], 233&ndash;333&nbsp;MHz
+}}
+*[[August 15]], [[1998]] — ''iMac 233&nbsp;MHz'' (Revision A) (M6709LL/A). 233&nbsp;MHz processor. ATI Rage IIc graphics with 2&nbsp;MB [[SGRAM]]. Available in Bondi Blue only, reset hole on side panel.
+*[[October 17]], [[1998]] — ''iMac 233&nbsp;MHz'' (Revision B) (M6709LL/B). Minor update featuring new Mac OS 8.5, ATI Rage Pro Graphics with 6&nbsp;megabytes of SGRAM, reset by holding power button.
+*[[January 5]], [[1999]] — ''iMac 266&nbsp;MHz'' (Revision C, "Five Flavors") (M7389LL/A, M7345LL/A, M7392LL/A, M7390LL/A, M7391LL/A). 266&nbsp;MHz processor. IrDA port and mezzanine slot removed. ATI Rage Pro Turbo graphics with 6&nbsp;MB SGRAM. Available in Strawberry (red), Blueberry (blue), Lime (green), Grape (purple), and Tangerine (orange). Price reduced by US$100.
+*[[April 14]], [[1999]] — ''iMac 333&nbsp;MHz'' (Revision D). 333&nbsp;MHz processor. Updated mouse with indentation on the button.
+
+{{Clr}}
+===iMac (Slot Loading) (aka ''iMac G3'')===
+{{Infobox Computer
+|name = iMac G3 (slot loading)
+|developer = [[Apple Inc]]
+|type = [[Desktop computer|Desktop]]
+|photo = [[Image:indigo iMac G3 slot loading.jpg|iMac G3 (slot loading)|150px]]
+|caption = The iMac (slot loading).
+|first_release_date = [[5 October]] [[1999]]
+|processor = [[PowerPC G3]], 350&ndash;700&nbsp;MHz
+}}
+*[[October 5]], [[1999]] — iMac/iMac DV/iMac DV SE. First revision with FireWire support, except for the 350&nbsp;MHz (Blueberry) model. 350 or 400&nbsp;MHz processor, slot-loading optical drive, same colors as rev C/D iMac, plus Special Edition in graphite color. Used ATI Rage 128 Pro Graphics with 8&nbsp;MB of VRAM.
+*[[July 19]], [[2000]] — iMac/iMac DV/iMac DV+/iMac DV SE. DV+ and DV SE models upgrade slot-loading [[CD-ROM]] to slot-loading [[DVD-ROM]] drive. 350 or 400 or 450 or 500&nbsp;MHz processor, colors graphite (grey), ruby (red), snow (white), indigo (blue) and sage (green). 350&nbsp;MHz model (Indigo) still lacked FireWire support.
+*[[February 22]], [[2001]] — (patterns). 400, 500 (PPC750CXe), or 600 (PPC750CXe)&nbsp;MHz processor. Available in Indigo, Graphite, and "Blue Dalmatian" or "Flower Power" patterns. DVD-ROM drive discontinued in favor of slot-loading [[CD-RW]] drive (low-end Indigo model has CD-ROM). 750CXe models features a new "[[Pangea]]" motherboard with a 16&nbsp;MB ATI Rage 128 Ultra graphics chip.
+*[[July 18]], [[2001]] — (summer 2001). 500, 600, or 700 MHz (PPC750CXe) processor. Available in indigo, graphite, and snow. 700 MHz model discontinued in January 2002 after G4 iMacs were introduced.  500 and 600 MHz models discontinued March 2003.
+
+{{Clr}}
+===iMac G4 (''iMac Flat Panel'')===
+{{Infobox Computer
+|name = iMac G4
+|developer = [[Apple Inc]]
+|type = [[Desktop computer|Desktop]]
+|photo = [[Image:IMac_G4_sunflower8.png|The Flat Panel iMac G4|150px]]
+|caption = The iMac G4.
+|first_release_date = [[January 7]], [[2002]]
+|processor = [[PowerPC G4]], 700&nbsp;MHz&ndash;1.25&nbsp;GHz
+}}
+The iMac G4 was one of the biggest improvements and advancements in Apple Inc's growing empire of Mac desktops. The computer was considered completely separate from the previous, half egg shaped G3 models. Some new features included a flat-panel LCD screen, with diagonal measurements up to 20&nbsp;inches; tray loading DVD+CD drive; and many more features. Critics and consumers took to the new Mac style nicely, but many missed the slot loading drive that were available in earlier models. The floating monitor was easily adjustable, and stood at any angle around the dome-shaped bottom. Unlike previous iMac models, the iMac G4 came only in white, and was not translucent like the iMac G3s. 
+
+*[[January 7]], [[2002]] — Apple introduces a new iMac line with three models. It has a new futuristic form factor and contains a 700 or an 800&nbsp;MHz G4 processor, and is only available in white. The display is now a 15-inch LCD, easily positioned by the "swing arm" attaching it to the base. (15-inch, 800&nbsp;MHz model is M9250LL/A)
+*[[July 17]], [[2002]] — A new 800&nbsp;MHz model with a 17-inch screen and an updated [[Graphics processing unit|GPU]] is added to the line. (M8812LL/A)
+*[[February 4]], [[2003]] — The line is slimmed down to two models, one with a 15-inch LCD and a new 1.0&nbsp;GHz model with a 17-inch LCD (M8935LL/A). [[AirPort|AirPort Extreme]] as well as [[Bluetooth]] are available on the 17-inch model. The 15-inch model is largely identical to the January 2002 models.
+*August 2003 — The iMac 15-inch and 17-inch models are upgraded to a 1.0&nbsp;GHz and 1.25&nbsp;GHz G4 processors, respectively (M9285LL/A, M9168LL/A). New features are USB 2.0 and DDR memory, and they both now support AirPort Extreme and [[Bluetooth]].
+*[[November 18]], [[2003]] — 20-inch screen model (M9290LL/A) is added that is capable of a 1680 &times; 1050 pixel screen resolution, and features a 1.25&nbsp;GHz G4 processor.
+
+{{Clr}}
+
+===iMac G5===
+{{Infobox Computer
+|name = iMac G5
+|developer = [[Apple Inc]]
+|type = [[Desktop computer|Desktop]]
+|photo = [[Image:IMac G5 Rev. A front.jpg|The iMac G5|150px]]
+|caption = The iMac G5.
+|first_release_date = [[31 August]] [[2004]]
+|processor = [[PowerPC G5]], 1.6&ndash;2.1&nbsp;GHz
+}}
+
+*[[August 31]], [[2004]] — Apple releases an all-new iMac line, with both the LCD screen (17 or 20-inch widescreen) and computer (including power supply) contained in a 2-inch thick flat-panel housing, powered by a [[PowerPC 970|PowerPC G5]] processor at 1.6 or 1.8&nbsp;GHz, [[SATA|Serial ATA]] hard drive ([[Advanced Technology Attachment|ATA]] in the Education Model) and an [[NVIDIA]] GeForce 5200 Ultra GPU. USB 2.0, FireWire 400, 10/100BASE-T Ethernet ports, a V.92 modem, a video-out port, an analogue audio-in jack, and a combination analogue/mini-[[TOSLINK]] audio-out jack (like the one in the AirPort Express units), as well as the power button, are all arranged at the rear of the unit. The enclosure is suspended above the desk by an aluminum arm that can be replaced by a [[VESA]] mounting plate, allowing the unit to be mounted using any VESA-standard mount. Apple boasts that it is the slimmest desktop computer on the market. The iMac G5 is available in three retail models (17-inch, 1.6&nbsp;GHz is M9363LL/A; 17-inch, 1.8&nbsp;GHz is M9249LL/A; 20-inch, 1.8&nbsp;GHz is M9250LL/A) plus one education-only model that has no optical drive, no modem, and a more modest GeForce MX4000 graphics system.
+
+[http://pulsar.esm.psu.edu/Faculty/Gray/graphics/movies/imac_2004-intro_m480.mov Here] was the ad campaign.
+
+*[[May 3]], [[2005]] — Apple releases "Rev. B", or the "Ambient Light Sensor" line (the name refers to a new light sensor on the bottom of the iMac that adjusts the glow intensity of the white pulsating sleep indicator light according to the ambient light). The entry model is now 17-inch, 1.8&nbsp;GHz (M9843LL/A). The mid-model is 17-inch, 2.0&nbsp;GHz (M9844LL/A) and the top model is 20-inch, 2.0&nbsp;GHz (M9845LL/A). All models now feature 512&nbsp;MB of RAM standard; the hard drive capacity is increased to 250&nbsp;GB on the top model, with an option of 400&nbsp;GB. Optional upgrades now include a double-layered 8&times; SuperDrive. All models now feature Airport Extreme wireless, [[Bluetooth]] 2.0+EDR, and an [[ATI Technologies|ATI]] [[Radeon]] 9600 graphics chip with 128&nbsp;MB of [[Video RAM|VRAM]] as standard. Also the 10/100 network interface has been upgraded to 10/100/1000. All models now ship with [[iLife]] '05 and Apple's new [[Mac OS X v10.4]] Tiger.
+
+*[[October 12]], [[2005]] — At the "One More Thing" event, Apple released new iMac G5s (the "Rev. C", or the "iSight" line); a 17-inch display running at 1.9&nbsp;GHz (MA063L/A) and 20-inch display model running at 2.1&nbsp;GHz (MA064L/A) with:
+**A built-in USB 2.0 [[iSight]] camera
+**A [[remote control]] called [[Apple Remote]]
+**512&nbsp;MB PC2-4200 (533&nbsp;MHz) [[DDR2]]; expandable to 2.5&nbsp;[[GB]] total memory
+**Slot-loading 8&times; double-layer [[SuperDrive]] (DVD+R DL/DVD±RW/CD-RW)
+**[[Apple Mighty Mouse|Mighty Mouse]]
+**A [[PCI-Express]] ATI [[Radeon X600]] (Pro for the 17-inch model and XT for the 20-inch model) graphics chip with 128&nbsp;MB DDR [[Video RAM|VRAM]]
+**Built-in media center software called [[Front Row]]
+**Horizontal input ports rather than vertical configuration.
+**Thinner 1.5&nbsp;inch (3.8&nbsp;cm) flat panel housing with a curved rear housing
+**Note: the built-in [[V.92]] [[modem]] was removed and is now offered as the optional [[Apple USB Modem]]. The USB modem is available on the [[Apple Store (online)|Apple Store]] website and also in [[Apple Store (retail)|Apple retail store]]s.
+**In February 2006, Apple discontinued the 17-inch iMac G5 and began solely selling a 20-inch iMac G5 for US$1,499.
+**The iMac G5 was completely discontinued in March 2006.
+November 30, 2005- The iMac G5 was declared "The Gold Standard of desktop PCs" by Walt Mossberg of the Wall Street Journal. <ref> [http://ptech.wsj.com/archive/solution-20051130.html], The Mossberg Solution, November 30, 2005. </ref>
+
+===iMac Core Duo===
+{{Infobox Computer
+|name = iMac Intel Core Duo
+|developer = [[Apple Inc]]
+|type = [[Desktop computer|Desktop]]
+|photo = [[Image:Imac core duo.jpg|The iMac Core Duo|Sharing design with the iMac G5|180px]] 
+|caption = The iMac Core Duo.
+|first_release_date = [[January 10]], [[2006]]
+|processor = [[Intel Core Duo]], 1.83&ndash;2.0&nbsp;GHz
+|price = US$1,299&ndash;US$1,699
+}}
+*[[January 10]], [[2006]] — Apple updates to [[Intel]] processors, claiming up to 2&ndash;3&times; performance improvement.
+**17-inch model (MA199LL), 1.83&nbsp;GHz 32-bit [[Intel Core|Intel Core Duo]]
+**20-inch model (MA200LL), 2.0&nbsp;GHz 32-bit Intel Core Duo
+**All Intel-based iMacs ship with [[iLife]] '06
+**A [[PCI-Express]] ATI [[Radeon X1000|Radeon X1600]] graphics processor with 128&nbsp;[[MB]] [[GDDR3]] VRAM - 256&nbsp;MB option on the 2.0&nbsp;GHz model
+**512&nbsp;MB PC2-5300 (667&nbsp;MHz) DDR2 [[SO-DIMM]] SDRAM; expandable to 2.0&nbsp;[[GB]] total memory ([[dual channel]] capable)
+**SATA hard disk (160&nbsp;GB on 17-inch and 250&nbsp;GB on 20-inch) with [[native command queuing]] support
+**Mini-[[DVI]] output with extended desktop support (it can drive up to a 23-inch [[Apple Cinema Display]])
+**Note: Although iSight provides up to 4&times; resolution of iMac G5 with iSight when using iChat, it is still limited to 640 &times; 480 resolution.<ref>http://images.apple.com/imac/pdf/20060120_iMac_TO.pdf ([[Portable Document Format|PDF]])</ref>
+A low-end version of the 17-inch model was introduced [[5 July]] [[2006]], for education customers only, replacing the [[eMac]] (now discontinued). Priced at US$899, the "Educational Configuration" iMac is the same as the regular 17-inch model but instead comes with a combo optical drive, an 80&nbsp;GB hard drive, and integrated graphics (Intel GMA 950), and lacks Bluetooth and the Apple Remote. For the first week after its release this model was available to individual educators. A week after its introduction, however, it was pulled by Apple from the educational consumer online store without explanation and limited to purchases by educational institutions only.
+
+===iMac Core 2 Duo===
+{{Infobox Computer
+|name = iMac Intel Core 2 Duo
+|developer = [[Apple Inc]]
+|type = [[Desktop computer|Desktop]]
+|photo = [[Image:IMac transparency.png|The iMac Core Duo|Sharing design with the iMac G5|150px]] 
+|caption = The iMac Core 2 Duo.
+|first_release_date = [[6 September]] [[2006]]
+|processor = [[Intel Core 2 Duo]], 1.83&ndash;2.33&nbsp;GHz
+|price = US$999&ndash;US$1,999
+}}
+*[[September 6]], [[2006]] — Apple updates to Core 2 Duo (64-bit, Merom) processors with new models in four default configurations. 
+
+Apple claims these are up to 50% faster than the previous models. Apple also cuts prices on the lowest end iMac from US$1299 to US$999, and makes the Apple Remote optional on the US$999 17-inch model. Options for graphics cards include the same options as the iMac Core Duo, but the low end 17-inch model uses Intel GMA 950, and the new 24-inch model has an NVIDIA GeForce 7300 GT graphics card with an upgrade option of a 7600 GT. The base RAM for all but the base model is raised from 512&nbsp;MB to 1&nbsp;GB, and the maximum allowable RAM for all but the base model is increased to 3&nbsp;GB. The 24-inch model's 1920 &times; 1200 resolution supports full 1080p high-definition.
+
+The 17-inch 1.83&nbsp;GHz iMac, for a retail price of US$999, includes:
+*17-inch widescreen LCD display (1440&times;900 native resolution);
+*1.83&nbsp;GHz 64-bit Intel Core 2 Duo processor (T5600);
+*512&nbsp;MB of 667&nbsp;MHz DDR2 SDRAM expandable to 2&nbsp;GB;
+*24&times; Combo drive;
+*Intel GMA 950 graphics (using 64&nbsp;MB shared memory);
+*Built-in iSight video camera;
+*Built-in AirPort Extreme wireless networking;
+*160&nbsp;GB Serial ATA hard drive running at 7200&nbsp;rpm;
+*Mini-DVI out (adapters for DVI, VGA and Composite/S-Video sold separately);
+*Built-in stereo speakers and microphone;
+*Mighty Mouse and Apple Keyboard.
+
+The 17-inch 2.0&nbsp;GHz iMac, for a retail price of US$1,199, includes:
+*17-inch widescreen LCD display (1440&times;900 native resolution);
+*2.0&nbsp;GHz 64-bit Intel Core 2 Duo processor (T7200), (Optional 2.16 GHz (T7400));
+*1&nbsp;GB of 667&nbsp;MHz DDR2 SDRAM expandable to 3&nbsp;GB;
+*8&times; SuperDrive with double-layer support (DVD+R DL/DVD+/-RW/CD-RW);
+*PCI Express-based ATI Radeon X1600 with 128&nbsp;MB GDDR3 memory;
+*Built-in iSight video camera;
+*Built-in AirPort Extreme wireless networking and Bluetooth 2.0+EDR;
+*160&nbsp;GB Serial ATA hard drive running at 7200&nbsp;rpm;
+*Mini-DVI out (adapters for DVI, VGA and Composite/S-Video sold separately);
+*Built-in stereo speakers and microphone;
+*The infrared Apple Remote, Mighty Mouse and Apple Keyboard.
+
+The 20-inch 2.16&nbsp;GHz iMac, for a retail price of US$1,499, includes:
+*20-inch widescreen LCD display (1680&times;1050 native resolution);
+*2.16&nbsp;GHz 64-bit Intel Core 2 Duo processor (T7400), (Optional 2.33 GHz (T7600));
+*1&nbsp;GB of 667&nbsp;MHz DDR2 SDRAM expandable to 3&nbsp;GB;
+*8&times; SuperDrive with double-layer support (DVD+R DL/DVD+/-RW/CD-RW);
+*PCI Express-based ATI Radeon X1600 with 128&nbsp;MB GDDR3 memory
+*Built-in iSight video camera;
+*Built-in AirPort Extreme wireless networking and Bluetooth 2.0+EDR;
+*250&nbsp;GB Serial ATA hard drive running at 7200&nbsp;rpm;
+*Mini-DVI out (adapters for DVI, VGA and Composite/S-Video sold separately);
+*Built-in stereo speakers and microphone;
+*The infrared Apple Remote, Mighty Mouse and Apple Keyboard.
+
+The 24-inch 2.16&nbsp;GHz iMac, for a retail price of US$1,999, includes:
+*24-inch widescreen LCD display (1920&times;1200 native resolution);
+*2.16&nbsp;GHz 64-bit Intel Core 2 Duo processor (T7400), (Optional 2.33 GHz (T7600));
+*1&nbsp;GB of 667&nbsp;MHz DDR2 SDRAM expandable to 3&nbsp;GB;
+*8&times; SuperDrive with double-layer support (DVD+R DL/DVD+/-RW/CD-RW);
+*NVIDIA GeForce 7300 GT with 128&nbsp;MB GDDR3 memory
+*Built-in iSight video camera;
+*Built-in AirPort Extreme wireless networking and Bluetooth 2.0+EDR;
+*250&nbsp;GB Serial ATA hard drive running at 7200&nbsp;rpm;
+*Mini-DVI out (adapters for DVI, VGA and Composite/S-Video sold separately);
+*Built-in stereo speakers and microphone;
+*The infrared Apple Remote, Mighty Mouse and Apple Keyboard.
+
+{{Timeline of iMac models|headerextension==}}
+
+==References==
+<!--This article uses the Cite.php citation mechanism. If you would like more information on how to add footnotes to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+<div class="references-small">
+<references />
+</div>
+
+==External links==
+{{commonscat|iMac}}
+*[http://www.apple.com/imac/ Apple Inc | iMac]
+*[http://support.apple.com/specs/ Apple Inc | Apple Support Technical Specifications]
+*[http://developer.apple.com/documentation/Hardware/hardware2.html Apple Developer Connection | Comprehensive technical details]
+*[http://developer.apple.com/documentation/HardwareDrivers/Conceptual/iMac_0609_SuperDrive/index.html Apple Developer Connection | iMac Core 2 Duo Developer Note] 
+*[http://www.lowendmac.com/macdan/05/0202.html A Quick Guide to Differentiating CRT G3 iMacs]
+*[http://www.everymac.com/systems/apple/imac/index.html Everymac.com | iMac]
+*[http://www.tidbits.com/tb-issues/TidBITS-429.html#lnk4 TidBITS issue 429]
+
+{{Apple hardware since 1998}}
+
+[[Category:PowerPC Macintosh computers]]
+[[Category:x86 Macintosh computers]]
+[[Category:Macintosh all-in-ones]]
+[[Category:Macintosh computers by product line]]
+[[Category:Industrial design examples]]
+[[Category:1998 introductions]]
+
+[[de:Apple iMac]]
+[[es:IMac]]
+[[fr:IMac]]
+[[gl:IMac]]
+[[ko:아이맥]]
+[[id:IMac]]
+[[it:IMac]]
+[[he:IMac]]
+[[lb:IMac]]
+[[nl:Apple iMac]]
+[[ja:IMac]]
+[[no:IMac]]
+[[pl:IMac]]
+[[pt:IMac]]
+[[sk:IMac]]
+[[fi:IMac]]
+[[sv:IMac]]
+[[uk:IMac]]
+[[zh:IMac]]

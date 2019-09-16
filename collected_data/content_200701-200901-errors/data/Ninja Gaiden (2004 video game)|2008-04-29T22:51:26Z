@@ -1,0 +1,1330 @@
+{{Infobox VG
+|title = Ninja Gaiden
+|image = [[Image:Ninja Gaiden Coverart.png]]
+|caption = Box cover art for ''Ninja Gaiden''
+|developer = [[Team Ninja]]
+|publisher = [[Tecmo]]<br />{{vgrelease|Europe|EU|[[Eidos Interactive]]}} (''Sigma'')
+|designer = [[Tomonobu Itagaki]]<br />Yosuke Hayashi (''Sigma'')
+|series = [[Ninja Gaiden (series)|''Ninja Gaiden'']]
+|resolution = [[480p]]<br />[[720p]] (''Sigma'')
+|platforms = [[Xbox]]<br />[[PlayStation 3]] (''Sigma'')
+|released = '''''Ninja Gaiden'''''<br />{{vgrelease|North America|NA|[[March 2]], [[2004]]}}<br />{{vgrelease|Japan|JP|[[March 11]], [[2004]]}}<br />{{vgrelease|Europe|EU|[[May 14]], [[2004]]}}<br />'''''Ninja Gaiden Black'''''<br />{{vgrelease|North America|NA|[[September 20]], [[2005]]}}<br />{{vgrelease|Japan|JP|[[September 29]], [[2005]]}}<br />{{vgrelease|Europe|EU|[[October 21]], [[2005]]}}<br />[[February 11]], [[2008]] (Xbox Original)<br />'''''Ninja Gaiden Sigma'''''<br />{{vgrelease|Japan|JP|[[June 14]], [[2007]]}}<br />{{vgrelease|North America|NA|[[July 3]], [[2007]]}}<br />{{vgrelease|Europe|EU|[[July 6]], [[2007]]}}<br />{{vgrelease|Australasia|AUS|[[July 13]], [[2007]]}}
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player]]
+|ratings = <table border="0" cellspacing="0" cellpadding="0">
+<tr bgcolor="#f0f0f0" align="center">
+<td>&nbsp;</td>
+<td width=30%><div style="line-height: 100%;">'''''Ninja Gaiden'''''</div></td>
+<td width=30%>'''''Black'''''</td>
+<td width=30%>'''''Sigma'''''</td>
+</tr>
+<tr bgcolor="#f0f0f0" align="center">
+<td align="left">[[Entertainment Software Rating Board|ESRB]]:</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr bgcolor="#f0f0f0" align="center">
+<td align="left">[[British Board of Film Classification|BBFC]]:</td>
+<td>-</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#f0f0f0" align="center">
+<td align="left">[[Office of Film and Literature Classification (Australia)|OFLC]]:</td>
+<td>MA15+</td>
+<td>-</td>
+<td>MA15+</td>
+</tr>
+<tr bgcolor="#f0f0f0" align="center">
+<td align="left">[[Unterhaltungssoftware Selbstkontrolle|USK]]:</td>
+<td>18+<small><sup>[[English language|en]]</sup></small>/16+<small><sup>[[German language|de]]</sup></small></td>
+<td>18+</td>
+<td>18+</td>
+</tr>
+<tr bgcolor="#f0f0f0" align="center">
+<td align="left">[[Computer Entertainment Rating Organization|CERO]]:</td>
+<td>18+/D*</td>
+<td>18+/D*</td>
+<td>D</td>
+</tr>
+</table>
+<small>- not submitted or unavailable<br />* pre-2006 and post-2006 ratings</small>
+}}
+'''''Ninja Gaiden''''' is an [[action-adventure game]] for the [[Xbox]] [[video game console]]. [[Team Ninja]] had developed the game for five years before [[Tecmo]] released it in 2004. Although it used the title and [[Protagonist|main character]] of the [[Ninja Gaiden (video game)|1990s series]] on the [[Nintendo Entertainment System]], it moved the setting to that of the [[Dead or Alive (series)|''Dead or Alive'' series]].
+
+''Ninja Gaiden'' was Team Ninja's first foray into the action market. The player controls the [[ninja]], [[Ryu Hayabusa]], from a [[Third-person shooter|third-person view]]. He has to fight hordes of foes in various places to retrieve a stolen blade and avenge the deaths of the Hayabusa clan. The game offers many weapons and large amounts of gore. Players across the world also took part in record-breaking online contests that climaxed in a final held at [[Tokyo Game Show|Tokyo Game Show 2004]].
+
+Team Ninja went on working on the game after its release and released new game modes over [[Xbox Live]]. The new features evolved the gameplay and this carried on in the 2005 Xbox [[Reissue|re-release]], ''Ninja Gaiden Black'', which added another game mode. The last re-release was ''Ninja Gaiden Sigma'' for the [[PlayStation 3]] in 2007.
+
+The game has received much critical acclaim; several critics called it one of the best and most difficult video games ever made, and inducted it into their Halls of Fame. Although the game was a hit in [[North America]], it received a lukewarm response in [[Japan]]. The ''Ninja Gaiden'' saga goes on in ''[[Ninja Gaiden Dragon Sword]]'' on the [[Nintendo DS]] and ''[[Ninja Gaiden II (2008 video game)|Ninja Gaiden II]]'' on the [[Xbox 360]].
+
+==Gameplay==
+{| style="margin:auto; border-collapse:collapse; border-style:none;"
+| width="20" valign="top" style="color:#B2B7F2;font-size:30px;font-family:'Times New Roman',serif;font-weight:bold;text-align:left;" | “
+| valign="top" style="padding:4px;" | In other action games, the enemies existed for you to kill. In ''Ninja Gaiden'', the enemies existed to kill you.<ref name="history">{{cite web
+  | author = Rus McLaughlin
+  | title = IGN Presents The History of Ninja Gaiden
+  | publisher = [[IGN]]
+  | date = 2008-01-28
+  | url = http://retro.ign.com/articles/848/848155p1.html
+  | accessdate = 2008-01-29 }}
+</ref>
+| width="20" valign="bottom" style="color:#B2B7F2;font-size:30px;font-family:'Times New Roman',serif;font-weight:bold;text-align:right;" | ”
+|-
+| colspan="3" |<p style="font-size:smaller;text-align: right"><cite style="font-style:normal;">—[[Tomonobu Itagaki]], [[Team Ninja]] Leader
+|}
+
+''Ninja Gaiden'' takes place within a single game world divided into several regions.<ref name="edge">{{cite journal
+  | author = Edge staff
+  | year = 2002
+  | month = August
+  | title = Inside... Tecmo
+  | journal = [[Edge (magazine)|Edge]]
+  | issue = 113
+  | pages = pp. 51&ndash;55
+  | publisher = [[Future plc|Future Publishing]]
+  | location = Bath, England
+  | issn = 1350-1593 }}
+</ref> Each region usually has a linear path connecting its entrances. Encounters populate this path and several off the path areas. There are [[Japanese dragon|dragon]] [[bust (sculpture)|bust]]s scattered in the regions serving as [[Saved game|save points]]. Most regions connect to one another via the city of Tairon, which functions as a hub.<ref name="entdep">{{cite web
+  | author = Matt Warner
+  | title = Ninja Gaiden
+  | publisher = The Entertainment Depot
+  | date = 2004-07-16
+  | url = http://www.entdepot.com/xbox/ninjagaiden/review.php
+  | accessdate = 2008-01-27 }}
+</ref> The game loads the world in stages and masks this operation with [[Cut scene|in game cut scenes]] of the [[player character]] entering the new region.<ref name="trend">{{cite web
+  | author = Ron Burke
+  | title = Ninja Gaiden
+  | publisher = [[Gaming Trend]]
+  | year = 2004
+  | url = http://www.gamingtrend.com/Reviews/review/review.php?ReviewID=96
+  | accessdate = 2008-02-03 }}
+</ref> Players control [[Ryu Hayabusa]] from a [[third-person shooter|third person perspective]]. They can make him run and jump through the streets, swing from pole to pole, and even run up and along walls.<ref name="gsngrev">{{cite web
+  | author = [[Greg Kasavin]]
+  | title = Ninja Gaiden for Xbox Review
+  | publisher = [[GameSpot]]
+  | date = 2004-02-26
+  | url = http://www.gamespot.com/xbox/action/ninjagaiden/review.html
+  | accessdate = 2007-08-21 }}
+</ref>
+
+The primary game mode of ''Ninja Gaiden'' is Story Mode. It follows the pacing of a typical [[action-adventure game]]; the protagonist is weak at the beginning and grows more powerful as the story progresses. ''[[The Legend of Zelda (series)|The Legend of Zelda]]'' video game series inspired Team Ninja to reward exploration and hunting for items in their game; players search for keys or solve puzzles to remove obstacles in their path, and gather items to upgrade Ryu's abilities and weapons.<ref name="gsngrev" /><ref name="sigpre">{{cite web
+  | author = James Mielke
+  | title = Previews: Ninja Gaiden Sigma
+  | publisher = [[1UP.com]]
+  | date = 2007-01-12
+  | url = http://www.1up.com/do/previewPage?cId=3156377
+  | accessdate = 2008-01-27 }}
+</ref><ref name ="gwxng">{{cite web
+  | author = Sean Nagasawa
+  | title = Ninja Gaiden Review
+  | publisher = GamingWorld X
+  | date = 2004-08-02
+  | url = http://www.gamingworldx.com/xbox/NinjaGaiden.shtml
+  | accessdate = 2007-08-23 }}
+</ref> The game measures how well players do against four standards: time taken to clear encounters and stages, enemies killed, unused ninpo ([[magic (gaming)|magic]] spells), and cash gathered. The [[Video game remake|Video game remake]]s ''Ninja Gaiden Black'' and ''Sigma'' introduced another game mode called Mission Mode comprising short sessions of combat. The player's Mission Mode [[score (game)|score]] is the total of highest scores for each mission. Both modes require players to complete a difficulty to unlock the next harder difficulty.<ref name="gsngbrev">{{cite web
+  | author = [[Greg Kasavin]]
+  | title = Ninja Gaiden Black for Xbox Review
+  | publisher = [[GameSpot]]
+  | date = 2005-09-20
+  | url = http://www.gamespot.com/xbox/action/ninjagaidenblack/review.html
+  | accessdate = 2007-08-21 }}
+</ref> Players can also upload their scores to online ranking boards.<ref name="prosigrev">{{cite web
+  | author = Will Freeman
+  | title = Ninja Gaiden Sigma Review
+  | publisher = [[Pro-G]]
+  | date = 2007-07-10
+  | url = http://www.videogamer.com/ps3/ninja_gaiden_sigma/review.html
+  | accessdate = 2008-02-03 }}
+</ref>
+
+===Combat system===
+Reviewers praised ''Ninja Gaiden'' for having one of the deeper combat engines for an [[Xbox]] game, and for its responsive and smooth controls. Players can easily control Ryu's fighting moves with the left [[analog stick|thumbstick]], three attack buttons, and a block button.<ref>{{cite web
+  | author = Alex Kidman
+  | title = Ninja Gaiden
+  | publisher = [[CNET]] Australia
+  | date = 2004-08-02
+  | url = http://www.cnet.com.au/games/xbox/0,239029621,219117552,00.htm
+  | accessdate = 2007-08-23
+  | quote = This gripping feeling is accentuated by the game's controls, which are both fluid and responsive, whether in the pure platform-like sections (think ''[[Prince of Persia: The Sands of Time]]'', especially when Ryu's running along walls or flipping himself out of pits) or the core of the game's challenge, the combat sections. }}
+</ref><ref name ="gwxng" /><ref name="ign_inter">{{cite web
+  | author = Aaron Boulding
+  | title = Ninja Gaiden: The Interview
+  | publisher = [[IGN]]
+  | date = 2003-06-25
+  | url = http://xbox.ign.com/articles/426/426010p1.html
+  | accessdate = 2007-08-21 }}
+</ref><ref name="denngb">{{cite web
+  | author = Ludwig Kietzmann
+  | title = Ninja Gaiden Black
+  | publisher = Digital Entertainment News
+  | date = 2006-03-23
+  | url = http://dignews.com/review.php?story_id=14316
+  | accessdate = 2007-08-22 }}
+</ref> ''[[God of War]]'' lead combat engine designer, Eric Williams, explained that the combat engine of ''Ninja Gaiden'' prohibits players from stopping or changing attacks in mid-stroke. In contrast, ''God of War'' allows players to cancel and change attacks anytime, and ''[[Devil May Cry]]'' grants this freedom to certain attacks. Williams stated that compared to those two games, ''Ninja Gaiden'' has a more difficult combat system to master but sets up a fair playing field for the player.<ref>{{cite web
+  | author = Eric Williams
+  | title = Combat Canceled: God of War & Action Game Design
+  | publisher = [[IGN]]
+  | date = 2008-02-15
+  | url = http://www.gamasutra.com/php-bin/news_index.php?story=17215
+  | accessdate = 2008-02-21 }}
+</ref>
+
+[[Image:Ninja Gaiden Sewer Fight.jpg|thumb|200px|left|The character, Ryu, can run along walls to dodge his enemies.]]
+''Ninja Gaiden'' offers the player a large selection of weapons. There are swords such as the Dragon Sword and Kitetsu, which allow for quick attacks. Ryu can leap and cut through foes with these weapons in a move called the Flying Swallow. He can also perform his signature Izuna Drop&mdash;an aerial spinning [[piledriver (professional wrestling)|piledriver]]&mdash;to smash foes into the ground with upgraded versions of these weapons. Heavy weapons, such as the Dabilahro and the Unlabored Flawlessness, are slow but powerful. The player can make Ryu string together long sequences of [[combo (video games)|combo]] attacks with [[flail]]s and [[Staff (stick)|staves]]. Ryu can also throw [[shuriken]]s and shoot arrows at distant foes.<ref>{{cite web
+  | author = Hilary Goldstein
+  | title = Ninja Gaiden: Blade Love
+  | publisher = [[IGN]]
+  | date = 2004-02-25
+  | url = http://xbox.ign.com/articles/494/494669p1.html
+  | accessdate = 2007-08-21 }}
+</ref><ref name="gsngrev" /> The player has two defense options for Ryu. First, Ryu can stand still and block attacks. However, certain enemies can break his guard with strong attacks or [[Grappling|grapple]] him. The second option is for the player to make Ryu dodge attacks by rolling in a maneuver called "reverse wind".<ref name="denngb" />
+
+Essences are colored globes of energy released on the death of enemies. They are an important part of the gameplay; they serve as [[power-up]]s by healing Ryu, restoring his magic, or increasing his cash. Essences go into Ryu’s body when he is near them. The player, however, can make Ryu draw in essences to unleash powerful attacks known as ultimate techniques.<ref name="denngb" /> Each weapon has a unique technique that deals heavy damage to foes and makes Ryu immune to damage for a short time.<ref name="eurong">{{cite web
+  | author = Tom Bramwell
+  | title = Ninja Gaiden
+  | publisher = [[Eurogamer]]
+  | date = 2004-03-16
+  | url = http://www.eurogamer.net/article.php?article_id=54896
+  | accessdate = 2007-08-21 }}
+</ref> In later versions of ''Ninja Gaiden'', these techniques award points, making them an integral part of high scoring play.
+
+Lastly, the player can make Ryu cast ninpos such as fireballs, ice storms, or bolts of lightning. These spells function in a similar manner to the bombs of [[Shoot 'em up|shooter action game]]s; they allow players to inflict heavy damage on enemies and avoid damage from their attacks.<ref name="ignngrev">{{cite web
+  | author = Hilary Goldstein
+  | title = Ninja Gaiden Review
+  | publisher = [[IGN]]
+  | date = 2004-02-27
+  | url = http://xbox.ign.com/articles/495/495186p1.html
+  | accessdate = 2007-08-21 }}
+</ref> Itagaki, however, was not very satisfied with the visual effects for ninpo attacks. As such, he wanted to discourage players from using ninpo; he programmed the game to award bonus points to players who clear stages without casting ninpo.<ref>{{cite web
+  | author = James Mielke
+  | title = Previews: Ninja Gaiden 2
+  | publisher = [[1UP.com]]
+  | date = 2007-11-16
+  | url = http://www.1up.com/do/previewPage?cId=3164447
+  | accessdate = 2007-11-16 }}
+</ref>
+<br style="clear:left;"/>
+
+==Plot and setting==
+[[Image:NGB Meeting Alma.jpg|thumb|200px|right|A scene in which Ryu meets the Greater Fiend, Alma, in the Gothic monastery]]
+Ninja Gaiden takes place in the fictional world of [[Tecmo]]'s [[fighting game]] series, ''[[Dead or Alive (series)|Dead or Alive]]'' (''DOA'').<ref name="teamxbox_int" /> Team Ninja decided the story will start in [[Japan]] and thought up a [[ninja]] fortress and village. The structures are [[Japanese architecture#Heian period|Heian period]] architecture; they are set in the mountains and feature wooden plank floors. The team also created a fictional Asian country called the Vigoor Empire. The architecture of Vigoor blends a variety of real world cultures. [[Europe]]an structures line the streets of Tairon and [[Arabic language|Arabic]] letterings are on several gates.<ref name="eurong" /> The monastery is a Gothic cathedral; it has a large tall hall, pointed arches, and large stained glass windows. Statues with the heads of cats, and walls covered with carvings and [[Egyptian hieroglyphs|hieroglyphics]] are features of the hidden underground level. Team Ninja even placed an [[Mesoamerican pyramids|Aztec pyramid]] before a [[labyrinth]].<ref name="entdep" /> Itagaki put in the game whatever he wanted to create and this resulted in the [[wikt:hodgepodge|hodgepodge]] of cultures.<ref name="teamxbox_int">{{cite web
+  | author = César A. Berardini
+  | title = Ninja Gaiden: Tomonobu Itagaki Interview
+  | publisher = [[TeamXbox]]
+  | date = 2003-12-05
+  | url = http://interviews.teamxbox.com/xbox/701/Ninja-Gaiden-Tomonobu-Itagaki-Interview/p1/
+  | accessdate = 2007-08-21 }}
+</ref>
+
+===Characters===
+{{main|List of Ninja Gaiden characters}}
+The protagonist of ''Ninja Gaiden'' is super ninja, [[List of Ninja Gaiden characters#Ryu Hayabusa 2|Ryu Hayabusa]].<ref>{{cite web
+  | author = James Mielke 
+  | title = Itagaki Talks DOA4 Demo on Live
+  | publisher = [[1UP.com]]
+  | date = 2006-07-24
+  | url = http://www.1up.com/do/newsStory?cId=3152406
+  | quote = Tomonobu Itagaki: First of all, I have of course included the eternal heroine, Kasumi, as well as everyone's favorite Super Ninja, Ryu Hayabusa.
+  | accessdate = 2007-10-08 }}
+</ref><ref>{{cite web
+  | author = GameSpy staff 
+  | title = Dead or Alive 4 Guys Week #1 (X360)
+  | publisher = [[GameSpy]]
+  | date = 2005-10-25
+  | url = http://xbox360.gamespy.com/xbox-360/dead-or-alive-4/657005p1.html
+  | accessdate = 2007-10-08 }}
+</ref> Ryu has a long history with Tecmo; he was the star in the old 1980&ndash;90s ''Ninja Gaiden'' series and was part of the ''DOA'' roster since its start in 1996. Ryu’s roles in these games have made him popular among fans and the game industry.<ref>{{cite video
+  | people     = [[ScrewAttack]]
+  | date2      = 2007-08-28
+  | title      = Top Ten Ninjas
+  | url        = http://www.gametrailers.com/player/24269.html
+  | format     = swf
+  | publisher  = [[GameTrailers]]
+  | accessdate = 2008-03-30
+  | time       = 05:20 }}
+</ref><ref>{{cite web
+  | author = Jeff "Mr. Nash" Nash
+  | title = Weekly Top 10: Best Ninjas
+  | publisher = The Armchair Empire
+  | date = 2006-03-06
+  | url = http://www.armchairempire.com/Features/Weekly-Top-10/best-ninjas.htm
+  | accessdate = 2008-03-30 }}
+</ref> His appearances in the ''DOA'' stories have established him as a stoic and reliable character.<ref name="history" /> Itagaki wanted Ryu to be the only player character in ''Ninja Gaiden''; he believed extra player characters would distract his team from making a good character out of Ryu.<ref name="gmr">{{cite journal
+  | author = James Mielke
+  | title = Ninja Gaiden
+  | journal = [[GMR (magazine)|GMR]]
+  | publisher = [[Ziff-Davis]]
+  | location = California, United States
+  | year = 2003
+  | month = July
+  | issn = 1544-6816
+  | quote = Tomonobu Itagaki: We're not really that interested in making supporting characters playable. Right now, we are simply focusing on making the movements and actions of our "Super Ninja" Ryu Hayabusa the coolest on the planet. }}
+</ref><ref>{{cite web
+  | author = James Mielke
+  | title = Itagaki Hardcore Part 1: The Future of Team Ninja
+  | publisher = [[1UP.com]]
+  | date = 2005-09-27
+  | url = http://www.1up.com/do/feature?cId=3144132
+  | accessdate = 2007-10-01 }}
+</ref>
+
+The leading female character in the game is [[List of Ninja Gaiden characters#Supporting characters 2|Rachel]]. She is the [[tragic hero]]ine of the story; her blood carries the curse that turns people into [[List of Ninja Gaiden characters#Fiends|fiends]], and she is on a [[quest]] to kill her transformed twin sister, [[List of Ninja Gaiden characters#Leaders of the Fiends|Alma]], to redeem her. The relationship between the sisters and the Greater Fiend, [[List of Ninja Gaiden characters#Leaders of the Fiends|Doku]], serves as a [[plot device]] to move the story.<ref>{{cite video game
+  | title = Ninja Gaiden Sigma
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2007-07-03
+  | platform = [[PlayStation 3]]
+  | quote = Rachel: I was convinced once that my blood was pure... but then I saw what my pure blood was capable of. I watched as my twin sister was cursed and twisted into a Greater Fiend. Now I know the path I walk is narrow. }}
+</ref> Rachel is not a player character in ''Ninja Gaiden''. However, players can control her in a few sections of the remake, ''Ninja Gaiden Sigma''.<ref name="sigpre" /> 
+
+There are many types of enemies in the game. Most are, however, humanoid creatures called [[List of Ninja Gaiden characters#Fiends|fiends]]. Their back-story states a blood curse has transformed them from humans into monsters.<ref>{{cite video game
+  | title = Ninja Gaiden
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2004-03-02
+  | platform = [[Xbox]]
+  | quote = Rachel: It's hard to believe they were ever humans, isn't it?&nbsp;[...] Anyone with susceptibility to the curse, whether they are a saint or a sinner, can succumb to it and become a Fiend. }}
+</ref> Itagaki thought up the fiends and nonhuman monsters, as he got bored with the human soldiers and ninjas.<ref name="giint" /> Three Greater Fiends lead the bulk of enemies against the player. They also play roles that are more significant in the story. Alma acts as a goal for her twin sister, Rachel, and her fate is a plot device to move the story. Doku acts as the main [[antagonist]]; he raids the Hayabusa village, steals the Dark Dragon Blade, and causes the discord between the sisters. [[List of Ninja Gaiden characters#Leaders of the Fiends|Marbus]] is responsible for the last set of challenges standing in Ryu’s way to the Emperor of the fiends.<ref>{{cite video game
+  | title = Ninja Gaiden
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2004-03-02
+  | platform = [[Xbox]]
+  | quote = Ryu: So, the Greater Fiends have a soul, don't they?<br />Rachel: [...] There are only three of them, Doku, my sister and another who guards the Emperor. }}
+</ref>
+
+Team Ninja paid attention to details in their creation of [[3D modeling|3D computer models]] for the game; they studied human anatomy to create skeletal and muscle structures for the characters. Hayashi also said the team modeled the pistols of the henchman, Gamov, after real world handguns. Although Team Ninja had [[motion capture]]d [[Martial arts|martial artists]], they did not directly use the captures in the game. Instead, they referred to the captures to create animations with their own ideas and touched them up by hand. Team Ninja also provided fan service for the gamers by letting them to choose costumes and hairstyles for Ryu and Rachel.<ref name="sigpre" />
+
+===Story===
+The story of ''Ninja Gaiden'' starts two years before the first [[Dead or Alive (arcade game)|''DOA'' game]].<ref name="teamxbox_int" /> [[Cut scene]]s set up the beginning and conclusion of each chapter. Players take control of Ryu in an invasion of the Shadow clan fortress at the start of the game. Ryu is there to visit the clan leader, [[List of Ninja Gaiden characters#Ninjas|Murai]], who is his uncle. A cut scene shows the female ninja, [[List of Ninja Gaiden characters#Supporting characters 2|Ayane]], interrupting the talk between Ryu and Murai; she delivers news of a raid on the Hayabusa village. Ryu fights his way back to his village and encounters Doku who has taken the Dark Dragon Blade and killed Kureha, the Hayabusa [[miko|shrine maiden]]. The encounter ends with a cut scene of Doku cutting Ryu down with the Blade. A [[falcon]] watches over Ryu's body as the screen [[Fade (film)|fades out]]. It is the spiritual animal of the Hayabusas and brings him back to life offscreen.<ref>{{cite journal
+  | author = Chris Johnston
+  | title = Ninja Gaiden
+  | journal = [[Electronic Gaming Monthly]]
+  | publisher = [[Ziff-Davis]]
+  | location = California, United States
+  | year = 2004
+  | month = June
+  | issn = 1058-918X
+  | url = http://www.accessmylibrary.com/coms2/summary_0286-21191655_ITM
+  | accessdate = 2007-09-05
+  | quote = Tomonobu Itagaki: Yes, he died. Do you remember the falcon staring at his dead body? That falcon’s spiritual power resurrected him as a soldier of revenge. }}
+</ref>
+
+[[Image:Ninja Gaiden Ryu vs Doku.jpg|thumb|left|200px|A scene of Doku and Ryu about to fight during the raid on the Hayabusa village]]
+Kureha's death causes Ryu to seek revenge on the raiders.<ref name="gmr" /> After Murai tells him that they were from the Vigoor Empire, he hides on a Zeppelin to sneak into the country. Ayane performs as a guide throughout the game; she informs the player of objectives and tips to handle situations. Ryu fights through the streets of Tairon, cutting down those who stand in his way. While players have to fight most of the characters they meet, two of them are there to help. [[List of Ninja Gaiden characters#Supporting characters 2|Muramasa]], the [[bladesmith]], has shops spread over the game world, and players can buy or upgrade items from him. He also gives [[back-story|back-stories]], [[quest (gaming)|quest]]s, and crucial information; he tells Ryu to find the Dragon Eye jewel at the Hayabusa village to upgrade the Dragon Sword to its full potential. Rachel, the Fiend Hunter, reveals more of the back-story and serves as the occasional [[damsel in distress]].
+
+The player faces several [[boss (video games)|boss]]es in Ryu's rampage through Tairon. Most of them are giant nonhuman fiends and the humanoid bosses include the three Greater Fiends. Ryu first defeats Alma in a battle that wrecks the city. Rachel steps in but cannot bring herself to kill her defeated sister. In turn, she falls to Doku who prepares to sacrifice her in a ritual to enhance Alma's power.<ref>{{cite video game
+  | title = Ninja Gaiden
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2004-03-02
+  | platform = [[Xbox]]
+  | quote = Doku: Ah... Rachel. I should kill you now for the pain you've inflicted on Alma, but instead, I shall use you to make her even stronger. It will be your blood, the cursed blood of a twin sister that shall serve to awaken Alma. }}
+</ref> Ryu rescues her and destroys Doku's spirit. Doku, however, casts the blood curse on Ryu with his last breath.<ref>{{cite video game
+  | title = Ninja Gaiden
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2004-03-02
+  | platform = [[Xbox]]
+  | quote = Spirit Doku: Receive the curse, become a Fiend. }}
+</ref> Ryu has to kill the Emperor to lift the curse. He invades the palace and kills Marbus, which clears the way to the Emperor's personal realm. The player has to clear two successive boss fights to destroy the Emperor. The realm starts to collapse with the Emperor's death and the player has to navigate Ryu [[Jumping puzzle|up a series of ledges]] to escape.
+
+Ryu loses his grip on the recovered Dark Dragon Blade in his escape. It lands at the feet of the [[List of Ninja Gaiden characters#Ninjas|Dark Disciple]] who has been shadowing Ryu throughout the story. The Disciple picks up the Blade and unmasks himself as Murai. He admits he planned the entire scheme to restore the Blade's evil power with souls harnessed from Ryu's quest of vengeance.<ref>{{cite video game
+  | title = Ninja Gaiden
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2004-03-02
+  | platform = [[Xbox]]
+  | quote = Dark Disciple: Gamov, so the Dark Dragon grows in power with each killing. }}
+</ref><ref>{{cite video game
+  | title = Ninja Gaiden
+  | developer = [[Team Ninja]]
+  | publisher = [[Tecmo]]
+  | date = 2004-03-02
+  | platform = [[Xbox]]
+  | quote = Gamov: Don't you see? The Dark Dragon is now truly an evil blade. His Excellency the Dark Disciple has been waiting for this very moment! }}
+</ref> The restored Dark Dragon Blade enhances Murai with its dark powers, setting up the final boss fight. Ryu defeats Murai and shatters the Blade with the True Dragon Sword. He tells Rachel, "It's over&nbsp;...", turns himself into a falcon and flies to the Hayabusa village. In the final scene, Ryu places the Dragon Eye back on Kureha's tombstone and disappears into the night. The story of ''Ninja Gaiden'' continues in ''[[Ninja Gaiden Dragon Sword]]'' and ''[[Ninja Gaiden II (Xbox 360)|Ninja Gaiden II]]''.
+<br style="clear:left;"/>
+
+==Development==
+In 1999, Team Ninja started work on the "Next-Generation Ninja Gaiden Project".<ref name="history" /> They designed the game on a [[List of Sega arcade system boards#Sega NAOMI|Sega NAOMI]] and planned to move it to its final form on the [[Dreamcast]] console. However, Sega's cessation of the Dreamcast product line in 2001 put a stop to this plan.<ref name="edge" /> Tecmo decided to make the game a launch title for the [[Sony Computer Entertainment|Sony]] {{nowraplinks}}[[PlayStation 2]]{{nowraplinks end}} in the United States.<ref>{{cite news
+  | author = Sam Kennedy
+  | title = Ninja Gaiden Goes PlayStation 2
+  | publisher = [[GameSpot]]
+  | date = 1999-06-03
+  | url = http://www.gamespot.com/news/2450994.html
+  | accessdate = 2007-08-21 }}
+</ref> However, Tomonobu Itagaki had other plans; the Team Ninja Leader was impressed with the [[software development kit]]s for the Xbox and pushed for his team to develop games for the [[Microsoft]] console in secrecy.<ref name="history" /> Hence, the gaming industry was surprised at [[E3 Media and Business Summit|E3 2002]] when Tecmo announced ''Ninja Gaiden'' was exclusive to the Xbox.<ref name="armemp">{{cite web
+  | author = Aaron "Omni" Simmer
+  | title = Xbox Previews: Ninja Gaiden
+  | publisher = The Armchair Empire
+  | date = 2003-04-05
+  | url = http://www.armchairempire.com/Previews/Xbox/ninja-gaiden.htm
+  | accessdate = 2007-08-21 }}
+</ref> Even the fans were surprised; most of them who voted on Tecmo's poll wanted the game on the [[Nintendo]] [[GameCube]].<ref>{{cite news
+  | author = IGN staff
+  | title = Ninja Gaiden on PS2?
+  | publisher = [[IGN]]
+  | date = 2001-06-29
+  | url = http://ps2.ign.com/articles/096/096210p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+
+''Ninja Gaiden'' was Team Ninja's first action title. Its original form had nothing to do with the old ''[[Ninja Gaiden (video game)|Ninja Gaiden]]'' series.<ref name="wint">{{cite journal
+  | author = Xbox Nation staff
+  | title = Paradise Lost
+  | journal = Xbox Nation
+  | publisher = [[Ziff Davis]]
+  | location = California, United States
+  | issn = 1538-9723
+  | year = 2002
+  | month = Winter
+  | url = http://bellsouthpwp.net/r/a/racerg/itagaki-xbn-winter2002.html
+  | accessdate = 2007-09-23 }}
+</ref> The old series, which first ran on the [[Nintendo Entertainment System]], had fans in the [[Western world|West]] who enjoyed adventures of the ninja, Ryu Hayabusa.<ref name="history" /> Tecmo asked Itagaki to adopt the theme of the old series and develop the game for the foreign market.<ref name="wint" /><ref name="edge" /> Itagaki believed the violence of the old games appealed to the players and kept that spirit in the Xbox game.<ref name="edge" /> He also aimed to make the game hard but appealing to casual and hardcore gamers.<ref name="teamxbox_int" /> The game would be hard by challenging players on their reflexes rather than on their memories of layouts and timings.<ref name="ign_inter" /> The team aimed to show high-quality animations that would flow smoothly and react quickly to the player's input.<ref name="teamxbox_int" /> As the [[game director]], Itagaki set the game in the ''DOA'' game world instead of the old series. However, he alluded to the old series with updated versions of a few old foes and special attacks.<ref name="gsngrev" /><ref name="ignngrev" />
+
+Tecmo initially stated they would release the game in the second quarter of 2003.<ref name="armemp" /> However, they kept pushing back the release date.<ref>{{cite news
+  | author = IGN staff
+  | title = Ninja Gaiden Still On Track
+  | publisher = [[IGN]]
+  | date = 2003-09-19
+  | url = http://xbox.ign.com/articles/450/450798p1.html
+  | accessdate = 2008-04-21 }}
+</ref><ref>{{cite news
+  | author = IGN staff
+  | title = More Ninja Gaiden
+  | publisher = [[IGN]]
+  | date = 2003-12-01
+  | url = http://xbox.ign.com/articles/442/442537p1.html
+  | accessdate = 2008-04-21 }}
+</ref><ref>{{cite news
+  | author = IGN staff
+  | title = Ninja Gaiden Delay
+  | publisher = [[IGN]]
+  | date = 2004-01-29
+  | url = http://xbox.ign.com/articles/481/481455p1.html
+  | accessdate = 2008-04-21 }}
+</ref> As the delays drew close to a year, the [[February 26]], [[2004]] issue of ''[[Famitsu|Famitsu Xbox]]'' went on sale in Japan. A [[game demo]] of ''Ninja Gaiden'' was bundled with the magazine.<ref>{{cite news
+  | author = IGN staff
+  | title = Ninja Gaiden Demo Disc
+  | publisher = [[IGN]]
+  | date = 2004-01-20
+  | url = http://xbox.ign.com/articles/473/473498p1.html
+  | accessdate = 2007-08-21 }}
+</ref> The demo let players try the first chapter of the game on two difficulties with a limited selection of fully upgraded weapons and ninpo.<ref>{{cite web
+  | author = Anoop Gantayat
+  | title = Ninja Gaiden Demo Busted
+  | publisher = [[IGN]]
+  | date = 2004-02-13
+  | url = http://xbox.ign.com/articles/492/492400p1.html
+  | accessdate = 2007-08-21 }}
+</ref> After a year since the first announced date, Tecmo finally released Ninja Gaiden on [[March 2]], [[2004]].<ref>{{cite press release
+  | title = Ninja Gaiden Release Date Locked Down
+  | publisher = [[Tecmo]]
+  | date = 2004-02-24
+  | url = http://www.armchairempire.com/videogame-news/Xbox/Febraury-2004/ninja-gaiden-release-date.htm
+  | accessdate = 2007-08-23 }}
+</ref>
+
+===Post-release===
+Although Team Ninja had sent out Ninja Gaiden for release, they kept working on the project. This being their first action title, they wanted to push the envelope of the genre as far as they could.<ref name="giint">{{cite web
+  | author = Billy Berghammer
+  | title = An Interivew With Tomonobu Itagaki
+  | publisher = ''[[Game Informer]]''
+  | date = 2004-07-27
+  | url = http://www.gameinformer.com/News/Story/200407/N04.0727.1752.42649.htm
+  | accessdate = 2008-01-05 }}
+</ref> The ''Hurricane Packs'' were their tests on the concept of downloading additional game modes to gamers. Itagaki said that the ''Packs'' were free not because Team Ninja were selfless, but because they wanted to create the ''Packs''.<ref>{{cite web
+  | author = Hilary Goldstein
+  | title = Ninja Gaiden: Hurricane Pack Vol. 1 Q&A
+  | publisher = [[IGN]]
+  | date = 2004-07-16
+  | url = http://xbox.ign.com/articles/531/531106p1.html
+  | accessdate = 2008-02-10 }}
+</ref>
+
+''Hurricane Pack&nbsp;1'' was available from [[August 9]], [[2004]]. It is a revamped version of the Story Mode in ''Ninja Gaiden''; it tweaked encounters and the [[artificial intelligence]] of foes. It also introduced several new foes such as humanoid cats, ''[[Triceratops]]''-skull masked giants, and [[cyborgs]]. Two key changes involved the camera and the new "Intercept" skill. The ''Pack'' allows players to control the camera angle.<ref name="hurhands1">{{cite web
+  | author = Hilary Goldstein
+  | title = Ninja Gaiden: Hurricane Pack Vol. 1 Hands-On
+  | publisher = [[IGN]]
+  | date = 2004-07-21
+  | url = http://xbox.ign.com/articles/532/532309p1.html
+  | accessdate = 2008-02-10 }}
+</ref> The "Intercept" skill lets them [[wikt:counter|counter]] any enemy attack with the proper timing.<ref>{{cite web
+  | author = Hilary Goldstein
+  | title = Ninja Gaiden: Intercept
+  | publisher = [[IGN]]
+  | date = 2004-07-28
+  | url = http://xbox.ign.com/articles/534/534280p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+
+Team Ninja released ''Hurricane Pack&nbsp;2'' on [[September 27]], [[2004]]. While it kept the enhanced combat engine of the first ''Pack'', its game world comprised only two regions. Players have to fight through several encounters to rescue Rachel from two new bosses, [[List of Ninja Gaiden characters#Fiends|Nicchae]] and [[List of Ninja Gaiden characters#Fiends|Ishtaros]]. The ''Pack'' introduced the new Lunar staff and foes such as fiends who wield giant swords and cast fireballs.<ref>{{cite web
+  | author = Hilary Goldstein
+  | title = Ninja Gaiden: Hurricane Pack Vol. 2 Hands-On
+  | publisher = [[IGN]]
+  | date = 2004-09-22
+  | url = http://xbox.ign.com/articles/550/550203p1.html
+  | accessdate = 2008-02-10 }}
+</ref>
+
+Team Ninja would later compile the ''Packs'' and add new features to create ''Ninja Gaiden Black'' (''Black''). Itagaki called it the final version of ''Ninja Gaiden'' and it went on sale on [[September 20]], [[2004]].<ref name="devint">{{cite web
+  | author = Cory J. Herndon
+  | title = Dev Interview: Tecmo w/Itagaki-san
+  | publisher = Xbox.com
+  | date = 2005-05-23
+  | url = http://www.xbox.com/en-US/games/d/deadoralive4/20050523-tecmo.htm
+  | accessdate = 2007-09-23 }}
+</ref><ref>{{cite press release
+  | title = Ninja Gaiden Black Ships to Retailers
+  | publisher = [[Tecmo]]
+  | date = 2005-09-21
+  | url = http://64.78.9.175/press.asp?id=20
+  | accessdate = 2007-08-23 }}
+</ref> A few years later, Team Ninja upgraded the graphics of the game and [[porting|ported]] it to the {{nowraplinks}}[[PlayStation 3]]{{nowraplinks end}} (PS3). Tecmo released the game as ''Ninja Gaiden Sigma'' (''Sigma'') on [[June 14]], [[2007]]. Black later became an [[Xbox Live Marketplace#Xbox Originals|Xbox Original]] game on [[February 11]], [[2008]].<ref>{{cite news
+  | author = Hilary Goldstein
+  | title = New Xbox Originals on the Horizon
+  | publisher = [[IGN]]
+  | date = 2008-02-05
+  | url = http://xbox360.ign.com/articles/849/849621p1.html
+  | accessdate = 2008-02-21 }}
+</ref>
+{{-}}
+
+===Regional censorship===
+<div style="font-size: 90%;float:right;border-left:1em solid white">
+{| class="wikitable"
+|+ Human beheadings featured
+! &nbsp; !! [[NTSC-J]] !! [[NTSC-US|NTSC-U]] !! [[PAL region|PAL]]
+|-
+! ''Ninja Gaiden''
+|align="center" bgcolor="#A0F898" | Yes
+|align="center" bgcolor="#A0F898" | Yes
+|align="center" bgcolor="#FF90A8" | No
+|-
+! ''Ninja Gaiden Black''
+|align="center" bgcolor="#A0F898" | Yes
+|align="center" bgcolor="#A0F898" | Yes
+|align="center" bgcolor="#A0F898" | Yes
+|-
+! ''Ninja Gaiden Sigma''
+|align="center" bgcolor="#FF90A8" | No
+|align="center" bgcolor="#A0F898" | Yes
+|align="center" bgcolor="#FF90A8" | No
+|}
+</div>
+
+''Ninja Gaiden'' contained bloody acts of violence, [[decapitation|beheadings]], and grotesque monsters in its uncensored form. As such, the North American games rating body, [[Entertainment Software Rating Board]], rated it as a "Mature" game.<ref>{{cite news
+  | author = Tor Thorsen
+  | title = Ninja Gaiden: Not for kids!
+  | publisher = [[GameSpot]]
+  | date = 2004-01-20
+  | url = http://www.gamespot.com/xbox/action/ninjagaiden/news.html?sid=6086698
+  | accessdate = 2008-02-11 }}
+</ref> However, games rating bodies in several other countries take a stricter view and consider beheadings as unsuitable content for young gamers.
+
+Tecmo removed the beheadings of human foes from the European [[PAL region|PAL]] version of ''Ninja Gaiden''. They did so to comply with German video game guidelines.<ref>{{cite news
+  | author = Tom Bramwell
+  | title = Ninja Gaiden stripped of decapitations
+  | publisher = [[Eurogamer]]
+  | date = 2004-04-21
+  | url = http://www.eurogamer.net/article.php?article_id=55274
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news
+  | author = Rob Fahey
+  | title = Confirmed: Ninja Gaiden censored for European release
+  | publisher = [[GamesIndustry.biz]]
+  | date = 2004-04-21
+  | url = http://www.gamesindustry.biz/articles/confirmed-ninja-gaiden-censored-for-european-release
+  | accessdate = 2007-08-21 }}
+</ref> [[Unterhaltungssoftware Selbstkontrolle]] (USK) refused to rate their uncensored submission due to the depictions of beheadings. If the game had no ratings, the German government could add it to the "[[Bundesprüfstelle für jugendgefährdende Medien|List of Media Harmful to Young People]]". If that happened, shops could not put the game on their shelves nor advertise it. They could only sell the game on request to customers who were 18 years or older.<ref name="censor">{{cite web
+  | author = Dan Chiappini 
+  | title = Censory Overload&mdash;Australia vs. World
+  | publisher = [[GameSpot|GameSpot AU]]
+  | date = 2008-04-10
+  | url = http://www.gamespot.com/features/6188493/p-3.html
+  | accessdate = 2008-04-26 }}
+</ref> Hence, Team Ninja censored the game to obtain a USK rating.<ref>{{cite news
+  | author = SPOnG staff
+  | title = Ninja Gaiden Content Cuts&mdash;The Truth Revealed
+  | publisher = SPOnG
+  | date = 2004-03-12
+  | url = http://news.spong.com/article/6324
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news
+  | author = SPOnG staff
+  | title = Tecmo Gaiden head-loss confirmed
+  | publisher = SPOnG
+  | date = 2004-04-22
+  | url = http://psp.spong.com/article/6532?cb=157
+  | accessdate = 2007-08-21 }}
+</ref> A year later, Tecmo managed to release ''Ninja Gaiden Black'' uncensored under a USK 18+ rating. They, however, submitted a censored version of ''Ninja Gaiden Sigma'' for the same rating.
+
+[[Australia]]'s [[Office of Film and Literature Classification (Australia)|Office of Film and Literature Classification]] (OFLC) had stricter standards;<ref name="censor" /> its highest rating for video games is MA15+, which restricts the sale of such rated games to those 15 years and above. Very gory games, especially those with beheadings, would not qualify for this rating. The OFLC tends to refuse to rate these games, making them illegal to be sold in Australia.<ref>{{cite web
+  | author = Dan Chiappini 
+  | title = Censory Overload&mdash;History of AU Classification
+  | publisher = [[GameSpot|GameSpot AU]]
+  | date = 2008-04-01
+  | url = http://www.gamespot.com/features/6188493/index.html
+  | accessdate = 2008-04-26 }}
+</ref> Hence, ''Black'' never saw release in Australia,<ref>{{cite web
+  | author = Jeremy Jastrzab
+  | title = Ninja Gaiden Sigma Review
+  | publisher = [[PALGN|PAL Gaming Network]]
+  | date = 2007-08-06
+  | url = http://palgn.co.uk/article.php?id=8346
+  | accessdate = 2007-08-23 }}
+</ref> even as an Xbox Original.<ref>{{cite news
+  | author = Chienne
+  | title =  OFLC vs Xbox Originals = Casualty: Ninja Gaiden: Black
+  | publisher = [[Internode Systems|Internode Games Network]]
+  | date = 2008-02-13
+  | url = http://games.internode.on.net/content.php?mode=news&id=2604
+  | accessdate = 2008-03-21 }}
+</ref>
+
+Japan's [[Computer Entertainment Rating Organization]] (CERO) rated ''Ninja Gaiden'' and ''Black'' on their release as 18+ games.<ref name="cesa">{{cite news
+  | author = CESA staff
+  | title =  旧18才以上対象ソフト再審査結果一覧（2006．05．30現在）
+  | publisher = [[Computer Entertainment Supplier's Association]]
+  | date = 2006-05-30
+  | url = http://www.cesa.or.jp/news/2006/060530.pdf
+  | format = PDF
+  | language = {{Ja icon}}
+  | accessdate = 2008-03-21 }}
+</ref> These ratings acted as guidelines for consumers at that time. However, on [[March 1]], [[2006]], CERO changed their rating system. The updated ratings were A to D, and Z. CERO gives the Z rating to games with heavy amounts of gore and sexual content. The Z rating is the only legally enforced rating; it is illegal to sell games rated Z to those under the age of 18.<ref>{{cite web
+  | author = David Jenkins
+  | title = Japan To Introduce Revised CERO Ratings System
+  | publisher = [[Gamasutra]]
+  | date = 2006-02-17
+  | url = http://www.gamasutra.com/php-bin/news_index.php?story=8213
+  | accessdate = 2008-02-10 }}
+</ref> Tecmo decided to get the D rating in the [[East Asia]]n market for ''Sigma'' and toned down its violent content; Team Ninja took out the human beheadings. CERO also updated their ratings for the two previous games to D despite their contents of human beheadings.<ref name="cesa" />
+{{-}}
+
+==Master Ninja Tournaments==
+In 2004, there were three ''Ninja Gaiden'' tournaments open to gamers in three regions of the world. Microsoft and Tecmo were the joint organizers and the contests took place over Xbox Live. Players competed by completing games and uploading their scores to ranking boards. The first two tournaments also acted as regional playoffs of a championship; five playoff winners from North America, Europe, and Japan would fly on expenses paid trips to the finals.<ref>{{cite news
+  | author = Tom Bramwell
+  | title =  Ninja Gaiden showdown at Tokyo Game Show
+  | publisher = [[Eurogamer]]
+  | date = 2004-08-17
+  | url = http://www.eurogamer.net/article.php?article_id=56334
+  | accessdate = 2007-08-21 }}
+</ref> Players received ''Ninja Gaiden'' merchandise as prizes in the playoffs. However, the top three players received [[bokken]]s [[autograph|signed]] by Itagaki. These were restricted to North America in the first playoff and Europe in the second.<ref name="lotsninja">{{cite press release
+  | title = Lots O' Ninjas
+  | publisher = Digital Entertainment News
+  | date = 2004-05-28
+  | url = http://www.dignews.com/news.php?story_id=3686
+  | accessdate = 2008-02-03 }}
+</ref><ref>{{cite news
+  | author = César Berardini
+  | title = Master Ninja Tournament for Europe Announced
+  | publisher = [[TeamXbox]]
+  | date = 2004-07-26
+  | url = http://news.teamxbox.com/xbox/6375/Master-Ninja-Tournament-for-Europe-Announced/
+  | accessdate = 2007-08-21 }}
+</ref> Each playoff broke the record for online participation of Xbox Live tournaments; the second playoffs had more than 1,000&nbsp;gamers than the first.<ref name="lotsninja" /><ref>{{cite press release
+  | title = Master Ninja Tournament Breaks Records Again with Highest Registration Numbers
+  | publisher = [[GameSpot]]
+  | date = 2004-09-03
+  | url = http://www.gamespot.com/xbox/action/ninjagaiden/news.html?sid=6106689&mode=press
+  | accessdate = 2007-08-21 }}
+</ref>
+
+[[Image:MNT Game On.jpg|thumb|200px|left|The proceedings of the Ninja Gaiden Master Tournament World Championship]]
+Master Ninja Tournament 1, the first round of playoffs, was open only to players in North America. It began on [[May 12]] and players had 24&nbsp;days to upload their scores for ''Ninja Gaiden'' on Normal difficulty. The players had expected the top&nbsp;100 to go through to the next round, but the official rules posted late by Microsoft dispelled their hopes; only the top three would proceed. Ryan Martoni ("taibhse") took first place with a score many players declared impossible by fair means; even Martoni was uncertain how he got his score.<ref>{{cite journal
+  | author = Xbox Nation staff
+  | title = Ninja Nation
+  | journal = Xbox Nation
+  | pages = p. 28
+  | publisher = [[Ziff Davis]]
+  | location = California, United States
+  | issn = 1538-9723
+  | year = 2004
+  | month = August
+  | url = http://www.xbox-hq.com/html/modules.php?name=News&file=print&sid=1080
+  | accessdate = 2007-09-05 }}
+</ref> The officials, however, stated it was possible and allowed the results to stand.<ref>{{cite news
+  | author = Hilary Goldstein
+  | title = Master Ninja Tournament Heats Up
+  | publisher = [[IGN]]
+  | date = 2004-05-26
+  | url = http://xbox.ign.com/articles/519/519150p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+
+Master Ninja Tournament 2, the second round of playoffs, was open to players from the three regions. It began on [[August 9]] and players had 14 to 24&nbsp;days (based on their region) to submit their scores for ''Hurricane Pack&nbsp;1''.<ref>{{cite news
+  | author = Stephen Coleman
+  | title = Master Ninja Tournament Registration Extended
+  | publisher = [[IGN]]
+  | date = 2004-08-03
+  | url = http://games.ign.com/articles/535/535413p1.html
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news
+  | author = César Berardini
+  | title = Tecmo Announces Master Ninja Tournament Round 2
+  | publisher = [[TeamXbox]]
+  | date = 2004-07-12
+  | url = http://news.teamxbox.com/xbox/6261/Tecmo-Announces-Master-Ninja-Tournament-Round-2/
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite web
+  | url = http://plusd.itmedia.co.jp/games/gsnews/0408/03/news09.html
+  | title = 「Ninja Gaiden」世界大会の参加登録延長に
+  | accessdate = 2008-03-25
+  | author = Softbank Games staff
+  | publisher = Softbank Games
+  | date = 2004-08-03
+  | language = {{Ja icon}} }}
+</ref> Although Microsoft had declared second-placed David Barlog ("Captain Tuttle") to be the North American winner for this round,<ref>{{cite news
+  | author = César Berardini
+  | title = Master Ninja Tournament Finals Details
+  | publisher = [[TeamXbox]]
+  | date = 2004-09-15
+  | url = http://news.teamxbox.com/xbox/6768/Master-Ninja-Tournament-Finals-Details/
+  | accessdate = 2007-08-21 }}
+</ref> they sent third-placed Grant Goodwin ("Grantisimo") to the finals. Meanwhile, Derek Ian Edwin Kisman ("SnapDragon") beat the two other first round winners for the other North American finalist spot. The other three finalists were Darren Forman ("Kayin Amoh") from Europe, and Yasunori Otsuka ("panzerorta40148") and "maruyo" from Japan.<ref>{{cite web
+  | url = http://plusd.itmedia.co.jp/games/tgs/2004/news/040925/07/index.html
+  | title = Master Ninja Tournament 世界決勝戦 勝者は!?
+  | accessdate = 2008-03-25
+  | author = Softbank Games staff
+  | publisher = Softbank Games
+  | date = 2004-09-25
+  | language = {{Ja icon}} }}
+</ref>
+
+Ninja Gaiden Master Tournament World Championship took place at [[Tokyo Game Show|Tokyo Game Show 2004]] on [[September 25]]. The five finalists played a shortened version of ''Hurricane Pack&nbsp;2'' at the same time as commentators called out the action. They had 15&nbsp;minutes to clear the game and post the highest score. The champion only emerged in the last 20&nbsp;seconds when Otsuka cleared the game and outscored the rest. At the prize ceremony, the finalists received their prize plaques from Itagaki.<ref>{{cite web
+  | url = http://watch.impress.co.jp/game%2Fdocs/20040925/xbox3.htm
+  | title = 世界一のNinja使いがここに決定! 「Master Ninja Tournament 世界決勝戦」がマイクロソフトブースで開催
+  | accessdate = 2008-03-25
+  | author = 平澤寿康
+  | publisher = Game Watch
+  | date = 2004-09-25
+  | language = {{Ja icon}} }}
+</ref><ref>{{cite news
+  | author = Chris Carle
+  | title = TGS 2004: Ninja Gaiden Master Tournament World Championship
+  | publisher = [[IGN]]
+  | date = 2004-09-25
+  | url = http://xbox.ign.com/articles/551/551186p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+
+Master Ninja Tournament 3 started on [[September 27]] and lasted 26&nbsp;days. It used the ''Hurricane Pack&nbsp;2'' scores of the players to decide the rankings.<ref>{{cite press release
+  | title = Tecmo Announces Third and Final Master Ninja Tournament, Hurricane Pack: Volume II
+  | publisher = [[GameSpot]]
+  | date = 2004-09-24
+  | url = http://www.gamespot.com/xbox/action/ninjagaiden/news.html?sid=6108698&mode=press
+  | accessdate = 2008-01-27 }}
+</ref> Prizes for high scoring and randomly picked players were ''Ninja Gaiden'' apparel. However, the top ranked player also received a copy of ''Ninja Gaiden'' with Itagaki's signature on it. Although the tournaments had ended, Microsoft has allowed the ranking boards to remain active for players to upload their scores.
+<br style="clear:both;"/>
+
+==Remakes and merchandise==
+Tecmo published two remakes of ''Ninja Gaiden'': ''Ninja Gaiden Black'' and ''Ninja Gaiden Sigma''. They are at heart the same game as the original, telling the same story about Ryu and the Dark Dragon Blade. Tomonobu Itagaki had considered ''Black'' to be the final version of ''Ninja Gaiden''.<ref name="devint" /> However, Tecmo brought the game to the PS3 and released ''Sigma'' as the last remake of ''Ninja Gaiden''.
+
+===''Ninja Gaiden Black''===
+[[Image:Ngbcover.jpg|right|upright|thumb|''Ninja Gaiden Black''<br/>North American box cover]]
+Tecmo had announced ''Ninja Gaiden Black'' at E3 2005.<ref>{{cite news
+  | author = Ellie Gibson
+  | title = Ninja Gaiden: Black info
+  | publisher = [[Eurogamer]]
+  | date = 2005-05-23
+  | url = http://www.eurogamer.net/article.php?article_id=59375
+  | accessdate = 2007-08-21 }}
+</ref> They followed it up by showing a working version at Tokyo Game Show 2005.<ref>{{cite news
+  | author = SPOnG staff
+  | title = Tokyo Game Show&mdash;Complete Essential Game List
+  | publisher = SPOnG
+  | date = 2005-09-14
+  | url = http://news.spong.com/article/9132
+  | accessdate = 2007-08-21 }}
+</ref> ''Black'' is a reworked compilation of ''Ninja Gaiden'' and the two ''Hurricane Packs''.<ref name="devint" /> The game features new in-game cut scenes and two new difficulties: Ninja Dog and Master Ninja.<ref name="denngb" /> Itagaki added Ninja Dog after he had heard complaints that ''Ninja Gaiden'' was too hard.<ref>{{cite news
+  | author = James Mielke
+  | title = Ninja Gaiden Black from 1UP.com
+  | publisher = [[1UP.com]]
+  | date = 2005-05-13
+  | url = http://www.1up.com/do/feature?pager.offset=0&cId=3140456
+  | accessdate = 2007-08-21 }}
+</ref> However, he had felt that any player could have beaten Ninja Gaiden if they persisted through the tough parts.<ref>{{cite web
+  | author = 1UP.com staff
+  | title = Previews: Ninja Gaiden
+  | publisher = [[1UP.com]]
+  | date = 2004-09-05
+  | url = http://www.1up.com/do/previewPage?cId=3061511
+  | accessdate = 2007-09-23 }}
+</ref> Hence, once players start ''Black'' on the easy difficulty, it takes on a mocking tone; they receive pink ribbons as accessories and the helper character Ayane treats Ryu as an inferior.<ref name="denngb" />
+
+Itagaki made the other difficulties in ''Black'' to be harder than those in ''Ninja Gaiden''. He made the foes stronger and more aggressive. He also gave most of them grapple attacks to discourage players from being too defensive ([[turtle (game term)|turtling]]). Itagaki further [[Game balance|balanced the game]] by toning down moves that proved too powerful such as the Flying Swallow.<ref name="denngb" /> The game also introduced new foes such as exploding bats and the doppelganger fiends who imitate Ryu.<ref name="ngb1uprev">{{cite web
+  | author = 1UP.com staff
+  | title = Reviews: Ninja Gaiden Black
+  | publisher = [[1UP.com]]
+  | date = 2005-09-16
+  | url = http://www.1up.com/do/reviewPage?cId=3143860
+  | accessdate = 2008-03-21 }}
+</ref>
+
+Team Ninja also changed the unlockable content of ''Black''. They added costumes and swapped the [[Unlockable games|unlockable games]] in ''Ninja Gaiden'' for the [[Ninja Gaiden (arcade game)|arcade ''Ninja Gaiden'']].<ref name="ngbpre">{{cite web
+  | author = Rob Semsey
+  | title = Ninja Gaiden: Black Hands-On
+  | publisher = [[TeamXbox]]
+  | date = 2005-08-10
+  | url = http://previews.teamxbox.com/xbox/1143/Ninja-Gaiden-BLACK/p1/
+  | accessdate = 2007-08-21 }}
+</ref> However, the key new feature of ''Black'' is Mission Mode. It comprises 50 combat missions. Each takes place in a unique setting and the goal is usually the slaughter of all enemies. One mission is adapted from the game played in the World Wide Master Ninja Tournament 2004 finals. The last five missions link together to make up Eternal Legend; it is a revamped Hurricane Pack 2 using the game engine of Black.<ref name="ngbpre" />
+{{-}}
+
+===''Ninja Gaiden Sigma''===
+[[Image:Ninja Gaiden Sigma BoxCover.jpg|thumb|upright|right|''Ninja Gaiden Sigma''<br />Standard edition]]
+In 2006, Tecmo and Sony announced the development of ''Ninja Gaiden Sigma'' for the PS3.<ref>{{cite news
+  | author = Andy Robinson
+  | title = Ninja Gaiden pulls a flying kick on PS3
+  | publisher = ''[[Computer and Video Games]]''
+  | date = 2006-09-20
+  | url = http://www.computerandvideogames.com/article.php?id=146205
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news
+  | author = SPOnG staff
+  | title = TGS: Sony Announces Five New PS3 Titles
+  | publisher = SPOnG
+  | date = 2006-09-22
+  | url = http://news.spong.com/article/10821
+  | accessdate = 2007-08-21 }}
+</ref> Tecmo appointed Yosuke Hayashi as the director of this remake and awarded the publishing rights for Europe to [[Eidos Interactive|Eidos]].<ref>{{cite news
+  | author = Andy Robinson
+  | title = Eidos picks up Ninja Gaiden Sigma
+  | publisher = ''[[Computer and Video Games]]''
+  | date = 2007-04-18
+  | url = http://www.computerandvideogames.com/article.php?id=162227
+  | accessdate = 2007-08-21 }}
+</ref> Itagaki was not involved but said that ''Sigma'' was to let PlayStation owners have a taste of ''Ninja Gaiden''.<ref>{{cite news
+  | author = Anoop Gantayat
+  | title = No Sigma For 360
+  | publisher = [[IGN]]
+  | date = 2007-06-01
+  | url = http://xbox360.ign.com/articles/793/793679p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+
+Hayashi's team used the [[Cell (microprocessor)|Cell processor]] to overhaul the graphics with larger and more detailed [[Texture mapping|textures]].<ref name="sigpre" /> They also made small changes to the game world; they added a few new areas, and several save points and shops.<ref name="gssigrev" /> Changes to the game engine let players shoot arrows in midair, fight on water surfaces, and play as Rachel in a few chapters and missions.<ref name="sigpre" /><ref name="gssigpre">{{cite web
+  | author = Gabe Graziani
+  | title = Ninja Gaiden Sigma Preview
+  | publisher = [[IGN]]
+  | date = 2007-05-25
+  | url = http://ps3.gamespy.com/playstation-3/ninja-gaiden-sigma/792132p1.html
+  | accessdate = 2007-09-06 }}
+</ref> Players can shake the [[PlayStation 3 accessories#Sixaxis|Sixaxis]] controller to increase the power of their ninpos.<ref>{{cite web
+  | author = Rob Fahey
+  | title = Ninja Gaiden Sigma
+  | publisher = [[Eurogamer]]
+  | date = 2007-06-16
+  | url = http://www.eurogamer.net/article.php?article_id=77792
+  | accessdate = 2008-01-27 }}
+</ref> They can also fight new foes and bosses such as bikers, fish-men, and Gamov, with the new pair of katanas called the Dragon's Claw and Tiger's Fang.<ref name="psusig">{{cite web
+  | author = Usman Ihtsham
+  | title = Ninja Gaiden Sigma
+  | publisher = PlayStation Universe
+  | date = 2007-07-20
+  | url = http://www.psu.com/Ninja-Gaiden-Sigma-Review-review--a712-p0.php
+  | accessdate = 2008-01-27 }}
+</ref>
+
+In Japan, Tecmo engaged a local-based singer, [[Leah Dizon]], to promote the game. She appeared in a commercial and sang its song.<ref>{{cite video
+  | year = 2007
+  | title = Ninja Gaiden Sigma Japan TV Commercial
+  | url = http://www.gametrailers.com/player/usermovies/69850.html
+  | format = flv
+  | medium = Television commercial
+  | publisher = [[Tecmo]]
+  | accessdate = 2007-08-21 }}
+</ref> Tecmo also gave away posters with her autographs at the local launch on [[June 14]], [[2007]].<ref>{{cite news
+  | author = Brian Ashcraft
+  | title = Win Signed Ninja Gaiden Sigma Poster
+  | publisher = [[Kotaku]]
+  | date = 2007-06-12
+  | url = http://kotaku.com/gaming/not-a-real-ninja/win-signed-ninja-gaiden-sigma-poster-267988.php
+  | accessdate = 2007-08-21 }}
+</ref> In North America, [[GameStop]] pushed [[Special edition|collectors' editions]] of ''Sigma'' out on sale.<ref>{{cite news
+  | author = Michael Mcwhertor
+  | title = Ninja Gaiden Sigma Gets Collectors Edition
+  | publisher = [[Kotaku]]
+  | date = 2007-04-23
+  | url = http://kotaku.com/gaming/ninja-gaiden-sigma/ninja-gaiden-sigma-gets-collectors-edition-254679.php
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news
+  | author = Rob Purchese
+  | title = Sigma Special Edition iffy for Europe
+  | publisher = [[Eurogamer]]
+  | date = 2007-04-24
+  | url = http://www.eurogamer.net/article.php?article_id=75667
+  | accessdate = 2007-08-21 }}
+</ref><ref name="cejp">{{cite news
+  | author = Ten-Four
+  | title =  海外レビューハイスコア『Ninja Gaiden Sigma』
+  | publisher = Game Spark
+  | date = 2007-07-05
+  | url = http://www.gamespark.jp/modules/news/index.php?p=2886
+  | accessdate = 2008-03-21
+  | language = {{Ja icon}} }}
+</ref> They claimed these contained exclusive "behind-the-scenes" [[DVD]]s and codes to unlock extra Mission Mode missions, but the codes proved usable on normal copies of the game.<ref>{{cite book
+  | title = Codes & Cheats
+  | origdate = 2007-11-15
+  | edition = Winter 2008
+  | publisher = [[Prima Games]]
+  | location = California, US
+  | isbn = 0-761-55668-0 }}
+</ref><ref name="cejp" /> Tecmo marketed ''Sigma'' as the "more complete" version of ''Ninja Gaiden'',<ref>{{cite news
+  | author = Walt Wyman
+  | title = TGS 06: PS3 Ninja Gaiden Detailed
+  | publisher = [[GameSpot]]
+  | date = 2007-09-22
+  | url = http://www.gamespot.com/news/6158343.html
+  | accessdate = 2007-08-21 }}
+</ref><ref>
+{{cite news
+  | author = Anoop Gantayat
+  | title = Confirmed: Ninja Gaiden on PS3
+  | publisher = [[IGN]]
+  | date = 2006-09-20
+  | url = http://ps3.ign.com/articles/733/733714p1.html
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news
+  | author = Rob Burman
+  | title = Eidos Unleashing Ninjas in Europe
+  | publisher = [[IGN]]
+  | date = 2007-04-20
+  | url = http://ps3.ign.com/articles/782/782234p1.html
+  | accessdate = 2007-08-21 }}
+</ref> but the game did not include several features of the Xbox games; it left out the unlockable games, several costumes, and the opening movie.<ref name="sigpre" /><ref name="psusig" />
+
+Tecmo released a demo and a new game mode for ''Sigma'' over the [[PlayStation Network]]. The demo limited players to the first chapter of the game, but let them play as Rachel in a separate mission.<ref>{{cite web
+  | author = Richard Leadbetter
+  | title = Ninja Gaiden Sigma
+  | publisher = [[Eurogamer]]
+  | date = 2007-05-02
+  | url = http://www.eurogamer.net/article.php?article_id=75934
+  | accessdate = 2008-04-21 }}
+</ref> The game mode is Survival Mode and comprises three packages: Weapon Master, Speed Master, and Rachel Master.<ref>{{cite news
+  | author = Anoop Gantayat
+  | title = Ninja Gaiden Sigma Downloadable Content Announced
+  | publisher = [[IGN]]
+  | date = 2007-08-03
+  | url = http://ps3.ign.com/articles/810/810350p1.html
+  | accessdate = 2007-08-21 }}
+</ref> Players keep fighting in these missions until they kill all the foes or their character dies. Their number of kills decides their online rank for this Mode.<ref>{{cite web
+  | author = Chris Roper
+  | title = Ninja Gaiden Sigma Expansion Pack Hands-on
+  | publisher = [[IGN]]
+  | date = 2007-09-06
+  | url = http://ps3.ign.com/articles/818/818522p1.html
+  | accessdate = 2007-09-06 }}
+</ref>
+
+===Merchandise===
+Tecmo has built up a line of merchandise around the ''Ninja Gaiden'' name. Its online shop carries apparel and accessories such as caps, wristbands, T-shirts, key holders, and mugs. Most of this merchandise is associated with the launch of the ''Ninja Gaiden'' games,<ref>{{cite news
+  | author = Rusty Zavachen (aka z36)
+  | title = Ninja Gaiden New Line of Merchandise
+  | publisher = DreamStation.cc
+  | date = 2003-12-19
+  | url = http://web.archive.org/web/20070228060509/http://dreamstation.cc/news/video_games/id2647
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite press release
+  | title = Tecmo Announces Free Retro T-Shirt As Ninja Gaiden Black Pre-Order Incentive
+  | publisher = [[Tecmo]]
+  | date = 2005-09-01
+  | url = http://64.78.9.175/press.asp?id=18
+  | accessdate = 2007-08-23 }}
+</ref><ref>{{cite web
+  | author = William Haley
+  | title = Free Stuff for the Week of 5/26/07
+  | publisher = Destructoid
+  | date = 2007-06-12
+  | url = http://www.destructoid.com/free-stuff-for-the-week-of-5-26-07-31755.phtml
+  | accessdate = 2007-08-21 }}
+</ref> or given as prizes in the Master Ninja Tournaments. Tecmo has also published the original soundtrack of the game under their record label, Wake Up, on [[March 20]], [[2004]]. The figurine maker, Kotobukiya, has produced [[1:6 scale modeling|1/6th scale]] [[Model figure|plastic figures]] of ''Ninja Gaiden'' characters for sale. As of 2007, they have made available figures of Ryu, Ayane, Kureha, and Rachel.<ref>{{cite web
+  | author = Kotobukiya USA staff
+  | title = Ninja Gaiden ARTFX Statues
+  | publisher = Kotobukiya USA
+  | date = n.d.
+  | url = http://www.kotous.com/video-games/ninja-gaiden.php
+  | accessdate = 2007-08-27 }}
+</ref>
+{{-}}
+
+==Reception==
+<div style="font-size: 80%;float:right;border-left:1em solid white">
+{| class="wikitable"
+! colspan="4" style="font-size:110%; text-align: center; background-color: #d1dbdf;" | ''Ninja Gaiden'' series reviews
+|-
+! style="background-color: #e8f4f8;" | Publication
+! style="background-color: #e8f4f8;" | ''Ninja Gaiden''
+! style="background-color: #e8f4f8;" | ''Ninja Gaiden''<br />''Black''
+! style="background-color: #e8f4f8;" | ''Ninja Gaiden''<br />''Sigma''
+|-
+|<center>[[GameSpot]]
+|<center>9.4<ref name="gsngrev" />
+|<center>9.4<ref name="gsngbrev" />
+|<center>9.0<ref name="gssigrev">{{cite web
+  | author = Kevin VanOrd
+  | title = Ninja Gaiden Sigma for PlayStation 3 Review
+  | publisher = [[GameSpot]]
+  | date = 2007-07-02
+  | url = http://www.gamespot.com/ps3/action/ninjagaidensigma/review.html
+  | accessdate = 2007-08-21 }}
+</ref>
+|-
+|<center>[[IGN]]
+|<center>9.4<ref name="ignngrev" />
+|<center>9.4<ref name="ignngbrev">{{cite web
+  | author = Erik Brudvig
+  | title = Ninja Gaiden Black Review
+  | publisher = [[IGN]]
+  | date = 2005-09-19
+  | url = http://xbox.ign.com/articles/652/652102p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>9.3<ref name="ignsigrev">{{cite web
+  | author = Chris Roper
+  | title = Ninja Gaiden Sigma Review
+  | publisher = [[IGN]]
+  | date = 2007-06-29
+  | url = http://ps3.ign.com/articles/800/800565p1.html
+  | accessdate = 2007-08-21 }}
+</ref> / 8.8<ref name="ignau">{{cite web 
+  | author = Patrick Kolan
+  | title = Ninja Gaiden Sigma AU Review
+  | publisher = [[IGN]]
+  | date = 2007-07-04
+  | url = http://ps3.ign.com/articles/801/801548p1.html
+  | accessdate = 2007-08-21 }}
+</ref>
+|-
+|<center>''[[GamePro]]''*
+|<center>5<ref>{{cite web
+  | author = TokyoDrifter
+  | title = Review: Ninja Gaiden
+  | publisher = ''[[GamePro]]''
+  | date = 2004-03-01
+  | url = http://www.gamepro.com/microsoft/xbox/games/reviews/33850.shtml
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>5<ref>{{cite web
+  | author = JohnnyK
+  | title = Review: Ninja Gaiden: Black
+  | publisher = ''[[GamePro]]''
+  | date = 2005-09-21
+  | url = http://www.gamepro.com/microsoft/xbox/games/reviews/48545.shtml
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>4.75<ref>{{cite web
+  | author = The Watcher
+  | title = Review: Ninja Gaiden Sigma
+  | publisher = ''[[GamePro]]''
+  | date = 2007-07-03
+  | url = http://www.gamepro.com/sony/ps3/games/reviews/119949.shtml
+  | accessdate = 2007-08-21 }}
+</ref>
+|-
+|<center>[[1UP.com]]
+|<center>A<ref>{{cite web
+  | author = 1UP.com staff
+  | title = Reviews: Ninja Gaiden
+  | publisher = [[1UP.com]]
+  | date = 2004-05-09
+  | url = http://www.1up.com/do/reviewPage?cId=3136825
+  | accessdate = 2008-03-21 }}
+</ref>
+|<center>A+<ref name="ngb1uprev" />
+|<center>A<ref name="sig1uprev">{{cite web
+  | author = Shane Bettenhausen
+  | title = Reviews: Ninja Gaiden Sigma
+  | publisher = [[1UP.com]]
+  | date = 2007-07-03
+  | url = http://www.1up.com/do/reviewPage?cId=3160778
+  | accessdate = 2008-03-21 }}
+</ref>
+|-
+|<center>[[Eurogamer]]
+|<center>9<ref name="eurong" />
+|<center>&nbsp;
+|<center>7<ref name="eusigrev">{{cite web
+  | author = Kristan Reed
+  | title = Ninja Gaiden Sigma
+  | publisher = [[Eurogamer]]
+  | date = 2007-07-06
+  | url = http://www.eurogamer.net/article.php?article_id=79093
+  | accessdate = 2007-08-21 }}
+</ref>
+|-
+|<center>[[Pro-G]]
+|<center>9<ref name="prongrev">{{cite web
+  | author = Struan Robertson
+  | title = Ninja Gaiden Review
+  | publisher = [[Pro-G]]
+  | date = 2004-11-11
+  | url = http://www.videogamer.com/xbox/ninja_gaiden/review.html
+  | accessdate = 2008-02-03 }}
+</ref>
+|<center>&nbsp;
+|<center>8<ref name="prosigrev" />
+|-
+! colspan="4" style="font-size:110%; text-align: center; background-color: #d1dbdf;" | Compilations of multiple reviews
+|-
+! style="background-color: #e8f4f8;" | Compiler
+! style="background-color: #e8f4f8;" | ''Ninja Gaiden''
+! style="background-color: #e8f4f8;" | ''Ninja Gaiden''<br />''Black''
+! style="background-color: #e8f4f8;" | ''Ninja Gaiden''<br />''Sigma''
+|-
+|<center>[[Metacritic]]
+|<center>91<ref>{{cite web
+  | title = Ninja Gaiden
+  | publisher = [[Metacritic]]
+  | url = http://www.metacritic.com/games/platforms/xbx/ninjagaiden
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>94<ref>{{cite web
+  | title = Ninja Gaiden Black
+  | publisher = [[Metacritic]]
+  | url = http://www.metacritic.com/games/platforms/xbx/ninjagaidenblack
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>88<ref>{{cite web
+  | title = Ninja Gaiden Sigma
+  | publisher = [[Metacritic]]
+  | url = http://www.metacritic.com/games/platforms/ps3/ninjagaidensigma
+  | accessdate = 2007-08-21 }}
+</ref>
+|-
+|<center>[[Game Rankings]]
+|<center>92.0%<ref>{{cite web
+  | title = Ninja Gaiden&mdash;XBox
+  | publisher = [[Game Rankings]]
+  | url = http://www.gamerankings.com/htmlpages2/561532.asp
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>94.0%<ref>{{cite web
+  | title = Ninja Gaiden Black&mdash;XBox
+  | publisher = [[Game Rankings]]
+  | url = http://www.gamerankings.com/htmlpages2/928401.asp
+  | accessdate = 2007-08-21 }}
+</ref>
+|<center>87.0%<ref>{{cite web
+  | title = Ninja Gaiden Sigma&mdash;PS3
+  | publisher = [[Game Rankings]]
+  | url = http://www.gamerankings.com/htmlpages2/935677.asp
+  | accessdate = 2007-08-21 }}
+</ref>
+|-
+! colspan="4" style="font-size:110%; text-align: center; background-color: #d1dbdf;" | Awards
+|-
+|<center>''Ninja Gaiden''
+|colspan=3|<center>IGN's Best Xbox Action Game 2004<ref name="bac">{{cite web
+  | author = IGN staff
+  | title = IGN Xbox Best of 2004 Awards
+  | publisher = [[IGN]]
+  | date = 2005-01-16
+  | url = http://bestof.ign.com/2004/xbox/
+  | accessdate = 2007-09-05 }}
+</ref><br />IGN's Best Xbox Downloadable Content 2004<ref name="bac" /><br />[[X-Play]]'s Best Action/Adventure Game 2004<ref>{{cite episode
+  | title        = X-Play's Best of 2004!
+  | series       = X-Play
+  | serieslink   = X-Play
+  | credits      = [[Adam Sessler]] (co-host), [[Morgan Webb]] (co-host)
+  | network      = [[G4 (TV channel)|G4]]
+  | airdate      = 2005-01-26
+  | number       = 5006
+  | minutes      = 
+}}
+</ref><br />''EGM''{{'}}s Xbox Game of the Year 2004<ref>{{cite press release
+  | title = Electronic Gaming Monthly and Computer Gaming World Announce the Best Games of 2004
+  | publisher = [[Ziff Davis]]
+  | date = 2005-02-08
+  | url = http://www.ziffdavis.com/press/releases/050208.0.html
+  | accessdate = 2008-04-12 }}
+</ref>
+|-
+|<center>''Ninja Gaiden''<br />''Black''
+|colspan=3|<center>GameSpot's Best Xbox game 2005<ref>{{cite web
+  | author = GameSpot staff
+  | title = GameSpot's Best of 2005&mdash;Platform Awards
+  | publisher = [[GameSpot]]
+  | date = 2006-01-23
+  | url = http://www.gamespot.com/pages/features/bestof2005/index.php?day=5&page=6
+  | accessdate = 2007-09-05 }}
+</ref><br />IGN's Best Xbox Action game 2005<ref>{{cite web
+  | author = IGN staff
+  | title = IGN Xbox Best of 2005 Awards
+  | publisher = [[IGN]]
+  | date = 2005-01-16
+  | url = http://bestof.ign.com/2005/xbox/1.html
+  | accessdate = 2007-09-05 }}
+</ref><br />[[TeamXbox]]'s Best Xbox Action Game 2005<ref>{{cite web
+  | author = TeamXbox staff
+  | title = TeamXbox.com Game of the Year Awards 2005
+  | publisher = [[TeamXbox]]
+  | date = 2005-12-22
+  | url = http://features.teamxbox.com/xbox/1421/TeamXboxcom-Game-of-the-Year-Awards-2005/p1/
+  | accessdate = 2007-09-05 }}
+</ref>
+|-
+|<center>''Ninja Gaiden''<br />''Sigma''
+|colspan=3|<center>IGN's Game of the Month<ref>{{cite web
+  | author = IGN PlayStation Team
+  | title = Game of the Month: July 2007
+  | publisher = [[IGN]]
+  | date = 2007-07-31
+  | url = http://ps3.ign.com/articles/809/809607p1.html
+  | accessdate = 2007-09-05 }}
+</ref>
+|}{{*}} score out of 5
+</div>
+''Ninja Gaiden'' received a lot of critical acclaim. [[GameSpot]] called it as "one of the best most challenging action adventure games ever made".<ref name="gsngrev" /> [[IGN]] said that it "sets a new standard for third-person action games in terms of length, depth, speed, and gore".<ref name="ignngrev" /> Critics also put forward the game as one of the most difficult games up to 2007.<ref>{{cite web
+  | author = Danny Cowan
+  | title = Critical Reception: Tecmo/Team Ninja's Ninja Gaiden Sigma
+  | publisher = [[Gamasutra]]
+  | date = 2007-07-04
+  | url = http://previews.teamxbox.com/xbox/1143/Ninja-Gaiden-BLACK/p1/
+  | accessdate = 2007-12-13 }}
+</ref><ref>{{cite web
+  | author = Rob Semsey
+  | title = Ninja Gaiden: Black Hands-On
+  | publisher = [[TeamXbox]]
+  | date = 2005-08-10
+  | url = http://previews.teamxbox.com/xbox/1143/Ninja-Gaiden-BLACK/p1/
+  | accessdate = 2007-12-13 }}
+</ref> Its remake, ''Ninja Gaiden Black'', still impressed critics. GameSpot hailed it for having the best visual and audio presentation on the Xbox. They also praised its new feature, Mission Mode, for "[distilling] the game down to its purest essentials".<ref name="gsngbrev" /> IGN called its release as "a rare and welcome day", which "[brought their] excitement levels back to the first time [they] played the game".<ref name="ignngbrev" />
+
+From a technical point of view, critics regarded ''Ninja Gaiden'' and ''Black'' as the best of Xbox software; they pushed the console hardware to its limits without showing significant drops in performance. GameSpot was impressed with their "first-rate presentation" and said that none of the games at that time came close in visuals and audios.<ref name="gsngbrev" /> IGN said the games could "make [them] momentarily forget about the next generation of consoles".<ref name="ignngbrev" /> ''Ninja Gaiden'' and ''Black'' were top-selling Xbox games, which led to them being [[backward compatibility|compatible]] with the [[Xbox 360]] for all regions on its release.<ref>{{cite news 
+  | author = Tor Thorsen
+  | title = 360 to play 200-plus Xbox games
+  | publisher = [[GameSpot]]
+  | date = 2005-11-11
+  | url = http://www.gamespot.com/xbox/action/halo2/news.html?sid=6139702
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news 
+  | author = Hirohiko Niizumi
+  | title = Xbox 360 backward compatibility lacking in Japan
+  | publisher = [[GameSpot]]
+  | date = 2005-11-16
+  | url = http://www.gamespot.com/xbox/action/ninjagaidenblack/news.html?sid=6139921
+  | accessdate = 2007-08-21 }}
+</ref><ref>{{cite news 
+  | author = Brendan Sinclair
+  | title = European 360 backward compatibility detailed
+  | publisher = [[GameSpot]]
+  | date = 2005-11-17
+  | url = http://www.gamespot.com/xbox/action/halo2/news_6140002.html
+  | accessdate = 2008-02-03 }}
+</ref>
+
+However, critics varied in their views on the technical aspects of ''Ninja Gaiden Sigma''. The gaming site, [[1UP.com]], called the updated graphics as "a gorgeous reworking of the modern ninja classic".<ref name="sig1uprev" /> [[Pro-G]], however, said that they were average by next-generation standards and showed occasional "tearing, jagged edges, and miss matched collision between bloodstains and walls".<ref name="prosigrev" /> Various flaws also troubled 1UP. They encountered frequent loadings, even in combat despite installing the game on the local hard drive. They also saw visual glitches such as [[screen tearing]] when the camera moved. These flaws made the game "feel like a bit of a slapdash port".<ref name="sig1uprev" />
+
+Although critics praised ''Sigma'' for retaining the gameplay in the previous games,<ref name="ignau" /><ref name="sig1uprev" /> its lack of new attractive features made them question its worth as "a remake of a remake". Pro-G said that ''Sigma'' was not worth a full priced game because it "has, in effect, been available for years in one form or another".<ref name="prosigrev" /> [[Eurogamer]] stated that ''Sigma'' lacked the "wow factor" when compared to ''[[God of War (video game)|God of War]]'' and ''[[God of War II|its sequel]]''.<ref name="eusigrev" /> The 1UP critic said that shaking the Sixaxis to power up a ninpo was "silly" and a "foolishly tacked-on" way to use the controller.<ref name="sig1uprev" /> IGN was not excited about playing as Rachel and wished to "get back to Ryu's sections simply because he's more fun to play".<ref name="ignsigrev" /> DailyGame, however, said that her slow pace brings "much-needed respite for newcomers and provide something new for experienced players".<ref>{{cite web
+  | author = Martin Ray
+  | title = Ninja Gaiden Sigma Review
+  | publisher = DailyGame
+  | date = 2007-08-15
+  | url = http://www.dailygame.net/news/archives/006499.php
+  | accessdate = 2007-08-27 }}
+</ref>
+
+A common criticism of the ''Ninja Gaiden'' games was with the camera. The default camera system centers the action on Ryu and his surroundings. It has also improved with the use of manual controls since the ''Hurricane Packs''.<ref name="hurhands1" /><ref name="gsngbrev" /> There are, however, times when the camera locks on to an object and loses track of Ryu, which made the critics mad.<ref name="ignngbrev" /><ref name="entdep" /><ref name="trend" /> However, most critics judged that either the camera was usually decent or the gameplay was good enough to cover up its flaws.<ref name="gsngbrev" /><ref name="ignsigrev" />
+
+The ''Ninja Gaiden'' games gained a reputation throughout the gaming community for their difficulty and details.<ref name="history" /><ref>{{cite journal
+  | author = Ray Huling
+  | year = 2007
+  | month = October
+  | title = Ninja Playground
+  | journal = [[The Brooklyn Rail]]
+  | url = http://brooklynrail.org/2007/10/streets/ninja-playground
+  | accessdate = 2007-10-12 }}
+</ref> Although they appealed to gamers who are like Pro-G in wanting a "bloody hard, but also bloody good" challenge,<ref name="prongrev" /> casual gamers might find the learning curve daunting. IGN warned that gamers with lesser skills might not "get as much out of this game as others due to [its] incredible difficulty".<ref name="ignngbrev" /> Clive Thompson focused on ''Ninja Gaiden'' in his ''[[Slate (magazine)|Slate]]'' article on the rewards of beating difficult games. He said that there are games so hard that players get mad in trying to beat them and stay mad even after doing so. ''Ninja Gaiden'', however, rewarded players who beat the game; it brought them "a sort of exhausted exhilaration, like finally reaching the end of ''[[War and Peace]]''". The game was a success in striking balance between challenge and reward.<ref>{{cite web
+  | author = Clive Thompson
+  | title = Ninja Gaiden
+  | publisher = [[Slate (magazine)|Slate]]
+  | date = 2004-05-06
+  | url = http://www.slate.com/id/2100116/
+  | accessdate = 2007-09-05 }}
+</ref>
+
+Consumers have bought 1.5&nbsp;million copies of ''Ninja Gaiden'' and ''Black'' as of August 2007.<ref>{{cite news
+  | author = Kotaro Tsunetomi
+  | title = テクモが急騰、業績予想を増額－「ＮＩＮＪＡ ＧＡＩＤＥＮ」好調
+  | publisher = [[Bloomberg L.P.|Bloomberg]] Japan
+  | date = 2007-07-06
+  | url = http://www.bloomberg.com/apps/news?pid=90001002&sid=azaEyzbR0k7w&refer=jp_home
+  | accessdate = 2007-09-02
+  | language = {{Ja icon}} }}
+</ref> The sale figures reflected Tecmo's decision to design and cater the game for foreign gamers. The Japanese were not excited over the games. According to Itagaki, they bought 60,000&nbsp;copies of ''Ninja Gaiden'' in the four months since its release.<ref name="giint" /> ''Famitsu'' also wrote that ''Sigma'' sold 76,095&nbsp;copies in its first six months.<ref>{{cite journal
+  | author = Famitsu Marketing Data Service
+  | year = January
+  | month = 2008
+  | title = Top 100 sales
+  | journal = 2007 Yearly Report
+  | publisher = [[Famitsu]]
+  | location = Tokyo, Japan
+  | url = http://ps3.ign.com/articles/845/845026p2.html
+  | accessdate = 2008-02-03 }}
+</ref> However, according to the [[NPD Group]], the games saw great sales in the United States; in their first month, ''Ninja Gaiden'' sold 362,441&nbsp;copies and ''Sigma'' sold 63,637&nbsp;copies.<ref>{{cite journal
+  | author = NPD Tech
+  | year = 2004
+  | month = March
+  | title = NPD US Sales Data
+  | publisher = [[NPD Group]]
+  | location = New York, United States
+  | url = http://www.3dnews.ru/games/games-weekly-27042004/index2.htm
+  | accessdate = 2008-02-03 }}
+</ref><ref>{{cite journal
+  | author = NPD Group
+  | year = 2007
+  | month = June
+  | title = NPD US Sales Data
+  | publisher = [[NPD Group]]
+  | location = New York, United States
+  | url = http://www.cubed3.com/news/8201
+  | accessdate = 2008-02-03 }}
+</ref> ''[[Next Generation]]'' also claimed that consumers bought 470,000&nbsp;copies of ''Sigma'' in Europe and North America as of April 2008.<ref>{{cite web
+  | author = Next Generation staff
+  | title = The Top 100 Selling Games of the Last 12 Months
+  | publisher = ''[[Next Generation Magazine]]''
+  | date = 2008-04-09
+  | url = http://www.next-gen.biz/index.php?option=com_content&task=view&id=9639&Itemid=2
+  | accessdate = 2008-04-10 }}
+</ref> The critical and commercial successes of ''Ninja Gaiden'' have led [[CNET]] and GameSpot Asia to induct the game into their Halls of Fame.<ref>{{cite web
+  | author = David Rudden
+  | title = Gaming hall of fame: the Xbox's best games
+  | publisher = [[CNet]]
+  | date = 2006-06-16
+  | url = http://reviews.cnet.com/4321-9582_7-6509238.html
+  | accessdate = 2007-09-05 }}
+</ref><ref>{{cite web
+  | author = GameSpot Asia staff
+  | title = Editor's Choice Hall of Fame
+  | publisher = [[GameSpot]]
+  | date = 2004-04-23
+  | url = http://web.archive.org/web/20050406025443/www.gamespotasia.com/pcgames/features/story/0,2000006896,30076524,00.htm
+  | accessdate = 2008-02-03 }}
+</ref>
+{{-}}
+
+==References==
+{{reflist|3}}
+
+==External links==
+* [http://www.xbox.com/en-US/games/n/ninjagaiden/ Official site for ''Ninja Gaiden'' on the Xbox]
+* [http://www.xbox.com/en-US/games/n/ninjagaidenblackxbox/ Official site for ''Ninja Gaiden Black'' on the Xbox]
+* [http://ninjagaidengame.com/ninjaGaiden/index.html Official site for ''Ninja Gaiden Sigma'' on the PS3]
+* [http://www.tecmo.co.jp/soundworld/s_ngb.html Official page for ''Ninja Gaiden'' Original Sound Trax]
+
+{{Ninja Gaiden series}}
+
+[[Category:2004 video games]]
+[[Category:Crossover fiction]]
+[[Category:Ninja Gaiden]]
+[[Category:PlayStation 3 games]]
+[[Category:Xbox games]]
+
+[[hr:Ninja Gaiden Sigma]]
+[[it:Ninja Gaiden (Xbox)]]
+[[ja:NINJA GAIDEN Σ]]
+[[sv:Ninja Gaiden (Xbox)]]

@@ -1,0 +1,59 @@
+[[Image:BlochWave in Silicon.png|thumb|300px|right|Bloch wave in silicon]]
+A '''Bloch wave''' or '''Bloch state''', named after [[Felix Bloch]], is the [[wavefunction]] of a particle (usually, an [[electron]]) placed in a [[Particle in a one-dimensional lattice (periodic potential)|periodic potential]].  It consists of the product of a [[plane wave]] envelope function and a [[periodic function]] (''periodic Bloch function'') <math>\, u_{nk}(r)</math> which has the same periodicity as the potential:
+
+:<math>\psi_{n\mathbf{k}}(\mathbf{r})=e^{i\mathbf{k}\cdot\mathbf{r}}u_{n\mathbf{k}}(\mathbf{r}).</math>
+
+The result that the [[eigenfunction]]s can be written in this form for a periodic system is called '''Bloch's theorem'''. The corresponding energy eigenvalue is Є<sub>n</sub>('''k''')= Є<sub>n</sub>('''k + K'''), periodic with periodicity '''K''' of a [[reciprocal lattice]] vector. Because the energies associated with the index ''n'' vary continuously with wavevector '''k''' we speak of an ''energy band'' with ''band index'' ''n''. Because the eigenvalues for given ''n'' are periodic in '''k''', all distinct values of Є<sub>n</sub>('''k''') occur for '''k'''-values within the first [[Brillouin zone]] of the reciprocal lattice.
+
+More generally, a Bloch-wave description applies to any wave-like phenomenon in a periodic medium.  For example, a periodic [[dielectric]] in [[electromagnetism]] leads to [[photonic crystal]]s, and a periodic acoustic medium leads to [[phononic crystal]]s. It is generally treated in the different forms of the [[dynamical theory of diffraction]].
+
+The plane wave wavevector (or ''Bloch wavevector'') '''k''' (multiplied by the reduced [[Planck's constant]], this is the particle's [[Crystal momentum|''crystal momentum'']]) is unique only up to a [[reciprocal lattice|reciprocal lattice vector]], so one only needs to consider the wavevectors inside the first [[Brillouin zone]].  For a given wavevector and potential, there are a number of solutions, indexed by ''n'', to [[Schrödinger's equation]] for a Bloch electron.  These solutions, called bands, are separated in energy by a finite spacing at each '''k'''; if there is a separation that extends over all wavevectors, it is called a (complete) [[band gap]].  The [[electronic band structure|band structure]] is the collection of energy eigenstates within the [[first Brillouin zone]].  All the properties of electrons in a periodic potential can be calculated from this band structure and the associated wavefunctions, at least within the [[independent electron approximation]].
+
+A corollary of this result is that the Bloch wavevector '''k''' is a conserved quantity in a crystalline system (modulo addition of reciprocal lattice vectors), and hence the [[group velocity]] of the wave is conserved.  This means that electrons can propagate without scattering through a crystalline material, almost like free particles, and that [[electrical resistance]] in a crystalline conductor only results from things like imperfections that break the periodicity.
+
+It can be shown that the eigenfunctions of a particle in a periodic potential can always be chosen this form by proving that [[Translation (physics)|translation]] operators (by [[Bravais lattice|lattice vectors]]) commute with the [[Hamiltonian (quantum mechanics)|Hamiltonian]].  More generally, the consequences of symmetry on the eigenfunctions are described by [[group representation|representation theory]].  
+
+The concept of the Bloch state was developed by [[Felix Bloch]] in [[1928]], to describe the conduction of electrons in crystalline solids.  The same underlying mathematics, however, was also discovered independently several times: by [[George William Hill]] ([[1877]]), [[Gaston Floquet]] ([[1883]]), and [[Alexander Lyapunov]] ([[1892]]).  As a result, a variety of nomenclatures are common: applied to [[ordinary differential equations]], it is called [[Floquet theory]] (or occasionally the ''Lyapunov-Floquet theorem''). Various one-dimensional periodic potential equations have special names, for example, [[Hill's equation]]:<ref name=Magnus_Winkler>
+{{cite book 
+|author=W Magnus and S Winkler
+|title=Hill's Equation
+|year= 2004 
+|page=p. 11 
+|publisher=Courier Dover
+|isbn=0-0486495655 
+|url=http://books.google.com/books?id=ML5wm-T4RVQC&dq=%22hill's+equation%22&printsec=frontcover&source=web&ots=kWOt7bG8n0&sig=qB8ilFCc4_g6eCNoLnVDyY3Wo-U#PPA11,M1}}
+</ref>.
+
+::<math>\frac {d^2y}{dx^2}+\left(\theta_0+2\sum_{n=1}^\infty \theta_n cos(2nx) \right ) y=0 </math>,
+
+where the θ's are constants. Hill's equation is very general, as the θ-related terms may viewed as a [[Fourier series]] expansion of a periodic potential. Other much studied periodic one-dimensional equations are the [[Kronig-Penney model]] and [[Mathieu function|Mathieu's equation]].
+
+==References==
+
+<references/>
+
+==See also==
+* [[Electronic band structure]]
+* [[Tight-binding model]]
+* [[Nearly-free electron model]]
+
+==Further reading==
+* Charles Kittel, ''Introduction to Solid State Physics'' (Wiley: New York, 1996).
+* Neil W. Ashcroft and N. David Mermin, ''Solid State Physics'' (Harcourt: Orlando, 1976).
+* Felix Bloch, "Über die Quantenmechanik der Elektronen in Kristallgittern," ''Z. Physik'' '''52''', 555-600 (1928).
+* George William Hill, "On the part of the motion of the lunar perigee which is a function of the mean motions of the sun and moon," ''Acta. Math.'' '''8''', 1-36 (1886).  (This work was initially published and distributed privately in 1877.)
+* Gaston Floquet, "Sur les équations différentielles linéaires à coefficients périodiques," ''Ann. École Norm. Sup.'' '''12''', 47-88 (1883).
+* Alexander Mihailovich Lyapunov, ''The General Problem of the Stability of Motion'' (London: Taylor and Francis, 1992).  Translated by A. T. Fuller from Edouard Davaux's French translation (1907) of the original Russian dissertation (1892).
+
+[[Category:Fundamental physics concepts]]
+[[Category:Condensed matter physics]]
+
+[[de:Bloch-Funktion]]
+[[es:Ecuaciones de Bloch]]
+[[fr:Onde de Bloch]]
+[[he:משפט בלוך]]
+[[it:Funzioni di Bloch]]
+[[ja:ブロッホの定理]]
+[[uk:Квазі-імпульс]]
+[[zh:布洛赫波]]
+[[ru:Блоховская волна]]

@@ -1,0 +1,165 @@
+<!-- Here is a table of data; skip past it to edit the text. -->
+<!-- <nowiki> Submit {{subst:chembox}} to get this template </nowiki> -->
+{| align="right" border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+
+! {{chembox header}} | Phosphoryl chloride <!-- replace if not identical with the article name -->
+|-
+| align="center" colspan="2" | [[Image:Phosphorus oxytrichloride.PNG|150px|Phosphoryl chloride]][[Image:Phosphoryl-chloride-3D-vdW.png|150px]]
+|-
+! {{chembox header}} | General
+|-
+| [[IUPAC nomenclature|Systematic name]]
+| Phosphoryl chloride or<br/>Phosphorus oxide trichloride
+|-
+| Other names
+| Phosphorus oxychloride<br/>Phosphoric trichloride
+|-
+| [[Chemical formula|Molecular formula]]
+| POCl<sub>3</sub>
+|-
+| [[Molar mass]]
+| 153.33 g/mol
+|-
+| Appearance
+| Clear, colourless liquid,<br/>fumes in moist air
+|-
+| [[CAS registry number|CAS number]]
+| <nowiki>[10025-87-3]</nowiki>
+|-
+! {{chembox header}} | Properties
+|-
+| [[Density]] and [[Phase (matter)|phase]]
+| 1.645 g/cm<sup>3</sup>, liquid
+|-
+| [[Soluble|Solubility]] in [[Water (molecule)|water]]
+| Reacts
+|-
+<!-- | Other solvents e.g. [[ethanol]], [[acetone]] -->
+<!-- | solubility info on other solvents -->
+<!-- |- -->
+| [[Melting point]]
+| 1.25 °C (274.4 K)
+|-
+| [[Boiling point]]
+| 105.8 °C (379.0 K)
+|-
+| [[Viscosity]]
+| ? c[[Poise|P]] at ? °C<!-- Liquids only, omit if data unavailable. You may use [[Pascal-second|Pa.s]] if you prefer -->
+|-
+! {{chembox header}} | Structure
+|-
+| [[Orbital hybridisation#Molecule shape|Molecular shape]]
+| [[tetrahedral]]
+|-
+| [[Dipole#Molecular dipoles|Dipole moment]]
+| 2.54 [[Debye|D]]
+|-
+! {{chembox header}} | Hazards <!--  Summary only- MSDS entry provides more complete information -->
+|-
+| [[Material safety data sheet|MSDS]]
+| [[Phosphoryl chloride chemdata supplement#Material Safety Data Sheet|External MSDS]] <!-- please replace with proper link-->
+|-
+| Main [[Worker safety and health|hazard]]s
+| Highly corrosive,<br/>lachrymator, toxic
+|-
+| [[Risk and Safety Statements|R/S statement]]
+| R: 14-22-26-29-35-48/23<br/>S:26-45-7/8
+|-
+| [[RTECS]] number
+| TH4897000
+|-
+! {{chembox header}} | [[Phosphoryl chloride chemdata supplement|Supplementary data page]]
+|-
+| [[Phosphoryl chloride chemdata supplement#Structure and properties|Structure & properties]]
+| [[Refractive index|''n'']], [[Dielectric constant|''ε<sub>r</sub>'']], etc.
+|-
+| [[Phosphoryl chloride chemdata supplement#Thermodynamic properties|Thermodynamic data]]
+| Phase behaviour<br>Solid, liquid, gas
+|-
+| [[Phosphoryl chloride chemdata supplement#Spectral data|Spectral data]]
+| [[UV/VIS spectroscopy|UV]], [[Infrared spectroscopy|IR]], [[NMR spectroscopy|NMR]], [[Mass spectrometry|MS]]
+|-
+! {{chembox header}} | Related compounds
+|-
+| Related compounds
+| [[Thiophosphoryl chloride]] <br/>
+[[Phosphorus oxybromide]] <br/>
+[[Phosphorus trichloride]]<br/>
+[[Phosphorus pentachloride]]
+|-
+| {{chembox header}} | <small>Except where noted otherwise, data are given for<br> materials in their [[standard state|standard state (at 25°C, 100 kPa)]]<br/>[[wikipedia:Chemical infobox|Infobox disclaimer and references]]</small>
+|-
+|}
+'''Phosphoryl chloride''' (commonly called '''phosphorus oxychloride''') is a colourless liquid with the formula {{Phosphorus}}{{Oxygen}}{{Chlorine}}<sub>3</sub>. It hydrolyses in moist air to [[phosphoric acid]] to release choking fumes of [[hydrogen chloride]].  It is manufactured industrially on a large scale from [[phosphorus trichloride]] and [[oxygen]] or [[phosphorus pentoxide]].  It is mainly used to make phosphate esters such as [[tricresyl phosphate]].
+
+== Structure  ==
+Like phosphate, phosphoryl chloride is tetrahedral in shape.  It features three P-Cl bonds and one very strong P=O double bond, with an estimated [[bond dissociation energy]] of 533.5 kJ/mol.  On the basis of bond length and electronegativity, the Schomaker-Stevenson rule suggests that the double bond form is very dominant (in contrast with POF<sub>3</sub>).  The P=O bond does not resemble the [[Pi bond|π bond]] in a [[carbonyl]] group as in a ketone.  The appropriate description of the P-O interaction is a matter of long discussion.  Older textbooks favor a description that invokes participation of the [[d-orbital|''d''-orbital]]s on phosphorus.  Some of these d-orbitals project toward the O atom, overlapping with  [[p-orbital|''p''-orbital]]s on oxygen.  More modern texts seem to favor a description where the P-O  [[Pi bond|π bond]]ing involves the sigma* components of the P-Cl bonds.  These descriptions do not consider a role for d-orbitals.
+
+[[Image:POCl3_structure.png|300px]]
+:::<small>where pm = picometers</small>
+
+== Chemical properties ==
+POCl<sub>3</sub> reacts with water and [[alcohol]]s to give [[phosphoric acid]] or [[phosphate ester]]s, respectively, for example
+
+:O=PCl<sub>3</sub>  +  3 H<sub>2</sub>O  →  [[Phosphoric acid|O=P(OH)<sub>3</sub>]]  +  3 [[Hydrogen chloride|HCl]]
+
+If the water is replaced by an [[alcohol]], the trialkyl phosphate esters result.  Such reactions are often performed in the presence of an HCl acceptor such as [[pyridine]] or an [[amine]].  If POCl<sub>3</sub> is heated with an excess of a [[phenols|phenol]] ([[Aryl|Ar]]OH) in the presence of a [[Lewis acid]] catalyst such as [[magnesium chloride]] a triaryl phosphate ester is formed, for example:
+:3 [[Phenol|C<sub>6</sub>H<sub>5</sub>OH]]  +  O=PCl<sub>3</sub>  →  [[Triphenyl phosphate|O=P(OC<sub>6</sub>H<sub>5</sub>)<sub>3</sub>]]  +  3 [[Hydrogen chloride|HCl]]
+
+POCl<sub>3</sub> can also act as a [[Lewis base]], forming [[:Wiktionary:adduct|adduct]]s with a variety of Lewis acids such as [[titanium tetrachloride]]:
+:Cl<sub>3</sub>P<sup>+</sup>-O<sup>&minus;</sup>  +  TiCl<sub>4</sub>  →  Cl<sub>3</sub>P<sup>+</sup>-O-<sup>&minus;</sup>TiCl<sub>4</sub>
+
+The [[aluminium chloride]] adduct (POCl<sub>3</sub>·AlCl<sub>3</sub>) is quite stable, and so POCl<sub>3</sub> can be used to remove AlCl<sub>3</sub> completely from reaction mixtures at the end of a [[Friedel-Crafts reaction]].  POCl<sub>3</sub> reacts with [[hydrogen bromide]] in the presence of AlCl<sub>3</sub> to produce POBr<sub>3</sub>.
+
+== Preparation ==
+Phosphoryl chloride can be prepared by the reaction of [[phosphorus trichloride]] with [[oxygen]] at 20-50 °C (air is ineffective):
+
+2 [[phosphorus trichloride|PCl<sub>3</sub>]]  +  [[Oxygen|O<sub>2</sub>]]  →  2 O=PCl<sub>3</sub>
+
+An alternative synthesis involves the reaction of [[phosphorus pentachloride]] and [[phosphorus pentoxide]].  Since these compounds are both solids, a convenient way of performing the reaction is to [[Chlorination|chlorinate]] a mixture of PCl<sub>3</sub> and P<sub>4</sub>O<sub>10</sub>, which generates the PCl<sub>5</sub> [[:Wiktionary:in situ|''in situ'']].  As the PCl<sub>3</sub> is consumed, the POCl<sub>3</sub> becomes the reaction solvent.
+
+6 [[phosphorus trichloride|PCl<sub>3</sub>]]  +  6 [[Chlorine|Cl<sub>2</sub>]]  → 6 [[Phosphorus pentachloride|PCl<sub>5</sub>]] <br/>
+
+6 [[Phosphorus pentachloride|PCl<sub>5</sub>]]  +  [[Phosphorus pentoxide|P<sub>4</sub>O<sub>10</sub>]]  →  10 POCl<sub>3</sub>
+
+Phosphorus pentachloride also forms POCl<sub>3</sub> by reaction with water, but this reaction is less easily controlled than the above reaction.
+
+== Uses ==
+The most important use for phosphoryl chloride is in the manufacture of triarylphosphate esters (as described [[#Chemical properties|above]]) such as [[triphenyl phosphate]] and [[tricresyl phosphate]].  These esters have been used for many years as [[flame retardant]]s and [[plasticiser]]s for [[Polyvinyl chloride|PVC]].  Meanwhile trialkyl esters such as [[tributyl phosphate]] (made similarly from [[butan-1-ol]]) are used as [[liquid-liquid extraction]] solvents in [[nuclear reprocessing]] and elsewhere.
+
+
+In the semiconductor industry, POCl<sub>3</sub> is used as a safe liquid phosphorus source in diffusion processes. The phosphorus acts as a dopant used to create N-type layers on a silicon wafer.
+
+
+In the laboratory, POCl<sub>3</sub> is widely used as a dehydrating agent, for example the conversion of [[amide]]s to [[nitrile]]s.  Similarly, certain cyclic amides can be cyclised to dihydro[[isoquinoline]] derivatives using the [[Bischler-Napieralski reaction]].
+
+[[Image:POCl3_organic_uses.png|center|600px|Two uses for phosphorus oxychloride in organic chemistry]]
+
+Such reactions are believed to go via an [[imidoyl chloride]]; in certain cases where it is stable, the imidoyl chloride is the final product.  For example [[pyridone]]s and pyrimidones can be converted to chloro- derivatives of [[pyridine]]s and [[pyrimidine]]s, which are important intermediates in the pharmaceutical industry.  Likewise [[barbituric acid]] is converted to 2,4,6-trichloropyrimidine.<sup>[8]</sup> by reaction with POCl<sub>3</sub> at 140 °C.
+
+[[Image:POCl3_246trichloropyridine.png|center|300px]]
+
+Related to this chemistry is the use of POCl<sub>3</sub> in acylation of activated [[aromatic ring]]s via the [[Vilsmeier-Haack reaction]] to produce [[aryl]] [[aldehyde]]s and [[ketone]]s.  The reaction most often uses a formamide such as [[dimethylformamide|DMF]] or ''N''-phenyl-''N''-methylformamide, and it produces an iminium salt which is easily hydrolysed to the aldehyde upon workup.  For example [[anthracene]] gives 9-anthraldehyde:
+
+[[Image:Vilsmeier reaction example2.gif|center|Vilsmeier-Haack formylation of anthracene]]
+
+== References ==
+# N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997.
+# ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.
+# J. March, ''Advanced Organic Chemistry'', 4th ed., p. 723, Wiley, New York, 1992.
+# ''The Merck Index'', 7th edition, Merck & Co, Rahway, New Jersey, USA, 1960.
+# A. D. F. Toy, ''The Chemistry of Phosphorus'', Pergamon Press, Oxford, UK, 1973.
+# L. G. Wade, Jr., ''Organic Chemistry'', 6th ed., p. 477, Pearson/Prentice Hall, Upper Saddle River, New Jersey, USA, 2005.
+# B. J. Walker, ''Organophosphorus chemistry'', p101-116, Penguin, Harmondsworth, UK, 1972.
+# R. C. Elderfield, ''Heterocyclic Compounds'', Vol. 6, p 265-266, Wiley, New York, 1957.  For trichloropyrimidine prep. see Gabriel & Colman, ''Berichte'' '''37''', 3657 (1904).
+# Formylation of [[anthracene]]. ''[[Organic Syntheses]]'', Coll. Vol. 3, p.98; Vol. 20, p.11. ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv3p0098 Article])
+
+==External links==
+
+
+[[Category:Acyl halides]]
+
+[[de:Phosphoroxychlorid]]
+[[fr:Trichlorure de phosphoryle]]
+[[ja:リン酸トリクロリド]]
+[[sv:Fosforoxitriklorid]]

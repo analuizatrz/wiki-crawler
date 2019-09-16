@@ -1,0 +1,185 @@
+{{otheruses}}
+{{Cosmology}}
+In [[astrophysics]] and [[physical cosmology|cosmology]], '''dark matter''' is [[matter]] of unknown composition that does not [[Emission (electromagnetic radiation)|emit]] or [[reflection (physics)|reflect]] enough [[electromagnetic radiation]] to be observed directly, but whose presence can be inferred from [[gravity|gravitational]] effects on visible matter. According to present observations of structures larger than [[galaxies]], as well as [[big bang|Big Bang cosmology]], dark matter accounts for the vast majority of [[Mass of the observable universe|mass in the observable universe]]. The observed phenomena consistent with dark matter observations include the [[galaxy rotation problem|rotational speeds of galaxies]], orbital velocities of [[galaxies]] in [[galaxy cluster|clusters]], [[gravitational lensing]] of background objects by galaxy clusters such as the [[Bullet cluster]], and the temperature distribution of hot gas in galaxies and clusters of galaxies. Dark matter also plays a central role in [[structure formation]] and [[Galaxy formation and evolution|galaxy evolution]], and has measurable effects on the [[anisotropy]] of the [[cosmic microwave background]].  All these lines of evidence suggest that galaxies, clusters of galaxies, and the universe as a whole contain far more matter than [[hadron|that which interacts with electromagnetic radiation]]: the remainder is called the "dark matter component".
+
+The composition of dark matter is unknown, but may include ordinary and heavy [[neutrino]]s, recently postulated elementary particles such as [[WIMP]]s and [[axion]]s, astronomical bodies such as [[dwarf star]]s and [[planet]]s (collectively called [[MACHO]]s), and clouds of nonluminous gas. Current evidence favors models in which the primary component of dark matter is new elementary particles, collectively called non-baryonic dark matter.
+
+The dark matter component has vastly more mass than the "visible" component of the [[universe]].<ref>{{cite web | url = http://map.gsfc.nasa.gov/m_mm/mr_limits.html | title = Some Theories Win, Some Lose | publisher = [[NASA]]}}, using the [[WMAP]] dataset</ref> At present, the density of ordinary [[baryon]]s and [[light|radiation]] in the universe is estimated to be equivalent to about one hydrogen atom per cubic metre of space. Only about 4% of the total energy density in the universe (as inferred from gravitational effects) can be seen directly. About 22% is thought to be composed of dark matter. The remaining 74% is thought to consist of [[dark energy]], an even stranger component, distributed diffusely in space.<ref name="sciam 2003">{{cite news | url = http://www.sciam.com/article.cfm?chanID=sa006&articleID=00008965-AF27-1E41-89E0809EC588EEDF | title = The Search for Dark Matter | month = March | year = 2003 | first = David B. | last = Cline | publisher = [[Scientific American]]}}</ref> Some hard-to-detect [[baryonic dark matter|baryonic matter]] makes a contribution to dark matter, but constitutes only a small portion.<ref>{{cite journal | title = Death of Stellar Baryonic Dark Matter Candidates | first = Katherine | last = Freese | coauthors = Brian Fields, David Graff | id = {{arxiv|archive=astro-ph|id=0007444}}}}</ref><ref>{{cite journal | title = Death of Stellar Baryonic Dark Matter | first = Katherine | last = Freese | coauthors = Brian D. Field, David S. Graff | id = {{arxiv|archive=astro-ph|id=0002058}}}}</ref> Determining the nature of this missing mass is one of the most important problems in modern cosmology and [[particle physics]]. It has been noted that the names "dark matter" and "dark energy" serve mainly as expressions of our ignorance, much as the marking of early maps with "[[Terra Incognita|terra incognita]]".<ref name="sciam 2003" />
+
+==Observational evidence==
+
+{{Citations missing|date=May 2007}}
+The first to provide evidence and infer the existence of a phenomenon that has come to be called "dark matter"  was [[Switzerland|Swiss]] [[astrophysicist]] [[Fritz Zwicky]], of the [[California Institute of Technology]] (Caltech) in 1933.<ref>{{cite journal | last = Zwicky | first = F. | url = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1933AcHPh...6..110Z | title = Die Rotverschiebung von extragalaktischen Nebeln | year = 1933 | journal = Helvetica Physica Acta | volume = 6 | pages = 110&mdash;127}} See also {{cite journal | last = Zwicky | first = F. | url = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1937ApJ....86..217Z | title = On the Masses of Nebulae and of Clusters of Nebulae | year = 1937 | journal = Astrophysical Journal | volume = 86 | pages = 217}}</ref> He applied the [[virial theorem]] to the [[Coma galaxy cluster|Coma]] [[groups and clusters of galaxies|cluster of galaxies]] and obtained evidence of unseen mass. Zwicky estimated the cluster's total mass based on the motions of galaxies near its edge. When he compared this mass estimate to one based on the number of galaxies and total brightness of the cluster, he found that there was about 400 times more mass than expected. The gravity of the visible galaxies in the cluster would be far too small for such fast orbits, so something extra was required. This is known as the "missing mass problem". Based on these conclusions, Zwicky inferred that there must be some non-visible form of matter which would provide enough of the mass and gravity to hold the cluster together.
+[[Image:060821 darkmatter.jpg|thumb|left|200px|Composite image of the [[Bullet cluster]] shows distribution of ordinary matter, inferred from X-ray [[Emission (electromagnetic radiation)|emissions]], in red and total mass, inferred from [[gravitational lens]]ing, in blue]]
+Much of the evidence for dark matter comes from the study of the motions of [[galaxy|galaxies]]. Many of these appear to be fairly uniform, so by the virial theorem the total [[kinetic energy]] should be half the total [[gravitational binding energy]] of the galaxies. Experimentally, however, the total kinetic energy is found to be much greater: in particular, assuming the [[gravitational mass]] is due to only the visible matter of the galaxy, stars far from the center of galaxies have much higher velocities than predicted by the virial theorem. [[Galactic rotation curve]]s, which illustrate the velocity of rotation versus the distance from the galactic center, cannot be explained by only the visible matter. Assuming that the visible material makes up only a small part of the cluster is the most straightforward way of accounting for this. Galaxies show signs of being composed largely of a roughly spherically symmetric, centrally concentrated [[Dark matter halo|halo]] of dark matter with the visible matter concentrated in a disc at the center. [[Low surface brightness galaxy|Low surface brightness dwarf galaxies]] are important sources of information for studying dark matter, as they have an uncommonly low ratio of visible matter to dark matter, and have few bright stars at the center which impair observations of the rotation curve of outlying stars.
+
+According to results published in August 2006, dark matter has been observed separate from ordinary matter<ref>{{cite web | url = http://arxiv.org/abs/astro-ph/0608407 | title = A direct empirical proof of the existence of dark matter | publisher = [[Arxiv]]}}</ref><ref>{{cite web | url = http://today.slac.stanford.edu/feature/darkmatter.asp | title = Dark Matter Observed | publisher = [[SLAC]] Today}}</ref> through measurements of the [[Bullet cluster|Bullet Cluster]], actually two nearby clusters of galaxies that collided about 150 million years ago.<ref> [http://arxiv.org/abs/astro-ph/0309303 Direct constraints on the dark matter self-interaction cross-section from the merging galaxy cluster 1E 0657-56]</ref>  Researchers analyzed the effects of gravitational lensing to determine total mass distribution in the pair and compared that to X-ray maps of hot gases, thought to constitute the large majority of ordinary matter in the clusters. The hot gases interacted during the collision and remain closer to the center. The individual galaxies and the dark matter did not interact and are farther from the center.
+
+===Galactic rotation curves===
+{{main|Galaxy rotation curve}}
+[[Image:GalacticRotation2.svg|thumb|right|300px|Rotation curve of a typical spiral galaxy: predicted ('''A''') and observed ('''B'''). Dark matter can explain the velocity curve having a "flat" appearance out to a large radius]]
+
+For nearly 40 years after Zwicky's initial observations, no other corroborating observations indicated that the [[mass to light ratio]] was anything other than unity (a high mass-to-light ratio indicates the presence of dark matter). Then, in the late 1960s and early 1970s, [[Vera Rubin]], a young astronomer at the Department of Terrestrial Magnetism at the [[Carnegie Institution of Washington]] presented findings based on a new sensitive [[spectrograph]] that could measure the [[galaxy rotation curve|velocity curve]] of edge-on [[spiral galaxies]] to a greater degree of accuracy than had ever before been achieved. Together with fellow staff-member [[Kent Ford]], Rubin announced at a [[1975]] meeting of the [[American Astronomical Society]] the astonishing discovery that most [[star]]s in [[Spiral galaxy|spiral galaxies]] orbit at roughly the same speed, which implied that their mass densities were uniform well beyond the locations with most of the stars (the [[galactic bulge]]). This result suggests that either [[Gravity|Newtonian gravity]] does not apply universally or that, conservatively, upwards of 50% of the mass of galaxies was contained in the relatively dark [[dark matter halo|galactic halo]]. Met with skepticism, Rubin insisted that the observations were correct. Eventually other astronomers began to corroborate her work and it soon became well-established that most galaxies were in fact dominated by "dark matter"; exceptions appeared to be galaxies with mass-to-light ratios close to that of stars. Subsequent to this, numerous observations have been made that do indicate the presence of dark matter in various parts of the cosmos. Together with Rubin's findings for spiral galaxies and Zwicky's work on galaxy clusters, the observational evidence for dark matter has been collecting over the decades to the point that today most astrophysicists accept its existence. As a unifying concept, dark matter is one of the dominant features considered in the analysis of structures on the order of galactic scale and larger.
+
+===Velocity dispersions of galaxies===
+Rubin's pioneering work has stood the test of time. Measurements of velocity curves in spiral galaxies were soon followed up with velocity dispersions of [[elliptical galaxy|elliptical galaxies]]. While sometimes appearing with lower mass-to-light ratios, measurements of ellipticals still indicate a relatively high dark matter content. Likewise, measurements of the diffuse [[interstellar medium|interstellar gas]] found at the edge of galaxies indicate not only dark matter distributions that extend beyond the visible limit of the galaxies, but also that the galaxies are virialized up to ten times their visible radii. This has the effect of pushing up the dark matter as a fraction of the total amount of gravitating matter from 50% measured by Rubin to the now accepted value of nearly 95%.
+
+There are places where dark matter seems to be a small component or totally absent. [[Globular clusters]] show no evidence that they contain dark matter, though their orbital interactions with galaxies do show evidence for galactic dark matter. For some time, measurements of the velocity profile of stars seemed to indicate concentration of dark matter in the [[galactic disk|disk]] of the [[Milky Way]] galaxy, however, now it seems that the high concentration of baryonic matter in the disk of the galaxy (especially in the interstellar medium) can account for this motion. Galaxy mass profiles are thought to look very different from the light profiles. The typical model for dark matter galaxies is a smooth, spherical distribution in virialized halos. Such would have to be the case to avoid small-scale (stellar) dynamical effects. Recent research reported in January 2006 from the [[University of Massachusetts, Amherst]] would explain the previously mysterious warp in the disk of the Milky Way by the interaction of the [[Large Magellanic Cloud|Large]] and [[Small Magellanic Cloud]]s and the predicted 20 fold increase in mass of the Milky Way taking into account dark matter.
+
+Recently (2005), astronomers from [[Cardiff University]] claim to have discovered a [[galaxy]] made almost entirely of dark matter, 50 million light years away in the [[Virgo Cluster]], which was named [[VIRGOHI21]].<ref>{{cite news | url = http://www.newscientist.com/article.ns?id=dn7056 | title = Astronomers claim first 'dark galaxy' find | date = 2005-02-23 | publisher = [[New Scientist]]}} See also: [[Wikinews:Dark matter galaxy discovered]]</ref> Unusually, VIRGOHI21 does not appear to contain any visible stars: it was seen with radio frequency observations of hydrogen. Based on rotation profiles, the scientists estimate that this object contains approximately 1000 times more dark matter than hydrogen and has a total mass of about 1/10th that of the [[Milky Way Galaxy]] we live in. For comparison, the Milky Way is believed to have roughly 10 times as much dark matter as ordinary matter. Models of the [[Big Bang]] and [[Large-scale structure of the cosmos|structure formation]] have suggested that such dark galaxies should be very common in the universe, but none have previously been detected. If the existence of this dark galaxy is confirmed, it provides strong evidence for the theory of galaxy formation and poses problems for alternative explanations of dark matter.
+
+===Missing matter in clusters of galaxies===
+[[Image:abell.lensing.arp.750pix.jpg|thumb|right|250px|Strong gravitational lensing as observed by the [[Hubble Space Telescope]] in [[Abell 1689]] indicates the presence of dark matter - Enlarge the image to see the lensing arcs. Credits: [[NASA]]/[[ESA]]]]
+
+Dark matter affects [[Groups and clusters of galaxies|galaxy clusters]] as well. [[X-ray]] measurements of hot [[intergalactic medium|intracluster gas]] correspond closely to Zwicky's observations of mass-to-light ratios for large clusters of nearly 10 to 1. Many of the experiments of the [[Chandra X-ray Observatory]] use this technique to independently determine the mass of clusters.
+
+The galaxy cluster [[Abell 2029]] is composed of thousands of galaxies enveloped in a cloud of hot gas, and an amount of dark matter equivalent to more than 10<sup>14</sup> Suns. At the center of this cluster is an enormous, elliptically shaped galaxy that is thought to have been formed from the mergers of many smaller galaxies.<ref>{{cite web | url = http://chandra.harvard.edu/photo/2003/abell2029/ | title = Abell 2029: Hot News for Cold Dark Matter | publisher = [[Chandra X-ray Observatory]] collaboration | date = [[11 June]] [[2003]]}}</ref> The measured orbital velocities of galaxies within galactic clusters have been found to be consistent with dark matter observations.
+
+Another important tool for future dark matter observations is [[gravitational lensing]]. Lensing relies on the effects of [[general relativity]] to predict masses without relying on dynamics, and so is a completely independent means of measuring the dark matter. Strong lensing, the observed distortion of background galaxies into arcs when the light passes through a gravitational lens, has been observed around a few distant clusters including [[Abell 1689]] (pictured right). By measuring the distortion geometry, the mass of the cluster causing the phenomena can be obtained. In the dozens of cases where this has been done, the mass-to-light ratios obtained correspond to the dynamical dark matter measurements of clusters.
+
+Perhaps more convincing, a technique has been developed over the last 10 years called weak lensing which looks at microscale distortions of galaxies observed in vast [[redshift survey|galaxy surveys]] due to foreground objects through statistical analyses. By examining the shear deformation of the adjacent background galaxies, astrophysicists can characterize the mean distribution of dark matter by statistical means and have found mass-to-light ratios that correspond to dark matter densities predicted by other large-scale structure measurements. The correspondence of the two gravitational lens techniques to other dark matter measurements has convinced almost all astrophysicists that dark matter actually exists as a major component of the universe's composition.
+
+===Structure formation===
+{{main|structure formation}}
+Dark matter is crucial to the [[Big Bang]] model of cosmology as a component which corresponds directly to measurements of the [[Lambda-CDM model|parameters]] associated with [[FRW metric|Friedmann cosmology]] solutions to [[general relativity]]. In particular, measurements of the [[cosmic microwave background]] anisotropies correspond to a cosmology where much of the matter interacts with [[photons]] more weakly than the known [[four fundamental forces|forces]] that couple light interactions to baryonic matter. Likewise, a significant amount of non-[[baryon]]ic, cold matter is necessary to explain the [[Large-scale structure of the cosmos|large-scale structure of the universe]].
+
+Observations suggest that [[structure formation]] in the universe proceeds hierarchically, with the smallest structures collapsing first and followed by galaxies and then clusters of galaxies. As the structures collapse in the evolving universe, they begin to "light up" as the baryonic matter heats up through gravitational contraction and the object approaches [[hydrostatic equilibrium|hydrostatic pressure balance]]. Ordinary [[baryon]]ic matter had too high a temperature, and too much pressure left over from the Big Bang to collapse and form smaller structures, such as stars, via the [[Jeans instability]]. Dark matter acts as a compactor of structure. This model not only corresponds with statistical surveying of the visible structure in the universe but also corresponds precisely to the dark matter predictions of the cosmic microwave background.
+
+This ''bottom up'' model of structure formation requires something like cold dark matter to succeed. Large computer simulations of billions of dark matter particles have been used to confirm that the cold dark matter model of structure formation is consistent with the structures observed in the universe through galaxy surveys, such as the [[Sloan Digital Sky Survey]] and [[2dF Galaxy Redshift Survey]], as well as observations of the [[Lyman-alpha forest]]. These studies have been crucial in constructing the [[Lambda-CDM model]] which measures the cosmological parameters, including the fraction of the universe made up of baryons and dark matter.
+
+==Dark matter composition==
+{{unsolved|physics|What is dark matter? How is it generated? Is it related to [[supersymmetry]]?}}
+Although dark matter was detected by its [[gravitational lens]]ing in August 2006,<ref>{{cite web | url = http://www.nasa.gov/home/hqnews/2006/aug/HQ_06297_CHANDRA_Dark_Matter.html | title = NASA Finds Direct Proof of Dark Matter | publisher = [[NASA]]}}, at the [[Chandra X-ray Observatory]]</ref> many aspects of dark matter remain speculative. The [[DAMA/NaI]] experiment has claimed to directly detect dark matter passing through the Earth, though most scientists remain skeptical since negative results of other experiments are (almost) incompatible with the DAMA results if dark matter consists of [[neutralino]]s.
+
+Data from a number of lines of evidence, including [[galaxy rotation problem|galaxy rotation curves]], gravitational lensing, structure formation, and the fraction of baryons in clusters and the cluster abundance combined with independent evidence for the baryon density, indicate that 85-90% of the mass in the universe does not interact with the electromagnetic force. This "dark matter" is evident through its gravitational effect. Several categories of dark matter have been postulated.
+
+*[[Baryonic dark matter]] One candidate for missing dark baryonic matter is [[Rydberg matter]], which has spectroscopic signatures in agreement with the unidentified infrared bands<ref>S. Badiei, L. Holmlid. ''Mon. Not. R. Astron. Soc.'' '''333''', 360–364 (2002)</ref>.
+*[[Non-baryonic dark matter]]<ref>{{cite book | first = Joseph | last = Silk | title = The Big Bang | edition = 1989 | pages = chapter ix, page 182}}</ref> which is divided into three different types:
+**[[Hot dark matter]] - nonbaryonic particles that move [[Ultrarelativistic limit|ultrarelativistically]]<ref>{{cite journal | first = Masayuki | last = Umemura | coauthors = Satoru Ikeuchi | title = Formation of Subgalactic Objects within Two-Component Dark Matter | year = 1985  | journal = Astrophysical Journal | volume = 299 | pages = 583&mdash;592 | url = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?1985ApJ...299..583U}}</ref>
+**[[Warm dark matter]] - nonbaryonic particles that move relativistically
+**[[Cold dark matter]] - nonbaryonic particles that move non-relativistically<ref>{{cite journal | first = N. | last = Vittorio | coauthors = J. Silk | year = 1984  | journal = Astrophysical Journal, Part 2 - Letters to the Editor | volume =285 | pages = L39&mdash;L43 | title = Fine-scale anisotropy of the cosmic microwave background in a universe dominated by cold dark matter | id = {{doi|10.1086/184361}}}}</ref>
+
+Davis ''et al'' wrote in 1985:
+{{cquote|Candidate particles can be grouped into three categories on the basis of their effect on the fluctuation spectrum (Bond ''et al'' 1983). If the dark matter is composed of abundant light particles which remain relativistic until shortly before recombination, then it may be termed "hot". The best candidate for hot dark matter is a neutrino [..]
+
+A second possibility is for the dark matter particles to interact more weakly than neutrinos, to be less abundant, and to have a mass of order 1eV. Such particles are termed "warm dark matter", because they have lower thermal velocities than massive neutrinos [..] there are at present few candidate particles which fit this description. Gravitinos and photinos have been suggested (Pagels and Primack 1982; Bond, Szalay and Turner 1982) [..]
+
+Any particles which became nonrelativistic very early, and so were able to diffuse a negligible distance, are termed "cold" dark matter (CDM). There are many candidates for CDM including supersymmetric particles<ref>{{cite journal | last = Davis | first = M. | coauthors = Efstathiou, G., Frenk, C. S., & White, S. D. M. | title = The evolution of large-scale structure in a universe dominated by cold dark matter | journal = Astrophysical Journal | volume = 292 | date = [[May 15]] [[1985]] | pages = 371&mdash;394 | id = {{DOI|10.1086/163168}}}}</ref>}}
+
+Hot dark matter consists of particles that travel with [[special relativity|relativistic]] velocities. One kind of hot dark matter is known, the [[neutrino]]. Neutrinos have a very small mass, do not interact via either the [[electromagnetic]] or the [[strong nuclear force]] and are therefore very difficult to detect. This is what makes them appealing as dark matter. However, bounds on neutrinos indicate that ordinary neutrinos make only a small contribution to the density of dark matter.
+
+Hot dark matter cannot explain how individual galaxies formed from the Big Bang. The [[microwave background radiation]] as measured by the [[COBE]] and [[WMAP]] satellites, while incredibly smooth, indicates that matter has clumped on very small scales. Fast moving particles, however, cannot clump together on such small scales and, in fact, suppress the clumping of other matter. Hot dark matter, while it certainly exists in our universe in the form of neutrinos, is therefore only part of the story.
+[[Image:DarkMatterPie.jpg|thumb|right|375px|Estimated distribution of dark matter and dark energy in the universe]]
+
+The Concordance Model requires that, to explain structure in the universe, it is necessary to invoke cold (non-relativistic) dark matter. Large masses, like galaxy-sized black holes can be ruled out on the basis of [[gravitational lensing]] data. Possibilities involving normal [[baryon]]ic matter include [[brown dwarf]]s or perhaps small, dense chunks of heavy elements; such objects are known as [[massive compact halo object]]s, or "MACHOs". However, studies of [[big bang nucleosynthesis]] have convinced most scientists that [[baryon|baryonic matter]] such as MACHOs cannot be more than a small fraction of the total dark matter.
+
+At present, the most common view is that dark matter is primarily non-[[baryonic]], made of one or more elementary particles other than the usual [[electron]]s, [[proton]]s, [[neutron]]s, and known [[neutrinos]]. The most commonly proposed particles are [[axion]]s, [[sterile neutrinos]], and [[WIMP]]s (Weakly Interacting Massive Particles, including [[neutralino]]s). None of these are part of the [[standard model]] of [[particle physics]], but they can arise in extensions to the standard model. Many [[supersymmetry|supersymmetric]] models naturally give rise to stable [[WIMP]]s in the form of [[neutralino]]s. Heavy, sterile neutrinos exist in extensions to the standard model that explain the small [[neutrino mass]] through the [[seesaw mechanism]].
+
+Experimental searches for these dark matter candidates have been conducted and are ongoing. These efforts can be divided into two broad classes: direct detection, in which the dark matter particles are observed in a detector; and indirect detection, which looks for the products of dark matter annihilations. Dark matter detection experiments have ruled out some [[WIMP]] and [[axion]] models. There are also several experiments claiming positive evidence for dark matter detection, such as [[DAMA/NaI]] and [[Egret (experiment)|EGRET]], but these are so far unconfirmed and difficult to reconcile with the negative results of other experiments. Several searches for dark matter are currently underway, including the [[Cryogenic Dark Matter Search]] in the [[Soudan mine]] and the [[XENON]] experiment at [[Gran_Sasso_National_Laboratory|Gran Sasso]], and many new technologies are under development, such as the [[ArDM]] experiment.
+
+In research due to be fully published in spring 2006, researchers from the [[University of Cambridge]] Institute of Astronomy claim to have calculated that dark matter only comes in clumps larger than about 1,000 light-years across, implying an average speed of dark matter particles of 9 km/s, a density of 20 amu/cm³, and temperature of 10,000 [[kelvin]]s.<ref>{{cite news | url = http://news.bbc.co.uk/2/hi/science/nature/4679220.stm | title = Dark matter comes out of the cold | date = [[5 February]] [[2006]] | publisher = [[BBC News]] | first = Jonathan | last = Amos}}</ref>
+
+==Alternative explanations==
+
+=== Modifications of gravity ===
+A proposed alternative to physical dark matter particles has been to suppose that the observed inconsistencies are due to an incomplete understanding of [[gravitation]]. To explain the observations, the gravitational force has to become stronger than the Newtonian approximation at great distances or in weak fields. One of the proposed models is [[Modified Newtonian Dynamics]] (MOND), which corrects [[Newton's laws]] at small acceleration. However, constructing a [[theory of relativity|relativistic]] MOND theory has been troublesome, and it is not clear how the theory can be reconciled with [[gravitational lensing]] measurements of the deflection of light around galaxies. The leading relativistic MOND theory, proposed by [[Jacob Bekenstein]] in 2004 is called [[TeVeS]] for Tensor-Vector-Scalar and solves many of the problems of earlier attempts. However, a study in August 2006 reported an observation of a pair of colliding galaxy clusters whose behavior, it was claimed, was not compatible with any current modified gravity theories<ref>{{cite press release| url=http://www.nasa.gov/home/hqnews/2006/aug/HQ_06297_CHANDRA_Dark_Matter.html| title=NASA Finds Direct Proof of Dark Matter| date=2006-08-21| publisher=NASA}}</ref>.
+
+In 2007, astronomer [[John Moffat|John W. Moffatt]] proposed a theory of modified gravity (MOG) based on the [[Nonsymmetric Gravitational Theory]] (NGT) that accounts for the behavior of colliding galaxies.<ref>{{cite web | url = http://www.space.com/scienceastronomy/071029-mm-mog-theory.html| title=Scientists Say Dark Matter Doesn't Exist}}</ref>
+
+=== Quantum mechanical explanations ===
+In another class of theories one attempts to reconcile [[gravitation]] with [[quantum mechanics]] and obtains corrections to the conventional gravitational interaction. In [[Scalar-tensor theory|scalar-tensor theories]], [[scalar (physics)|scalar]] fields like the [[Higgs]] field couples to the [[curvature]] given through the [[Riemann]] tensor or its traces. In many of such theories, the scalar field equals the [[inflaton]] field, which is needed to explain the [[cosmic inflation|inflation]] of the universe after the [[Big Bang]], as the dominating factor of the [[Quintessence (physics)|quintessence]] or [[Dark Energy]]. Using an approach based on the [[Exact renormalization group equation|exact renormalization group]], M. Reuter and H. Weyer have shown<ref>{{cite journal | first = M. | last = Reuter | coauthors = H. Weyer | title = Running Newton Constant, Improved Gravitational Actions, and Galaxy Rotation Curves | journal = Phys. Rev. D | volume = 70 | year = 2004 | id = {{DOI|10.1103/PhysRevD.70.124028}} {{arxiv|archive=hep-th|id=0410117}}}}</ref> that Newton's constant and the cosmological constant can be scalar functions on spacetime if one associates renormalization scales to the points of spacetime.
+
+==Dark matter in popular culture==
+{{main|Dark matter in fiction}}
+Mentions of dark matter occur in some video games and other works of fiction. In such cases, it is usually attributed extraordinary physical or magical properties. Such descriptions are often inconsistent with the properties of dark matter proposed in physics and cosmology.
+<!-- Please do not add examples of dark matter in popular culture to this section. Add them to the main article on the subject, [[Dark matter in fiction]] \\-->
+
+==See also==
+*[[Scalar Field Dark Matter]]
+*[[SIMP]]
+*[[Light Dark Matter]]
+*[[Self-interacting dark matter]]
+*[[Mirror matter]]
+*[[Dark Energy]]
+*[[Conformal gravity]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat|Darkmatter}}  
+
+*[http://video.google.com/videoplay?docid=9203406154643237205 Yale University Video Lecture on Dark Matter] at Google Video
+*[http://www.space.com/php/video/player.php?video_id=150407Dark_matter Video of Dark Matter]
+*[http://www.space.com/businesstechnology/070103_tw_radiomap.html Visibility/Detectability of Dark Matter (January 3, 2007)]
+*[http://www.seedmagazine.com/news/2007/02/found_most_of_the_universe.php Found: Most of the Universe] - by Phil Plait
+*[http://astron.berkeley.edu/~mwhite/darkmatter/hdm.html Hot Dark Matter] - by Martin White
+*[http://lpsc.in2p3.fr/mayet/dm.html Dark Matter Portal] - by Frédéric Mayet
+*[http://video.google.com/videoplay?docid=-8114580690921328857 "Most of our Universe is Missing"] - ''Horizon'' video
+*[http://arxiv.org/abs/hep-ph/0404175 "Particle Dark Matter: Evidence, Candidates and Constraints"] - by G. Bertone, D. Hooper and [[Joe Silk|J. Silk]]
+*[http://www.livingreviews.org/lrr-2002-4 "Experimental Searches for Dark Matter"] - by Timothy J. Sumner
+*[http://news.bbc.co.uk/1/hi/sci/tech/4679220.stm "Dark matter comes out of the cold"] - [[BBC News]] [[5 February]] [[2005]]
+*[http://news.bbc.co.uk/1/hi/wales/south_east/4288633.stm  "Astronomers find Starless Galaxy"] - [[BBC News]] [[23 February]] [[2005]]
+*[http://www.economist.com/science/displaystory.cfm?story_id=3556105 "In the Beginnings"] - ''[[The Economist]]'' [[13 January]] [[2005]]
+*[http://www.physorg.com/news6850.html Elliptical galaxies have dark matter halo as well]
+*[http://xxx.lanl.gov/find/grp_physics/1/abs:+AND+Dark+Matter/0/1/0/past,2005/0/1 Recent papers on dark matter on arXiv.org]
+*[http://chandra.harvard.edu/photo/2006/1e0657/ NASA Finds Direct Proof of Dark Matter (images)], [http://www.nasa.gov/home/hqnews/2006/aug/HQ_06297_CHANDRA_Dark_Matter.html (text)]
+*[http://chandra.harvard.edu/photo/2006/1e0657/media/paper.pdf Paper on Direct Proof of Dark Matter]
+*[http://www.spacetelescope.org/images/html/heic0701a.html News and Video Release of 3D Map of Dark Matter's scaffolding at ESA/Hubble]
+*[http://www.cnn.com/2006/TECH/space/08/21/dark.matter/index.html Dark matter exists] CNN.com
+*[[n:Dark matter lacks extra gravitational force|Dark matter lacks extra gravitational force]] on [[Wikinews]]
+*[http://www.darkmatterphysics.com Dark matter introduction articles]
+*[http://www.avantnews.com/modules/news/article.php?storyid=305 Avant News spoof on the true nature of dark matter]
+*[http://news.bbc.co.uk/2/hi/science/nature/5272226.stm "Team finds 'proof' of dark matter"] Paul Rincon (2006) BBC online. First direct evidence for dark matter
+*[http://cosmicvariance.com/2006/08/21/dark-matter-exists/ Dark Matter Exists] by [[Sean M. Carroll]].
+*[http://www.datasync.com/~rsf1/missmass.htm Cosmology's Missing Mass Problems] by Robert Fritzius
+*[http://www.csmonitor.com/2007/0516/p02s01-stss.html A big find in the hunt for elusive dark matter]
+*[http://www.seedmagazine.com/news/2007/08/seeing_the_unseeable_1.php Seeing the unseeable] (SeedMagazine.com)
+
+[[Category:Celestial mechanics]]
+[[Category:Physical cosmology]]
+[[Category:Dark matter| ]]
+[[Category:Large-scale structure of the cosmos]]
+[[Category:Astroparticle physics]]
+[[Category:Exotic matter]]
+
+[[ar:مادة مظلمة]]
+[[ast:Materia escuro]]
+[[bg:Тъмна материя]]
+[[ca:Matèria fosca]]
+[[cs:Temná hmota]]
+[[da:Mørkt stof]]
+[[de:Dunkle Materie]]
+[[el:Σκοτεινή ύλη]]
+[[es:Materia oscura]]
+[[eo:Malluma materio]]
+[[fa:ماده تاریک]]
+[[fr:Matière noire]]
+[[gl:Materia escura]]
+[[ko:암흑 물질]]
+[[hr:Tamna tvar]]
+[[io:Sombra materio]]
+[[id:Materi gelap]]
+[[is:Hulduefni]]
+[[it:Materia oscura]]
+[[he:חומר אפל]]
+[[la:Materia nigra]]
+[[lt:Nematomoji medžiaga]]
+[[ml:തമോദ്രവ്യം]]
+[[nl:Donkere materie]]
+[[ja:暗黒物質]]
+[[no:Mørk materie]]
+[[pl:Ciemna materia]]
+[[pt:Matéria escura]]
+[[ru:Скрытая масса]]
+[[simple:Dark matter]]
+[[sk:Tmavá hmota]]
+[[sl:Temna snov]]
+[[sr:Тамна материја]]
+[[fi:Pimeä aine]]
+[[sv:Mörk materia]]
+[[vi:Vật chất tối]]
+[[tr:Karanlık madde]]
+[[uk:Темна матерія]]
+[[ur:تاریک مادہ]]
+[[zh:暗物质]]

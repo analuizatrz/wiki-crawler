@@ -1,0 +1,87 @@
+{{Planetbox begin 
+| name = 55 Cancri e
+}} 
+{{Planetbox image 
+| image = [[Image:Newneptune_nasa_big.jpg|250px]]
+| caption = Artist's impression of 55 Cancri e
+}} 
+{{Planetbox star 
+| star = [[55 Cancri|55 Cancri A]]
+| constell = [[Cancer (constellation)|Cancer]]
+| RA = {{RA|08|52|35.8}}
+| DEC = {{DEC|+28|19|51}}
+| class = G8V
+}} 
+{{Planetbox orbit 
+| semimajor =  0.038 ± 0.001  
+| eccentricity = 0.174 ± 0.127
+| period = 2.81 ± 0.002
+| ang_dist = 3 
+| long_peri = 261.65 ± 41
+| t_peri = 2,453,295.31 ± 0.32
+| semi-amp = 5.80 ± 0.81
+}}
+{{Planetbox character 
+| mass = &gt;0.045 ± 0.01
+| mass_earth= &gt;14 ± 3
+}} 
+{{Planetbox discovery 
+| discovery_date = 2004
+| discoverers = [[Barbara McArthur|McArthur]] et al.
+| discovery_site=[[Texas]], [[USA]]
+| discovery_method = Radial velocity
+| discovery_status = Published
+}} 
+{{Planetbox catalog 
+| names = {{bayer-blank|Rho|1|Cancri e}},  HD 75732 e
+}} 
+{{Planetbox end}} 
+
+'''55 Cancri e''' is an [[extrasolar planet]] with a [[mass]] similar to that of [[Neptune]] orbiting the [[Sun]]-like [[star]] [[55 Cancri|55 Cancri A]]. It takes less than three [[day]]s to complete an [[orbit]] and is the innermost known planet in its [[planetary system]]. 55 Cancri e was discovered in 2004.
+
+==Discovery==
+Like the majority of known extrasolar planets, 55 Cancri e was discovered by detecting variations in its star's [[radial velocity]]. This was achieved by making sensitive measurements of the [[Doppler shift]] of the [[spectrum]] of 55 Cancri A. At the time of its discovery, three other planets were known orbiting the star. After accounting for these planets, a signal at around 2.8 days remained, which could be explained by a planet of at least 14.2 [[Earth]] masses in a very close orbit.<ref name="mcarthur">{{cite journal|url=http://xxx.lanl.gov/abs/astro-ph/0408585|author=McArthur, B. et al.|title=Detection of a NEPTUNE-mass planet in the ρ<sup>1</sup> Cnc system using the Hobby-Eberly Telescope|journal=[[The Astrophysical Journal]]|volume=614|year=2004|pages=L81 &ndash; L84}}</ref> The same measurements were used to confirm the existence of the uncertain planet [[55 Cancri c]].
+
+55 Cancri e was one of the first extrasolar planets with a mass comparable to that of Neptune to be discovered. It was announced at the same time as another "hot Neptune" orbiting the [[red dwarf]] star [[Gliese 436]] named [[Gliese 436 b]].
+
+===Planet challenged===
+In 2005 the existence of planet e was questioned by [[Jack Wisdom]] in a reanalysis of the data.<ref>{{cite journal|url=http://swiss.csail.mit.edu/users/wisdom/planet.ps|format=[[PostScript]]|journal=[[The Astrophysical Journal]] Letters (submitted)|author=Wisdom, J.|title=Evidence of a Neptune-Sized Planet in the ρ<sup>1</sup> Cancri System|year=2005}}</ref> According to him, instead of the 2.8-day planet there is a planet with a mass similar to that of Neptune in a 261-day orbit around 55 Cancri A. In 2007, [[Debra Fisher]] and colleagues at [[San Francisco State University]] published a new analysis<ref>[http://www.sciam.com/article.cfm?chanID=sa003&articleID=16EEA019-E7F2-99DF-313BF41351A7B653&ref=rdf]</ref> indicating that ''both'' planets existed; the planet in the 260-day orbit was accordingly designated [[55 Cancri f]].
+
+==Orbit and mass==
+55 Cancri e is located in a very close orbit around the star which takes less than three days to complete and falls into the category of "hot Neptunes". The planet's orbit is fairly [[eccentricity (orbit)|eccentric]], a result of interactions with the nearby [[Jupiter]]-mass planet [[55 Cancri b]] which prevent [[tide|tidal forces]] from circularising the orbit.
+
+A limitation of the radial velocity method used to detect 55 Cancri e is that only a minimum mass can be obtained, in this case around 14.2 times that of Earth, or 80% of the mass of Neptune. [[Astrometry|Astrometric]] observations made with the [[Hubble Space Telescope]] suggest that the outer planet [[55 Cancri d]] is inclined at 53° with respect to the plane of the sky.<ref name="mcarthur" /> If these measurements are confirmed and the system is assumed to be [[coplanarity|coplanar]], the [[true mass]] of the planet would therefore be about 25% greater than this lower limit, at around 1 Neptune mass.
+
+==Characteristics==
+Since the planet has only been detected indirectly through its [[gravity|gravitational]] influence on 55 Cancri A, properties such as its [[radius]], composition and [[temperature]] are unknown. It is also unknown whether it is a small [[gas giant]] like Neptune or a large [[terrestrial planet]]. Large terrestrial planets may be formed from material compacted by the inward [[planetary migration|migration]] of the system's gas giants.<ref>{{cite journal|url=http://cdsads.u-strasbg.fr/cgi-bin/nph-bib_query?2005A%26A...441..791F&db_key=AST&nosetcookie=1|author=Fogg, M., Nelson, R.|title=Oligarchic and giant impact growth of terrestrial planets in the presence of gas giant planet migration|journal=[[Astronomy and Astrophysics]]|volume=441|issue=2|pages=791 &ndash; 806|year=2005}}</ref> Alternatively 55 Cancri e may be the [[planetary core|core]] of a gas giant pushed inwards before it had time to accumulate a significant gaseous envelope.<ref name="mcarthur" />
+
+It is considered unlikely that the planet is the evaporated remnant of a gas giant (a [[chthonian planet]]). The existence of transiting [[Jupiter|Jovian]] planets in short period orbits indicates that gas giants can survive for long timescales in the inner regions of a planetary system.<ref>{{cite journal|url=http://www.citebase.org/cgi-bin/citations?id=oai:arXiv.org:astro-ph/0404264|author=Bouchy, F. et al.|title=Two new "very hot Jupiters" among the OGLE transiting candidates|journal=[[Astronomy and Astrophysics]]|volume=421|year=2004|pages=L13 &ndash; L16}}</ref>
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==See also==
+* [[55 Cancri b]]
+* [[55 Cancri c]]
+* [[55 Cancri f]]
+* [[55 Cancri d]]
+* [[Mu Arae d]]
+
+== External links ==
+* [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=%2A+55+Cnc+e '''SIMBAD''': * 55 Cnc e - Extra-solar Planet Candidate]
+* [http://exoplanet.eu/planet.php?p1=55+Cnc&p2=e '''The Extrasolar Planets Encyclopaedia''': Notes for Planet 55 Cnc e]
+* [http://www.extrasolar.net/planettour.asp?StarCatId=normal&PlanetId=268 '''Extrasolar Visions''': 55 Cancri e]
+
+
+{{55 Cancri}}
+
+[[Category:Cancer constellation]]
+[[Category:Extrasolar planets]]
+
+[[de:55 Cancri e]]
+[[fr:55 Cancri e]]
+[[hr:55 Cancri e]]
+[[it:55 Cancri e]]
+[[pl:55 Cancri e]]

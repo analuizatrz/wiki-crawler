@@ -1,0 +1,24 @@
+In [[enzymology]], a '''maltose alpha-D-glucosyltransferase''' ({{EC number|5.4.99.16}}) is an [[enzyme]] that [[catalysis|catalyzes]] the [[chemical reaction]]
+
+:maltose <math>\rightleftharpoons</math> alpha,alpha-trehalose
+
+Hence, this enzyme has one [[substrate (biochemistry)|substrate]], [[maltose]], and one [[product (chemistry)|product]], [[alpha,alpha-trehalose]].
+
+This enzyme belongs to the family of [[isomerase]]s, specifically those intramolecular [[transferase]]s transferring other groups.  The systematic name of this enzyme class is '''maltose alpha-D-glucosylmutase'''. Other names in common use include '''trehalose synthase''', and '''maltose glucosylmutase'''.  This enzyme participates in [[starch and sucrose metabolism]].  
+
+==References==
+{{reflist|1}}
+{{Enzyme references|EC_number=5.4.99.16|IUBMB_EC_number=5/4/99/16}}
+* {{cite journal | author = Sugimoto T, Kurimoto M, Tsujisaka Y | date = 1995 | title = Existence of a novel enzyme converting maltose to trehalose | journal = Biosci. Biotechnol. Biochem.  | volume = 59 | pages = 2189&ndash;2190 }}
+* {{cite journal | author = Kurimoto M, Tsujisaka Y | date = 1996 | title = Purification and properties of a novel enzyme, trehalose synthase, from Pimelobacter sp. R48 | journal = Biosci. Biotechnol. Biochem.  | volume = 60 | pages = 640&ndash;4  | pmid = 8829531 }}
+
+==External links==
+{{Enzyme links|EC_number=5.4.99.16|IUBMB_EC_number=5/4/99/16}}
+
+===Gene Ontology (GO) codes===
+{{GO code links | GO_code=0047471 | name=maltose alpha-D-glucosyltransferase}}
+
+{{isomerase-stub}}
+
+[[Category:EC 5.4.99]]
+[[Category:Enzymes of unknown structure]]

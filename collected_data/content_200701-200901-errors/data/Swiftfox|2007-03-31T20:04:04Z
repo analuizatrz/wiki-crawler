@@ -1,0 +1,94 @@
+{{Infobox_Software |
+  name = Swiftfox |
+  logo = [[Image:Swiftfox.png]] <!-- FAIR USE of Swiftfox.png: see image description page at http://en.wikipedia.org/wiki/Image:Swiftfox.png for rationale --> |
+  <!-- screenshot = | -->
+  caption = Swiftfox |
+[http://upload.wikimedia.org/wikipedia/en/5/5f/Swi.png]
+  developer = Jason Halme |
+  latest_release_version = Based on Firefox 2.0.0.3 |
+  latest_release_date = [[Mar 20]], [[2007]] |
+  operating_system = [[Linux]] |
+  genre = [[Web browser]] |
+  license = binaries: [http://getswiftfox.com/source.htm proprietary]<br />source: [[Mozilla Public License|MPL 1.1]] |
+  website = [http://getswiftfox.com/ getswiftfox.com ] |
+}}
+{{Firefox TOC}}
+'''Swiftfox''' is a freely downloadable, [[open source]] [[graphical user interface|graphical]] [[web browser]]. Swiftfox is a [[Binary file|binary]] and settings optimized [[Software build|build]] of the [[Mozilla Firefox]] [[web browser]] for [[Linux]] made by Jason Halme. An optimized build is created for each of the supported [[Microprocessor|microprocessor architecture]]s. The current version of Firefox is available as well as the development versions. Firefox [[Extension (Mozilla)|extensions]] and [[plugins]] are fully compatible with Swiftfox.
+
+== Optimization ==
+
+Swiftfox is optimized using the following methods:
+
+'''Binary code optimization'''
+*Compiled with the highest level of compiler optimization, rather than optimization for binary size.
+** Swiftfox is compiled -O3,<ref>{{cite web | url=http://forums.getswiftfox.com/viewtopic.php?t=44 | title=Swiftfox Forum}}</ref><ref name=build20>Using url of ''about:buildconfig'' to check the details of the 2.0 builds</ref>
+**Firefox is compiled -Os<ref name=build20>Using url of ''about:buildconfig'' to check the details of the 2.0 builds</ref>(which is less than -O2 <ref name=gccopt>{{cite web | url=http://gcc.gnu.org/onlinedocs/gcc-4.1.1/gcc/Optimize-Options.html#Optimize-Options | title=Optimize Options - Using the GNU Compiler Collection (GCC)}}</ref>).
+*[[Binary file|Binaries]] incorporate additional [[instruction set]]s.<ref name=change20>{{cite web | url=http://getswiftfox.com/builds/mozilla_1_8_branch/changelog | title=Swiftfox 2.0pre changelog}}</ref>
+** [[Intel]] and [[AMD]]: [[SSE2]], [[SSE]], [[MMX]], (not generally [[SSE3]]<ref>{{cite web | url=http://forums.getswiftfox.com/viewtopic.php?t=11&highlight=sse3 | title=Swiftfox Forum}}</ref>).
+** [[AMD]] only: [[3DNow!]]
+*Optimization specific to the build microprocessor architecture.<ref name=change20>{{cite web | url=http://getswiftfox.com/builds/mozilla_1_8_branch/changelog | title=Swiftfox 2.0pre changelog}}</ref>
+** [[Intel]]: [[Pentium 4]], [[Pentium III|Pentium 3]], [[Pentium M]], [[Pentium III|Pentium 3M]], [[Pentium 2]], [[Pentium 4#Prescott|Prescott]], [[Celeron]] (various).
+** [[AMD64]]: [[Athlon64]] (32bit binary).
+** [[AMD]]: [[Athlon XP]] [[Duron]] [[Sempron]], [[Athlon]], [[K6-2]].
+*Compiled with newer version of [[GNU Compiler Collection|GCC]] (Firefox 2.0 uses 3.3.2, Swiftfox 2.0 uses 4.0.4).<ref name=build20>Using url of ''about:buildconfig'' to check the details of the 2.0 builds</ref>
+'''Increased Security'''
+*Better protection from buffer overflow attacks<ref name=fortify>{{cite web | url=http://www.redhat.com/magazine/009jul05/features/execshield/#checks | title=redhat.com | Limiting buffer overflows with ExecShield}}</ref> (Swiftfox 2.0 uses -D_FORTIFY_SOURCE=2; Firefox 2.0 uses gcc 3.x, which does not support this).<ref name=build20>Using url of ''about:buildconfig'' to check the details of the 2.0 builds</ref>
+'''Reduced binary size'''
+*[[Pango]] is not included.<ref>{{cite web | url=http://builder.com.com/5100-6375-5136890.html | title=Open Source Awards 2004: Pango}}</ref> This means that [[Unicode typefaces|Unicode fonts]] remain supported (see [[Unicode and HTML]]), but without certain extra features provided by [[Pango]].<ref name=pangoexample>{{cite web | url=http://www.pango.org/ScriptGallery | title=Script Gallery - Pango }}</ref>
+'''Changed default preference values'''
+*[[HTTP pipelining]] is enabled by default.<ref name=change15>{{cite web | url=http://getswiftfox.com/builds/releases/changelog | title=Swiftfox 1.5.0.7 changelog}}</ref><ref name=change20>{{cite web | url=http://getswiftfox.com/builds/mozilla_1_8_branch/changelog | title=Swiftfox 2.0pre changelog}}</ref> Note that [[Fasterfox]] provides a [[GUI]] to adjust these settings.
+*[[IPv6]] [[DNS]] lookups are disabled.<ref name=change15>{{cite web | url=http://getswiftfox.com/builds/releases/changelog | title=Swiftfox 1.5.0.7 changelog}}</ref><ref name=change20>{{cite web | url=http://getswiftfox.com/builds/mozilla_1_8_branch/changelog | title=Swiftfox 2.0pre changelog}}</ref>
+*For full details, see [http://getswiftfox.com/source/swiftfox-1.8branch.patch].
+
+==Speed==
+{{update}}
+{{unreliable}}
+Swiftfox has been evaluated in the context of the fastest browsers<ref name=benchswift>{{cite web | url=http://www.apcstart.com/node/3097 | title=APC Magazine: What's The Worlds Fastest Browser| accessdate = 2006-10-30}}</ref> (of pre- Firefox 2.0 versions). The name Swiftfox implies a faster browser than Firefox. No explicit claim of speed or speedup is made at the Swiftfox site, but simply that it is an "optimized build".
+
+===Firefox speed===
+Firefox has been criticised for slow startup compared with other browsers, a criticism confirmed by pre- Firefox 2.0 speed tests<ref>{{cite web | url = http://www.softpedia.com/reviews/windows/Mozilla-Firefox-Review-13677.shtml  | title = Mozilla Firefox Review | work = Softpedia | accessdate = 2006-10-30}}</ref><ref name=benchgeneral>{{cite web | url=http://www.howtocreate.co.uk/browserSpeed.html | title=Browser speed comparisons}}</ref>. A speed comparison of various Linux (and other) browsers has been done<ref name=benchgeneral>{{cite web | url=http://www.howtocreate.co.uk/browserSpeed.html | title=Browser speed comparisons}}</ref>. In this 32bit, pre- Firefox 2.0 test, Firefox was slower than both [[Opera (Internet suite)|Opera]] and [[Konqueror]]<ref name=benchgeneral><ref name=benchgeneral>{{cite web | url=http://www.howtocreate.co.uk/browserSpeed.html | title=Browser speed comparisons}}</ref>.
+
+===Swiftfox speed===
+No definitive speed comparison has been reported, but an unspecified faster startup time together with a 1.7% webpage rendering speedup has been reported<ref name=benchswift>{{cite web | url=http://www.apcstart.com/node/3097 | title=APC Magazine: What's The Worlds Fastest Browser| accessdate = 2006-10-30}}</ref>. The details of this test are a page rendering in 4.79 seconds for Firefox and 4.67 seconds for Swiftfox, both 32bit on 64bit system. There is a bigger speed advantage of Opera and Konqueror over Firefox<ref name=benchgeneral>{{cite web | url=http://www.howtocreate.co.uk/browserSpeed.html | title=Browser speed comparisons}}</ref><ref name=benchswift>{{cite web | url=http://www.apcstart.com/node/3097 | title=APC Magazine: What's The Worlds Fastest Browser| accessdate = 2006-10-30}}</ref>, than Swiftfox over Firefox<ref name=benchswift>{{cite web | url=http://www.apcstart.com/node/3097 | title=APC Magazine: What's The Worlds Fastest Browser| accessdate = 2006-10-30}}</ref>. There was no benchmarking on different processors, so builds optimized for different processors were not evaluated, nor discussed.
+
+==Additional options==
+Swiftfox is bundled with the following plugins and extensions, that are available for Firefox: 
+*[[XForms]] extension is installed and enabled
+*libunixprintplugin.so plugin is installed
+
+==Downloads available==  	 
+*Current version of Firefox:
+**Builds for both both [[Intel]] and [[AMD]] processors - a different build is available for each processor type.
+*Development versions of Firefox:
+**Builds for [[AMD]] [[Athlon XP]] processors and sometimes [[Intel]] [[Pentium 4]] (and compatible).
+
+== License ==
+Similar to Firefox, the Swiftfox source code is [[open source]], with the source code under [[Mozilla Public License|MPL 1.1]] except for parts relating to branding<ref name=license/>.
+Unlike Firefox, the Swiftfox binaries have a proprietary license<ref name=license>{{cite web | url=http://getswiftfox.com/LICENSE | title=Swiftfox license}}</ref> which does not allow redistribution. According to the author, this is to prevent the possibility of any confusion with tainted versions (see the branding argument below). But the name Swiftfox is trademarked by Jason Halme, and accordingly can not be used on other 3rd party Firefox builds without his permission.
+
+==Branding of 3rd party Firefox builds==
+All 3rd party Mozilla Firefox builds or versions must use the [[Mozilla Public License|MPL 1.1]]. Additionally, Mozilla uses trademark law to prevent 3rd party builds like Swiftfox and [[IceWeasel]] from using its name and logos<ref name=policy>{{cite web | url=http://www.mozilla.org/foundation/trademarks/policy.html | title=Mozilla trademark policy}}</ref>. The aim of this is to reduce confusion and increase brand recognition.
+
+== Alternatives ==
+* Firefox source code and Swiftfox changes are freely available for download, allowing anyone to create their own build.
+
+==References==
+<references/>
+
+== See also ==
+* [[Mozilla Firefox]]
+* [[Fasterfox]]
+
+==External links== 	 
+* [http://getswiftfox.com/ Swiftfox site]
+* [http://www.apcstart.com/node/3097 APC Magazine: "Fastest browser in the world" ]
+* [http://pykeylogger.sourceforge.net/wiki/index.php/Ubuntu:Chronicles#Install_Swiftfox Ubuntu site]
+* [http://madpenguin.org/cms/index.php/?m=show&id=7505 madpenguin.org ]
+* [http://www.linuxextremist.com/?p=100 linuxextremist]
+
+[[Category:POSIX web browsers]]
+[[Category:Mozilla Firefox]]
+
+[[cs:Swiftfox]]
+[[de:Swiftfox]]
+[[fr:Swiftfox]]

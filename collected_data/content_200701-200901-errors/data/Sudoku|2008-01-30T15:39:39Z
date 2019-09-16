@@ -1,0 +1,296 @@
+{{otheruses4|the logic puzzle|the disease|Sodoku}}
+
+[[Image:Sudoku-by-L2G-20050714.svg|thumb|right|250px|A sudoku puzzle...]]
+[[Image:Sudoku-by-L2G-20050714 solution.svg|right|thumb|250px|...and its solution numbers marked in red]]
+{{nihongo|'''''Sudoku'''''|数独|sūdoku}} ''{{Audio|Sudoku.ogg|listen}}'' is a [[logic]]-based number placement [[puzzle]]. The objective is to fill a 9×9 grid so that each column, each row, and each of the nine 3×3 boxes (also called blocks or regions) contains the digits from 1 to 9, only ''one'' time each (that is, exclusively). The puzzle setter provides a partially completed grid.
+
+Completed ''Sudoku'' puzzles are a type of [[Latin square]], with an additional constraint on the contents of individual regions. [[Leonhard Euler]] is sometimes incorrectly cited as the source of the puzzle, based on his work with Latin squares.<ref>{{cite web
+|url=http://arxiv.org/abs/math.CO/0408230
+|title=On magic squares
+|author=Leonhard Euler}}</ref>
+<!-- Incorrectly because Latin squares are not puzzles. -->
+
+The modern puzzle was invented by an American architect, [[Howard Garns]], in [[1979]] and published by [[Dell Magazines]] under the name "'''''Number Place'''''".<ref>{{cite web
+|url=http://www.maa.org/editorial/mathgames/mathgames_09_05_05.html
+|title=Sudoku Variations}}</ref>  It became popular in [[Japan]] in [[1986]], after it was published by [[Nikoli]] and given the name Sudoku, meaning ''single number''. <ref> {{Citation | title=Unwed Numbers | author=Brian Hayes | publisher=American Scientist | volume=94 | issue=1 | year=2006 | pages=pp. 12-15}} </ref> It became an international hit in [[2005]].
+
+==Introduction==
+The name ''Sudoku(数独)'' is short for "数字は独身に限る" which is read, "Sūji wa dokushin ni kagiru", meaning "the numbers must be single", or "the numbers must occur only once". <ref>{{cite web
+|url=http://www.sudoku-tips.com/about_sudoku.php
+|title=History of Sudoku: Roots and Development of Sudoku
+|accessdate=}}</ref><ref>{{cite web
+|url=http://www.conceptispuzzles.com/articles/sudoku/
+|title=The History of Sudoku
+|author=Gil Galanti
+|first=Gil
+|last=Galanti
+|accessdate=2006-10-06}}</ref><ref>{{cite web
+|url=http://www.saidwhat.co.uk/sudokus/sudokufaq.php
+|title=Sudoku FAQ
+|accessdate=2006-10-06}}</ref><ref>{{ja icon}} {{cite web
+|url=http://d.hatena.ne.jp/keyword/%BF%F4%C6%C8?kid=51918koujuggg
+|title=数独 
+|accessdate=2006-10-06}}</ref><ref>{{ja icon}} {{cite web
+|url=http://markun.cs.shinshu-u.ac.jp/kiso/students/21/kaneko/suudoku/index1.html
+|title=数独研究所
+|accessdate=2006-10-06}}</ref><ref>{{ja icon}} {{cite web
+|url=http://www.sourcenext.com/products/sudoku/
+|title=脳◎ 数字パズル
+|accessdate=2006-10-06}}</ref>. The name is a [[trademark]] of puzzle publisher [[Nikoli]] Co. Ltd. in [[Japan]]<ref name=trademark>{{cite web | url = http://www.nikoli.co.jp/en/puzzles/sudoku/index_text.htm | title = History of Sudoku in our site | accessmonthday = September 24 | accessyear = 2006 | author = Nikoli | work = Official Nikoli website}}</ref>. In [[Japanese language|Japanese]], the word is pronounced {{IPA2|sɯːdokɯ}}; in [[English language|English]], it is usually {{IPAEng|səˈdoʊkuː}}. Other Japanese publishers refer to the puzzle as ''Number Place'', the original U.S. title, or as "Nanpure"(ナンプレ) for short.<ref name="Garns">{{cite web | url = http://www.maa.org/editorial/mathgames/mathgames_09_05_05.html | title = Ed Pegg Jr.'s Math Games: Sudoku Variations | accessmonthday = October 3 | accessyear = 2006 | last = Pegg | first = Ed, Jr. | date = 2005-09-15 | work = MAA Online | publisher = The Mathematical Association of America }}</ref> Some publishers spell the title as "Su Doku".
+The numerals in ''Sudoku'' puzzles are used for convenience; arithmetic relationships between numerals are irrelevant. Any set of distinct symbols will do; letters, shapes, or colours may be used without altering the rules.  In fact, [[ESPN]] published Sudoku puzzles substituting the positions on a baseball field for the numbers 1 through 9; and [[Viz (comic)|Viz]] magazine published a [[Doctor Who]] version of the game, using images of the television series' first nine leading actors in place of the numerals. [[Dell Magazines]], the puzzle's originator, has been using numerals for ''Number Place'' in its magazines since they first published it in 1979.<ref name="Garns"/>
+
+== Strategies ==
+The strategy for solving a puzzle may be regarded as comprising a combination of three processes: scanning, marking up, and analyzing. The approach to analysis may vary according to the concepts and the representations on which it is based. 
+
+[[Image:Cross-hatching.svg|thumb|left|200px|The top right region must contain a 5. By hatching across and up from 5s elsewhere, the solver can eliminate all the empty cells in the region which cannot contain a 5. This leaves only one possibility (shaded green).]]
+
+=== Scanning ===
+Scanning is performed at the outset and throughout the solution. Scans need be performed only once between analyses. Scanning consists of two techniques:
+
+* '''Cross-hatching:''' The scanning of rows to identify which line in a region may contain a certain numeral by a process of elimination. The process is repeated with the columns. It is important to perform this process systematically, checking all of the digits 1&ndash;9. 
+* '''Counting 1&ndash;9 in regions, rows, and columns to identify missing numerals.''' Counting based upon the last numeral discovered may speed up the search. It also can be the case, particularly in tougher puzzles, that the best way to ascertain the value of a cell is to count in reverse&mdash;that is, by scanning the cell's region, row, and column for values it ''cannot'' be, in order to see what remains.
+
+Advanced solvers look for "contingencies" while scanning, narrowing a numeral's location within a row, column, or region to two or three cells.  When those cells lie within the same row ''and'' region, they can be used for elimination during cross-hatching and counting. Puzzles solved by scanning alone without requiring the detection of contingencies are classified as "easy"; more difficult puzzles are not readily solved by basic scanning alone. 
+
+Logically, every sudoku puzzle, regardless of difficulty, is solved via scanning heuristics. In a true sudoku puzzle, every number has a necessary position in each part of the grid which can be deduced from the description or if you prefer definition of what a "true" sudoku is. The only difference between solving advanced puzzles and simpler puzzles is not the techniques used to solve the puzzle but recognizing the logical implications of the scanning heuristic. One such implication would be recognizing logical "contingencies" which just basically means narrowing down the possibilities of a given square via the relations between every other square.    
+
+[[Image:Sudoku analysis dot notation.svg|thumb|right|A method for marking likely numerals in a single cell by the placing of pencil dots. To reduce the number of dots used in each cell, the marking would only be done after as many numbers as possible have been added to the puzzle by scanning. Dots are erased as their corresponding numerals are eliminated as candidates.]]
+
+[[Image:Sudoko-Row contingency.svg|thumb|right| The partially filled sub-square determines that 3,5, and 6 must go in the top row.  These create a contingency for the far right hatched cell based on the complete row across.  It must be a 4.]]
+
+=== Marking up ===
+Scanning stops when no further numerals can be discovered, making it necessary to engage in logical analysis. One method to guide the analysis is to mark candidate numerals in the blank cells.
+
+====Subscript notation====
+In subscript notation, the candidate numerals are written in subscript in the cells. Because puzzles printed in a newspaper are too small to accommodate more than a few subscript digits of normal handwriting, solvers may create a larger copy of the puzzle. Using two colours, or mixing pencil and pen marks can be helpful.
+
+====Dot notation====
+The dot notation uses a pattern of dots in each square, where the dot position indicates a number from 1 to 9. The dot notation can be used on the original puzzle. Dexterity is required in placing the dots, since misplaced dots or inadvertent marks inevitably lead to confusion and may not be easily erased. 
+
+An alternative technique is to mark the numerals that a cell ''cannot'' be. The cell  starts empty and as more constraints become known, it slowly fills until only one mark is missing. Assuming no mistakes are made and the marks can be overwritten with the value of a cell, there is no longer a need for any erasures.
+
+[[Image:Sudoku Analysis.gif|thumb|left|(click to see larger version) An analysis in Sudoku, done in superscript notation, with all possible values for the squares written in. There are three squares which contain only three values: 4, 6, and 8. If 4, 6, or 8 were written in any square where they're red, it would be impossible to complete the squares where they're blue. Therefore, the numbers in red can be erased. This logic works with rows, columns, sections, and diagonals. (if applicable)]]
+{{-}}
+
+===Analysis===
+The two main approaches to analysis are "candidate elimination"<ref name=candidate_elimination>{{cite web | url = http://www.sudoku-grok.com/help.jsp | title = Goals of Sukoku-Grok | accessmonth = October 1 | accessyear = 2006 | year = 2005}}</ref> and "what-if".<ref name=what_if>{{cite web | url = http://www.learninghaven.com/articles/play-sudoku.html | title = Play Sudoku | accessmonthday = October 1 | accessyear = 2006 | work = Online Learning Haven}}</ref>
+
+====Candidate elimination====
+In "candidate elimination", progress  is made by successively eliminating candidate numerals from cells to leave one choice.  After each answer has been achieved, another scan may be performed&mdash;usually checking to see the effect of the contingencies.  In general, if entering a particular numeral prevents completion of the other necessary placements, then the numeral in question can be eliminated as a candidate. 
+
+=====Doubles and triples=====
+One method works by identifying "matched cell groups".  For instance, if precisely two cells within a scope (a particular row, column, or region) contain the same two candidate numerals (''p'',''q''), or if precisely three cells within a scope contain the same three candidate numerals (''p'',''q'',''r''), these cells are said to be matched.  The placement of those candidate numerals anywhere else within that same scope would make a solution impossible; therefore, those candidate numerals can be deleted from all other cells in the scope.
+
+====What-if====
+In the "what-if" approach (also called "guess-and-check", "bifurcation", "[[backtracking]]" and "[[Ariadne's thread (logic)|Ariadne's thread]]"), a cell with two candidate numerals is selected, and a guess is made. The steps are repeated until a duplication is found or a cell is left without a possible candidate, in which case the alternative candidate must be the solution. For each cell's candidate, the question is posed: 'will entering a particular numeral prevent completion of the other placements of that numeral?' If the answer is 'yes', then that candidate can be eliminated. If the "what-if" exercises for both candidates show that either one is possible, another pair should be tried.  Alternatively, if the "what-if" exercises for both candidates imply an identical result, then that result must be true.  The what-if approach requires a pencil and eraser or a good layout memory.
+
+There are three kind of conflicts, which can appear during puzzle solving:
+
+#basic conflicts - there are only N-1 different candidates in N cell in the area
+#fish conflicts - when eliminating number from N rows/columns, it will disappear also from N+1 columns/rows.
+#unique conflicts - this pattern means multiple solutions, all numbers in the pattern exist exactly two times in every area, row and column. If there is only one candidate in the cell, any virtual candidate can be added.
+
+Encountering any of those would indicate that the puzzle is not uniquely solvable.  Encountering any of them as a consequence of "what-if" indicates that an untried alternative is correct.
+
+===Computer solutions===
+There are three general approaches taken in the creation of serious ''Sudoku''-solving programs: human solving methods, rapid-style methods, and pure brute-force algorithms. Human-style solvers will typically operate by maintaining a mark-up matrix, and search for contingencies, matched cells, and other elements that a human solver can utilize in order to determine and exclude cell values.
+
+Many rapid-style solvers employ [[backtracking]] searches, with various pruning techniques also being used in order to help reduce the size of the search tree. The term rapid-style may be misleading: Most human-style solvers run considerably faster than a rapid-style solver, although the latter takes less time to write and is more easily adapted to larger grids.  A purely brute-force algorithm is very simple and finds a solution to a puzzle essentially by "counting" upward until a string of eighty-one digits is constructed which satisfies the row, column, and box constraints of the puzzle. 
+
+Rapid solvers are preferred for trial-and-error puzzle-creation algorithms, which allow for testing large numbers of partial problems for validity in a short time; human-style solvers can be employed by hand-crafting puzzlesmiths for their ability to rate the difficulty of a created puzzle and show the actual solving process their target audience can be expected to follow.
+
+Although typical ''Sudoku'' puzzles (with 9×9 grid and 3×3 regions) can be solved quickly by computer,
+the generalization to larger grids is known to be ''[[NP-complete]]''. Various optimisation methods
+have been proposed for large grids.
+<!-- earlier text here was partially incorrect and otherwise information-free -->
+<!-- also, sudoku variants are first introduced later on this page -->
+
+Details of computer solutions may be found on the page on the [[Algorithmics of Sudoku]].
+
+==Difficulty ratings==
+The difficulty of a puzzle is based on the relevance and the positioning of the given numbers rather than their quantity. Surprisingly, most of the time the number of givens does not reflect a puzzle's difficulty. Computer solvers can estimate the difficulty for a human to find the solution, based on the complexity of the solving techniques required. Some online versions offer several difficulty levels.
+
+Most publications sort their ''Sudoku'' puzzles into four or five rating levels, although the actual cut-off points and the names of the levels themselves can vary widely.  Typically, however, the titles are synonyms of "easy", "intermediate", and "hard". (Extremely difficult puzzles are known as "diabolical" or "evil"). An easy puzzle can be solved using only scanning; an intermediate puzzle may take markup to solve; a hard puzzle will usually take analysis.
+
+Another approach is to rely on the experience of a group of human test solvers. Puzzles can be published with a median solving time rather than an algorithmically defined difficulty level.
+
+Difficulty is a very complex topic, subject to much debate on the Sudoku forums, because it may depend on the concepts and visual representations one is ready to use.
+
+==Construction==
+Building a ''Sudoku'' puzzle can be performed by predetermining the locations of the givens and assigning them values only as needed to make deductive progress. This technique gives the constructor greater control over the flow of puzzle solving, leading the solver along the same path the compiler used in building the puzzle. Great caution is required, however, as failing to recognize where a number can be logically deduced at any point in construction&mdash;regardless of how tortuous that logic may be&mdash;can result in an unsolvable puzzle when defining a future given contradicts what has already been built.  Building a ''Sudoku'' with symmetrical givens is a simple matter of placing the undefined givens in a symmetrical pattern to begin with.
+
+[[Nikoli]] ''Sudoku'' are hand-constructed, with the author being credited; the givens are always found in a symmetrical pattern.<ref>{{cite web | title = Rules and history of Sudoku from Nikoli | url = http://www.nikoli.co.jp/en/puzzles/sudoku/index_text.htm }}</ref> Dell ''Number Place Challenger'' (see Variants below) puzzles also list authors. The ''Sudoku'' puzzles printed in most UK newspapers are apparently computer-generated but employ symmetrical givens; ''The Guardian'' famously claimed that because they were hand-constructed, their puzzles would contain "imperceptible [[witticism]]s" that would be very unlikely in computer-generated ''Sudoku''.
+
+==Variants==
+
+[[Image:Nonomino Sudoku.svg|thumb|150px|A nonomino ''Sudoku'' puzzle, sometimes also known as a [[Jigsaw puzzle|Jigsaw]] Sudoku, for instance in the [[The Sunday Telegraph|Sunday Telegraph]]]]
+[[Image:Nonomino Sudoku solution.svg|thumb|150px|Solution numbers in red for above puzzle]]
+
+Even though the 9×9 grid with 3×3 regions is by far the most common, variations abound: sample puzzles can be 4×4 grids with 2×2 regions; 5×5 grids with [[pentomino]] regions have been published under the name ''Logi-5''; the [[World Puzzle Championship]] has previously featured a 6×6 grid with 2×3 regions and a 7×7 grid with six [[heptomino]] regions and a disjoint region. Larger grids are also possible. The ''Times'' offers a 12×12-grid ''Dodeka sudoku'' with 12 regions of 4×3 squares each. Dell regularly publishes 16×16 ''Number Place Challenger'' puzzles (the 16×16 variant often uses 1 through G rather than the 0 through F used in [[hexadecimal]]). Nikoli offers 25×25 ''Sudoku the Giant'' behemoths. 
+
+Another common variant is for additional restrictions to be enforced on the placement of numbers beyond the usual row, column, and region requirements.  Often the restriction takes the form of an extra "dimension"; the most common is for the numbers in the main diagonals of the grid to also be required to be unique.  The aforementioned ''Number Place Challenger'' puzzles are all of this variant, as are the ''Sudoku X'' puzzles in the ''[[Daily Mail]]'', which use 6×6 grids.  
+
+A variant named "Mini Sodoku" appears in the American national newspaper ''[[USA Today]]'', in which is played on a 6x6 grid with 3x2 regions. The object is the same as standard Sodoku, but the puzzle only uses the numbers 1 through 6.
+
+Another variant is the genuine combination of Sudoku with [[Kakuro]] on a 9 x 9 grid, called Cross Sums Sudoku, in which clues are given in terms of cross sums. The clues can also be given by cryptic [[alphametics]] in which each letter represents a single digit from 0 to 9. An excellent example is  NUMBER+NUMBER=KAKURO which has a unique solution 186925+186925=373850. Another example is SUDOKU=IS*FUNNY whose solution is 426972=34*12558. 
+
+[[Image:Oceans Hypersudoku18 Puzzle.svg|thumb|150px|[[Hypersudoku]] puzzle. As seen in [[The Age]] ]]
+[[Image:Oceans Hypersudoku18 Solution.svg|thumb|150px|Solution to [[Hypersudoku]] puzzle.]]
+Many newspapers include the popular [[Hypersudoku]] such as ''[[The Age]]''. The layout is identical to a normal Sudoku, but with additional interior areas defined in which the numbers 1 to 9 must appear. The solving algorithm is slightly different from the normal Sudoku puzzles because of the leverage on the overlapping squares. This overlap gives you more information to logically reduce the possibilities in the remaining squares. The approach to playing is still similar to sudoku but with possibly more emphasis on scanning the squares and overlap rather than columns and rows. 
+
+Puzzles constructed from multiple Sudoku grids are common.  Five 9×9 grids which overlap at the corner regions in the shape of a [[quincunx]] is known in Japan as Gattai 5 (five merged) Sudoku. In ''[[The Times]]'', ''[[The Age]]'' and ''[[The Sydney Morning Herald]]'' this form of puzzle is known as Samurai SuDoku. Puzzles with twenty or more overlapping grids are not uncommon in some Japanese publications.  Often, no givens are to be found in overlapping regions.  Sequential grids, as opposed to overlapping, are also published, with values in specific locations in grids needing to be transferred to others.
+
+Alphabetical variations have also emerged; there is no functional difference in the puzzle unless the letters spell something.  Some variants, such as in the ''[[TV Guide]]'', include a word reading along a main diagonal, row, or column once solved; determining the word in advance can be viewed as a solving aid.  
+
+There is also a Sudoku version of the [[Rubik's Cube]] named [[Sudokube]].
+
+A tabletop version of Sudoku can be played with a standard 81-card Set deck (see [[Set game]]).
+
+A three-dimensional ''Sudoku'' puzzle was invented by [[Dion Church]] and published in the ''[[Daily Telegraph]]'' in May 2005.
+
+The 2005 U.S. Puzzle Championship included a variant called ''Digital Number Place'': rather than givens, most cells contain a partial given—a segment of a number, with the numbers drawn as if part of a [[seven-segment display]]. This version has also appeared in [[GAMES magazine]].
+
+==Mathematics of Sudoku==
+:{{main|Mathematics of Sudoku}}
+
+A completed ''Sudoku'' grid is a special type of [[Latin square]] with the additional property of no repeated values in any 3×3 block.  
+
+The number of classic 9×9 ''Sudoku'' solution grids was shown in 2005 by Bertram Felgenhauer and Frazer Jarvis to be 6,670,903,752,021,072,936,960<ref name=Jarvis_2006-07-31>{{cite web | url = http://www.afjarvis.staff.shef.ac.uk/sudoku/ | title = Sudoku enumeration problems | accessmonthday = September 16 | accessyear = 2006 | last = Jarvis | first = Frazer | date = 2006-07-31 | work = Frazer Jarvis's home page}}</ref> {{OEIS|id=A107739}} : this is roughly 0.00012% the number of 9×9 Latin squares.  Various other grid sizes have also been enumerated—see the [[Mathematics of Sudoku#Enumeration results|main article]] for details.  The number of ''essentially different'' solutions, when [[symmetry|symmetries]] such as rotation, reflection and relabelling are taken into account, was shown by Ed Russell and Frazer Jarvis to be just 5,472,730,538<ref name=Jarvis_and_Russell>{{cite web | url = http://www.afjarvis.staff.shef.ac.uk/sudoku/sudgroup.html | title = There are 5472730538 essentially different Sudoku grids ... and the Sudoku symmetry group | accessmonthday = September 16 | accessyear = 2006 | last = Jarvis | first = Frazer | coauthors = Ed Russell | date = 2005-09-07 | work = Frazer Jarvis's home page}}</ref> {{OEIS|id=A109741}}.   
+
+The maximum number of givens provided while still not rendering a unique solution is four short of a full grid; if two instances of two numbers each are missing and the cells they are to occupy form the corners of an orthogonal rectangle, and exactly two of these cells are within one region, there are two ways the numbers can be assigned.  Since this applies to Latin squares in general, most variants of ''Sudoku'' have the same maximum.  The inverse problem—the fewest givens that render a solution unique—is [[unsolved problems in mathematics|unsolved]], although the lowest number yet found for the standard variation without a symmetry constraint is 17, a number of which have been found by Japanese puzzle enthusiasts,<ref name=seventeen1>{{cite web | url = http://www2.ic-net.or.jp/~takaken/auto/guest/bbs46.html | title = プログラミングパズルに関心のある人は雑談しましょう | accessmonthday = September 16 | accessyear = 2006 | work = プログラミングパズル雑談コーナー / Programming Puzzle Idle Talk Corner | language = Japanese }}</ref><ref name=seventeen2>{{cite web | url = http://www.csse.uwa.edu.au/~gordon/sudokumin.php | title = Minimum Sudoku | accessmonthday = September 16 | accessyear = 2006 | last = Royle | first = Gordon }}</ref> and 18 with the givens in rotationally symmetric cells.  Over 47,000 examples of Sudokus with 17 givens resulting in a unique solution are known.
+
+==History==
+[[Image:Sudoku.jpg|thumb|200px|right|Page from ''La France'' newspaper, July 6, 1895]]   
+
+Number puzzles first appeared in newspapers in the late 19th century, when French puzzle setters began experimenting with removing numbers from [[magic squares]]. ''Le Siècle'', a Paris-based daily, published a partially completed 9×9 magic square with 3×3 sub-squares in 1892.<ref name=La_Siècle_1892>{{cite journal | last = Boyer | first = Christian | year = 2006 | month = May | title = Supplément de l’article « Les ancêtres français du sudoku » | journal = Pour la Science | pages = 1-6 | url = http://www.pourlascience.com/complement/pdf/Suppl%20Ancetres%20Sudoku.pdf | format = PDF | accessdate = 2006-09-16}}</ref>  It was not a Sudoku because it contained double-digit numbers and required arithmetic rather than logic to solve, but it shared key characteristics: each row, column and sub-square added up to the same number.
+
+Within three years ''Le Siècle's'' rival, ''La France'', refined the puzzle so that it was almost a modern Sudoku. It simplified the 9×9 magic square puzzle so that each row and column contained only the numbers 1–9, but did not mark the sub-squares. Although they are unmarked, each 3×3 sub-square does indeed comprise the numbers 1–9. However, the puzzle cannot be considered the first Sudoku because, under modern rules, it has two solutions. The puzzle setter ensured a unique solution by requiring 1–9 to appear in both diagonals.
+
+These weekly puzzles were a feature of newspaper titles including ''L'Echo de Paris'' for about a decade but disappeared about the time of the [[First World War]].<ref name=L'Echo_de_Paris>{{cite news | first = Jack | last = Malvern | title = Les fiendish French beat us to Su Doku | url = http://www.timesonline.co.uk/article/0,,2-2208881,00.html | work = Times Online | date = 2006-06-03 | accessdate = 2006-09-16}}</ref>   
+
+According to [[Will Shortz]], the modern Sudoku was most likely designed anonymously by [[Howard Garns]], a 74-year-old retired architect and freelance puzzle constructor from [[Indiana]], and first published in 1979 by [[Dell Magazines]] as ''Number Place'' (the earliest known examples of modern Sudoku). Garns's name was always present on the list of contributors in issues of ''Dell Pencil Puzzles and Word Games'' that included ''Number Place'', and was always absent from issues that did not.<ref name="Garns"/> He died in 1989 before getting a chance to see his creation as a worldwide phenomenon.<ref name="Garns"/> It is unclear if Garns was familiar with any of the French newspapers listed above.
+    
+The puzzle was introduced in Japan by [[Nikoli]] in the paper ''Monthly Nikolist'' in April 1984<ref name="Garns"/> as {{nihongo|''Suuji wa dokushin ni kagiru''|数字は独身に限る|}}, which can be translated as "the digits must be single" or "the digits are limited to one occurrence." At a later date, the name was abbreviated to ''Sudoku'' by {{nihongo|[[Maki Kaji]]|鍜治 真起|Kaji Maki}}, taking only the first [[kanji]] of compound words to form a shorter version.<ref name="Garns"/> In 1986, Nikoli introduced two innovations: the number of givens was restricted to no more than 32, and puzzles became "symmetrical" (meaning the givens were distributed in rotationally symmetric cells).<ref name=trademark/> It is now published in mainstream Japanese periodicals, such as the ''[[Asahi Shimbun]]''. 
+
+===Popularity in the media===
+
+<!--Please discuss any addition to this section on the talk page before adding it.-->
+In 1997, retired [[Hong Kong]] judge [[Wayne Gould]], 59, a [[New Zealand]]er, saw a partly completed puzzle in a Japanese bookshop. Over six years he developed a computer program to produce puzzles quickly.<ref>{{cite web | title = Wayne Gould's sudoku.com website | url = http://www.sudoku.com | accessmonthday = October 3 | accessyear = 2006}}</ref> Knowing that British newspapers have a long history of publishing [[crossword]]s and other puzzles, he promoted ''Sudoku'' to ''[[The Times]]'' in Britain, which launched it on [[12 November]] [[2004]] (calling it ''Su Doku'').
+
+The rapid rise of ''Sudoku'' in Britain from relative obscurity to a front-page feature in national newspapers attracted commentary in the media and parody (such as when ''The Guardian'''s ''G2'' section advertised itself as the first newspaper supplement with a ''Sudoku'' grid on every page<ref name=G2>{{cite news | title = G2, home of the discerning Sudoku addict | url = http://www.guardian.co.uk/g2/story/0,,1482817,00.html | work = The Guardian | publisher = Guardian Newspapers Limited | date = 2005-05-13 | accessdate = 2006-09-16}}</ref>). Recognizing the different psychological appeals of easy and difficult puzzles, ''The Times'' introduced both side by side on [[20 June]] [[2005]]. From July 2005, [[Channel 4]] included a daily ''Sudoku'' game in their [[Teletext]] service. On [[2 August]], the BBC's programme guide ''[[Radio Times]]'' featured a weekly Super Sudoku.
+
+Even the Greeks owe the publication of their first Sudoku magazine to British influence. It was at Heathrow airport in the summer of 2005 that a [[Compupress|Greek computer magazine]] publisher first laid eyes on a British Sudoku magazine and - realising the opportunity - proceeded to purchase the necessary software and quickly launch the first local Sudoku magazine that became an instant success.
+
+In the United States, the first newspaper to publish a Sudoku puzzle by Wayne Gould was [[The Conway Daily Sun]] (New Hampshire), in 2004.<ref>''New York Times'' corrections column, [[April 2]], 2007, p. A2</ref>
+ 
+[[Image:SudokuLive2.jpg|thumb|250px|The world's first live TV ''Sudoku'' show, [[1 July]] [[2005]], Sky One.]]   
+    
+The world's first live TV ''Sudoku'' show, ''Sudoku Live'', was a [[puzzle contest]] first broadcast on [[1 July]] [[2005]] on [[Sky One]]. It was presented by [[Carol Vorderman]]. Nine teams of nine players (with one celebrity in each team) representing geographical regions competed to solve a puzzle. Each player had a hand-held device for entering numbers corresponding to answers for four cells. Phil Kollin of Winchelsea, England was the series grand prize winner taking home over £23,000 over a series of games. The audience at home was in a separate interactive competition, which was won by Hannah Withey of Cheshire.
+
+Later in 2005, the [[BBC]] launched [[SUDO-Q]], a [[game show]] that combines Sudoku with general knowledge.  However, it uses only 4x4 and 6x6 puzzles.
+
+Sudoku software is now also very popular on PCs, websites, and mobile phones. It comes with many distributions of Linux. It has also been released on portable video game handhelds such as the [[Nintendo DS]], [[PlayStation Portable]], the [[Game Boy Advance]], and even on several [[iPod]] models. One of the most popular video games featuring Sudoku is ''[[Brain Age: Train Your Brain in Minutes a Day!]]''. Critically and commercially well received, it generated particular praise for its Sudoku implementation[http://www.gamerankings.com/htmlpages2/931667.asp][http://www.gamespot.com/ds/puzzle/brainagetrainyourbraininminutesaday/review.html][http://ds.ign.com/articles/702/702057p1.html] and sold more than 8 million copies worldwide.[http://www.gamespot.com/news/6160557.html]
+
+==Competitions==   
+* The first world championship was held in [[Lucca]], [[Italy]] from 10 to 12 March 2006.<ref name=first_world_championship>{{cite news | title = Sudoku title for Czech accountant | url = http://news.bbc.co.uk/1/hi/world/europe/4797540.stm | format = Free | work = BBC NEWS | date = 2006-03-11 | accessdate = 2006-09-11}}</ref> The competition included numerous variants.<ref>{{cite web | title = World Sudoku Championship 2006 Instructions Booklet | url = http://news.bbc.co.uk/2/shared/bsp/hi/pdfs/10_03_06_sudoku.pdf | format = PDF}}</ref>
+* The second world championship was held in [[Prague]] from March 28 to April 1, 2007. <ref name=second_world_championship>{{cite news | title = Report on the 8th General Assembly of the World Puzzle Federation | url = http://www.worldpuzzle.org/championships/2006/report.html | format = Free | work = WPF | date = 2006-10-30 | accessdate = 2006-11-15}}</ref> 
+*Hosted by renowned puzzle master Will Shortz, ''[[The Philadelphia Inquirer]] Sudoku National Championship'' was the first U.S. Sudoku Championship. The winner received $10,000 and a spot on the U.S. National Sudoku Team, which will compete in the 2008 World Sudoku Championship in India.<ref name=Philadelphia_Inquirer_Sudoku_National_Championship_results>{{cite news | title = Thomas Snyder, World Sudoku champion | url = http://www.philly.com/philly/comics_games/sudoku/Thomas_Snyder__World_Sudoku_champion.html | format = Free | work = Philadelphia Inquirer | date = 2007-10-21 | accessdate = 2007-10-21}}</ref>
+
+==See also==
+<div style="-moz-column-count:2; column-count:2;"> 
+*[[Mathematics of Sudoku]]
+*[[Algorithmics of sudoku| Algorithmics of Sudoku]]
+*[[List of Sudoku terms and jargon]]
+*[[Killer sudoku]]
+*[[Sudokube]] (3D variant)
+*[[Latin square]]
+*[[Logic puzzle]]
+*[[List of Nikoli puzzle types]]
+*[[Kakuro]]
+*[[Nonogram]] (aka Paint by numbers, O'ekaki)
+*[[Futoshiki]]
+</div>
+
+==References==
+<!-- NB: References are *not* the same thing as external links; they are resources used to write, or useful in verifying, the article's content -->
+<div class="references-2column"><references /></div>
+
+== External links ==
+* {{dmoz|Games/Puzzles/Brain_Teasers/Sudoku/|''Sudoku''}} &ndash; An active listing of ''Sudoku'' links.
+*[http://news.bbc.co.uk/2/hi/asia-pacific/6745433.stm Father of Sudoku puzzles next move] [[BBC]]
+
+<!--===========================({{NoMoreLinks}})===============================-->
+<!--| DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |-->
+<!--| LINKS. If you think that your link might be useful, do not add it here, |-->
+<!--| but put it on this article's discussion page first or submit your link  |-->
+<!--| to the appropriate category at the Open Directory Project (www.dmoz.org)|-->
+<!--| and link back to that category using the {{dmoz}} template.             |-->
+<!--|                                                                         |-->
+<!--|           Links that have not been verified WILL BE DELETED.            |-->
+<!--|  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details    |-->
+<!--===========================({{NoMoreLinks}})===============================-->
+
+[[Category:English words and phrases of foreign origin]]
+[[Category:Puzzle video games]]
+[[Category:Sudoku| ]]
+[[Category:IPod games]]
+[[Category:Mathematics and culture]]
+[[Category:Logic puzzles]]
+
+[[af:Sudoku]]
+[[ar:سودوكو]]
+[[ast:Sudoku]]
+[[zh-min-nan:Sò͘-to̍k]]
+[[br:Sudoku]]
+[[bg:Судоку]]
+[[ca:Sudoku]]
+[[cs:Sudoku]]
+[[da:Sudoku]]
+[[de:Sudoku]]
+[[et:Sudoku]]
+[[el:Σουντόκου]]
+[[es:Sudoku]]
+[[eo:Sudoko]]
+[[eu:Sudoku]]
+[[fa:سودوکو]]
+[[fr:Sudoku]]
+[[fy:Sudoku]]
+[[ga:Sūdoku]]
+[[gl:Sudoku]]
+[[ko:스도쿠]]
+[[hi:सु डोकु]]
+[[hr:Sudoku]]
+[[io:Sudoku]]
+[[id:Sudoku]]
+[[ia:Sudoku]]
+[[it:Sudoku]]
+[[he:סודוקו]]
+[[lb:Sudoku-Spill]]
+[[lt:Sudoku]]
+[[hu:Szúdoku]]
+[[ml:സുഡോക്കു]]
+[[mr:सुडोकू]]
+[[ms:Sudoku]]
+[[nl:Sudoku]]
+[[ja:数独]]
+[[no:Sudoku]]
+[[nn:Sudoku]]
+[[nds:Sudoku]]
+[[pl:Sudoku]]
+[[pt:Sudoku]]
+[[ro:Sudoku]]
+[[ru:Судоку]]
+[[simple:Sudoku]]
+[[sk:Sudoku]]
+[[sl:Sudoku]]
+[[sr:Судоку]]
+[[fi:Sudoku]]
+[[sv:Sudoku]]
+[[ta:சுடோக்கு]]
+[[te:సుడోకు]]
+[[th:ซูโดะกุ]]
+[[vi:Sudoku]]
+[[tr:Sudoku]]
+[[uk:Судоку]]
+[[yi:סודאקו]]
+[[zh:數獨]]

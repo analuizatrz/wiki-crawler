@@ -1,0 +1,157 @@
+{{Infobox_Game|
+  subject_name=Bughouse Chess|
+  image_link=|
+  image_caption=|
+  players=4 |
+  ages=10 years old or older recommended|
+  setup_time= 1 minute|
+  playing_time= Usually 6-10 minutes |
+  complexity=Medium |
+  strategy=High |
+  random_chance=None|
+  skills=[[Chess strategy]], [[Blitz chess]] |
+  footnotes= |
+}}
+'''Bughouse Chess''' (also called sometimes '''Exchange Chess''', '''Tag Team Chess''', '''Double Chess''', '''Siamese Chess''', '''Double Bug''', '''Tandem Chess''', '''Transfer Chess''', or simply '''[[Bughouse]]''') is a [[chess variant]] played with two teams of two people with two chess boards playing in collaboration against each other.  It is far more complex than normal chess.  It seems to have developed independently in numerous places at numerous times.
+
+== The Rules ==
+
+{{bughouse chess diagram
+| A1=Team 1, Board A 
+| A2=Team 2, Board A 
+| B1=Team 1, Board B 
+| B2=Team 2, Board B
+| tright
+|
+|=
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|pd|pd|pd|=
+ 6 |  |  |  |  |  |  |  |  |=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|pl|pl|pl|pl|pl|=
+ 1 |rl|nl|bl|ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+ 8 |rl|nl|bl|kl|ql|bl|nl|rl|=
+ 7 |pl|pl|pl|pl|pl|pl|pl|pl|=
+ 6 |  |  |  |  |  |  |  |  |=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pd|pd|pd|pd|pd|pd|pd|pd|=
+ 1 |rd|nd|bd|kd|qd|bd|nd|rd|=
+    a  b  c  d  e  f  g  h
+
+| '''Bughouse setup and start position'''}}
+
+Bughouse is a [[chess variant]] played on two [[chessboard]]s by four players in teams of two. Each team member plays one opponent of the other team. Partners sit next to each other and one player plays black, while the other plays white. Each player plays his opponent as in a standard [[chess]] game, with the exception of the rules specified below.<ref>It should be noted though that bughouse has many variations and that there is no international standard. The rules below are in accordance with the [http://www.uschess.org/tournaments/2006/2006bughouse.pdf US chess federation], the rules as applied on the chess servers [[FICS]] and [[ICC]] and the [http://bughouse.info Berlin bughouse tournament]. In the case rules contradict, alternatives are listed. </ref>
+
+===Captured Pieces===
+
+A player capturing a piece passes that piece to his team-mate. The team-mate keeps these pieces in reserve but may at any time, instead of playing a regular move, drop one of these pieces on the board (as in [[shogi]] and [[crazyhouse]]). Pieces in reserve may be dropped on any vacant square, the exception being pawns which may not be dropped on the first and last rank. Dropped pawns may promote, but convert back to pawns when captured. A dropped piece is considered a piece that has not been moved. Therefore a pawn placed on the second rank may move two squares on its first move. Equally, a dropped rook can be used for [[castling]] provided that the other requirements for castling are met. The reserve or stock should be kept in front of the board, at any time visible to all players of the game.
+
+===The clock and completion of a move===
+
+Bughouse chess is usually played with [[chess clock]]s to prevent players from waiting indefinitely 
+for a piece. Clocks are placed on the outside so that each player can see both clocks. At the 
+start of the game, the players with the black pieces start the clocks simultaneously.
+Bughouse is usually played using clock move, that is, a move is only completed when the clocked 
+is pressed. Touch move (see [[chess terminology]]) is practised to a lesser extent.<ref>See for example the [http://pion.ch/Bug/ruleseng.html rules of the Geneva bughouse tournament]</ref> When used it applies to pieces in reserve as well, they are considered dropped after contact has been made with an empty square.
+
+Bughouse can be played unclocked, but then there is usually a rule preventing a player waiting for pieces (stalling or sitting) indefinitely. One rule<ref name=cvv> [http://www.chessvariants.com/multiplayer.dir/tandem.html Bughouse on Chessvariants] </ref> states that a player may not delay his move beyond the time that it takes for his partner to make three moves. An alternative rule in practice<ref>Played at the [[King Edward VI Five Ways School]] in Birmingham, England</ref> is that if a player is deemed to be taking too long, or waiting indefinitely, his opponent can declare "Stalling", and then count from one to ten in approximately one-second increments. When the player gets to ten, he may remove a piece of least value from his opponents board, and resume counting from one. If you have a mate-in-one, to prevent deliberate time wasting, you can declare "Death Count" and count to ten in the same way as stalling. 
+
+===End of the game===
+
+The match ends when either of the games on the two boards ends. The match is won if one player
+gets checkmated, resigns or forfeits on time. The game also ends when an illegal move
+is made in which the offending side is caught. The match can be drawn by agreement or when  
+two players run out of time. Depending on (local) rules also [[Three-fold repetition]]
+applies, in which case the reserve of pieces is not taken into account.<ref>For instance the Three-fold repetition applies on [[FICS]] but not on [[ICC]]</ref>
+
+Alternatively<ref name=cvv> </ref> when one board finishes, play can continue on the other board. In this case, pieces in reserve can still be dropped, but no new pieces are coming in. The outcome of the match is then decided by adding the score of the two boards.
+
+===Communication===
+
+Partners are normally allowed to talk to each other during the game. They can for instance ask for a specific piece or for more trades, ask to hold a piece, suggest moves or ask their partner to stall. Shouts like "Gimme a knight, it mates!" are common, and can lead to seemingly absurd sacrificial captures on the other board. It is however not allowed to physically act on your partners board. 
+
+== Variations ==
+
+=== Tandem chess ===
+
+In Tandem Chess, one cannot place pieces to check or to mate, nor can one place pawns on one's 1st, 7th or 8th ranks. Also, the match continues until both games are completed.
+
+=== Transfer chess ===
+
+In Transfer chess, a piece added to the board can not be used to block or make check, it can be placed in any empty square on your half of the board. The objective of the game is to capture and hold all the kings. The game is won when one team has all four kings on the board, the treasure chest (slang for the pieces you have been given from the other game) may not have two kings in it at any time (between teams).
+
+=== Siamese chess ===
+
+Bughouse can be played by two players in the following arrangement. Player A assumes a team and player B the other; A begins by moving a white piece, B replies by moving a black piece followed by a white piece, A replies by moving a white piece followed by a black piece, etc. This variation is suitable to play [[correspondence chess|by mail]]. A different arrangement is to play the moves counter-clockwise, as described below.
+
+This arrangement can also work with more than two players, i.e. three players on three boards or five players on five boards, moving counter-clockwise (assuming the board with the white pieces is on the player's right hand.) Every player plays on two boards (moving black first, then white) pieces captured from one board can be dropped on the other. Once all games are done the player with the most points win.
+
+== Where to play ==
+
+Today there are Bughouse tournaments sponsored by major chess organizations, but most Bughouse games occur during regular chess events. Bughouse can be played online at [[chess server]]s such as [[FICS]] and the [[Internet_Chess_Club|Internet Chess Club]].
+
+It is popular at Birmingham Checkmate, a club founded by former British Grandmaster [[Mike Fox]], in [[Quinton]], [[Birmingham]].
+
+== Tournaments ==
+* One of the largest bughouse tournaments is the yearly tournament in Berlin [http://www.bughouse.info]. Going into its sixth edition, it is popular amongst top players from [[FICS]]. Grandmaster [[Levon Aronian]] took part in the 2005 edition of the tournament and took the second place with his teammate Vasiliy Shakov [http://www.berlinerschachverband.de/archiv/chronik/2005/tandem/]. 
+* The yearly international chess festival Czech Open in July  also features a bughouse tournament [http://www.czechopen.net/].
+* There is a House Exchange competition played at [[King Edward VI Five Ways School]] in [[Birmingham]], [[England]], with a slightly different format. Each house has a team of 4, and two of the four are selected for the opening game. The game is played as above, but when a player loses, he is out for the remainder of the match. The third player on his team is substituted in, and both boards are reset. The game continues in the same way, until eventually a house can no longer field a team due to not having anyone left to take place. I.e. in a four player team, three games need to be won. It uses the time variations explained below.
+
+== See also ==
+* [[Crazyhouse]]
+
+==Notes==
+<references/>
+
+==References==
+*{{Harvard reference
+ | surname1=Manson Jr.
+ | given1=John F.
+ | surname2=Hoover
+ | given2=Todd
+ | title=Siamese Chess. How To Play...How to Win!
+ | year=1992
+ | publisher=Farnsworth Enterprises
+ | id=ASIN B0006PFGZS
+}}
+*{{Harvard reference
+ | surname1=Penn
+ | given1=David A.
+ | surname2=Dizon
+ | given2=Rommel
+ | title=Comprehensive Bughouse Chess
+ | year=1998
+ | publisher=Graham Cracker Studios
+ | isbn=0-966-98060-3
+}}
+*{{Harvard reference
+ | editor-last=von Zimmerman
+ | editor-first=Georg
+ | title=Bughouse Chess
+ | year=2006
+ | publisher=Books on Demand GmbH
+ | isbn=3-833-46811-4
+ | url=http://www.bughouse-book.com/
+}}
+
+==External links==
+* [http://www.chessvariants.org/multiplayer.dir/tandem.html Bughouse on the ChessVariants pages]
+* [http://personal.atl.bellsouth.net/f/e/ferrantc/chess/index.html Errant Fischer's Bughouse Page]
+* [http://www.bughouse.info Bughouse | News In Europe]
+* [http://www.thebugboard.net/ The Bug Board]
+* [http://www.nonvi.com/chess_articles.html Bughouse Articles]
+* [http://www.bughouse-db.org/ Jamesbaud's bughouse database]
+* [http://www.bughouse.be/ Bughouse game database]
+* [http://www.netblitzchess.com/ NetBlitz 2.0] (free bughouse game)
+* [http://bughousechess.wz.cz/ Bughouse in Czech Republic, official rules and DoubleChessBoard]
+[[Category:Chess variants]]
+
+[[de:Tandemschach]]
+[[pl:Kloc]]
+[[ru:Шведские шахматы]]

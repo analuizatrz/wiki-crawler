@@ -1,0 +1,420 @@
+{{Infobox OS version
+| name                = Windows XP
+| family              = Microsoft Windows
+| logo                = Microsoft Windows XP Logo.svg
+| screenshot          = Windows XP SP3.png<!-- Do not change unless you have read "Wikipedia:Software screenshots"! -->
+| caption             = Screenshot of Windows XP
+| developer           = Microsoft
+| website             = [http://www.microsoft.com/windows/products/windowsxp/ Windows XP: Homepage]
+| first_release_date  = [[October 25]], [[2001]]
+| first_release_url   = http://www.microsoft.com/presspass/press/2001/aug01/08-24WinXPRTMPR.mspx
+| release_version     = 5.1.2600.5512 Service Pack 3 (x86 SP3)
+| release_date        = {{release date|2008|4|21}}
+| release_url         = http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=3214173&SiteID=17
+| source_model        = [[Closed source]], [[Shared source]]
+| license             = [[Microsoft|MS]]-[[EULA]]
+| supported_platforms = [[X86 architecture|x86]], [[x86-64]], [[IA-64]]
+| kernel_type         = [[Hybrid kernel]]
+| support_status      = Mainstream support (only with Service Pack 2 and 3)<ref name="lifecycle">{{cite web | title="Windows Life-Cycle Policy" | publisher=Microsoft | url=http://www.microsoft.com/windows/lifecycle/default.mspx | accessdate=2007-06-19}}</ref>
+| other_articles      = <ul><li>[[Windows XP editions]]<li>[[Features new to Windows XP]]<li>[[Development of Windows XP]]<li>[[Criticism of Windows XP]]</ul>
+}}
+'''Windows XP''' is a family of [[32-bit]] and [[64-bit]] [[operating system]]s produced by [[Microsoft]] for use on [[personal computer]]s, including home and business desktops, [[laptop|notebook computers]], and [[media center]]s. The name "XP" stands for ''e'''XP'''erience''.<ref name="xppr">{{cite web
+|url=http://www.microsoft.com/presspass/press/2001/feb01/02-05namingpr.mspx
+|title=Microsoft Announces Windows XP and Office XP
+|year=[[February 5]], [[2001]]
+|accessdate=2006-05-13
+|work=Microsoft PressPass
+|publisher=Microsoft
+}}</ref> Windows XP is the successor to both [[Windows 2000|Windows 2000 Professional]] and [[Windows Me]], and is the first consumer-oriented operating system produced by Microsoft to be built on the [[Windows NT]] [[Kernel (computer science)|kernel]] (version 5.1) and [[Architecture of the Windows NT operating system line|architecture]]. Windows XP was first released on [[October 25]], [[2001]], and over 400 million copies were in use in January 2006, according to an estimate in that month by an [[International Data Corporation|IDC]] analyst.<ref name="idc">{{cite web
+|url=http://www.itworld.com/Comp/4063/060118xpsp3/pfindex.html
+|title=Analyst: No effect from tardy XP service pack
+|year=[[January 18]], [[2006]]
+|author=Jeremy Kirk
+|publisher=ITworld.com
+}}</ref> It is succeeded by [[Windows Vista]], which was released to volume license customers on [[November 8]], [[2006]], and worldwide to the general public on [[January 30]], [[2007]]. Direct OEM and retail sales of Windows XP ceased on [[June 30]], [[2008]], although it is still possible to obtain Windows XP from [[Custom built PC|System Builders]] <ref> [http://www.crn.com/article/printableArticle.jhtml?articleId=199001306 System Builders Can Buy Windows XP Until January '09] </ref> (smaller OEMs who sell assembled computers) until [[January 31]], [[2009]] or by purchasing Windows Vista Ultimate or Business and then [[downgrade|downgrading]] to Windows XP.<ref>{{Cite web|url=http://tech.yahoo.com/blogs/null/96295|title=No extension: Windows XP D-Day arrives Monday, June 30|author=Christopher Null|publisher=[[Yahoo!]]|date=2008-06-25|accessdate=2008-06-28}}</ref><ref>{{cite web|url=http://www.chicagotribune.com/business/sns-ap-microsoft-xp,0,4872813.story|title=Microsoft to stop selling Windows XP on Monday| publisher=Associated Press|date=2008-06-29|accessdate=2008-06-30}}</ref>
+
+The most common editions of the operating system are Windows XP Home Edition, which is targeted at home users, and Windows XP Professional, which offers additional features such as support for [[Windows Server domain]]s and [[Symmetric multiprocessing|two physical processors]], and is targeted at power users, business and enterprise clients. [[Windows XP Media Center Edition]] has additional multimedia features enhancing the ability to record and watch TV shows, view DVD movies, and listen to music. [[Windows XP Tablet PC Edition]] is designed to run ink-aware applications built using the [[Tablet PC]] platform. Two separate [[64-bit]] versions of Windows XP were also released, [[Windows XP 64-bit Edition]] for [[IA-64]] ([[Itanium]]) processors and [[Windows XP Professional x64 Edition]] for [[x86-64]]. There is also [[Windows XP Embedded]], a componentized version of the Windows XP Professional, and editions for specific markets such as Windows XP Starter Edition.
+
+Windows XP is known for its improved stability and efficiency over the [[Windows 9x|9x]] versions of [[Microsoft Windows]].<ref>{{Cite web|url=http://review.zdnet.com/4520-6033_16-4206552.html|title=The 10 top things you MUST know about Win XP|author=David Coursey|publisher=[[CNET Networks|CNet.com]]|date=2001-10-25|accessdate=2008-07-22}}</ref><ref>{{Cite web|url=http://helpdesk.princeton.edu/kb/display.plx?ID=9672|title=A Brief History and Introduction to Windows|publisher=[[Princeton University]]|date=2004-07-22|accessdate=2008-07-22}}</ref> It presents a significantly redesigned [[graphical user interface]], a change Microsoft promoted as more user-friendly than previous versions of Windows. New software management capabilities were introduced to avoid the "[[DLL hell]]" that plagued older consumer-oriented 9x versions of Windows.<ref>{{Cite web|url=http://msdn.microsoft.com/en-us/library/ms973843.aspx|title=Simplifying Deployment and Solving DLL Hell with the .NET Framework|work=[[Microsoft Developer Network]]|publisher=Microsoft|date=November 2001|accessdate=2008-07-21}}</ref><ref>{{Cite web|url=http://msdn.microsoft.com/en-us/library/ms997620.aspx|title=How To Build and Service Isolated Applications and Side-by-Side Assemblies for Windows XP|work=[[Microsoft Developer Network]]|publisher=Microsoft|date=2001-08-24|accessdate=2008-07-21}}</ref> It is also the first version of Windows to use [[product activation]] to combat [[Copyright infringement of software|software piracy]], a restriction that did not sit well with some users and privacy advocates. Windows XP has also been criticized by some users for security vulnerabilities, tight integration of applications such as [[Internet Explorer 6]] and Windows Media Player, and for aspects of its default user interface. Later versions with Service Pack 2, and [[Internet Explorer 7]] addressed some of these concerns.
+
+During development, the project was [[List of Microsoft codenames|codenamed]]  "'''Whistler'''", after [[Whistler, British Columbia|Whistler]], [[British Columbia]], as many Microsoft employees [[skiing|skied]] at the [[Whistler-Blackcomb]] ski resort.<ref>
+{{cite web
+|url=http://www.winsupersite.com/faq/longhorn.asp
+|title=Windows "Longhorn" FAQ
+|date=2005-06-22
+|accessdate=2008-04-04
+|publisher=Paul Thurrott's SuperSite for Windows
+}} (see Q: What's up with the name Longhorn?)</ref>
+{{TOClimit|limit=3}}
+
+==Editions==
+{{main|Windows XP editions}}
+[[Image:XP-Editions.svg|thumb|280px|Diagram representing the main editions of Windows XP. It is based on the category of the edition (grey) and codebase (black arrow).]]
+The two major editions are Windows XP Home Edition, designed for home users, and Windows XP Professional, designed for business and power-users. These releases were made available at retail outlets that sell computer software, and were pre-installed on computers sold by major computer manufacturers.  As of mid-2008, both editions continue to be sold.  A third edition, called Windows XP Media Center Edition was introduced in 2002 and was updated every year until 2006 to incorporate new digital media, broadcast television and [[Media Center Extender]] capabilities.  Unlike the Home and Professional edition, it was never made available for retail purchase, and was typically either sold through [[original equipment manufacturer|OEM]] channels, or was pre-installed on computers that were typically marketed as "media center PCs".
+
+Two different 64-bit editions were made available, one designed specifically for Itanium-based workstations, which was introduced in 2001 around the same time as the Home and Professional editions, but was discontinued a few years later when vendors of Itanium hardware stopped selling workstation-class machines due to low sales.  The other, called Windows XP Professional x64 Edition, supports the x86-64 extension of the Intel IA-32 architecture. x86-64 is implemented by AMD as "AMD64", found in AMD's [[Opteron]] and [[Athlon 64]] chips, and implemented by Intel as "Intel 64" (formerly known as IA-32e and EM64T), found in Intel's [[Pentium 4]] and later chips.
+
+[[Image:TabletPC 2004.png|thumbnail|200px|Internet Explorer 6 running in Windows XP Tablet PC Edition.]]
+Windows XP Tablet PC Edition was produced for a class of specially-designed notebook/laptop computers called [[tablet PC]]s. It is compatible with a pen-sensitive screen, supporting handwritten notes and portrait-oriented screens.
+
+Microsoft also released [[Windows XP Embedded]], an edition for specific consumer electronics, [[set-top box]]es, kiosks/[[Automatic teller machine|ATMs]], medical devices, arcade video games, point-of-sale terminals, and Voice over Internet Protocol ([[Voice over IP|VoIP]]) components.  In July 2006, Microsoft released [[Windows Fundamentals for Legacy PCs]], a [[thin client]] version of Windows XP Embedded which targets older machines (as early as the original Pentium). It is only available to [[Microsoft Software Assurance|Software Assurance]] customers. It is intended for corporate customers who would like to upgrade to Windows XP to take advantage of its security and management capabilities, but can't afford to purchase new hardware.
+
+===Editions for specific markets===
+Windows XP Starter Edition is a lower-cost edition of Windows XP available in [[Thailand]], [[Turkey]], [[Malaysia]], [[Indonesia]], [[Russia]], [[India]], [[Colombia]], [[Brazil]], [[Argentina]], [[Peru]], [[Bolivia]], [[Chile]], [[Mexico]], [[Ecuador]], [[Uruguay]] and [[Venezuela]]. It is similar to Windows XP Home, but is limited to low-end hardware, can only run 3 programs at a time, and has some other features either removed or disabled by default.  Each country's edition is also customized for that country, including desktop backgrounds of popular locations, [[software localization|localized]] help features for those who may not speak English, and other default settings designed for easier use than typical Windows XP installations.  The Malaysian version, for example, contains a desktop background of the [[Kuala Lumpur]] skyline.<ref>{{cite web
+|url=http://www.winsupersite.com/showcase/windowsxp_starter_edition.asp
+|title=Windows XP Starter Edition
+|author=Paul Thurrott
+|date=[[January 3]], [[2005]]
+|accessdate=2008-04-12
+|publisher=Paul Thurrott's SuperSite for Windows
+}}</ref>
+
+In March 2004, the [[European Commission]] fined Microsoft €497 million ([[US$]]603 million) and ordered the company to provide a version of Windows without [[Windows Media Player]]. The Commission concluded that Microsoft "broke [[European Union]] competition law by leveraging its near [[monopoly]] in the market for PC operating systems onto the markets for work group [[Server (computing)|server]] operating systems and for media players". After unsuccessful appeals in 2004 and 2005, Microsoft reached an agreement with the Commission where it would release a court-compliant version, Windows XP ''Edition N''. This version does not include the company's Windows Media Player but instead encourages users to pick and download their own media player. Microsoft wanted to call this version ''Reduced Media Edition'', but EU regulators objected and suggested the ''Edition N'' name, with the ''N'' signifying "not with Media Player" for both Home and Professional editions of Windows XP. Because it is sold at the same price as the version with Windows Media Player included, [[Dell]], [[Hewlett-Packard]], [[Lenovo]] and [[Fujitsu Siemens]] have chosen not to stock the product. However, Dell did offer the operating system for a short time. Consumer interest has been low, with roughly 1,500 units shipped to [[Original Equipment Manufacturer|OEMs]], and no reported sales to consumers.<ref name="WinXPlite">{{cite news
+|url = http://management.silicon.com/government/0,39024677,39131434,00.htm
+|publisher = Silicon.com
+|title = Windows XP-lite 'not value for money'
+|date = [[June 28]], [[2005]]
+}}</ref><ref name="WinXPSSeattlePi">{{cite news
+|url = http://seattlepi.nwsource.com/business/205093_msftfolo24.html
+|publisher = Seattle Pi
+|title = Europe gets 'reduced' Windows
+|date = [[December 24]], [[2004]]
+}}</ref><ref name="WinXPSRedmondMag">{{cite news
+|url = http://www.redmondmag.com/news/article.asp?EditorialsID=6625
+|publisher = Redmondmag.com
+|title = European Windows Called 'Windows XP Home Edition N'
+|date = [[March 28]], [[2005]]
+}}</ref><ref name="WinXPSBBC">{{cite news
+|url = http://news.bbc.co.uk/2/hi/business/4388349.stm
+|publisher = BBC
+|title = Microsoft and EU reach agreement
+|date = [[March 28]], [[2005]]
+}}</ref>
+
+In December 2005, the [[Fair Trade Commission (South Korea)|Korean Fair Trade Commission]] ordered Microsoft to make available editions of Windows XP and [[Windows Server 2003]] that do not contain [[Windows Media Player]] or [[Windows Messenger]].<ref>{{cite web
+|url=http://arstechnica.com/news.ars/post/20051207-5702.html
+|title=South Korea fines Microsoft for antitrust abuses
+|author=Nate Anderson
+|date=[[December 7]], [[2005]]
+|accessdate=2008-04-12
+|publisher=[[Ars Technica]]
+}}</ref> Like the European Commission decision, this decision was based on the grounds that Microsoft had abused its dominant position in the market to push other products onto consumers.  Unlike that decision, however, Microsoft was also forced to withdraw the non-compliant versions of Windows from the South Korean market.  This decision resulted in Microsoft's releasing "K" and "KN" variants of the Home and Professional editions in August 2006.
+
+That same year, Microsoft also released two additional editions of Windows XP Home Edition directed towards subscription-based and pay-as-you-go pricing models.  These editions, released as part of Microsoft's [[Microsoft FlexGo|FlexGo]] initiative, are used in conjunction with a hardware component to enforce time limitations on the usage of Windows.  Its target market is emerging economies such as [[Brazil]], [[Hungary]] and [[Vietnam]].<ref>{{cite press release
+|url=http://www.microsoft.com/presspass/press/2006/may06/05-21EmergingMarketConsumersPR.mspx
+|title=Microsoft Unveils Pay-As-You-Go Personal Computing Designed for Emerging Market Consumers
+|date=[[May 21]], [[2006]]
+|accessdate=2008-06-07
+|work=PressPass
+|publisher=[[Microsoft]]
+}}</ref>
+
+
+
+===Languages===
+Windows XP is available in many different languages.<ref>{{cite web|url=http://support.microsoft.com/kb/292246|title=List of languages supported in Windows 2000, Windows XP, and Windows Server 2003|publisher=[[Microsoft]]|date=2007-12-03|accessdate=2008-05-13}}</ref> In addition, [[Multilingual User Interface|MUI]] packs and [[Language Interface Pack]]s translating the user interface are also available for certain languages.<ref>{{cite web|url=http://download.microsoft.com/download/6/2/e/62e61f10-e106-4f4c-a862-63eec2b41efb/readme.htm|title=Cumulative Help Update for Microsoft Windows XP Multilingual User Interface (MUI) Pack (KB841625)|publisher=[[Microsoft]]|accessdate=2008-05-13}}</ref><ref>{{cite web|url=http://www.microsoft.com/industry/publicsector/government/locallanguage/find-a-language.aspx?regid=_all_|title=Unlimited Potential: Local Language Program|publisher=[[Microsoft]]|accessdate=2008-04-09}}</ref>
+
+==New and updated features==
+{{main|Features new to Windows XP}}
+Windows XP introduced several new features to the Windows line, including:
+*Faster start-up and [[Hibernate (OS feature)|hibernation]] sequences
+*The ability to discard a newer [[device driver]] in favor of the previous one (known as ''driver rollback''), should a driver upgrade not produce desirable results
+*A new, arguably more user-friendly interface, including the framework for developing themes for the desktop environment
+*''[[Fast user switching]]'', which allows a user to save the current state and open applications of their desktop and allow another user to log on without losing that information
+*The ''[[ClearType]]'' font rendering mechanism, which is designed to improve text readability on [[Liquid Crystal Display]] (LCD) and similar monitors
+*''Remote Desktop'' functionality, which allows users to connect to a computer running Windows XP from across a network or the [[Internet]] and access their applications, files, printers, and devices
+*Support for most [[Digital Subscriber Line|DSL]] modems and [[IEEE 802.11|wireless network]] connections, as well as networking over [[FireWire]], and [[Bluetooth]].
+
+==User interface==
+{| border="0" cellpadding="2" cellspacing="0" align="right" style="margin-left:1em"
+|+<small>'''Windows XP themes'''</small>
+|-
+|[[Image:Windows XP Luna.png|150px]] || [[Image:Windows XP Classic.png|150px]]
+|-
+|<center><small>Default Blue (Luna)</small></center> || <center><small>Windows Classic</small></center>
+|-
+| [[Image:Windows XP Royale.png|150px]]||<center>[[Image:RoyaleXP2.PNG|125px]]</center>
+|-
+|<center><small>XP Royale</small></center> ||<center><small>The new start menu design<br>in the "Royale" theme.</small></center>
+|<center>
+|-
+| colspan="2" | [[Image:Windows task grouping (Luna).png|300px]]
+|-
+| colspan="2" |<center><small>The "task grouping" feature introduced in Windows XP.</small></center>
+|-
+|}
+Windows XP features a new task-based graphical user interface. The Start menu and [[Windows indexing service|search capability]] were redesigned and many visual effects were added, including:
+*A translucent blue selection rectangle in Explorer
+*Drop shadows for icon labels on the desktop
+*Task-based sidebars in Explorer windows ("common tasks")
+*The ability to group the taskbar buttons of the windows of one application into one button
+*The ability to lock the taskbar and other toolbars to prevent accidental changes
+*The highlighting of recently added programs on the Start menu
+*Shadows under menus (Windows 2000 had shadows under mouse pointers, but not menus)
+
+Windows XP analyzes the performance impact of visual effects and uses this to determine whether to enable them, so as to prevent the new functionality from consuming excessive additional processing overhead. Users can further customize these settings.<ref name="WinXPVisualFX">{{
+
+cite news
+|url = http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/display_change_visual_effects.mspx
+|publisher = Microsoft
+|title = Change Windows visual effects
+|date =
+
+}}</ref> Some effects, such as [[alpha blending]] (transparency and fading), are handled entirely by many newer video cards. However, if the video card is not capable of hardware alpha blending, performance can be substantially hurt, and Microsoft recommends the feature should be turned off manually.<ref name="XPFXMSKB">{{
+
+cite news
+|url = http://support.microsoft.com/default.aspx?scid=kb;EN-US;294770
+|publisher = Microsoft
+|title = Computer Slows When You Click Multiple Icons in Windows XP
+|date = [[January 15]], [[2006]]
+
+}}</ref> Windows XP adds the ability for Windows to use "Visual Styles" to change the user interface. However, visual styles must be cryptographically signed by Microsoft to run. [[Luna (theme)|''Luna'']] is the name of the new visual style that ships with Windows XP, and is enabled by default for machines with more than 64&nbsp;[[MiB]] of video [[Random Access Memory|RAM]]. ''Luna'' refers only to one particular visual style, not to all of the new user interface features of Windows XP as a whole. Some users "patch" the <tt>uxtheme.dll</tt> file that restricts the ability to use visual styles, created by the general public or the user, on Windows XP.<ref name="XPUXTHEME">{{
+
+cite news
+|url = http://www.neowin.net/forum/index.php?showtopic=140707
+|publisher = Neowin
+|title = UXTheme Multi-Patchers
+|date = [[February 12]], [[2004]]
+
+}}</ref>
+
+In addition to the included Windows XP themes, there is one previously unreleased theme with a dark blue taskbar and window bars similar to Windows Vista titled "[[Energy Blue#Royale Noir / Zune theme|Royale Noir]]" available for download, albeit unofficially.<ref>{{cite web|url=http://www.istartedsomething.com/20061029/royale-noir/|title=Royale Noir: secret XP theme uncovered|publisher=istartedsomething.com|date=2006-10-29|accessdate=2008-04-23}}</ref> Microsoft officially released a modified version of this theme as the "[[Energy Blue#Royale Noir / Zune theme|Zune]]" theme, to celebrate the launch of its Zune portable media player in November 2006. The differences are only visual  with a black taskbar instead of dark blue and an orange start button (instead of very dark blue).<ref>http://go.microsoft.com/fwlink/?LinkID=75078</ref> Additionally, the Media Center "[[Energy Blue|Royale]]" theme, which was included in the Media Center editions, is also available to download for use on all Windows XP editions.<ref>{{cite web |title=Royale Theme for WinXP - Official |work=Windows downloads |publisher=[[Softpedia]] |date=2006-05-11 |url=http://www.softpedia.com/get/Desktop-Enhancements/Themes/Royale-Theme-for-WinXP.shtml |accessdate=2008-04-06}}</ref>
+
+The default wallpaper, [[Bliss (image)|Bliss]], is a [[Windows bitmap|BMP]] photograph of a landscape in the [[Napa County, California|Napa Valley]] outside [[Napa, California]],<ref name="bliss1">{{cite web | last =Turner  | first =Paul | title =''No view of Palouse from Windows'' | publisher =The Slice | date =[[February 22]], [[2004]] | url =http://s-r.com/local/story_txt.asp?date=022204&ID=s1490284 | accessdate = 2007-01-09}}</ref> with rolling green hills and a blue sky with [[stratocumulus cloud|stratocumulus]] and [[cirrus cloud]]s.
+
+The Windows 2000 "classic" interface can be used instead if preferred. Several third party utilities exist that provide hundreds of different visual styles. Microsoft licensed technology from [[WindowBlinds]] creator [[Stardock]] to create its visual styles in XP.
+
+==System requirements==
+[[Image:DesignedforWinXPlogo.PNG|thumb|100px|Designed for Windows XP [[computer hardware]] logo]]
+System requirements for Windows XP Home and Professional editions as follows:<ref>{{cite web|url=http://support.microsoft.com/kb/314865|accessdate=2007-03-12|title=System requirements for Windows XP operating systems|date=[[April 28]], [[2005]]}}</ref>
+
+<div align="center">
+{|class="wikitable" cellpadding="3" cellspacing="0" style="text-align:center;"
+|-
+! style="width:120px;height:35px;" |
+! Minimum
+! Recommended
+|-
+! Processor
+| 233&nbsp;[[Hertz|MHz]] || 300&nbsp;MHz or higher
+|-
+! Memory
+| 64&nbsp;[[Megabyte|MB]] [[RAM]]{{fn|1}} || 128&nbsp;MB RAM or higher
+|-
+! Video adapter and monitor
+|colspan = "2" | Super VGA (800 x 600) or higher resolution
+|-
+! Hard drive disk free space
+|colspan = "2" | 1.5&nbsp;GB or higher
+|-
+! Drives
+|colspan = "2" | [[CD-ROM drive]] or [[DVD drive]]
+|-
+! Input devices
+|colspan = "2" | [[computer keyboard|Keyboard]]. [[Microsoft Mouse]] or compatible pointing device
+|-
+! Sound
+|colspan = "2" | [[Sound card]]. [[Speakers]] or [[headphones]]
+|-
+|}
+</div>
+{{fnb|1}}Using 64 MB of RAM allows the user to complete simple tasks, such as browsing the web or reading email.  The user's experience would be "equivalent or superior to that of [[Windows Me]] running on the same hardware."<ref>{{cite web|url=http://technet.microsoft.com/en-us/library/bb457057.aspx|accessdate=2008-04-08|title=Windows XP Performance|date=2001-06-01}}</ref>
+
+In addition to the Windows XP system requirements, Service Pack 2 requires an additional 1.8&nbsp;[[gigabyte|GB]]<!-- GB or GiB? --> of free hard disk space during installation.<ref>{{cite web |title=System Requirements for Windows XP Service Pack 2 |publisher=[[Microsoft]] |date=[[August 20]], [[2004]] |url=http://www.microsoft.com/windowsxp/sp2/sysreqs.mspx |accessdate=2007-08-19}}</ref> Service Pack 3 requires an additional 900 [[Megabyte|MB]] of free hard disk space during installation.<ref name=technetsp3install/>
+
+==Service packs==
+Microsoft occasionally releases [[service pack]]s for its Windows operating systems to fix problems and add features. Each service pack is a superset of all previous service packs and patches so that only the latest service pack needs to be installed, and also includes new revisions.<ref>{{cite web | url=http://www.microsoft.com/windowsxp/sp2/overview.mspx | title=Windows XP Service Pack 2 Overview | publisher=[[Microsoft]] | date=2004-08-04 | accessdate=2007-10-31}}</ref>  Older service packs need not be removed before application of the most recent one.
+
+The service pack details below only apply to the 32-bit editions. Windows XP professional x64 edition was based on [[windows server 2003]] service pack 1 and claimed to be "SP1" in system properties from the initial release. It is updated by the same service packs and hotfixes as the x64 edition of windows server 2003.   <!--fixme: add info on itanium edition-->
+
+===Service Pack 1===
+[[Image:Windows XP - Program Access and Defaults.png|thumbnail|right|''Set Program Access and Defaults'' was added in Service Pack 1.]] Service Pack 1 (SP1) for Windows XP was released on [[September 9]], [[2002]]. It contains post-[[Software release life cycle#RTM or RTW|RTM]] security fixes and hot-fixes, compatibility updates, optional [[.NET Framework]] support, enabling technologies for new devices such as Tablet PCs, and a new [[Windows Messenger|Windows Messenger 4.7 version]]. The most notable new features were [[Universal Serial Bus|USB 2.0]] support, and a ''Set Program Access and Defaults'' utility that aimed at hiding various middleware products. Users can control the default application for activities such as web browsing and instant messaging, as well as hide access to some of Microsoft's bundled programs. This utility was first brought into the older Windows 2000 operating system with its Service Pack 3. The [[Microsoft Java Virtual Machine]], which was not in the RTM version, appeared in this service pack.<ref>{{cite web|url= http://www.winsupersite.com/reviews/windowsxp_sp1_preview.asp |accessdate= 2007-09-21 |title= Windows XP Service Pack 1 preview |date= [[September 9]], [[2002]]}}</ref> IPv6 support was also introduced.
+
+On [[February 3]], [[2003]], Microsoft released Service Pack 1a (SP1a). This release removed Microsoft's [[Java virtual machine]] as a result of a lawsuit with [[Sun Microsystems]].<ref>{{cite web|url= http://support.microsoft.com/?kbid=813926 |accessdate= 2007-09-21 |title= Differences Between Windows XP SP1 and Windows XP SP1a |date= [[February 3]], [[2003]]}}</ref>
+
+===Service Pack 2===
+[[Image:Windows Security Center XP SP2.png|thumb|left|[[Windows Security Center]] was added in Service Pack 2.]]
+Service Pack 2 (SP2) (codenamed "Springboard") was released on [[August 6]], [[2004]] after several delays, with a special emphasis on security.<ref>{{cite web|url= http://support.microsoft.com/kb/322389 |accessdate=2007-09-21|title= How to obtain the latest Windows XP service pack |date=2007-03-26}}</ref> Unlike the previous service packs, SP2 adds new functionality to Windows XP, including an enhanced firewall, improved [[Wi-Fi]] support, such as [[Wi-Fi Protected Access|WPA]] encryption compatibility, with a wizard utility, a [[pop-up ad]] blocker for [[Internet Explorer 6]], and Bluetooth support. The new welcome screen during the kernel boot removes the subtitles "Professional", "Home Edition" and "Embedded" since Microsoft introduced new Windows XP editions prior to the release of SP2. The yellow or green loading bar used in Home Edition and Embedded was replaced with the standard blue bar, seen in Professional and other versions of Windows XP, making the line of operating systems resemble each other.
+
+Service Pack 2 added new security enhancements, which include a major revision to the included firewall that was renamed to [[Windows Firewall]] and is enabled by default, [[Data Execution Prevention]] that takes advantage of the [[NX bit]] that is incorporated into newer processors to stop some forms of buffer overflow attacks, and removal of [[raw socket]] support (which supposedly limits the damage done by [[Zombie computer|zombie machines]]). Additionally, security-related improvements were made to e-mail and web browsing. Windows XP Service Pack 2 includes the Windows Security Center, which provides a general overview of security on the system, including the state of [[anti-virus software]], Windows Update, and the new Windows Firewall. Third-party anti-virus and firewall applications can interface with the new Security Center.<ref>{{cite web|url=http://www.microsoft.com/windowsxp/sp2/overview.mspx |publisher = Microsoft |title = Windows XP Service Pack 2 information |date = [[August 4]], [[2004]]}}</ref>
+
+On [[August 10]], [[2007]], Microsoft announced a minor update to Service Pack 2, called Service Pack 2c (SP2c).<ref>{{cite web |url = http://bink.nu/news/microsoft-windows-xp-professional-service-pack-2c-release.aspx |publisher = Blink.nu |title = Windows XP Service Pack 2c (SP2c) press release |date = [[August 10]], [[2007]]}}</ref> The update fixes the issue of the diminishing number of available product keys for Windows XP. This update will only be available to system builders from their distributors in Windows XP Professional and Windows XP Professional N operating systems. SP2c was released in September 2007.<ref>{{cite web |url = http://oem.microsoft.com/script/sites/public/winxp_sp2c.htm |publisher = Microsoft |title = Windows XP Service Pack 2c (SP2c) information |date = [[September 17]], [[2007]]}}</ref>
+
+===Service Pack 3===
+Windows XP Service Pack 3 (SP3) build 5512 was [[release to manufacturing|released to manufacturing]] on [[April 21]], [[2008]] and to the public via both the Microsoft Download Center and [[Windows Update]] on [[May 6]], [[2008]].<ref name=sp3rtw>{{cite web |url=http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=3299543&SiteID=17 |title=Windows XP SP3 Released to Web (RTW), now available on Windows Update and Microsoft Download Center |publisher=[[Microsoft]] |date=2008-05-06|accessdate=2008-05-07}}</ref><ref name=msdnsp3>{{cite web |url= http://www.microsoft.com/downloads/details.aspx?FamilyID=5b33b5a8-5e76-401f-be08-1e1555d4f3d4&DisplayLang=en |title=Windows XP Service Pack 3 Network Installation Package for IT Professionals and Developers |publisher=[[Microsoft]] |date=2008-05-06 |accessdate=2008-05-07}}</ref><ref>{{cite web |url= http://www.microsoft.com/downloads/details.aspx?FamilyID=2fcde6ce-b5fb-4488-8c50-fe22559d164e&DisplayLang=en |title=Windows XP Service Pack 3 - ISO-9660 CD Image File |publisher=[[Microsoft]] |date=2008-05-06 |accessdate=2008-05-07}}</ref>
+
+It began being automatically pushed out to ''Automatic Update'' users on [[July 10]], [[2008]].<ref>{{cite web |url= http://computerworld.com/action/article.do?command=viewArticleBasic&articleId=9107918 |title=Microsoft sets XP SP3 automatic download for Thursday |publisher=Computerworld |date=2008-07-08 |accessdate=2008-07-08}}</ref> A feature set overview which details new features available separately as standalone updates to Windows XP, as well as [[backporting|backported]] features from Windows Vista has been posted by Microsoft.<ref>{{cite web |url= http://www.microsoft.com/downloads/details.aspx?FamilyID=68c48dad-bc34-40be-8d85-6bb4f56f5110&DisplayLang=en |title=Windows XP Service Pack 3 Overview |publisher=[[Microsoft]] |date=2008-05-06 |accessdate=2008-05-07}}</ref> A total of 1,174 fixes have been included in SP3.<ref> [http://support.microsoft.com/kb/946480/ List of fixes that are included in Windows XP Service Pack 3]</ref> Service Pack 3 can be installed on systems with Internet Explorer versions 6 or 7, and Windows Media Player versions 9 and above.<ref>[http://news.softpedia.com/news/No-Internet-Explorer-7-Will-Not-Be-a-Part-of-Windows-XP-SP3-73896.shtml No, Internet Explorer 7 Will Not(!) Be a Part of Windows XP SP3]</ref>
+Internet Explorer 7 is not included as part of SP3.<ref>[http://tech.skitsol.com/2008/04/30/windows-xp-sp3-features.aspx Windows XP SP3 features]</ref>
+
+====New features====
+* Turns [[Black hole (networking)|Black hole]] [[router]] detection on by default <ref name="SP3Overview"> [http://download.microsoft.com/download/6/8/7/687484ed-8174-496d-8db9-f02b40c12982/Overview%20of%20Windows%20XP%20Service%20Pack%203.pdf Overview of Windows XP Service Pack 3] </ref>
+* [[Network Access Protection]] client
+* [[Windows Imaging Component]] <ref> [http://support.microsoft.com/kb/947898/en-us Information about Windows Imaging Component] </ref>
+* Credentials [[Security Service Provider]] <ref> [http://support.microsoft.com/kb/951608 Description of the Credential Security Service Provider (CredSSP) in Windows XP Service Pack 3] </ref>
+* Descriptive ''Security options'' in [[Group Policy]]/Local Security Policy user interface
+* An updated version of the Microsoft Kernel Mode Cryptographic Module that is [[FIPS 140-2]] certified <ref name="SP3Overview" />
+* Installing without requiring a product key during setup for retail and OEM versions
+
+[[Slipstream (computing)|Slipstreamed]] retail and OEM versions of Windows XP with SP3 can be installed and run with full functionality for 30 days without a product key, after which time the user will be prompted to enter a valid key and [[Windows Product Activation|activate]] the installation. Volume license (VLK) versions still require entering a product key before beginning installation.<ref>[http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=3227350&SiteID=17 Slipstreamed SP3 still asks for product key]</ref>
+
+Although service packs have, until now, been cumulative, installing SP3 on an existing installation of Windows XP requires that the computer must at least be running with Service Pack 1 installed.<ref name=technetsp3install>[http://technet.microsoft.com/en-us/windowsxp/cc164204.aspx#1 Installing Windows XP Service Pack 3 (SP3]</ref> However, it is possible to slipstream SP3 into the Windows XP setup files at any service pack level—including the original RTM version—without any errors or issues.<ref>{{cite web | url=http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=3226434&SiteID=17 | title=<nowiki>To Chris Keroack [MSFT]  - Slipstreaming</nowiki> | accessdate=2008-05-19}}</ref> Slipstreaming SP3 into Windows XP Media Center Edition 2005 is not supported.<ref> [http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=3236131&SiteID=17 Slipstreaming SP3 with MCE 2005 ]</ref>
+
+Service Pack 3 does contain updates to the operating system components of Windows XP Media Center Edition (MCE) and Windows XP Tablet PC Edition, and security updates for .NET Framework version 1.0, which is included in these Windows XP [[Stock-keeping unit|SKU]]s. However, it does not include update rollups for the [[Windows Media Center]] application in Windows XP MCE 2005.<ref name="SP3FAQ">[http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=3215341&SiteID=17 FAQs regarding SP3 RTM]</ref> SP3 also omits security updates for Windows Media Player 10, although the player is included in Windows XP MCE 2005.<ref name="SP3FAQ" /> <!-- PLEASE DON'T ADD WMP 11 HERE SINCE IT IS NOT INCLUDED IN ANY WINDOWS XP SKU. WMP 10 IS --> The Address Bar DeskBand on the [[Taskbar]] is no longer included due to legal restrictions.<ref> [http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=2587494&SiteID=17 Lost Address Bar: Windows XP SP3 forum] </ref>
+
+==Support lifecycle==
+Support for Windows XP without a service pack ended on [[September 30]], [[2004]]<ref>{{cite web | title="Lifecycle Supported Service Packs" | url=http://support.microsoft.com/default.aspx&#63;scid=fh&#59;&#91;ln&#93;&#59;lifesupsps#Windows | publisher=Microsoft | accessedate=19 June 2007}}</ref> and support for Windows XP Service Pack 1 and 1a ended on [[October 10]], [[2006]].<ref>{{cite web|url= http://www.microsoft.com/windows/support/endofsupport.mspx|accessdate=2006-06-27|title= End of support for Windows 98, Windows Me, and Windows XP Service Pack 1|date=[[January 6]], [[2006]]}}</ref><ref>{{cite web|url=http://support.microsoft.com/gp/lifesupsps#Windows|title = Lifecycle Supported Service Packs|accessdate=2007-02-01}}</ref>
+
+Windows XP Service Pack 2 will be retired on [[July 13]], [[2010]], almost six years after its general availability.<ref>{{cite web|url=http://support.microsoft.com/lifecycle/?C2=1173|title=Microsoft Support Lifecycle (Windows XP)|publisher=Microsoft|date=2005-05-04|accessdate=2008-05-19}}</ref> As per Microsoft's posted timetable, the company stopped general licensing of Windows XP to OEMs and terminated retail sales of the operating system on [[June 30]], [[2008]], 17 months after the release of Windows Vista.<ref>{{cite web|url=http://www.microsoft.com/presspass/features/2007/sep07/09-27xpsalescycle.mspx|title=Microsoft Extends Sales Availability of Windows XP|accessdate=2008-04-08}}</ref><ref>{{cite web|url=http://www.news.com/Microsoft-extends-Windows-XPs-stay/2100-1016_3-6210524.html|title=Microsoft extends Windows XP's stay|author=Ina Fried|publisher=[[CNET Networks|CNet News]]|date=2007-09-27|accessdate=2008-06-05}}</ref> However, an exception was announced on [[April 3]], [[2008]], for OEMs installing to [[subnotebook]]s or [[UMPC]]s either until [[June 30]], [[2010]], or one year after the availability of the next client version of Windows, code-named [[Windows 7]] &mdash; whichever date comes later.<ref>{{cite web|url=http://www.microsoft.com/presspass/features/2008/apr08/04-03xpeos.mspx|title=Microsoft Announces Extended Availability of Windows XP Home for ULCPCs|accessdate=2008-04-08}}</ref><ref>{{cite web|url=http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9074720|title=Microsoft to keep Windows XP alive -- but only for Eee PCs and wannabes|accessdate=2008-04-08}}</ref><ref>{{cite web|url=http://www.pcworld.com/article/id,144135-page,1/article.html|title=Microsoft Extends XP Through 2010 for Ultra-Low-Cost Laptops|accessdate=2008-04-08}}</ref>
+
+On [[April 14]], [[2009]], Windows XP will begin its "Extended Support" period that will last for 5 years until [[April 8]], [[2014]].<ref>{{cite web|url=http://support.microsoft.com/lifecycle/?p1=3223|title=Microsoft Windows XP Lifecycle Policy|accessdate=2007-03-25|publisher=Microsoft}}</ref>
+
+==Common criticisms==
+{{main|Criticism of Windows XP}}
+===Security issues===
+{{Unreferencedsection|date=April 2008}}
+Windows XP has been criticized for its susceptibility to [[malware]], [[computer virus|viruses]], [[trojan horse (computing)|trojan horses]], and [[Computer worm|worms]]. Security issues are compounded by the fact that users of the Home edition, by default, receive an administrator account that provides unrestricted access to the underpinnings of the system. If the administrator's account is broken into, there is no limit to the control that can be asserted over the compromised PC.
+
+Windows, with its large market share, has historically been a tempting target for virus creators. Security holes are often invisible until they are exploited, making preemptive action difficult. Microsoft has stated that the release of patches to fix security holes is often what causes the spread of exploits against those very same holes, as [[security cracking|crackers]] figured out what problems the patches fixed, and then launch attacks against unpatched systems. Microsoft recommends that all systems have automatic updates turned on to prevent a system from being attacked by an unpatched bug, but some business IT departments need to test updates before deployment across systems to predict compatibility issues with custom software and infrastructure. This deployment turn-around time also lengthens the time that systems are left unsecure in the event of a released software exploit.
+
+===User interface performance===
+Critics have claimed that the default Windows XP user interface (Luna) adds visual clutter and wastes screen space while offering no new functionality and running slower. Users can easily switch back to the Windows Classic theme.<ref name="fpi">{{
+cite news
+|url = http://www.pcworld.com/resource/article/0,aid,117427,00.asp
+|publisher = PC World
+|title = Full Disclosure: Your Take on Windows' Worst Irritations
+|date=October 2004}}</ref>
+
+===Integration of operating system features===
+In light of the [[United States v. Microsoft]] case which resulted in Microsoft being convicted for abusing its operating system monopoly to overwhelm competition in other markets, Windows XP has drawn fire for integrating user applications such as Windows Media Player and Windows Messenger into the operating system, as well as for its close ties to the [[Windows Live ID]] service.
+
+===Backward compatibility===
+Some users switching from [[Windows 9x]] to XP disliked its lack of [[DOS]] support. Although XP comes with the ability to run DOS programs in a [[virtual DOS machine]], it still has trouble running many old DOS programs. This is largely because it is a [[Windows NT]] system and does not use DOS as a base OS, and that the Windows NT architecture is different from Windows 9x. Some DOS programs that cannot run natively on XP, notably programs that rely on direct access to hardware, can be run in [[virtual machine]]s, such as [[DOSBox]], [[VMware]], [[Microsoft Virtual PC]] or [[VirtualBox]].
+
+===Product activation and verification===
+====Windows Genuine Advantage====
+{{Main|Windows Genuine Advantage}}
+[[Image:WGA Notifications.png|thumb|right|A [[Windows Genuine Advantage]] notification indicating a failed validation.]]
+While product activation and licensing servers are common for business and industrial software, Windows XP gave many casual computer users their first introduction to it, under the name "Windows Genuine Advantage" (WGA). The system was introduced by Microsoft to curb unauthorized distribution of Windows XP. Activation requires the computer or the user to activate with Microsoft within a certain amount of time in order to continue using the operating system. If the user's computer system ever changes&nbsp;— for example, if two or more relevant components of the computer itself are upgraded&nbsp;— Windows may refuse to run until the user reactivates with Microsoft.
+
+WGA comprises two parts, an activation/verification system based in part upon the computer's [[hardware]], and a user notification system. WGA for Windows was followed by verification systems for Internet Explorer 7, [[Windows Media Player 11]], [[Windows Defender]], and [[Microsoft Office 2007]]. Recently Microsoft removed the WGA verification from the installer for Internet Explorer 7 saying that the purpose of the change was to make IE7 available to all Windows users.<ref>{{cite web|url=http://blogs.zdnet.com/microsoft/?p=788|title=Internet Explorer 7 update: Now WGA-free|author=Mary Jo Foley|publisher=[[ZDNet]]|date=2007-10-04|accessdate=2007-12-16}}</ref><ref>{{cite web|url=http://blogs.msdn.com/ie/archive/2007/10/04/internet-explorer-7-update.aspx|title=Internet Explorer 7 Update|author=Steve Reynolds|publisher=[[Microsoft]]|date=2007-10-04|accessdate=2007-12-16}}</ref>
+
+If the license key is judged not genuine, it displays a [[nag screen]] at regular intervals asking the user to buy a license from Microsoft.<ref name="KB905474">{{cite web |url=http://support.microsoft.com/?kbid=905474 |title=Description of the Windows Genuine Advantage Notifications application|accessdate=2006-10-31 }}</ref> In addition, the user's access to Microsoft Update is restricted to critical security updates, and as such, new versions of enhancements and other Microsoft products will no longer be able to be downloaded or installed.
+
+Common criticisms of WGA have included its description as a "Critical Security Update", causing Automatic Updates to download it without user intervention, its behavior compared to [[spyware]] of "[[phoning home]]" to Microsoft every time the computer is connected to the Internet, the failure to inform end users what exactly WGA would do once installed (rectified by a 2006 update<ref>{{cite web|url=http://blogs.msdn.com/wga/archive/2006/11/29/new-wga-notifications-released.aspx|title=New WGA Notifications Released|work=[[MSDN Blogs]]|date=2006-09-29|accessdate=2006-12-03}}</ref>), the failure to provide a proper uninstallation method during beta testing (users were given manual removal instructions that did not work with the final build<ref name="KB905474" />), and its sensitivity to hardware changes which cause repeated need for reactivation in the hands of some developers.
+
+Strictly speaking, neither the download nor the install of the Notifications is mandatory; the user can change their Automatic Update settings to allow them to choose what updates may be downloaded for installation. If the update is already downloaded, the user can choose not to accept the supplemental EULA provided for the Notifications. In both cases, the user can also request that the update not be presented again. Newer Critical Security Updates may still be installed with the update hidden. However this setting will only have effect on the existing version of Notifications, so it can appear again as a new version. As of 2006, Microsoft is currently involved in a [[class action lawsuit]] brought forth in California, on grounds that it violated the spyware laws in the state with its Windows Genuine Advantage Notifications program.<ref>{{cite web|url=http://www.eweek.com/article2/0,1895,1983687,00.asp|title=Lawsuit Labels Windows Genuine Advantage as Spyware|work=[[eWeek]]|date=2006-07-29|accessdate=2006-11-10}}</ref>
+
+====Product key testing====
+In addition to activation, Windows XP service packs will refuse to install on Windows XP systems with [[product key]]s known to be widely used in unauthorized installations. These product keys are intended to be unique to each boxed (or bundled) copy of Windows XP and are included with the product documentation, but a number of product keys were posted on the Internet and were then used for a large number of unauthorized installations. The service packs contain a list of these keys and will not update copies of Windows XP that use them.
+
+Microsoft developed a new key verification engine for Windows XP Service Pack 2 that could detect illicit keys, even those that had never been used before. After an outcry from [[Computer security|security]] consultants who feared that denying security updates to illegal installations of Windows XP would have wide-ranging consequences even for legal owners, Microsoft elected to disable the new key verification engine. Service Pack 2 only checks for the same small list of commonly used keys as Service Pack 1. This means that while Service Pack 2 will not install on copies of Windows XP which use the older set of copied keys, those who use keys which have been posted more recently may be able to update their systems.
+
+Currently Microsoft provides security updates to Windows XP without validating if it is legal. For all non-security updates, a user must have a verified copy of Windows.
+
+====Protection 'cracking'====
+"[[Key generator]]" programs, commonly called "[[keygen]]s", exist to randomly generate Windows XP product keys (thus, there are no longer any commonly used keys to block) and then activate Windows without contacting Microsoft. These may or may not allow the user to receive updates although Microsoft has allowed major security updates to be downloaded and applied through Windows Update and its downloads site, even in pirated or non-genuine copies of Windows.<ref>{{cite web|url=http://www.schneier.com/blog/archives/2005/07/microsoft_permi.html|title=Microsoft Permits Pirated Software to Receive Security Patches|author=[[Bruce Schneier]]|date=2005-07-29|accessdate=2007-12-22}}</ref> In addition, a range of cracks and cracked versions of WGA exist, enabling a computer running a non-genuine copy of Windows to be detected as a genuine Windows system and access all Microsoft updates and enhancements.
+
+==License and media types== 
+<!-- THIS ARTICLE IS WRITTEN WITHOUT REFERENCE LINKS, SEC. 26.Windows_XP -->
+There are three main types of Windows XP licenses: Retail, Volume (VLK), and Original Equipment Manufacturer (OEM). All three types of licenses are available for Windows XP Professional (32-bit and 64-bit) and Windows XP Tablet PC Edition. Windows XP Home Edition is limited to ''Retail'' and ''OEM'' licenses whereas Windows XP Media Center Edition is exclusively available through OEM licenses.
+
+Each type of license has a different installation CD. For customized or retail media, there is a very tiny difference on each type of disc that will only allow that installation disc to accept one type of product key.
+
+Only retail and volume licenses include support for end-user installation scenarios from Microsoft. OEM software is pre-installed on systems and is supported by the system manufacturer rather than Microsoft. The price of such software is reduced to aid computer manufacturers in reducing costs of their computer system production. The cost of OEM software products bundled with systems is not disclosed by Microsoft or by its partners as each system manufacturer will define its own bundling price. Microsoft does not support OEM licenses because it cannot guarantee compatibility with every system configuration possible and it is the responsibility of each system manufacturer to ensure that its hardware is compatible.
+
+Microsoft recommends that system manufacturers have their systems tested, for a fee, as part of the Windows Quality Online Services (Winqual) which includes extensive testing so that no component will cause instability in the Windows operating system due to incompatibility with the Windows operating system or with other system components or their respective drivers. Having a system tested and approved will allow the manufacturer to bear the "Certified for Windows" logo sticker on the exterior of the system, and there are additional benefits for having a tested product. This includes the product's being listed on the Windows Marketplace. Because of the fees and extensive requirements, Microsoft acknowledges that smaller system manufacturers may not opt in to the program until they produce computer systems at a modest rate and on recurring designs.
+
+===Retail===
+Retail licenses, those purchased from a retail store in full packaging, are of two sub-types: "Upgrade" and "Full Purchase Product", often abbreviated by Microsoft as FPP. FPP licenses are transferable from one computer to another, provided the previous installation is removed from the old computer. Although upgrade licenses are also transferable, a user must have a previous version of Windows even on the new computer to which they are moving the installation.  Retail licenses include installation support for end-users, provided directly by Microsoft.
+
+===Volume License===
+A Volume License is the license given to a software version sold to businesses under a direct purchase agreement with Microsoft, and is sold as an upgrade license only, meaning that a previous license must be available for each new volume license. Volume license versions of Windows XP use a [[Volume License Key]] (VLK) which is a product key that does not require [[Windows Product Activation]]. The term "Volume License Key" refers to the ability to use one product key for multiple systems, depending on the type of agreement. Since Windows XP Volume License versions do not require product activation, this led to leaked copies of VLK media and product keys from businesses leading to piracy of Windows XP which quickly spread across the internet upon early release. Beginning with Service Pack 1, Microsoft's active attempts to search out and blacklist known pirated VLK product keys became well known due to the inability to install the service pack on a system with one of the blacklisted keys. Later, this led to the Windows Genuine Advantage program.
+
+===Original Equipment Manufacturer (OEM)===
+[[Original equipment manufacturer#Software|Original Equipment Manufacturer]] (OEM) licenses are pre-installed on, and sold with, pre-assembled computers from system manufacturers. There are two types of OEM product types: those used for "Direct OEMs" (major name brands that buy through a direct contract with Microsoft and produce and brand their own media from a Microsoft "Gold Master Copy" by using an Authorized Microsoft Duplication Partner), and those used for "System Builders" (local computer shops that buy generic, unbranded kits through Authorized Microsoft Distributors). Direct OEM product keys will often not activate with System Builder installation media because Direct OEMs are now required by Microsoft to pre-activate their copies in the factory using their own internal mechanism before delivery to the customer. It is recommended that System Builders also pre-activate their systems before delivery, but this is not mandatory.
+
+OEM installations can be customized using the Microsoft OEM Preinstallation Kit with branding, logos, additional applications, optional services, alternate applications for certain Windows components, Internet Explorer links, and various other customizations. All OEM customers must include support and contact information for the initial installation of Windows because it is the responsibility for the OEM to support the Windows installation, and is not provided by Microsoft to the end-user. Direct OEMs must create their own media, but have the option of creating their own custom recovery solution, which may or may not be similar to a generic installation. OEMs may provide a recovery partition on the hard drive as the custom recovery solution rather than providing disc-based media with the computer.
+
+Some end-users have found this to be a troublesome option, because in the event of an out-of-warranty hard drive failure, they may not have access to reinstall Windows on a new hard drive. System Builders are not allowed the option to create a custom recovery CD/DVD media. The only deliverable media available for a System Builder to give to the end-user is the unbranded OEM System Builder hologram media kit. Because of this, when end-users reformat their hard drives and re-install from the installation media, they lose all the custom branding and support information that the System Builder would have included.
+
+As a supplemental recovery method to a CD/DVD-based installation, a System Builder may employ a fully customized recovery solution on the hard drive. Whether utilizing a recovery partition or not, a System Builder must still include the original generic OEM System Builder hologram CD/DVD media kit. OEM licenses are not transferable from one computer to another. Every computer sold/resold with an OEM license must include all of the original installation media or recovery solution, documentation, Certificate of Authenticity, and product key sticker with the sale. Microsoft requires that all OEM system manufacturers include as part of the configuration the Windows Out-of-Box Experience (OOBE), which is the initial setup wizard encountered the first time Windows boots-up. It is also required that Value-Added Resellers (VAR's), retailers, and general resellers not tamper with the OEM's customized OOBE mechanism unless under permission by the OEM, and it is a recommended configuration for systems that are privately resold so that a customer will have a like-new computer experience upon first boot-up.
+
+OEM licenses are to be installed by professional system manufacturers only. Under Microsoft's OEM License Agreement, they are not to be sold to end-users under any circumstance, and are to be pre-installed on a computer using the OEM Preinstallation Kit (OPK) before shipment to the customer, and must include at the very least the manufacturer's support contact information. They are therefore designed for installation only on a single computer and are not transferable, even if the original computer is no longer in use. This is not usually an issue for users who purchase new computer systems because most pre-assembled systems ship with a pre-installed operating system. There are few circumstances where Microsoft will allow the transfer of an OEM license from one non-functioning system to another, but the OEM System Builder License Agreement (SBLA), as well as the OEM End User License Agreement (EULA) do not contain any allowance for this, so it is entirely up to Microsoft's discretion, depending on the situation.<ref>{{cite web |url=http://oem.microsoft.com |title=Microsoft OEM Partner Center Website|accessdate=2007-08-07 }}</ref>
+
+==See also==
+{{Portal|Microsoft}}
+* [[List of operating systems]]
+* [[Comparison of operating systems]]
+* [[History of operating systems]]
+* [[:Category:Windows XP typefaces|List of Windows XP's typefaces (fonts)]]
+
+==Literature/Books==
+* ''Microsoft Windows XP Plain & Simple'' - J. Joyce and M. Moon, Microsoft Press, USA, 2005. ISBN 0-7356-2112-8
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.microsoft.com/windows/products/windowsxp/default.mspx/ Microsoft Windows XP Home Page]
+* [http://windowshelp.microsoft.com/Windows/en-US/usingwindowsxp.mspx/ Using Windows XP Operating System]
+* [http://download.microsoft.com/download/1/6/6/16674679-1e6e-4304-a5a0-49eeaa31e639/RevGuide.pdf Microsoft Windows XP Reviewers Guide - August 2001 (PDF format)]
+
+{{Microsoft Windows family}}
+
+[[Category:2001 software]]
+[[Category:Windows XP]]
+
+[[ar:ويندوز إكس بي]]
+[[az:Windows XP]]
+[[bn:উইন্ডোজ এক্সপি]]
+[[zh-min-nan:Windows XP]]
+[[bs:Microsoft Windows XP]]
+[[bg:Windows XP]]
+[[ca:Windows XP]]
+[[cv:Windows XP]]
+[[cs:Windows XP]]
+[[da:Windows XP]]
+[[de:Microsoft Windows XP]]
+[[el:Windows XP]]
+[[es:Windows XP]]
+[[fa:ویندوز اکس‌پی]]
+[[fr:Microsoft Windows XP]]
+[[gl:Windows XP]]
+[[gan:Windows XP]]
+[[ko:윈도 XP]]
+[[hi:विन्डोज़ एक्स पी]]
+[[hr:Windows XP]]
+[[ilo:Windows XP]]
+[[id:Windows XP]]
+[[is:Windows XP]]
+[[it:Windows XP]]
+[[ku:Windows XP]]
+[[lt:Windows XP]]
+[[hu:Windows XP]]
+[[ml:വിന്‍ഡോസ് എക്സ്‌പി]]
+[[ms:Windows XP]]
+[[nl:Windows XP]]
+[[ja:Microsoft Windows XP]]
+[[no:Windows XP]]
+[[oc:Microsoft Windows XP]]
+[[uz:Windows XP]]
+[[ps:د مايکروسافټ ونډوزXPانسټالول]]
+[[pl:Microsoft Windows XP]]
+[[pt:Windows XP]]
+[[ro:Windows XP]]
+[[ru:Windows XP]]
+[[sq:Windows XP]]
+[[simple:Windows XP]]
+[[sl:Windows XP]]
+[[sr:Windows XP]]
+[[fi:Windows XP]]
+[[sv:Windows XP]]
+[[tl:Windows XP]]
+[[ta:வின்டோஸ் எக்ஸ்பி]]
+[[th:วินโดวส์เอกซ์พี]]
+[[vi:Windows XP]]
+[[tr:Windows XP]]
+[[uk:Windows XP]]
+[[yi:ווינדאס XP]]
+[[zh-yue:Windows XP]]
+[[zh:Windows XP]]

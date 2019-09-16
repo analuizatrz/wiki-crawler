@@ -1,0 +1,486 @@
+[[Image:FADOF Hedin.jpg|thumb|320px|A [[potassium]] Faraday filter designed, built and photographed by Jonas Hedin for making daytime LIDAR measurements at Arecibo Observatory.<ref> {{Harvnb|Hedin|2002|p=2}} </ref>]]
+
+An '''atomic line filter (ALF)''' is an advanced [[optical filter|optical]] [[band-pass filter]] used in the [[physical science]]s for filtering [[electromagnetic radiation]] with precision, accuracy, and minimal signal strength loss. Atomic line filters work via the [[absorption (optics)|absorption]] or [[resonance]] [[Atomic spectral line|lines]] of atomic vapors and so may also be designated an '''atomic resonance filter (ARF)'''.<ref name="gelbwachs1">{{Harvnb|Gelbwachs|1988|p=1266}}</ref>
+
+The three major types of atomic line filters are '''absorption-re-emission ALFs''', '''Faraday filters''' and '''Voigt filters'''.<ref name="kor">{{Citeref patent|US|5731585}}</ref> Absorption-re-emission filters were the first type developed, and so are commonly called simply “atomic line filters”; the other two types are usually referred to specifically as “Faraday filters” or “Voigt filters”.  Atomic line filters use different mechanisms and designs for different applications, but the same basic strategy is always employed: by taking advantage of the narrow lines of absorption or resonance in a metallic vapor, a specific [[frequency]] of light bypasses a series of filters that block all other light.<ref> {{Harvnb|Oehry|Schupita|Sumetsberger|1994}} </ref>
+
+Atomic line filters can be considered the optical equivalent of [[lock-in amplifier]]s; they are used in scientific applications requiring the effective detection of a narrowband signal (almost always laser light) that would otherwise be obscured by broadband sources, such as [[daylight]].<ref name="kor"/>  They are used regularly in ''Laser Imaging Detection and Ranging'' ([[LIDAR]]) and are being studied for their potential use in [[laser]] communication systems.<ref name="hedin8"> {{Harvnb|Hedin|2002|p=8}} </ref> Atomic line filters are superior to conventional dielectric optical filters such as [[interference filter]]s and [[Lyot filter]]s, but their greater complexity makes them practical only in background-limited detection, where a weak signal is detected while suppressing a strong background.<ref name="gelbwachs5"> {{Harvnb|Gelbwachs|1988|p=1270}} </ref> <!--repeated word-->  Compared to [[etalon]]s, another high-end optical filter, Faraday filters are significantly sturdier and may be six times cheaper at around [[United States dollar|US$]]15,000 per unit.<ref>{{Citeref patent|US|5513032}}</ref><ref name=fricke> {{Harvnb|Fricke-Begemann|Alpers|Höffner|2002}} </ref>
+
+== History == 
+The predecessor of the atomic line filter was the [[infrared quantum counter]], designed in the 1950s by [[Nicolaas Bloembergen]]. This was a quantum mechanical [[amplifier]] theorized by [[Joseph Weber]] to detect [[infrared]] radiation with very little noise.<ref> {{Harvnb|Weber|1957}}</ref><ref name=advances> {{Harvnb|Goodwin|1974}} </ref> Zero spontaneous emission was already possible for [[x-ray]] and [[gamma ray]] amplifiers and Weber thought to bring this technology to the infrared spectrum. Bloembergen described such a device in detail and dubbed it the “infrared quantum counter”.<ref name="bloem"> {{Harvnb|Bloembergen|1958|p=84}}</ref>
+
+The media of these devices were [[crystal]]s with [[transition metal]] [[ion]] impurities, absorbing low-energy light and re-emitting it in the visible range.<ref name="bloem" /> By the 1970s, atomic vapors were used in '''atomic vapor quantum counters''' for detection of infrared electromagnetic radiation, as they were found to be superior to the metallic [[salt]]s and crystals that had been used.<ref name="gel2"> {{Harvnb|Gelbwachs|Klein|Wessel|1977|p=77}} </ref>
+
+The principles hitherto employed in infrared amplification were put together into a passive sodium ALF<!-- WHEN? working at a wavelength of 2.34&nbsp;[[micrometer]]s-->.<ref name="gelbwachs3"> {{Harvnb|Gelbwachs|1988|p=1268}} </ref> This design and those that immediately followed it were primitive and suffered from low [[quantum efficiency]] and slow [[response time]]. As this was the original design for ALFs, many references use only the designation “atomic line filter” to describe specifically the absorption-re-emission construction. In 1977, Gelbwachs, Klein and Wessel created the first active atomic line filter.<ref name="gelbwachs1" /><!--pumped how?-->
+
+Faraday filters, developed sometime before 1978, were “a substantial improvement” over absorption-re-emission atomic line filters of the time.<ref name="kor" /> The Voigt filter, [[patent|patented]] by James H. Menders and Eric J. Korevaar on [[August 26]], [[1992]],<ref name="Webster"> {{Harvnb|Webster’s Online Dictionary|2006}} </ref> was more advanced. Voigt filters were more compact and “[could] be easily designed for use with a permanent magnet”.<ref name="kor" /> By 1996, Faraday filters were being used for LIDAR.<ref name="kor" />
+
+== Properties ==
+A technical definition of an atomic line filter is as an “ultra-narrow-band, large-acceptance-angle, [[Optical isotropy|isotropic]] optical filter”.<ref name="gelbwachs1" /> “Ultra-narrow-band” defines the thin range of frequencies that an ALF may accept; an ALF generally has a [[passband]] on the order of 0.001&nbsp;[[metre|nanometer]]. That atomic line filters also have wide acceptance angles (near 180°) is another important characteristic of the devices; conventional dielectric filters based on the spacing of reflective or refractive layers change their effective spacing when light enters at an angle.
+
+The exact parameters (temperature, magnetic field strength, length, etc.) of any filter may be tuned to a specific application. These values are calculated by computers due to the extreme complexity of the systems.<ref> {{Harvnb|Hedin|2002|p=26}} </ref> 
+
+=== Input/output ===
+Atomic line filters may operate in the [[ultraviolet]], [[visible spectrum|visible]] and infrared regions of the [[electromagnetic spectrum]].<ref name="gelbwachs1" /> In absorption-re-emission ALFs, the frequency of light must be shifted in order for the filter to operate, and in a passive device, this shift must be to a lower frequency by the [[Laws of thermodynamics#First law|First Law of Thermodynamics]]. This means that passive filters are rarely able to work with infrared light, because the output frequency would be impractically low. If [[photomultiplier|photomultiplier tubes]] (PMTs) are used then the “output wavelength of the ARF should lie in a spectral region in which commercial, large-area, long-lived PMT’s [sic] possess maximum sensitivity”.<ref name="gelbwachs3" /> In such a case, active ALFs would have the advantage over passive ALFs as they would more readily, “generate output wavelengths in the near UV, the spectral region in which well-developed [[photocathode]]s possess their highest sensitivity”.<ref name="gelbwachs4"> {{Harvnb|Gelbwachs|1988|p=1269}} </ref>
+
+In a passive ALF, the input frequency must correspond almost exactly to the natural absorption lines of the vapor cell. Active ARFs are much more flexible, however, as the vapor may be stimulated so that it will absorb other frequencies of light.<ref name="pop"> {{Harvnb|Popescu|Walther|2005|p=1}} </ref><ref name="gelbwachs2"> {{Harvnb|Gelbwachs|1988|p=1267}} </ref>
+
+Faraday and Voigt filters do not shift the frequency or wavelength of the signal light.
+
+=== Response time and transmission rate===
+The response time of an absorption-re-emission atomic line filter directly affects the rate information is transmitted from the light source to the receiver. Therefore, a minimal response time is an important property of these ALFs. The response time of such an ALF, is largely dependent on the spontaneous decay of the excited atoms in the vapor cell. In 1988, Jerry Gelbwachs cited, “typical rapid spontaneous emission times are ~ 30&nbsp;[[second|ns]], which suggests that the upper limit on the information rate is approximately 30 [[hertz|MHz]]”.<ref name="gelbwachs4" />
+
+Many methods of decreasing the response time of ALFs have been developed. Even in the late 1980s, certain gases were used to catalyze the decay of the electrons of the vapor cell. In 1989, Eric Korevaar had developed his '''Fast ALF''' design which detected emitted fluorescence without photosensitive plates.<ref name="kor" /> With such methods employed, gigahertz frequencies are easily attainable.<ref name="gelbwachs4" /><!-- Faraday and Voigt?-->
+
+=== Effectiveness ===
+==== Efficiency ====
+[[Image:K-FADOF-spectrum.jpg|thumb|320px|A graph of transmission to relative wavelength in a [[potassium]] FADOF centered at the D1 transition of 770.1093&nbsp;[[meter|nm]]. The graph is for a single polarization, so the maximum transmission is 0.5. The highlighted area is generally used as the transmission spectrum of the FADOF. No optical losses are shown.]]
+Atomic line filters are inherently very efficient filters, generally classified as “ultra-high-Q” as their [[Q factor|''Q'' factor]] is in the 10<sup>5</sup> to 10<sup>6</sup> range.<ref name="gelbwachs1"> This is partially because the, “crossed polarizers … serve to block out background light with a rejection ratio better than 10<sup>-5</sup>”.<ref name="bloom"> {{Harvnb|Bloom|Korevaar|Chan|1998}} </ref> The passband of a typical Faraday filter may be a few GHz.<ref name="pop" /> The total output of a Faraday filter may be around 50% of the total input light intensity. The light lost is reflected or absorbed by imperfect lenses, filters and windows.<ref name="hedin33"> {{Harvnb|Hedin|2002|p=33}} </ref>
+
+==== Band-pass ====
+The band-pass of an atomic line filter is usually equal to the [[Doppler profile]] of the vapor cell, the natural range of frequencies at which a vapor cell will be excited by a pure light source. The Doppler profile is the width of the spectrum of Doppler shifted radiation emitted by the vapor cell due to its [[thermal motion]]. This value is less for larger atoms at lower temperatures, a system considered more ideal. 
+
+There are some circumstances where this is not the case, and it is desirable to make the width of the transition line larger than the Doppler profile. For instance, when tracking a quickly accelerating object, the band-pass of the ALF must include within it the maximum and minimum values for the reflected light. The accepted method for increasing the band-pass involves placing an inert gas in the vapor cell. This gas both widens the spectral line and increases the transmission rate of the filter.<ref name="gelbwachs5" />
+
+==== Sources of noise ====
+For all of their efficiency, atomic line filters are not perfect; there are many sources of error, or “noise”, in a given system. These are manifest as electromagnetic radiation independent of the working processes of the filter and the intensity of the signal light. One source of error is the [[thermal radiation]] of and within the ALF itself. Some thermal radiation comes directly from the filter and happens to be within the bandpass of the second broad band filter. More noise is created if the filter is designed for output in the infrared range, as most of the thermal radiation would be in that spectrum. These emissions may stimulate the vapor and create the radiation it is trying to detect in the first place.<ref name="gelbwachs4" />
+
+Active atomic line filters are more likely to produce noise than passive ones because actives have no “state selectivity”; the pumping source may accidentally excite atoms hit by the wrong light up to the critical energy level, emitting radiation spontaneously.<ref name="gelbwachs5" />
+
+Other errors may be caused by atomic absorption/resonance lines not targeted but still active. Though most “near” transitions are over 10 nanometers away (far enough to be blocked by the broad-band filters), the [[fine structure|fine]] and [[hyperfine structure]] of the target absorption line may absorb incorrect frequencies of light and pass them through to the output sensor.<ref name="gelbwachs5" />
+
+==== Relevant phenomena ====
+[[Image:Stark splitting.png|thumb|right|320px|[[Stark effect|Stark splitting]] in [[Hydrogen]]. Energy eigenvalues of Stark shifts are shown here as a function of [[electric field]] strength.]]
+[[Radiation trapping]] in an atomic line filter may seriously affect the performance and therefore tuning of an ALF. In the original studies of atomic line filters in the 1970s and early 1980s, there was a “large overestimation of the [signal bandwidth]”. Later, radiation trapping was studied, analyzed and ALFs were optimized to account for it.<ref> {{Harvnb|Molisch|Oehry|1998|p=366}} </ref>
+
+In all atomic line filters, the position and widths of the vapor cell resonance lines are among the most important properties. By the [[Stark effect]] and [[Zeeman splitting]], the base absorption lines may be ''split'' into finer lines. “Stark and Zeeman tuning… can be used to tune the detector.”<ref name="gel2" /> Consequently, manipulation of electric and [[magnetic field]]s may alter other properties of the filter (i.e. shifting the passband).<ref name="gel3">  {{Harvnb|Gelbwachs|Klein|Wessel|1979|p=137}} </ref>
+
+== Types ==
+[[Image:ALFConcept.svg|thumb|250px|left|This vector graphic depicts an abstraction of the methodology of an absorption re-emission ALF: how only a narrowband may bypass two broadband filters and create a very precise and accurate filter. Here, a careful manipulation of the frequency of incoming light may be translated into a spacial translation. A similar strategy is employed in both Faraday and Voigt filters, though in these filters, the polarization of the light is shifted and not the frequency.]]
+
+=== Absorption-re-emission === 
+An absorption-re-emission atomic line filter absorbs the desired wavelength of light and emits light that bypasses broadband filters. In passive absorption-re-emission ALFs, a [[high-pass filter]] blocks all low-energy incoming light. The vapor cell absorbs the signal, which coincides with the vapor’s thin absorption line, and the cell’s atoms become excited. The vapor cell then re-emits the signal light by undergoing [[fluorescence]] at a lower frequency. A [[low-pass filter]] blocks radiation above the frequency of the fluorescent light. In an active ALF, [[optical pumping|optical]] or [[electrical pumping]] is used for exciting these atoms so they absorb or emit light of different wavelengths. For active ALFs, other systems of conventional filters may be needed.<ref>{{Harvnb|Molisch|Oehry|1998|p=361}}</ref>
+
+[[Image:Faraday-effect.svg|thumb|240px|right|Polarization of light by a Faraday filter.]]
+
+=== Faraday filter ===
+A Faraday filter, '''magneto-optical filter''', '''FADOF''' or '''EFADOF''' ('''E'''xcited '''Fa'''raday '''D'''ispersive '''O'''ptical '''F'''ilter) works by rotating the polarization of the light passing through the vapor cell. This rotation occurs near its atomic [[spectral line|absorption lines]] by the [[Faraday effect]] and [[Dispersion (optics)#Material dispersion in optics|anomalous dispersion]]. Only light at the resonant frequency of the vapor is rotated and the polarized plates block other electromagnetic radiation.<ref name="friedman"> {{Harvnb|Friedman|2005}} </ref> This effect is related to and enhanced by the [[Zeeman Effect]],<ref name="pop" /> or the splitting of atomic absorption lines in the presence of the magnetic field.<ref>{{Harvnb|Hedin|2002|p=25}}</ref><ref> {{Harvnb|Fitzpatrick|2002}} </ref> Light at the resonant frequency of the vapor exits a FADOF near its original strength but with an orthogonal polarization. 
+
+Following the laws which govern the Faraday effect, the rotation of the targeted radiation is directly proportional to the strength of the magnetic field, the width of the vapor cell and the [[Verdet constant]] (which is dependent on the [[temperature]] of the cell, [[wavelength]] of the light and sometimes intensity of the field)<ref> {{Harvnb|Bass|1995|p=35.45}} </ref> of the vapor in the cell. This relationship is represented the following equation:  
+
+:<math> \beta = \mathcal{V}Bd </math><ref> {{Harvnb|Hedin|2002|p=16}} </ref>
+
+=== Voigt filter ===
+A Voigt filter is a Faraday filter with its magnetic field shifted to be perpendicular to the direction of the light and at 45° to the polarization of the polarized plates.<ref name="zhao"> {{Citeref patent|US|7058110}} </ref> In a Voigt filter, the vapor cell acts as a [[wave plate|half wave plate]], retarding one polarization by 180° per the [[Voigt effect]].<ref name="bloom">{{Citeref patent|US|5710652}}</ref>
+
+== Common components == 
+[[Image:FaradayFilter.svg|thumb|480px|A diagram of the parts of a Faraday filter. In a Voigt filter, the magnetic field would be rotated 90 degrees. Note that the two polarizer plates are perpendicular in direction of polarization.]]
+
+Preceding an atomic line filter may be a [[collimator]], which straightens incident light rays for passing through the rest of the filter consistently; however, collimated light is not always necessary.<ref> {{Harvnb|Hedin|2002|p=24}} </ref><ref name=fricke /> After the collimator, a high-pass filter blocks almost half of the incoming light (that of too long a wavelength). In Faraday and Voigt filters, the first [[polarizer|polarizing plate]] is used here to block light. 
+
+The next component in an atomic line filter is the [[vapor cell]]; this is common to all atomic line filters. It either absorbs and re-emits the incident light, or rotates its polarization by the Faraday or Voigt effect. Following the vapor cell is a low-pass filter, designed to block all of the light that the first filter did not, except the designated frequency of light which came from the fluorescence. In Faraday and Voigt filters, a second polarizing plate is used here.
+
+Other systems may be used in conjunction with the rest of an atomic line filter for practicality. For instance, the polarizers used in the actual Faraday filter don’t block most radiation, “because these polarizers only work over a limited wavelength region … a broad band interference filter is used in conjunction with the Faraday filter”.<ref name="bloom" /> The passband of the interference filter may be 200 times that of the actual filter.<ref name="hedin33" /> Photomultiplier tubes, too, are often used for increasing the intensity of the output signal to a usable level. [[Avalanche photomultiplier]]s, which are more efficient, may be used instead of a PMT.<ref name="gelbwachs1" /><ref name=fricke />
+
+=== Vapor cell ===
+While every implementation of each kind of ALF is different, the vapor cell in each is relatively similar. The thermodynamic properties of vapor cells in filters are carefully controlled because they determine important qualities of the filter, for instance the necessary strength of the magnetic field.<ref> {{Harvnb|Menders|Searcy|Ross|1993}} </ref> Light is let into and out of this vapor chamber by way of two low-reflection windows made of a material such as [[magnesium fluoride]]. The other sides of the cell may be of any opaque material, though generally a heat-resistant [[metal]] or [[ceramic]] is used as the vapor is usually kept at temperatures upwards of 100 °C.
+
+Most ALF vapor cells use [[alkali metal]]s because of their high vapor pressures; many alkali metals also have absorption lines and resonance in the desired spectra.<ref name="zhao" /> Common vapor cell materials are [[sodium]], potassium and [[cesium]]. Note that [[Nonmetal|non-metallic]] vapors such as [[neon]] may be used.<ref> {{Harvnb|Endo|Yabuzaki|Kitano|1978}} </ref><ref name="gelbwachs2" /> As the early quantum counters used [[Solid-state laser|solid state]] metal ions in crystals, it is conceivable that such a medium could be used in the ALFs of today. This is presumably not done because of the superiority of atomic vapors in this capacity.<ref name="gel2" />
+
+== Applications == 
+{{cquote|[Atomic line filters] are ideally suited for applications in which weak laser signals are detected against a continuum background<ref name="gelbwachs1" />}}
+Atomic line filters are most often used in LIDAR and other exercises in laser tracking and detection, for their ability to filter daylight and effectively discern weak, narrowband signals; however, they may be used for filtering out the earth’s [[Thermal radiation|thermal]] background,<ref name="gelbwachs11"> {{Harvnb|Gelbwachs|1988|p=1276}} </ref> measuring the efficiencies of [[antibiotic]]s<ref name="nelson"> {{Citeref patent|US|5573927}} </ref> and general filtering applications.  
+
+[[Image:FFilterLsrTrk.png|thumb|300px|Drawing of the receiver end of a laser tracking system from {{Citeref patent|US|5202741}}]]
+===Laser tracking and communication=== 
+Without an atomic line filter, laser tracking and communication may be difficult. Usually, [[intensified charge-coupled device]] cameras must be used in conjunction with simple dielectric optical filters (e.g. interference filters) to detect laser emissions at a distance. Intensified CCDs are inefficient and necessitate the use of a pulsed laser transmission within the visible spectrum. With the superior filtering system of an ALF, a non-intensified [[charge-coupled device|CCD]] may be used with a [[continuous wave]] laser more efficiently. “[Atomic line filters] with passbands of about 0.001&nbsp;[[meter|nm]] have been developed to improve the background rejection of conventionally filtered laser receivers”.<ref name="kor" /> The total energy consumption of the latter system is “30 to 35 times less” than that of the former,<ref> {{Citeref patent|US|5202741|p=4–8}} </ref> so space-based, underwater and agile laser communications with ALFs have been proposed and developed.<ref name="gelbwachs1" /><ref name="zhao" />
+
+[[Image:Starfield Optical Range - sodium laser.jpg|thumb|left|180px|[[Starfire Optical Range]] LIDAR laser.]]
+
+===LIDAR=== 
+LIDAR comprises firing lasers at relevant portions of the atmosphere where light is [[backscatter|backscattered]]. By analyzing the reflected laser beam for [[Doppler shift]]s, wind speeds and wind directions in the target region may be calculated. The thermal structure, diurnal/semi-diurnal [[tide]]s, and seasonal variations in the [[mesosphere|mesopause]] region may thus be studied. This is a valuable faculty for [[meteorology|meteorologists]] and [[climatology|climatologists]], as these properties can be significant.<ref name="hedin8" />
+
+However, without the ability to effectively track weak laser signals, collection of atmospheric data would be relegated to times of day where the sun's electromagnetic emissions did not drown out the laser's signal. The addition of an atomic line filter to the LIDAR equipment effectively filters interference to the laser's signal to the point where LIDAR data can be collected at any time of the day<ref name="hedin8" />. For the past decade, Faraday filters have been used to do this. Consequently, scientists know significantly more today about the Earth’s middle atmosphere than they did before the advent of the FADOF.<ref> {{Harvnb|Sherman|2005}} </ref><ref name=fricke> {{Harvnb|Höffner|Fricke-Begemann|2005}} </ref><br style="clear:both;" />
+
+== See also == 
+* [[Stimulated emission]]
+* [[Arecibo Observatory]] 
+* [[Ferromagnetic resonance]] 
+* [[Fraunhofer lines]]
+* [[Rayleigh scattering]]
+
+== References == 
+{{reflist|2}}
+<!--[[Image:High Resolution Solar Spectrum.jpg|thumb|right|200px|A high resolution version of the spectrum and Fraunhofer lines of the [[Sun]]. Each of the 50 slices covers 60 angstroms, for a complete spectrum across the visual range from 4000 to 7000 angstroms]]-->
+
+== Bibliography == 
+<div class="references-small">
+* {{Harvard reference
+ | Surname1    = Bass
+ | Given1      = Michael
+ | Year        = 1995
+ | Title       = Handbook of optics
+ | Volume      = II
+ | Publisher   = McGraw-Hill
+ | ISBN        = 0070479747
+}}
+
+* {{Harvard reference 
+ | Surname1    = Bloembergen
+ | Given1      = Nicolaas
+ | Year        = 1958
+ | Title       = Solid State Infrared Quantum Counters
+ | Journal     = Physical Review Letters
+ | Volume      = 2
+ | Number      = 3
+ | Pages       = 84–85
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Endo
+ | Given1      = T.
+ | Surname2    = Yabuzaki
+ | Given2      = T.
+ | Surname3    = Kitano
+ | Given3      = M., et al.
+ | Year        = 1978
+ | Title       = Frequency-locking of a CW dye laser to absorption lines of neon by a Faraday filter
+ | Journal     = IEEE Journal of Quantum Electronics
+ | Volume      = QE-14
+ | Pages       = 977–982
+ | URL         = http://adsabs.harvard.edu/abs/1978IJQE...14..977E
+ | Access-date = [[April 8]], [[2006]] 
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Fitzpatrick
+ | Given1      = Richard
+ | Author      = The University of Texas at Austin
+ | Year        = 2002
+ | Title       = Anomalous dispersion and resonant absorption
+ | URL         = http://farside.ph.utexas.edu/teaching/jk1/lectures/node57.html
+ | Access-date = [[June 18]], [[2006]] 
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Fricke-Begemann
+ | Given1      = Cord
+ | Surname2    = Alpers
+ | Given2      = Matthias
+ | Surname3    = Höffner
+ | Given3      = Josef
+ | Year        = 2002
+ | Title       = Daylight rejection with a new receiver for potassium resonance temperature lidars 
+ | Journal     = Optics Letters
+ | Publisher   = Optical Society of America
+ | Volume      = 27
+ | Number      = 21
+ | Pages       = 1932–1934
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Friedman
+ | Given1      = Jonathan S.
+ | Publisher   = Arecibo Observatory Seminar
+ | Year        = 2005
+ | Title       = An ultra-Narrowband Magneto-Optical Filter for Daylight Observations of the Mesospheric Potassium Layer
+ | URL         = http://www2.naic.edu/~jonathan/pres/FADOF-colloquium.ppt
+ | Access-date = [[June 18]], [[2006]] 
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Gelbwachs
+ | Given1      = Jerry A.
+ | Surname2    = Klein
+ | Given2      = Christopher F.
+ | Surname3    = Wessel
+ | Given3      = John E.
+ | Year        = 1977
+ | Title       = Infrared Detection by an Atomic Vapor Quantum Counter
+ | Journal     = IEEE Journal of Quantum Electronics
+ | Publisher   = IEEE Lasers and Electro-optics Society
+ | Volume      = QE-14
+ | Number      = 2
+ | Pages       = 77–79
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Gelbwachs
+ | Given1      = Jerry A.
+ | Surname2    = Klein
+ | Given2      = Christopher F.
+ | Surname3    = Wessel
+ | Given3      = John E.
+ | Year        = 1979
+ | Title       = Stark Tuning of the Atomic Vapor Quantum Counter
+ | Journal     = IEEE Journal of Quantum Electronics
+ | Publisher   = IEEE Lasers and Electro-optics Society
+ | Volume      = QE-16
+ | Number      = 2
+ | Pages       = 137–142
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Gelbwachs
+ | Given1      = Jerry A.
+ | Year        = 1988
+ | Title       = Atomic Resonance Filters
+ | Journal     = IEEE Journal of Quantum Electronics
+ | Publisher   = IEEE Lasers and Electro-optics Society
+ | Volume      = QE-24
+ | Number      = 7
+ | Pages       = 1266–1277
+ | ID          = ISSN 0018-9197 
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Goodwin
+ | Given1      = D. W.
+ | Year        = 1974
+ | Title       = Advances in Quantum Electronics
+ | Publisher   = Academic Press
+ | Place       = London and New York
+ | Volume      = 1
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Hedin
+ | Given1      = Jonas
+ | Year        = 2002
+ | Title       = Design and Construction of a Potassium Faraday Filter for Potassium Lidar System Daytime Operation at Arecibo Observatory
+ | URL         = http://epubl.ltu.se/1402-1617/2002/373/LTU-EX-02373-SE.pdf
+ | Publisher   = LULEÅ UNIVERSITY LIBRARY
+ | Access-date = [[March 25]], [[2006]] 
+}}. 
+
+* {{Harvard reference 
+ | Surname1    = Höffner
+ | Given1      = Josef
+ | Surname2    = Fricke-Begemann
+ | Given2      = Cord 
+ | Year        = 2005
+ | Title       = Accurate lidar temperatures with narrowband filters
+ | Journal     = Optics Letters
+ | Publisher   = Optical Society of America
+ | Volume      = 30
+ | Number      = 8
+ | Pages       = 890–892
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Menders
+ | Given1      = J.
+ | Surname2    = Searcy
+ | Given2      = Paul
+ | Surname3    = Ross
+ | Given3      = David, et al.
+ | Year        = 1993
+ | Title       = Gated blue cesium Faraday atomic line filter
+ | ID          = ISSN 0190-4132
+ | URL         = http://adsabs.harvard.edu/abs/1993STIA...9587745M
+ | Access-date = [[April 30]], [[2006]] 
+}}.  
+
+* {{Harvard reference 
+ | Surname1    = Molisch
+ | Given1      = Andreas F.
+ | Surname2    = Oehry
+ | Given2      = Bernard P.
+ | Year        = 1998
+ | Title       = Radiation Trapping in Atomic Vapours
+ | Publisher   = Oxford University Press
+ | Place       = Oxford
+ | ISBN        = 0198538669
+ | URL         = http://books.google.com/books?vid=ISBN0198538669&id=JoELZdSUzKEC&printsec=frontcover&dq=isbn:0198538669&sig=pCHyneMvSvLQtSJBWA6b-A0vRr0
+ | Access-date = [[June 18]], [[2006]] 
+}}. 
+
+* {{Harvard reference 
+ | Surname1    = Oehry
+ | Given1      = Bernard P.
+ | Surname2    = Schupita
+ | Given2      = Walter
+ | Surname3    = Sumetsberger
+ | Given3      = Brigitte
+ | Year        = 1994
+ | Title       = Experimental evaluation of an atomic line filter for spaceborne application
+ | Journal     = Proc. SPIE
+ | Volume      = 2310
+ | Pages       = 51–62
+ | URL         = http://adsabs.harvard.edu/abs/1994SPIE.2310...51O
+ | Access-date = [[April 27]], [[2006]] 
+}}.
+
+* {{Harvard reference 
+ | surname1    = Popescu
+ | given1      = Alexandru
+ | surname2    = Walther
+ | given2      = Thomas
+ | year        = 2005
+ | title       = On the potential of Faraday anomalous dispersion optical filter as high-resolution edge filters
+ | journal     = Laser Physics
+ | volume      = 15
+ | issue       = 1
+ | pages       = 55–60
+ | url         = http://www.physik.tu-darmstadt.de/lqo/cgi-bin/Download/Downloadmgr.cgi?user=anonymous&file=lasphys_popescu_fadof.ps&type=ps
+ | Access-date = [[2007-03-13]] 
+}}. 
+
+* {{Harvard reference 
+ | Surname1    = Sherman
+ | Given1      = Jim
+ | Year        = 2005
+ | Title       = Simultaneous Mesopause Region Temperature, Zonal, and Meridional Wind Measurements with an Upgraded Sodium Fluorescence Lidar
+ | URL         = http://earth.engr.ccny.cuny.edu/noaa/doc/seminar/doc/Jim_Sherman031005.pdf
+ | Access-date = [[April 27]], [[2006]] 
+}}.  
+
+* {{Harvard reference 
+ | Surname1    = Weber
+ | Given1      = Joseph
+ | Year        = 1957
+ | Title       = Maser Noise Considerations
+ | Journal     = Physical Review
+ | Volume      = 108
+ | Pages       = 537
+}}.
+
+* {{Harvard reference 
+ | Surname1    = Weber
+ | Given1      = Marvin J.
+ | Year        = 2003
+ | Title       = Handbook of Optical Materials
+ | Publisher   = CRC Press LLC
+ | Place       = Boca Raton
+ | URL         = http://books.google.com/books?vid=ISBN0849335124&id=6VpQDoef05wC&printsec=frontcover&dq=isbn:0849335124&sig=wpWmZWDRLXTxGw0pP3fdbH5KRXY
+ | ISBN        = 0849335124
+ | Access-date = [[June 18]], [[2006]] 
+}}. 
+
+* {{Harvard reference 
+ | Author      = Webster's Online Dictionary
+ | Year        = 2006
+ | Title       = Invention: Voigt filter
+ | URL         = http://www.websters-online-dictionary.org/definition/Voigt+filter
+ | Access-date = [[June 18]], [[2006]] 
+}}. 
+
+</div>
+==Patents==
+<div class="references-small">
+* {{Ref patent
+ |country=US
+ |number=5029999
+ |title=Laser radar device
+ |status=patent
+ |pubdate=1991-07-09
+ |gdate=1991-07-09
+ |fdate=1989-12-26
+ |pridate=1989-10-17
+ |invent1=Kremer, Richard 
+ |invent2=Korevaar, Eric
+ |assign1=[[Thermo Electron|Thermo Electron Tech]]
+ |class=G01J3/12; G01S7/486; G01S17/95; G02F2/02}}
+
+*{{Ref patent
+ |country=US
+ |number=5202741
+ |title=Active Imaging System with Faraday Filter
+ |status=patent
+ |pubdate=1993-04-13
+ |gdate=1993-04-13
+ |fdate=1992-06-29
+ |pridate=1992-06-29
+ |invent1=Snyder, James J
+ |assign1=US Energy
+ |class=G01S17/89}}
+
+* {{Ref patent
+ |country=US
+ |number=5513032
+ |title=Actively pumped faraday optical filter
+ |status=patent
+ |pubdate=1996-04-30
+ |gdate=1996-04-30
+ |fdate=1995-05-03
+ |pridate=1995-05-03
+ |invent1=Billmers, Richard I
+ |invent2=Contarino, Vincent M
+ |invent3=Allocca, David M
+ |invent4=Squicciarini, Martin F
+ |invent5=Scharpf, William J
+ |assign1=[[United States Army]]
+ |class=G02F1/09}}
+
+* {{Ref patent
+ |country=US
+ |number=5573927
+ |title=Antibiotic susceptibility test
+ |status=patent
+ |pubdate=1996-11-12
+ |gdate=1996-11-12
+ |fdate=1992-11-18
+ |pridate=1992-11-18
+ |invent1=Nelson, Wilfred H
+ |class=C12Q1/18}}
+
+* {{Ref patent
+ |country=US
+ |number=5710652
+ |title=Laser communication transceiver and system
+ |status=patent
+ |pubdate=1998-01-20
+ |gdate=1998-01-20
+ |fdate=1994-02-22
+ |pridate=1992-08-27
+ |invent1=Bloom, Scott H
+ |invent2=Korevaar, Eric 
+ |invent3=Chan, Victor 
+ |invent4=Chen, Irene 
+ |invent5=Rivers, Michael D
+ |invent6=Low, Amy
+ |assign1=Trex Communications
+ |class=H04B10/105}}
+
+* {{Ref patent
+ |country=US
+ |number=5731585
+ |title=Voigt filter
+ |status=patent
+ |pubdate=1998-03-24
+ |gdate=1998-03-24
+ |fdate=1992-08-27
+ |pridate=1992-08-27
+ |invent1=Menders James H
+ |invent2=Korevaar, Eric
+ |assign1=Thermotrex Corp 
+ |class=H04B10/105}}
+
+*{{Ref patent
+ |country=US
+ |number=7058110
+ |title=Excited state atomic line filters
+ |status=patent
+ |pubdate=2006-06-06
+ |gdate=2006-06-06
+ |fdate=2003-10-09
+ |pridate=2003-10-09
+ |invent1=Zhao, Zhong-Quan
+ |invent2=Lefebvre, Michael Joseph
+ |invent3=Lesli, Daniel H
+ |assign1=Trex Enterprises Corp
+ |class=}}
+</div>
+
+== Further reading ==
+*H. Chen, M. A. White, D. A. Krueger, and C. Y. She. Daytime mesopause temperature measurements with a sodium-vapor dispersive Faraday filter in a lidar receiver. Opt. Letters, 21(15):1093–1095, 1996.
+
+*H. Chen, C. Y. She, P. Searcy, and E. Korevaar. Sodium-vapor dispersive Faraday filter. Optics Letters, 18:1019–1021, June 1993.
+
+{{featured article}}
+
+[[Category:Optical filters]]
+[[Category:Meteorological instrumentation and equipment]]
+[[Category:Atmospheric and ocean optics]]
+
+[[it:Filtro a risonanza atomica]]

@@ -1,0 +1,502 @@
+{{pp-semi-protected}}
+{{otheruses}}
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| bgcolour=#A0FFA0
+| name = Pluto
+| symbol = [[Image:Pluto symbol.svg|25px|Astronomical symbol of Pluto]]
+| image = [[image:Pluto.jpg|240px|Pluto in True Color]]
+| caption = Pluto in True Color
+| discovery = yes
+| discoverer = [[Clyde Tombaugh|Clyde W. Tombaugh]]
+| discovered = [[February 18]], [[1930]]
+| mp_name = '''134340 Pluto'''
+| mp_category = [[dwarf planet]]
+| epoch = [[J2000]]
+| aphelion = 7,375,927,931 km<br />(49.305 032 87 AU)<br />(4,583,200,123 miles)
+| perihelion = 4,436,824,613 km<br />(29.658 340 67 AU)<br />(2,756,921,611 miles)
+| semimajor = 5,906,376,272 [[kilometre|km]]<br />(39.481 686 77 [[Astronomical unit|AU]])<br />(3,670,060,865 miles)
+| eccentricity = 0.248 807 66
+| inclination = 17.141 75°<br />(11.88° to Sun's equator)
+| asc_node = 110.303 47°
+| arg_peri = 113.763 29°
+| orbital_circ = 36.530 [[Tera|T]][[metre|m]]<br />244.186 AU
+| sidereal_period = 90,613.3055 [[day]]<br />(248.09 [[julian year (astronomy)|yr]])
+| synodic_period = 366.73 day
+| avg_speed = 4.666 km/s
+| max_speed = 6.112 km/s
+| min_speed = 3.676 km/s
+| satellites = [[Pluto's natural satellites|3]]
+| physical_characteristics = yes
+| mean_radius = [[1 E6 m|1195]] km <sup>[http://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html]</sup> <br />(19% of Earth, or<br />742.5 mi)
+| surface_area = [[1 E13 m²|1.795{{e|7}}]] [[square kilometre|km²]]<br />(0.033 Earths)
+| volume = 7.15{{e|9}} [[cubic kilometre|km³]]<br />(0.0066 Earths)
+| mass = [[1 E22 kg|(1.305±0.007){{e|22}}]] [[kilogram|kg]] <sup>[http://arxiv.org/abs/astro-ph/0512491]</sup><br />(0.0021 Earths)
+| density = 2.03±0.06 g/cm³ <sup>[http://arxiv.org/abs/astro-ph/0512491]</sup>
+| surface_grav = 0.58 [[Acceleration|m/s²]]<br />(0.059 [[g-force|gee]])
+| escape_velocity = 1.2 km/s
+| sidereal_day = [[prograde and retrograde motion|−6.387230 day]]<br />(6 day 9 h 17 m 36 s)
+| rot_velocity = 47.18 km/h (at the equator)
+| axial_tilt = 119.591 ± 0.014° (to orbit)<ref name="Buie06">{{cite journal |author=Marc W. Buie, William M. Grundy, Eliot F. Young, Leslie A. Young, S. Alan Stern |title=''Orbits and photometry of Pluto's satellites: Charon, S/2005 P1, and S/2005 P2'' |journal=Astronomical Journal |year=2006 |volume=132 |pages=290 |url=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006AJ....132..290B&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=444b66a47d27727 |id={{arxiv|archive=astro-ph|id=0512491}} }}</ref><ref name=inclination>Based on the orientation of Charon's orbit, which is assumed the same as Pluto's spin axis due to the mutual [[tidal locking]].</ref>
+| right_asc_north_pole = 133.046 ± 0.014°<ref name="Buie06"/>
+| declination = -6.145 ± 0.014°<ref name="Buie06"/>
+| albedo = 0.49–0.66 (varies by 35%) <sup>[http://www.solarviews.com/eng/pluto.htm] [http://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html]</sup>
+| adjectives = Plutonian
+| atmosphere = yes
+| temperatures = yes
+| temp_name1 = [[Kelvin]]
+| min_temp_1 = 33 [[kelvin|K]]
+| mean_temp_1 = [[1 E1 K|44 K]]
+| max_temp_1 = 55 K
+| surface_pressure = 0.30 [[pascal (unit)|pascal]]s (summer maximum)
+| atmosphere_composition = [[nitrogen]], [[methane]]
+}}
+
+'''Pluto''' ([[International Phonetic Alphabet|IPA]]: [[British English|BrE]] {{IPA|/ˈpluːtəʊ/}}, [[American English|AmE]] {{IPA|/ˈplutoʊ/}}), also designated '''134340 Pluto''' (see ''[[minor planet names]]''), is the second-largest known [[dwarf planet]] in the [[Solar System|solar system]] and the tenth largest observed body directly orbiting the Sun. It orbits between 29 and 49 [[Astronomical unit|AU]] from the [[Sun]], and was the first [[Kuiper Belt|Kuiper Belt object]] to be discovered. Approximately one-fifth the mass of the [[Earth]]'s [[Moon]], Pluto is primarily composed of rock and ice. It has an [[orbital eccentricity|eccentric orbit]] that is highly inclined with respect to the planets and takes it closer to the Sun than [[Neptune]] during a portion of its orbit.
+
+Pluto and its largest satellite, [[Charon (moon)|Charon]], could be considered a [[Binary system (astronomy)|binary system]] because they are closer in size than any of the other known celestial pair combinations in the solar system, and because the [[Center of mass#Barycenter|barycenter]] of their orbits does not lie within either body.<ref>{{cite web|title=The mass ratio of Charon to Pluto from Hubble Space Telescope astrometry with the fine guidance sensors|author=C.B. Olkin, L.H. Wasserman, and O.G. Franz|work=Lowell Observatory|url=http://www.as.utexas.edu/~fritz/astrometry/Papers_in_pdf/%7BOlk03%7DPlutoCharon.pdf|year=2003|accessdate=2007-03-13}}</ref>  However, the [[International Astronomical Union]] (IAU) has yet to formalize a definition for binary dwarf planets, so Charon is currently regarded as a [[natural satellite|moon]] of Pluto.<ref>{{cite web|title=The Path to Defining Planets|author=Owen Gingerich|work=Harvard-Smithsonian Center for Astrophysics/IAU
+EC “Planet Definition” Committee chair|year=2006|url=http://astro.cas.cz/nuncius/nsiii_03.pdf|accessdate=2007-03-13}}</ref> Two smaller moons, [[Nix (moon)|Nix]] and [[Hydra (moon)|Hydra]], were discovered in 2005.<ref>{{cite web|title=Observing Two Pluto Stellar Approaches In 2006: Results On Pluto's Atmosphere And Detection Of Hydra|author=Sicardy, Bruno, Beisker, W. et. al.|url=http://adsabs.harvard.edu/abs/2006DPS....38.3106S|year=2006|accessdate=2007-03-13}}</ref> Pluto is smaller than several of the [[natural satellite|natural satellites or moons]] in our solar system (see the [[list of solar system objects by radius]]).
+
+From its discovery by [[Clyde Tombaugh]] in 1930, Pluto was considered the Solar System's ninth [[planet]]. In the late 20th and early 21st century, many similar objects were discovered in the outer solar system, most notably the [[trans-Neptunian object]] [[Eris (dwarf planet)|Eris]] which is slightly larger than Pluto. On [[August 24]], [[2006]] the IAU [[2006 definition of planet|defined the term "planet"]] for the first time.  This definition excluded Pluto, which was then reclassified under the new category of [[dwarf planet]] along with Eris and [[Ceres (dwarf planet)|Ceres]].<ref> {{cite web | url=http://news.bbc.co.uk/1/hi/magazine/4737647.stm | title=Farewell Pluto? | last=Akwagyiram | first=Alexis | publisher=BBC News | date=[[2005-08-02]] | accessdate=2006-03-05}}</ref> Pluto is also classified as the [[Pluto prototype|prototype]] of a family of trans-Neptunian objects.<ref>{{cite web | url=http://www.iau2006.org/mirror/www.iau.org/iau0602/index.html | title=The Final IAU Resolution on the definition of "planet" ready for voting | publisher=IAU | date=[[2006-08-24]] | accessdate=2006-08-24}}</ref><ref>{{cite web | url=http://www.cbsnews.com/stories/2006/08/24/ap/tech/mainD8JN2MIG0.shtml | title=Dinky Pluto loses its status as planet | last=Kole | first=William J. | publisher=AP | date=[[2006-08-24]] | accessdate=2006-10-22}}</ref> After the reclassification, Pluto was added to the list of minor planets and given the [[Astronomical naming conventions#Minor planets|number]] 134340.<ref>{{cite web | url=http://cfa-www.harvard.edu/mpec/K06/K06R19.html | title=MPEC 2006-R19 : EDITORIAL NOTICE | last=Spahr | first=Timothy B. | publisher=Minor Planet Center | date=[[2006-09-07]] | accessdate=2006-09-07}}</ref><ref>{{cite web | url=http://www.newscientistspace.com/article/dn10028-pluto-added-to-official-minor-planet-list.html | title=Pluto added to official "minor planet" list | last=Shiga | first=David | publisher=[[NewScientist]] | date=[[2006-09-07]] | accessdate=2006-09-08}}</ref>
+
+==Discovery==
+[[Image:Pluto discovery plates.png|thumb|left|250px|Discovery photographs of Pluto]]
+In&nbsp;1930&nbsp;[[Clyde Tombaugh|Clyde&nbsp;Tombaugh]] was working on a project searching for a ninth planet at [[Lowell Observatory]]. Tombaugh's work was to systematically take pictures of the celestial sky in pairs, one to two weeks apart, then look for objects that had moved between images. On [[February 18]], [[1930]], Tombaugh discovered a possible moving object on photographic plates taken on [[January 23]] and [[January 29]] of that year. A lesser-quality photo taken on [[January 20]] helped confirm the movement. After the observatory worked to obtain further confirmatory photographs, news of the discovery was telegraphed to the [[Harvard College Observatory]] on [[March 13]], [[1930]]. Pluto would later be found on photographs dating back to [[March 19]], [[1915]].<ref>{{cite web|title=W. H. Pickering's Planetary Predictions and the Discovery of Pluto|author=William Graves Hoyt|url=http://links.jstor.org/sici?sici=0021-1753(197612)67%3A4%3C551%3AWHPPPA%3E2.0.CO%3B2-I|year=1976|accessdate=2007-06-27}}</ref>
+
+===False prediction===
+The history of how Pluto was discovered is intertwined with the discoveries of [[Neptune]] and [[Uranus]]. In the 1840s, using [[Newtonian mechanics]], both [[Urbain Le Verrier]] and [[John Couch Adams]] had correctly predicted the position of the then-undiscovered planet Neptune after analyzing perturbations in the orbit of Uranus. Theorizing the perturbations were caused by the gravitational pull of another planet, [[Johann Gottfried Galle]] discovered Neptune on [[September 23]], [[1846]].<ref>{{cite book|title=Planet Quest: The Epic Discovery of Alien Solar Systems|author=Ken Croswell|publisher=The Free Press|year=1997|pages=43}}</ref>
+
+Observations of Neptune in the late 19th century had astronomers starting to speculate that Uranus's orbit was also being disturbed by another planet in addition to Neptune. In 1905, Lowell Observatory (founded by [[Percival Lowell]] in 1894) started an extensive project in search of a possible ninth planet, which Lowell termed "[[Planet X]]".<ref name="pluto guide">{{cite web| url=http://www.space.com/spacewatch/050311_pluto_guide.html| title=Finding Pluto: Tough Task, Even 75 Years Later| first=Joe| last= Rao| publisher=SPACE.com| date=11 March 2005| accessdate=2006-09-08}}</ref> By 1909, Lowell and [[William Henry Pickering|William H. Pickering]] had suggested several possible celestial coordinates for such a planet.<ref>
+{{cite journal 
+| title = W. H. Pickering's Planetary Predictions and the Discovery of Pluto
+| author = William Graves Hoyt 
+| journal =Isis
+| volume = 67
+| issue =4
+| year = 1976
+| pages = 551–564. 
+| url = http://links.jstor.org/sici?sici=0021-1753%28197612%2967%3A4%3C551%3AWHPPPA%3E2.0.CO%3B2-I}}
+</ref> The work continued after Lowell's death in 1916. 
+
+Pluto is too small to have the effect on Uranus's orbit that initiated the search. After the flyby of Neptune by [[Voyager 2]] in 1989, it was conclusively demonstrated that the discrepancies in Uranus's orbit observed by 19th century astronomers were due instead to inaccurate estimates of Neptune's mass. Once found, Pluto's faintness and lack of a visible disk cast doubt on the idea that it could be Percival Lowell's Planet X. Lowell had made a prediction of Pluto's position in 1915 which was fairly close to its actual position at that time; however, [[Ernest W. Brown]] concluded almost immediately that this was a coincidence, and this view is still held today, which makes Tombaugh's discovery even more surprising.<ref>{{cite web
+|url=http://www.phys-astro.sonoma.edu/people/faculty/tenn/asphistory/1994.html
+|title=History I: The Lowell Observatory in 20th Century Astronomy 
+|publisher=The Astronomical Society of the Pacific
+|date=[[1994-06-28]]
+|accessdate=2006-03-05}}</ref>
+===Naming===
+[[Image:Venetia phair.jpg|thumb|left|150px|[[Venetia Phair|Venetia Burney]], the girl who named Pluto]]The right to name the new object belonged to the Lowell Observatory and its director, [[Vesto Melvin Slipher]]. Tombaugh urged Slipher to suggest a name quickly for the new object before someone else did.<ref name="pluto guide"/> Name suggestions poured in from all over the world. Constance Lowell, [[Percival Lowell]]'s widow, proposed ''[[Zeus]],'' then ''Lowell,'' and finally her own first name, none of which met with any enthusiasm.<ref>{{cite web|title=The Search Continues|Brad Mager|work=Pluto: The Discovery of Planet X|url=http://www.discoveryofpluto.com/pluto05.html|accessdate=2007-03-27}}</ref> 
+
+The name Pluto was first suggested by [[Venetia Phair|Venetia Burney]] (later Venetia Phair), an eleven-year-old girl from [[Oxford, England|Oxford]], [[England]].<ref name="Venetia">Rincon, Paul. "[http://news.bbc.co.uk/1/hi/sci/tech/4596246.stm The girl who named a planet]." ''[[BBC News]].'' [[January 13]], [[2006]]. Retrieved on [[October 10]], [[2006]].</ref> Venetia, who was interested in [[Classical mythology]] as well as astronomy, suggested the name, the Roman equivalent of [[Hades]], in a conversation to her grandfather [[Falconer Madan]], a former [[librarian]] of [[Oxford University]]'s [[Bodleian Library]].<ref>{{cite web
+|url=http://www.amblesideonline.org/PR/PR62p030PlanetPluto.shtml
+|title=The Planet 'Pluto'
+|first= K.M
+|last= Claxton
+|publisher=Parents' Union School Diamond Jubilee Magazine, 1891–1951 (Ambleside: PUS, 1951), p. 30–32
+|accessdate=2006-08-24}}</ref> Madan passed the suggestion to Professor [[Herbert Hall Turner]], Turner then cabled the suggestion to colleagues in America. 
+
+The object was officially named on [[March 24]] [[1930]].<ref>''The Trans-Neptunian Body: Decision to call it Pluto'', The ''Times'', Tuesday, May 27, 1930; pg. 15</ref> Each member of the Lowell Observatory was allowed to vote on a shortlist of three: "Minerva" (which was already the name for an asteroid), "Cronus" (which had garnered a bad reputation after being suggested by an unpopular astronomer named [[Thomas Jefferson Jackson See]]) and Pluto. Pluto received every single vote.<ref>Croswell pp. 54-55</ref> The name was announced on [[May 1]], [[1930]].<ref name="Venetia"/> Upon the announcement, Madan gave Venetia five pounds as a reward.<ref name="Venetia"/> 
+
+The name that was retained for the object is that of the [[Roman god]] [[Pluto (god)|Pluto]], and it is also intended to evoke the initials of the astronomer [[Percival Lowell]]. In the [[Chinese language|Chinese]], [[Japanese language|Japanese]], and [[Korean language|Korean]] languages, the name was translated as ''underworld king star'' (冥王星), suggested by [[Houei Nojiri]] in 1930. In [[Vietnamese language|Vietnamese]] it is named after [[Yama (Buddhism and Chinese mythology)|Yama]] (''Sao Diêm Vương''), the Guardian of Hell in [[Buddhist]] mythology. Yama ([[Devanāgarī]] यम) is also used in India, as it is the deity of Hell in Hindu mythologies.
+
+<div style="clear: both"></div>
+
+===Symbol===
+Pluto's [[astronomical symbol]] is a P-L [[monogram]], [[Image:Pluto symbol.svg|20px|{{Unicode|♇}}]]. This represents both the first two letters of the name Pluto and the initials of [[Percival Lowell]], who had searched extensively for a ninth planet and who had founded [[Lowell Observatory]], the observatory from which Tombaugh discovered Pluto.<ref>{{Cite web
+  | title =NASA's Solar System Exploration: Multimedia: Gallery: Pluto's Symbol
+  | url =http://sse.jpl.nasa.gov/multimedia/display.cfm?IM_ID=263
+  | publisher=NASA
+  | accessdate =2007-03-25  }}</ref>
+Pluto's [[astrological symbol]] resembles that of [[Neptune]] ( [[Image:Neptune symbol.svg|20px]] ), but has a circle in place of the middle prong of the trident ( [[Image:Pluto's astrological symbol.svg|20px]] ).
+
+== Physical characteristics ==
+[[Image:ThePlutinos_Size_Albedo_Color2.svg|thumb|right|200px|The largest [[plutino]]s compared in size, [[albedo]] and [[color index|colour]].]]
+
+Pluto's distance from Earth makes in-depth investigation difficult.  Many details about Pluto will remain unknown until the first [[space probe]] to the system.
+
+=== Appearance ===
+Pluto's mean [[apparent magnitude]] is 15.1 ''m'' with a maximum of 13.56 ''m''.<ref name="Pluto Fact Sheet">{{cite web
+  | last =Williams
+  | first = David R.
+  | title =Pluto Fact Sheet
+  | publisher =NASA
+  | date = 7 September 2006
+  | url =http://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html
+  | accessdate =2007-03-24  }}</ref> To see it, a telescope of around 30 cm aperture is desirable.<ref>{{cite web | url=http://www.science.edu.sg/ssc/detailed.jsp?artid=1950&type=6&root=6&parent=6&cat=66 | title=This month Pluto's apparent magnitude is m=14.1. Could we see it with an 11" reflector of focal length 3400mm? | publisher=Singapore Science Centre | accessdate=2007-03-25}}</ref> It looks star-like even in very large telescopes because its angular diameter is only 0.15". The color of Pluto is light brown with a very slight tint of yellow.<ref>{{cite web | url=http://curious.astro.cornell.edu/question.php?number=236 | title=What color is each planet? | work=Curious about Astronomy? | publisher=Cornell University | author=Matija Cuk | date=September 2002 | accessdate=2007-03-25}}</ref>
+
+Distance and limits on telescope technology make it currently impossible to directly photograph surface details on Pluto. Images from the [[Hubble Space Telescope]] barely show any distinguishable surface definitions or markings.<ref>{{cite web|title=Hubble Reveals Surface of Pluto for First Time|work=Hubblesite|url=http://hubblesite.org/newscenter/archive/releases/1996/09|year=1996|accessdate=2007-03-26}}</ref> The best images of Pluto derive from brightness maps created from close observations of eclipses by its largest moon, Charon. Using computer processing, observations are made in brightness factors as Pluto is eclipsed by Charon. For example, eclipsing a bright spot on Pluto makes a bigger total brightness change than eclipsing a gray spot. Using this technique, one can measure the total average brightness of the Pluto-Charon system and track changes in brightness over time.<ref>{{cite web|title=A Two-Color Map of Pluto Based on Mutual Event Lightcurves|author=Young, E. F.; Binzel, R. P.; Crane, K.|work=AA(SwRI), AB(M.I.T.), AC(Boulder High School)|url=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2000DPS....32.4601Y|year=2000|accessdate=2007-03-26}} </ref> <!-- See [[XYZ Technique]], someone with knowledge of the technique should forward to the correct page and trim the paragraph. -->
+
+=== Mass and size ===
+[[Image:Pluto, Earth size comparison.jpg|thumb|200px|Pluto's volume is about 0.66% that of Earth's]]
+Astronomers, assuming Pluto to be Lowell's Planet X, initially calculated its mass based on its presumed effect on Neptune and Uranus. In 1955, Pluto was calculated to be roughly the mass of the Earth, with further calculations in 1971 bringing the mass down to roughly that of Mars.<ref name="Croswellp57">Croswell p. 57</ref> However, in 1976, David Cuikshank, Carl Pilcher and David Morrison of the [[University of Hawaii]] calculated Pluto's [[Albedo#Astronomical albedo|albedo]] for the first time, and found it matched that for [[methane]] ice, which meant Pluto had to be exceptionally bright, and therefore could not be more than 1 percent the mass of the Earth.<ref name="Croswellp57"/><ref>Pluto's albedo is 1.3-2.0 times greater than that of Earth. {{cite web
+  | last =Williams
+  | first = David R.
+  | title =Pluto Fact Sheet
+  | publisher =NASA
+  | date = 7 September 2006
+  | url =http://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html
+  | accessdate =2007-03-24  }}</ref> 
+
+[[Image:Pluto_compared2.jpg|thumb|250px|Pluto (bottom right) compared in size to the largest satellites in the solar system (from left to right and top to bottom): [[Ganymede_(moon)|Ganymede]], [[Titan (moon)|Titan]], [[Callisto (moon)|Callisto]], [[Io (moon)|Io]], the [[Moon]], [[Europa (moon)|Europa]], and [[Triton (moon)|Triton]].]]The discovery of its satellite [[Charon (moon)|Charon]] in 1978 enabled a determination of the mass of the Pluto-Charon system by application of [[Kepler's laws of planetary motion#Kepler's understanding of the laws|Newton's formulation of Kepler's third law]]. Once Charon's gravitational effect on Pluto was measured, Pluto's mass fell to 0.24 percent that of the Earth.<ref>{{cite web|title=Beyond Pluto (extract)|author=John Davies|work=
+Royal Observatory, Edinburgh|url=http://assets.cambridge.org/052180/0196/excerpt/0521800196_excerpt.pdf|year=2001|accessdate=2007-03-26}}</ref> Observations were able to determine Pluto's diameter when it is at occultation with Charon<ref>{{cite web|title=Improved Orbital and Physical Parameters for the Pluto-Charon System|author= DAVID J. THOLEN, MARC W. BUIE, RICHARD P. BINZEL, MARIAN L. FRUEH|url=http://www.sciencemag.org/cgi/content/abstract/237/4814/512|work=Institute for Astronomy, University of Hawaii, Astronomy Department and McDonald Observatory, University of Texas|year=1987|accessdate=2007-03-26}}</ref> and its shape can be resolved by telescopes using [[adaptive optics]].<ref>{{cite web|title=Adaptive optics imaging of Pluto-Charon and the discovery of a moon around the Asteroid 45 Eugenia: the potential of adaptive optics in planetary astronomy
+|author=Close, Laird M., Merline, William J., Tholen, David J., Owen, Tobias C., Roddier, Francois J., Dumas, C.,
+|work=European Southern Observatory
+|url=http://www.spie.org/scripts/abstract.pl?bibcode=2000SPIE.4007..787C
+|year=2000|accessdate=2007-03-26}}</ref> Pluto's diameter is 2,390 km.
+
+Among the objects of the Solar System, Pluto is not only smaller and much less massive than any planet, but at less than 0.2 lunar masses it is also smaller than seven of the [[natural satellite|moon]]s: [[Ganymede (moon)|Ganymede]], [[Titan (moon)|Titan]], [[Callisto (moon)|Callisto]], [[Io (moon)|Io]], the [[Moon]], [[Europa (moon)|Europa]] and [[Triton (moon)|Triton]]. Pluto is more than twice the diameter and a dozen times the mass of [[1 Ceres|Ceres]], a [[dwarf planet]] in the [[asteroid belt]]. However, it is smaller than the dwarf planet [[Eris (dwarf planet)|Eris]], a [[trans-Neptunian object]] discovered in 2005. See [[List of solar system objects by mass]] and [[List of solar system objects by radius]].
+
+=== Atmosphere ===
+Pluto does not have a significant atmosphere. It has a thin envelope of gas that is most likely made up of [[nitrogen]], [[methane]], and [[carbon monoxide]], that develops in equilibrium with solid nitrogen and carbon monoxide ices on the surface as it approaches [[the Sun]]. As Pluto moves away from its [[perihelion]] and farther from the Sun, more of its [[atmosphere]] freezes and falls to the ground. When it returns to a closer proximity to the Sun, the temperature of Pluto's solid surface will increase, causing the nitrogen ice to [[Sublimation (physics)|sublimate]] into gas&mdash;creating an [[Anti-Greenhouse Effect|anti-greenhouse effect]]. Much as [[sweat]] evaporating from the surface of human [[skin]], this sublimation has a cooling effect and scientists have recently discovered,<ref>{{cite web
+|url=http://www.cnn.com/2006/TECH/space/01/03/pluto.temp/index.html
+|title=Astronomers: Pluto colder than expected
+|first=Ker
+|last=Than
+|publisher=Space.com (via CNN.com)
+|year=2006
+|accessdate=2006-03-05}}</ref> by use of the [[Submillimeter Array]], that Pluto's temperature is 10 [[kelvin]]s less than they expected. 
+
+Pluto was found to have an atmosphere from an [[occultation]] observation in 1985; the finding was confirmed and significantly strengthened by extensive observations of another occultation in 1988. When an object with no atmosphere occults a star, the star abruptly disappears; in the case of Pluto, the star dimmed out gradually.<ref>{{cite web|title=IAUC 4097|url=http://cfa-www.harvard.edu/iauc/04000/04097.html#Item0|year=1985|accessdate=2007-03-26}}</ref> From the rate of dimming, the atmosphere was determined to have a pressure of 0.15 [[Pascal (unit)|Pa]], roughly 1/700,000 that of Earth.<ref>{{cite web|title=The atmospheres of Pluto and other trans-Neptunian objects|author=Robert Johnston|url=http://www.johnstonsarchive.net/astro/pluto.html|year=2006|accessdate=2007-03-26}}</ref>
+
+In 2002, another occultation of a star by Pluto was observed and analyzed by teams led by Bruno Sicardy of the [[Paris Observatory]]<ref>{{cite web
+|url=http://calys.obspm.fr/~sicardy/pluton/pr_obs_en.html
+|title=Drastic expansion of Pluto's atmosphere as revealed by stellar occultations
+|author=Bruno Sicardy
+|coauthors=Thomas Widemann 
+|publisher=Nature
+|date=[[2003-07-10]]
+|accessdate=2006-03-05
+}}</ref> and by James Elliot of [[MIT]]<ref>{{cite web
+|url=http://web.mit.edu/newsoffice/2002/pluto.html
+|title=Pluto is undergoing global warming, researchers find
+|publisher=Massachusetts Institute of Technology
+|date=[[2002-10-09]]
+|accessdate=2007-03-20}}</ref> and [[Jay Pasachoff]] of [[Williams College]].<ref>{{cite web
+|url=http://www.williams.edu/admin/news/releases.php?id=162
+|title=Williams Scientists Contribute to New Finding About Pluto
+|publisher=Williams College
+|date=[[2003-07-09]]
+|accessdate=2007-03-20}}</ref> Surprisingly, the atmosphere was estimated to have a pressure of 0.3 Pa, even though Pluto was further from the Sun than in 1988, and hence should be colder and have a less dense atmosphere. The current best hypothesis is that the south pole of Pluto came out of shadow for the first time in 120 years in 1987, and extra nitrogen sublimated from a polar cap. It will take decades for the excess nitrogen to condense out of the atmosphere.<ref>{{cite web|title=Puzzling Seasons and Signs of Wind Found on Pluto|author=Robert Roy Britt|work=Space.com|url=http://www.space.com/scienceastronomy/pluto_seasons_030709.html|year=2003|accessdate=2007-03-26}}</ref>
+
+In [[October]], [[2006]], the spectroscopic discovery of ethane (C2H6) on Pluto's surface, presented by Dale Cruikshank of NASA/Ames Research Center (a New Horizons co-investigator) and colleagues was announced. This ethane is produced from the photolysis or radiolysis (i.e., the chemical conversion driven by sunlight and charged particles) of frozen methane (CH4) on Pluto's surface and suspended in its atmosphere.<ref>{{cite web | last = Stern | first = Alan | authorlink =Alan Stern | year = [[November 1]] [[2006]] | url = http://pluto.jhuapl.edu/overview/piPerspectives/piPerspective_11_1_2006.php | title = Making Old Horizons New | work = The PI's Perspective | publisher = Johns Hopkins University Applied Physics Laboratory | accessdate = February 12 | accessyear = 2007}}</ref>
+
+The MIT-Williams College team of James Elliot and [[Jay Pasachoff]] and a [[Southwest Research Institute]] team led by Leslie Young observed a further occultation of a star by Pluto on 12 June 2006 from sites in Australia.<ref>Elliot, J. L., Person, M. J., Gulbis, A. A. S., Adams, E. R., Kramer, E. A., Zuluaga, C. A., Pike, R. E., Pasachoff, J. M., Souza, S. P., Babcock, B. A., Gangestad, J. W., Jaskot, A. E., Francis, P. J., Lucas, R., Bosh, A. S. 2006, "The Size of Pluto's Atmosphere As Revealed by the 2006 June 12 Occultation," Pasadena Division of Planetary Sciences meeting, October 2006<!--The results were reported at the October meeting of the Division of Planetary Sciences of the--></ref>
+
+=== Composition ===
+[[Image:Pluto-cutaway.svg|thumb|150px|right|Possible structure of Pluto. <br /> '''1.''' Frozen methane <br /> '''2.''' Water ice <br /> '''3.''' Silicate and water ice]]
+[[Spectroscopic]] analysis of Pluto's surface reveals it is compsed of over 98 percent [[nitrogen]] ice, with traces of methane and carbon monoxide.<ref>{{cite web|title=Surface Ices and the Atmospheric Composition of Pluto|author=Tobias C. Owen, Ted L. Roush et. al.|url=http://www.sciencemag.org/cgi/content/abstract/261/5122/745|year=1993|accessdate=2007-03-29}}</ref><ref name=Solstation>{{cite web|title=Pluto|work=SolStation|url=http://www.solstation.com/stars/pluto.htm|year=2006|accessdate=20007-03-28}}</ref> It is remarkably [[heterogeneous]], as evidenced by its lightcurve, maps of its surface constructed from Hubble Space Telescope observations, and by periodic variations in its infrared spectra. The face of Pluto oriented toward Charon contains more [[methane]] ice, while the opposite face contains more [[nitrogen]] and [[carbon monoxide]] ice. This makes Pluto the second most contrasted body in the Solar System after [[Iapetus (moon)|Iapetus]].<ref>{{cite news | url=http://www.msnbc.msn.com/id/3077880/ | publisher=MSNBC | title=Pluto regains its place on the fringe | author=Alan Boyle | date=[[1999-02-11]] | accessdate=2007-03-20}}</ref> The [[Hubble Space Telescope]] places Pluto's density at between 1.8 and 2.1 g/cm³, suggesting its internal composition consists of roughly 50-70 percent rock and 50-30 percent ices.<ref name=Solstation /> Because decay of radioactive minerals would eventually heat the ices enough for them to separate from rock, scientists expect that Pluto's internal structure is diffrentiated, with the rocky material having settled into a dense core surrounded by a [[mantle (geology)|mantle]] of ice. It is also possible that such heating may continue into the present time, creating a subsurface ocean of liquid water.<ref>{{cite web|title=The Inside Story|work=New Horizons|url=http://www.pluto.jhuapl.edu/science/everything_pluto/9_insideStory.html|year=2007|accessdate=2007-03-29}}</ref>
+
+== Orbit ==
+[[Image:TheKuiperBelt_Orbits_Pluto_Ecliptic.svg|right|thumb|300px|Orbit of Pluto – ecliptic view. This 'side view' of Pluto's orbit (in red) shows its large [[orbital inclination|inclination]] to Neptune's orbit (in blue). The [[ecliptic]] is horizontal]]
+Pluto's orbit is very unusual in comparison to those of the planets. The planets all orbit the Sun close to a flat reference [[plane (mathematics)|plane]] called the [[ecliptic]], and have nearly circular orbits. In contrast, Pluto's orbit is highly [[orbital inclination|inclined]] to the ecliptic (over 17°) and highly [[orbital eccentricity|eccentric]] ([[elliptical]]). 
+
+The high eccentricity also leads to a small region of Pluto's orbit lying closer to the Sun than [[Neptune]]'s. Pluto last passed through Neptune's orbit between [[February 7]], [[1979]] and [[February 11]], [[1999]]. Detailed calculations indicate that the previous such occurrence lasted only fourteen years from [[July 11]], [[1735]] to [[September 15]], [[1749]]. The previous time around, between [[April 30]], [[1483]] and [[July 23]], [[1503]] this situation persisted again for around 20 years similarly to the 20th century. In fact, the length of periods when Pluto is closer to the Sun than Neptune lasts alternately for approximately thirteen and twenty years with minor variations. {{Fact|date=March 2007}}
+
+=== Neptune-avoiding orbit ===
+[[Image:TheKuiperBelt_Orbits_Pluto_Polar.svg|right|thumb|300px|Orbit of Pluto – polar view. This 'view from above' shows how Pluto's orbit (in red) is less circular than Neptune's (in blue), and how Pluto is sometimes closer to the Sun than Neptune. The darker halves of both orbits show where they pass below the [[plane of the ecliptic]]. The positions of both bodies are on [[April 16]], [[2006]]; by April 2007 they will have changed by about 1 pixel.]] 
+
+Despite Pluto's orbit apparently crossing that of Neptune when viewed from directly above the ecliptic, the two objects cannot collide. This is because their orbits and their simultaneous positions on them are so aligned that Pluto and Neptune never approach closely. Two factors contribute to this:
+
+Firstly, the orbits do not cross because Pluto's closest approach to the Sun occurs when it is farthest above the plane of the Solar System.<ref name=huainn01>{{cite web|title=The 1 : 1 Superresonance in Pluto's Motion|author=X.-S. Wan, T.-Y. Huang, and K. A. Innanen|url=http://www.journals.uchicago.edu/cgi-bin/resolve?id=doi:10.1086/318733&erFrom=-915250793819668883Guest|year=2001|accessdate=2007-03-26}}</ref> The part of Pluto's orbit that lies as close or closer to the Sun than Neptune lies about 8 [[astronomical unit|AU]] above the [[ecliptic]],<ref name=hunter04>{{cite web|title=Unmanned scientific exploration throughout the solar system|author=Maxwell W. Hunter II|work=NASA Programs, Lockheed Missiles & Space Company|url=http://www.springerlink.com/content/gr2261t06700624t/|year=2004|accessdate=2007-03-28}}</ref> and hence also 8 AU above Neptune's orbit.<ref name=malhotra-9planets>{{cite web|title=Pluto's Orbit|author=Renu Malhotra|url=http://www.nineplanets.org/plutodyn.html|year=1997|accessdate=2007-03-26}}</ref> Pluto's [[Orbital node|nodes]] (the points at which the orbit crosses the ecliptic and hence the plane of Neptune's orbit) are separated from Neptune's by a distance of 6.4 AU. (see diagram) {{Fact|date=March 2007}}  
+
+Secondly, even when looking down on the ecliptic from a polar view as on the diagram at left, the locations of Pluto and Neptune on their orbits are synchronized in such a way that they never approach closely.<ref name=malhotra-9planets />
+[[Image:TheKuiperBelt_Orbits_Pluto_Neptune2.svg|thumb|300px|This diagram shows the relative positions of Pluto (red) and Neptune (blue) on selected dates. The size of Neptune and Pluto is depicted as inversely proportional to the distance to facilitate comparison. The closest approach is in 1896.]]
+In particular, Pluto orbits with a 3:2 [[orbital resonance|mean motion resonance]] to [[Neptune (planet)|Neptune]]; for every 3 orbits of Neptune around the Sun, Pluto makes two or, alternately, for every one of Pluto's orbits, Neptune makes one-and-a-half. Their configurations repeat about every 500 years. At Pluto's [[perihelion]], Neptune is always around a quarter of an orbit away. From Neptune's perspective, Pluto nears to within about 18 AU from the left in one orbit, then makes a more distant approach from the right in its next orbit 248 years later. The alignment of the orbits is such that when Neptune reaches the point at which the orbits cross, Pluto remains far behind, and when Pluto in turn reaches that point, Neptune is far (over 50°) ahead. When Pluto completes one orbit, Neptune is half an orbit away.<ref name=malhotra-9planets /> The closest approach between Neptune and Pluto occurs some 30 years after Pluto's [[aphelion]], when they have similar [[mean longitude|longitude]]s. The minimum distance between them is 18.9 AU; they last made closest approach in June 1896. 
+
+The 3:2 resonance ensures that this set of alignments repeats approximately every two Pluto orbits, and is preserved qualitatively over millions of years<ref name=sp-345>{{cite web|author=Hannes Alfvén and Gustaf Arrhenius|url=http://history.nasa.gov/SP-345/ch8.htm||title= SP-345 Evolution of the Solar System|year=1976|accessdate=2007-03-28}}</ref> ([[#Long-term orbit evolution|see below]]). As a result, the closest Pluto can ever come to Neptune is 17 AU. In fact, Pluto occasionally approaches [[Uranus (planet)|Uranus]] significantly more closely — only 11 AU.<ref name=malhotra-9planets />
+
+=== Long-term orbit evolution ===
+Numerical studies have shown that over periods of millions of years, the general nature of the alignment between Pluto's and Neptune's orbits does not change. There is, however, a [[libration]] of Pluto's perihelion around a point 90° away from Neptune. This libration has a period of around 20,000 years (about 80 Pluto orbits) and a double amplitude of 76° around its average location with respect to Neptune<ref name=sp-345 />. 
+
+Pluto is also affected by the [[Kozai mechanism]], which causes its closest approach to the Sun to occur when it is farthest out of the plane of the Solar System (ecliptic).<ref name=huainn01 /> This means that the part of Pluto's orbit that lies as close or closer to the Sun than Neptune always lies well above the [[ecliptic]],<ref name=hunter04 /> and hence also above Neptune's orbit.<ref name=malhotra-9planets />
+
+To understand the nature of the libration, let us choose a polar point of view, looking down on the ecliptic from a distant vantage point where the planets orbit [[counter-clockwise]]. The majority of Neptune's gravitational effect on Pluto occurs around the time when Pluto makes its closest approach to Neptune during the 500 year cycle that includes 2 Pluto orbits and 3 of Neptune. Hence, when Pluto makes its closest approach approximately from behind, as in catching up to Neptune along its orbit, then the net effect of Neptune will be to transfer [[angular momentum]] to Pluto. The net result of this angular momentum transfer turns out to be that the alignment of Pluto's orbit changes so that, in the next 500 year cycle, the point of closest approach will be at a slightly different position relative to Neptune.<ref name=sp-345 /> In fact, in the phase described above, it gradually moves towards a position which is approximately in [[opposition (astronomy)|opposition]] to Neptune, at Pluto's [[aphelion]], over about 10 such cycles. Later, the slow change in the orbit continues in a similar fashion until the point of closest approach takes place approximately ahead of Neptune in its orbit. During this phase, the net effect of Neptune is again to pull Pluto towards itself, but this time, because of their different relative orientation, this has the effect of taking angular momentum away from Pluto. The point of closest approach heads toward a point ahead of Neptune, then starts to head back towards being located at aphelion again, and the whole libration repeats.<ref name=sp-345 /><ref name=malhotra-9planets />
+
+== Moons ==
+{{main|Pluto's natural satellites}}
+[[Image:Pluto_system_2006.jpg|thumb|right|225px|Pluto and its three known moons. Pluto and Charon are the bright objects in the center, the two smaller moons are at the right and bottom, farther out.]]
+[[Image:Plutonian system.jpg|thumb|230px|Artist's concept of the surface of [[Hydra (moon)|Hydra]]. Pluto with [[Charon (moon)|Charon]] (right) and [[Nix (moon)|Nix]] (bright dot on left).]]
+Pluto has three known [[natural satellite]]s: [[Charon (moon)|Charon]], first identified in 1978 by astronomer James Christy; and two smaller moons, [[Nix (moon)|Nix]] and [[Hydra (moon)|Hydra]], both discovered in [[2005]].<ref>Gugliotta, Guy. "[http://www.washingtonpost.com/wp-dyn/content/article/2005/10/31/AR2005103101426.html Possible New Moons for Pluto]." ''[[Washington Post]].'' [[November 1]], [[2005]]. Retrieved on [[October 10]], [[2006]].</ref>
+
+The Plutonian moons are unusually close to Pluto, compared to other observed systems. Moons could potentially orbit Pluto up to 53% (or 69%, if retrograde) of the [[Hill sphere]] radius, the stable gravitational zone of Pluto's influence. For example, [[Psamathe (moon)|Psamathe]] orbits Neptune at 40% of the Hill radius. In the case of Pluto, only the inner 3% of the zone is known to be occupied by satellites. In the discoverers’ terms, the Plutonian system appears to be "highly compact and largely empty."<ref name="Sternetal 2006">
+S.A. Stern, H.A. Weaver, A.J. Steffl, M.J. Mutchler, W.J. Merline, M.W. Buie, E.F. Young, L.A. Young, J.R. Spencer ''Characteristics and Origin of the Quadruple System at Pluto''. Nature '''439''', 946&ndash;948 (23 February 2006)
+[http://www.arxiv.org/abs/astro-ph/0512599 Final preprint on ArXiv]
+</ref>
+
+=== Charon ===
+The Pluto-Charon system is noteworthy for being the largest of the solar system's few binary systems, i.e. whose [[Center of mass#Barycenter|barycenter]] lies above the primary's surface ([[617 Patroclus]] is a smaller example).<ref>{{cite web|title=BINARY MINOR PLANETS|author=Derek C. Richardson and ­ Kevin J. Walsh|work=Department of Astronomy, University of Maryland|url=http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.earth.32.101802.120208?journalCode=earth|year=2005|accessdate=2007-03-26}}</ref>  This and the large size of Charon relative to Pluto lead some astronomers to call it a dwarf [[double planet]].<ref>{{cite web|title=Charon’s size and an upper limit on its atmosphere from a stellar occultation |author=B. Sicardy et al.|url=http://scholar.google.com/scholar?hl=en&lr=&q=cache:D3OVs2KHZREJ:www.sc.eso.org/~omarco/Publications/Nature_2006_439p52.pdf+pluto++%22double+planet%22|year=2006|accessdate=2007-03-26}}</ref> The system is also unusual among planetary systems in that they are both [[Tidal locking|tidally locked]] to each other: Charon always presents the same face to Pluto, and Pluto also always presents the same face to Charon.<ref>{{cite web|title=The Once and Future Pluto|author=Leslie Young|work=Southwest Research Institute, Boulder, Colorado|url=www.boulder.swri.edu/~layoung/projects/talks03/IfA-jan03v1.ppt|year=1997|accessdate=2007-03-26}}</ref>
+
+
+
+
+
+<center>
+{| class="wikitable"
+|- 
+! style="background:#ffffff;" colspan="6" | Pluto and Charon, compared to Earth's '''Moon'''
+|-
+|- style="background:#efefef;"
+! colspan="2" | Name<br />
+([[Help:Pronunciation respelling key|Pronunciation key]])
+! Diameter (km) 
+! Mass (kg) 
+! Orbital radius (km)<br/>(barycentric)
+! Orbital period (d) 
+|- style="text-align:center; background:#ccccff"
+| '''Pluto''' || ''pl'''oo''''-toe''<br>{{IPA|/ˈpluːtəʊ/}} || 2306<br>(65%&nbsp;Moon) || 1.3{{e|22}}<br>(18%&nbsp;Moon) || 2390<br>(0.6%&nbsp;Moon) || style="background:#ffffff;" rowspan="2" | 6.3872<br>(25%&nbsp;Moon)
+|- style="text-align:center; background:#eeeeff"
+| '''[[Charon (moon)|Charon]]''' || ''shair'-ən''<br>{{IPA|/ˈʃɛərən/}} || 1205<br>(35%&nbsp;Moon) || 1.5{{e|21}}<br>(2%&nbsp;Moon) || 19,570<br>(5%&nbsp;Moon) 
+|}
+</center>
+
+=== Nix and Hydra ===
+[[Image:Pluto system.svg|thumb|250px|left|Diagram of the Plutonian system. P 1 is Hydra, and P 2 is Nix.]]
+Two additional moons of Pluto were imaged by astronomers working with the [[Hubble Space Telescope]] on [[May 15]] [[2005]], and received [[Provisional designation in astronomy|provisional designations]] of S/2005&nbsp;P&nbsp;1 and S/2005&nbsp;P&nbsp;2. The International Astronomical Union officially named Pluto's newest moons [[Nix (moon)|Nix]] (or Pluto&nbsp;II, the inner of the two moons, formerly P&nbsp;2) and [[Hydra (moon)|Hydra]] (Pluto&nbsp;III, the outer moon, formerly P&nbsp;1), on [[June 21]], [[2006]].<ref>{{cite press release | publisher=International Astronomical Union | date=2006-06-21 | title=IAU Circular No. 8723 - Satellites of Pluto | url=http://www-int.stsci.edu/~mutchler/documents/IAU_Circular_8723.pdf | accessdate=2007-02-12}}</ref>
+
+These small moons orbit Pluto at approximately two and three times the distance of Charon: Nix at 48,700 kilometres and Hydra at 64,800 kilometers from the barycenter of the system. They have nearly circular [[prograde and retrograde motion|prograde]] orbits in the same orbital plane as Charon, and are very close to (but not in) 4:1 and 6:1 mean motion [[orbital resonance]]s with Charon.<ref>{{cite journal | first = WR | last = Ward | coauthors = Canup, RM | year = 2006 | month = 25 August | title = Forced Resonant Migration of Pluto's Outer Satellites by Charon | journal = Science | volume = 313 | issue = 5790 | pages = 1107 - 1109 | id = {{doi|10.1126/science.1127293}} | url = http://www.sciencemag.org/cgi/content/abstract/sci;313/5790/1107 | accessdate = 2007-02-12}}</ref>
+
+Observations of Nix and Hydra are ongoing to determine individual characteristics. Hydra is sometimes brighter than Nix, speculating that it either is larger in dimension or different parts of its surface may vary in brightness. Sizes are estimated from albedos. The moons' spectral similarity with Charon suggests a 35% albedo similar to Charon's; this results in diameter estimates of 46 kilometers for Nix and 61 kilometers for brighter Hydra. Upper limits on their diameters can be estimated by assuming the 4% albedo of the darkest Kuiper Belt objects; these bounds are 137&nbsp;±&nbsp;11&nbsp;km and 167&nbsp;±&nbsp;10&nbsp;km respectively. At the larger end of this range, the inferred masses are less than 0.3% of Charon's mass, or 0.03% of Pluto's.<ref name="Weaver 2006">
+H. A. Weaver, S. A. Stern, M. J. Mutchler, A. J. Steffl, M. W. Buie, W. J. Merline, J. R. Spencer, E. F. Young and L. A. Young ''Discovery of two new satellites of Pluto''. Nature '''439''', 943&ndash;945 (23 February 2006)
+[http://arxiv.org/PS_cache/astro-ph/pdf/0601/0601018.pdf Final preprint on ArXiv]
+</ref>
+
+With the discovery of the two small moons, Pluto may possess a variable [[ring system]]. Small body impacts can create debris that can form into a ring system. Data from a deep optical survey by the [[Advanced Camera for Surveys]] on the [[Hubble Space Telescope]] suggests that no ring system is present. If such a system exists, it is either tenuous like the [[Rings of Jupiter]], or it is tightly confined to less than 1000km in width.<ref name="Steffl 2006">{{cite journal| first=Andrew J.| last=Steffl| coauthors=S. Alan Stern| title=First Constraints on Rings in the Pluto System| url=http://arxiv.org/abs/astro-ph/0608036| id=astro-ph/0608036}}</ref>
+
+=== Possibility of additional moons ===
+In imaging the Plutonian system, observations from Hubble placed limits on any additional moons. With 90% confidence, no additional moons larger than 12 km (or a maximum of 37 km with an albedo of 0.041) exist beyond the glare of Pluto 5 arcseconds from the dwarf planet. This assumes a Charon-like albedo of 0.38; at a 50% confidence level the limit is 8 kilometers.<ref name="Steffl2005>{{cite journal|journal=The Astronomical Journal|author=A.J. Steffl|coauthors=M.J. Mutchler, H.A. Weaver, S.A.Stern, D.D. Durda, D. Terrell, W.J. Merline, L.A. Young, E.F. Young, M.W. Buie, J.R. Spencer|year=2006|title=New Constraints on Additional Satellites of the Pluto System|volume=132||pages=614–619}}([http://arxiv.org/abs/astro-ph/0511837 Final preprint])
+</ref>
+
+==Kuiper belt==
+{{main|Kuiper belt}}
+[[Image:Mainkuiperbelt.jpg|thumb|Artist's conception of the Kuiper belt, with Pluto's orbit (yellow) contrasted with Neptune's (white)]]
+Pluto's origin and identity have long puzzled astronomers. In the 1950s it was suggested that Pluto was an escaped moon of Neptune, knocked out of orbit by [[Triton (moon)|Triton]], Neptune's largest moon. This notion has been heavily criticised, since, as explained above, Pluto never actually comes near the planet in its orbit.<ref>{{cite web|title=Pluto's Orbit|work=NASA New Horizons|url=http://pluto.jhuapl.edu/science/everything_pluto/16_plutoOrbit.html|year=2007|accessdate=2007-03-26}}</ref>  
+
+Beginning in 1992, astronomers began to discover a large population of small icy objects beyond Neptune that were similar to Pluto not only in orbit but also in size and composition. This belt, known as the [[Kuiper belt]] after one of the astronomers who first hypothesised its existence, is believed to be the source for all [[short-period comet]]s. Astronomers now believe Pluto to be the largest of the [[Kuiper belt object]]s. Pluto, like other Kuiper Belt objects, shares features in common with [[comets]]; the [[solar wind]] is gradually blowing Pluto's surface into space, in the manner of a comet.<ref> {{cite web| title= Colossal Cousin to a Comet?| work=New Horizons| url=http://pluto.jhuapl.edu/science/everything_pluto/8_cousin.html| accessdate=2006-06-23}} </ref> If Pluto were placed near the Sun, it would develop a tail, like comets do.<ref> {{cite web |year= 1999| author= Neil deGrasse Tyson | title= 	
+Space Topics: Pluto Top Ten: Pluto Is Not a Planet | work=The Planetary Society| url=http://www.planetary.org/explore/topics/topten/tyson_pluto_is_not.html| accessdate=2006-06-23}} </ref>
+<div style="clear: both"></div> 
+
+Though Pluto is the largest of the Kuiper belt objects discovered so far,  Triton, which is slightly larger than Pluto, shares many atmospherical and geological composition similarities with Pluto and is believed to be a captured Kuiper belt object.<ref>{{cite web|title=Neptune's Moon Triton|work=The Planetary Society|url=http://www.planetary.org/explore/topics/neptune/triton.html|accessdate=2007-03-26}}</ref> Eris ([[#New discoveries ignite debate|see below]]) is also larger than Pluto but is not strictly considered a member of the Kuiper belt population. 
+
+A large number of Kuiper belt objects, like Pluto, possess a 3:2 orbital resonance with Neptune. KBOs with this orbital resonance are called "[[plutino]]s", after Pluto.<ref>{{cite web|title=The Plutinos|author=David Jewitt|work=University of Hawaii|url=http://www.ifa.hawaii.edu/~jewitt/kb/plutino.html|year=2004|accessdate=2007-03-26}}</ref>
+
+== Exploration of Pluto ==
+{{main|New Horizons}}
+[[image:New_Horizons_Jan19_06.jpg|thumb|right|150px|''[[New Horizons]]'', launched on [[January 19]], [[2006]]]]
+Pluto presents significant challenges for space craft because of its small mass and great distance from Earth. ''[[Voyager 1]]'' could have visited Pluto, but controllers opted instead for a close flyby of [[Saturn (planet)|Saturn's]] moon Titan, which resulted in a trajectory incompatible with a Pluto flyby. [[Voyager 2]] never had a plausible trajectory for reaching Pluto.<ref>{{cite web| url=http://voyager.jpl.nasa.gov/faq.html| title=Voyager Frequently Asked Questions| accessdate=2006-09-08| publisher=Jet Propulsion Laboratory| date=January 14, 2003}}</ref> In 2000, NASA cancelled the ''[[Pluto Kuiper Express]]'' mission, citing increasing costs and launch vehicle delays.<ref>{{cite web|title=Pluto Kuiper Express|author=Dr. David R. Williams |work=NASA Goddard Space Flight Center|url=http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=PLUTOKE|year=2005|accessdate=2007-03-26}}</ref>
+
+[[image:112806 pluto animation.gif|thumb|left|200px|First Pluto sighting from ''New Horizons'']]
+The first spacecraft to visit Pluto will be NASA's ''[[New Horizons]]'', launched on [[January 19]], [[2006]]. In early 2007 the craft made use of a [[gravity assist]] from [[Jupiter]], and its closest approach to Pluto will be on [[July 14]], [[2015]]. Scientific observations of Pluto will begin 5 months prior to closest approach and will continue for at least a month after the encounter. ''New Horizons'' captured its first images of Pluto in late September 2006, during a test of the Long Range Reconnaissance Imager (LORRI).<ref>{{cite web | url=http://pluto.jhuapl.edu/news_center/news/112806.htm | title=New Horizons, Not Quite to Jupiter, Makes First Pluto Sighting | publisher=The John Hopkins University Applied Physics Laboratory | date=[[2006-11-28]] | accessdate=2007-03-20}}</ref> The images, taken from a distance of approximately 4.2 billion kilometres (2.6 billion miles), confirm the spacecraft's ability to track distant targets, critical for maneuvering toward Pluto and other Kuiper Belt objects.
+
+''New Horizons'' will use a remote sensing package that includes imaging instruments and a radio science investigation tool, as well as spectroscopic and other experiments, to characterize the global geology and morphology of Pluto and its moon Charon, map their surface composition and characterize Pluto's neutral atmosphere and its escape rate. ''New Horizons'' will also photograph the surfaces of Pluto and Charon. Some of the ashes of Pluto's discoverer, Clyde W. Tombaugh, are aboard the spacecraft.
+
+Discovery of moons Nix and Hydra may present unforeseen challenges for the probe. With the relatively low escape velocity of Nix and Hydra, collisions with Kuiper belt debris may produce a tenuous dusty ring. Were New Horizons to fly through such a ring system, there would be an increased potential for micrometeorite damage that could damage or disable the probe.<ref name="Steffl 2006">{{cite journal| first=Andrew J.| last=Steffl| coauthors=S. Alan Stern| title=First Constraints on Rings in the Pluto System| url=http://arxiv.org/abs/astro-ph/0608036| id=astro-ph/0608036}}</ref>
+
+==Planetary status controversy==
+{{seealso|Definition of planet}}
+Pluto's official status as a planet has been a constant subject of controversy, fueled by the past lack of a clear [[definition of planet]], since at least as early as 1992, when the first [[Kuiper Belt Object]], {{mpl|(15760) 1992 QB|1}}, was discovered. Since then, further discoveries intensified the debate in the 21st century.
+
+===Commemoration as a planet===
+Pluto is shown as a planet on the [[Pioneer plaque]], an inscription on the space probes ''[[Pioneer 10]]'' and ''[[Pioneer 11]]'', launched in the early 1970s. The plaque, intended to give information about the origin of the probes to any alien civilization that might in the future encounter the vehicles, includes a diagram of our solar system, showing nine planets.<ref>{{cite web|title=Spacecraft Artifacts as Physics Teaching Resources|author=R.W. Robinett|work=Department of Physics, The Pennsylvania State University|url=http://www.waiferx.com/Physics/2006/Fall/Ast10/Goals/FinalExam/TPT2001-RWRobinett.pdf|year=2001|accessdate=2007-03-26}}</ref> Similarly, an analog image contained within the [[Voyager Golden Record]] included on the probes ''[[Voyager 1]]'' and ''[[Voyager 2]]'' (also launched in the 1970s) includes data regarding Pluto and again shows it as the ninth planet.<ref>{{cite web|title=Space Topics: Voyager- The Golden Record|work=Planetary Society|url=http://www.planetary.org/explore/topics/space_missions/voyager/golden_record.html
+|accessdate=2007-03-26}}</ref> [[Chemical element|Elements]] 92, 93, and 94 are named [[uranium]], [[neptunium]], and [[plutonium]] respectively after [[Uranus]], [[Neptune]], and Pluto. The Disney character [[Pluto (Disney)|Pluto]], introduced in 1930, was also named in honour of the planet.<ref>{{cite web|title=Dwarfed by comparison|author=Allison M. Heinrichs|work=Pittsburgh Tribune-Review|url=http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_467650.html|year=2006|accessdate=2007-03-26}}</ref>
+
+===New discoveries ignite debate===
+<!---
+[[Image:EightTNOs.png|thumb|350px|right|Pluto compared to [[Eris (dwarf planet)|Eris]], {{mpl-|136472|2005 FY|9}}, {{mpl-|136108|2003 EL|61}}, [[90377 Sedna|Sedna]], [[90482 Orcus|Orcus]], [[50000 Quaoar|Quaoar]], and [[20000 Varuna|Varuna]] compared to [[Earth]] (artist's impressions; no detailed photographs exist).]]
+--->
+<imagemap>
+Image:EightTNOs.png|thumb|350px|Pluto compared to Eris, (136472) 2005 FY<sub>9</sub>, (136108) 2003 EL<sub>61</sub>, Sedna, Orcus, Quaoar, and Varuna compared to Earth (artist's impressions; no detailed photographs exist).
+#Earth
+rect 646 1714 2142 1994 [[Earth|The Earth]]
+#Eris and Dysnomia
+circle 226 412 16 [[Dysnomia (moon)|Dysnomia]]
+circle 350 626 197 [[Eris (dwarf planet)|(136199) Eris]]
+#Pluto and Charon
+circle 1252 684 86 [[Charon (moon)|Charon]]
+circle 1038 632 188 [[Pluto|(134340) Pluto]]
+#2005 FY9
+circle 1786 614 142 [[(136472) 2005 FY9]]
+#2003 EL61
+circle 2438 616 155 [[(136108) 2003 EL61]]
+#Sedna
+circle 342 1305 137 [[90377 Sedna|(90377) Sedna]]
+#Orcus
+circle 1088 1305 114 [[90482 Orcus|(90482) Orcus]]
+#Quaoar
+circle 1784 1305 97 [[50000 Quaoar|(50000) Quaoar]]
+#Varuna
+circle 2420 1305 58 [[20000 Varuna|(20000) Varuna]]
+
+desc none
+# - setting this to "bottom-right" will display a (rather large) icon linking to the graphic, if desired
+
+#Notes:
+#Details on the new coding for clickable images is here: [[mw:Extension:ImageMap]]
+#While it may look strange, it's important to keep the codes for a particular system in order. The clickable coding treats the first object created in an area as the one on top.
+#Moons should be placed on "top" so that their smaller circles won't disappear "under" their respective primaries.
+</imagemap>
+The discovery of the [[Kuiper belt]] and Pluto's relation to it led many to question whether Pluto could be considered separately from others in its population. In 2002, the KBO  [[50000 Quaoar]] was discovered, with a diameter of roughly 1,280 kilometres, about half that of Pluto.<ref>{{cite web|title=Direct Measurement of the Size of the Large Kuiper Belt Object (50000) Quaoar|author=Michael E. Brown and Chadwick A. Trujillo|work=The American Astronomical Society|url=http://www.journals.uchicago.edu/cgi-bin/resolve?id=doi:10.1086/382513|year=2006|accessdate=2007-03-26}}</ref> In [[2004]], the discoverers of [[90377 Sedna]] placed an upper limit of 1,800 kilometres on its diameter, near Pluto's diameter of 2,320 kilometres.<ref>{{cite web|title=DDiverse Albedos of Small Trans-Neptunian Objects|author=W. M. Grundy, K. S. Noll, D. C. Stephens|work=Lowell Observatory, Space Telescope Science Institute|url=http://arxiv.org/ftp/astro-ph/papers/0502/0502229.pdf|accessdate=2007-03-26}}</ref>
+
+On [[July 29]], [[2005]], a [[Trans-Neptunian object]] later named [[Eris (dwarf planet)|Eris]] was announced, which on the basis of its [[apparent magnitude|magnitude]] and simple [[albedo]] considerations is assumed to be slightly larger than Pluto.<ref>{{cite web|title=Hubble Finds 'Tenth Planet' Slightly Larger Than Pluto|work=Hubblesite|url=http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/16/|year=2006|accessdate=2007-03-26}}</ref> This was the largest object discovered in the solar system since [[Neptune (planet)|Neptune]] in 1846. Discoverers and media initially called it the "tenth planet", although there was no official consensus at the time on whether to call it a planet.<ref>{{cite web|title=NASA-Funded Scientists Discover Tenth Planet|work=Jet Propulsion Laboratory|url=http://www.jpl.nasa.gov/news/news-print.cfm?release=2005-126| year=2005|accessdate=2007-02-22}}</ref> Others in the astronomical community considered the discovery to be the strongest argument for reclassifying Pluto as a minor planet.<ref>{{cite web| url=http://arxiv.org/ftp/astro-ph/papers/0608/0608359.pdf| format=PDF| title= What is a Planet?| first=Steven| last=Soter| date=2006-08-16| accessdate=2006-08-24}} submitted to The Astronomical Journal, [[16 August]] [[2006]]</ref> 
+
+The last remaining distinguishing features of Pluto were now its large moon, [[Charon (moon)|Charon]], and its atmosphere; these characteristics are probably not unique to Pluto: several other Trans-Neptunian objects have satellites; and [[Eris (dwarf planet)|Eris]]' spectrum suggests that it has a similar surface composition to Pluto.<ref>{{cite web | year=2006 | author=Brown, Mike | title=The discovery of 2003 UB313, the 10th planet.| work= California Institute of Technology| url=http://www.gps.caltech.edu/~mbrown/planetlila/ | accessdate=2006-05-25}} </ref> It also possesses a moon, [[Dysnomia (moon)|Dysnomia]], discovered in September 2005. Trans-Neptunian object {{mpl-|136108|2003 EL|61}} (nicknamed "Santa") has two moons (one of which is nicknamed "Rudolph") and is the fourth largest TNO behind [[Eris (dwarf planet)|Eris]], Pluto, and {{mpl-|136472|2005 FY|9}} (nicknamed "Easterbunny").
+
+Museum and planetarium directors occasionally created controversy by omitting Pluto from planetary models of the solar system. Some omissions were intentional; the [[Hayden Planetarium]] reopened after renovation in 2000 with a model of 8 planets without Pluto. The controversy made headlines in the media at the time.<ref>{{cite web| url=http://www.space.com/scienceastronomy/solarsystem/tyson_responds_010202.html| title=Astronomer Responds to Pluto-Not-a-Planet Claim| date=2 February 2001| publisher=Space.com| first=Neil deGrasse| last= Tyson| accessdate=2006-09-08}}</ref>
+
+=== IAU Decision ===
+{{main|2006 redefinition of planet}}
+
+The debate came to a head in 2006 with an [[2006 redefinition of planet|IAU resolution]] that created an official definition for the term "planet". According to this resolution, there are three main conditions for an object to be considered a 'planet':
+#The object must be in orbit around the [[Sun]]. 
+#The object must be massive enough to be a sphere by its own gravitational force. More specifically, its own gravity should pull it into a shape of [[hydrostatic equilibrium]]. 
+#It must have [[Clearing the neighbourhood|cleared the neighbourhood]] around its orbit.<ref>{{cite news|url=http://www.iau.org/Resolutions_5-6.398.0.html|title=IAU 2006 General Assembly: Resolutions 5 and 6|publisher=IAU|date=24 August 2006|publisher=IAU}}</ref> 
+
+Pluto fails to meet the third condition.<ref>{{cite news|url=http://www.iau2006.org/mirror/www.iau.org/iau0603/index.html|title=IAU 2006 General Assembly: Result of the IAU Resolution votes|publisher=IAU|date=24 August 2006|publisher=IAU}}</ref> The IAU further resolved that Pluto be classified in the simultaneously created [[dwarf planet]] category, and that it act as prototype for a yet-to-be-named category of [[trans-Neptunian object]]s, in which it would be separately, but concurrently, classified.
+
+There has been resistance amongst the astronomical community towards the reclassification,<ref name="geoff2006c">{{cite news| url=http://space.com/scienceastronomy/060824_planet_definition.html| title=Pluto Demoted: No Longer a Planet in Highly Controversial Definition| first=Robert Roy| last= Britt| publisher=Space.com| date=24 August 2006| accessdate=2006-09-08}}</ref> dubbed the "Great Pluto War" by some astronomers.<ref name="Ruibal-1999">{{cite news
+  | first = Sal 
+  | last = Ruibal
+  | title = Astronomers question if Pluto is real planet
+  | publisher = [[USA Today]]
+  | date = [[January 6]], [[1999]]
+}}</ref><ref name="Britt-2006">{{cite news
+  | first = Robert Roy
+  | last = Britt
+  | url = http://www.space.com/scienceastronomy/061121_exoplanet_definition.html
+  | title = Why Planets Will Never Be Defined
+  | publisher = Space.com
+  | date = [[21 November]] [[2006]]
+  | accessdate = 2006-12-01
+}}</ref> [[Image:New horizons Pluto.jpg|left|thumb|300px|[[New Horizons]] spacecraft]][[Alan Stern]], principal investigator with [[NASA]]'s "[[New Horizons]]" mission to Pluto, has publicly derided the IAU resolution, stating that "the definition stinks" albeit "for technical reasons."<ref name="geoff2006a">{{cite news| url=http://msnbc.msn.com/id/14489259/| title=Scientists decide Pluto’s no longer a planet| first=Robert Roy| last= Britt| date= Aug 24, 2006| publisher=MSNBC| accessdate=2006-09-08}}</ref> Stern's current contention is that by the terms of the new definition Earth, Mars, Jupiter and Neptune, all of which share their orbits with asteroids would be excluded.<ref name="newscientistspace">{{cite news| url=http://www.newscientistspace.com/article/dn9846-new-planet-definition-sparks-furore.html| title=New planet definition sparks furore| date=25 August 2006| publisher=NewScientist.com| first= David| last= Shiga| accessdate=2006-09-08}}</ref> However, his own published writing has [[clearing the neighborhood#Controversy|supported]] the new list of planets, as "our solar system clearly contains" eight planets that have cleared their neighbourhoods, however, he does not deny planetary classification to objects like Pluto & Ceres that have not "cleared their neighbourhood".<ref name="Stern 2002">{{cite journal | last=Stern | first=S. Alan | coauthors=and Levison, Harold F. | year=2002 | title=Regarding the criteria for planethood and proposed planetary classification schemes | url=http://www.boulder.swri.edu/~hal/PDF/planet_def.pdf | format=[[PDF]] | journal=Highlights of Astronomy| volume=12 | pages=205–213, as presented at the XXIVth General Assembly of the IAU - 2000 [Manchester, UK, 7–18 August 2000]}}</ref> [[Marc W. Buie]] of the Lowell observatory has voiced his opinion on the new definition on his website and is one of the petitoners against the definition.<ref>{{cite web | url=http://www.lowell.edu/users/buie/pluto/iauresponse.html | title=My response to 2006 IAU Resolutions 5a and 6a | publisher=Lowell Observatory | author=Marc W. Buie | date=September 2006 | accessdate=2007-03-20</ref> Others have supported the IAU. Mike Brown, the astronomer who discovered [[Eris (dwarf planet)|Eris]], said "through this whole crazy circus-like procedure, somehow the right answer was stumbled on. It’s been a long time coming. Science is self-correcting eventually, even when strong emotions are involved."<ref name="geoff2006b">((cite news | url=http://www.nytimes.com/2006/08/24/science/space/25pluto.html?ei=5087&en=cfe4d03207c823f2&ex=1172030400&adxnnl=1&excamp=GGGNpluto&adxnnlx=1156820936-x7vi0zUxIJHoKC1TQ0qrMA | title=Pluto Is Demoted to ‘Dwarf Planet’ | publisher=The New York Times | author=Dennis Overbye | date=[[2006-08-24]] | accessdate=2007-03-20}} </ref>
+
+Among the general public, reception is mixed amidst widespread media coverage. Some have accepted the reclassification, while some are seeking to overturn the decision, with online petitions urging the IAU to consider reinstatement. A resolution introduced by some members of the California state assembly light-heartedly denounces the IAU for "scientific heresy," among other crimes.<ref>{{cite news| url=http://www.space.com/searchforlife/060907_pluto_politics.html|title= Planetary Politics: Protecting Pluto| first= Edna| last= DeVore| date=7 September 2006| publisher=Space.com| accessdate=2006-09-08}}</ref> The U.S. state of [[New Mexico]]'s House of Representatives passed a resolution declaring that Pluto will always be considered a planet while overhead of the state, with [[March 13]]th being known as "Pluto Planet Day".<ref>''Christian Science Monitor'', [[March 22]], [[2007]]: [http://www.csmonitor.com/2007/0322/p03s02-nbgn.htm He would be so pleased]</ref> Others reject the change for sentimental reasons, citing that they have always known Pluto as a planet and will continue to do so regardless of the IAU decision.<ref name="iol">"{{cite news| url=http://www.iol.co.za/index.php?set_id=1&click_id=31&art_id=qw1161415265563B221| title=Pluto's still the same Pluto| date=21 October 2006| publisher=IOL.co.za| last= Sapa| accessdate=2006-11-01}}</ref>
+
+The verb "pluto" ([[preterite]] and [[participle|past participle]]: "plutoed") was coined in the aftermath of the decision. In January 2007, the [[American Dialect Society]] chose "plutoed" as its 2006 Word of the Year, defining "''to pluto''" as "''to demote or devalue someone or something''", an example being "as happened to the former planet Pluto when the General Assembly of the International Astronomical Union decided Pluto no longer met its definition of a planet."<ref>{{cite web| url=http://www.americandialect.org/Word-of-the-Year_2006.pdf|title= “Plutoed” Voted 2006 Word of the Year| date=5 January 2007| publisher=American Dialect Society| accessdate=2007-01-07}}</ref>
+
+==See also==
+* [[Pluto in fiction]]
+* [[Planets in astrology#Pluto|Pluto in astrology]]
+* [[Solar eclipses on Pluto]]
+* [[Aspects of Pluto]]
+* [[Pluto prototype]]
+* [[Plutino]]
+* [[New Horizons]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+* Henderson, Mark (Oct. 30, 2005). "Pluto may lose status of planet". ''[[New Straits Times]]'', p. F17.
+* Kaufmann III, William J., "Universe", 2nd Edition, pp.302–303
+* Pasachoff, Jay M., and Alex Filippenko, 2007, "The Cosmos: Astronomy in the New Millennium," 3rd Edition.
+
+==External links==
+{{sisterlinks|Pluto}}
+* [http://aer.noao.edu/cgi-bin/article.pl?id=207 Astronomy Education Review, Vol. 5 No. 2: ''Teaching What a Planet Is: A Roundtable on the Educational Implications of the New Definition of a Planet'']
+* [http://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html NASA's Pluto fact sheet]
+* [http://www.lowell.edu/AboutLowell/history.html Lowell Observatory History, Mission, Important Discoveries]
+* David H. Freedman, [http://www.theatlantic.com/issues/98feb/pluto.htm "When is a Planet Not a Planet?"], ''Atlantic Monthly'', February 1998.
+* [http://www.cosmosmagazine.com/node/595 "Why Pluto Had To Go"] &ndash; An opinion piece by astronomer Bryan Gaensler in ''Cosmos Magazine''.* [http://pluto.jhuapl.edu/ NASA's Pluto-Kuiper Belt Mission] &ndash; launching in early 2006.
+* [http://www.sfsite.com/~silverag/pluto.html Pluto in Science Fiction] &ndash; Bibliography of science fiction which is set on Pluto.
+* [http://www.windows.ucar.edu/tour/link=/pluto/pluto.html Windows to the universe] &ndash; Pluto
+* [http://space.com/scienceastronomy/051031_pluto_moons.html Space.com article on second and third moons]
+* [http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/19/ NASA's Hubble Reveals Possible New Moons Around Pluto ] – [[Hubble Space Telescope|Hubble]] Press Release
+* [http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v424/n6945/abs/nature01762_fs.html Elliot et al., The recent expansion of Pluto's atmosphere]
+* [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2005AJ....129.1718P&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=43809decd514756 Pasachoff et al., "The Structure of Pluto's Atmosphere from the 2002 August 21 Stellar Occultation," Astron. J., 129, 1718–1723.]
+* [http://www.projectshum.org/Planets/pluto.html Planets &ndash; Pluto] A kid's guide to Pluto.
+* [http://www.orbitsimulator.com/gravity/articles/pluto.html A simulation of Pluto's orbit, showing its resonance with Neptune.]
+* [http://www.npr.org/templates/story/story.php?storyId=5631291 NPR article on IAU's anticipated recommendation of Pluto's status as a planet.]
+* [http://www.npr.org/templates/story/story.php?storyId=5723794 NPR segment discussing the linguistic and cultural aspects of Pluto's planethood.]
+* [http://news.bbc.co.uk/1/hi/sci/tech/4789531.stm Experts meet to decide Pluto fate - BBC News 14th August 2006]
+* [http://www.newsobserver.com/102/story/478113.html Geologists fight for their plutons]
+* [http://seattlepi.nwsource.com/national/282553_pluto25.html Pluto died much as it lived -- famous, but an oddball]
+* [http://www.iafastro.com/index.php?id=114&no_cache=1&tx_iafnews_pi1%5btt_single%5d=17 IAU General Secretary, Dr Luboš Perek's view of the decision]
+
+{{Moons of Pluto and Eris}}
+{{Footer SolarSystem}}
+{{Footer TransNeptunian}}
+{{Footer TNOList}}
+{{MinorPlanets Navigator|(134339) 5628 T-3|PageName=134340 Pluto|(134341) 1979 MA}}
+
+[[Category:Dwarf planets]]
+[[Category:Pluto| ]]
+[[Category:Trans-Neptunian objects]]
+
+{{Link FA|de}}
+{{Link FA|fr}}
+
+[[af:Pluto (dwergplaneet)]]
+[[als:(134340) Pluto]]
+[[ang:Pluto]]
+[[ar:بلوتو]]
+[[az:Pluton]]
+[[zh-min-nan:Mê-ông-chheⁿ]]
+[[bs:Pluton]]
+[[br:Ploudon (planedenn gorr)]]
+[[bg:Плутон (планета-джудже)]]
+[[ca:Plutó (planeta nan)]]
+[[cs:Pluto (trpasličí planeta)]]
+[[cy:Plwton]]
+[[da:Pluto (dværgplanet)]]
+[[de:Pluto (Zwergplanet)]]
+[[et:Pluuto]]
+[[el:Πλούτωνας (πλανήτης νάνος)]]
+[[es:Plutón (astronomía)]]
+[[eo:Plutono]]
+[[eu:Pluton (planeta ipotxa)]]
+[[fa:پلوتون (سیاره)]]
+[[fo:Pluto]]
+[[fr:(134340) Pluton]]
+[[ga:Plútón (abhacphláinéad)]]
+[[gd:Pliùtò]]
+[[gl:Plutón (planeta anano)]]
+[[gu:પ્લૂટો (ગ્રહ)]]
+[[ko:명왕성]]
+[[hy:Պլուտոն]]
+[[hr:Pluton (Sunčev sustav)]]
+[[io:Plutono]]
+[[id:Pluto]]
+[[it:Plutone (astronomia)]]
+[[he:פלוטו]]
+[[kn:ಪ್ಲುಟೊ]]
+[[ka:პლუტონი (პლანეტა)]]
+[[kw:Plouton (planet korr)]]
+[[sw:Pluto]]
+[[ku:Pluton (gerstêrk)]]
+[[la:Pluto (planetula)]]
+[[lv:Plutons (planēta)]]
+[[lt:Plutonas (nykštukinė planeta)]]
+[[hu:Plútó (törpebolygó)]]
+[[mk:Плутон (планета-џуџе)]]
+[[ms:Pluto]]
+[[nah:Mictlāntēuccitlālli]]
+[[nl:Pluto (dwergplaneet)]]
+[[ja:冥王星]]
+[[no:134340 Pluto]]
+[[nn:134340 Pluto]]
+[[oc:Pluton (planeta nana)]]
+[[ug:Pluton]]
+[[pam:Pluto]]
+[[nds:Pluto (Dwargplanet)]]
+[[pl:134340 Pluton]]
+[[pt:Plutão]]
+[[ro:Pluto (planetă pitică)]]
+[[qu:Plutun]]
+[[ru:Плутон (карликовая планета)]]
+[[sq:Plutoni]]
+[[scn:Plutoni]]
+[[simple:Pluto]]
+[[sk:134340 Pluto]]
+[[sl:Pluton]]
+[[sr:Плутон (патуљаста планета)]]
+[[fi:Pluto (kääpiöplaneetta)]]
+[[sv:Pluto (dvärgplanet)]]
+[[tl:134340 Pluton]]
+[[th:ดาวพลูโต]]
+[[vi:Sao Diêm Vương]]
+[[tr:Plüton]]
+[[uk:Плутон (карликова планета)]]
+[[zh-yue:冥王星]]
+[[zh:冥王星]]

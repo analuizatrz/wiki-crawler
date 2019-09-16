@@ -1,0 +1,65 @@
+'''Low-energy electron diffraction (LEED)''' is a technique used to characterize the structures of surfaces.
+
+==History==
+===[[Davisson-Germer experiment|Davisson and Germer's discovery]] of electron diffraction===
+The development of electron diffraction was closely linked to the progress of quantum mechanics and atomic physics. The possibility of electron diffraction was proposed by [[Louis de Broglie]] in 1924. The theory asserted that all particles present [[wave-particle duality]]. On the experimental side, a laboratory accident at Bell Laboratories, which resulted in the creation of Ni(111) microfacets and led to the observation of electron diffraction, prefaced a series of experiments to establish evidence of de Broglie's theory. Davisson and Germer published notes of their electron diffraction experiment result in ''[[Nature (journal)|Nature]]'' and in ''[[Physical Review]]'' in 1927. Just one month after Davisson and Germer's work appeared on ''[[Nature (journal)|Nature]]'', [[George Paget Thomson|Thompson]] and Reid published their electron diffraction work with higher kinetic energy (thousand times higher than the energy used by Davisson and Germer) in the same journal. Those experiments revealed the wave property of electrons and opened up an era of electron diffraction study.
+
+===It takes 40 years to become a tool for structure determination===
+[[George Paget Thomson|Thompson]]'s High-Energy Electron Diffraction(HEED) only took a couple of years to mature as a tool that can be used for bond length determination, and it was further developed into Electron Microscopy techniques.  The development of LEED took much longer.  The main reasons for this delay were<br /> 
+
+1. Low energy electrons are surface sensitive and therefore LEED needs a well-ordered surface. Ultra-Vacuum technology and the methods for preparing the surfaces of crystal took many years to develop.<br />
+
+2. The LEED experimental data could not be quantitatively described by the kinematic theory which was used in the interpretation of [[X-ray]] data. The more sophisticated "dynamical" theory with multiple scattering was developed in the 1960s.
+
+==LEED instrumentation==
+Usually, LEED experiments are performed in an [[Ultra high vacuum]] environment and are often supplemented by Auger Electron Spectroscopy for identifying surface constituents. An ion Gun is often used for surface cleaning. A LEED instrument usually consists of an Electron Gun, a Detector System and Data acquisition system. [[Image:Slide1.PNG|thumb|LEED Optics]]
+===[[Electron gun]]===
+Monochromatic electrons are emitted by a [[cathode]] filament which is at a negative potential, typically 10-600 V, with respect to the sample. They are accelerated and focused into a beam, typically about 0.1 to 0.5 mm wide, by a series of electrodes that serve as electron lenses.  Some of the electrons incident on the sample surface are backscattered elastically, and diffraction can be detected if sufficient order exists on the surface.  This typically requires a region of single crystal surface as wide as the electron beam, although sometimes polycrystalline surfaces such as highly-oriented pyrolytic graphite (HOPG) are sufficient.
+
+===Detector system===
+A LEED detector usually contains three or four hemispherical concentric grids and a [[Phosphor]] screen or other position sensitive detector. The grids are used for screening out the inelastically scattered electrons. Most new LEED systems use a Reverse View scheme, which has a minimized electron gun, and the pattern is viewed from behind through a transmission screen and a viewport. Recently, a new digitalized position sensitive detector called a delay-line detector with better [[Stops (Dynamic Range)|dynamic range]] and resolution has been developed.
+
+The LEED contains a retarding field analyzer to block inelastically scattered electrons.
+Because only spherical fields around the sampled point are allowed and the geometry of the sample and the surrounding is not spherical, no field is allowed. Therefore the first grid screens the space above the sample from the retarding field. The next grid is at a potential to block low energy electrons, it is called the suppressor or the [[gate]]. To make the retarding field homogeneous and mechanically more stable this grid often consists of two grids. The fourth grid is only necessary when the LEED is used like a [[tetrode]] and the current at the screen is measured, when it serves as screen between the gate and the [[anode]].
+
+===Using the detector for Auger electron spectroscopy===
+To improve the measured signal in [[Auger electron spectroscopy]] , the gate voltage is scanned in a linear ramp. An [[RC circuit]] serves to derive the second [[derivative]], which is then amplified and digitized. To reduce the noise, multiple passes are summed up. The first derivative is very large due to the residual capacitive coupling between gate and the anode and may degrade the performance of the circuit. By applying a negative ramp to the screen this can be compensated. It is also possible to add a small sine to the gate. A high Q [[RLC circuit]] is tuned to the second harmonic to detect the second derivative.
+
+===Data acquisition===
+A modern data acquisition system usually contains a [[image sensor|CCD/CMOS]] camera pointed to the screen for diffraction pattern visualization and a computer for data recording and further analysis.
+
+==Theory of LEED==
+===Kinematic theory: single scattering===
+The basic assumption in kinematic theory is that electrons are scattered only once by surface atoms. Although this works pretty well in the interpretation of [[X-ray crystallography|x-ray diffraction]], multiple scattering is prevalent in LEED.  However, the kinematic approximation can still be used with LEED to provide much information about a surface structure. Since LEED is a surface sensitive technique, the diffraction wave vectors satisfy two-dimensional [[Bragg diffraction|Bragg conditions]]. The observed LEED pattern is a two-dimensional [[reciprocal lattice]] of the ordered surface projected onto a two-dimensional real plane. The position of the LEED spots can be determined using an [[Ewald construction]]. From kinematic theory, the surface [[Crystal structure|unit cell]] size and symmetry can be determined.
+[[Image:Slide2.PNG|thumb|Electron diffraction by a surface lattice]][[Image:Slide3.PNG|thumb|Examples of the reciprocal lattice]]
+
+===Dynamical theory: multiple scattering===
+From kinematic theory, the surface unit cell size and symmetry can be determined, but not the exact positions of the surface atoms. Those parameters can only be determined using dynamical LEED, which involves measuring the intensities of the diffracted beams as a function of the incident energy of the electron beam.  Model calculations must be performed using the dynamical theory for analyzing the experimental data.  Two main features of the dynamical calculation approach are.<br />
+1, The ion-core scattering of an atom, which is considered weak in kinematic approach, is calculated more realistically.<br />
+2, Multiple electron scattering from different atoms in the surface is included. Most calculational approaches treat the scattering between atoms in same plane first, and then deal with the scattering between planes for a certain depth of penetration.<br />
+The common procedure for a structure determination by LEED is first to measure intensity versus incident energy curves for the diffraction spots on the LEED pattern and then make a comparison with the intensity versus energy curves from the dynamical theory. This is a trial-and-error procedure in which a presumed structure is used as input for the dynamical calculation, and the structure is fine-tuned until a minimum reliability factor (R-factor) is obtained. The R-factor is the quality criterion of the presumed structure. The most commonly used R-factor is the [[John Pendry|Pendry]] R-factor. For this R-factor, a value smaller than 0.2 is considered good, an R-factor larger than 0.5 might not be a correct structure, but the relative R-factors for various model structures are usually more illuminating than absolute R-factors.[[Image:Slide4.PNG|thumb|Examples of the comparison between an experimental data and a theoretical calculation (An AlNiCo Quasicrystal surface) Thanks to R. Diehl and N. Ferralis for providing the data.]]
+
+==See also==
+[[List of surface analysis methods]]<br />
+[[X-ray diffraction]]<br />
+[[RHEED]]<br />
+
+==References==
+[1] M.A. Van Hove, W.H. Weinberg and C.-M. Chan, Low-Energy Electron Diffraction, Springer Verlag, 1986.<br />
+[2] J.B. Pendry, Low Energy Electron Diffraction, Academic Press, 1974.<br />
+[3] P. Goodman (General Editor), Fifty Years of Electron Diffraction, D. Reidel Publishing, 1981<br />
+[4] D. Human etal., Low energy electron diffraction using an electronic delay-line detector, Rev. Scif. Inst. 77 023302 (2006)<br />
+==External links==
+* [http://www.sitp.lbl.gov/] Surface/Interface Theory Program at Lawrence Berkeley National Laboratory
+* [http://www.matscieng.sunysb.edu/franco1.html] LEED Surface Structure Group at Stony Brook.
+* [http://www.krist.geo.uni-muenchen.de/ober/index.htm] Group of Prof. Wolfgang Moritz at Ludwig-Maximilians-Universität (LMU) Munich.
+* [http://alpdmn.phys.psu.edu/] Group of Prof. Renee Diehl at Pennsylvania State University.
+
+[[Category:Physics]]
+[[Category:Electron]]
+[[Category:Diffraction]]
+[[Category:Materials science]]
+
+[[de:LEED]]
+[[nl:Laagenergetische elektrondiffractie]]
+[[tr:Düşük enerjili elektron kırınımı]]

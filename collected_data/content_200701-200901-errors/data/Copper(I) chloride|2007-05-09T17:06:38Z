@@ -1,0 +1,180 @@
+<!-- Here is a table of data; skip past it to edit the text. -->
+{| align="right" border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+
+! {{chembox header}} | Copper(I) chloride
+|-
+| align="center" colspan="2" | [[Image:Copper(I)-chloride-sample.jpg|170px|Copper(I) chloride]] [[Image:Nantokite-unit-cell-3D-balls.png|130px|Unit cell of nantokite]]
+|-
+! {{chembox header}} | General
+|-
+| [[IUPAC nomenclature|Systematic name]]
+| Copper(I) chloride
+|-
+| Other names
+| Cuprous chloride
+|-
+| [[Chemical formula|Molecular formula]]
+| CuCl
+|-
+| [[Molar mass]]
+| 98.99 g/mol
+|-
+| Appearance
+| white powder, slightly<br/>green from oxidation
+|-
+| [[CAS registry number|CAS number]]
+| <nowiki>[7758-89-6]</nowiki>
+|-
+! {{chembox header}} | Properties
+|-
+| [[Density]] and [[Phase (matter)|phase]]
+| 4.140 g/cm<sup>3</sup>, solid
+|-
+| [[Soluble|Solubility]] in [[Water (molecule)|water]]
+| 0.0062 g/100 ml (20 °C)
+|-
+| in [[ethanol]]
+| insoluble
+|-
+| in [[hydrochloric acid]]<br/>in [[diethyl ether]]<br/>in [[aqueous ammonia]]
+| soluble
+|-
+| [[Melting point]]
+| 430 °C (703 K)
+|-
+| [[Boiling point]]
+| 1490 °C (1760 K),<br/>decomposes
+|-
+
+! {{chembox header}} | Structure
+|-
+| [[Crystal structure]] <!-- omit if not a solid -->
+| [[Tetrahedral]] [[close packed]]<br/>([[Zinc blende]] structure)
+|-
+| [[Dipole#Molecular dipoles|Dipole moment]]
+| ? [[Debye|D]]
+|-
+
+! {{chembox header}} | Hazards <!--  Summary only- MSDS entry provides more complete information -->
+|-
+| [[Material safety data sheet|MSDS]]
+| [http://sciencelab.com/msds.php?msdsId=9923602 ScienceLab.com]
+|-
+| Main [[Worker safety and health|hazard]]s
+| Irritant <!-- e.g. highly toxic, explosive, flammable, corrosive -->
+|-
+| [[NFPA 704]]
+| [[Image:nfpa_h3.png]][[Image:nfpa_f0.png]][[Image:nfpa_r0.png]]
+|-
+| [[Flash point]]
+| n/a
+|-
+| [[Risk and Safety Statements|R/S statement]]
+| R: 22, 50, 53 S: 22, 60/61
+|-
+| [[RTECS]] number
+| GL6990000
+|-
+
+! {{chembox header}} | [[Copper(I) chloride chemdata supplement|Supplementary data page]]
+|-
+| [[Copper(I) chloride chemdata supplement#Structure and properties|Structure & properties]]
+| [[Refractive index|''n'']], [[Dielectric constant|''ε<sub>r</sub>'']], etc.
+|-
+| [[Copper(I) chloride chemdata supplement#Thermodynamic properties|Thermodynamic data]]
+| Phase behaviour<br>Solid, liquid, gas
+
+|-
+| [[Copper(I) chloride chemdata supplement#Spectral data|Spectral data]]
+| [[UV/VIS spectroscopy|UV]], [[Infrared spectroscopy|IR]], [[NMR spectroscopy|NMR]], [[Mass spectrometry|MS]]
+|-
+! {{chembox header}} | Related compounds
+|-
+| Other [[Ion|anion]]s
+| [[Copper(I) bromide]]<br/>[[Copper(I) iodide]]
+|-
+| Other [[Ion|cation]]s
+| [[Copper(II) chloride]]<br/>[[Silver(I) chloride]]
+|-
+| {{chembox header}} | <small>Except where noted otherwise, data are given for<br> materials in their [[standard state|standard state (at 25°C, 100 kPa)]]<br/>[[wikipedia:Chemical infobox|Infobox disclaimer and references]]</small>
+|-
+|}
+'''Copper(I) chloride''' (quite commonly called '''cuprous chloride'''), is the lower [[chloride]] of [[copper]], with the formula CuCl.  It occurs naturally as the mineral [[nantokite]].  It is a white solid which is almost insoluble in water, and which tends to [[Redox|oxidize]] in air to green [[Copper(II) chloride|CuCl<sub>2</sub>]].  It is a [[Lewis acid]] which reacts with suitable ligands such as [[ammonia]] or [[chloride]] ion to form [[Complex (chemistry)|complexes]], many of which are water-soluble.  It is even able to form a stable complex with [[carbon monoxide]].
+
+In [[aqueous]] solution, CuCl would be unstable with respect to [[disproportionation]] into [[Copper|Cu]] and [[Copper(II) chloride|CuCl<sub>2</sub>]], but its low [[solubility]] allows it to be a stable compound<sup>[1]</sup>.
+
+== Chemical Properties ==
+'''Copper(I) chloride''' is a [[Lewis acid]], classified as soft according to the [[HSAB concept|Hard-Soft Acid-Base concept]].  Thus it tends to form stable [[Complex (chemistry)|complexes]] with soft [[Lewis base]]s such as [[triphenylphosphine]]:
+
+CuCl  +  [[triphenylphosphine|PPh<sub>3</sub>]]  →  [CuCl(PPh<sub>3</sub>)]<sub>4</sub>   (Ph = [[phenyl]])
+
+Although CuCl is insoluble in water, it dissolves in aqueous solutions containing suitable donor molecules.  It readily forms complexes with [[halide]] ions, for example forming [[hydronium|H<sub>3</sub>O<sup>+</sup>]] CuCl<sub>2</sub><sup>-</sup> with concentrated [[hydrochloric acid]].  It also dissolves readily in solutions containing [[cyanide|CN<sup>-</sup>]], [[thiosulfate|S<sub>2</sub>O<sub>3</sub><sup>2-</sup>]] or [[ammonia|NH<sub>3</sub>]]
+
+Solutions of CuCl in [[hydrochloric acid|HCl]] or [[ammonia|NH<sub>3</sub>]] absorb [[carbon monoxide]] to form colourless [[Complex (chemistry)|complexes]] such as the crystalline halogen-bridged dimer [CuCl(CO)]<sub>2</sub>.  The same [[hydrochloric acid|HCl]] solution can also react with [[acetylene]] gas to form [CuCl(C<sub>2</sub>H<sub>2</sub>)], while an [[ammonia|NH<sub>3</sub>]] solution of CuCl forms an explosive [[copper(I) acetylide]] with [[acetylene]].  Complexes of CuCl with [[alkene]]s can be made by reduction of [[copper(II) chloride|CuCl<sub>2</sub>]] by [[sulfur dioxide]] in the presence of the [[alkene]] in alcohol solution.  Complexes with [[chelation|chelating]] [[alkene]]s such as [[1,5-cyclooctadiene]] are particularly stable<sup>[4]</sup>:
+
+[[Image:CuCl_COD_dimer.gif|400px|Structure of COD complex of CuCl]]
+
+CuCl reacts with organometallic compounds such as [[methyllithium]] (CH<sub>3</sub>Li) to form "[[Gilman_reagent|Gilman reagents]]" such as (CH<sub>3</sub>)<sub>2</sub>CuLi, which find extensive use in [[organic synthesis]].  [[Grignard reagent]]s react similarly.
+
+== Preparation ==
+'''Copper(I) chloride''' may be prepared by the reduction of copper(II) salts such as [[Copper(II) sulfate|CuSO<sub>4</sub>]] using [[sulfur dioxide]] or [[copper]] metal.  [[Sulfur dioxide|SO<sub>2</sub>]] may be prepared ''in situ'' from [[sodium bisulfite]] (NaHSO<sub>3</sub>) or [[sodium metabisulfite]] (Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>) and acid.   The reduction is carried out in [[hydrochloric acid]], and the resulting CuCl<sub>2</sub><sup>-</sup> complex is diluted to precipitate white CuCl (by driving the [[chemical equilibrium|equilibrium]] using [[Le Chatelier's principle]]).
+
+(1)  [[sodium bisulfite|NaHSO<sub>3</sub>]]([[aqueous|aq]])  +   [[hydrochloric acid|HCl]] ([[aqueous|aq]])  →  [[sulfur dioxide|SO<sub>2</sub>]]([[aqueous|aq]])  +  [[sodium chloride|NaCl]]  +  [[water (molecule)|H<sub>2</sub>O]]([[liquid|l]])
+
+(2)  2 [[Copper(II) sulfate|CuSO<sub>4</sub>]]([[aqueous|aq]])  +  [[sulfur dioxide|SO<sub>2</sub>]]([[aqueous|aq]])  +  2 [[water (molecule)|H<sub>2</sub>O]]([[liquid|l]])  +  4 [[hydrochloric acid|HCl]]([[aqueous|aq]])  →  2 HCuCl<sub>2</sub>([[aqueous|aq]])  +  3 [[sulfuric acid|H<sub>2</sub>SO<sub>4</sub>]]([[aqueous|aq]])
+
+(3)  HCuCl<sub>2</sub>([[aqueous|aq]])  +   [[water (molecule)|H<sub>2</sub>O]]([[liquid|l]])  →  CuCl([[solid|s]])  +  [[hydronium|H<sub>3</sub>O<sup>+</sup>]]([[aqueous|aq]])  +  Cl<sup>-</sup>([[aqueous|aq]])
+
+== Uses ==
+A major chemical use for '''copper(I) chloride''' is as a catalyst for a variety of organic reactions.  Compared to other "soft" Lewis acids, it is much more affordable than non-toxic [[silver(I) chloride]] and [[palladium(II) chloride]], and much less toxic than [[lead(II) chloride]] and [[mercury(II) chloride]].  In addition, it can undergo redox chemistry via copper(II) or copper(III) intermediates.  This combination of properties make copper(I) salts invaluable reagents.
+
+One such application is in the [[Sandmeyer reaction]]<sup>[5]</sup>.  Treatment of an [[arenediazonium salt]] with CuCl leads to an aryl chloride, for example:
+
+[[Image:CuCl_Sandmeyer.gif|400px|(Example Sandmeyer reaction using CuCl)]]
+
+The reaction has wide scope, and usually gives good yields.
+
+The observation that copper(I) halides catalyse 1,4-addition of [[Grignard reagent]]s to alpha,beta-unsaturated ketones<sup>[6]</sup> led to the development of [[organocuprate]] reagents that are widely used today in [[organic synthesis]] <sup>[7]</sup>:
+
+[[Image:CuCl_Kharasch_reaction.gif|500px|(Addition of RMgX to C=C-C=O mediated by CuCl)]]
+
+Although other copper(I) compounds such as copper(I) iodide are now more often used for this type of reaction, there are cases where copper(I) chloride is particularly effective<sup>[8]</sup>:
+
+[[Image:CuCl_sorbate_ester_alkylation.gif|500px|(Alkylation of sorbate ester at 4-position mediated by CuCl)]]
+
+Here, Bu indicates an n-[[butyl]] group.  Without CuCl, the [[Grignard reagent]] alone  gives a mixture of 1,2 and 1,4-addition products (i.e., the butyl adds at the closer to the C=O).
+
+Copper(I) chloride is also an intermediate formed from [[copper(II) chloride]] in the [[Wacker process]].
+
+== Precautions ==
+Copper salts do have some toxicity and should be handled with care; wear gloves and goggles.  Avoid bringing CuCl into contact with [[alkyne]]s.
+
+Template: [[inorganic stylesheet1]]
+
+== References ==
+# N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997.
+# ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.
+# ''The Merck Index'', 7th edition, Merck & Co, Rahway, New Jersey, USA, 1960.
+# D. Nicholls, ''Compleses and First-Row Transition Elements'', Macmillan Press, London, 1973.
+# (a) L. G. Wade, ''Organic Chemistry'', 5th ed., p. 871, Prentice Hall, Upper Saddle RIver, New Jersey, 2003.  (b) J. March, ''Advanced Organic Chemistry'', 4th ed., p. 723, Wiley, New York, 1992.
+# M. S. Kharasch, P. O. Tawney, ''Journal of the American Chemical Society'', '''63''', 2308 (1941).
+# J. T. B. H. Jasrzebski, G. van Koten, in ''Modern Organocopper Chemistry'', (N. Krause, ed.), p. 1, Wiley-VCH, Weinheim, Germany, 2002.
+# (a) S. H. Bertz, E. H. Fairchild, in ''Handbook of Reagents for Organic Synthesis, Volume 1: Reagents, Auxiliaries and Catalysts for C-C Bond Formation'', (R. M. Coates, S. E. Denmark, eds.), pp. 220-3, Wiley, New York, 1999.  (b) J. Munch-Petersen et al., ''Acta Chimica Scand.'', '''15''', 277 (1961).
+# A. F. Wells, '''Structural Inorganic Chemistry'', 5th ed., Oxford University Press, Oxford, UK, 1984.
+
+==External links==
+*[http://www.npi.gov.au/database/substance-info/profiles/27.html National Pollutant Inventory - Copper and compounds fact sheet]
+
+{{ChemicalSources}}
+
+[[Category:Chlorides]]
+[[Category:Copper compounds]]
+[[Category:Metal halides]]
+[[Category:Coordination compounds]]
+[[Category:Pyrotechnic chemicals]]
+
+[[de:Kupfer(I)-chlorid]]
+[[io:Kuprokloro]]
+[[it:Cloruro rameoso]]
+[[nl:Koper(I)chloride]]
+[[pl:Chlorek miedzi(I)]]

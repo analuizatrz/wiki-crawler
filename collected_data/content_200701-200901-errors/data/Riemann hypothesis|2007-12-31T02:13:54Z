@@ -1,0 +1,275 @@
+{{dablink|There is also the [[Riemann hypothesis for curves over finite fields]].}}
+
+[[Image:Criticalline.png|thumb|The real part (red) and imaginary part (blue) of the critical line Re(''s'') = 1/2 of the Riemann zeta-function. You can see the first non-trivial zeros at Im(''s'') = ±14.135, ±21.022 and ±25.011.]]
+[[Image:Zeta_polar.svg|thumb|A Value Graph of zeta, that is, Re(zeta) vs. Im(zeta), along the critical line ''s'' = ''it''&nbsp;+&nbsp;1/2, with ''t'' running from 0 to 34]]
+
+The '''Riemann hypothesis''' (also called the '''Riemann zeta-hypothesis'''), first formulated by [[Bernhard Riemann]] in 1859, is one of the most famous and important unsolved problems in [[mathematics]]. It has been an open question for almost 150 years, despite attracting concentrated efforts from many outstanding mathematicians. Unlike some other celebrated problems, it is more attractive to professionals in the field than to amateurs.
+
+The Riemann hypothesis (RH) is a [[conjecture]] about the distribution of the [[Root (mathematics)|zero]]s of the [[Riemann zeta function|Riemann zeta-function]] ζ(''s''). The Riemann zeta-function is defined for all [[complex number]]s ''s'' ≠ 1. It has zeros at the negative even integers (i.e. at ''s'' = &minus;2, ''s'' = &minus;4, ''s'' = &minus;6, ...). These are called the '''trivial zeros'''. The Riemann hypothesis is concerned with the non-trivial zeros, and states that:
+
+:The real part of any non-trivial zero of the Riemann zeta function is &frac12;.
+
+Thus the non-trivial zeros should lie on the so-called '''critical line''' ½ + ''it'' with ''t'' a [[real number]] and ''i'' the [[imaginary unit]]. The Riemann 
+zeta-function along the critical line is sometimes studied in terms of the [[Z function|Z-function]], whose real zeros correspond to the zeros of the zeta-function on the critical line.
+
+The Riemann hypothesis is one of the most important open problems of contemporary mathematics, mainly because a large number of deep and important other results have been proven under the condition that it holds. Most mathematicians believe the Riemann hypothesis to be true. ([[J. E. Littlewood]] and [[Atle Selberg]] have been reported as skeptical. Selberg's skepticism, if any, waned from his young days. In a 1989 paper, he suggested that an analogue should hold for a much wider class of functions, the [[Selberg class]].) A $1,000,000 prize has been offered by the [[Clay Mathematics Institute]] for the first correct proof.<ref>{{citation|first=Keith J.|last=Devlin|title=The Millennium Problems: The Seven Greatest Unsolved Mathematical Puzzles of Our Time|publisher=Basic Books|year=2002|isbn=0-465-01729-0}}.</ref>
+
+{{Millennium Problems}}
+==History==
+{{unsolved|mathematics|Does every non-trivial [[root (mathematics)|zero]] of the [[Riemann zeta function]] have [[real part]] &frac12;?}}
+
+Riemann mentioned the conjecture that became known as the Riemann hypothesis in his 1859 paper ''[[On the Number of Primes Less Than a Given Magnitude]]'', but as it was not essential to his central purpose in that paper, he did not attempt a proof. Riemann knew that the non-trivial zeros of the zeta-function were symmetrically distributed about the line ''s'' = ½ + ''it'', and he knew that all of its non-trivial zeros must lie in the range 0 ≤ Re(''s'') ≤ 1.
+
+In 1896, [[Jacques Hadamard|Hadamard]] and [[de la Vallée-Poussin]] independently proved that no zeros could lie on the line Re(''s'') = 1. Together with the other properties of non-trivial zeros proved by Riemann, this showed that all non-trivial zeros must lie in the interior of the critical strip 0 < Re(''s'') < 1. This was a key step in the first complete proofs of the [[prime number theorem]].
+
+In 1900, [[David Hilbert|Hilbert]] included the Riemann hypothesis in his famous list of [[Hilbert's problems|23 unsolved problems]] — it is part of Problem 8 in Hilbert's list, along with the [[Goldbach conjecture]]. When asked what he would do if awakened after having slept for five hundred years, Hilbert famously said his first question would be whether the Riemann hypothesis had been proven (Derbyshire 2003:197; Sabbagh 2003:69; Bollobas 1986:16).  The Riemann Hypothesis is the only one of Hilbert's problems on the [[Clay Mathematics Institute]] [[Millennium Prize Problems]]. 
+
+In 1914, [[G. H. Hardy|Hardy]] proved that an infinite number of  zeros lie on the critical line Re(''s'') = ½. However, it was still possible that an infinite number (and possibly the majority) of non-trivial zeros could lie elsewhere in the critical strip. [[critical line theorem|Later work]] by Hardy and [[J.E. Littlewood|Littlewood]] in 1921 and by Selberg in 1942 gave estimates for the average density of zeros on the critical line.
+
+Recent work has focused on the explicit calculation of the locations of large numbers of zeros (in the hope of finding a counterexample) and placing upper bounds on the proportion of zeros that can lie away from the critical line (in the hope of reducing this to zero).
+
+The fractal structure of the Riemann zeta zeros has been studied using
+Rescaled Range Analysis<ref name="Shanker">{{cite journal|author=O. Shanker|year=2006|title=Random matrices, generalized zeta functions and self-similarity of zero distributions|journal=J. Phys. A: Math. Gen.|volume=39 |pages=13983-13997   }}</ref>.
+The self-similarity of the zero distributions is quite remarkable, 
+and is characterized by a large fractal dimension of 1.9.
+
+==The Riemann hypothesis and primes==
+The traditional formulation of the Riemann hypothesis obscures somewhat the true importance of the conjecture. The zeta-function has a deep connection to the distribution of [[prime number]]s. [[Helge von Koch]] proved in 1901 that the Riemann hypothesis is equivalent to the following considerable strengthening of the [[prime number theorem]]: for every ε > 0, we have
+
+:<math>\left|\pi(x) - \int_0^x \frac{\mathrm{d}t}{\ln(t)}\right| = O(x^{1/2+\varepsilon}), </math>
+
+where π(''x'') is the [[prime-counting function]], ln(''x'') is the [[natural logarithm]] of ''x'', and the [[Landau notation]] is used on the right-hand side.<ref>Helge von Koch, "[http://dx.doi.org/10.1007/BF02403071 Sur la distribution des nombres premiers]", ''Acta Mathematica'' '''24''' (1901), pp. 159–182.</ref> A non-asymptotic version, due to [[Lowell Schoenfeld]], says that the Riemann hypothesis is equivalent to
+:<math>\left|\pi(x) - \int_0^x \frac{\mathrm{d}t}{\ln(t)}\right| < \frac{1}{8\pi} \sqrt{x} \, \ln(x), \qquad \text{for all } x \ge 2657. </math>
+
+The zeros of the Riemann zeta-function and the prime numbers satisfy a certain duality property, known as the [[explicit formulae]], which shows that in the language of [[Fourier analysis]] the zeros of the Riemann zeta-function can be regarded as the [[harmonic frequency|harmonic frequencies]] in the distribution of primes.
+
+The Riemann hypothesis can be generalized by replacing the Riemann zeta-function by the formally similar, but much more general, global [[L-function]]s. 
+In this broader setting, one expects the non-trivial zeros of the global ''L''-functions to have real part 1/2, and this is called the 
+[[generalized Riemann hypothesis]] (GRH).  It is ''this conjecture'', rather than the classical Riemann hypothesis only for the single Riemann zeta-function, which accounts for the true importance of the Riemann hypothesis in mathematics.  In other words, the importance of 'the Riemann hypothesis' in mathematics today really stems from the importance of the generalized Riemann hypothesis, but it is simpler to refer to the Riemann hypothesis only in its original special case when describing the problem to people outside of mathematics.{{Fact|date=June 2007}}
+
+For many global ''L''-functions of [[function field]]s (but not [[number field]]s), the Riemann hypothesis has been proven.  For instance, the fact that the [[quadratic Gauss sum|Gauss sum]], of the quadratic character of a finite field of size ''q'' (with ''q'' odd), has absolute value 
+
+:&radic;''q''
+
+is actually an instance of the Riemann hypothesis in the function field setting.
+
+==Consequences and equivalent formulations of the Riemann hypothesis==<!-- This section is linked from [[Riemann zeta function]] -->
+The practical uses of the Riemann hypothesis include many propositions which
+are stated to be true under the Riemann hypothesis, and some which can be
+shown to be equivalent to the Riemann hypothesis.
+One is the rate of growth in the error term of the prime number theorem given above.
+
+===Growth rate of Möbius function===
+One formulation involves the [[Möbius function]] μ.  The statement that the equation
+
+:<math>\frac{1}{\zeta(s)} = \sum_{n=1}^\infty \frac{\mu(n)}{n^s}</math>
+
+is valid for every ''s'' with real part greater than ½, with the sum on the right hand side converging, is equivalent to the Riemann hypothesis. From this we can also conclude that if the [[Mertens function]] is defined by
+
+:<math>M(x) = \sum_{n \le x} \mu(n)</math> 
+
+then the claim that 
+
+:<math>M(x) = O(x^{1/2+\varepsilon}) \,</math> 
+
+for every,
+
+:<math>\varepsilon > 0, \,</math>
+
+is equivalent to the Riemann hypothesis. This puts a rather tight bound on the growth of ''M'', since even with no hypothesis we can conclude 
+
+:<math>M(x) \ne o(x^\frac{1}{2})</math> 
+
+(For the meaning of these symbols, see [[Big O notation]].)
+
+===Growth rates of multiplicative functions===
+The Riemann hypothesis is equivalent to certain conjectures about the rate of growth of other [[multiplicative function]]s aside from μ(''n''). For instance, if σ(''n'') is the [[divisor function]], given by 
+
+:<math>\sigma(n) = \sum_{d\mid n} d </math>
+
+then 
+
+:<math>\sigma(n) < e^\gamma n \ln \ln n \,</math>
+
+for  ''n'' > 5040. This is known as [[Robin's theorem]] and was given by [[Guy Robin]] in 1984. A related bound was given by [[Jeffrey Lagarias]] in 2002, who proved that the Riemann hypothesis is equivalent to the statement that 
+
+:<math> \sigma(n) \le H_n + \ln(H_n)e^{H_n}</math>
+
+for every [[natural number]] ''n'', where <math>H_n</math> is the ''n''-th [[harmonic number]].
+
+===Riesz criterion, binomial sums===
+The [[Riesz criterion]] was given by [[Marcel Riesz]] in 1916, to the effect that the relation
+
+:<math>-\sum_{k=1}^\infty \frac{(-x)^k}{(k-1)!\,\zeta(2k)}=
+O\left(x^{1/4+\epsilon}\right)</math>
+
+holds for all <math>\epsilon>0</math> if and only if RH holds<ref>M.Riesz, "Sur l'hypothèse de Riemann", ''Acta Mathematica'', '''40''' (1916) pp185-190.</ref>. 
+
+Later (1918) Hardy provided an integral equation for 
+
+:<math>-\sum_{k=1}^\infty \frac{(-x)^k}{(k-1)!\,\zeta(2k)}=f(x)</math> using a variant of Borel resummation with Mellin transform
+
+Other functions related to the multiplicative functions have growth rates equivalent to the Riemann hypothesis as well.
+
+There are several relations on binomial sums that are equivalent to RH. For example, let
+
+:<math>c_k = \sum_{j=0}^k (-1)^j {k \choose j} \frac {1}{\zeta(2j+2)}</math>
+
+Báez-Duarte<ref>Luis Báez-Duarte, "[http://arxiv.org/abs/math.NT/0307215 A New Necessary and Sufficient Condition for the Riemann Hypothesis]" (2003) ''ArXiv'' math.NT/0307215</ref><ref>Luis Báez-Duarte, "A sequential Riesz-like criterion for the Riemann hypothesis", ''Internation Journal of Mathematics and Mathematical Sciences'', '''21''', pp. 3527-3537 (2005)</ref> and Flajolet and [[Brigitte Vallée|Vallée]] <ref>Philippe Flajolet and [[Brigitte Vallée]], "Continued fractions, comparison algorithms and fine structure constants", In Micheal Théra, ''Constructive, Experimental and Nonlinear Analysis'' volume 27 of ''Canadian Mathematical Society Conference Proceedings'' (2000) pp.53-82 AMS, Providence RI</ref>
+have shown that RH holds if and only if
+
+:<math>c_k \ll k^{-3/4+\epsilon}</math>
+
+for all <math>\epsilon>0</math>. Similarly, let 
+
+:<math>d_k = \sum_{j=2}^k (-1)^j {k \choose j} \frac {1}{\zeta(j)}</math>
+
+then Flajolet and Vepstas show<ref>Philippe Flajolet and Linas Vepstas, "[http://arxiv.org/abs/math.CA/0611332 On differences of zeta values]", ''ArXiv'' math.CA/0611332</ref> that RH holds if and only if
+
+:<math>|d_n| < C_\epsilon n^{1/2+\epsilon}</math>
+
+for all <math>\epsilon>0</math> and some constant <math>C_\epsilon</math> depending on <math>\epsilon</math>. Entering into the proof is the [[Mobius function]] <math>\mu(n)</math>, and so similar results hold for binomial sums over <math>\zeta(s-1)/\zeta(s)</math>, <math>\zeta^\prime(s)/\zeta(s)</math> and so on, which correspond to [[Dirichlet series]] for Euler's [[totient function]], the [[divisor function]], and so on.
+
+===Weil's criterion, Li's criterion===
+[[Weil's criterion]] is the statement that the positivity of a certain function is equivalent to the Riemann hypothesis. Related is [[Li's criterion]], a statement that the positivity of a certain sequence of numbers is equivalent to the Riemann hypothesis.
+
+===Relation to Farey sequence===
+Two other equivalent statements to the Riemann hypothesis involve the [[Farey sequence]]. If ''F''<sub>''n''</sub> is the Farey sequence of order ''n'', beginning with 1/''n'' and up to 1/1, then the claim that for all e > ½
+
+:<math>\sum_{i=1}^m|F_n(i) - i/m| = O(n^e)</math>
+
+is equivalent to the Riemann hypothesis. Here <math>m = \sum_{i=1}^n\phi(i)</math> is the number of terms in the Farey sequence of order ''n''. Similarly equivalent to the Riemann hypothesis is
+:<math>\sum_{i=1}^m(F_n(i) - i/m)^2 = O(n^e),</math>
+for all ''e'' > &minus;1.
+
+===Relation to group theory===
+The Riemann hypothesis is equivalent to certain conjectures of [[group theory]]. For instance, if ''g''(''n'') is the maximal order of elements of the [[symmetric group]] ''S''<sub>''n''</sub> of degree ''n'', known as [[Landau's function]], then the Riemann hypothesis is equivalent to the bound, for all ''n'' greater than some ''M'', of
+
+:<math>\ln g(n) < \sqrt{\operatorname{Li}^{-1}(n)}.</math>
+
+===Critical line theorem===
+The Riemann hypothesis is equivalent to the statement that <math>\zeta'(s)</math>, the derivative of <math>\zeta(s)</math>, has no zeros in the strip 
+
+:<math>0 < \Re(s) < \frac12</math>. 
+
+That ζ has only simple zeros on the critical line is equivalent to its derivative having no zeros on the critical line, so under the usual hypotheses on the Riemann zeta-function we can extend the zero-free region to <math>0 < \Re(s) \le \frac12</math>. This approach has been fruitful; refining it allowed [[Norman Levinson]] to prove his strengthening of the [[critical line theorem]].
+
+==Disproven conjectures==
+Stronger conjectures than the Riemann hypothesis have also been formulated, but they have a tendency to be disproven. [[Paul Turan]] showed that if the sums 
+
+:<math>\sum_{n=1}^M n^{-s}</math> 
+
+have no zeros when the real part of ''s'' is greater than one then the Riemann hypothesis is true, but [[Hugh Montgomery]] showed the premise is false. Another stronger conjecture, the [[Mertens conjecture]], has also been disproven.
+
+==Weaker conjectures==
+===Lindelöf hypothesis===
+The Riemann hypothesis has various weaker consequences as well; one is the '''Lindelöf hypothesis''' on the rate of growth of the zeta function on the critical line, which says that, for any ''e'' > 0,
+
+:<math>\zeta\left(\frac12 + it\right) = O(t^e),</math>
+
+as ''t'' tends to infinity.
+
+Denoting by ''p''<sub>''n''</sub> the ''n''-th prime number, a result by [[Albert Ingham]], shows that the Lindelöf hypothesis implies that, for any ''e'' > 0,
+
+:''p''<sub>''n+1''</sub> - ''p''<sub>''n''</sub> < ''p''<sup>1/2+''e'',</sup>
+
+if ''n'' is [[sufficiently large]]. However, this result is worse than that of the large prime gap conjecture, stated below.
+
+===Large prime gap conjecture===
+Another conjecture is the large prime gap conjecture. [[Harald Cramér|Cramér]] proved that,
+assuming the Riemann hypothesis, the [[prime gap|gap]] between the prime ''p'' and its successor is <math>O(\sqrt{p} \ln p)</math>. On average, the gap is
+merely <math>O(\ln p)</math> and numerical evidence does not suggest it
+can grow nearly as fast as the Riemann hypothesis seems to allow, much less
+as fast as the best that can at present be shown without it.
+
+==Attempted proofs of the Riemann hypothesis==	 
+Several teams of mathematicians have addressed RH over decades, and a few purported proofs go unverified [[as of 2007]]. However, these have been received with skepticism by the mathematical community, and professionals at large do not believe them to be true.{{Fact|date=December 2007}} Matthew R. Watkins from the [[University of Exeter]] has a compilation of such claims (serious and ludicrous alike)<ref>{{cite web | url=http://secamlocal.ex.ac.uk/~mwatkins/zeta/RHproofs.htm | title=Proposed proofs of the Riemann Hypothesis | date=2007-07-18}}</ref>, and a few others may be found in the [[arXiv]] database.
+
+==Possible connection with operator theory==
+{{main|Hilbert–Pólya conjecture}}
+
+It has long been speculated that the ''correct'' way to derive the Riemann hypothesis has been to find a [[self-adjoint operator]], from the existence of which the statement on the real parts of the zeroes of ζ(''s'') would follow when one applies the criterion on real [[eigenvalue]]s. This has led to many investigations; but has not yet proven fruitful.
+
+The distribution of the zeros of the Riemann zeta function shares some statistical properties with the eigenvalues of [[random matrices]] drawn from the [[Gaussian unitary ensemble]]. This gives some support to the Hilbert–Pólya conjecture.
+
+In 1999, [[Michael Berry]] and Jon Keating conjectured that there is some unknown quantization <math>\hat H</math> of the classical Hamiltonian <math>H=xp</math> so that   
+
+:<math> \zeta (1/2+i\hat H) = 0 </math>
+
+and even more strongly, that the Riemann zeros coincide with the spectrum of the operator <math>1/2 + i \hat H</math>. This is to be contrasted to [[canonical quantization]] which leads to the [[Heisenberg uncertainty principle]] <math>[x,p]=1/2</math> and the [[natural numbers]] as spectrum of the [[quantum harmonic oscillator]]. The crucial point is that the Hamiltonian should be a [[Hermitian operator]] (or more precisely closed [[self adjoint operator]]) so that the quantisation would be a realisation of the Hilbert–Pólya program.
+
+==Searching for ζ-function zeroes==
+[[Image:Riemann zeta function absolute value.png|thumb|250px|Absolute value of the ζ-function]]
+There is a long history of computational attempts to explore as many zeroes of the ζ-function as possible. One notable such attempt was [[ZetaGrid]], a [[distributed computing]] project, which checked over a billion zeros a day when it was running. The project was shut down in November 2005. [[As of 2006]], no computational project has succeeded in finding a counterexample to the Riemann hypothesis.
+
+In 2004, [[Xavier Gourdon]] and [[Patrick Demichel]] verified the Riemann hypothesis through the first ten trillion non-trivial zeros using the [[Odlyzko-Schönhage algorithm]].
+
+[[Michael Rubinstein]] has made public an [http://pmmac03.math.uwaterloo.ca/~mrubinst/l_function_public/L.html algorithm] for generating the zeros.
+
+==References==
+<references/>
+===Historical references===
+* Bernhard Riemann, ''[http://www.claymath.org/millennium/Riemann_Hypothesis/1859_manuscript/ Ueber die Anzahl der Primzahlen unter einer gegebenen Grösse]'', (1859) Monatsberichte der Berliner Akademie. ''(This site provides both a facsimile of the original manuscripts, as well as English translations.)''
+* Jacques Hadamard, ''Sur la distribution des zéros de la fonction ζ(s) et ses conséquences arithmétiques'', Bulletin Société Mathématique de France '''14''' (1896) pp 199-220.
+
+===Modern technical references===
+* [[H. M. Edwards]], ''Riemann's Zeta Function'', Academic Press, 1974.   (Reprinted by Dover Publications, 2001 ISBN 0-486-41740-9)
+* [[Edward Charles Titchmarsh|E. C. Titchmarsh]], ''The Theory of the Riemann Zeta Function'', second revised (Heath-Brown) edition, Oxford University Press, 1986
+* {{cite journal|author=Jeffrey Lagarias |title=An Elementary Problem Equivalent to the Riemann Hypothesis|journal=American Mathematical Monthly|year=2002|volume=109|pages=534-543}} ''(A relationship in terms of Harmonic numbers.)''
+* ''(no author credited)'', ''[http://numbers.computation.free.fr/Constants/Miscellaneous/zetazeroscompute.html Computation of zeros of the Zeta function]'' (2004).  ''(Reviews the GUE hypothesis, provides an extensive bibliography as well)''.
+* Schoenfeld, Lowell. "Sharper bounds for the Chebyshev functions θ(''x'') and ψ(''x''). II." ''Mathematics of Computation'' '''30''' (1976), no. 134, 337--360.
+* Conrey, J. Brian. "the Riemann Hypothesis" Notices of the American Mathematical Society, March 2003, 341-353. Available free http://www.ams.org/notices/200303/fea-conrey-web.pdf
+
+===Popular References===
+* Clay Mathematics Institute, ''[http://www.claymath.org/millennium/ Millennium Problems]'', (2000) (Announcement of the million dollar rewards for solutions to famous problems in mathematics)
+* Marcus du Sautoy, ''The Music of the Primes'', HarperCollins, 2003
+* Marcus du Sautoy, "[http://www.seedmagazine.com/news/2006/03/prime_numbers_get_hitched.php Prime Numbers Get Hitched]", ''[http://www.seedmagazine.com Seed Magazine]''" (03/27/2006)
+* Daniel Rockmore, ''Stalking the Riemann Hypothesis : The Quest to Find the Hidden Law of Prime Numbers'', Pantheon Books, New York, 2005. ISBN 0-375-42136-X.
+* John Derbyshire, ''[http://www.nap.edu/catalog/10532.html Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics]'', Joseph Henry Press (April 23, 2003), ISBN 0-309-08549-7. 448 page book at a non-specialist level, can be read online for free.
+* ''[http://www.zetagrid.net/ Zetagrid]'' (2002) A distributed computing project that attempted to disprove Riemann's hypothesis; closed in November 2005.
+* [[Ron Howard]], ''[[A Beautiful Mind (film)|A Beautiful Mind]]'' (2001). In the film, the mathematician [[John Forbes Nash|John Nash]] attempts to prove the Riemann Hypothesis.
+*''[[Law & Order: Criminal Intent]]:'' In season 2, episode 2, "Bright Boy", the detective played by [[Vincent D'Onofrio]] tricks a father into confessing to a murder by telling him his son has solved the Riemann Hypothesis.
+*''[[Numb3rs]]:'' In season 1 episode 5, "Prime Suspect", ([[CBS]]) Criminals kidnap a mathematician's daughter and demand his allegedly complete proof of Riemann's Hypothesis as ransom.
+* [[Ed Pegg, Jr.]], ''[http://www.maa.org/editorial/mathgames/mathgames_10_18_04.html Ten Trillion Zeta Zeros]'', (2004) Math Games website. A discussion of Xavier Gourdon's calculation of the first ten trillion non-trivial zeros.
+* de Vries, ''[http://math-it.org/Mathematik/Riemann/RiemannApplet.html The Graph of the Riemann Zeta function ζ(s)]'' (2004). A simple animated java applet.
+* Erica Klarreich, "[http://www.timetoeternity.com/time_space_light/prime_time.htm Prime Time]", ''[[New Scientist]]'' - November 11, 2000, p. 32. A simple introduction to the Riemann Hypothesis, and its connection to prime numbers and quantum systems.
+* QEDen ''[http://www.qeden.com/wiki/The_Riemann_Hypothesis A wiki dedicated to solving the millennium problems]''
+* [[Perplex City]], an [[Alternate Reality Game]] soliciting answers to various puzzles from its players, is offering 60 points to any player to submit a proof of the Riemann Hypothesis on [http://www.perplexcity.com/cards/238/ card 238 of Season 1, entitled "Riemann"].
+* ''[[Proof (2005 film)|Proof]]'', a film starring Gwynneth Paltrow and Anthony Hopkins, in which a character is purported to have solved a problem that sounds like the Riemann Hypothesis.
+* In the novel ''[[PopCo]]'' the main character's grandmother used to spend all her free time trying to prove the Riemann Hypothesis.
+* In Thomas Pynchon's novel ''Against The Day'' the Riemann Hypothesis and the question of non-trivial zeros are recurring tropes and preoccupations of the students and spies gathered at Göttingen University in the years preceding World War I.
+* Karl Sabbagh,  ''The Riemann Hypothesis: the greatest unsolved problem in mathematics'', (2003) Farrar, Straus and Giroux, ISBN 0-374-25007-3. Also (2004) First American paperback edition. Conversations with mathematicians working on the problem. The reader should not expect to learn anything about the problem itself.
+* Dirk L. van Krimpen, ''[http://www.lulu.com/content/732938 Proving the Riemann Hypothesis and other simple things]'', (2007) The main story of this bundle of math oriented science fiction stories shows the internal geometry of the zeta function in various pictures. From this geometry rules can be deducted proving that indeed for every possible non-trivial zero the real part cannot be anything else than 1/2.
+
+===Cited References===
+* Bollobas, Bela, foreword to [[John Edensor Littlewood|Littlewood]]'s Miscellany, Cambridge University Press, 1986
+
+[[Category:Zeta and L-functions]]
+[[Category:Conjectures]]
+[[Category:Hilbert's problems]]
+[[Category:Unsolved problems in mathematics]]
+[[Category:Millennium Prize Problems]]
+[[Category:Hypotheses]]
+[[Category:Analytic number theory]]
+
+[[ar:فرضية ريمان]]
+[[bg:Хипотеза на Риман]]
+[[ca:Hipòtesi de Riemann]]
+[[cs:Riemannova hypotéza]]
+[[de:Riemannsche Vermutung]]
+[[es:Hipótesis de Riemann]]
+[[fr:Hypothèse de Riemann]]
+[[ko:리만 가설]]
+[[it:Ipotesi di Riemann]]
+[[he:השערת רימן]]
+[[lt:Rymano hipotezė]]
+[[hu:Riemann-sejtés]]
+[[nl:Riemann-hypothese]]
+[[ja:リーマン予想]]
+[[pl:Hipoteza Riemanna]]
+[[pt:Hipótese de Riemann]]
+[[ru:Гипотеза Римана]]
+[[fi:Riemannin hypoteesi]]
+[[sv:Riemannhypotesen]]
+[[tr:Riemann Hipotezi]]
+[[zh:黎曼猜想]]

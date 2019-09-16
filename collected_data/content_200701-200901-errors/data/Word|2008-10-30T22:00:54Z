@@ -1,0 +1,157 @@
+{{refimprove|date=November 2006}}
+{{expand|date=April 2008}}
+{{Other uses}}
+A '''word''' is a unit of [[language]] that carries [[Meaning (linguistic)|meaning]] and consists of one or more [[morpheme]]s which are linked more or less tightly together, and has a [[phonetic]] value. Typically a word will consist of a [[root (linguistics)|root]] or [[stem (linguistics)|stem]] and zero or more [[affix]]es. Words can be combined to create [[phrase]]s, [[clause]]s, and [[sentence (linguistics)|sentences]]. A word consisting of two or more stems joined together form a [[compound (linguistics)|compound]]. A word combined with another word or part of a word form a [[portmanteau]]. 
+
+==Definitions==
+{{see|Lexeme|Lemma (linguistics)}}
+Depending on the language, words can   be difficult to identify or delimit. [[Dictionaries]] take upon themselves the task of categorizing a language's [[lexicon]] into [[Lemma (linguistics)|lemmas]]. These can be taken as an indication of what constitutes a "word" in the opinion of the authors.
+
+===Word boundaries===
+In [[spoken language]], the distinction of individual words is usually given by rhythm or accent, but short words are often run together.  See [[clitic]] for [[phonologic]]ally dependent words.  Spoken [[French language|French]] has some of the features of a [[polysynthetic language]]: ''il y est allé'' ("He went there") is pronounced /{{IPA|i.ljɛ.ta.le}}/. Since the majority of the world's languages are not written, the scientific determination of word boundaries becomes important.
+
+There are five ways to determine where the word boundaries of spoken language should be placed:
+;Potential pause
+:A speaker is told to repeat a given sentence slowly, allowing for pauses. The speaker will tend to insert pauses at the word boundaries. However, this method is not foolproof: the speaker could easily break up polysyllabic words.
+;Indivisibility
+:A speaker is told to say a [[Sentence (linguistics)|sentence]] out loud, and then is told to say the sentence again with extra words added to it. Thus, ''I have lived in this village for ten years'' might become ''I and my family have lived in this little village for about ten or so years''. These extra words will tend to be added in the word boundaries of the original sentence. However, some languages have [[infix]]es, which are put inside a word.  Similarly, some have [[separable affix]]es; in the [[German language|German]] sentence "Ich '''komme''' gut zu Hause '''an'''," the verb ''ankommen'' is separated.
+;Minimal free forms
+:This concept was proposed by [[Leonard Bloomfield]] in 1926. Words are thought of as the smallest meaningful unit of speech that can stand by themselves.<ref>Katamba 11</ref> This correlates phonemes (units of sound) to [[lexeme]]s (units of meaning). However, some written words are not minimal free forms, as they make no sense by themselves (for example, ''the'' and ''of'').<ref>Fleming 77</ref>
+;Phonetic boundaries
+:Some languages have particular rules of [[pronunciation]] that make it easy to spot where a word boundary should be. For example, in a language that regularly [[lexical stress|stresses]] the last syllable of a word, a word boundary is likely to fall after each stressed syllable. Another example can be seen in a language that has [[vowel harmony]] (like [[Turkish language|Turkish]])<ref>Bauer 9</ref>: the vowels within a given word share the same ''quality'', so a word boundary is likely to occur whenever the vowel quality changes. Nevertheless, not all languages have such convenient phonetic rules, and even those that do present the occasional exceptions.
+;Semantic units
+:Much like the above mentioned minimal free forms, this method breaks down a sentence into its smallest [[semantics|semantic]] units. However, language often contains words that have little semantic value (and often play a more grammatical role), or semantic units that are compound words.
+
+;A further criterion. Pragmatics. 
+As Plag suggests, the idea of a lexical item being considered a word should also adjust to pragmatic criteria. The word "hello", for example, does not exist outside of the realm of greetings being difficult to assign a meaning out of it. This is a little more complex if we consider "how do you do?": is it a word, a phrase, or an idiom? 
+In practice, linguists apply a mixture of all these methods to determine the word boundaries of any given sentence. Even with the careful application of these methods, the exact definition of a word is often still very elusive.
+
+There are some words that seem very general, but may truly have a technical definition, such as the word "soon," usually meaning within a week.
+
+===Orthography===
+{{main|Orthography}}
+
+In languages with a [[writing|literary tradition]], there is interrelation between [[orthography]] and the question of what is considered a single word.
+[[Word separator]]s (typically [[space (punctuation)|space marks]]) are common in modern orthography of languages using [[alphabetic script]]s,
+but these are (excepting isolated precedents) a modern development (see also [[history of writing]]).
+
+In [[English orthography]], words may contain spaces if they are [[compound (linguistics)|compounds]] or [[proper noun]]s such as ''ice cream'' or ''air raid shelter''.  
+
+[[Vietnamese language|Vietnamese]] orthography, although using the [[Latin alphabet]],  delimits monosyllabic morphemes, not words.  
+Conversely, [[synthetic language]]s often combine many lexical morphemes into single words, making it difficult to boil them down to the traditional sense of words found more easily in [[analytic language]]s; this is especially difficult for [[polysynthetic language]]s such as [[Inuktitut]] and [[Ubykh language|Ubykh]], where entire sentences may consist of single such words.
+
+[[Logographic script]]s use single signs ([[character (sign)|characters]]) to express a word. Most ''de facto'' existing scripts are however partly logographic, and combine logographic with phonetic signs. The most widespread
+logographic script in modern use is the [[Chinese script]]. While the Chinese script has some true logographs, the largest class of characters used in modern Chinese (some 90%) are so-called pictophonetic compounds ({{lang|zh|形声字}}, {{lang|pny|Xíngshēngzì}}).<ref>Barton 96</ref> Characters of this sort are composed of two parts: a pictograph, which suggests the general meaning of the character, and a phonetic part, which is derived from a character pronounced in the same way as the word the new character represents. In this sense, the character for most Chinese words consists of a determiner and a syllabogram, similar to the approach used by [[cuneiform script]] and [[Egyptian hieroglyphs]]. 
+
+There is a tendency informed by orthography to identify a single Chinese character as corresponding to a single word in the Chinese language, parallel to the tendency to identify the letters between two space marks as a single word in the English language. In both cases, this leads to the identification of [[compounds|compound members]] as individual words, while e.g. in   [[German orthography]], compound members are not separated by space marks and the tendency is thus to identify the entire compound as a single word. Compare e.g. English ''capital city'' with German ''Hauptstadt'' and Chinese 首都 (lit. [[:wikt:首|chief]] [[:wikt:都|metropolis]]): all three are equivalent compounds, in the English case consisting of "two words" separated by a space mark, in the German case written as a "single word" without space mark, and in the Chinese case consisting of two logographic characters.
+
+==Morphology==
+{{main|Morphology (linguistics)}}
+{{see|Inflection}}
+In [[synthetic language]]s, a single [[word stem]] (for example, ''love'') may have a number of different forms (for example, ''loves'', ''loving'', and ''loved''). However, these are not usually considered to be different words, but different forms of the same word. In these languages, words may be considered to be constructed from a number of [[morpheme]]s.
+In [[Indo-European languages]] in particular, the morphemes distinguished are
+*the [[root (linguistics)|root]]
+*optional [[suffixes]]
+*a [[desinence]].
+Thus, the Proto-Indo-European ''{{PIE|*wr̥dhom}}'' would be analysed as consisting of
+#''{{PIE|*wr̥-}}'', the [[zero grade]] of the root ''{{PIE|*wer-}}'' 
+#a root-extension ''{{PIE|*-dh-}}'' (diachronically a suffix), resulting in a complex root ''{{PIE|*wr̥dh-}}''
+#The [[thematic suffix]] ''{{PIE|*-o-}}''
+#the [[neuter gender]] nominative or accusative singular desinence ''{{PIE|*-m}}''.
+
+==Classes==
+{{main|Lexical category}}
+[[Grammar]] classifies a language's lexicon into several groups of words. The basic bipartite division 
+possible for virtually every [[natural language]] is that of [[noun]]s vs. [[verb]]s.
+
+The classification into such classes is in the tradition of [[Dionysius Thrax]], who distinguished eight categories: [[noun]], [[verb]], [[adjective]], [[pronoun]], [[preposition]], [[adverb]], [[Grammatical_conjunction|conjunction]] and [[interjection]].
+
+In Indian grammatical tradition, [[Panini]] introduced a similar fundamental classification into a nominal (nāma, suP) and a verbal (ākhyāta, tiN) class, based on the set of desinences taken by the word.
+
+==Citations==
+{{reflist}}
+
+==Works cited==
+* {{cite book | title = Literacy: An Introduction to the Ecology of Written Language | author = Barton, David | publisher = Blackwell Publishing | year = 1994 | page = 96}}
+* {{cite book | title = English Word-formation | author = Bauer, Laurie | year = 1983 | location = Cambridge | publisher = Cambridge University Press | isbn = 0-521-28492-9}}
+*Brown, Keith R. (Ed.) (2005) Encyclopedia of Language and Linguistics (2nd ed.). Elsevier. 14 vols.
+* {{cite book | title = The Cambridge Encyclopedia of the English Language | author = Crystal, David | year = 1995 | edition = 1 | location = Cambridge | publisher = Cambridge University Press | isbn = 0-521-40179-8}}
+* {{cite book | title = Meeting the Standards in Secondary English: A Guide to the ITT NC | author = Fleming, Michael et al. | year = 2001 | publisher = Routledge | page = 77}}
+* {{cite book | title = English Words: Structure, History, Usage | author = Katamba, Francis | year = 2005 | publisher = Routledge | isbn = 0-415-29892-X}}
+* {{cite book | title = Word-formation in English | author = Plag, Ingo | year = 2003 | location = Cambridge | publisher = Cambridge University Press | isbn = 0-521-52563-2}}
+* {{cite dictionary | encyclopedia = Oxford English Dictionary | editor = Simpson, J.A. and E.S.C. Weiner | edition = 2 | year = 1989 | publisher = Clarendon Press | isbn = 0-198-61186-2}}
+
+==See also==
+*[[Grammar]]
+*[[Utterance]]
+*[[morphology (linguistics)|Morphology]]
+*[[Lexeme]]
+*[[Lexicon]]
+*[[Lexis (linguistics)]]
+*[[Lexical item]]
+
+==External links==
+* [http://www.sussex.ac.uk/linguistics/documents/essay_-_what_is_a_word.pdf What Is a Word?] - a working paper by [[Larry Trask]], Department of Linguistics and English Language, [[University of Sussex]].
+
+[[Category:Lexical units]]
+[[Category:Syntactic entities]]
+[[Category:Units of linguistic morphology]]
+
+[[ar:كلمة (لغة)]]
+[[ast:Pallabra]]
+[[be-x-old:Слова]]
+[[br:Ger]]
+[[bg:Дума]]
+[[ca:Paraula]]
+[[cs:Slovo (lingvistika)]]
+[[cy:Gair]]
+[[da:Ord]]
+[[de:Wort]]
+[[et:Sõna]]
+[[es:Palabra]]
+[[eo:Vorto]]
+[[eu:Hitz]]
+[[fa:واژه]]
+[[fo:Orð]]
+[[fr:Mot]]
+[[gl:Palabra]]
+[[ko:낱말]]
+[[hr:Riječ]]
+[[io:Vorto]]
+[[id:Kata]]
+[[ia:Vocabulo]]
+[[is:Orð]]
+[[it:Parola]]
+[[he:מילה (בלשנות)]]
+[[ka:სიტყვა]]
+[[la:Verbum (grammatica generalis)]]
+[[lt:Žodis]]
+[[hu:Szó (nyelvészet)]]
+[[mk:Збор]]
+[[ml:വാക്ക്]]
+[[nl:Woord]]
+[[ja:語]]
+[[no:Ord]]
+[[nn:Ord]]
+[[oc:Mot]]
+[[pl:Wyraz]]
+[[pt:Palavra]]
+[[ro:Cuvânt]]
+[[qu:Rima]]
+[[ru:Слово (лингвистика)]]
+[[sq:Fjala]]
+[[scn:Palora (unitati)]]
+[[simple:Word]]
+[[sk:Slovo (lingvistika)]]
+[[sl:Beseda]]
+[[sr:Реч]]
+[[fi:Sana]]
+[[sv:Ord]]
+[[ta:சொல்]]
+[[tl:Salita]]
+[[th:คำ]]
+[[tr:Sözcük]]
+[[uk:Слово]]
+[[yi:ווארט]]
+[[bat-smg:Žuodis]]
+[[zh:词语]]

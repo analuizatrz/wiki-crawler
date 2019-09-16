@@ -1,0 +1,218 @@
+{{otheruses}}
+{{Elementbox_header | number=86 | symbol=Rn | name=radon | left=[[astatine]] | right=[[francium]] | above=[[xenon|Xe]] | below= [[Ununoctium|Uuo]] | color1=#c0ffff | color2=green }}
+{{Elementbox_series | [[noble gas]]es }}
+{{Elementbox_groupperiodblock | group=18 | period=6 | block=p }}
+{{Elementbox_appearance | colorless }}
+{{Elementbox_atomicmass_gpm | (222) }}
+{{Elementbox_econfig | &#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>6</sup> }}
+{{Elementbox_epershell | 2, 8, 18, 32, 18, 8 }}
+{{Elementbox_section_physicalprop | color1=#c0ffff | color2=green }}
+{{Elementbox_phase | [[gas]] }}
+{{Elementbox_density_gplstp | 9.73 }}
+{{Elementbox_meltingpoint | k=202 | c=−71.15 | f=−96 }}
+{{Elementbox_boilingpoint | k=211.3 | c=−61.85 | f=−79.1 }}
+{{Elementbox_criticalpoint | k=377 | mpa=6.28 }}
+{{Elementbox_heatfusion_kjpmol | 3.247 }}
+{{Elementbox_heatvaporiz_kjpmol | 18.10 }}
+{{Elementbox_heatcapacity_jpmolkat25 | 20.786 }}
+{{Elementbox_vaporpressure_katpa | 110 | 121 | 134 | 152 | 176 | 211 | comment= }}
+{{Elementbox_section_atomicprop | color1=#c0ffff | color2=green }}
+{{Elementbox_crystalstruct | cubic face centered }}
+{{Elementbox_oxistates | 0 }}
+{{Elementbox_electroneg_pauling | no data }}
+{{Elementbox_ionizationenergies1 | 1037 }}
+{{Elementbox_atomicradiuscalc_pm | 120 }}
+{{Elementbox_covalentradius_pm | 145 }}
+{{Elementbox_section_miscellaneous | color1=#c0ffff | color2=green }}
+{{Elementbox_magnetic | non-magnetic }}
+{{Elementbox_thermalcond_wpmkat300k | 3.61 m}}
+{{Elementbox_cas_number | 10043-92-2 }}
+{{Elementbox_isotopes_begin | color1=#c0ffff | color2=green }}
+
+<!-- comment out. Rn-220? {{Elementbox_isotopes_decay | mn=222 | sym=Rn
+ | na=[[synthetic radioisotope|syn]] | hl=55.6 [[second|s]]
+ | dm=Alpha | de=6.404 | pn=216 | ps=[[polonium|Po]] }} -->
+{{Elementbox_isotopes_decay2 | mn=211 | sym=Rn
+ | na=[[synthetic radioisotope|syn]] | hl=14.6 [[hour|h]]
+ | dm1=[[electron capture|Epsilon]] | de1=2.892 | pn1=211 | ps1=[[astatine|At]]
+ | dm2=[[alpha emission|Alpha]] | de2=5.965 | pn2=207 | ps2=[[polonium|Po]] }}
+{{Elementbox_isotopes_decay | mn=222 | sym=Rn
+ | na=100% | hl=3.824 [[day|d]]
+ | dm=Alpha | de=5.590 | pn=218 | ps=[[polonium|Po]] }}
+{{Elementbox_isotopes_end}}
+{{Elementbox_footer | color1=#c0ffff | color2=green }}
+
+'''Radon''' ({{pronEng|ˈreɪdɒn}}) is a [[chemical element]]  that has the symbol '''Rn''' and [[atomic number]] 86. Radon is a [[radioactive]] [[noble gas]] that is formed by the decay of [[radium]]. It is one of the heaviest gases and is considered to be a health hazard. The most stable [[isotope]] is <sup>222</sup>Rn which has a [[half-life]] of 3.8 days and is used in [[radiotherapy]]. Radon is a significant contaminant that affects [[indoor air quality]] worldwide. Radon gas from natural sources can accumulate in buildings and reportedly causes 21,000 lung cancer deaths per year in the [[United States]] alone.<ref>http://www.epa.gov/radon/pubs/citguide.html</ref>
+
+== Notable characteristics == 
+Essentially chemically inert but radioactive, radon is the heaviest [[noble gas]] and one of the heaviest gases at room temperature. At [[standard temperature and pressure]] radon is a colorless gas, but when it is cooled below its [[freezing point]] (202 K ; −71 °C ; −96 °F) it has a brilliant phosphorescence which turns [[yellow]] as the temperature is lowered, and becomes [[Orange (colour)|orange]]-[[red]] at the temperatures air liquefies (below 93 K ; −180 °C).
+
+Natural radon concentrations in [[Earth's atmosphere]] are so low that radon-rich water in contact with the atmosphere will continually lose radon by [[volatilization]]. Hence, [[ground water]] has a higher concentration of <sup>222</sup>Rn than [[surface water]], because the radon is continuously produced by radioactive decay of <sup>226</sup>[[Radium|Ra]] present in rocks. Likewise, the saturated zone of a soil frequently has a higher radon content than the unsaturated zone because of diffusional losses to the atmosphere.  Radon is a health hazard exposure can cause [[lung cancer]].
+
+== History ==
+Radon (named after radium) was discovered in 1900 by [[Friedrich Ernst Dorn]], who called it radium emanation. In 1908 [[William Ramsay]] and [[Robert Whytlaw-Gray]], named it niton ([[Latin]] ''nitens'' meaning "shining"; symbol '''Nt''') and isolated it, determined its density, and determined that it was the heaviest known [[gas]]. It has been called "radon" since 1923.
+
+The first major studies of the health concern occurred in the context of uranium mining, first in the [[Joachimsthal]] region of [[Bohemia]] and then in the [[Southwestern United States]] during the early [[Cold War]]. Because radon is a product of uranium, uranium mines may have high concentrations of radon and its highly radioactive [[radioactive decay|daughter product]]s. Many uranium miners in the [[Four Corners]] region contracted [[lung cancer]] and other pathologies as a result of high levels of exposure to radon in the mid-1950s.  The increased incidence of lung cancer was particularly pronounced among [[Native Americans in the United States|Native American]] and [[Mormon]] miners, because those groups normally have low rates of lung cancer. Safety standards requiring expensive ventilation were not widely implemented or policed during that period.
+
+The danger of radon exposure in dwellings was discovered in 1984 with the case of Stanley Watras, an employee at the [[Limerick nuclear power plant]] in [[Pennsylvania]]. Watras set off the [[Geiger counter|radiation alarms]] on his way ''into'' work for two weeks straight while authorities searched for the source of the contamination. They were shocked to find that the source was astonishingly high levels of radon, around 100,000 [[Becquerel|Bq]]/m³ (2,700 [[Curie|pCi]]/L), in his house's [[basement]] and it was not related to the nuclear plant. The risks associated with living in his house were estimated to be equivalent to [[Tobacco smoking|smoking]] 135 packs of [[cigarette]]s every day. Following this event, which was highly publicized, national radon safety standards were set, and radon detection and ventilation became a standard homeowner concern. 
+
+Radon is the second most frequent cause of lung cancer, after cigarette smoking, and radon-induced lung cancer is thought to be the 6th leading cause of cancer death overall.<ref>{{cite journal 
+ | title = Radon: A likely carcinogen at all exposures
+ | author = S. Darby, D. Hill, R. Doll
+ | journal = Annals of Oncology
+ | volume = 12
+ | issue = 10
+ | pages = 27
+ | year = 2001
+ | url = 
+ | doi =  10.1023/A:1012518223463
+}}</ref><ref>http://www.cheec.uiowa.edu/misc/Webtop10.ppt</ref>
+
+== Occurrence ==
+On average, there is one atom of radon in 1 x 10<sup>21</sup> molecules of air.{{Fact|date=October 2007}} Radon can be found in some [[spring (hydrosphere)|spring water]]s and [[hot spring]]s.<ref>[http://www.cheec.uiowa.edu/misc/radon_occ.pdf Radon Occurrence and Health Risk], R. William Field, Department of Occupational and Environmental Health, University of Iowa.</ref>  The towns of [[Boulder, Montana]], and [[Misasa, Tottori|Misasa]]; [[Bad Kreuznach]], [[Germany]], as well as the country of [[Japan]] boast radium-rich springs which emit radon.
+
+Radon emanates naturally from the ground all over the world, particularly in regions with soils containing [[granite]] or [[shale]]. However, not all granitic regions are prone to high emissions of radon. Depending on how houses are built and ventilated, radon may accumulate in basements and dwellings. The highest average radon concentrations in counties in the U.S. are found in [[Iowa]] and in the [[Appalachian Mountains|Appalachian Mountain]] areas in southeastern Pennsylvania. <ref>http://eetd.lbl.gov/IEP/high-radon/USgm.htm</ref> Some of the highest readings ever have been recorded in the Irish town of [[Mallow, County Cork]] prompting local fears regarding lung cancer.
+
+Radon, along with other noble gases [[krypton]] and [[xenon]], is also produced during the operation of [[nuclear power plants]].  A small fraction of it leaks out of the fuel, through the cladding and into the cooling water, from which it is scavenged.  It is then routed to a holding tank where it remains for a large number of half-lives.  It is finally purged to the open air through a tall stack which is carefully monitored for radiation level.
+
+The [[European Union]] recommends that action should be taken starting from concentrations of 400 Bq/m³ (11 pCi/L) for old houses and 200 Bq/m³ (5 pCi/L) for new ones. After publication of the North American and European Pooling Studies, [[Health Canada]] has proposed a new guideline that lowers their action level from 800 to 200 Bq/m³ (22 to 5 pCi/L).<ref>[http://www.hc-sc.gc.ca/iyh-vsv/environ/radon_e.html It's Your Health - Radon], [[Health Canada]]</ref>  The [[United States Environmental Protection Agency]] (EPA) strongly recommends action for any house with a concentration higher than 148 Bq/m³ (4 [[Curie|pCi]]/L)<ref name="EPA radon">{{cite web | last = | first = | authorlink =  | coauthors = | title =Radiation information: radon  | work = | publisher =[[United States Environmental Protection Agency]] | date =Oct 2006 | url =http://www.epa.gov/radiation/radionuclides/radon.htm | format = | doi = | accessdate =2007-05-25 }}</ref>, and encourages action starting at 74 Bq/m³ (2 [[Curie|pCi]]/L).  EPA radon risk level tables including comparisons to other risks encountered in life are available in their citizen's guide.<ref>[http://www.epa.gov/radon/pubs/citguide.html A Citizen's Guide to Radon: The Guide to Protecting Yourself and Your Family from Radon], [[United States Environmental Protection Agency]].</ref> Nearly one in 15 homes in the U.S. has a high level of indoor radon according to their statistics. The U.S. Surgeon General and EPA recommend all homes be tested for radon.
+
+Radon emitted from the ground has been shown to accumulate in the air if there is a meteorological inversion and little wind.<ref>Daniel J. Steck, R. William Field, and Charles F. Lynch, "Exposure to Atmospheric Radon", ''Environmental Health Perspectives'', Volume 107, Number 2, February 1999. [http://www.ehponline.org/members/1999/107p123-127steck/steck-full.html Online version]</ref>
+
+In 1971, [[Apollo 15]] passed 110 kilometers above the [[Aristarchus (crater)|Aristarchus plateau]] on the [[Moon]], and detected a significant rise in alpha particles thought to be caused by the decay of radon-222. The [[Lunar Prospector]] later confirmed the emissions.
+
+== Compounds ==
+{{seealso|Category:Radon compounds}}
+As a [[noble gas]], radon is highly unreactive. However, some experiments indicate that [[fluorine]] can react with radon and form [[radon fluoride]].<ref>Stein, L. (1970). ''Science'' '''168''': 362.</ref>.<ref>Pitzer, K. S. ''et al.'' (1975). ''J. Chem. Soc.'', ''Chem. Commun.'' 1760.</ref>  Radon [[oxide]]s have also been reported.
+
+== Isotopes ==
+{{main|Isotopes of radon}}
+There are twenty known [[isotope]]s of radon. The most stable isotope is <sup>222</sup>Rn, which is a [[decay product]] ([[daughter product]]) of <sup>226</sup>Ra, has a half-life of 3.823 days and emits [[alpha particle]]s. <sup>220</sup>Rn is a natural decay product of [[thorium]] and is called “thoron.” It has a half-life of 55.6 seconds and also emits alpha radiation. <sup>219</sup>Rn is derived from [[actinium]], is called “actinon,” is an alpha emitter and has a half-life of 3.96 seconds.
+
+The full [[decay chain|decay series]] of [[uranium-238|<sup>238</sup>U]] which produces natural radon is as follows (with half-lives):<br><br> <sup>238</sup>U (4.5 x 10<sup>9</sup> yr), [[thorium|<sup>234</sup>Th]] (24.1 days), [[protactinium|<sup>234</sup>Pa]] (1.18 min), [[uranium-234|<sup>234</sup>U]] (250,000 yr), [[isotopes of thorium|<sup>230</sup>Th]] (75,000 yr), [[Radium|<sup>226</sup>Ra]] (1,600 yr), '''<sup>222</sup>Rn''' (3.82 days), [[isotopes of polonium|<sup>218</sup>Po]] (3.1 min), [[isotopes of lead|<sup>214</sup>Pb]] (26.8 min), [[isotopes of bismuth|<sup>214</sup>Bi]] (19.7 min), <sup>214</sup>Po (164 µs), <sup>210</sup>Pb (22.3 yr), <sup>210</sup>Bi (5.01 days), <sup>210</sup>Po (138 days), <sup>206</sup>Pb (stable).
+
+== Applications ==
+===Radon therapy===
+In the United States and Europe there are a few "radon [[destination spa|spas]]," where people sit for minutes or hours in a high-radon atmosphere in the belief that low doses of radiation will invigorate or energize them. In addition personal testimonies of arthritis relief and other benefits, there is some (very limited) scientific evidence for this belief, known as [[radiation hormesis|hormesis]]. However, the general scientific community finds it unsubstantiated. There is no known biological mechanism by which such an effect could occur. In addition, it conflicts with the internationally recognized standard that there is [[Linear no-threshold model|no safe threshold]] for radiation exposure and that exposure should be limited to that [[ALARA|"as low as reasonably achievable" (ALARA)]].
+
+Radioactive water baths have been applied since 1906 in [[Jáchymov]], [[Czech Republic]], but even before radon discovery they were used in [[Bad Gastein]], [[Austria]]. Hot radium-rich spring releasing radon is also used in traditional [[Japan]]ese [[onsen]] in [[Misasa, Tottori|Misasa]], [[Tottori]] prefecture. Drinking therapy is applied in [[Bad Brambach]], [[Germany]]. Inhalation therapy is carried out in [[Gasteiner-Heilstollen]], [[Austria]], in [[Kowary]], [[Poland]] and in [[Boulder, Montana]], [[United States]].
+
+===Hydrologic studies===
+Because of radon's rapid loss to air and comparatively rapid decay, radon is used in [[hydrology|hydrologic]] research that studies the interaction between ground water and [[stream]]s. Any significant concentration of radon in a stream is a good indicator that there are local inputs of ground water.
+
+===Geologic studies===
+Some researchers have looked at elevated soil-gas radon concentrations, or rapid changes in soil or groundwater radon concentrations, as a predictor for [[earthquake]]s. Results have been generally unconvincing but may ultimately prove to have some limited use in specific locations.
+
+Radon soil-concentration has been used in an experimental way to map buried close-subsurface geological faults, because concentrations are generally higher over the faults. Similarly it has found some limited use in geothermal prospecting.
+
+===Atmospheric studies===
+Radon emanation from the soil varies with soil type and with surface uranium content, so outdoor radon concentrations can be used to track air masses to a limited degree. This fact has been put to use by some atmospheric scientists.
+
+Radon is a known pollutant emitted from geothermal power stations, though it disperses rapidly, and no radiological hazard has been demonstrated in various investigations. The trend in geothermal plants is to reinject all emissions by pumping deep underground, and this seems likely to ultimately decrease such radon hazards further. Radon is also used in the dating of oil-containing soils because radon has a high affinity of oil-like substances.
+
+== Health effects and epidemiology ==
+
+The general effects of radon to the human body are caused by its radioactivity and consequent risk of radiation-induced cancer. As an inert gas, radon has a low solubility in body fluids which lead to a uniform distribution of the gas throughout the body.<ref>Lindgren, 1989</ref> Radon gas and its solid decay products are [[carcinogen]]s.  The greatest health risks come from exposure to the inhaled solid radon gas decay products that are produced during the radioactive decay of radon gas.  Two of these decay products, [[polonium]]-218 and 214, present a significant radiologic hazard.<ref name = williams>{{cite web | url = http://www.cheec.uiowa.edu/misc/radon_occ.pdf | format = PDF | last = Field | first = R. William | date = 1999 | accessdate = 2007-08-17 |title = Radon Occurrence and Health Risk}}</ref> Once the radioactive decay products are inhaled into the lung, they undergo further radioactive decay, releasing small bursts of energy in the form of [[alpha particles]] that can either cause [[DNA]] breaks or create [[free radical]]s.<ref name = williams/>
+
+Based on studies carried out by the [[National Academy of Sciences]] in the United States, radon is the second most common cause of lung cancer after cigarette smoking, accounting for 15,000 to 22,000 cancer deaths per year in the U.S.<ref>{{cite web | url = http://www.cancer.gov/cancertopics/factsheet/Risk/radon | title = Radon and Cancer: Questions and Answers | author = [[National Cancer Institute]] | date = 2004-07-13 | accessdate = 2007-08-17}}</ref>  The [[Surgeon General of the United States]] has reported that over 20,000 Americans die each year of radon-related lung cancer.<ref>{{cite web | url = http://www.surgeongeneral.gov/pressreleases/sg01132005.html | title = Surgeon General Releases National Health Advisory On Radon | date = 2005-01-13 | accessdate = 2007-08-17 }}</ref>  The [[United States Environmental Protection Agency]] (EPA) recommends homes be fixed if an occupant's long-term exposure will average 4 [[Curie|picocuries]] per liter (pCi/L) (148 Bq m<sup>−3</sup>) or higher.<ref>{{cite web | url = http://www.epa.gov/radon/ | title = United States Environmental Protection Agency: Radon | accessdate = 2007-08-17 | date = 2007-08-08 |author = [[United States Environmental Protection Agency|EPA]]}}</ref>
+
+The most elaborate case-control epidemiologic radon study performed by [[R. William Field]] and colleagues demonstrated a 50% increased lung cancer risk with prolonged radon exposure at the EPA's action level of 4 pCi/L.<ref>{{cite journal | url = http://aje.oxfordjournals.org/cgi/reprint/151/11/1091 | format = PDF | last = Field | first = R. W. | authorlink = R. William Field | coauthors = et al. | year = 2000 | volume = 151 | issue = 11 | title = Residential radon gas exposure and lung cancer:  The Iowa radon lung cancer study | journal = American Journal of Epidemiology | pages = 1091-1102 | pmid = 10873134 }}</ref> Iowa has the highest average radon concentrations in the nation and a very stable population which added to the strength of the study. Pooled epidemiologic radon studies<ref>{{cite web | url = http://www.public-health.uiowa.edu/newsletter/rd.asp?rlsId=254 | title = Journal on Landmark Radon Exposure Studies Co-edited By UI Researcher | accessdate = 2007-08-17 | date = 2006-05-05 | author = University of Iowa News Release }}</ref><ref>{{cite journal | url = http://www.radonnews.org/RadonRiskStudies/NorthAmericanPooling.pdf | format = PDF | last = Krewski | first = D. | coauthors = et al. | journal = Epidemiology | volume = 16 | issue = 2 | pages = 137-45 | doi = 10.1097/01.ede.0000152522.80261.e3 | title = Residential radon and risk of lung cancer:  A combined analysis of 7 North American case-control studies}}</ref> have also shown an increased lung cancer risk from radon below the EPA's action level of 4 pCi/L.  
+
+It is unknown whether radon causes other types of cancer, but recent studies suggest a need for further studies to assess the relationship between radon and [[leukemia]].<ref>{{cite journal | last = Smith | first = B. J. | coauthors = Zhang, L. & Field, W.R. | pmid = 17373673| title = Iowa radon leukaemia study: a hierarchical population risk model for spatially correlated exposure measured with error. | year = 2007 | journal =  Statistical Medicine | volume = E-published}}</ref><ref> {{cite journal | pmid = 16759978 | title = Incidence of leukemia, lymphoma, and multiple myeloma in Czech uranium miners: a case-cohort study | last = Rericha | first = V | coauthors = Kulich M, Rericha R, Shore DL, Sandler DP | year = 2007 | volume = 115 | issue = 4 | pages = A184-5 | journal = Environmental Health Perspectives }} </ref>
+
+== Testing and mitigation ==
+[[ASTM International|ASTM]] E-2121 is a standard for reducing radon in homes as far as practicable below 4 picocuries per liter (pCi/L) in indoor air.<ref>http://www.epa.gov/iaq/radon/pubs/mitstds.html</ref><ref>http://www.astm.org/cgi-bin/SoftCart.exe/DATABASE.CART/REDLINE_PAGES/E2121.htm?L+mystore+xyan5063</ref>
+
+Radon test kits are commercially available. The kit includes a collector that the user hangs in the lowest livable floor of the house for 2 to 7 days. The user then sends the collector to a laboratory for analysis. The National Environmental Health Association provides a list of radon measurement professionals.<ref>http://www.radongas.org/Description_of_Radon_Measurement_Service.html</ref> Long term kits, taking collections for up to one year, are also available.  An open land test kit can test radon emissions from the land before construction begins.  The EPA and the National Environmental Health Association have identified 15 types of radon testing.<ref>http://www.radongas.org/device.htm</ref> A [[Lucas cell]] is one type of device.
+
+Radon levels fluctuate naturally. An initial test might not be an accurate assessment of your home's average radon level.  Transient weather can affect short term measurements.<ref>http://www.radon.com/radon/mitigation.html</ref> Therefore, a high result (over 4 pc/l) justifies repeating the test before undertaking more expensive abatement projects.  Measurements between 4 and 10 pc/l warrant a long term radon test. Measurements over 10 pc/l warrant only another short term test so that abatement measures are not unduly delayed.  Purchasers of real estate are advised to delay or decline a purchase if the seller has not successfully abated radon to 4 pc/l or less.
+
+The National Environmental Health Association administers a voluntary National Radon Proficiency Program for radon professionals consisting of individuals and companies wanting to take training courses and examinations to demonstrate their competency.<ref>http://www.radongas.org/</ref> A list of mitigation service providers is available.<ref>http://www.radongas.org/Description_of_Radon_Mitigation_Services.html</ref>
+[[Radon mitigation|Indoor radon can be mitigated]] by sealing basement foundations, water drainage, or by sub-slab de-pressurization. In severe cases, mitigation can use air pipes and fans to exhaust sub-slab air to the outside. Indoor ventilation systems are more effective, but exterior ventilation can be cost-effective in some cases. Modern construction that conserves energy by making homes air tight exacerbates the risks of radon exposure if radon is present in the home.  Older homes with more porous construction are more likely to vent radon naturally.  Ventilation systems can be combined with a heat exchanger to recover energy in the process of exchanging air with the outside.  Homes built on a crawl space can benefit from a radon collector installed under a radon barrier (a sheet of plastic that covers the crawl space).
+
+== Notes ==
+{{Reflist}}
+
+== External links ==
+{{Commons|Radon}}
+{{wiktionary|radon}}
+*[http://www.atsdr.cdc.gov/csem/radon/ ATSDR - Case Studies in Environmental Medicine: Radon Toxicity] U.S. Department of Health and Human Services (public domain)
+*[http://aje.oxfordjournals.org/cgi/reprint/151/11/1091.pdf Iowa Radon Lung Cancer Study]
+*[http://periodic.lanl.gov/elements/86.html Los Alamos National Laboratory - Radon]
+*[http://wwwrcamnl.wr.usgs.gov/isoig/period/rn_iig.html USGS Periodic Table - Radon]
+*[http://www.epa.gov/iaq/radon/iowastudy.html EPA Iowa Radon Study]
+*[http://www.who.int/ionizing_radiation/env/radon/en/index.html World Health Organization International Radon Project] 
+* [http://www.cheec.uiowa.edu/misc/radon_occ.pdf Radon Occurrence and Health Risks]
+*[http://www.webelements.com/webelements/elements/text/Rn/index.html WebElements.com - Radon]
+*[http://www.epa.gov/radon/ U.S. Environmental Protection Agency] &mdash; Indoor Air Radon
+*[http://www.nsc.org/library/facts/radon.htm (U.S.) National Safety Council information]
+*[http://www.hpa.org.uk/radiation/radon/index.htm U.K. Health Protection Agency information]
+*[http://www.treehugger.com/files/2007/02/ask_treehugger_radon.php Ask TreeHugger: What Do Radon Tests Mean?]
+*[http://www.buildingdefects.com/radon-removal.html Radon Removal]
+
+[[Category:Chemical elements]]
+[[Category:Building biology]]
+[[Category:Health risks|Radon]]
+[[Category:Noble gases]]
+[[Category:Soil contamination]]
+[[Category:Radon]]
+
+[[af:Radon]]
+[[ar:رادون]]
+[[bn:রেডন]]
+[[be:Радон]]
+[[bg:Радон]]
+[[ca:Radó]]
+[[cs:Radon]]
+[[co:Radone]]
+[[da:Radon]]
+[[de:Radon]]
+[[et:Radoon]]
+[[el:Ραδόνιο]]
+[[es:Radón]]
+[[eo:Radono]]
+[[eu:Radon]]
+[[fa:رادون]]
+[[fr:Radon]]
+[[fur:Radon]]
+[[gl:Radon (elemento)]]
+[[ko:라돈]]
+[[hy:Ռադոն]]
+[[hi:रेडन]]
+[[hr:Radon]]
+[[io:Radono]]
+[[id:Radon]]
+[[is:Radon]]
+[[it:Radon]]
+[[he:רדון]]
+[[sw:Radoni]]
+[[ht:Radon]]
+[[la:Radon]]
+[[lv:Radons]]
+[[lb:Radon]]
+[[lt:Radonas]]
+[[jbo:dircynavni]]
+[[hu:Radon]]
+[[ms:Radon]]
+[[nl:Radon (element)]]
+[[ja:ラドン]]
+[[no:Radon]]
+[[nn:Radon]]
+[[oc:Radon]]
+[[nds:Radon]]
+[[pl:Radon]]
+[[pt:Rádon]]
+[[ro:Radon]]
+[[ru:Радон]]
+[[simple:Radon]]
+[[sk:Radón]]
+[[sl:Radon]]
+[[sr:Радон]]
+[[sh:Radon]]
+[[fi:Radon]]
+[[sv:Radon]]
+[[th:เรดอน]]
+[[vi:Radon]]
+[[tr:Radon]]
+[[uk:Радон]]
+[[zh:氡]]

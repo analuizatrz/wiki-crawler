@@ -1,0 +1,121 @@
+{| align="right" cellpadding="4" style="border: 1px solid #aaaaaa; margin: 0 0 10px 10px; padding: 10px; font-size: 36pt; line-height: 36pt; text-align: center;"
+|-
+| {{unicode|Ȧ}}
+| {{unicode|ȧ}}
+|-
+| {{unicode|Ḃ}}
+| {{unicode|ḃ}}
+|-
+| Ċ
+| ċ
+|-
+| {{unicode|Ḋ}}
+| {{unicode|ḋ}}
+|-
+| Ė
+| ė
+|-
+| {{unicode|Ḟ}}
+| {{unicode|ḟ}}
+|-
+| Ġ
+| ġ
+|-
+| {{unicode|Ḣ}}
+| {{unicode|ḣ}}
+|-
+| İ
+| ı
+|-
+| {{unicode|Ṁ}}
+| {{unicode|ṁ}}
+|- 
+| {{unicode|Ṅ}}
+| {{unicode|ṅ}}
+|-
+| {{unicode|Ȯ}}
+| {{unicode|ȯ}}
+|-
+| {{unicode|Ṗ}}
+| {{unicode|ṗ}}
+|-
+| {{unicode|Ṙ}}
+| {{unicode|ṙ}}
+|-
+| {{unicode|Ṡ}}
+| {{unicode|ṡ}}
+|-
+| {{unicode|Ṫ}}
+| {{unicode|ṫ}}
+|-
+| {{unicode|Ẇ}}
+| {{unicode|ẇ}}
+|-
+| {{unicode|Ẋ}}
+| {{unicode|ẋ}}
+|-
+| {{unicode|Ẏ}}
+| {{unicode|ẏ}}
+|-
+| Ż
+| ż
+|}
+
+{{Diacritical marks}}
+When used as a [[diacritic]] mark, the term '''dot''' is usually reserved for the ''[[Interpunct]]'' ( · ), or to the [[glyph]]s 'combining dot above' ( {{unicode|&nbsp;̇}} ) and 'combining dot below' ( {{unicode|&nbsp;̣}} ) which may be combined with some [[letter]]s of the extended [[Latin alphabet]]s in use in Central European languages and [[Vietnamese language|Vietnamese]].
+
+==Overdot==
+Language scripts or transcription schemes that use the dot as a diacritic mark:
+
+* In [[Arabic romanization]], ''{{Semxlit|[[ġ]]}}'' stands for the letter ''[[ghayin]]''.
+* [[Irish orthography#The alphabet|Traditional Irish typography]], where the dot denotes [[lenition]], and is called a ''ponc séimhithe'' "dot of lenition": ''{{Unicode|ḃ ċ ḋ ḟ ġ ṁ ṗ ṡ ṫ}}''. Alternatively, lenition may be represented by a following letter ''h'', thus: ''bh ch dh fh gh mh ph st th''. In [[Old Irish language|Old Irish]] orthography, the dot was used only for ''{{Unicode|ḟ ṡ}}'', while the following ''h'' was used for ''ch ph th''; lenition of other letters was not indicated. Later the two systems spread to the entire set of lenitable consonants and competed with each other. Eventually the standard practice was to use the dot when writing in [[Gaelic script]] and the following ''h'' when writing in [[antiqua]]. Thus ''ċ'' and ''ch'' represent the same phonetic element in Modern Irish.
+* [[Lithuanian language|Lithuanian]]: ''[[ė]]''
+* [[Maltese language|Maltese]]: ''[[ċ]] ġ ż''
+* [[Polish language|Polish]]: ''ż''
+* The dot above lowercase ''[[i]]'' and ''[[j]]'' (and uppercase ''[[I-dot|İ]]'' in [[Turkish language|Turkish]]) is not regarded as an independent diacritic, but rather as an integral part of the letter.
+
+In [[mathematics]] and [[physics]] the dot denotes the [[time derivative]] as in <math>v=\dot{x}</math>.
+
+==Underdot==
+* In [[IAST]] and [[National Library at Calcutta romanization]], transcribing [[Indic languages]], a dot below a letter indicates [[retroflex consonant]]s, while an underdot {{Semxlit|}} signifies an [[emphatic consonant]].
+** {{Unicode|[[Ḍ]]}}, also used in the [[O'odham language]].
+** {{Unicode|[[Ḷ]]}}, also used in unofficial transcriptions of [[Asturian language|Asturian]].
+
+* In [[romanization]]s of [[Semitic languages]], a dot below a consonant is used to indicate [[emphatic consonant]]s. For example, ''{{unicode|ṣ}}'' represents an emphatic ''s''.
+** {{Unicode|[[Ḍ]]}}
+** {{Unicode|[[Ṛ]]}}
+** {{Unicode|[[Ṣ]]}}
+** {{Unicode|[[Ṭ]]}}
+** {{Unicode|[[Ẓ]]}}
+
+* [[Vietnamese language|Vietnamese]]. The ''nặng'' [[tone (linguistics)|tone]] (low, glottal) is represented with a dot below the base vowel: ''ạ ặ ậ ẹ ệ ị ọ ộ ợ ụ ự ỵ''.
+* In [[Yoruba language|Yoruba]], the dot is used below the ''o'', the ''e'' and the ''s'': those three letters can also occur without dot as another letter.
+
+==Technical notes==
+The '''Overdot diacritic''' ([[Unicode]] [[combining diacritic]] "combining dot above" U+0307 &nbsp;̇).
+
+Precomposed characters:
+[[Ȧ]], [[Ḋ]], [[Ė]], [[Ḟ]], [[Ġ]], [[İ]], [[Ṁ]], [[Ṅ]], [[Ṫ]].
+
+==See also==
+* [[Ȧ]]
+* [[Anunaasika]]
+* [[Anusvara]]
+* [[Tittle]]
+* [[Turkish dotted and dotless I]]
+
+{{Latin alphabet}}
+
+==External links ==
+* [http://diacritics.typo.cz Diacritics Project — All you need to design a font with correct accents]
+
+[[Category:Diacritics]]
+
+[[br:Pik (sin diakritek)]]
+[[bg:Точка (диакритичен знак)]]
+[[de:Punkt (Akzent)]]
+[[fr:Point suscrit]]
+[[nl:Punt (diakritisch teken)]]
+[[ja:ドット符号]]
+[[ru:Точка (диакритический знак)]]
+[[zh:句點 (變音符號)]]

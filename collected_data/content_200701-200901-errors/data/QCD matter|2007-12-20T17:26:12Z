@@ -1,0 +1,247 @@
+'''Quark matter''' or '''QCD matter''' (see [[quantum chromodynamics|QCD]]) refers to any of a number of theorized
+[[phase (matter)|phases]] of matter whose degrees of freedom include
+[[quark]]s and [[gluon]]s. These theoretic phases would occur at extremely high
+temperatures and densities, billions of times higher than 
+can be produced in equilibrium in laboratories.
+Under such extreme conditions, the familiar
+structure of matter, with quarks arranged into [[nucleon]]s and
+nucleons bound into [[atomic nucleus |nuclei]] and surrounded by [[electrons]], is
+completely disrupted, and the quarks roam freely.
+This is analogous to the way that the crystal
+structure of ice is disrupted by heating or compression, and melts
+into a liquid of more elementary constituents (water molecules).
+
+In the [[standard model]] of particle physics, the strongest force is
+the [[strong interaction]], which is described by the theory of
+[[quantum chromodynamics]] (QCD). At ordinary temperatures or
+densities this force just [[color confinement|confines]] the quarks into
+composite particles ([[hadrons]]) of size 
+around 10<sup>−15</sup>m = 1 [[femtometer]] = 1 fm 
+(corresponding to the QCD energy scale 
+&Lambda;<sub>QCD</sub>&asymp;200 MeV) 
+and its effects are not noticeable at longer
+distances. However, when the temperature reaches the
+QCD energy scale (T of order 10<sup>12</sup>K) 
+or the density rises to the point where the
+average inter-quark separation is less than 1 fm (quark [[chemical potential]] &mu; around 400 MeV), the hadrons are melted into their
+constituent quarks, and the strong interaction becomes the dominant
+feature of the physics. Such phases are called quark matter or QCD
+matter.
+
+{{unsolved|physics|QCD in the non-[[Perturbation theory (quantum mechanics)|perturbative]] regime:
+'''quark matter'''. The equations of QCD predict that a [[quark-gluon plasma|sea of quarks and gluons]] should be formed at high temperature and density. What are the properties of this [[phase of matter]]?}}
+
+==Occurrence==
+===Natural occurrence===
+
+* The early universe. According to the theory of the [[big bang]], at very early times, when the universe was only a few tens of microseconds old, the temperature was so high that all matter took the form of a hot phase of quark matter called the [[quark-gluon plasma]] (QGP).
+* [[Compact star]]s ([[neutron star|neutron stars]]). A neutron star is much cooler than 10<sup>12</sup> K, but it is compressed by its own weight to such high densities that it is reasonable to surmise that quark matter may exist in the interior. Compact stars composed mostly or entirely of quark matter are known as [[quark star]]s or [[strange star]]s.  The nuclear matter component of strange stars, if there is one, is believed to consist only of a tiny surface crust.  
+* [[Strangelet]]s. These are hypothetical lumps of [[strange matter]] that might populate interstellar space. They only exist if nuclear matter is metastable against decay into quark matter: this is generally regarded as a fairly radical hypothesis.
+
+===Artificial occurrence===
+
+* Heavy-ion collisions. Physicists can produce small short-lived regions of space whose energy density is comparable to that of the 20-microsecond-old universe. This is achieved by colliding heavy nuclei at high speeds. Extremely powerful accelerators are needed, such as [[Relativistic Heavy Ion Collider|RHIC]] at [[Brookhaven National Laboratory]] in the USA, or the future [[Large Hadron Collider|LHC]] at [[CERN]] in Switzerland/France. There is good evidence that the quark-gluon plasma has been produced at RHIC <ref>B. M&uuml;ller "Quark Matter 2005 -- Theoretical Summary",  [http://www.arxiv.org/abs/nucl-th/0508062 arxiv.org:nucl-th/0508062] </ref>.
+
+==Thermodynamics==
+
+The context for understanding the thermodynamics of quark matter is
+the [[standard model]] of particle physics, which contains six different
+[[flavor (particle physics)|flavors]] of quarks, as well as
+[[lepton]]s like [[electron]]s and [[neutrino]]s.  These
+interact via the [[strong interaction]], [[electromagnetism]], and
+also the [[weak interaction]] which allows one flavor of quark to turn
+into another. Electromagnetic interactions occur between particles
+that carry electrical charge; strong interactions occur between
+particles that carry [[color charge]].
+
+The correct thermodynamic treatment of quark matter depends on the
+physical context. For large quantities that exist for long periods
+of time (the "thermodynamic limit"), we must take into account the fact that
+the only conserved charges in the standard model are quark
+number (equivalent to [[baryon]] number), electric charge, the eight color
+charges, and lepton number. Each of these can have an associated
+chemical potential.  However, large volumes of matter must be electrically and
+color-neutral, which determines the electric and color charge chemical
+potentials. This leaves a three-dimensional [[phase space]],
+parameterized by quark chemical
+potential, lepton chemical potential, and temperature.
+
+In compact stars quark matter would occupy cubic kilometers and
+exist for millions of years, so the thermodynamic limit is
+appropriate. However, the neutrinos 
+escape, violating lepton number, so the phase space for
+quark matter in compact stars only has two
+dimensions, temperature (T) and quark number chemical potential &mu;
+(see next section). A [[strangelet]] is not in the thermodynamic 
+limit of large volume, so it is like an exotic nucleus: it may carry
+electric charge.
+A heavy-ion collision is in neither the thermodynamic 
+limit of large volumes nor long times. Putting aside questions of whether
+it is sufficiently equilibrated for thermodynamics to be applicable,
+there is certainly not enough time for weak interactions to occur, so flavor
+is conserved, and there are independent chemical potentials for all six
+quark flavors. The initial conditions 
+(the [[impact parameter]] of the collision, the number of up and down quarks
+in the colliding nuclei, and the fact that they contain no quarks of
+other flavors) determine the chemical potentials.
+
+==Phase diagram==
+
+[[Image:QCD_phase_diagram.png|frame|right|Conjectured form of the phase
+diagram of QCD matter|Conjectured form of the phase
+diagram of QCD matter ]]
+The phase diagram of quark matter is not well known, either
+experimentally or theoretically. A commonly conjectured form of the
+phase diagram is shown in the figure. It is applicable
+to matter in a compact star, where the only relevant thermodynamic potentials
+are quark chemical potential &mu; and temperature T. For guidance
+it also shows the typical values of &mu; and T in heavy-ion collisions 
+and in the early universe. For readers who are not familiar with 
+the concept of a chemical potential, it is helpful to think of
+&mu; as a measure of the imbalance between quarks and antiquarks in
+the system. Higher &mu; means higher density of quarks.
+
+Ordinary atomic matter as we know it is really a mixed phase, droplets
+of nuclear matter (nuclei) surrounded by vacuum, which exists at the
+low-temperature phase boundary between vacuum and nuclear matter, at
+&mu;=310MeV and T close to zero. If we increase the quark density
+(i.e. increase &mu;) keeping the temperature low, we move into a phase
+of more and more compressed nuclear matter. Following this path
+corresponds to burrowing more and more deeply into a [[neutron star]].
+Eventually, at an unknown critical value of &mu;, there is a
+transition to quark matter. At ultra-high densities we expect to find
+the color-flavor-locked (CFL) phase of 
+[[color superconductivity|color-superconducting]] quark matter. At
+intermediate densities we expect some other phases 
+(labelled "non-CFL quark liquid" in the figure) whose nature is
+presently unknown. They might be other forms of color-superconducting
+quark matter, or something different.
+
+Now, imagine starting at the bottom left corner of the phase diagram,
+in the vacuum where &mu;=T=0. If we heat up the system without
+introducing any preference for quarks over antiquarks, 
+this corresponds to moving vertically upwards
+along the T axis. At first, quarks are still confined and we create a
+gas of hadrons ([[pion]]s, mostly). Then
+around T=170 MeV there is a crossover to the quark gluon plasma:
+thermal fluctuations break up the pions, and we find a 
+gas of quarks, antiquarks,
+and gluons, as well as lighter particles such as
+photons, electrons, positrons, etc. Following this path corresponds 
+to travelling far back in time, to the state of the universe shortly
+after the big bang (where there was a very tiny preference for
+quarks over antiquarks).
+
+The line that rises up from the nuclear/quark matter transition and
+then bends back towards the T axis, with its end marked by a star,
+is the conjectured boundary between
+confined and unconfined phases. Until recently it was also
+believed to be a boundary between phases where chiral symmetry is
+broken (low temperature and density) and phases where it is unbroken
+(high temperature and density). It is now known that the CFL phase
+exhibits chiral symmetry breaking, and other quark matter phases
+may also break chiral symmetry, 
+so it is not clear whether this is really a chiral transition
+line. The line ends at the 
+"chiral [[critical point (thermodynamics)|critical point]]", marked by
+a star in this figure, which is a special
+temperature and density at which striking physical phenomena
+(analogous to [[critical opalescence]]) are expected (see "open questions"
+below).
+
+==Theoretical challenges: calculation techniques==
+
+The phase structure of quark matter remains mostly conjectural because
+it is difficult to perform calculations predicting the properties of
+quark matter.
+The reason is that QCD, the theory describing the dominant 
+interaction between quarks, is strongly coupled at the densities and
+temperatures of greatest physical interest, and hence it is very
+hard to obtain any predictions from it. Here are brief descriptions
+of some of the standard approaches.
+
+===Lattice gauge theory===
+
+The only first-principles calculational tool currently available is [[lattice QCD]], i.e. brute-force computer calculations. Because of a technical obstacle known as the [[fermion sign problem]], this method can only be used at low density and high temperature (&mu;<T), and it predicts that the crossover to the quark-gluon plasma will occur around T=170 MeV <ref>U. Heller, "Recent progress in finite temperature lattice QCD", [http://www.arxiv.org/abs/hep-ph/0610299 PoS (LAT2006) 011]</ref> However, it cannot be used to investigate the interesting color-superconducting phase structure at high density and low temperature <ref>C. Schmidt, "Lattice QCD at Finite Density", [http://www.arxiv.org/abs/hep-lat/0610116 PoS (LAT2006) 021] </ref>.
+
+===Weak coupling theory===
+
+Because QCD is [[asymptotic freedom|asymptotically free]] it becomes
+weakly coupled at unrealistically high densities, and diagrammatic
+methods can be used <ref> D. Rischke, "The quark-gluon plasma in equilibrium",  [http://www.arxiv.org/abs/nucl-th/0305030 Prog. Part. Nucl. Phys. 52, 197 (2004)]</ref>. Such methods show that the CFL phase occurs at very high density. At high temperatures, however, diagrammatic methods are still not under full control.
+
+===Models===
+
+To obtain a rough idea of what phases might occur, one can use a
+model that has some of the same properties as QCD, but is easier
+to manipulate. Many physicists use [[Nambu-Jona-Lasinio model]]s,
+which contain no gluons, and replace the strong interaction with
+a four-fermion interaction. Mean-field methods are commonly used
+to analyse the phases. Another approach is the [[bag model]], 
+in which the effects of confinement are simulated by an additive energy density
+that penalizes unconfined quark matter.
+
+===Effective theories===
+
+Many physicists simply give up on a microscopic approach, and
+make informed guesses of the expected phases (perhaps based on NJL
+model results). For each phase, they then write down an effective
+theory for the low-energy excitations, in terms of a small number of
+parameters, and use it to make predictions that could allow those
+parameters to be fixed by experimental observations <ref>T. Sch&auml;fer, "Quark matter", [http://www.arXiv.org/abs/hep-ph/0304281 arxiv.org:hep-ph/0304281]</ref>.
+
+===Other approaches===
+
+There are other methods that are sometimes used to shed light on QCD, but for various reasons turn out not to be particularly useful
+in studying quark matter.
+
+* [[1/N expansion]]. Treat the number of colors N, which is actually 3, as a large number, and expand in powers of 1/N. It turns out that at high density the higher-order corrections are large, and the expansion gives misleading results.
+
+* [[Supersymmetry]]. Adding scalar quarks (squarks) and fermionic gluons (gluinos) to the theory makes it more tractable, but the thermodynamics of quark matter depends crucially on the fact that only fermions can carry quark number, and on the number of degrees of freedom in general.
+
+
+==Experimental challenges==
+
+Experimentally, it is hard to map the phase diagram of quark matter
+because it is impossible to achieve high enough temperatures
+and densities in the laboratory. Heavy-ion collisions provide
+information about the crossover from hadronic matter to QGP.
+Observations of compact stars may provide information about the
+high-density low-temperature region. Studies of the cooling,
+spin-down, and precession of these stars have already given
+information about the properties of their interior. As
+observations become more precise we hope to learn more.
+
+One of the natural subjects for future research is the exact location of the chiral critical point. Some ambitious lattice QCD calculations may have found evidence for it, and future calculations will clarify the situation. Heavy-ion collisions might be able to
+measure its position experimentally, but this will require
+scanning across a range of values of &mu; and T <ref>K. Rajagopal, "Mapping the QCD Phase Diagram", [http://www.arxiv.org/abs/hep-ph/9908360  Nucl.Phys. A661 (1999) 150-161 ]</ref>, a project that may be undertaken in future experiments.
+
+
+
+==See also==
+* [[Quantum chromodynamics]]
+* [[Quark-gluon plasma]]
+* [[Lattice QCD]]
+* [[1/N expansion]]
+* [[Strange matter]]
+* [[quark star]]
+
+== Further reading ==
+
+* S. Hands, "The phase diagram of QCD" [http://www.arXiv.org/abs/physics/0105022 Contemp. Phys. 42, 209 (2001)]
+  
+== References ==
+
+<references/>
+
+
+
+[[Category:Particle physics]]
+[[Category:Quark matter ]]
+[[Category:Quantum_chromodynamics]]
+[[Category:phases of matter]]
+[[Category:Plasma physics]]
+
+[[it:Materia di quark]]
+[[pt:Matéria QCD]]
+[[tr:QCD özdeği]]

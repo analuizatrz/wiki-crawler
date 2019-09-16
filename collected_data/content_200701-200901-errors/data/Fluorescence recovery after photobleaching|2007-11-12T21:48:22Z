@@ -1,0 +1,52 @@
+[[Image : FRAP_en.jpg|right|thumb|320px|Principle of FRAP]]
+'''Fluorescence recovery after photobleaching''' (FRAP) denotes an optical technique capable of quantifying the two dimensional lateral diffusion of a molecularly thin film containing fluorescently labeled probes. This technique provides great utility in biological studies of [[cell membrane]] diffusion and protein binding. In addition, surface deposition of a fluorescing [[phospholipid]] bilayer (or monolayer) allows the characterization of [[hydrophile|hydrophilic]] (or [[hydrophobe|hydrophobic]]) surfaces in terms of surface structure and free energy.  
+Similar, though less well known, techniques have been developed to investigate the 3-dimensional [[diffusion]] and [[binding]] of molecules inside the cell; they are also referred to as FRAP.  
+
+==Experimental Setup==
+
+The basic apparatus comprises an [[optical microscope]], a [[List of light sources|light source]] and some [[fluorescent]] probe. [[Fluorescence|Fluorescent emission]] is contingent upon adsorption of a specific optical wavelength or color which restricts the choice of lamps. Most commonly, a broad [[spectrum]] [[mercury (element)|mercury]] or [[xenon]] source is used in conjunction with a color filter. The technique begins by saving a background image of the sample before photobleaching. Next, the light source is focused onto a small patch of the viewable area either by switching to a higher magnification microscope objective or with [[laser]] light of the appropriate wavelength. The fluorophores in this region receive high intensity illumination which causes their fluorescence lifetime to quickly elapse (limited to roughly 10<sup>5</sup> photons before extinction). Now the image in the microscope is that of a uniformly fluorescent field with a noticeable dark spot. As Brownian motion proceeds, the still-fluorescing probes will diffuse throughout the sample and replace the non-fluorescent probes in the bleached region. This diffusion proceeds in an ordered fashion, analytically determinable from the [[diffusion equation]]. Assuming a [[Gaussian_beam|gaussian]] profile for the bleaching beam, the diffusion constant ''D'' can be simply calculated from:
+
+:D = w<sup>2</sup> / 4t<sub>1/2</sub>
+
+where ''w'' is the width of the beam and ''t<sub>1/2</sub>'' is the time required for the bleach spot to recover half of its initial intensity.
+
+==Applications==
+
+===Supported Lipid Bilayers===
+
+
+Originally, the FRAP technique was intended for use as a means to characterize the mobility of individual lipid molecules within a cell membrane. While providing great utility in this role, current research leans more toward investigation of artificial lipid membranes. Supported by hydrophilic or hydrophobic substrates (to produce lipid bilayers or monolayers respectively) and incorporating [[membrane proteins]], these biomimetic structures are potentially useful as analytical devices for determining the identity of unknown substances, understanding cellular transduction, and identifying ligand binding sites.
+
+===Protein Binding===
+This technique is commonly used in conjunction with [[green fluorescent protein]] (GFP) [[fusion protein]]s, where the studied protein is fused to a GFP.  When excited by a specific wavelength of light, the protein will fluoresce.  When the protein that is being studied is produced with the GFP, then the fluorescence can be tracked.  Photodestroying the GFP, and then watching the repopulation into the bleached area can reveal information about protein interaction partners, organelle continuity and protein trafficking.
+
+If after some time the fluorescence doesn't reach the initial level anymore, then some part of the fluorescence is caused by an immobile fraction (that cannot be replenished by diffusion).  Similarly, if the fluorescent proteins bind to static cell receptors, the rate of recovery will be retarded by a factor related to the association and disassociation coefficients of binding.  This observation has most recently been exploited to investigate protein binding.
+
+==Applications Outside the Membrane==
+FRAP can also be used to monitor proteins outside the membrane.  After the protein of interest is made fluorescent, generally by expression as a GFP fusion protein, a [[confocal microscope]] is used to photobleach and monitor a region of the [[cytoplasm]], [[mitotic spindle]], [[Cell nucleus|nucleus]], or another cellular structure.  The mean fluorescence in the region can then be plotted versus time since the photobleaching, and the resulting curve can yield kinetic coefficients for the protein's binding reactions and/or the protein's diffusion coefficient in the medium where it is being monitored.  The analysis is most simple when the curve is dominated by only the diffusional or only the binding components.  For a circular bleach spot and diffusion-dominated recovery, the fluorescence is described by the Soumpasis equation and involves [[modified Bessel function]]s:
+
+:f(t)=e<sup>-h</sup>(I<sub>0</sub>(h)+I<sub>1</sub>(h))
+
+where ''h''=r<sup>2</sup>/(2*D<sub>f</sub>*t); ''r''=radius of bleach spot; ''t''=time;''D<sub>f</sub>''=diffusion coefficient;''f(t)'' is the normalized fluorescence (goes to 1 as t goes to infinity)
+
+For a binding-dominated reaction, in which the diffusion is much faster than the unbinding of the bleached protein and subsequent binding of unbleached protein, it is given by 
+
+:f(t)=1-B<sub>eq</sub>e<sup>-k<sub>off</sub>t</sup>
+
+where ''B<sub>eq</sub>'' is the fraction of the protein that is bound to other structures in the photobleached region at equilibrium, and ''k<sub>off</sub>'' is the dissociation constant for the binding.  Sometimes there are multiple binding states in which case there are just more exponential terms of the same form.  Many FRAP recoveries are not dominated overwhelmingly by just diffusion or just binding, so their curves are more complex; FRAP recoveries are analyzed in much more detail in Sprague and Pego et al (see References below).
+
+==See also== 
+*[[Fluorescence microscope]]
+
+==References==
+*Sprague, B., R. Pego, et al.  Analysis of Binding Reactions by Fluorescence Recovery after Photobleaching.  Biophys. J. 2004 Jun;86(6):3473-3495.  
+*[http://www.bio.davidson.edu/Courses/Molbio/FRAPx/FRAP.html Davidson College FRAP site]
+
+[[Category:Cell imaging]]
+[[Category:Biochemistry methods]]
+[[Category:Fluorescence]]
+[[Category:Microscopy]]
+
+[[de:Frequenz-Relevanz-Analyse für Probleme]]
+[[fr:Redistribution de fluorescence après photoblanchiment]]
+[[nl:Fluorescence Recovery After Photobleaching]]

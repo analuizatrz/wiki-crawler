@@ -1,0 +1,17 @@
+[[Image : FRAP_en.jpg|right|thumb|320px|Principle of FRAP]]
+'''Fluorescence recovery after photobleaching''' (FRAP) is a technique used in cellular imaging where a [[fluorochrome]] attached to a molecule is destroyed on purpose with an intense flash of light (by a [[laser]]).  This is done in a well defined area to study the repopulation of this area with peripheral molecules still fluorescent. This method allows the measurement of the speed of [[diffusion]] of molecules in living cells. FRAP is usually done with [[confocal laser scanning microscope|confocal microscopes]].
+This technique is commonly used in conjunction with [[green fluorescent protein]] (GFP) [[fusion protein]]s, where the protein that is under study is fused to a GFP.  When excited by a specific wavelength of light, the protein will fluoresce.  When the protein that is being studied is produced with the GFP, then the fluorescence can be tracked.  Photodestroying the GFP, and then watching the repopulation into the bleached area can reveal information about protein interaction partners, organelle continuity and protein trafficking.
+
+If after some time the fluorescence doesn't reach the initial level anymore, then some part of the fluorescence is caused by an immobile fraction (that cannot be replenished by diffusion).  Similarly, if the fluorescent proteins bind to static cell receptors, the rate of recovery will be retarded by a factor related to the association and disassociation coefficients of binding.  This observation has more recently been exploited to investigate protein binding.
+
+Another way FRAP is used is to demonstrate the fluidity of membranes. The GFP, or another dye, is used to mark the lipids. A laser beam bleaches an area of lipids in the membrane. As a function of time, certain numbers of fluorescent-labeled lipids diffuse into the bleached area, showing their free lateral movement in the membrane (World of the Cell, 6th Edition).
+
+See also: [[Fluorescence microscope]]
+
+[[category:cell imaging]]
+[[category:biochemistry]]
+{{Cell-biology-stub}}
+
+[[de:Frequenz-Relevanz-Analyse für Probleme]]
+[[es:FRAP]]
+[[fr:Redistribution de fluorescence après photoblanchiment]]

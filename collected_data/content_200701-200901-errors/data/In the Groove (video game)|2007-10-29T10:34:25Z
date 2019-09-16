@@ -1,0 +1,1172 @@
+{{refimprove|date=June 2006}}
+
+{{Infobox CVG|
+title = In the Groove
+|image = [[Image:Itg_machine.jpg|200px|A dancer playing an In The Groove arcade machine]]
+|developer = [[Roxor Games]]
+|publisher = [[Roxor Games]]/[[RedOctane]]
+|designer = 
+|engine = 
+|version = 
+|released = [[August 30]], [[2004]] (Arcade)<br />
+[[June 17]], [[2005]] (PS2, [[North America]])<br />
+[[August 16]], [[2006]] ([[Personal computer|PC]])
+|genre = [[Music game|Music]]
+|modes = 1 player, 2 Player, or Double (1 Player using both sides of the machine)
+|ratings = [[Entertainment Software Ratings Board|ESRB]]: Everyone (E)
+|platforms = [[Arcade game|Arcade]], [[PlayStation 2]], [[Personal computer|PC]]
+|media =
+|requirements = 
+|input = Two [[dance pad]]s, each with four sensors. Six input buttons (pair of left, start, and right buttons), [[Universal serial bus|USB]] memory card reader.
+}}
+
+'''''In the Groove''''' (abbreviated '''''ITG''''') is the first game in the ''[[In the Groove (series)|In the Groove]]'' franchise, published and developed by [[Roxor Games]], and first released in [[video arcade]]s around [[August 30]], [[2004]].
+
+==Gameplay==
+
+''In the Groove'' is a rhythm video game in the same genre as [[Konami]]'s [[Dance Dance Revolution]] (DDR) and [[Andamiro]]'s [[Pump It Up]] (PIU).  The player stands on a large metal [[dance pad]] approximately 33 inches in width and length. The pad is divided into a three-by-three [[matrix (mathematics)|matrix]], with sensors at the north, south, west, and east squares of the matrix. These squares are labeled with arrows pointing up, down, left, and right, respectively. The player must use his feet to accurately step on the arrows that correspond to the music and the scrolling arrow patterns on the main display.
+
+Four stationary "target" arrows that correspond to the arrows at the player's feet are displayed at the top of the screen. As the song plays, moving arrows rise up from the bottom of the screen to meet the targets.  When a moving arrow completely overlaps the target, the player steps on the corresponding arrow on the dance pad.  This moment typically corresponds to a defineable rhythm of the song.
+
+As the player steps on the arrows, the game displays a judgment of how accurate the player's steps are to the scrolling arrow pattern.  Additionally, the game will display the player's current "combo", defined by the number of Fantastics, Excellents, and Greats the player has achieved in a row without receiving any lower judgments.
+
+An on-screen meter, known as a "life bar," gauges the player's ability to combo a song. The meter begins at 50% and raises if the player steps on an arrow with a judgment of Fantastic, Excellent, or Great. The meter stays the same if the player steps on an arrow with a judgment of Decent, and lowers if the player gets a Way Off or Miss. The player ''fails'' the song if the meter reaches 0% at any point during the song. The player may still continue to the end of the song, but is no longer able to score points. At the end of the song, if the player has failed, the game is over.
+
+An on-screen percentage meter at the top of the screen displays more precisely how close to the player is to achieving a judgement of all Fantastics (see Scoring below).
+
+===Modes of Play===
+
+In The Groove offers various modes of play.
+
+'''Dance Mode''' is the default mode of play.  In this mode, a player chooses a number of individual songs to play (the default is three).  After the songs are played, the game is over.
+
+'''Marathon Mode''' is an extended mode of play.  In this mode, a player chooses a predefined configuration of songs that may also have a predefined script of ''modifiers'' whose purpose is to make the song more challenging.  Marathon courses typically have four songs, although some have five songs.
+
+'''Battle Mode''' is a specialized "versus" mode of play.  Two players (or one player against the computer) play three individual songs of the same difficulty.  During the song, successfully executed steps fill up a player's "power bar".  When the power bar completely fills, a modifier is applied to the opposing player's side.
+
+'''Survival Mode''' (new to ''In The Groove 2'') is a mode of play similar to Marathon Mode.  For more information, see [[In The Groove 2]].
+
+==History==
+[[Image:In The Groove 1 closeup.png|thumb|left|The original In The Groove]]
+''In The Groove'' is based on a modified version of the [[open source]] ''[[StepMania]]'' engine, which was originally designed to simulate the ''[[Dance Dance Revolution]]'' series. While the core engine of StepMania was basically a clone of DDR, the engine has evolved over time to include support for a multitude of different rhythm-based game types. ''ITG'' is produced in the [[United States]], and the majority of the ''In The Groove'' fanbase consists of players who desire songs and step patterns of a higher difficulty than those found in ''Dance Dance Revolution''.  A total of 72 songs are available in the original release of the game, ten of which are unlockable and one of which (Liquid Moon) is only available at the end of a single Marathon course.
+
+[[RedOctane]] published a [[PlayStation 2]] version of ''In The Groove''.  This version has all the features and songs from the arcade release, in addition to four "preview songs" from the arcade version of In The Groove 2.  The game reached store shelves on [[June 17]], [[2005]], and introduced several new gameplay features, including the Novice difficulty, new Marathon courses, and new Fitness and Training modes.
+[[Image:Itgbox.jpg|thumb|right|Box cover of the PlayStation 2 version]]
+
+At the Amusement Showcase International 2005 in Chicago, IL, Roxor Games announced that ''[[In The Groove 2]]'' would be released with its own dedicated cabinet as well as an upgrade kit for old In The Groove conversion kits. The new cabinet was initially produced by [[Andamiro]], the creators of ''[[Pump It Up]]'', another dance-simulation game. However, in 2006, Roxor announced that they themselves would take over cabinet production for ''In The Groove 2'' dedicated cabinets.{{Fact|date=June 2007}} ''In The Groove 2'' was also made available as a conversion kit for older ''Dance Dance Revolution'' machines. In The Groove 2 features 65 new songs, as well as every song and course from the original release of In The Groove. 
+
+On [[May 9]], [[2005]], however, [[Konami]]  filed a [[complaint]] against Roxor seeking, among other things, a preliminary injunction preventing them from selling arcade cabinet conversion kits. See [[Roxor Games]] (or "Lawsuit", below) for details.
+
+On January 14, 2006, at the ''In The Groove North American Tournament Finals'' in Las Vegas, NV, Roxor Games announced that the arcade release of "In The Groove 3" and the home release of "In The Groove 2" would take place sometime during 2006. ITG3 was to be previewed at the Amusement & Music Operators Association Expo 2006 convention in [[Las Vegas, NV]], though was absent from Roxor Games' presentation area, presumably due to delays in the game's production. The status of ''In The Groove 3'' remains in doubt since Konami gained the intellectual property rights to the series. Some songs that were to debut on ITG3 found their way into [[Pump It Up Pro]].
+
+==Scoring details==
+===Judgements===
+Similar to other dancing games, the player is judged for how accurately they step relative to the beat of the song. From best to worst, possible judgements are "Fantastic!," "Excellent," "Great," "Decent," "Way Off," and "Miss". During gameplay on all difficulties except Novice mode on ITG2, all judgements except "Fantastic!" and "Miss" are prefixed or suffixed with a dash; a prefix indicates an early step, a suffix indicates a late step.  During ITG2's Novice mode, "Decent" becomes "Too Early/Late" and "Way Off" becomes "Way Early/Late".  It is possible during Novice mode, however, to get the Too Early judgement, and then step on the same arrow again for a better rating if timed properly. 
+
+On hold steps and rolls, if the player finishes the hold or roll successfully, they receive a "Yeah!". Otherwise, the player receives a "Bad".
+
+In the Groove's judgement windows (the amount of time relative to the beat of the song a player has to attain a certain judgment rating) are generally slightly larger than DDR's.  Therefore, a "Fantastic!" is easier to get than DDR's equivalent, a "Marvelous!!" (in terms of how many milliseconds a player can be off the beat and still get that judgement), an "Excellent!" is easier to get than a "Perfect!" and so on. However, the "Fantastic!" level of judgement is available in all modes of gameplay, whereas DDR's equivalent "Marvelous!!" is only available during its nonstop or oni courses. However, the Fantastic window on ITG is smaller than the Perfect window on DDR.  Additionally, the combined Fantastic+Excellent window is smaller than Pump It Up's Perfect window.
+
+"Way Off" and "Miss" steps take away from the life bar (to the side of the player's arrows), while "Great," "Excellent" and "Fantastic" steps add to the lifebar until it reaches its maximum. "Decent" steps do not change the level of the lifebar. Too many missed steps will deplete the life bar. If the life bar empties, then the round is failed and the game ends (either immediately or at the end of the round, depending on machine settings). During two player games, if one player fails and the other passes, then the failed player can continue to play. During a one player game, most machines allow a single player to continue playing after failing the song, but will automatically end the game after 30 consecutive misses.
+
+===Scoring===
+For each judgement, the player receives or loses points depending on the accuracy:
+* Fantastic: 5
+* Excellent: 4
+* Great: 2
+* Decent: 0
+* Way Off: -6
+* Miss: -12
+
+And for holds and rolls:
+* Yeah: 5
+* Bad: 0
+
+Mines, when hit, deduct 6 points, but when avoided have no effect on score.
+
+These points are divided by the total number of points possible for the song or course to make a percentage. The percentage is shown during play and at the results screen.
+
+===Grading===
+At the end of the song, the results screen displays a grade for each player based on the percentage of points that they got. These are the minimum scores required for each grade:
+* 4 Stars: 100%
+* 3 Stars: 99%
+* 2 Stars: 98%
+* 1 Star: 96%
+* S+: 94%
+* S: 92%
+* S-: 89%
+* A+: 86%
+* A: 83%
+* A-: 80%
+* B+: 76%
+* B: 72%
+* B-: 68%
+* C+: 64%
+* C: 60%
+* C-: 55%
+* D: Less than 55%, but not Life Depleted
+* F: Life Depleted - Round Failed
+
+As of October 8, 2007, according to [http://www.groovestats.com Groovestats], a popular website for tracking ITG scores, 95 out of 113 Expert difficulty songs currently available on In the Groove arcade machines have been "quad-starred", meaning that someone has reported a score of 100% on that particular song. Every 9 difficulty chart, 31 out of 35 10 difficulty charts, 9 out of 12 11 difficulty charts, two 12 difficulty charts, and no 13 difficulty charts have been quad-starred. Only two expert songs (Vertex<sup>2</sup>, and Euphoria) have a world record under 99% (98.11% and 98.87%, respectively), and only five expert songs have a world record score that contains 10 or more "Excellent" step ratings.
+
+==Technical Details==
+In The Groove is built on a complete PC system running the [[Debian]] GNU/Linux distribution, containing a hard disk, contemporary processor, integrated graphics card, and a USB hub for transferring user statistics and edits onto a flash drive.  The software used to run the game is based on the [[open source]] ''[[StepMania]]'' computer program.   Anti-piracy measures are achieved through the use of a "serial dongle," which attempts to make sure that, even if the program were copied, it will only execute on a licensed machine.  A custom adapter which maps the input to a joystick-like interface, along with connectors to interface the PC with the monitor, audio, switches, and lights, provides compatibility with original DDR cabinets.  
+
+As a result of the system's advanced hardware, ITG is theoretically able to store more song and movie data than previous CD-based dance game systems, and has the ability to add new effects by using already-available 3D libraries, such as OpenGL.  Additionally, with the introduction of new cabinets manufactured by Andamiro and Roxor, In the Groove 2 is able to run at a higher screen resolution than previous versions of arcade dance games.
+
+However, because ITG is based on commodity PC computer hardware and open-sourced software, enterprising users have found ways to "hack" the game and change settings and theming, add songs, etc. <ref name="Exploits">[http://media.rhythmatic.net/index.php?dir=In%20The%20Groove/Events/Exploits/ In the Groove Exploits]</ref> The main hole exploited is in the OS boot sequence; both USB ports are used - first to attach a USB keyboard, allowing access to the BIOS and input for a Linux console, and on the second a USB drive containing a bootable Linux distribution. As of 2006, exact knowledge of this procedure is kept limited to small groups of people out of fears of possible score-cheating or vandalization of the ITG harddrive. Existing hacks only use dedicated cabinets because of hardware differences. Upgrade machine's motherboards do not have the ability to boot off of a USB device.  Similarly, the PS2 version of the game may also be hacked to add new songs.
+
+==Songs==
+===Song Synchronization===
+
+ITG generally has good synchronization between the step charts and the background music; most charts in ITG have steps fairly close to being on beat with the song. However, this wasn't always the case. DDR tends to have an early bias in its steps, so a player would have to step a few tens of milliseconds ahead of the beat to obtain a perfect score. It was due to this that In the Groove 1's stepcharts were generally synced significantly later, often to the point where the opposite issue was presented: players generally had to step after the beat in order to obtain perfect scoring. The initial release of In the Groove 2 presented generally better synchronization between stepcharts and their songs than its predecessor, though some charts were still considerably offbeat (notable examples include the charts for the songs Agent Blatant, Amore, and Lipstick Kiss). As a result of these findings, patches (known as revisions or R for short) were gradually implemented that improved the overall syncing and fixed various bugs found in the initial release.
+
+===Song list===
+This list covers the 75 songs available in the arcade and home versions of In the Groove.  All the songs are playable in the sequel game, ''[[In the Groove 2]]''. For songs exclusive to In the Groove 2, see the [[In the Groove 2#Song list|ITG2 song list]].
+
+The difficulties are abbreviated to conserve table space:
+:N = Novice
+:E = Easy
+:M = Medium
+:H = Hard
+:X = Expert
+
+Note the numbers given for each difficulty level are similar to DDR's 1-10 "footers," except ITG removed the footer label and added 3 additional difficulties, far surpassing the hardest 10-footers in DDR. Thus a 10 in ITG is comparable to a 10-footer in DDR. If one actually counts the number of boxes showing the difficulty, one will notice there are only 12 boxes. The 13s go far and beyond the realm of reality for most people. Only one 13 exists in In the Groove 1, while two make their debut in the sequel.
+
+Songs that need to be unlocked in the arcade version are highlighted in red.  Songs that are from In the Groove 2 are highlighted in green.  These also need to be unlocked.
+
+The Novice steps are only available in the home version, as well as in the sequel.  In addition, there is an asterisk beside the Single Expert step routines for "Why Me."  These are also only available in the sequel.  The Double Expert steps are not on any current release of In the Groove 1, but they are on the sequel.  It is marked with a karat to emphasize this.
+
+There is one song that is in the arcade version that cannot be played in normal mode. "Liquid Moon" exists only in the ''Energy'' Marathon course.  It is fully playable in the home version and the sequel.  It is highlighted as a home version song.
+
+{| cellpadding=4 cellspacing=0 border=1 width="97%" class="prettytable"
+|-
+| rowspan=2 width=35%|'''Title'''
+| rowspan=2|'''Artist'''
+| rowspan=2|'''BPM'''
+| colspan=5 align=center|Single
+| colspan=4 align=center|Double
+|-
+| width=3%|N
+| width=3%|E
+| width=3%|M
+| width=3%|H
+| width=3%|X
+| width=3%|E
+| width=3%|M
+| width=3%|H
+| width=3%|X
+|- style=background:#ffcccc
+|Anubis 
+|[[Kyle Ward|Banzai]]
+|110 
+|1
+|5
+|7
+|8
+|10
+|2
+|8
+|9
+|10
+|----
+|Bend Your Mind 
+|Reflection Theory
+|140 
+|1
+|6
+|7
+|9
+|10
+|6
+|8
+|9
+|10
+|- style=background:#ccccff
+|Boogie Down 
+|Inurvise
+|175 
+|1
+|3
+|6
+|8
+|9
+|4
+|6
+|8
+|9
+|----
+|Bouff 
+|[[Machinae Supremacy]]
+|200 
+|1
+|5
+|7
+|9
+|10
+|5
+|7
+|9
+|10
+|- style=background:#ffcccc
+|Bubble Dancer 
+|Crispy
+|137 
+|1
+|3
+|5
+|7
+|
+|3
+|7
+|9
+|
+|----
+|Changes 
+|Sandy Rivera &amp; Haze
+|125 
+|1
+|2
+|4
+|7
+|
+|1
+|5
+|8
+|
+|- style=background:#ccccff
+|Charlene
+|Missing Heart
+|138 
+|1
+|3
+|4
+|8
+|11
+|3
+|6
+|7
+|9
+|----
+|Crazy 
+|DJ Doo
+|135 
+|1
+|2
+|5
+|7
+|
+|3
+|6
+|7
+|
+|- style=background:#ccccff
+|Da Roots (Folk Mix)
+|[[Mind Reflection]]
+|89-134
+|1
+|2
+|4
+|7
+|9
+|4
+|6
+|9
+|9
+|----
+|Dawn 
+|[[Kyle Ward|KaW]]
+|138 
+|1
+|3
+|5
+|8
+|9
+|4
+|6
+|8
+|9
+|- style=background:#ccccff
+|Delirium 
+|[[Kyle Ward|:)]]
+|163-280 
+|1
+|2
+|6
+|8
+|12
+|6
+|8
+|9
+|11
+|----
+|Disconnected 
+|[[Kyle Ward|Inspector K]]
+|200 
+|1
+|4
+|6
+|8
+|9
+|4
+|6
+|8
+|9
+|- style=background:#ffcccc
+|Disconnected ~Hyper~
+|[[Kyle Ward|Inspector K]]
+|195 
+|1
+|3
+|6
+|9
+|10
+|5
+|7
+|9
+|10
+|- style=background:#ffcccc
+|Disconnected ~Mobius~
+|[[Kyle Ward|Inspector K]]
+|88-175 
+|1
+|3
+|5
+|8
+|9
+|4
+|6
+|8
+|9
+|- style=background:#ffcccc
+|DJ Party 
+|BB Hayes
+|130 
+|1
+|2
+|5
+|8
+|
+|1
+|4
+|7
+|
+|----
+|Do U Love Me 
+|DJ Doo
+|133 
+|1
+|3
+|4
+|6
+|10
+|2
+|4
+|6
+|9
+|- style=background:#ccccff
+|Don't Promise Me 
+|Reflection Theory
+|66-132 
+|1
+|3
+|4
+|6
+|
+|4
+|5
+|7
+|9
+|- style=background:#ffcccc
+|Don't Promise Me ~Happiness~ 
+|Reflection Theory
+|66-132 
+|1
+|4
+|5
+|8
+|
+|4
+|6
+|8
+|9
+|- style=background:#ccccff
+|Dreams of Passion 
+|Dax 
+|97
+|1
+|2
+|4
+|5
+|
+|1
+|2
+|5
+|
+|----
+|Drifting Away 
+|Filo Bedo 
+|143
+|1
+|3
+|5
+|8
+|9
+|3
+|6
+|7
+|9
+|- style=background:#ccccff
+|Driving Force Classical 
+|Digital Explosion 
+|168
+|1
+|2
+|5
+|8
+|9
+|4
+|7
+|8
+|9
+|----
+|Euphoria 
+|[[Kyle Ward|KaW feat. :)]] 
+|70-140
+|1
+|3
+|6
+|9
+|12
+|3
+|6
+|9
+|10
+|- style=background:#ccccff
+|Fly Away 
+|Missing Heart 
+|138
+|1
+|2
+|5
+|7
+|9
+|3
+|5
+|7
+|9
+|----
+|Fly With Me 
+|[[Nina Andersson|Nina]]
+|29-137
+|1
+|2
+|5
+|7
+|9
+|4
+|6
+|8
+|9
+|- style=background:#ccccff
+|Flying High 
+|Filo Bedo 
+|146
+|1
+|2
+|5
+|8
+|9
+|3
+|6
+|8
+|9
+|- style=background:#ccffcc
+|Funk Factory 
+|Money Deluxe
+|132 
+|1
+|4
+|7
+|8
+|9
+|4
+|7
+|8
+|9
+|- style=background:#ccccff
+|Hand of Time 
+|Reflection Theory 
+|92-184
+|1
+|3
+|4
+|8
+|10
+|3
+|6
+|9
+|10
+|----
+|Hardcore of the North 
+|Digital Explosion 
+|110-169
+|1
+|4
+|6
+|9
+|12
+|5
+|6
+|9
+|11
+|- style=background:#ccccff
+|Hip Hop Jam 
+|Indiggo 
+|194
+|1
+|2
+|4
+|6
+|9
+|3
+|7
+|9
+|10
+|----
+|Hybrid 
+|[[Machinae Supremacy]] 
+|185
+|1
+|3
+|5
+|9
+|10
+|3
+|8
+|9
+|10
+|- style=background:#ccccff
+|I Think I Like That Sound 
+|Kid Whatever 
+|131
+|1
+|3
+|5
+|8
+|9
+|2
+|6
+|8
+|9
+|----
+|I'll Get There Anyway 
+|Sammi Morelli
+|100 
+|1
+|3
+|6
+|7
+|
+|1
+|5
+|7
+|
+|- style=background:#ccffcc
+|Incognito 
+|[[Kyle Ward|Inspector K]]
+|150 
+|1
+|3
+|5
+|8
+|9
+|3
+|6
+|9
+|10
+|- style=background:#ffcccc
+|Infection 
+|[[Kyle Ward|Inspector K]] 
+|170
+|1
+|3
+|6
+|8
+|11
+|3
+|6
+|9
+|10
+|- style=background:#ccccff
+|July 
+|[[Kyle Ward|:)]] 
+|170
+|1
+|3
+|5
+|9
+|11
+|5
+|7
+|9
+|10
+|----
+|Kagami 
+|[[Kyle Ward|KaW]] 
+|73-146
+|1
+|3
+|5
+|8
+|10
+|5
+|8
+|9
+|11
+|- style=background:#ccccff
+|Kiss Me Red 
+|Crispy 
+|137
+|1
+|2
+|5
+|7
+|9
+|3
+|5
+|6
+|9
+|----
+|Land of the Rising Sun 
+|Spacekats 
+|136
+|1
+|3
+|5
+|7
+|
+|4
+|6
+|8
+|9
+|- style=background:#ccccff
+|Lemmings on the Run 
+|[[E-Rotic]]
+|134 
+|1
+|3
+|5
+|7
+|9
+|4
+|6
+|8
+|9
+|----
+|Let Me Be The One 
+|Sammi Morelli 
+|123
+|1
+|3
+|4
+|6
+|
+|2
+|5
+|7
+|
+|- style=background:#ccccff
+|Let My Love Go Blind 
+|[[Nina Andersson|Nina]]
+|160
+|1
+|4
+|6
+|7
+|9
+|3
+|6
+|8
+|9
+|- style=background:#ccffcc
+|Liquid Moon 
+|[[Kyle Ward|Inspector K]] 
+|160
+|1
+|2
+|6
+|8
+|9
+|2
+|6
+|9
+|10
+|- style=background:#ccccff
+|Mellow 
+|Spacekats 
+|160
+|1
+|3
+|5
+|8
+|
+|4
+|6
+|8
+|9
+|----
+|Mouth 
+|Rochelle 
+|134
+|1
+|3
+|4
+|8
+|
+|3
+|6
+|8
+|9
+|- style=background:#ccccff
+|My Favourite Game 
+|Natalie Browne 
+|68-136
+|1
+|3
+|5
+|6
+|10
+|2
+|5
+|7
+|9
+|----
+|Mythology 
+|Digital Explosion 
+|138
+|1
+|3
+|7
+|9
+|11
+|4
+|8
+|9
+|10
+|- style=background:#ccccff
+|No 1 Nation 
+|Anet
+|200 
+|1
+|4
+|7
+|8
+|9
+|5
+|7
+|9
+|10
+|----
+|Normal 
+|Anet 
+|141
+|1
+|3
+|5
+|7
+|
+|1
+|6
+|8
+|
+|- style=background:#ccccff
+|Not Worth The Paper 
+|Dax 
+|133
+|1
+|2
+|4
+|6
+|
+|2
+|5
+|7
+|
+|----
+|Oasis 
+|[[Kyle Ward|KaW]] 
+|145
+|1
+|3
+|4
+|9
+|10
+|5
+|7
+|9
+|9
+|- style=background:#ccccff
+|On A Day Like Today 
+|Obsession 
+|134
+|1
+|3
+|5
+|7
+|9
+|2
+|5
+|7
+|9
+|----
+|PA Theme 
+|[[MC Frontalot]] 
+|142
+|1
+|2
+|4
+|6
+|
+|2
+|3
+|5
+|
+|- style=background:#ffcccc
+|Pandemonium 
+|ZiGZaG 
+|330
+|1
+|5
+|9
+|11
+|13
+|6
+|9
+|10
+|12
+|----
+|Perfect 
+|Sammi Morelli 
+|100
+|1
+|3
+|5
+|8
+|
+|3
+|6
+|8
+|9
+|- style=background:#ccccff
+|Queen of Light 
+|Missing Heart 
+|132
+|1
+|3
+|4
+|7
+|10
+|3
+|6
+|8
+|9
+|----
+|Remember December 
+|Mind Reflection 
+|192
+|1
+|3
+|6
+|9
+|10
+|5
+|7
+|9
+|9
+|- style=background:#ccccff
+|ROM-eo & Juli8 
+|[[Nina Andersson|Nina]] 
+|135
+|1
+|2
+|6
+|7
+|9
+|3
+|5
+|7
+|9
+|----
+|Solina 
+|Evolution 
+|129
+|1
+|2
+|4
+|7
+|9
+|4
+|7
+|9
+|9
+|- style=background:#ffcccc
+|Tell 
+|[[Kyle Ward|Symphonius]] w/Rossini <!-- Is Rossini a part of Kyle's aliases? --> <!-- No, it's referring to Gioacchino Rossini, who wrote Guillame/William Tell, the song it's based on. -->
+|163
+|1
+|3
+|6
+|9
+|12
+|4
+|6
+|9
+|11
+|----
+|Tension 
+|[[Kyle Ward|Inspector K]] 
+|85-180
+|1
+|5
+|6
+|9
+|10
+|5
+|6
+|9
+|10
+|- style=background:#ccccff
+|The Beginning 
+|DJ Doo 
+|132
+|1
+|4
+|6
+|8
+|11
+|3
+|6
+|9
+|10
+|----
+|The Game 
+|Crispy 
+|138
+|1
+|2
+|5
+|8
+|9
+|3
+|5
+|8
+|9
+|- style=background:#ccccff
+|Torn 
+|Natalie Browne 
+|128
+|1
+|3
+|5
+|7
+|
+|3
+|6
+|7
+|9
+|----
+|Touch Me 
+|[[E-Rotic]] 
+|138
+|1
+|3
+|5
+|8
+|9
+|3
+|5
+|8
+|9
+|- style=background:#ccccff
+|Tough Enough 
+|Vanilla Ninja 
+|98-196
+|1
+|2
+|4
+|7
+|9
+|1
+|2
+|5
+|9
+|- style=background:#ccffcc
+|Tribal Style 
+|[[Kyle Ward|KaW]] 
+|140
+|1
+|3
+|6
+|9
+|10
+|3
+|5
+|9
+|11
+|- style=background:#ccccff
+|Turn It On 
+|Georgetown 
+|120
+|1
+|3
+|5
+|7
+|9
+|2
+|5
+|8
+|9
+|----
+|Utopia 
+|[[Kyle Ward|:)]] 
+|88-166
+|1
+|3
+|5
+|8
+|11
+|4
+|6
+|9
+|11
+|- style=background:#ccccff
+|VerTex 
+|ZiGZaG 
+|60-612
+|1
+|6
+|7
+|10
+|12
+|6
+|9
+|10
+|12
+|----
+|Walking on Fire 
+|Evolution feat. Jayn Hanna
+|138
+|1
+|3
+|5
+|8
+|10
+|3
+|6
+|9
+|9
+|- style=background:#ccccff
+|Which MC Was That? 
+|[[MC Frontalot]] 
+|111
+|1
+|3
+|5
+|7
+|
+|2
+|3
+|5
+|
+|----
+|While Tha Rekkid Spinz 
+|DJ Zombie 
+|140
+|1
+|2
+|5
+|7
+|9
+|2
+|5
+|8
+|9
+|- style=background:#ccccff
+|Why Me 
+|Desire 
+|126
+|1
+|2
+|4
+|6
+|9* 
+|1
+|3
+|6
+|9^
+|- style=background:#ffcccc
+|Xuxa 
+|[[Kyle Ward|:)]] 
+|160
+|1
+|3
+|5
+|9
+|11
+|4
+|6
+|9
+|9
+|----
+|Zodiac 
+|[[Kyle Ward|Banzai]] 
+|107
+|1
+|2
+|5
+|7
+|9
+|2
+|7
+|9
+|10
+|----
+|}
+
+==Lawsuit==
+
+[[Konami]] filed a [[lawsuit]] against [[Roxor Games]] on an infringement of various rights on [[May 9]], [[2005]].  Additionally, they amended their complaint on [[July 1]], [[2005]], to include the dance game "MC GROOVZ danceCRAZE" (a game produced by [[Mad Catz]] to accompany their 3rd party dance mat). [[Konami]] primarily claims that Roxor has infringed their dancing game patent rights, but also goes on to accuse Roxor of [[trademark]] infringement, [[false advertising]] and [[unfair competition]]. ITG fans were quick to criticise the lawsuit, pointing out that [[Konami]]'s Japanese arcade games are illegal in the United States.
+
+On [[October 18]], [[2006]], Roxor announced that Konami has acquired the intellectual property rights to the In the Groove series as part of the settlement to this litigation.<ref name="Acquisition">[http://www.inthegroove.com/page/Press_Release Konami acquires In the Groove]</ref>
+
+==See also==
+* [[Dance pad]]
+* [[List of dance video games]]
+* [[Comparison of panel-based music video games]]
+* [[Roxor Games]]
+* [[In the Groove 2]]
+
+==References==
+<references/>
+
+
+==External links==
+*[http://www.inthegroove.com Official ''In the Groove'' website]
+*[http://www.itgfreak.com/ ITG Freak]
+*[http://www.r21freak.com/ r21freak - a custom songs community]
+*{{GameFAQs|type=/console/ps2|num=927083|name=''In the Groove'' (PS2)}}
+*[http://www.groovestats.com Groovestats - ITG score-tracking website]
+*[http://www.ddruk.com/articles/kvr.htm One analysis of the lawsuit]
+*[http://www.konami.co.jp/en/news/topics/050511/index.html Official announcement regarding the lawsuit from Konami]
+*[http://www.netjak.com/review.php/1010 Review of ''In The Groove'' for PS2 at Netjak]
+
+[[Category:Arcade games]]
+[[Category:2004 video games]]
+[[Category:Dance video games]]
+[[Category:PlayStation 2 games]]
+[[Category:In the Groove series]]
+
+[[fi:In the Groove]]
+[[fr:In the Groove]]
+[[sv:In the Groove]]

@@ -1,0 +1,654 @@
+{{otheruses}} 
+{{Chinese|title=Hanyu Pinyin|s=汉语拼音|t=漢語拼音|p=Hànyǔ Pīnyīn|altname=Scheme of the Chinese Phonetic Alphabet|s2=汉语拼音方案|t2=漢語拼音方案|p2=Hànyǔ Pīnyīn fāng'àn}}
+{{RCL}}
+'''Pinyin''', more formally '''Hanyu Pinyin''', is the most common [[Standard Mandarin]] [[romanization]] system in use. ''Hanyu'' means the [[Chinese language]], ''pin'' means "spell" and ''yin'' means "sound". 
+
+Pinyin uses the [[Latin alphabet]] to represent sounds in Standard Mandarin. The way these letters represent sounds in Standard Mandarin do not correspond to any other one particular language that uses the Roman alphabet. For example, the sounds indicated in pinyin by ''b'' and ''g'' correspond more closely to the sounds indicated by ''p'' and ''k'' in some Western uses of the Latin script, e.g., French. Other letters, like ''j'', ''q'', ''x'' or ''zh'', indicate sounds that do not correspond to any exact sound in English.  Some of the transcriptions in pinyin, such as the ''ian'' ending, do not correspond to English pronunciations, either. This means that people who have not studied Chinese, or who have studied Chinese but not the pinyin system, are likely to severely mispronounce some words if they attempt to pronounce pinyin according to their own language spellings.
+
+==History==
+Hanyu Pinyin was approved in 1958 and adopted in 1979 by the government in the [[People's Republic of China]]. It superseded older romanization systems such as [[Wade-Giles]] (1859; modified 1892) and [[Chinese Postal Map Romanization]], and replaced [[Zhùyīn fúhào|Zhuyin]] as the method of Chinese phonetic instruction in [[mainland China]]. Hanyu Pinyin was adopted in 1979 by the [[International Organization for Standardization]] (ISO) as the standard romanization for modern Chinese (ISO-7098:1991). It has also been accepted by the [[Government of Singapore]], the [[Library of Congress]], the [[American Library Association]], and many other international institutions. It has also become a useful tool for [[Chinese input methods for computers|entering Chinese language text into computers]].
+
+==Pronunciation==
+The primary purpose of pinyin in Western [[Chinese school]]s is to teach [[Standard Mandarin]] [[pronunciation]]. For those Chinese who speak Standard Mandarin at home, pinyin is used to help children associate characters with spoken words which they already know; however, for the many Chinese who do not use Standard Mandarin at home, pinyin is used to teach them the [[Standard Mandarin]] pronunciation of words when they learn them in [[elementary school]].
+
+Pinyin [[vowels]] are pronounced similarly to vowels in [[Romance languages]], and most [[consonants]] are similar to [[English language|English]]. A pitfall for English-speaking novices is, however, the unusual pronunciation of ''x'', ''q'', ''j'', ''c'', ''zh'', ''ch'', ''sh''  and ''z'' (and sometimes ''-i'') and the unvoiced pronunciation of ''d'', ''b'', and ''g''. More information on the pronunciation of all pinyin letters in terms of English approximations is given further below.
+{{IPA notice}}
+The pronunciation of Chinese is generally given in terms of [[initial (linguistics)|initials]] and [[final (linguistics)|finals]], which represent the ''segmental phonemic'' portion of the language. Initials are initial consonants, while finals are all possible combinations of [[medial (linguistics)|medials]] ([[semivowel]]s coming before the vowel), the [[syllable nucleus|nucleus]] vowel, and [[syllable coda|coda]] (final vowel or consonant).
+
+For a complete table of all pinyin syllables, see [[pinyin table]].
+
+===Initials===
+In each cell below, the first line indicates the [[help:IPA|IPA]], the second indicates pinyin.
+
+{|class="wikitable"
+| 
+!colspan="2"|[[Bilabial consonant|Bilabial]]
+!colspan="1"|[[Labiodental consonant|Labio-<br/>dental]]
+!colspan="1"|[[Co-articulated consonant|Co-<br/>articulated]]
+!colspan="2"|[[Alveolar consonant|Alveolar]]
+!colspan="2"|[[Retroflex consonant|Retroflex]]
+!colspan="2"|[[Alveolo-palatal consonant|Alveolo-<br/>palatal]]
+!colspan="1"|[[Palatal consonant|Palatal]]
+!colspan="2"|[[Velar consonant|Velar]]
+|-
+!style="text-align: left;"|[[Plosive consonant|Plosive]]
+|style="background: #ccf;text-align: center;"|{{IPA|[p]}}<br>b
+|style="background: #ccf;text-align: center;"|{{IPA|[pʰ]}}<br>p
+|
+| 
+|style="background: #cfc;text-align: center;"|{{IPA|[t]}}<br>d
+|style="background: #cfc;text-align: center;"|{{IPA|[tʰ]}}<br>t
+|colspan="2"| 
+|colspan="2"|
+| 
+|style="background: #fcc;text-align: center;"|{{IPA|[k]}}<br>g
+|style="background: #fcc;text-align: center;"|{{IPA|[kʰ]}}<br>k
+|-
+!style="text-align: left;"|[[Nasal consonant|Nasal]]
+|colspan="2;" style="background: #ccf;text-align: center;"|{{IPA|[m]}}<br>m
+|
+| 
+|colspan="2;" style="background: #cfc;text-align: center;"|{{IPA|[n]}}<br>n
+|colspan="2"|
+|colspan="2"| 
+|
+|colspan="2"|
+|-
+!style="text-align: left;"|[[Lateral approximant consonant|Lateral approximant]]
+|colspan="2"| 
+| 
+|
+|colspan="2;" style="background: #cfc;text-align: center;"|{{IPA|[l]}}<br>l
+|colspan="2"| 
+|colspan="2"| 
+|
+|colspan="2"|
+|-
+!style="text-align: left;"|[[Affricate consonant|Affricate]]
+|colspan="2"| 
+|
+| 
+|style="background: #ffc;text-align: center;"|{{IPA|[ts]}}<br>z
+|style="background: #ffc;text-align: center;"|{{IPA|[tsʰ]}}<br>c
+|style="background: #cff;text-align: center;"|{{IPA|[ʈʂ]}}<br>zh
+|style="background: #cff;text-align: center;"|{{IPA|[ʈʂʰ]}}<br>ch
+|style="background: #fcf;text-align: center;"|{{IPA|[tɕ]}}<br>j
+|style="background: #fcf;text-align: center;"|{{IPA|[tɕʰ]}}<br>q
+|
+|colspan="2"|
+|-
+!style="text-align: left;"|[[Fricative consonant|Fricative]]
+|colspan="2" | &nbsp;
+|style="background: #ccf;text-align: center;"|{{IPA|[f]}}<br>f
+|
+|colspan="2" style="background: #ffc;text-align: center;"|{{IPA|[s]}}<br>s
+|style="background: #cff;text-align: center;"|{{IPA|[ʂ]}}<br>sh
+|style="background: #cff;text-align: center;"|{{IPA|[ʐ]}} <sup>1</sup><br>r
+|colspan="2" style="background: #fcf;text-align: center;"|{{IPA|[ɕ]}}<br>x
+|
+|colspan="2" style="background: #fcc;text-align: center;"|{{IPA|[x]}}<br>h
+|-
+!style="text-align: left;"|[[Approximant consonant|Approximant]]
+|colspan="2" | &nbsp;
+| &nbsp; 
+|style="text-align: center;"|{{IPA|[w]}}<sup>2</sup><br>w
+|colspan="2" | &nbsp;
+|colspan="2" style="background: #cff;text-align: center;"|{{IPA|[ɻ]}} <sup>1</sup><br>r
+|colspan="2" |
+|style="text-align: center;"|{{IPA|[j]}} <sup>3</sup><br>y
+|colspan="2"|
+|}
+<sup>1</sup> {{IPA|/ɻ/}} may phonetically be {{IPA|/ʐ/}} (a [[voiced retroflex fricative]]). This pronunciation varies among different speakers, and is not two different phonemes.<br />
+<sup>2</sup> the letter "w" may be considered as an initial or a final, and may be pronounced as {{IPA|/w/}} or {{IPA|/u/}}<br />
+<sup>3</sup> the letter "y" may be considered as an initial or a final, and may be pronounced as {{IPA|/j/}} or {{IPA|/i/}}<br />
+
+Conventional order (excluding ''w'' and ''y''), derived from the [[Zhuyin]] system, is:
+{|cellspacing="0" cellpadding="3"
+|style="background: #ccf;"|b p m f
+|style="background: #cfc;"|d t n l
+|style="background: #fcc;"|g k h
+|style="background: #fcf;"|j q x
+|style="background: #cff;"|zh ch sh r
+|style="background: #ffc;"|z c s  
+|}
+
+===Finals===
+In each cell below, the first line indicates IPA, the second indicates pinyin for a standalone (no-initial) form, and the third indicates pinyin for a combination with an initial.  Other than finals modified by an -r, which are omitted, the following is an exhaustive table of all possible finals. <sup>1</sup>
+
+The only syllable-final consonants in standard Mandarin are -n and -ng, and -r which is attached as a grammatical suffix. Chinese syllables ending with any other consonant is either from a non-Mandarin language (southern Chinese languages such as Cantonese, or minority languages of China), or it indicates the use of a non-pinyin Romanization system (where final consonants may be used to indicate tones).
+
+{| class="wikitable" style="text-align: center"
+!rowspan=2 |Nucleus||rowspan=2|Coda||colspan=4|Medial
+|-
+! Ø ||{{IPA|i}}||{{IPA|u}}||{{IPA|y}}
+|-
+|rowspan=5 style="background:#efefef"|{{IPA|a}}||style="background:#efefef"|Ø||{{IPA|[a]}}<br>a<br>-a||{{IPA|[ia]}}<br>ya<br>-ia||{{IPA|[ua]}}<br>wa<br>-ua|| 
+|-
+|style="background:#efefef"|{{IPA|i}}||{{IPA|[aɪ]}}<br>ai<br>-ai|| ||{{IPA|[uaɪ]}}<br>wai<br>-uai|| 
+|-
+|style="background:#efefef"|{{IPA|u}}||{{IPA|[aʊ]}}<br>ao<br>-ao||{{IPA|[iaʊ]}}<br>yao<br>-iao|| || 
+|-
+|style="background:#efefef"|{{IPA|n}}||{{IPA|[an]}}<br>an<br>-an||{{IPA|[iɛn]}}<br>yan<br>-ian||{{IPA|[uan]}}<br>wan<br>-uan||{{IPA|[yɛn]}}<br>yuan<br>-üan <sup>2</sup>
+|-
+|style="background:#efefef"|{{IPA|ŋ}}||{{IPA|[ɑŋ]}}<br>ang<br>-ang||{{IPA|[iɑŋ]}}<br>yang<br>-iang||{{IPA|[uɑŋ]}}<br>wang<br>-uang|| 
+|-
+|rowspan=5 style="background:#efefef"|{{IPA|ə}}||style="background:#efefef"|Ø||{{IPA|[ɤ]}}<br>e<br>-e||{{IPA|[iɛ]}}<br>ye<br>-ie||{{IPA|[uɔ]}}<br>wo<br>-uo/-o <sup>3</sup>||{{IPA|[yɛ]}}<br>yue<br>-üe <sup>2</sup>
+|-
+|style="background:#efefef"|{{IPA|i}}||{{IPA|[eɪ]}}<br>ei<br>-ei|| ||{{IPA|[ueɪ]}}<br>wei<br>-ui|| 
+|-
+|style="background:#efefef"|{{IPA|u}}||{{IPA|[ɤʊ]}}<br>ou<br>-ou||{{IPA|[iɤʊ]}}<br>you<br>-iu|| || 
+|-
+|style="background:#efefef"|{{IPA|n}}||{{IPA|[ən]}}<br>en<br>-en||{{IPA|[in]}}<br>yin<br>-in||{{IPA|[uən]}}<br>wen<br>-un||{{IPA|[yn]}}<br>yun<br>-ün <sup>2</sup>
+|-
+|style="background:#efefef"|{{IPA|ŋ}}||{{IPA|[ɤŋ]}}<br>eng<br>-eng||{{IPA|[iɤŋ]}}<br>ying<br>-ing||{{IPA|[uɤŋ]}} <sup>4</sup><br>weng<br>-ong||{{IPA|[yʊŋ]}}<br>yong<br>-iong
+|-
+|colspan=2 style="background:#efefef"|Ø||{{IPA|[z̩]}}<br><br>-i||{{IPA|[i]}}<br>yi<br>-i||{{IPA|[u]}}<br>wu<br>-u||{{IPA|[y]}}<br>yu<br>-ü <sup>2</sup>
+|}
+<sup>1</sup> /ər/ (而, 二, etc.) is written as ''er''. For other finals formed by the suffix -r, pinyin does not use special orthography; one simply appends -r to the final that it is added to, without regard for any sound changes that may take place along the way. For information on sound changes related to final -r, please see [[Standard Mandarin]].<br />
+<sup>2</sup> "ü" is written as "u" after j, q, x, or y.<br />
+<sup>3</sup> "uo" is written as "o" after b, p, m, or f.<br />
+<sup>4</sup> It is pronounced {{IPA|[ʊŋ]}} when it follows an initial, and pinyin reflects this difference.<br />
+
+In addition, ''ê'' {{IPA|[ɛ]}} is used to represent certain [[interjection]]s.
+
+==Rules given in terms of English pronunciation==
+All rules given here in terms of English pronunciation are approximate, as several of these sounds do not correspond directly to sounds in English.
+===Pronunciation of initials===
+{| class="wikitable" style="font-size: 95%"
+!'''Pinyin'''||'''[[help:IPA|IPA]]'''||'''Explanation'''
+|-
+||''b''|| {{IPA|[p]}}|| unaspirated '''p''', as in s'''p'''it
+|-
+||''p''|| {{IPA|[pʰ]}}|| aspirated '''p''', as in '''p'''it
+|-
+||''m''|| {{IPA|[m]}}|| as in English
+|-
+||''f''|| {{IPA|[f]}}|| as in English
+|-
+||''d''|| {{IPA|[t]}}|| unaspirated '''t''', as in s'''t'''op
+|-
+||''t''|| {{IPA|[tʰ]}}|| aspirated '''t''', as in '''t'''op
+|-
+||''n''|| {{IPA|[n]}}|| as in English
+|-
+||''l''|| {{IPA|[l]}}|| something between the '''l''' in English and the continental '''r'''
+|-
+||''g''|| {{IPA|[k]}}|| unaspirated '''k''', as in s'''k'''ill
+|-
+||''k''|| {{IPA|[kʰ]}}|| aspirated '''k''', as in '''k'''ill
+|-
+||''h''|| {{IPA|[x]}}|| like the English '''h''' if followed by "a"; otherwise it is pronounced more roughly (not unlike the [[Scots language|Scots]] '''ch''')
+|-
+||''j''|| {{IPA|[tɕ]}}||  like '''q''', but unaspirated. (To get this sound, first take the sound halfway between '''j'''oke and '''ch'''eck, and then slowly pass it backwards along the tongue until it is entirely clear of the tongue tip.)  While this exact sound is not used in English, the closest match is the '''j''' in a'''j'''ar, not the '''s''' in A'''s'''ia; this means that "Beijing" is pronounced like "bay-jing", '''not''' like "beige-ing".
+|-
+||''q''|| {{IPA|[tɕʰ]}}|| like '''ch'''urch; pass it backwards along the tongue until it is free of the tongue tip
+|-
+||''x''|| {{IPA|[ɕ]}}|| like '''sh''', but take the sound and pass it backwards along the tongue until it is clear of the tongue tip; very similar to the final sound in [[German language|German]] i'''ch''', [[Portuguese language|Portuguese]] en'''x'''ada, lu'''x'''o, '''x'''ícara, pu'''x'''a, and to '''h'''uge or '''H'''ugh in some English dialects
+|-
+||''zh''|| {{IPA|[ʈʂ]}}|| '''ch''' with no aspiration (take the sound halfway between '''j'''oke and '''ch'''urch and curl it upwards); very similar to mer'''g'''er in American English, but not voiced
+|-
+||''ch''|| {{IPA|[ʈʂʰ]}}|| as in '''ch'''in, but with the tongue curled upwards; very similar to nur'''tu'''re or '''tr'''ee in American English, but strongly aspirated
+|-
+||''sh''|| {{IPA|[ʂ]}}|| as in '''sh'''inbone, but with the tongue curled upwards; very similar to under'''sh'''irt in American English
+|-
+||''r''|| {{IPA|[ʐ]}} or {{IPA|[ɻ]}}|| similar to the English '''r''' in '''r'''ank, but with the lips spread and with the tongue curled upwards
+|-
+||''z''|| {{IPA|[ts]}}|| unaspirated '''c''' (halfway between be'''ds''' and be'''ts''') (more common example is su'''ds''')
+|-
+||''c''|| {{IPA|[tsʰ]}}|| like '''ts''', aspirated (more common example is ca'''ts''')
+|-
+||''s''||  {{IPA|[s]}}|| as in '''s'''un
+|-
+||''w''||  {{IPA|[w]}} or {{IPA|[u]}}|| may be considered as an initial or a final, and may be pronounced as '''w''' or '''u''' as in English
+|-
+||''y''||  {{IPA|[j]}} or {{IPA|[i]}}|| may be considered as an initial or a final, and may be pronounced as '''y''' or '''i''' as in English
+|}
+
+===Pronunciation of finals===
+The following is an exhaustive list of all finals in [[Standard Mandarin]].  Those ending with a final '''-r''' are listed at the end.
+
+To find a given final:
+#Remove the initial consonant. For zh-, ch-, sh-, both letters should be removed, they are single consonants spelt with two letters.
+#Although y- and w- are consonants nevertheless they may be considered as part of finals and do not remove those.
+##Syllables beginning with y- and w- may be considered as standalone forms of finals "i, u, ü" and finals beginning with "i-, u-, ü-".
+#If a syllable begins with j-, q-, x-, or y-, and the final is -u or starts with -u-, then change -u or -u- to -ü or -ü-.
+{| class="wikitable" style="font-size: 95%"
+!'''Pinyin'''||'''[[help:IPA|IPA]]'''||'''Final-only form'''||'''Explanation'''
+|-
+||''-i''|| {{IPA|[z̩]}}, {{IPA|[ʐ̩]}}  || ''n/a'' || Displayed as an "i" after: "zh", "ch", "sh", "r", "z", "c" or "s".  After "z", "c" or "s", sounds like a prolonged "zzz" sound.  After "zh", "ch", "sh" or "r", sounds like a prolonged American "r" sound.  In some dialects, pronounced slightly more open, allowing a clear-sounding vowel to pass through (a high, central, unrounded vowel, something like IPA {{IPA|/ɨ/}}; say 'zzz' and lower the tongue just enough for the buzzing to go away).
+|-
+||''a''|| {{IPA|[ɑ]}} ||'''a'''|| as in "f'''a'''ther"
+|-
+||''o''|| {{IPA|[uɔ]}} ||'''o'''|| starts with English "oo" and ends with a plain continental "o".
+|-
+||''e''|| {{IPA|[ɤ]}}, {{IPA|[ə]}} ||'''e'''|| a back, unrounded vowel, which can be formed by first pronouncing a plain continental "o" ([[Australian English|AuE]] and [[New Zealand English|NZE]] l'''aw''') and then spreading the lips without changing the position of the tongue. That same sound is also similar to English "d'''uh'''", but not as open.  Many unstressed syllables in Chinese use the [[schwa]] (ide'''a'''), and this is also written as ''e''.
+|-
+||''ê''|| {{IPA|[ɛ]}} ||(n/a)|| as in "b'''e'''t". Only used in certain interjections.
+|-
+||''ai''|| {{IPA|[aɪ]}} ||'''ai'''|| like English "eye", but a bit lighter
+|-
+||''ei''|| {{IPA|[ei]}} ||'''ei'''|| as in "h'''ey'''"
+|-
+||''ao''|| {{IPA|[ɑʊ]}} ||'''ao'''|| approximately as in "c'''ow'''"; the ''a'' is much more audible than the ''o''
+|-
+||''ou''|| {{IPA|[ou̯]}} ||'''ou'''|| as in "s'''o'''"
+|-
+||''an''|| {{IPA|[an]}} ||'''an'''|| starts with plain continental "a" ([[Australian English|AuE]] and [[New Zealand English|NZE]] b'''u'''d) and ends with "n"
+|-
+||''en''|| {{IPA|[ən]}} ||'''en'''|| as in "tak'''en'''"
+|-
+||''ang''|| {{IPA|[ɑŋ]}} ||'''ang'''|| as in German ''Angst'', including the English loan word ''angst'' (starts with the vowel sound in f'''a'''ther and ends in the [[velar nasal]]; like s'''ong''' in American English)
+|-
+||''eng''|| {{IPA|[ɤŋ]}} ||'''eng'''||like ''e'' above but with ng added to it at the back
+|-
+||''ong''|| {{IPA|[ʊŋ]}} ||''n/a'''|| starts with the vowel sound in b'''oo'''k and ends with the velar nasal sound in si'''ng'''
+|-
+||''er''|| {{IPA|[ɑɻ]}} ||'''er'''|| like English "are" (exists only on its own, or as the last part of a final in combination with others - see bottom of this list)
+|-
+! colspan=4 | Finals beginning with i- (y-)
+|-
+||''i''|| {{IPA|[i]}} ||'''yi'''|| like English "ee", except when preceded by "c", "ch", "r", "s", "sh", "z" or "zh"
+|-
+|| ''ia'' || {{IPA|[iɑ]}} ||'''ya'''|| as '''i''' + '''a'''; like English "'''ya'''rd"
+|-
+|| ''io'' || {{IPA|[iɔ]}} ||'''yo'''|| as '''i''' + plain continental "o". Only used in certain interjections.
+|-
+||''ie''|| {{IPA|[iɛ]}} ||'''ye'''|| as '''i''' + '''ê'''; but is very short; ''e'' (pronounced like ''ê'') is pronounced longer and carries the main stress (similar to the initial sound '''ye''' in '''yet''')
+|-
+||''iao''|| {{IPA|[iɑʊ]}} ||'''yao'''|| as '''i''' + '''ao'''
+|-
+||''iu''|| {{IPA|[iou̯]}} ||'''you'''|| as '''i''' + '''ou'''
+|-
+||''ian''|| {{IPA|[iɛn]}} ||'''yan'''|| as '''i''' + '''ê''' + '''n'''; like English '''yen'''
+|-
+||''in''|| {{IPA|[in]}} ||'''yin'''|| as '''i''' + '''n'''
+|-
+||''iang''|| {{IPA|[iɑŋ]}} ||'''yang'''|| as '''i''' + '''ang'''
+|-
+||''ing''|| {{IPA|[iŋ]}} ||'''ying'''|| as '''i''' but with ng added to it at the back
+|-
+||''iong''|| {{IPA|[iʊŋ]}} ||'''yong'''|| as '''i''' + '''ong'''
+|-
+! colspan=4 | Finals beginning with u- (w-)
+|-
+||''u''|| {{IPA|[u]}} ||'''wu'''|| like English "oo"
+|-
+||''ua''|| {{IPA |[ua]}} ||'''wa'''|| as '''u''' + '''a'''
+|-
+||''uo''|| {{IPA|[uɔ]}} ||'''wo'''|| as '''u''' + '''o'''; the ''o'' is pronounced shorter and lighter than in the ''o'' final
+|-
+||''uai''|| {{IPA|[uaɪ]}} ||'''wai'''|| as '''u''' + '''ai'''
+|-
+||''ui''|| {{IPA|[ueɪ]}} ||'''wei'''|| as '''u''' + '''ei'''; here, the ''i'' is pronounced like ''ei''
+|-
+||''uan''|| {{IPA|[uan]}} ||'''wan'''|| as '''u''' + '''an'''
+|-
+||''un''|| {{IPA|[uən]}} ||'''wen'''|| as '''u''' + '''en'''; like the ''on'' in the English ''won''
+|-
+||''uang''|| {{IPA|[uɑŋ]}} ||'''wang'''|| as '''u''' + '''ang'''; like the ''ang'' in English ''angst'' or ''anger''
+|-
+||''n/a''|| {{IPA|[uɤŋ]}} ||'''weng'''|| as '''u''' + '''eng'''
+|-
+! colspan=4 | Finals beginning with ü- (yu-)
+|-
+||''ü''|| {{IPA|[y]}} ||'''yu'''|| as in German "'''ü'''ben" or French "l'''u'''ne" (To get this sound, say "ee" with rounded lips)
+|-
+||''ue''|| {{IPA|[yɛ]}} ||'''yue'''|| as '''ü''' + '''ê'''; the ''ü'' is short and light
+|-
+||''üan''|| {{IPA|[yɛn]}} ||'''yuan'''|| as '''ü''' + '''ê'''+ '''n'''; 
+|-
+||''ün''|| {{IPA|[yn]}} ||'''yun'''|| as '''ü''' + '''n''';  
+|}
+
+{| class="wikitable" style="font-size: 95%"
+|-
+! colspan=3 | Finals that are a combination of finals above + '''r''' final 
+|-
+!'''Pinyin'''||'''[[help:IPA|IPA]]'''||'''Explanation'''
+|-
+| ar || {{IPA|[ɑɻ]}} || like ''ar'' in American English "art"
+|-
+| er || {{IPA|[ɤɻ]}} || as '''e''' + '''r'''; not to be confused with ''er'' final on its own- this form only exists with an initial character before it
+|-
+| or || {{IPA|[uɔɻ]}} || as '''o''' + '''r'''
+|-
+| air || {{IPA|[ɑɻ]}} || as '''ar'''
+|-
+| eir || {{IPA|[ɝ]}} || as schwa + '''r'''
+|-
+| aor || {{IPA|[ɑʊɻ]}} || as '''ao''' + '''r'''
+|-
+| our || {{IPA|[ou̯ɻ]}} || as '''ou''' + '''r'''
+|-
+| anr || {{IPA|[ɑɻ]}} || as '''ar'''
+|-
+| enr || {{IPA|[ɝ]}} || as schwa + '''r'''
+|-
+| angr || {{IPA|[ɑ̃ɻ]}} || as '''ang''' + '''r''', with '''ng''' removed and the vowel nasalized
+|-
+| engr || {{IPA|[ɤ̃ɻ]}} || as '''eng''' + '''r''', with '''ng''' removed and the vowel nasalized
+|-
+| ongr || {{IPA|[ʊ̃ɻ]}} || as '''ong''' + '''r''', with '''ng''' removed and the vowel nasalized
+|-
+| ir || {{IPA|[iɝ]}} || as '''i''' + schwa + '''r'''
+|-
+| ir || {{IPA|[ɝ]}} || after "c", "ch", "r", "s", "sh", "z", "zh": as schwa + '''r'''.
+|-
+| iar || {{IPA|[iɑɻ]}} || as '''i''' + '''ar'''
+|-
+| ier || {{IPA|[iɛɻ]}} || as '''ie''' + '''r'''
+|-
+| iaor || {{IPA|[iɑʊɻ]}} || as '''iao''' + '''r'''
+|-
+| iur || {{IPA|[iou̯ɻ]}} || as '''iou''' + '''r'''
+|-
+| ianr ||{{IPA|[iɑɻ]}} || as '''i''' + '''ar'''
+|-
+| inr || {{IPA|[iɝ]}} || as '''ir'''
+|-
+| iangr || {{IPA|[iɑ̃ɻ]}} || as '''i''' + '''angr'''
+|-
+| ingr || {{IPA|[iɤ̃ɻ]}} || as '''i''' + '''engr'''
+|-
+| iongr || {{IPA|[iʊ̃ɻ]}} || as '''i''' + '''ongr'''
+|-
+| ur || {{IPA|[uɻ]}} || as '''u''' + '''r'''
+|-
+| uar || {{IPA|[uɑɻ]}} || as '''u''' + '''ar'''
+|-
+| uor || {{IPA|[uɔɻ]}} || as '''uo''' + '''r'''
+|-
+| uair || {{IPA|[uɑɻ]}} || as '''u''' + '''ar'''
+|-
+| uir || {{IPA|[uɝ]}} || as '''u''' + schwa + '''r'''
+|-
+| uanr || {{IPA|[uɑɻ]}} || as '''u''' + '''ar'''
+|-
+| unr || {{IPA|[uɝ]}} || as '''u''' + schwa + '''r'''
+|-
+| uangr || {{IPA|[uɑ̃ɻ]}} || as '''u''' + '''angr'''
+|-
+| ür || {{IPA|[yɝ]}} || as '''ü''' + schwa + '''r'''
+|-
+| uer || {{IPA|[yɛɻ]}} || as '''ue''' + '''r'''
+|-
+| üanr || {{IPA|[yɑɻ]}} || as '''ü''' + '''ar'''
+|-
+| ünr || {{IPA|[yɝ]}} || as '''ü''' + schwa + '''r'''
+|}
+
+== Orthography ==
+===Letters===
+Pinyin differs from other romanizations in several aspects, such as the following:
+
+* Syllables starting with ''u'' are written as ''w'' in place of ''u'' (e.g. ''ueng'' is written as ''weng''). Standalone ''u'' is written as ''wu''.
+* Syllables starting with ''i'' are written as ''y'' in place of ''i'' (e.g. ''iou'' is written as ''you''). Standalone ''i'' is written as ''yi''.
+* Syllables starting with ''ü'' are written as ''yu'' in place of ''ü'' (e.g. ''üe'' is written as ''yue'').
+* ''ü'' is written as ''u'' when there is no ambiguity (such as ''ju'', ''qu'', and ''xu''), but written as ''ü'' when there are corresponding ''u'' syllables (such as ''lü'' and ''nü'').  In such situations where there are corresponding ''u'' syllables, it is often replaced with ''v'' on a computer, making it easier to type on a standard keyboard.
+* When preceded by a consonant, ''iou'', ''uei'', and ''uen'' are simplified as ''iu'', ''ui'', and ''un'' (which do not represent the actual pronunciation).
+* As in [[zhuyin]], what are actually pronounced as ''buo'', ''puo'', ''muo'', and ''fuo'' are given a separate representation: ''bo'', ''po'', ''mo'', and ''fo''.
+* The [[apostrophe]] (') is used before ''a'', ''o'', and ''e'' to separate syllables in a word where ambiguity could arise, e.g., ''pi'ao'' ({{zh-st|s=皮袄|t=皮襖}}) vs. ''piao'' (票), and ''[[Xi'an]]'' (西安) vs. ''xian'' (先).
+* ''[[Eh#Similar terms in other languages|Eh]]'' alone is written as ''ê''; elsewhere as ''e''. [[Schwa]] is always written as ''e''.
+* ''zh'', ''ch'', and ''sh'' can be abbreviated as ''ẑ'', ''ĉ'', and ''ŝ'' (''z'', ''c'', ''s'' with a [[circumflex]]). However, the shorthands are rarely used due to difficulty of entering them on computers.
+* ''ng'' has the uncommon shorthand of ''[[ŋ]]''.
+
+Most of the above are used to avoid ambiguity when writing words of more than one syllable in pinyin.  For example uenian is written as ''wenyan'' because it is not clear which syllables make up ''uenian''; ''uen-ian'', ''uen-i-an'' and ''u-en-i-an'' are all possible combinations whereas ''wenyan'' is unambiguous because ''we'', ''nya'', etc. do not exist in pinyin. A summary of possible pinyin syllables (not including tones), can be reviewed at: [[pinyin table]]
+
+===Capitalization & word formation===
+Although Chinese characters represent single syllables, Mandarin Chinese is a [[polysyllabic]] language.  Spacing in Hanyu Pinyin is based on whole words, not single syllables.  However, there are often ambiguities in partitioning a word.  Orthographic rules were put into effect in 1988 by the National Educational Commission (国家教育委员会) and the National Language Commission (国家语言文字工作委员会).
+
+#'''General'''
+##'''Single meaning:''' Words with a single meaning, which are usually set up of two characters (sometimes one, seldom three), are written together and not capitalized: rén; péngyou, qiǎokèlì (person; friend; chocolate)
+##'''Combined meaning (2 characters):''' Same goes for words combined of two words to one meaning: hǎifēng; wèndá, quánguó (sea breeze; Q&A; 'pan-national')
+##'''Combined meaning (4 or more characters):''' Words with four or more characters having one meaning are split up with their original meaning if possible: wúfèng gāngguǎn; huánjìng bǎohù guīhuà (seamless steel-tube; environmental protection planning)
+#'''Duplicated words'''
+##'''AA:''' Duplicated characters (AA) are written together: rénrén (everybody), kànkàn (to have a look), niánnián (every year)
+##'''ABAB:''' two characters duplicated (ABAB) are written separated: yánjiū yánjiū (to study, to research), xuěbái xuěbái (snow-white)
+##'''AABB:''' A hyphen is used with the schema AABB: láilái-wǎngwǎng (go back and forth), qiānqiān-wànwàn (numerous)
+#'''Nouns and names''' (míngcí): Nouns are written in one: zhuōzi (table), mùtou (wood)
+##Even if accompanied by a prefix and suffix: fùbùzhǎng (vice minister), chéngwùyuán (conductor), háizimen (children)
+##Words of position are separated: mén wài (outdoor), hé li (in the river), huǒchē shàngmian (on the train), Huáng Hé yǐnán (south of the Yellow River) 
+###Exceptions are words traditionally connected: tiānshang (in the sky), dìxia (on the ground), kōngzhōng (in the air), hǎiwài (overseas)
+##Surnames are separated from the given name: Lǐ Huá,  Zhāng Sān. If the given name consists of two syllables, it should be written as one: Wáng Jiàngguó.
+##Titles following the name are separated and are not capitalized: Wáng bùzhǎng (minister Wang), Lǐ xiānsheng (Mr. Li), Tián zhǔrèn (director Tian), Zhào tóngzhì (comrade Zhao).
+##The forms of addressing people with ''Lǎo'', ''Xiǎo'', ''Dà'' and ''A'' are capitalized: Xiǎo Liú ([young] Ms. Liu), Dà Lǐ ([great] Mr. Li), A Sān (Ah San), Lǎo Qián ([senior] Mr. Qian), Lǎo Wú ([senior] Ms. Wu)
+###Exceptions are: Kǒngzǐ (Master Confucius), Bāogōng (Judge Bao), Xīshī (a historical person), Mèngchángjūn (a historical person)
+##Geographical names of China: Běijīng Shì (City of Beijing), Héběi Shěng (Province of Hebei), Yālù Jiāng (Yalu River), Tài Shān (Mt. Taishan), Dòngtíng Hú (Lake Donting), Táiwān Hǎixiá (Taiwan strait)
+##Non-Chinese names translated back from Chinese will be written by their original writing: Marx, Einstein, London, Tokyo
+#'''Verbs''' (dòngcí): Verbs and their suffixes (-zhe, -le and -guo) are written as one: kànzhe/kànle/kànguo (to see/saw/seen), jìngxíngzhe (to implement). ''Le'' as it appears in the end of a sentence is separated though: Huǒchē dào le (The train [has] arrived).
+##Verbs and their objects are separated: kàn xìn (read a letter), chī yú (eat fish), kāi wánxiào (to be kidding).
+##If verbs and their complements are each monosyllabic, they are written together, if not, separated: gǎohuài ("to make broken"), dǎsǐ (hit to death), huàwéi ("to become damp"), zhěnglǐ hǎo (to straighten out), gǎixiě wéi (rewrite a screenplay)
+#'''Adjectives''' (xíngróngcí): A monosyllabic adjective and its reduplication are written as one: mēngmēnglìang (dim), lìangtāngtāng (shining bright)
+##Complements of size or degree (as ''xiē'', ''yīxiē'', ''diǎnr'', ''yīdiǎnr'') are written separated: dà xiē (a little bigger), kuài yīdiānr (a bit faster)
+#'''Pronouns''' (dàicí)
+##The plural suffix ''-men'' directly follows up: wǒmen (we), tāmen (they)
+##The demonstrative pronoun zhè (this), nà (that) and the question pronoun nǎ (which) are separated: zhè rén (this person), nà cì huìyì (that meeting), nǎ zhāng bàozhǐ (which newspaper)
+###Exceptions are: nàli (there), zhèbian (over here), zhège (this piece), zhème (so), zhèmeyàng (that way)... and similar ones.
+#'''Numerals and measure words''' (shùcí hé liàngcí)
+##Words like ''gè''/''měi'' (every, each), ''mǒu'' (any), ''běn'' (that), ''gāi'' (that), ''wǒ'' (mine, our), are separated from the measure words following them: gè guó (every nation), gè gè (everyone), měi nián (every year), mǒu gōngchǎng (a certain factory), wǒ xiào (our school).
+
+== Tones ==
+[[Image:Pinyin Tone Chart.svg|right|thumb|115px|Relative pitch changes of the four tones]]
+The pinyin system also incorporates [[suprasegmental]] [[grapheme]]s to represent the four [[Standard Mandarin#Tones|tones of Mandarin]]. Each tone is indicated by a diacritical mark above a non-medial [[vowel]].  Many books printed in China mix fonts, with vowels and tone marks rendered in a different font than the surrounding text, tending to give such pinyin texts a typographically ungainly appearance. This style, most likely rooted in early technical limitations, has led many to believe that pinyin's rules call for this practice and also for the use of "α" (with no curl over the top) rather than the standard style of the letter "a" found in most fonts. The official rules of Hanyu Pinyin, however, specify no such practice. Note that tone marks can also appear on consonants in certain vowelless exclamations.
+
+# The first tone (Flat or High Level Tone) is represented by a [[macron]] (ˉ) added to the pinyin vowel:
+#:<br/><span style="font-size: 20pt;">{{Unicode|(ᾱ) ā ē ī ō ū ǖ Ā Ē Ī Ō Ū Ǖ}}</span>
+# The second tone (Rising or High-Rising Tone) is denoted by an [[acute accent]] (ˊ):
+#:<br/><span style="font-size: 20pt;">{{Unicode|(ά) á é í ó ú ǘ Á É Í Ó Ú Ǘ}}</span>
+# The third tone (Falling-Rising or Low Tone) is symbolized by a [[caron]]/háček ( ˇ ). Note, it is officially not a [[breve]] ( ˘ ), which lacks a downward [[angle]], although this misuse is somewhat common on the Internet.  
+#:<br/><span style="font-size: 20pt;">{{Unicode|(α̌) ǎ ě ǐ ǒ ǔ ǚ Ǎ Ě Ǐ Ǒ Ǔ Ǚ}}</span>
+# The fourth tone (Falling or High-Falling Tone) is represented by a [[grave accent]] (ˋ):
+#:<br/><span style="font-size: 20pt;">{{Unicode|(ὰ) à è ì ò ù ǜ À È Ì Ò Ù Ǜ}}</span>
+# The fifth or neutral tone (Neutral Tone) is represented by a normal vowel without any accent mark: 
+#:<br/><span style="font-size: 20pt;">{{Unicode|(ɑ) a e i o u ü A E I O U Ü}}</span>
+:(In some cases, this is also written with a dot before the syllable; for example, ·ma.)
+
+These tone marks normally are only used in Mandarin textbooks or in foreign learning texts, but they are essential for correct pronunciation of Mandarin syllables, as exemplified by the following classic example of five characters whose pronunciations differ only in their tones:
+{| class="wikitable"
+||
+
+Traditional characters:
+
+{{Ruby-big|媽|mā}}
+{{Ruby-big|麻|má}}
+{{Ruby-big|馬|mǎ}}
+{{Ruby-big|罵|mà}}
+{{Ruby-big|嗎|·ma}}
+
+Simplified characters:
+
+{{Ruby-big|妈|mā}}
+{{Ruby-big|麻|má}}
+{{Ruby-big|马|mǎ}}
+{{Ruby-big|骂|mà}}
+{{Ruby-big|吗|·ma}}
+||
+{{Listen|filename=Zh-pinyin_tones_with_ma.ogg |title=mā má mǎ mà |description=A sound sample of the four tones}}
+|}
+
+The words are "mother", "hemp", "horse", "admonish" and a question particle, respectively.
+
+===Numbers in place of tone marks===
+Since most computer fonts do not contain the macron or caron accents, a common convention is to add a digit representing the tone to the end of individual syllables.  For example, "tóng" (tong with the rising tone) is written "tong2". 
+The number used for each tone is as the order listed above (except the "fifth tone", which, in addition to being numbered 5, is also sometimes not numbered or numbered zero, as in ''ma0'' (吗/嗎, an [[interrogative]] marker). 
+{| class="wikitable"
+|-
+! Tone !! Tone Mark !! Number added to end of syllable<br>in place of tone mark !! Example using<br>tone mark !! Example using<br>number!![[help:IPA|IPA]]
+|-
+| First || [[macron]] ( ˉ ) || style="text-align: center" | 1 || style="text-align: center" |mā || style="text-align: center" |ma1||{{IPA|mɑ˥˥}}
+|-
+| Second|| [[acute accent]] ( ˊ ) || style="text-align: center" | 2 || style="text-align: center" |má || style="text-align: center" |ma2||{{IPA|mɑ˧˥}}
+|-
+| Third || [[caron]] ( ˇ ) || style="text-align: center" | 3 || style="text-align: center" |mǎ || style="text-align: center" |ma3||{{IPA|mɑ˨˩˦}}
+|-
+| Fourth || [[grave accent]] ( ˋ ) || style="text-align: center" | 4 || style="text-align: center" |mà || style="text-align: center" |ma4||{{IPA|mɑ˥˩}}
+|-
+| "Neutral" or "Fifth" || No mark <br>or dot before syllable (·) || style="text-align: center" | no number<br>5<br>0 || style="text-align: center" |ma<br>·ma|| style="text-align: center" |ma<br>ma5<br>ma0
+|}
+
+===Rules for placing the tone mark===
+The rules for determining on which vowel the tone mark appears are as follows:
+# If there is more than one vowel and the first vowel is ''i'', ''u'', or ''ü'', then the tone mark appears on the second vowel.{{Fact|date=February 2007}}
+# In all other cases, the tone mark appears on the first vowel.
+
+(''y'' and ''w'' are not considered vowels for these rules.)
+
+The reasoning behind these rules is in the case of [[diphthong]]s and [[triphthong]]s, ''i'', ''u'', and ''ü'' (and their orthographic equivalents ''y'' and ''w'' when there is no initial consonant) are considered [[medial (linguistics)|medial]] glides rather than part of the [[syllable nucleus]] in Chinese [[phonology]]. The rules ensure that the tone mark always appears on the nucleus of a syllable.
+
+Another algorithm for determining the vowel on which the tone mark appears is as follows:
+
+# First, look for an "a" or an "e". If either vowel appears, it takes the tone mark. There are no possible pinyin syllables that contain both an "a" and an "e".
+# If there is no "a" or "e", look for an "ou". If "ou" appears, then the "o" takes the tone mark.
+# If none of the above cases hold, then the last vowel in the syllable takes the tone mark.
+
+== The character "ü" ==
+An [[Umlaut (diacritic)|umlaut]] is placed over the letter ''u'' when it occurs after the initials ''l'' and ''n'' in order to represent the sound [y].  This is necessary in order to distinguish the front high rounded vowel in ''lü'' (e.g. 驴/驢 donkey) from the back high rounded vowel in ''lu'' (e.g. 炉/爐 oven).  Tonal markers are added on top of the umlaut, as in ''lǘ''.
+
+However, the ''ü'' is ''not'' used in other contexts where it represents a front high rounded vowel, namely after the letters ''j'', ''q'', ''x'' and ''y''.  For example, the sound of the word 鱼/魚 (fish) is transcribed in pinyin simply as ''yú'', not as ''yǘ''. This practice is opposed to [[Wade-Giles]], which always uses ''ü'', and [[Tongyong Pinyin]], which always uses ''yu''.  Whereas Wade-Giles needs to use the umlaut to distinguish between ''chü'' (pinyin ''ju'') and ''chu'' (pinyin ''zhu''), this ambiguity cannot arise with pinyin, so the more convenient form ''ju'' is used instead of ''jü''.  Genuine ambiguities only happen with ''nu''/''nü'' and ''lu''/''lü'', which are then distinguished by an umlaut diacritic.
+
+Many fonts or output methods do not support an umlaut for ''ü'' or cannot place tone marks on top of ''ü''.  Likewise, using ''ü'' in input methods is difficult because it is not present as a simple key on many keyboard layouts.  For these reasons ''v'' is sometimes used instead by convention.  Occasionally, ''uu'' (double ''u''), ''u:'' (''u'' followed by a colon) or ''U'' (capital ''u'') is used in its place.
+
+== Comparison chart ==
+{{Pinyintable}}
+
+==Pinyin in Taiwan==
+[[Taiwan]] has adopted [[Tongyong Pinyin]] on the national level since October 2002. Tongyong Pinyin is a modified version of Hanyu Pinyin. The adoption of Tongyong Pinyin has also resulted in political controversy. Much of the controversy centered on issues of national identity, with proponents of [[Chinese reunification]] favoring the Hanyu Pinyin system which is used on the People's Republic of China, and proponents of Taiwanese independence favoring the use of Tongyong Pinyin.{{Fact|date=February 2007}}
+
+Localities with governments controlled by the [[Kuomintang]], most notably [[Taipei City]], have overridden the 2002 administrative order and converted to Hanyu Pinyin (although with a slightly different capitalization convention than the Mainland). As a result, the use of romanization on signage in Taiwan is inconsistent, with many places using Tongyong Pinyin but some using Hanyu Pinyin, and still others not yet having had the resources to replace older [[Wade-Giles]] or [[MPS2]] signage. This has resulted in the odd situation in Taipei City in which inconsistent pinyin are shown in freeway directions, with freeway signs, which are under the control of the national government, using one pinyin, but surface street signs, which are under the control of the city government, using the other.{{Fact|date=February 2007}}  This situation is also ironic in a historical sense, as it was the KMT that long promoted the use of Wade-Giles system (of which Taiwan Pinyin is essentially a modified form).
+
+Primary education continues to teach pronunciation using the [[zhuyin]] system in Taiwan. Although the ROC government has stated the desire to use romanization rather than [[zhuyin]] in education, the lack of agreement on which form of pinyin to use and the huge logistical challenge of teacher training has stalled these efforts.{{Fact|date=February 2007}}
+
+==Other languages==
+Pinyin-like systems have been devised for other variants of Chinese. [[Guangdong Romanization]] is a set of romanizations devised by the government of [[Guangdong]] province for [[Standard Cantonese|Cantonese]], [[Teochew dialect|Teochew]], [[Hakka (linguistics)|Hakka]] ([[Moiyen dialect]]), and [[Hainan dialect|Hainanese]]. All of these are designed to use Latin letters in a similar way to pinyin.
+
+In addition, in accordance to the ''Regulation of Phonetic Transcription in Hanyu Pinyin Letters of Place Names in Minority Nationality Languages'' (少数民族语地名汉语拼音字母音译转写法) promulgated in 1976, place names in non-Chinese languages like [[Mongol language|Mongol]], [[Uyghur language|Uyghur]], and [[Tibetan language|Tibetan]] are also officially transcribed using pinyin. The pinyin letters (26 Roman letters, ü, ê) are used to approximate the non-Chinese language in question as closely as possible. This results in spellings that are different from both the customary spelling of the place name, and the pinyin spelling of the name in Chinese:
+
+{| class="wikitable"
+! Customary !! Official (Pinyin for local name) !! Chinese name!!Pinyin for Chinese name
+|-
+| [[Shigatse]] || Xigazê || 日喀则 || Rìkāzé
+|-
+| Urumchi || [[Ürümqi]] || 乌鲁木齐 || Wūlǔmùqí
+|-
+| [[Lhasa]] || Lhasa || 拉萨 || Lāsà
+|-
+|[[Golmud]] || Golmud || 格尔木 ||Gé'ěrmù
+|}
+
+:''See also: [[Tibetan Pinyin]]
+
+==Controversy==
+Debate continues about the actual suitability of pinyin as a Chinese romanization method for non-Chinese speakers. This argument revolves around pinyin's unconventional use of some Roman letters, of which the [[phonology|phonological]] values are quite different from that of most languages written in the [[Roman alphabet]], in particular English. These values may be found in other languages that are written in Roman letters, but unconventional pinyin letter values result in a larger number of mispronunciations compared to [[Wade-Giles]] romanization{{Fact|date=December 2007}}. However, as not only the PRC but by now most institutions and publications have adopted it, the debate seems increasingly obsolete.
+
+Pinyin, like all systems of romanization, has certain limitations that users should be aware of:
+* Like the spelling systems of any other language, pinyin does not represent English pronunciation and should not be pronounced according to English conventions.  Readers are advised to learn pinyin phonetic conventions, bearing in mind that many sounds have no equivalents in English.
+* Chinese characters can indicate [[semantic]] cues. But since pinyin is based only on the sounds of [[Standard Mandarin]], these semantic cues are no longer preserved.  For speakers of [[Chinese spoken languages|other Chinese spoken variants]] who do not speak Standard Mandarin, pinyin is unsuitable for use in reading and writing because these sounds do not correspond to their speech. 
+* The [[phonotactics]] of spoken Mandarin dictate a relatively small set of possible syllables resulting in many [[homophone]]s. Because of this, pinyin can be more ambiguous than Chinese characters,<ref>Chinese characters can also be ambiguous in that the same character can represent two or more different meanings and two or more different pronunciations in standard Mandarin.  For example, the character 中 can be pronounced as either "zhōng" or "zhòng" and may have the meaning of any one of the several meanings of these two words,</ref> especially when transcribing [[Standard Written Chinese]], which uses formal constructions not often found in speech.  However, this should not be much of an issue in the transcription of normal spoken Mandarin conversation since speakers generally do not use such highly ambiguous constructions in speech. And Pinyin, as an accurate and unambiguous written representation of the sounds of Mandarin, should not be notably more ambiguous than other languages written with an alphabet.
+
+Early computer systems, which were able to display only 7-bit [[ASCII]] text (essentially the 26 letters, the 10 digits and punctuation marks) long provided the most convincing argument in favor of pinyin.  Today however, most computer systems are able to display characters from Chinese and many other writing systems as well. [[Input method editor]]s are software solutions which allow users to use a standard PC keyboard to type characters not found on their keyboards (such as Chinese). [[Personal digital assistant|PDAs]], [[Tablet pc|tablet PCs]] and [[digitizing tablet]]s allow users to input characters by writing with a [[stylus]].  Programs are available to convert Chinese characters into pinyin<ref>http://www.chinese-tools.com/tools/pinyin.html Chinese Pronunciation Tool</ref>. 
+
+Pinyin is used by the majority of foreign students learning Chinese as a second language.
+
+==Accessibility note==
+Some Internet users using the Internet Explorer browser may have difficulty displaying characters bearing the third tone mark.  If the following character displays as an empty square box: ǔ, do the following:  on the Internet Explorer menu at the top of the screen select "Tools," then "Internet Options," then "Accessibility."  Check the box labeled "Ignore font styles specified on Web pages."  Click "OK."  After that, select "Tools," then "Internet Options," then "Fonts."  In the menu at the left, select "Arial Unicode MS" (or "Arial," if this font is not available), then click "OK."  It may also be necessary to select "View," then "Encoding," then "Unicode (UTF-8)."
+
+=== Entering toned pinyin with Mac OS X ===
+Activate the "US Extended" keyboard in ''[[System Preferences]]'' and then do:
+* Option-a and then <vowel> to create the first tones: ā, ē, ī, ō, ū
+* Option-e and then <vowel> to create the second tones: á, é, í, ó, ú
+* Option-v and then <vowel> to create the third tone: ǎ, ě, ǐ, ǒ, ǔ
+* Option-` and then <vowel> to create the fourth tone: à, è, ì, ò, ù
+* u and then Shift-Option-u and then Shift-Option-<a, e, v or `> gives ǖ, ǘ, ǚ or ǜ.
+* v may be entered as a <vowel> to produce a ü.  For instance, Option-e v produces ǘ.  Option-u u produces a ü without tone marks.
+
+=== Entering toned pinyin with Windows ===
+Many Chinese IME's allow an additional Hanyu Pinyin toggle in addition to the simplified/traditional toggle. The user can then type pinyin and tone marks using the alphanumeric keys on a standard keyboard; the popular [[:zh:紫光拼音输入法|Ziguang Pinyin IME]] is one such example. [http://www.chinese-forums.com/showthread.php?t=13005 Pinyinput] is a Windows-based IME that allows you to type toned pinyin with ease.  Because it works at the system level, it will allow you to type pīnyīn with tones in any Windows program just as easily as you would type Chinese (in fact even easier, because you don't need to select the correct character).  Activate the IME then start typing pinyin.  Type a number from 1-4 after a pinyin syllable, and the corresponding tone will automatically be placed on the correct vowel of that syllable.
+
+==Further reading==
+*Gao, J. K. (2005). ''Pinyin shorthand: a bilingual handbook = [Pinyin su ji fa]''. Dallas, TX: Jack Sun. ISBN 1599712512
+*Kimball, R. L. (1988). ''Quick reference Chinese: a practical guide to Mandarin for beginners and travelers in English, Pinyin romanization, and Chinese characters''. San Francisco, CA: China Books & Periodicals. ISBN 0835120368
+*Wu, C.-j. (1979). ''The Pinyin Chinese-English dictionary''. Hong Kong: Commercial Press. ISBN 0471275573
+
+== See also ==
+* [[Tongyong Pinyin]]
+* [[Pinyin table]]
+* [[List of ISO transliterations]]
+* [[Tibetan Pinyin]]
+* [[Legge romanization]]
+* [[Chinese Postal Map Romanization]]
+* [[Combining diacritic marks]]
+
+==References==
+*Yin Binyong 尹斌庸 and Mary Felley (1990). ''Chinese Romanization''. Pronunciation and Orthography (Hanyu pinyin he zhengcifa 汉语拼音和正词法). Beijing: Sinolingua. ISBN 7-80052-148-6 / ISBN 0-8351-1930-0.
+
+==Notes==
+{{reflist}} <!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes -->
+
+==External links==
+===Auto-converters===
+* [http://www.chinese-forums.com/showthread.php?t=13005 Pinyinput] An IME that outputs pinyin with tone marks and greatly simplifies the process of entering pinyin with tone marks on Windows.
+* [http://pinyin4j.sourceforge.net/ Pinyin4j: Java library supporting Chinese to various pinyin representations] Supports Simplified and Traditional Chinese; target pinyin systems include Hanyu Pinyin, Tongyong Pinyin, Wade-Giles, MPS2, Yale and Gwoyeu Romatzyh; supports multiple pronunciations of a single character; supports customized output, such as ü or tone marks.
+*[http://www.cozychinese.com/convert/ Pinyin Translator]: Displays pinyin with tone marks for traditional or simplified Chinese text.  Pinyin is displayed after each Chinese word.  
+*[http://toshuo.com/pinyin-tone-tool Pinyin Tone Tool] Converts pinyin with tone numbers into pinyin with tone marks above the ''correct'' vowels.  Doesn't require page re-loads. 
+* [http://www.longjiang.org/pinyin/ Pinyin Annotator] Displays pinyin above any Chinese text (in Firefox) or next to individual words (in IE).  Mouse over any word to see English translation.  Save output to [http://www.openoffice.org/ OpenOffice Writer] format.  Prints nicely.  Also adds pinyin to any Chinese web page.
+*[http://www.clavisinica.com/annotator.html Pinyin Annotation Tool] Displays pinyin below any simplified Chinese text. Offers choice of annotating all characters or only less common characters, depending on skill level.
+
+===Other===
+* [http://www.wordproject.org/multi/bi_en_cn_py.htm Pinyin Bible]
+* [http://www.math.nus.edu.sg/aslaksen/read.shtml Read/Write using Unicode]
+* [http://research.chtsai.org/papers/pinyin-comparison.html Tongyong and Hanyu Pinyin]
+* [http://www.pinyin.info/ Hanyu Pinyin Information]
+* [http://www.cozywebsite.com/dictionary/zhuyin/ Zhuyin->Wade-Giles->Pinyin->Word List]
+* [[wikt:Main Page|English Wiktionary]] - Useful resource for identifying Chinese characters (copy and paste individual characters into "search" box)
+* [[:Wiktionary:Index:Chinese Pinyin|Wiktionary:Pinyin index]]
+* [http://www.newconcept.com/Reference/how_input_chinese.html How to use Pinyin to input Chinese?]
+* [http://www.loc.gov/catdir/pinyin/romcover.html U.S. Library of Congress conversion page]
+
+[[Category:ISO standards]]
+[[Category:Chinese romanization]]
+[[Category:Phonetic alphabets]]
+[[Category:Mandarin words and phrases]]
+
+[[ar:بينيين]]
+[[ast:Pinyin]]
+[[br:Pinyin]]
+[[bg:Пинин]]
+[[ca:Pinyin]]
+[[cs:Pinyin]]
+[[da:Pinyin]]
+[[de:Pinyin]]
+[[et:Pinyin]]
+[[es:Pinyin]]
+[[eo:Hanyu Pinyin]]
+[[eu:Hanyu Pinyin]]
+[[fa:پین یین]]
+[[fr:Hanyu pinyin]]
+[[gl:Pinyin]]
+[[ko:병음]]
+[[hr:Pinyin]]
+[[id:Hanyu Pinyin]]
+[[ia:Pinyin]]
+[[is:Hanyu Pinyin]]
+[[it:Pinyin]]
+[[he:פין-יין]]
+[[lt:Pinyin]]
+[[hu:Pinjin]]
+[[ms:Pinyin]]
+[[nl:Hanyu pinyin]]
+[[ja:ピン音]]
+[[no:Pīnyīn]]
+[[pl:Hanyu Pinyin]]
+[[pt:Pinyin]]
+[[ro:Pinyin]]
+[[ru:Пиньинь]]
+[[simple:Pinyin]]
+[[sk:Pchin-jin]]
+[[sl:Pinjin]]
+[[fi:Pinyin]]
+[[sv:Pinyin]]
+[[ta:பின்யின்]]
+[[th:พินอิน]]
+[[vi:Bính âm Hán ngữ]]
+[[tr:Hanyu Pinyin]]
+[[uk:Піньїнь]]
+[[zh:汉语拼音方案]]

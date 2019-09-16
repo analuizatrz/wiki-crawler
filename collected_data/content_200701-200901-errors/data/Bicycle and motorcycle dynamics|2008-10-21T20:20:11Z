@@ -1,0 +1,742 @@
+[[Image:BikeModel.jpg|thumb|A computer-generated, simplified model of bike and rider demonstrating an uncontrolled right turn.]]
+[[Image:Bike weaving.gif|thumb|Animation of a computer-generated, simplified model of bike and passive rider demonstrating uncontrolled [[#Weave|weave]].]]
+{{Portal|Cycling}}
+'''Bicycle and motorcycle dynamics''' is the [[science]] of the [[Motion (physics)|motion]] of [[bicycle]]s and [[motorcycle]]s and their components, due to the [[force]]s acting on them. [[Dynamics (physics)|Dynamics]] is a branch of [[classical mechanics]], which in turn is a branch of [[physics]]. Bicycles and motorcycles are both [[Single track|single-track]] [[vehicle]]s and so their motions have many fundamental attributes in common.
+
+Bike motions of interest include [[Mechanical equilibrium|balancing]], [[countersteering|steering]], [[brake|braking]], [[Suspension (vehicle)|suspension]] activation, and [[vibration]]. [[Experiment]]ation and [[mathematical model|mathematical analysis]] have shown that a bike stays upright when it is steered to keep its [[center of mass]] over its wheels. This steering is usually supplied by a rider, or in certain circumstances, by the bike itself. Long-standing hypotheses and claims that [[gyroscopic]] effect is the main stabilizing force have been discredited.<ref name="klein">{{cite web
+| url = http://www.losethetrainingwheels.org/default.aspx?Lev=2&ID=34
+| title = Bicycle Science
+| last = Klein
+| first = Richard E.
+| coauthors = et al
+| accessdate = 2008-09-09}}</ref><ref name="jones">{{cite journal
+| journal = Physics Today
+| volume = 23
+| issue = 4
+| year = 1970
+| pages = 34–40
+| title = The stability of the bicycle
+| last = Jones
+| first = David E. H.
+| url = http://socrates.berkeley.edu/%7Efajans/Teaching/MoreBikeFiles/JonesBikeBW.pdf
+| format = PDF
+| accessdate = 2008-09-09
+}}</ref> 
+  
+While remaining upright may be the primary goal of beginning riders, a bike must lean in order to maintain balance in a turn: the higher the [[speed]] or smaller the turn [[radius]], the more lean is required. This is necessary in order to balance the [[centrifugal force]]s of the turn with the [[gravitational force]]s of the lean. When braking, depending on the location of the combined center of mass of the bike and rider with respect to the point where the front wheel contacts the ground, bikes can either skid the front wheel or flip the bike and rider over the front wheel.
+
+==History==
+[[Image:Ravensburg Rutenfest 2005 Festzug Draisine.jpg|right|thumb|[[Draisine]].]]
+The history of the study of bike dynamics is nearly as old as the bicycle itself. It includes contributions from famous scientists such as [[William John Macquorn Rankine|Rankine]], [[Paul Émile Appell|Appell]], and [[Francis John Welsh Whipple|Whipple]]. In the early 1800s [[Karl Drais|Karl von Drais]] himself, credited with inventing the two-wheeled vehicle variously called the [[laufmaschine]], [[velocipede]], [[draisine]], and [[dandy horse]], showed that a rider could balance his device by steering the front wheel. By the end of the 1800s, Emmanuel Carvallo and Francis Whipple showed with [[Rigid body kinetics|rigid-body dynamics]] that some safety bicycles could actually balance themselves if moving at the right speed. It is not clear to whom should go the credit for tilting the steering axis from the vertical which helps make this possible. In 1970, David Jones published an article in ''Physics Today'' showing that gyroscopic effects are not necessary to balance a bicycle. In 2007, Meijaard, Papadopoulos, Ruina, and Schwab published the canonical linearized [[Equation of motion|equations of motion]], in the [[Royal_Society#Publications|''Proceedings of the Royal Society A'']], along with verification by two different methods.<ref name=MPRS>{{cite journal
+| journal = Proc. R. Soc. A.
+| volume = 463
+| issue = 2084
+| year = 2007
+| pages = 1955–1982
+| title = Linearized dynamics equations for the balance and steer of a bicycle: a benchmark and review
+| last = Meijaard, Papadopoulos, Ruina, and Schwab
+| doi = 10.1098/rspa.2007.1857
+}}</ref>
+
+==Forces==
+If the bike and rider are considered to be a single system, the forces that act on that system and its components can be roughly divided into two groups: internal and external. The external forces are due to gravity, inertia, contact with the ground, and contact with the atmosphere. The internal forces are caused by the rider and by interaction between components.
+
+[[Image:Bike external forces.jpg|right|thumb|External forces on a bike and rider leaning in a turn: gravity in green, drag in blue, vertical ground reaction in red, net propulsive and rolling resistance in yellow, friction in response to turn in orange, and net torques on front wheel in magenta.]]
+===External forces===
+As with all masses, [[Gravitation|gravity]] pulls the rider and all the bike components toward the earth. There is also a gravitational attraction between each component, but this is minuscule compared to all the other forces involved and can be ignored.
+
+At each tire [[contact patch]] there are [[Reaction (physics)|ground reaction]] forces with both horizontal and vertical components. The vertical components mostly counteract the force of gravity, but also vary with braking and accelerating. For details, see the section on ''[[#Longitudinal stability|longitudinal stability]]'' below. The horizontal components, due to [[friction]] between the wheels and the ground, including [[rolling resistance]], are in response to [[Vehicle propulsion|propulsive]] forces, braking forces, and turning forces.
+
+The turning forces are generated during maneuvers for balancing in addition to just changing direction of travel. These may be interpreted as [[Centrifugal force|centrifugal]] forces in the accelerating [[Frame of reference|reference frame]] of the bike and rider; or simply as [[inertia]] in a stationary, [[Inertial frame of reference|inertial reference frame]] and not forces at all.
+
+''[[Gyroscope#Properties|Gyroscopic]]'' forces acting on rotating parts such as wheels, engine, transmission, etc., are also due to the inertia of those rotating parts. They are discussed further in the section on [[#Gyroscopic effects|gyroscopic effects]] below.
+
+The [[Full aerodynamic force|aerodynamic]] forces due to the atmosphere are mostly in the form of [[Drag (physics)|drag]], but can also be from [[crosswind]]s. At normal bicycling speeds on level ground, aerodynamic drag is the largest force resisting forward motion.<ref name="whitt" />
+
+===Internal forces===
+
+Internal forces are mostly caused by the rider or by friction. The rider can apply [[torque]]s between the steering mechanism (front fork, handlebars, front wheel, etc.) and rear frame, and between the rider and the rear frame. [[Friction]] exists between any parts that move against each other: in the [[Powertrain|drive train]], between the steering mechanism and the rear frame, etc. Many bikes have front and rear [[Bicycle suspension|suspensions]] and some motorcycles have a [[steering damper]] to dissipate undesirable kinetic energy.
+
+==Balance==
+A bike remains upright when it is steered so that the ground reaction forces exactly balance all the other forces it experiences, such as gravitational, inertial or centrifugal if in a turn, and aerodynamic if in a crosswind.<ref name="whitt">{{cite book
+| title = Bicycling Science
+| edition = Second edition
+| last = Whitt
+| first = Frank R.
+| coauthors = David G. Wilson
+| year = 1982
+| publisher = Massachusetts Institute of Technology
+| isbn = 0-262-23111-5
+| pages = 198–233}}</ref>
+Steering may be supplied by a rider or, under certain circumstances, by the bike itself. This self-stability is generated by a combination of several effects that depend on the geometry, mass distribution, and forward speed of the bike. Tires, suspension, steering damping, and frame flex can also influence it, especially in motorcycles.
+
+If the steering of a bike is locked, it becomes virtually impossible to balance while riding. Instead, if just the gyroscopic effect of rotating bike wheels is cancelled by adding counter-rotating wheels, it is still easy to balance while riding.<ref name="klein">{{cite web
+| url = http://www.losethetrainingwheels.org/default.aspx?Lev=2&ID=34
+| title = Bicycle Science
+| last = Klein
+| first = Richard E.
+| coauthors = et al
+| accessdate = 2006-08-04}}</ref><ref name="jones">{{cite journal
+| journal = Physics Today
+| volume = 23
+| issue = 4
+| year = 1970
+| pages = 34–40
+| title = The stability of the bicycle
+| last = Jones
+| first = David E. H.
+| url = http://socrates.berkeley.edu/%7Efajans/Teaching/MoreBikeFiles/JonesBikeBW.pdf
+| format = PDF
+| accessdate = 2006-08-04
+}}</ref>
+
+===Forward speed===
+The rider applies torque to the handlebars in order to turn the front wheel and so to control lean and maintain balance. At high speeds, small steering angles quickly move the ground contact points laterally; at low speeds, larger steering angles are required to achieve the same results in the same amount of time. Because of this, it is usually easier to maintain balance at high speeds.<ref>{{cite web
+| title = Email Questions and Answers: Balancing at low speeds
+| last = Fajans
+| first = Joel
+| url = http://socrates.berkeley.edu/~fajans/Teaching/MoreBikeFiles/BikeQuestions.htm#Balancing_at_low_speeds
+| accessdate = 2006-08-23
+}}</ref>
+
+===Center of mass location===
+The farther forward (closer to front wheel) the center of mass of the combined bike and rider, the less the front wheel has to move laterally in order to maintain balance. Conversely, the further back (closer to the rear wheel) the center of mass is located, the more front wheel lateral movement or bike forward motion will be required to regain balance. This can be noticeable on long-wheelbase [[Recumbent bicycle|recumbents]] and [[choppers]]. It can also be an issue for [[Touring motorcycle|touring bikes]] with a heavy load of gear over or even behind the rear wheel.<ref>{{cite web
+|url = http://www.maxmoto.co.uk/motorcycle_touring_bike.shtml
+|title = MaxMoto: Motorcycle Touring Tips Part 3. Preparing the Bike.
+|accessdate = 2008-06-28}}</ref>
+
+A bike is also an example of an [[Inverted_pendulum#Stationary_pivot_point|inverted pendulum]]. Just as a broomstick is easier to balance than a pencil, a tall bike (with a high center of mass) can be easier to balance when ridden than a short one because its lean rate will be slower.<ref>{{cite web
+| title = Email Questions and Answers: Robot Bicycles
+| last = Fajans
+| first = Joel
+| url = http://socrates.berkeley.edu/~fajans/Teaching/MoreBikeFiles/BikeQuestions.htm#Robot_Bicycles
+| accessdate = 2006-08-04
+}}</ref>
+
+A rider can have the opposite impression of a bike when it is stationary. A top-heavy bike can require more effort to keep upright, when stopped in traffic for example, than a bike which is just as tall but with a lower center of mass. This is an example of a vertical [[Lever#Second-class_levers|second-class lever]]. A small force at the end of the lever, the seat or handlebars at the top of the bike, more easily moves a large mass if the mass is closer to the fulcrum, where the tires touch the ground. This is why [[Bicycle touring|touring]] cyclists are advised to carry loads low on a bike, and [[Panniers#Bicycle_panniers|panniers]] hang down on either side of front and rear [[Luggage carrier|racks]].<ref>{{cite web
+| title = Cycle Expert Advice: Packing for a Tour
+| last = REI
+| url = http://www.rei.com/learn/Cycling/rei/learn/cycle/clpackf
+| accessdate = 2007-11-13
+}}</ref>
+
+===Trail===
+[[Image:Head angle rake and trail.svg|right|frame|Bicycle [[Caster angle|head angle]], [[Rake and trail|rake, and trail]]]]
+
+A factor that influences how easy or difficult a bike will be to ride is [[Bicycle and motorcycle geometry#Trail|trail]], the distance that the front wheel ground contact point trails behind the steering axis ground contact point. The steering axis is the axis about which the entire steering mechanism (fork, handlebars, front wheel, etc.) pivots. In traditional bike designs, with a steering axis tilted back from the vertical, trail causes the front wheel to steer into the direction of a lean, independent of forward speed.<ref name="whitt" />
+This can be seen by pushing a stationary bike to one side. The front wheel will usually also steer to that side. In a lean, gravity provides this force.
+
+The more trail a bike has, the more stable it feels. Bikes with negative trail (where the contact patch is actually in front of where the steering axis intersects the ground), while still ridable, feel very unstable. Bikes with too much trail feel difficult to steer.  Normally, road racing bicycles have more trail than mountain bikes or touring bikes.  In the case of mountain bikes, less trail allows more accurate path selection off-road, and also allows the rider to recover from obstacles on the trail which might knock the front wheel off course.  Touring bikes are built with small trail to allow the rider to control a bike weighed down with baggage.  As a consequence, an unloaded touring bike can feel unstable.  In bicycles, [[bicycle fork|fork]] rake, often a curve in the fork blades forward of the steering axis, is used to diminish trail.<ref name="zinn">{{cite news
+| url = http://www.velonews.com/tech/report/articles/7322.0.html
+| accessdate = 2006-08-04
+| title = Technical Q&A with Lennard Zinn — Rake, trail, offset
+| last = Zinn
+| first = Lennard 
+|date=[[2004-12-21]]
+| publisher = Velo News
+}}</ref>
+In motorcycles, rake refers to the head angle instead, and offset created by the [[triple tree]] is used to diminish trail.<ref name="foale">{{cite web
+| url = http://www.ctv.es/USERS/softtech/motos/Articles/Balance/BALANCE.htm
+| accessdate = 2006-08-04
+| title = Balancing Act
+| last = Foale
+| first = Tony
+| authorlink = Tony Foale 
+| year = 1997
+}}</ref>
+
+Trail is a function of head angle, fork offset or rake, and wheel size. Their relationship can be described by this formula:<ref>{{cite web
+| title = Steering Geometry: What is Trail?
+| last = Putnam
+| first = Josh
+| year = 2006
+| url = http://www.phred.org/~josh/bike/trail.html
+| accessdate = 2006-08-08
+}}</ref>
+:<math>Trail = \frac{(R_w \cos(A_h) - O_f)}{\sin(A_h)}</math>
+where <math>R_w</math> is wheel radius, <math>A_h</math> is the head angle measured clock-wise from the horizontal and <math>O_f</math> is the fork offset or rake. Trail can be increased by increasing the wheel size, decreasing or slackening the head angle, or decreasing the fork rake.
+
+A small survey by Whitt and Wilson<ref name="whitt" /> found:
+*[[touring bicycle]]s with head angles between 72° and 73° and trail between 43.0&nbsp;mm and 60.0&nbsp;mm
+*[[racing bicycle]]s with head angles between 73° and 74° and trail between 28.0&nbsp;mm and 45.0&nbsp;mm
+*[[track bicycle]]s with head angles of 75° and trail between 23.5&nbsp;mm and 37.0&nbsp;mm.
+
+At the same time, [[LeMond Racing Cycles]] offers,<ref>{{cite web
+| title = LeMond Racing Cycles
+| year = 2006
+| url = http://www.lemondbikes.com/
+| accessdate = 2006-08-08
+}}</ref>  
+both with forks that have 45&nbsp;mm of offset or rake and the same size wheels:
+*a 2007 Filmore, designed for the track, with a head angle that varies from 72.50° to 74.00° depending on frame size
+*a 2006 Tete de Course, designed for road racing, with a head angle that varies from 71.25° to 74.00°, depending on frame size.
+
+===Steering mechanism mass distribution===
+Another factor that can also contribute to the self-stability of traditional bike designs is the distribution of mass in the steering mechanism, which includes the front wheel, the fork, and the handlebar. If the center of mass for the steering mechanism is in front of the steering axis, then the pull of gravity will also cause the front wheel to steer in the direction of a lean. This can be seen by leaning a stationary bike to one side. The front wheel will usually also steer to that side independent of any interaction with the ground.<ref name="hand">{{cite web
+| title = Comparisons and Stability Analysis of Linearized Equations of Motion for a Basic Bicycle Model
+| last = Hand
+| first = Richard S.
+| year = 1988
+| url = http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/papers/comparisons_stability_analysis.pdf 
+| format = PDF
+| accessdate = 2006-08-04
+}}<!-- Has this been properly published anywhere? --></ref> Additional parameters, such as the fore-to-aft position of the center of mass and the elevation of the center of mass also contribute to the dynamic behavior of a bike.<ref name="hand" /><ref name="whitt" />
+
+===Gyroscopic effects===
+[[Image:Gyroscope wheel-text.png|thumb|200px|right|Gyroscopic effect on front wheel of a bike. Appling a torque (in green) about the lean axis results in a reaction torque (in blue) about the steer axis.]]
+
+The role of the gyroscopic effect in most bike designs is to help steer the front wheel into the direction of a lean. This phenomenon is called ''[[precession]]'' and the rate at which an object precesses is inversely proportional to its rate of spin. The slower a front wheel spins, the faster it will precess when the bike leans, and vice-versa.<ref name="fajans">{{cite journal
+| journal = American Journal of Physics
+| volume = 68
+| issue = 7
+| month = July
+| year = 2000
+| last = Fajans
+| first = Joel
+| title = Steering in bicycles and motorcycles
+| url = http://socrates.berkeley.edu/~fajans/pub/pdffiles/SteerBikeAJP.PDF
+| format = PDF
+| accessdate = 2006-08-04
+| pages = 654–659
+| doi = 10.1119/1.19504}}</ref>
+The rear wheel is prevented from precessing as the front wheel does by friction of the tires on the ground, and so continues to lean as though it were not spinning at all. Hence gyroscopic forces do not provide any resistance to tipping.
+
+At low forward speeds, the precession of the front wheel is too quick, contributing to an uncontrolled bike’s tendency to oversteer, start to lean the other way and eventually oscillate and fall over. At high forward speeds, the precession is usually too slow, contributing to an uncontrolled bike’s tendency to understeer and eventually fall over without ever having reached the upright position.<ref name="Wilson">{{cite book
+| title = Bicycling Science
+| edition = Third Edition
+| last = Wilson
+| first = David Gordon  
+| coauthors = Jim Papadopoulos
+| year = 2004
+| publisher = The MIT Press
+| isbn = 0-262-73154-1
+| pages = 263–390}}</ref> 
+This instability is very slow, on the order of seconds, and is easy for most riders to counteract. Thus a fast bike may feel stable even though it is actually not self-stable and would fall over if it were uncontrolled.
+
+Another contribution of gyroscopic effects is a roll [[Moment (physics)|moment]] generated by the front wheel during countersteering. For example, steering left causes a moment to the right. The moment is small compared to the moment generated by the out-tracking front wheel, but begins as soon as the rider applies torque to the handlebars and so can be helpful in [[motorcycle racing]]. For more detail, see the [[Countersteering#Gyroscopic_effects|countersteering]] article.
+
+===Self-stability===
+[[Image:Lean and steer angles of uncontrolled bike at various forward speeds.PNG|thumb|Graphs that show (from left to right, top to bottom) weave instability, self-stability, marginal self-stability, and capsize instability in an idealized linearized model of an uncontrolled [[utility bicycle]].]]
+
+Between the two unstable modes mentioned in the previous section, and influenced by all the factors described above that contribute to balance (trail, mass distribution, gyroscopic effects, etc.), there may be a range of forward speeds for a given bike design at which these effects steer an uncontrolled bike upright.<ref name="smp">{{cite journal
+| last = Schwab
+| first = Arend L.
+| coauthors = Jaap P. Meijaard, Jim M. Papadopoulos
+| year = 2005
+| title = Benchmark Results on the Linearized Equations of Motion of an Uncontrolled Bicycle
+| journal = KSME International Journal of Mechanical Science and Technology
+| volume = 19
+| issue = 1
+| pages = 292–304
+| url = http://tam.cornell.edu/~als93/paper100028KSMEIntJ.pdf
+| format = PDF
+| accessdate = 2006-08-04
+| doi = 10.1007/BF02916147
+}}</ref>
+However, even without self-stability a bike may be ridden by steering it to keep it over its wheels.<ref name="jones" /> Note that the effects mentioned above that would combine to produce self-stability may be overwhelmed by additional factors such as [[headset (bicycle part)|headset]] friction and stiff [[Bowden cable|control cables]].<ref name="whitt" /> This [http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/JBike6_web_folder/JBike6_self_stable_files/bicycle_stability.mpeg video] shows a riderless bicycle exhibiting self-stability.
+
+==Instability==
+Bikes, as complex mechanisms, have a variety of unstable [[Normal mode|modes]]: ways that they can be unstable. In this context, "stable" means that an uncontrolled bike will continue rolling forward without falling over as long as forward speed is maintained. Conversely, "unstable" means that an uncontrolled bike will eventually fall over, even if forward speed is maintained. The unstable modes are differentiated by the speed at which they occur and the relative phases of leaning and steering.
+
+===Modes===
+There are three main unstable modes that a bike can experience: capsize, weave, and wobble.<ref name="Meijaard">{{cite web
+| title = Linearized dynamics equations for the balance and steer of a bicycle: a benchmark and review
+| last = Meijaard
+| first = J. P.; et al. 
+| year = 2006
+| url = http://www.tudelft.nl/live/pagina.jsp?id=95c52a8b-37c2-4136-ad98-97aea768d9b7&lang=en&binary=/doc/BicyclePaper1Andyv38.pdf
+| accessdate = 2006-12-22
+}}</ref> A lesser known mode is rear wobble, and it is usually stable.<ref name="Cossalter">{{cite book
+| title = Motorcycle Dynamics
+| edition = Second Edition
+| last = Cossalter
+| first = Vittore  
+| year = 2006
+| publisher = Lulu.com
+| isbn = 978-1-4303-0861-4
+| pages = 241–342}}</ref>
+
+====Capsize====
+''Capsize'' is the word used to describe a bike falling over without oscillation. During capsize, an uncontrolled front wheel usually steers in the direction of lean, but never enough to stop the increasing lean, until a very high lean angle is reached, at which point the steering may turn in the opposite direction. A capsize can happen very slowly if the bike is moving forward rapidly. Because the capsize instability is so slow, on the order of seconds, it is easy for the rider to control, and is actually used by the rider to initiate the lean necessary for a turn.<ref name="Cossalter" />
+
+For most bikes, depending on geometry and mass distribution, capsize is stable at low speeds, and becomes less stable as speed increases until it is no longer stable. However, on many bikes, tire interaction with the pavement is sufficient to prevent capsize from becoming unstable at high speeds.<ref name="Cossalter" /><ref name="Wilson" />
+
+====Weave====
+''Weave'' is the word used to describe a slow (0&ndash;4&nbsp;Hz) oscillation between leaning left and steering right, and vice-versa. The entire bike is affected with significant changes in steering angle, lean angle (roll), and heading angle (yaw). The steering is 180° out of phase with the heading and 90° out of phase with the leaning.<ref name="Cossalter" /> This [http://www2.ee.ic.ac.uk/cap/cappp/projects/2/files/weave_0_65.avi AVI movie] shows weave.
+
+For most bikes, depending on geometry and mass distribution, weave is unstable at low speeds, and becomes less pronounced as speed increases until it is no longer unstable. While the amplitude may decrease, the frequency actually increases with speed.
+
+====Wobble or shimmy====
+[[Image:Motorcycle racing.jpg|thumb|[[Superbike racing|Motorcycles]] leaning in a turn.]]
+''Wobble'', ''shimmy'', ''tank-slapper'', ''[[speed wobble]]'', and ''death wobble'' are all words and phrases used to describe a rapid (4&ndash;10&nbsp;Hz) oscillation of primarily just the front end (front wheel, fork, and handlebars). The rest of the bike remains essentially unaffected. This instability occurs mostly at high speed and is similar to that experienced by shopping cart wheels, airplane landing gear, and automobile front wheels.<ref name="Wilson" /><ref name="Cossalter" /> While wobble or shimmy can be easily remedied by adjusting speed, position, or grip on the handlebar, it can be fatal if left uncontrolled.<ref>{{cite news
+| title = Crash kills cyclist
+| last = Kettler
+| first = Bill 
+|date=2004-09-15
+| work = Mail Tribune
+| url = http://www.mailtribune.com/archive/2004/0915/local/stories/01local.htm
+| accessdate = 2006-08-04
+}}</ref> This [http://www2.ee.ic.ac.uk/cap/cappp/projects/2/files/wobble_0_65.avi AVI movie] shows wobble.
+
+Wobble or shimmy begins when some otherwise minor irregularity accelerates the wheel to one side. The restoring force is applied in phase with the progress of the irregularity, and the wheel turns to the other side where the process is repeated. If there is insufficient [[steering damper|damping]] in the steering the oscillation will increase until system failure occurs. The oscillation frequency can be changed by changing the forward speed, making the bike stiffer or lighter, or increasing the stiffness of the steering, of which the rider is a main component.<ref name="whitt" />
+
+====Rear wobble====
+[[Image:Tuftscriterium.jpg|thumb|[[Bicycles]] leaning in a turn.]]
+The term ''rear wobble'' is used to describe a mode of oscillation in which lean angle (roll) and heading angle (yaw) are almost in phase and both 180° out of phase with steer angle. The rate of this oscillation is moderate with a maximum of about 6.5&nbsp;Hz. Rear wobble is heavily damped and falls off quickly as bike speed increases.<ref name="Cossalter" />
+
+===Design criteria===
+The effect that the design characteristics of a bike have on these instabilities can be investigated by examining the eigenvalues of the linearized equations of motion.<ref>{{cite web
+| title = The Control and Stability Analysis of Two-wheeled Road Vehicles
+| last = Evangelou
+| first = Simos
+| year = 2004
+| publisher = Imperial College London
+| pages = 159
+| url = http://www2.ee.ic.ac.uk/cap/cappp/projects/2/files/simosthesis.pdf
+| format = PDF
+| accessdate = 2006-08-04
+}}</ref> For more details on the equations of motion and eigenvalues, see the [[#Theory|section on theory]] below. Some general conclusions that have been drawn are described here.
+
+The lateral and torsional stiffness of the [[Motorcycle#Chassis|rear frame]] and the wheel spindle affects wobble-mode damping substantially. Long [[Trail (bicycles)#Wheelbase|wheelbase]] and [[Trail (bicycles)#Trail|trail]] and a flat [[Trail (bicycles)#Steering axis angle|steering-head angle]] have been found to increase weave-mode damping. Lateral distortion can be countered by locating the [[Motorcycle fork|front fork]] torsional axis as low as possible.
+
+Cornering weave tendencies are amplified by degraded damping of the [[Suspension (motorcycle)#Rear suspension|rear suspension]]. Cornering, camber stiffnesses and relaxation length of the rear [[tire]] make the largest contribution to weave damping. The same parameters of the front tire have a lesser effect. Rear loading also amplifies cornering weave tendencies. Rear load assemblies with appropriate stiffness and damping, however, were successful in damping out weave and wobble oscillations.
+
+Finally, tire inflation pressures are important variables in the behavior of a motorcycle at high speeds.
+
+==Turning==
+[[Image:Bike lean angle vs forward speed.PNG|thumb|Graph of bike lean angle vs forward speed, assuming unlimited friction between tires and ground.]]
+[[Image:Bike lean angle steer angle and turn radius.PNG|thumb|Graphs of bike steer angle and lean angle vs turn radius.]]
+
+In order to turn a bike, that is, change its direction of forward travel, the front wheel is turned approximately in the desired direction, as with any front-wheel steered vehicle. Friction between the wheels and the ground then generates the [[Centripetal_acceleration#Tangential_and_centripetal_acceleration|centripetal acceleration]] necessary to alter the course from straight ahead. The radius of the turn of an upright (not leaning) bike can be roughly approximated, for [[Small-angle approximation|small steering angles]], by:
+:<math>r = \frac{w}{\delta \cos \left (\phi \right )}</math>
+where <math>r</math> is the approximate radius, <math>w</math> is the [[Bicycle_and_motorcycle_geometry#Wheelbase|wheelbase]], <math>\delta</math> is the steer angle, and <math>\phi</math> is the [[Bicycle_and_motorcycle_geometry#Steering_axis_angle|caster angle]] of the steering axis.
+
+===Leaning===
+[[Image:BikeLeanForces3.PNG|thumb|left|The forces acting on a leaning bike in the rotating reference frame of a turn where ''N'' is the normal force, ''F<sub>f</sub>'' is friction, ''m'' is mass, ''r'' is turn radius, ''v'' is forward speed, and ''g'' is the acceleration of gravity.]]
+However, unlike other wheeled vehicles, bikes must also lean during a turn to balance the relevant forces: gravitational, inertial, frictional, and ground support. The angle of lean, <math>\theta</math>, can easily be calculated using the laws of [[circular motion]]:
+:<math>\theta = \arctan \left (\frac{v^2}{gr}\right )</math>
+where <math>v</math> is the forward speed, <math>r</math> is the radius of the turn and <math>g</math> is the acceleration of [[gravity]].<ref name="fajans" />
+
+For example, a bike in a 10&nbsp;m (33&nbsp;ft) radius steady-state turn at 10&nbsp;m/s (22&nbsp;mph) must be at an angle of ca. 45°. A rider can lean with respect to the bike in order to keep either the torso or the bike more or less upright if desired. The angle that matters is the one between the horizontal plane and the plane defined by the tire contacts and the location of the center of mass of bike and rider.
+
+This lean of the bike decreases the actual radius of the turn proportionally to the cosine of the lean angle. The resulting lean angle can be roughly approximated (within 2% of exact value) by:
+:<math>r = \frac{w\cos \left (\theta \right )}{\delta \cos \left (\phi \right )}</math>
+where <math>r</math> is the approximate radius, <math>w</math> is the wheelbase, <math>\theta</math> is the lean angle, <math>\delta</math> is the steer angle, and <math>\phi</math> is the caster angle of the steering axis.<ref name="Cossalter"/>
+
+As a bike leans, the tires' contact patches move farther to the side causing wear. The portions at either edge of a motorcycle tire that remain unworn by leaning into turns is sometimes referred to as [[Chicken strips (motorcycle tires)|chicken strips]].
+
+===Countersteering===
+{{main|Countersteering}}
+[[Image:Countersteer response.JPG|thumb|left|Graphs showing the lean and steer angle response of an otherwise uncontrolled bike, traveling at a forward speed in its stable rangle (6 m/s), to a steer torque that begins as an impulse and then remains constant. Torque to right causes initial steer to right, lean to left, and eventually a steady-state turn to left.]]
+In order to initiate a turn and the necessary lean in the direction of that turn, a bike must momentarily steer in the opposite direction. This is often referred to as countersteering. This brief turn moves the wheels out from directly underneath the center of mass, causing a lean in the desired direction. Where there is no external influence, such as an opportune side wind to create the force necessary to lean the bike, countersteering happens in every turn.<ref name="fajans" />
+
+As the lean approaches the desired angle, the front wheel must be steered in the direction of the turn, depending on the forward speed, the turn radius, and the need to maintain the lean angle. Once in a turn, the radius can only be changed with an appropriate change in lean angle. This can only be accomplished by additional countersteering out of the turn to increase lean and decrease radius, then into the turn to decrease lean and increase radius. To exit the turn, the bike must again countersteer, momentarily steering more into the turn in order to decrease the radius, thus increasing inertial forces, and thereby decreasing the angle of lean.<ref>{{cite web
+| title = Sheldon Brown's Bicycle Glossary  
+|last=Brown |first=Sheldon |authorlink=Sheldon Brown (bicycle mechanic) |publisher=Sheldon Brown| year = 2006
+| url = http://sheldonbrown.com/gloss_cn-z.html#countersteering
+| accessdate = 2006-08-08
+}}</ref>
+
+===Steady-state turning===
+Once a turn is established, the torque that must be applied to the steering mechanism in order to maintain a constant radius at a constant forward speed depends on the forward speed and the geometry and mass distribution of the bike.<ref name="Wilson" /> At speeds below the capsize speed, described below in the section on ''[[#Eigenvalues|Eigenvalues]]'' and also called the ''inversion'' speed, the self-stability of the bike will cause it to tend to steer into the turn, righting itself and exiting the turn, unless a torque is applied in the opposite direction of the turn. At speeds above the capsize speed, the capsize instability will cause it to tend to steer out of the turn, increasing the lean, unless a torque is applied in the direction of the turn. At the capsize speed no input steering torque is necessary to maintain the steady-state turn.
+
+===No hands===
+While countersteering is usually initiated by applying torque directly to the handlebars, on lighter vehicles such as bicycles, it can also be accomplished by shifting the rider’s weight. If the rider leans to the right relative to the bike, the bike will lean to the left to conserve [[angular momentum]], and the combined center of mass will remain in the same vertical plane. This leftward lean of the bike will cause it to steer to the left and initiate a right-hand turn as if the rider had countersteered to the left by applying a torque directly to the handlebars.<ref name="fajans" /> Note that this technique may be complicated by additional factors such as headset friction and stiff control cables.
+
+===Gyroscopic effects===
+One effect of turning the front wheel is a roll [[Moment (physics)|moment]] caused by gyroscopic [[precession]]. The magnitude of this moment is proportional to the [[moment of inertia]] of the front wheel, its spin rate (forward motion), the rate that the rider turns the front wheel by applying a torque to the handlebars, and the [[Trigonometric_function#Cosine|cosine]] of the angle between the steering axis and the vertical.<ref name="Cossalter"/>
+
+For a sample motorcycle moving at 22&nbsp;m/s (50&nbsp;mph) that has a front wheel with a moment of inertia of 0.6&nbsp;kgm<sup>2</sup>, turning the front wheel one degree in half a second generates a roll moment of 3.5&nbsp;Nm. In comparison, the lateral force on the front tire as it tracks out from under the motorcycle reaches a maximum of 50&nbsp;N. This, acting on the 0.6&nbsp;m (2&nbsp;ft) height of the center of mass, generates a roll moment of 30&nbsp;Nm.
+
+While the moment from gyroscopic forces is only 12% of this, it can play a significant part because it begins to act as soon as the rider applies the torque, instead of building up more slowly as the wheel out-tracks. This can be especially helpful in [[motorcycle racing]].
+
+===Two-wheel steering===
+Because of theoretical benefits, such as a tighter turning radius at low speed, attempts have been made to construct motorcycles with two-wheel steering. One working prototype by Ian Drysdale in Australia is reported to "work very well."<ref>{{cite web
+| title = Ian Drysdale 
+| url = http://www.werple.net.au/~iwd/ian.html 
+| accessdate = 2006-12-14
+}}</ref><ref>{{cite web
+| title = 2 Wheel Drive/Steering 
+| last = Foale
+| first = Tony 
+| year = 1997
+| url = http://www.tonyfoale.com/Articles/2WD_2WS/2WD_2WS.htm
+| accessdate = 2006-12-14
+}}</ref>
+
+Issues in the design include whether to provide active control of the rear wheel or let it swing freely. In the case of active control, the control algorithm needs to decide between steering with or in the opposite direction of the front wheel, when, and how much. One implementation of two-wheel steering, the [[Sideways bike]], lets the rider control the steering of both wheels directly.
+
+===Rear-wheel steering===
+Because of the theoretical benefits, especially a simplified [[front-wheel drive]] mechanism, attempts have been made to construct a ridable rear-wheel steering bike. The Bendix Company built a rear-wheel steering bicycle, and the U.S. Department of Transportation commissioned the construction of a rear-wheel steering motorcycle: both proved to be unridable. Rainbow Trainers, Inc. in Alton, IL, offers US$5,000 to the first person "who can successfully ride the rear-steered bicycle, Rear Steered Bicycle I".<ref>{{cite web
+| title = Challenge
+| last = Klein
+| first = Richard E.; et al. 
+| year = 2005
+| url = http://www.losethetrainingwheels.org/default.aspx?Lev=2&ID=35 
+| accessdate = 2006-08-06
+}}</ref> One documented example of someone successfully riding a rear-wheel steering bicycle is that of L. H. Laiterman at MIT, on a specially designed recumbent bike.<ref name="whitt" /> The difficulty is that turning left, accomplished by turning the rear wheel to the right, initially moves the center of mass to the right, and vice versa. This complicates the task of compensating for leans induced by the environment.<ref>{{cite web
+| title = Rear Wheel Steered Bike 
+| last = Wannee
+| first = Erik 
+| year = 2005
+| url = http://www.wannee.nl/hpv/abt/e-index.htm
+| accessdate = 2006-08-04
+}}</ref> Examination of the [[#Eigenvalues|eigenvalues]] shows that the rear-wheel steering configuration is inherently unstable.
+
+===Center steering===
+Between the extremes of bicycles with classical front-wheel steering and those with strictly rear-wheel steering is a class of bikes with a pivot point somewhere between the two referred to as center-steering. This design allows for simple front-wheel drive and appears to be quite stable, even ridable no-hands, as many photographs illustrate.<ref>{{cite web
+| title = Variations on the theme 'FlevoBike'
+| last = Wannee
+| first = Erik 
+| year = 2001
+| url = http://wannee.nl/hpv/variatie/e-index.htm
+| accessdate = 2006-12-15
+}}</ref><ref>{{cite web
+| title = Python Gallery
+| last = Mages 
+| first = Jürgen 
+| year = 2006
+| url = http://www.python-lowracer.de/pics/gallery/index.html
+| accessdate = 2006-12-15
+}}</ref>
+These designs usually have very lax head angles (40° to 65°) and positive or even negative trail. The builder of a bike with negative trail states that steering the bike from straight ahead forces the seat (and thus the rider) to rise slightly and this offsets the destabilizing effect of the negative trail.<ref>{{cite web
+| title = Python Frame Geometry
+| last = Mages 
+| first = Jürgen 
+| year = 2006
+| url = http://www.python-lowracer.de/geometry.html
+| accessdate = 2006-12-15
+}}</ref>
+
+=== Tiller effect ===
+Tiller effect is the expression used to describe how handlebars that extend far behind the steering axis (head tube) act like a [[tiller]] on a boat, in that one moves the bars to the right in order to turn the front wheel to the left, and vice versa. This situation is commonly found on [[Cruiser bicycle|cruisers]], some recumbents, and even some [[Motorcycle#Types|cruiser motorcycles]]. It can be troublesome when it limits the ability to steer because of interference or the limits of arm reach.<ref>{{cite web
+| title = Sheldon Brown's Bicycle Glossary  
+|last=Brown |first=Sheldon |authorlink=Sheldon Brown (bicycle mechanic) |publisher=Sheldon Brown| year = 2006
+| url = http://sheldonbrown.com/gloss_ta-o.html#tiller
+| accessdate = 2006-08-08
+}}</ref>
+
+=== Tires ===
+Because real [[tire]]s have a finite [[contact patch]] with the road surface that can generate a scrub torque, and when in a turn, can experience some [[Slip angle|side slipping]] as they roll, they can generate torques about an axis [[Surface normal|normal]] to the plane of the contact patch.
+
+[[Image:Tire pneumatic trail.png|thumb|right|Bike tire [[contact patch]] during a right-hand turn]]
+One such torque is generated by asymmetries in the side-slip along the length of the contact patch. The resultant [[Cornering force|force]] of this side-slip occurs behind the geometric center of the contact patch, a distance described as the pneumatic trail, and so creates a torque on the tire. Since the direction of the side-slip is towards the outside of the turn, the force on the tire is towards the center of the turn. Therefore, this torque tends to turn the front wheel in the direction of the side-slip, away from the direction of the turn, and therefore tends to ''increase'' the radius of the turn.
+
+Another torque is produced by the finite width of the contact patch and the lean of the tire in a turn. The portion of the contact patch towards the outside of the turn is actually moving rearward, with respect to the wheel's hub, faster than the rest of the contact patch, because of its greater radius from the hub. By the same reasoning, the inner portion is moving rearward more slowly. So the outer and inner portions of the contact patch slip on the pavement in opposite directions, generating a torque that tends to turn the front wheel in the direction of the turn, and therefore tends to ''decrease'' the turn radius.
+
+The combination of these two opposite torques creates a resulting yaw torque on the front wheel, and its direction is a function of the side-slip angle of the tire, the angle between the actual path of the tire and the direction it is pointing, and the [[camber angle]] of the tire (the angle that the tire leans from the vertical).<ref name="Cossalter"/> The result of this torque is often the suppression of the inversion speed predicted by rigid wheel models described above in the section on [[#Steady-state turning|steady-state turning]].<ref name="Wilson"/>
+
+Because the front and rear tires can have different slip angles due to weight distribution, tire properties, etc., bikes can experience [[understeer]] or [[oversteer]]. Of the two, understeer, in which the front wheel slides more than the rear wheel, is more dangerous since front wheel steering is critical for maintaining balance.<ref name="Cossalter"/>
+
+==Braking==<!-- This section is linked from [[Bicycle brake systems]] -->
+Most of the braking force of standard upright bikes comes from the front wheel. If the [[Bicycle brake systems|brakes]] themselves are strong enough, the rear wheel is easy to skid, while the front wheel often can generate enough stopping force to flip the rider and bike over the front wheel. This is called a ''[[stoppie]]'' if the rear wheel is lifted but the bike does not flip, or an ''endo'' (abbreviated form of ''end-over-end'') if the bike flips. Long or low bikes, however, such as [[Types of motorcycle#cruiser|cruiser motorcycles]] and [[recumbent bicycle]]s, can also skid the front tire, causing a loss of balance.
+
+===Longitudinal stability===
+[[Image:Stoppie.jpg|thumb|right|A motorcycle performing a [[stoppie]].]]
+Mechanical analysis of the forces generated by a bike with a [[Bicycle and motorcycle geometry#wheelbase|wheelbase]] <math>L</math> and a center of mass at height <math>h</math> and halfway between the wheels, with both wheels locked, reveals that the normal (vertical) forces at the wheels are:<ref>{{cite book
+| title = Introduction to Statics and Dynamics
+| last = Ruina
+| first = Andy
+| coauthors = Rudra Pratap
+| year = 2002
+| pages = 350
+| publisher = Oxford University Press
+| url = http://ruina.tam.cornell.edu/Book/RuinaPratapNoProblems.pdf 
+| format = PDF
+| accessdate = 2006-08-04
+}}</ref>
+:<math>N_r = mg\left(\frac{1}{2} - \mu \frac{h}{L}\right)</math> for the rear wheel and <math>N_f = mg\left(\frac{1}{2} + \mu \frac{h}{L}\right)</math> for the front wheel,
+while the frictional (horizontal) forces are simply <math>F_r = \mu N_r</math> for the rear wheel and <math>F_f = \mu N_f</math> for the front wheel, where <math>\mu</math> is the [[coefficient of friction]], <math>m</math> is the [[mass]], and <math>g</math> is the acceleration of gravity. Therefore, if
+:<math>\mu \frac{h}{L} \ge \frac{1}{2}</math>
+then the normal force of the rear wheel will be zero (at which point the equation no longer applies) and the bike will begin to flip forward over the front wheel.
+
+The coefficient of friction of [[rubber]] on dry [[asphalt]] is between 0.5 and 0.8.<ref name="kurtus">{{cite web
+| url = http://www.school-for-champions.com/science/frictioncoeff.htm
+| title = Coefficient of Friction Values for Clean Surfaces
+| last = Kurtus
+| first = Ron 
+|date=2005-11-02
+| accessdate = 2006-08-07
+}}</ref> 
+Using the lower value of 0.5, and assuming the center of mass height is greater than or equal to the wheelbase, the front wheel can generate enough stopping force to flip the bike and rider forward over the front wheel.
+
+On the other hand, if the center of mass height is less than half the wheelbase and at least halfway towards the rear wheel, as is true, for example on a [[Tandem bicycle|tandem]] or a long-wheel-base recumbent, then, even if the coefficient of friction is 1.0, it is impossible for the front wheel to generate enough braking force to flip the bike. It will skid unless it hits some fixed obstacle, such as a curb.
+
+In the case of a front [[Suspension (motorcycle)|suspension]], especially telescoping [[fork tube]]s, this increase in downward force on the front end may cause the suspension to compress and the front end to lower. This is known as ''[[Suspension (motorcycle)#Brake Dive|brake diving]]''. A riding technique that takes advantage of how braking increases the downward force on the front wheel is known as ''[[trail braking]]''.
+
+===Front wheel braking===
+
+The limiting factors on the maximum deceleration in front wheel braking are:
+*the maximum, limiting value of [[Friction#Static friction|static friction]] between the tire and the ground,
+*the [[Friction#Kinetic friction|kinetic friction]] between the brake pads and the rim or disk,
+*pitching (of bike and rider) over the front wheel.
+
+For an upright bicycle on dry asphalt with excellent brakes, pitching will probably be the limiting factor. The combined center of mass of a typical upright bicycle and rider will be about {{cm to in|60|abbr=yes}} back from the front wheel contact patch and {{cm to in|120|abbr=yes}} above, allowing a maximum deceleration of 0.5&nbsp;g (4.9&nbsp;m/s² or 16&nbsp;ft/s²).<ref name="whitt"/>
+If the rider modulates the brakes properly, however, pitching can be avoided. If the rider moves his weight back and down, even larger decelerations are possible.
+
+Front brakes on many inexpensive bikes are not strong enough so, on the road, they are the limiting factor. Cheap cantilever brakes, especially with "power modulators", and Raleigh-style side-pull brakes severely restrict the stopping force. In wet conditions they are even less effective.
+
+Front wheel slides are more common off-road. Mud, water, and loose stones reduce the friction between the tire and trail, although knobby tires can mitigate this effect by grabbing the surface irregularities. Front wheel slides are also common on corners, whether on road or off. Centripetal acceleration adds to the forces on the tire-ground contact, and when the friction force is exceeded the wheel slides.
+
+Of course, the angle of the terrain can influence all of the calculations above. All else remaining equal, the risk of pitching over the front end is reduced when riding up hill and increased when riding down hill.
+
+===Rear wheel braking===
+
+The rear brake of a upright bicycle can only produce about 0.1&nbsp;g deceleration at best,<ref name="whitt"/> because of the decrease in normal force at the rear wheel as described above. All bikes with only rear braking are subject to this limitation: for example, bikes with only a [[Bicycle brake systems#Coaster_brakes|coaster brake]], and [[Fixed-gear bicycle|fixed-gear]] bikes with no other braking mechanism.
+
+==Vibration==
+The study of vibration in bikes includes its causes, such as [[engine balance]],<ref>{{cite web
+|url = http://www.dinamoto.it/
+|title = Shaking forces of twin engines
+|accessdate = 2008-06-23}}</ref> [[Tire balance|wheel balance]], ground surface, and [[aerodynamics]]; its transmission and absorbtion; and its effects on the bike, the rider, and safety.<ref>{{cite web
+|url = http://www.springerlink.com/content/af36e919q5apv1x4/
+|title = Assessment of hand-arm vibration exposure among traffic police motorcyclists 
+|accessdate = 2008-06-24}}</ref> An important factor in any vibration analysis is a comparison of the [[Fundamental frequency|natural frequencies]] of the system with the possible driving frequencies of the vibration sources.<ref>{{cite web
+|url = http://www.sae.org/technical/papers/1999-01-1754
+|title = SAE Home > Publications > Papers: Engine-Induced Vibration Control for a Motorcycle Chassis Frame By Right Combination of Finite Element Method and Experimental Techniques
+|accessdate = 2008-06-25}}</ref> A close match means [[mechanical resonance]] that can result in large [[amplitude]]s. A challange in vibration damping is to create compliance in certain directions (vertically) without sacrificing frame rigidity needed for power transmission and handling ([[Torsion (mechanics)|torsionally]]).<ref>{{cite journal
+| last = Strickland
+| first = Bill
+| title = Comfort is the New Speed
+| journal = Bicycling Magazine
+| volume = XLIV
+| issue = 7
+| pages = 118–122
+| publisher = Rodale
+| date = 2008-08}}</ref>
+
+Effects of vibration on riders include [[Vibration white finger|Hand-Arm Vibration Syndrome]], a secondary form [[Raynaud's disease]], and [[whole body vibration]].
+===In bicycles===
+The primary cause of vibrations in a properly functioning bicycle is the surface over which it rolls. In addition to pneumatic [[Tire#Bicycle|tires]] and traditional [[bicycle suspension]]s, a variety of techniques have been developed to [[Damping|damp]] vibrations before they reach the rider. These include materials, such as [[carbon fiber]], either in the whole [[Bicycle suspension|frame]] or just key components such as the [[Bicycle fork|front fork]], [[seatpost]], or [[Bicycle handlebar|handlebars]]; tube shapes, such as curved [[Bicycle_frame#Seat_stays|seat stays]];<ref>{{cite web
+|url = http://www.serotta.com/technology/glossary.html
+|title = Serotta Technology Glossary: Vibration Damping
+|accessdate = 2008-06-24}}</ref> and special inserts, such as Zertz by [[Specialized Bicycle Components|Specialized]], <ref>{{cite web
+|url = http://www.cyclingnews.com/tech.php?id=tech/2004/reviews/specialized_roubaix_pro
+|title = Cycling News: Specialized Roubaix Pro review, August 19, 2004
+|accessdate = 2008-06-23}}</ref><ref>{{cite web
+|url = http://www.velonews.com/article/78942/specialized-roubaix-sl2-goes-wide
+|title = Velo News: Specialized Roubaix SL2 goes wide, June 27, 2008
+|accessdate = 2008-06-27}}</ref> and Buzzkills by [[Trek Bicycle Corporation|Bontrager]].
+
+===In motorcycles===
+In addition to the road surface, vibrations in a motorcycle can be caused by the engine and wheels, if unbalanced. Manufacturers employ a variety of technologies to reduce or damp these vibrations, such as engine [[balance shaft]]s, rubber engine mounts,<ref>{{cite web
+|url = http://www.designnews.com/article/CA380721.html
+|title = Design News: Good Vibrations
+|accessdate = 2008-06-24}}</ref> and tire weights.<ref>{{cite web
+|url = http://www.epa.gov/minimize/leadtire.htm
+|title = U.S. Environmental Protection Agency: Lead Tire Weights
+|accessdate = 2008-06-23}}</ref> The problems that vibration causes have also spawned an industry of after-market parts and systems designed to reduce it. Add-ons include [[Motorcycle handlebar|handlebar]] weights,<ref>{{cite web
+|url = http://www.manicsalamander.com/review-AMA-09-2004.htm
+|title = American Motorcyclist: Good Vibrations
+|accessdate = 2008-06-24}}</ref> isolated foot pegs, and engine [[Crankshaft#Counterweights|counterweights]].
+
+At high speeds, motorcycles and their riders may also experience aerodynamic [[Aeroelasticity#Flutter|flutter]] or [[Aeroelasticity#Buffeting|buffeting]].<ref>{{cite web
+|url = http://www.path.berkeley.edu/PATH/Publications/PDF/PRR/97/PRR-97-25.pdf
+|title = California Path Program, Institute of Transportation Studies, University of California, Berkeley, Development of Vehicle Simulation Capability
+|accessdate = 2008-06-23}}</ref> This can be abated by changing the air flow over key parts, such as the [[windshield]].<ref>{{cite web
+|url = http://www.webbikeworld.com/laminar-lip/
+|title = WebBikeWorld: Laminar LIP Motorcycle Windshield 
+|accessdate = 2008-06-24}}</ref>
+
+==Maneuverability and handling==
+Bike maneuverability and handling is difficult to quantify for several reasons. The geometry of a bike, especially the steering axis angle makes [[Kinematics|kinematic]] analysis complicated. Under many conditions, bikes are inherently unstable and must always be under rider control. Finally, the rider's skill has a large influence on the bike's performance in any maneuver.<ref name="Cossalter"/>
+
+Bike designs tend to consist of a trade-off between maneuverability and stability.
+
+===Rider control inputs===
+The primary control input that the rider can make is to apply a torque directly to the steering mechanism via the handlebars. Because of the bike's own dynamics, due to steering geometry and gyroscopic effects, direct control over steering angle has been found to be problematic.<ref name="Sharp">{{cite journal
+| last = Sharp
+| first = R. S.
+| title = Motorcycle Steering Control by Road Preview
+| journal = Journal of Dynamic Systems, Measurement, and Control
+| volume = 129
+| issue = JULY 2007
+| pages = 373-381
+| publisher = ASME
+| date = JULY 2007
+| accessdate = 2008-10-15}}</ref>
+
+A secondary control input that the rider can make is to lean the upper torso relative to the bike. As mentioned above, the effectiveness of rider lean varies inversely with the mass of the bike. On heavy bikes, such as motorcycles, rider lean mostly alters the ground clearance requirements in a turn, improves the view of the road, and improves the bike system dynamics in a very low-frequency passive manner.<ref name="Sharp"/>
+
+===Differences from automobiles===
+The need to keep a bike upright to avoid injury to the rider and damage to the vehicle even limits the type of maneuverability testing that is commonly performed. For example, while automobile enthusiast publications often perform and quote [[skidpad]] results, motorcycle publications do not.
+
+The need to "set up" for a turn, lean the bike to the appropriate angle, means that the rider must see further ahead than is necessary for a typical car at the same speed, and this need increases more than in proportion to the speed.<ref name="Sharp"/>
+
+==Theory==
+Although its equations of motion can be linearized, a bike is a [[nonlinear system]]. The variable(s) to be solved for cannot be written as a linear sum of independent components, i.e. its behavior is not expressible as a sum of the behaviors of its descriptors.<ref name="Meijaard" /> Generally, nonlinear systems are difficult to solve and are much less understandable than linear systems.
+
+In the idealized case, in which friction and any flexing is ignored, a bike is a [[Conservation of energy#Mechanics|conservative]] system. [[Damping]], however, can still be demonstrated: side-to-side oscillations will decrease with time. Energy added with a sideways jolt to a bike running straight and upright (demonstrating [[#Self-stability|self-stability]]) is converted into increased forward speed, not lost, as the oscillations die out.
+
+A bike is a [[nonholonomic system]] because its outcome is [[Path (topology)|path]]-dependent. In order to know its exact configuration, especially location, it is necessary to know not only the configuration of its parts, but also their histories: how they have moved over time. This complicates mathematical analysis.<ref name="fajans" />
+
+Finally, in the language of [[control theory]], a bike exhibits [[Minimum phase#mixed phase|non-minimum phase]] behavior.<ref>{{cite web
+| title = Counter-Intuitive.
+| last = Klein
+| first = Richard E.; et al. 
+| year = 2005
+| url = http://www.losethetrainingwheels.org/default.aspx?Lev=2&ID=36 
+| accessdate = 2006-08-07
+}}</ref> 
+It turns in the direction opposite of how it is initially steered, as described above in the section on [[#Countersteering|countersteering]]
+
+===Degrees of freedom===
+The number of [[Degrees of freedom (mechanics)|degrees of freedom]] of a bike depends on the particular [[Scientific modelling|model]] being used. The simplest model that captures the key dynamic features, four rigid bodies with knife edge wheels rolling on a flat smooth surface, has 7 degrees of freedom (configuration variables required to completely describe the location and orientation of all 4 bodies):<ref name=MPRS/>
+#x coordinate of rear wheel contact point
+#y coordinate of rear wheel contact point
+#orientation angle of rear frame ([[Yaw angle|yaw]])
+#rotation angle of rear wheel
+#rotation angle of front wheel
+#lean angle of rear frame ([[Yaw angle|roll]])
+#steering angle between rear frame and front end
+Adding complexity to the model, such as suspension, tire compliance, frame flex, or rider movement, adds degrees of freedom. While the rear frame does [[Yaw angle|pitch]] with leaning and steering, the pitch angle is completely constrained by the requirement for both wheels to remain on the ground, and so can be calculated geometrically from the other seven variables. If the location of the bike and the rotation of the wheels are ignored, the first five degrees of freedom can also be ignored, and the bike can be described by just two variables: lean angle and steer angle.
+
+===Equations of motion===
+The [[Equation of motion|equations of motion]] of an idealized bike, consisting of
+*a rigid [[bicycle frame|frame]],
+*a rigid fork,
+*two knife-edged, rigid [[bicycle wheel|wheels]],
+*all connected with frictionless bearings and rolling without friction or slip on a smooth horizontal surface and
+*operating at or near the upright and straight-ahead, unstable equilibrium 
+
+can be represented by a single fourth-order [[Linearization|linearized]] [[ordinary differential equation]] or two coupled second-order differential equations,<ref name=MPRS /> the lean equation
+:<math> M_{\theta\theta}\ddot{\theta_r} +
+        K_{\theta\theta}\theta_r +
+        M_{\theta\psi}\ddot{\psi} +
+        C_{\theta\psi}\dot{\psi} +
+        K_{\theta\psi}\psi =
+        M_{\theta}
+</math>
+and the steer equation
+:<math> M_{\psi\psi}\ddot{\psi} +
+        C_{\psi\psi}\dot{\psi} +
+        K_{\psi\psi}\psi +
+        M_{\psi\theta}\ddot{\theta_r} +
+        C_{\psi\theta}\dot{\theta_r} +
+        K_{\psi\theta}\theta_r =
+        M_{\psi}\mbox{,}
+</math>
+where 
+*<math>\theta_r</math> is the lean angle of the rear assembly,
+*<math>\psi</math> is the steer angle of the front assembly relative to the rear assembly and
+*<math>M_{\theta}</math> and <math>M_{\psi}</math> are the moments (torques) applied at the rear assembly and the steering axis, respectively. For the analysis of an uncontrolled bike, both are taken to be zero.
+These can be represented in matrix form as <math>M\mathbf\ddot q+C\mathbf\dot q+K\mathbf q=\mathbf f</math>
+where
+*<math>M</math> is the symmetrical mass matrix which contains terms that include only the mass and geometry of the bike,
+*<math>C</math> is the so-called damping matrix, even though an idealized bike has no dissipation, which contains terms that include the forward speed <math>V</math> and is asymmetric,
+*<math>K</math> is the so-called stiffness matrix which contains terms that include the gravitational constant <math>g</math> and <math>V^2</math> and is symmetric in <math>g</math> and asymmetric in <math>V^2</math>,
+*<math>\mathbf q</math> is a vector of lean angle and steer angle, and
+*<math>\mathbf f</math> is a vector of external forces, the moments mentioned above.
+
+In this idealized and linearized model, there are many [[Bicycle and motorcycle geometry|geometric parameters]] (wheelbase, head angle, mass of each body, wheel radius, etc.), but only four significant variables: lean angle, lean rate, steer angle, and steer rate. These equations have been verified by comparison with multiple numeric models derived completely independently.<ref name="smp" />
+
+===Eigenvalues===
+[[Image:BicycleEigenvalues.svg|right|thumb|300px|Eigenvalues plotted against forward speed for a typical [[utility bicycle]]]]
+
+It is possible to calculate [[eigenvalues]], one for each of the four [[state variable]]s (lean angle, lean rate, steer angle, and steer rate), from the linearized equations in order to analyze the [[normal mode]]s and self-stability of a particular bike design. In the plot to the right, eigenvalues of one particular bicycle are calculated for forward speeds of 0–10&nbsp;m/s (22&nbsp;mph). When the [[Real number|real]] parts of all eigenvalues (shown in dark blue) are negative, the bike is self-stable. When the [[Imaginary number|imaginary]] parts of any eigenvalues (shown in cyan) are non-zero, the bike exhibits [[oscillation]].
+
+There are three forward speeds that can be identified in the plot to the right at which the motion of the bike changes qualitatively:<ref name="Meijaard" />
+#The forward speed at which oscillations begin, at about 1&nbsp;m/s (2.2&nbsp;mph) in this example, sometimes called the ''double root'' speed due to there being a repeated [[Root (mathematics)|root]] to the [[characteristic polynomial]] (two of the four eigenvalues have exactly the same value). Below this speed, the bike simply falls over as an [[inverted pendulum]] does.
+#The forward speed at which oscillations do not increase, where the weave mode eigenvalues switch from positive to negative in a [[Hopf bifurcation]] at about 5.3&nbsp;m/s (12&nbsp;mph) in this example, is called the ''weave speed''. Below this speed, oscillations increase until the uncontrolled bike falls over. Above this speed, oscillations eventually die out.
+#The forward speed at which non-oscillatory leaning increases, where the capsize mode eigenvalues switch from negative to positive in a [[pitchfork bifurcation]] at about 8.0&nbsp;m/s (18&nbsp;mph) in this example, is called the ''capsize speed''. Above this speed, this non-oscillating lean eventually causes the uncontrolled bike to fall over.
+Between these last two speeds, if they both exist, is a range of forward speeds at which the particular bike design is self-stable. In the case of the bike whose eigenvalues are shown here, the self-stable range is 5.3–8.0&nbsp;m/s (12&ndash;18&nbsp;mph). The fourth eigenvalue, which is usually stable (very negative), represents the castoring behavior of the front wheel, as it tends to turn towards the direction in which the bike is traveling. Note that this idealized model does not exhibit the ''[[#Wobble or shimmy|wobble or shimmy]]'' and ''[[#Rear wobble|rear wobble]]'' instabilities described above. They are seen in models that incorporate tire interaction with the ground or other degrees of freedom.<ref name="Cossalter" />
+
+Experimentation with real bikes has so far confirmed the weave mode predicted by the eigenvalues. It was found that tire slip and frame flex are <i>not important for the lateral dynamics of the bicycle in the speed range up to 6 m/s.</i><ref>{{cite journal
+  | last = Schwab
+  | first = A. L.
+  | coauthors = J. P. Meijaard and J. D. G. Kooijman
+  | title = Experimental Validation of a Model of an Uncontrolled Bicycle
+  | journal = III European Conference on Computational Mechanics Solids, Structures and Coupled Problems in Engineering
+  | publisher = C.A. Mota Soares et al.
+  | location = Lisbon, Portugal
+  | date = 5–9 June 2006
+  | url = http://www.tudelft.nl/live/pagina.jsp?id=95c52a8b-37c2-4136-ad98-97aea768d9b7&lang=en&binary=/doc/Koo06.pdf
+  | accessdate = 2008-10-19}}</ref>
+
+The idealized bike model used to calculate the eigenvalues shown here does not incorporate any of the torques that real tires can generate, and so tire interaction with the pavement cannot prevent the capsize mode from become unstable at high speeds, as Wilson and Cossalter suggest happens in the real world.
+
+==Experimentation==
+A variety of experiments have been performed in order to verify or disprove various hypotheses about bike dynamics.
+* [[David E. H. Jones|David Jones]] built several bikes in a search for an unridable configuration.<ref name="jones"/>
+* Richard Klein built several bikes to confirm Jones's findings.<ref name="klein"/>
+* Richard Klein also built a "Torque Wrench Bike" and a "Rocket Bike" to investigate steering torques and their effects.<ref name="klein"/>
+* Keith Code built a motorcycle with fixed handlebars to investigate the effects of rider motion and position on steering.<ref name="code">{{cite news
+| url = http://www.popularmechanics.com/outdoors/outdoors/1277436.html
+| accessdate = 2006-08-07
+| title = STEER GEAR So how do you actually turn a motorcycle?
+| last = Gromer
+| first = Cliff 
+|date=2001-02-01
+| publisher = Popular Mechanics
+}}</ref>
+* Schwab and Kooijman have performed measurements with an instrumented bike.<ref name="schwab">{{cite web
+| title = Bicycle Dynamics
+| last = Schwab
+| first = Arend; et al.
+| year = 2006
+| url = http://tam.cornell.edu/~als93/bicycledyn.htm#Apr25
+| accessdate = 2006-08-07
+}}</ref>
+
+==Other hypotheses==<!-- This section is linked from [[Bad science]] -->
+Although bicycles and motorcycles can appear to be simple mechanisms with only four major moving parts (frame, fork, and two wheels), these parts are arranged in a way that makes them complicated to analyze.<ref name="whitt" /> While it is an observable fact that bikes can be ridden even when the [[Gyroscopic#Properties|gyroscopic effects]] of their wheels are canceled out,<ref name="jones" /><ref name="klein" /> the hypothesis that the gyroscopic effects of the wheels are what keep a bike upright is common in print and online.<ref name="klein" /><ref name="fajans" />
+
+Examples in print:
+*"Angular momentum and motorcycle counter-steering: A discussion and demonstration", A. J. Cox, ''Am. J. Phys.'' 66, 1018–1021 ~1998
+*"The motorcycle as a gyroscope", J. Higbie, ''Am. J. Phys.'' 42, 701–702
+*''The Physics of Everyday Phenomena'', W. T. Griffith, McGraw–Hill, New York, 1998, pp. 149–150.
+*''The Way Things Work.'', Macaulay, Houghton-Mifflin, New York, NY, 1989
+And online:
+*[http://www.physlink.com/Education/AskExperts/ae288.cfm www.physlink.com]
+*[http://www.straightdope.com/mailbag/mangularmo.html www.straightdope.com]
+*[http://www.everything2.com/index.pl?node=Gyroscope www.everything2.com]
+*[http://library.thinkquest.org/J002670/parts.htm library.thinkquest.org]
+<!--*[http://www.rider-ed.com/tips/motorcyclestability.htm www.rider-ed.com] old link -->
+*[http://www.rider-ed.com/231558598/files/Motorcyclestability.pdf www.rider-ed.com]
+*[http://www.totalmotorcycle.com/school-SectionFiveB.htm www.totalmotorcycle.com]
+*[http://www.msgroup.org/forums/mtt/topic.asp?TOPIC_ID=2182 The Third Gyroscope]
+*[http://www.motorcyclists-online.com www.motorcyclists-online.com]
+
+==See also==
+*[[Bicycle and motorcycle geometry]]
+*[[Bicycle fork]]
+*[[Caster angle]]
+*[[Countersteering]]
+*[[Highsider]]
+*[[Lowsider]]
+*[[Motorcycle fork]]
+*[[Speed wobble]]
+*[[Stoppie]]
+*[[Trail braking]]
+*[[Wheelie]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+*[http://www.dclxvi.org/chunk/tech/trail/ ‘An Introduction to Bicycle Geometry and Handling’], Karl Anderson
+*[http://diablocyclists.org/DCtechtips.html ‘Interesting Bike Science’] by Paul Pedriana
+*[http://www.sheldonbrown.com/brandt/gyro.html ‘What keeps the bicycle upright?’] by Jobst Brandt
+*[http://www.johnforester.com/Articles/BicycleEng/dahon.htm ‘Report on Stability of the Dahon Bicycle’] by John Forester
+
+==External links==
+'''Videos''':
+*[http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/overview_papers_and_links.htm Video of riderless bicycle demonstrating self-stability]
+*[http://www2.ee.ic.ac.uk/cap/cappp/projects/2/files/wobble_0_65.avi Wobble movie (AVI)]
+*[http://www2.ee.ic.ac.uk/cap/cappp/projects/2/files/weave_0_65.avi Weave movie (AVI)]
+*[http://www.flyingsnail.com/Sprung/tankslapper.html Wobble Crash (Flash)]
+
+
+'''Research centers''':
+*[http://tam.cornell.edu/~als93/bicycledyn.htm Bicycle Dynamics at Delft University of Technology]
+* [http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/overview_papers_and_links.htm Bicycle Mechanics at Cornell University]
+*[http://www.losethetrainingwheels.org/default.aspx?Lev=2&ID=33 Bicycle Science at the University of Illinois]
+*[http://www.dinamoto.it/index.html Motorcycle Dynamics at Padua University]
+
+[[Category:Dynamics]]
+[[Category:Control theory]]
+[[Category:Cycling]]
+[[Category:Motorcycling]]
+[[Category:Motorcycle safety]]
+
+[[de:Fahrradfahren]]

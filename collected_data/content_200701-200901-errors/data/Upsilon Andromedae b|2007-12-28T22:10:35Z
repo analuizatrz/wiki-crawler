@@ -1,0 +1,76 @@
+{{Planetbox begin
+| name=Upsilon Andromedae b
+}} 
+{{Planetbox star
+| star=[[Upsilon Andromedae|Upsilon Andromedae A]]
+| constell=[[Andromeda (constellation)|Andromeda]]
+| RA={{RA|01|36|47.8}}
+| DEC={{DEC|+41|24|20}}
+| class=F8V
+}}
+{{Planetbox orbit
+| semimajor=0.0595 ± 0.0034
+| eccentricity=0.023 ± 0.018
+| period=4.617113 ± 0.000082
+| inclination = > 30
+| ang_dist = 4.38
+| long_peri=63.4
+| t_peri=2,451,802.64 ± 0.71
+| semi-amp=69.8 ± 1.5
+}}
+{{Planetbox character
+| mass=0.687 &ndash; 1.37
+| temperature=~150 to ~1800
+}}
+{{Planetbox discovery
+| discovery_date=1996
+| discovery_site=[[California, USA]]
+| discovery_method=[[Radial velocity]]
+| discoverers=[[R. Paul Butler|Butler]], [[Geoffrey Marcy|Marcy]] et al.
+}}
+{{Planetbox catalog
+| names=Upsilon&nbsp;Andromedae&nbsp;Ab, 50&nbsp;Andromedae&nbsp;b
+}}
+{{Planetbox end}}
+'''Upsilon Andromedae b''' (occasionally referred to as Upsilon Andromedae Ab to distinguish it from the [[red dwarf]] [[star]] [[Upsilon Andromedae|Upsilon Andromedae B]]) is an [[extrasolar planet]] [[orbit]]ing the [[Sun]]-like star [[Upsilon Andromedae|Upsilon Andromedae A]] every 4.62 [[day]]s. Discovered in [[1996]] by [[Geoffrey Marcy]] and [[R. Paul Butler]], it was one of the first [[hot Jupiter]]s to be discovered. Upsilon Andromedae b is the innermost known planet in its [[planetary system]].
+
+==Discovery==
+Like the majority of known extrasolar planets, Upsilon Andromedae b was detected by the variations in its star's [[radial velocity]] caused by the planet's [[gravity]]. The variations were detected by making sensitive measurements of the [[Doppler shift]] of Upsilon Andromedae's [[spectrum]]. The planet was announced in Jan 1997, together with [[55 Cancri b]] and the planet orbiting [[Tau Boötis]].<ref>{{cite journal|url=http://www.journals.uchicago.edu/doi/full/10.1086/310444|author=Butler, R. et al.|title=Three New 51 Pegasi-Type Planets|journal=[[The Astrophysical Journal]]|volume=474|year=1997|pages=L115 – L118}}</ref>
+
+==Orbit and mass==
+[[Image:PIA01936.jpg|right|thumb|Orbit of Upsilon Andromedae b (Courtesy NASA/JPL-Caltech)]]
+Like [[51 Pegasi b]], the first extrasolar planet discovered around a normal star, Upsilon Andromedae b orbits very close to its star, closer than [[Mercury (planet)|Mercury]] does to our Sun. The planet takes 4.617 [[day]]s to complete an orbit, with a [[semimajor axis]] of 0.0595 [[Astronomical unit|AU]].<ref>{{cite journal|url=http://www.journals.uchicago.edu/doi/abs/10.1086/504701|author=Butler, R. et al.|title=Catalog of Nearby Exoplanets|journal=[[The Astrophysical Journal]]|volume=646|pages=505 &ndash; 522|year=2006}} ([http://exoplanets.org/planets.shtml web version])</ref>
+
+A limitation of the radial velocity method used to detect Upsilon Andromedae b is that only a lower limit on the [[mass]] can be found. In the case of Upsilon Andromedae b, this lower limit is 68.7% of the mass of [[Jupiter]], though depending on the [[inclination]] of the orbit, the [[true mass]] may be much greater. However, astronomers found recently that inclination of the [[orbital plane (astronomy)|orbital plane]] is >30° and the [[true mass]] is somewhere between 0.687 to 1.37 [[Jupiter mass|M<sub>J</sub>]].
+
+==Characteristics==
+Given the planet's high mass, it is likely that Upsilon Andromedae b is a [[gas giant]] with no [[solid]] surface. Since the planet has only been detected indirectly, properties such as its [[radius]] and composition are unknown. Assuming that the planet is similar to Jupiter in composition and that its environment is close to [[chemical equilibrium]], Upsilon Andromedae b is predicted to have [[cloud]]s of [[silicate minerals|silicates]] and [[iron]] in its upper [[atmosphere]].<ref>{{cite journal|url=http://adsabs.harvard.edu/abs/2003ApJ...588.1121S|author=Sudarsky, D. et al.|title=Theoretical Spectra and Atmospheres of Extrasolar Giant Planets|journal=[[The Astrophysical Journal]]|volume=588|issue=2|pages=1121 &ndash; 1148|year=2003}}</ref>
+
+The [[Spitzer Space Telescope]] measured the planet [[temperature]], and found that the difference between the two sides of Upsilon Andromedae b of about 1,400 degrees Celsius, ranging from minus 20 to 230 degrees to about 1,400 to 1,650 degrees Celsius.<ref>{{cite journal | first = J | last = Harrington | coauthors = Hansen BM, Luszcz SH, Seager S, Deming D, Menou K, Cho JY, Richardson LJ | year = 2006 | month = Oct 27 | title = The phase-dependent infrared brightness of the extrasolar planet upsilon Andromedae b | journal = Science | volume = 314 | issue = 5799 | pages = 623-6 | id = PMID 17038587 | accessdate = 2006-12-01}}</ref>  The temperature difference has led to speculation that Upsilon Andromedae b is [[Tidal locking|tidal locked]] with the same side always facing Upsilon Andromedae A.
+
+Upsilon Andromedae b appears to be responsible for increased [[chromosphere|chromospheric]] activity on its parent star. Observations suggest that there is a "hot spot" on the star around 169° away from the sub-planetary point. This may be the result of interactions between the [[magnetic field]]s of the planet and the star. The mechanism may be similar to that responsible for the activity of [[RS Canum Venaticorum variable]] stars, or the interaction between Jupiter and its moon [[Io (moon)|Io]].<ref>{{cite journal|url=http://www.citebase.org/cgi-bin/citations?id=oai:arXiv.org:astro-ph/0411655|title=Hot Jupiters and Hot Spots: The Short- and Long-term Chromospheric Activity on Stars with Giant Planets|author=Shkolnik, E. et al.|journal=[[The Astrophysical Journal]]|volume=622|year=2005|pages=1075 &ndash; 1090}}</ref>
+
+The planet is unlikely to have large [[natural satellite|moons]], since [[tide|tidal forces]] would either eject them from orbit or destroy them on short timescales compared to the age of the system.<ref>{{cite journal|url=http://adsabs.harvard.edu/abs/2002ApJ...575.1087B|author=Barnes, J., O'Brien, D.|title=Stability of Satellites around Close-in Extrasolar Giant Planets|journal=[[The Astrophysical Journal]]|volume=575|issue=2|pages=1087 &ndash; 1093|year=2002}}</ref>
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==See also==
+* [[Upsilon Andromedae c]]
+* [[Upsilon Andromedae d]]
+
+==External links==
+* [http://simbad.u-strasbg.fr/sim-id.pl?Ident=%2A+50+And+b '''SIMBAD''': * 50 And b -- Extra-solar Planet Candidate]
+* [http://exoplanet.eu/planet.php?p1=Ups+And&p2=b '''The Extrasolar Planets Encyclopaedia''': Notes for Planet Ups And b]
+* [http://www.spitzer.caltech.edu/Media/releases/ssc2006-18/release.shtml NASA's Spitzer Sees Day and Night on Exotic World]
+
+
+{{Upsilon Andromedae}}
+
+[[Category:Andromeda constellation]]
+[[Category:Extrasolar planets]]
+
+[[it:Upsilon Andromedae b]]
+[[pt:Upsilon Andromedae b]]

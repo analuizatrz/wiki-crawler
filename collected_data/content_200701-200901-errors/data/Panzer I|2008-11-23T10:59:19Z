@@ -1,0 +1,252 @@
+{{FixBunching|beg}}
+{{Infobox Weapon
+|is_vehicle=yes
+|name= Panzerkampfwagen I  
+|image= [[Image:Ausf A Front.jpg|300px]]
+|caption= Panzer I at the ''El Goloso'' Museum of Armored Vehicles, in Spain
+|origin= [[Nazi Germany]]
+|type= [[Light tank]]
+<!-- Service history -->
+|service= 1934–1954
+|used_by= [[Nazi Germany]]<br/> [[Kingdom of Bulgaria|Bulgaria]]<br/>[[Republic of China]]<br/> [[Kingdom of Hungary (Regency)|Hungary]]<br/> [[Spain under Franco|Spain]]
+|wars= [[Spanish Civil War]], [[World War II|Second World War]], [[Second Sino-Japanese War]]
+<!-- Production history -->
+|design_date= 1934
+|manufacturer= [[Henschel]], [[MAN]], [[Krupp]], [[Daimler]]
+|production_date= 1934–1936
+|number= 833
+<!-- General specifications -->
+|weight= 5.4&nbsp;[[tonne]]s
+|length= 4.02&nbsp;[[Metre|m]]
+|width= 2.06&nbsp;m
+|height= 1.72&nbsp;m
+|crew= 2; Commander and Driver
+<!-- Vehicle/missile specifications -->
+|armour= Between 7 and 13&nbsp;[[millimeter|mm]]
+|primary_armament= Two 7.92&nbsp;mm [[MG-13|MG13]] [[machine gun]]s
+|engine= Krupp M 305 four cylinder air cooled gasoline engine.
+|engine_power=  60&nbsp;PS (59&nbsp;[[horsepower|hp]], 44&nbsp;kW)
+|pw_ratio=  11.1&nbsp;PS/t
+|suspension= Quarter-elliptical [[leaf spring]] suspension.
+|vehicle_range=  200&nbsp;[[kilometer|km]] on-road; 175&nbsp;km off-road.
+|speed=  50&nbsp;km/h on-road; 37&nbsp;km/h off-road.
+}}
+{{FixBunching|mid}}
+{{Interwar tanks}}
+{{FixBunching|end}}
+
+The '''Panzer&nbsp;I''' is a [[light tank]] which was produced in [[Nazi Germany|Germany]] in the 1930s. The name is short for the German ''{{lang|de|Panzerkampfwagen&nbsp;I}}'' (armored fighting vehicle mark I), abbreviated ''{{lang|de|PzKpfw&nbsp;I}}''.  The tank's official German ordnance inventory designation was [[Sonderkraftfahrzeug|SdKfz]]&nbsp;101 (special purpose vehicle 101).<ref>Nomenclature ''see:'' Gander, ''Tanks and Armour: Panzerkampfwagen I & II,'' p.10</ref>
+
+Design of the [[Panzer]] I began in 1932 and mass production in 1934. Although intended only as a training tank to introduce the concept of armored warfare to the [[Wehrmacht|German Army]], the [[Panzer]]&nbsp;I saw combat in Spain during the [[Spanish Civil War]], in Poland, France, Soviet Union and North Africa during the [[Second World War]], and even in China during the [[Second Sino-Japanese War]]. Based on experience gathered during the Spanish Civil War, the Panzer&nbsp;I helped shape the German armored corps used to invade Poland in 1939 and France in 1940. By 1941, Panzer&nbsp;I chassis were being reused for production of [[tank destroyer]]s and [[assault gun]]s. There were attempts to upgrade the Panzer&nbsp;I throughout its service history, including by foreign nations to increase its lifespan. It continued to serve in the armed forces of Spain until 1954.
+
+Ultimately, the Panzer&nbsp;I's performance in combat was limited by its thin [[Vehicle armour|armor]] and light [[tank gun|armament]], consisting of only two [[general purpose machine gun]]s. Because it was designed solely for training, the Panzer&nbsp;I was not as capable as other light tanks of the era, such as the [[T-26]]. Although weak in combat, it formed a large proportion of Germany's tank strength on paper and was used in all major campaigns between September 1939 and December 1941. Inevitably, the small, vulnerable light tank would be overshadowed in importance by better-known German tanks such as the [[Panzer IV]], [[Panther tank|Panther]], and [[Tiger tank|Tiger]], but its contribution to the early victories of [[Nazi Germany]] during the Second World War was significant.
+
+== Development history ==
+The post-[[World War I]] [[Treaty of Versailles]] of 1919 prohibited the design, manufacture and deployment of [[tank]]s within the [[Reichswehr]]. According to paragraph twenty-four of the treaty, a 100,000-[[German mark|mark]] fine and imprisonment of up to six months would be imposed on anybody who "[manufactured] armoured vehicles, tanks or similar machines, which may be turned to military use".<ref>Guderian, ''Achtung-Panzer!'', p. 133</ref>
+
+Despite the manpower and technical limitations imposed upon the German Army by the Treaty of Versailles, several Reichswehr officers established a clandestine General Staff to study World War I and develop future strategies and tactics. Although at first the concept of the tank as a mobile weapon of war met with apathy, German industry was silently encouraged to look into tank design, while quiet cooperation was undertaken with the [[Soviet Union]].<ref>Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 6–7</ref> There was also minor military cooperation with [[Sweden]], including the extraction of technical data that proved invaluable to early German tank design.<ref>Perett, ''German Light Panzers: 1932–42'', p.4</ref>  As early as 1926 various German companies, including [[Rheinmetall]] and [[Daimler-Benz]], produced a single prototype armed with a large 75-millimeter [[cannon]] (the ''Großtraktor'', "large [[tractor]]", was so codenamed to veil the true purpose of the vehicle).<ref name=FrancoPanzerI3>Franco, ''Panzer I: El Inicio de una Saga'', p.3</ref>  Only two years later prototypes of the new ''Leichttraktor'' ("light tractor"), were produced by German companies, armed with 37-millimeter KwK [[Caliber#Caliber as measurement of length|L/45]] [[tank gun|guns]].<ref>Franco, ''Panzer I: El Inicio de una Sage'', p.3; Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p.7</ref> The ''Großtraktor'' was later put into service for a brief period with the 1&nbsp;Panzer Division; the ''Leichttraktor'' remained in testing until 1935.<ref name=FrancoPanzerI3 />
+
+In the late 1920s and early 1930s German tank theory was pioneered by two figures: General [[Oswald Lutz]] and his chief of staff, Lieutenant Colonel [[Heinz Guderian]]. Guderian became the more influential of the two and his ideas were widely publicized.<ref>''See:'' ''Achtung-Panzer!'', first released in German in 1937.</ref> Like his contemporary Sir [[Percy Hobart]], Guderian initially envisioned an [[armoured fighting vehicle|armored]] [[corps]] (''panzerkorps'') composed of several types of tanks. This included a slow [[infantry tank]], armed with a small-[[caliber]] cannon and several [[machine guns]]. The infantry tank, according to Guderian, was to be heavily armored to defend against enemy anti-tank guns and [[artillery]]. He also envisioned a fast breakthrough tank, similar to the British [[cruiser tank]], which was to be armored against enemy anti-tank weapons and have a large 75-millimeter (2.95&nbsp;in) cannon. Lastly, Germany would need a [[heavy tank]], armed with a massive 150-millimeter (5.9&nbsp;in) cannon to defeat enemy [[fortifications]], and even stronger armor. Such a tank would require a weight of 70 to 100&nbsp;tonnes and was completely impractical given the manufacturing capabilities of the day.<ref>Guderian, ''Achtung-Panzer!'', pp.169–170 for a detailed look into Guderian's theories.</ref>
+
+Soon after rising to power in Germany, [[Adolf Hitler]] approved the creation of Germany's first panzer divisions. Simplifying his earlier proposal, Guderian suggested the design of a main combat vehicle which would be developed into the [[Panzer III]], and a breakthrough tank, the Panzer IV.<ref>Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 9</ref> No existing design appealed to Guderian. As a stopgap, the German Army ordered a preliminary vehicle to train German tank crews. This became the Panzer I.<ref>McCarthy, ''Panzerkrieg'', p.31</ref> 
+
+The Panzer&nbsp;I's design history can be traced to 1932's ''Landswirtschaftlicher Schlepper'' (La&nbsp;S) [[armored fighting vehicle]]. The La&nbsp;S was intended not just to train Germany's panzer troops, but to prepare Germany's industry for the mass production of tanks in the near future: a difficult engineering feat for the time.<ref>Franco, ''Panzer I'', p. 4</ref> In July 1932, Krupp revealed a prototype of the ''Landswerk&nbsp;Krupp&nbsp;A'', or LKA, with a sloped front [[glacis plate]] and large central [[casemate]], a design heavily influenced by the [[United Kingdom|British]] [[Carden Loyd tankette]]. The tank was armed with two [[obsolescent]] 7.92-millimeter (.312&nbsp;in) [[MG-13]]&nbsp;Dreyse machine guns.<ref>Franco, ''Panzer II'', p.4–5</ref> Machine guns were known to be largely useless against even the lightest tank armor of the time, restricting the Panzer&nbsp;I to a training and anti-infantry role by design.<ref>McCarthy, ''Panzerkrieg'', p. 31</ref>
+
+A mass-produced version of the LKA was designed by a collaborative team from Daimler-Benz, Henschel, Krupp, MAN, and Rheinmetall, exchanging the casemate for a rotating [[turret]]. This version was accepted into service after testing in 1934.<ref>Perett, ''German Light Panzers'', p. 4</ref> Although these tanks were referred to as the La&nbsp;S and LKA well beyond the start of production, its official designation, assigned in 1938, was ''Panzerkampfwagen&nbsp;I Ausführung.&nbsp;A'' ('model A' or, more accurately, 'batch A').<ref>Franco, ''Panzer I'', p. 5–6</ref> The first fifteen tanks, produced between February and March 1934, did not include the rotating turret and were used for crew training.<ref>Franco, ''Panzer I'', p.6</ref> Following these, production was switched to the combat version of the tank. The Ausf.&nbsp;A was under-armored, with steel plate of only 13&nbsp;millimeters (0.51&nbsp;in) at its thickest.   The tank had several design flaws, including suspension problems which made the vehicle pitch at high velocities, and engine overheating.<ref>Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 10</ref> The driver was positioned inside the chassis and used conventional steering levers to control the tank, while the commander was positioned in the turret where he also acted as gunner. The two crew members could communicate by means of voice tube.<ref>Perrett, ''German Light Panzers'', p.5–6</ref> Machine gun ammunition was stowed in five bins, containing various numbers of 25-round magazines.<ref>Specifically, there was an eight magazine bin in the turret, and four bins in the hull containing 8, 20, 6 and 19 magazines, respectively. For more information see Perrett, ''German Light Panzers'', p. 6</ref> Author Lucas Molina Franco suggests that 833 ''Panzerkampfwagen&nbsp;I Ausf.&nbsp;A'' tanks were built in total,<ref>Franco, ''Panzer I'', p. 10</ref> while authors Bryan Perrett offers the number of 300<ref name=PerrettPanzers6>Perrett, ''German Light Panzers'', p. 6</ref> and Terry Gander 818 units.<ref name="Gander, Tanks & Armour, p. 11">Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 11</ref>
+
+[[Image:SdKfz101.jpg|right|thumb|Panzerkampfwagen I Ausf. A on display at the [[Musée des Blindés]] in [[Saumur]], [[France]]]]
+
+Many of the problems in the Ausf.&nbsp;A were corrected with the introduction of the Ausf.&nbsp;B. The engine was replaced by the water-cooled, six-cylinder Maybach NL 38 TR, developing {{convert|98|hp|kW}}, and the [[gearbox]] was changed to a more reliable model. The larger engine required the extension of the vehicle's chassis by 40&nbsp;cm (16 in), and this allowed the improvement of the tank's suspension, adding an additional [[bogie wheel]] and raising the tensioner.<ref>Franco, ''Panzer I'', pp. 21–21.</ref> The tank's weight increased by 0.4&nbsp;tons. Production of the Ausf.&nbsp;B began in August 1935 and finished in early 1937—Franco writes 840 were constructed,<ref>Franco, ''Panzer I'', p. 22</ref> but notes that only 675 of these were combat models,<ref>Franco, ''Panzer I'', p. 34</ref> while Perrett suggests a total number of 1,500 (offsetting the low number of Ausf.&nbsp;A he proposes)<ref name=PerrettPanzers6 /> and Gander a total of 675.<ref name="Gander, Tanks & Armour, p. 11"/>
+
+=== Sister tanks ===
+Two more combat versions of the Panzer&nbsp;I were designed and produced between 1939 and 1942.  By this stage the design concept had been superseded by medium and heavy tanks and neither variant was produced in sufficient numbers to have a real impact on the progress of the war. These new tanks had nothing in common with either the Ausf.&nbsp;A or B except name.<ref name="Gander, Tanks & Armour, p. 14">Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 14</ref> One of these, the Panzer I Ausf.&nbsp;C, was designed jointly between [[Krauss-Maffei]] and Daimler-Benz in 1939 to provide an amply armored and armed reconnaissance light tank.<ref name=PerrettPanzers6 /> The Ausf.&nbsp;C boasted a completely new chassis and turret, a modern [[torsion-bar suspension]] and five interleaved roadwheels.<ref>Franco, ''Panzer I'', pp. 37–38</ref> It also had a maximum armor thickness of 30&nbsp;millimeters (1.18&nbsp;in), over twice that of either the Ausf.&nbsp;A or B, and was armed with a 20-millimeter (0.78&nbsp;in) EW 141 [[autocannon]].<ref>Franco, ''Panzer I'', p. 6 Both Franco and Perrett mention that the EW 141 cannon 20&nbsp;millimeters, although Gander mentions a caliber of 7.92 millimeters. However, there is a picture of an Ausf. C with a 20-millimeter cannon on page 15 of Gander.</ref> Forty of these tanks were produced,<ref>Franco, ''Panzer I'', p. 37</ref> along with six prototypes.<ref name="Gander, Tanks & Armour, p. 14"/> Two tanks were deployed to [[1st Panzer Division (Germany)|1 Panzer Division]] in 1943, and the other thirty-eight were deployed to the LVIII Panzer Reserve Corps during the [[Battle of Normandy|Normandy landings]].<ref>Franco, ''Panzer I'', p. 38</ref>
+
+[[Image:Pz II Neu.jpg|thumb|right|PzKpfw I Ausf. F on display in a museum in Belgrade]] 
+
+The second vehicle, the Ausf.&nbsp;F, was as different from the Ausf.&nbsp;C as it was from the Ausf.&nbsp;A and B.<ref>Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', pp. 14–15</ref> Intended as an infantry support tank, the Panzer&nbsp;I Ausf.&nbsp;F had a maximum armour thickness of 80&nbsp;millimeters (3.15&nbsp;in) and weighed between 18 and 21&nbsp;tonnes.<ref>Perrett, ''German Light Panzers'', pp. 6–7. Perrett claims a weight of 18&nbsp;tonnes, although Franco claims 21.</ref>  The Ausf.&nbsp;F was armed with two 7.92-millimeter [[MG-34]]s.<ref>Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 14; although this is similar to the armament of earlier Ausf.&nbsp;A and B, these two were armed with the older MG-13s, not the modern MG-34.</ref> Thirty were produced in 1940, and a second order of 100 was later canceled. In order to compensate for the increased weight, a new {{convert|150|hp|kW}} Maybach HL45 Otto engine was used, allowing a maximum road speed of 25&nbsp;kilometers per&nbsp;hour (15.5&nbsp;mph). Eight of the thirty tanks produced were sent to the [[1st Panzer Division (Germany)|1 Panzer Division]] in 1943 and saw combat at the [[Battle of Kursk]]. The rest were given to several army schools for training and evaluation purposes.<ref>Franco, ''Panzer I'', pp. 38–39</ref>
+
+== Combat history ==
+=== Spanish Civil War ===
+On 18&nbsp;July 1936, war broke out on the [[Iberian peninsula]] as Spain dissolved into a state of [[Spanish civil war|civil war]]. After the chaos of the initial uprising, two sides coalesced and began to consolidate their position—the [[Popular front]] (the Republicans) and the [[Spain under Franco|Spanish Nationalist front]]. In an early example of a [[proxy war]], both sides quickly received support from other countries, most notably the [[Soviet Union]] and [[Germany]], who wanted to test their tactics and equipment.<ref>Candil, ''Soviet Armor in Spain: Aid Mission to Republicans Tested Doctrine and Equipment''.</ref> The first shipment of foreign tanks, fifty Soviet T-26's, arrived on 15 October.<ref>Candil, ''Soviet Armor in Spain'', p. 32; for reference, Wikipedia's [[T-26]] article includes a table of every shipment of T-26Bs to Spain throughout the entirety of the war.</ref> The shipment was under the surveillance of the [[Kriegsmarine|German Navy]] and Germany immediately responded by sending forty-one Panzer&nbsp;I's to Spain a few days later.<ref>38 Ausf. A and 3 ''Panzerbefehlswagen''&nbsp;I Ausf.&nbsp;B command vehicles. García, ''Las Armas de la Guerra Civil Española'', p. 308</ref> This first shipment was followed by four more shipments of Panzer&nbsp;I Ausf.&nbsp;B,<ref>Perrett, ''German Light Panzers'', p. 46</ref> with a total of 122 vehicles.<ref>García, ''Las Armas de la Guerra Civil Española'', p. 311; Perrett offers the total number of 180, but then contradicts himself by later stating only 100 vehicles were sent. ''Las Armas de la Guerra Civil Española'' puts the correct number at 122.</ref>
+
+The first shipment of Panzer&nbsp;I's was brought under the command of Lieutenant Colonel [[Wilhelm Ritter von Thoma|Wilhelm, Ritter von Thoma]] in Gruppe Thoma (also referred to as Panzergruppe Drohne). Gruppe Thoma formed part of Gruppe Imker the ground formations of the German [[Condor Legion]], who fought on the side of [[Francisco Franco|Franco]]'s Nationalists.<ref>Ramos, ''La Legión Cóndor en la Guerra Civil'', p. 96</ref> Between July and October, a rapid Nationalist advance from Sevilla to Toledo placed them in position to take [[Madrid]], the Spanish capital.<ref>Beevor, ''The Spanish Civil War'', pp. 97–104</ref>  The Nationalist advance and the fall of the town of Illescas to Nationalist armies on 18&nbsp;October 1936 caused the government of the Popular Front's [[Second Spanish Republic|Second Republic]], including President [[Manuel Azaña]], to flee to [[Barcelona]] and [[Valencia, Spain|Valencia]].<ref>Moa, ''Los Mitos de la Guerra Civil'', p. 323.</ref> In an attempt to stem the Nationalist tide and gain crucial time for Madrid's defence, Soviet armor was deployed south of the city under the command of Colonel Krivoshein before the end of October.<ref>Candil, ''Soviet Armor in Spain'', p. 32</ref> At this time, several T-26 tanks under the command of Captain Paul Arman were thrown into a Republican counterattack directed towards the town of Torrejon de Velasco in an attempt to cut off the Nationalist advance north. This was the first tank battle in the Spanish Civil War. Despite initial success, poor communication between the Soviet Republican armor and Spanish Republican infantry caused the isolation of Captain Arman's force and the subsequent destruction of a number of tanks. This battle also marked the first use of the [[molotov cocktail]] against tanks.<ref>Daley, ''Soviet and German Advisors Put Doctrine to the Test'', pp. 33–34</ref> [[Ritter]] von Thoma's Panzer&nbsp;Is fought for the Nationalists only days later on 30&nbsp;October, and immediately experienced problems. As the Nationalist armor advanced, it was engaged by the Commune de Paris battalion, equipped with Soviet [[BA-10]] armored cars. The 45-millimeter (1.7&nbsp;in) gun in the BA-10 was more than sufficient to knock out the poorly armored Panzer I at ranges of over 500&nbsp;meter (550 yd).<ref>Daley, ''Soviet and German Advisors Put Doctrine to the Test'', p. 35</ref> Although the Panzer I was initially able to knock out the T-26 at close range—150&nbsp;meters (165&nbsp;yd) or less—using an armor-piercing 7.92&nbsp;millimeter bullet, the Republican tanks began to engage at ranges where they were immune to the machine guns of the Panzer&nbsp;I.<ref>Candil, ''Soviet Armor in Spain'', p. 36</ref>  
+
+{| class="wikitable" style="float: right; margin-left: 1em; margin-bottom: 1em; text-align: center;" summary="Characteristics of the T-26, Panzer and CV-33/35"
+|+ Comparison of light tanks in the Spanish Civil War<ref>{{cite book |last= Franco |first= Lucas Molina |title= Panzer I: El inicio de una saga |year= 2005 |publisher= AF Editores |location= Madrid, Spain |language= Spanish |pages= 613 |id = ISBN 84-96016-52-8}}</ref><ref>Franco, Lucas M. (2006). "El Tanque de la Guerra Civil Española" in ''Historia de la Iberia Vieja'', No. 13. ISSN 1699-7913</ref><ref>Miller, ''Illustrated Directory of Tanks and Fighting Vehicles: From World War I to the Present Day'', p. 164</ref>
+|- 
+!
+! style="text-align: left;" | T-26
+! style="text-align: left;" | Panzer I
+! style="text-align: left;" | CV.33
+! style="text-align: left;" | CV.35
+|-
+! Weight
+| 9.4 [[Tonne|t]]
+| 5.4&nbsp;t
+| 3.15&nbsp;t
+| 2.3&nbsp;t
+|-
+! Gun
+| 45&nbsp;mm cannon
+| 2× 7.92&nbsp;mm<br /> [[MG 13]]
+| 6.5&nbsp;mm or 8&nbsp;mm<br /> machine gun
+| 8&nbsp;mm [[Breda]]<br />machine gun
+|-
+! Ammunition
+| 122 rounds
+| 2,250 rounds
+| 3,200 8&nbsp;mm or<br />3,800 6.5&nbsp;mm
+| 3,200
+|-
+! Road&nbsp;range
+| 175&nbsp;[[Kilometre|km]]
+| 200&nbsp;km
+| 125&nbsp;km
+| 125&nbsp;km
+|-
+! Armor
+| 7–16&nbsp;mm
+| 7–13&nbsp;mm
+| 5–15&nbsp;mm
+| 5–13.5&nbsp;mm
+|}
+
+Although the Panzer&nbsp;I would participate in almost every major Nationalist offensive of the war, the Nationalist army began to deploy more and more captured T-26 tanks to offset their disadvantage in protection and firepower.<ref>García, ''Las Armas de la Guerra Civil Española'', pp. 327–328</ref> At one point, von Thoma offered up to 500&nbsp;[[Spanish peseta|pesetas]] for each T-26 captured.<ref>McCarthy, ''Panzerkrieg'', p. 34</ref> 
+
+The Panzer&nbsp;I was upgraded in order to increase its lethality. On 8&nbsp;August, 1937, Major General García Pallasar received a note from Generalísimo [[Francisco Franco]] which expressed the need for a Panzer&nbsp;I (or ''negrillo'', as their Spanish crews called them) with a 20-millimeter gun. Ultimately, the piece chosen was the [[Breda Model 35|Breda Model 1935]], due to the simplicity of the design over competitors such as the German [[2 cm FlaK 30|Flak 30]]. Furthermore, the 20mm Breda was capable of perforating 40&nbsp;millimeters of armor at 250&nbsp;meters (1.57&nbsp;in at 275&nbsp;yd), which was more than sufficient to penetrate the frontal armor of the T-26. Although originally forty Italian [[L3/35|CV.35]] light tanks were ordered with the Breda in place of their original armament, this order was subsequently canceled after it was thought adaptation of the same gun to the Panzer&nbsp;I would yield better results. Prototypes were ready by September&nbsp;1937 and an order was placed after successful results. The mounting of the Breda in the Panzer I required the original turret to be opened at the top and then extended by a vertical supplement. Four of these tanks were finished at the Armament Factory of [[Sevilla]], but further production was canceled as it was decided sufficient numbers of Republican T-26 tanks had been captured to fulfill the Nationalist leadership's request for more lethal tanks. The Breda modification was not particularly liked by German crews, as the unprotected gap in the turret, designed to allow the tank's commander to aim, was found to be a dangerous weak point.<ref>Franco, ''Panzer I'', pp. 47–49</ref>  
+
+In late 1938, another Panzer&nbsp;I was sent to the Armament Factory of Sevilla in order to mount a 45&nbsp;mm gun, captured from a Soviet tank (a T-26 or [[BT-5]]). A second was sent sometime later in order to exchange the original armament for a 37-millimeter Maklen anti-tank gun, which had been deployed to Asturias in late 1936 on the Soviet ship A. Andreiev. It remains unknown to what extend these trials and adaptations were completed, although it is safe to assume neither adaptation was successful beyond the drawing board.<ref>Franco, ''Panzer I'', p. 50</ref>
+
+{| class="wikitable" style="margin: auto; text-align: center;" summary="Summary of Panzer Is sent to Spain between 1936 and 1939"
+|+ Panzer I deliveries to Spain (1936–1939)<ref>{{cite book |last= García |first= José María |coauthors= Lucas Molina Franco |title= Las Armas de la Guerra Civil Española |year= 2006 |publisher= La Esfera de los Libros |location= 28002 Madrid |language= Spanish |pages= 613 |id = ISBN 84-9734-475-8}}</ref>
+|- 
+! Date
+! Number of Vehicles
+! Additional Information
+|-
+| October 1936
+| 41
+| Formed part of the [[Condor Legion]]
+|-
+| December 1936
+| 21
+| &nbsp;
+|-
+| August 1937
+| 30
+| &nbsp;
+|-
+| End of 1937
+| 10
+| &nbsp;
+|-
+| January 1939
+| 30
+| &nbsp;
+|-
+| '''Total:'''
+| 122
+| &nbsp;
+|}
+
+=== Second World War ===<!-- This section is linked from [[Panzer I]] -->
+During the initial campaigns of the [[Second World War]], Germany's light tanks, including the Panzer&nbsp;I, formed the bulk of its armored strength.<ref name="McCarthy, Panzerkrieg, p. 51">McCarthy, ''Panzerkrieg'', p. 51</ref> In March&nbsp;1938, the German Army [[Anschluss|marched into Austria]], experiencing a mechanical breakdown rate of up to thirty percent.<ref>Perrett, ''German Light Panzers'', pp. 35–37</ref> However, the experience revealed to Guderian several faults within the German ''Panzerkorps'' and he subsequently improved logistical support.<ref>McCarthy, ''Panzerkrieg'', p. 42</ref> In October 1938, Germany occupied [[Czechoslovakia]]'s [[Sudetenland]], and the remainder of the country in March 1939. The capture of Czechoslovakia allowed several Czech tank designs, such as the [[Panzer 38(t)]], and their subsequent variants and production, to be incorporated into the German Army's strength. It also prepared German forces for the invasion of [[Poland]].<ref>McCarthy, ''Panzerkrieg'', pp.42–43</ref>
+
+==== Poland and the campaign in the West ====
+[[Image:PanzerINorway.PNG|right|thumb|Panzer I Ausf. A in combat during the German invasion of Norway]]
+On 1&nbsp;September 1939, Germany [[Invasion of Poland (1939)|invaded Poland]] using seventy-two divisions (including 16 reserve infantry divisions in OKH reserves), including seven panzer divisions (1., 2., 3., 4., 5., 10., "Kempf") and four light divisions (1., 2., 3., 4.). Three days later, [[France]] and [[UK|Britain]] declared war on Germany. The seven panzer and four light divisions were arrayed in five armies, forming two army groups.<ref name="McCarthy, Panzerkrieg, p. 51"/> The battalion strength of the [[1st Panzer Division (Germany)|1 Panzer Division]] included no less than fourteen Panzer&nbsp;I's, while the other six divisions included thirty-four Panzer&nbsp;I's.<ref>Perrett, ''German Light Panzers'', pp. 37</ref> A total of about 2,700 tanks were available for the invasion of Poland, but only 310 of the heavier Panzer IIIs and IVs were available. Furthermore, 350 were of Czech design—the rest were either Panzer&nbsp;I's or [[Panzer II]]'s.<ref>McCarthy, ''Panzerkrieg'', p. 50–51</ref> The invasion was swift and the last Polish pockets of resistance surrendered on 6&nbsp;October.<ref name=McCarthyPanzerkrieg59>McCarthy, ''Panzerkrieg'', p. 59</ref> The entire campaign had lasted five weeks (with help of the Soviet forces which attacked on 17th of September), and the success of Germany's tanks in the campaign was summed up in response to Hitler on 5 September: when asked if it had been the [[dive bomber]]s who destroyed a Polish artillery regiment, Guderian replied, "No, our panzers!"<ref>Guderian, ''Panzer Leader'', p. 73</ref> 
+
+The Poles suffered almost 190,000 casualties (including around 66,300 killed) in the campaign, the Germans around 55,000 (including around 35,000 wounded) <ref>''Wojna Obronna Polski 1939'', page 851</ref>. However, some 832 tanks (including 320 PzI, 259 PzII, 40 Pz III, 76 PzIV, 77 Pz35(t), 13 PzBef III, 7 PzBef 38(t), 34 other PzBef and some Pz38(t))<ref name="Fritz Hahn, Waffen und Geheimwaffen">Fritz Hahn, ''Waffen und Geheimwaffen des deutschen Heeres 1933-1945'', ''Polen 1939''</ref> were lost during the campaign, approximately 341 of which were never to return to service. This represented about a third of Germany's armor deployed for in the Polish campaign.<ref name="Fritz Hahn, Waffen und Geheimwaffen"/> During the campaign no less than a half of Germany's tanks were unavailable due to maintenance issues or enemy action, and of all tanks, the Panzer&nbsp;I proved the most vulnerable to Polish anti-tank weapons.<ref>McCarthy, ''Panzerkrieg'', p. 60</ref> Furthermore, it was found handling of armored forces during the campaign left much to be desired. During the beginning of Guderian's attack in northern Poland, his corps was held back to coordinate with infantry for quite a while, preventing a faster advance. It was only after Army Group South had its attention taken from Warsaw at the [[Battle of Bzura]] that Guderian's armor was fully unleashed. There were still lingering tendencies to reserve Germany's armor, even if in independent divisions, to cover an infantry advance or the flanks of advancing infantry armies.<ref>Cooper, ''The German Army'', p. 176</ref>  Although tank production was increased to 125 tanks per month after the Polish Campaign, losses forced the Germans to draw further strength from Czech tank designs, and light tanks continued to form the majority of Germany's armored strength.<ref>McCarthy, ''Panzerkrieg'', p. 61</ref>
+
+Months later, Panzer&nbsp;Is participated in [[Operation Weserübung]]&mdash;the invasion of Denmark and Norway.<ref>Perrett, ''German Light Panzers'', p. 18</ref> Despite its obsolescence, the Panzer&nbsp;I was also used in the [[Battle of France|invasion of France]] in May 1940. Of 2,574 tanks available for the campaign, no fewer than 523 were Panzer Is. Furthermore, there were only 627 Panzer&nbsp;III's and IV's. At least a fifth of Germany's armor was composed of Panzer&nbsp;I's, while almost four-fifths was light tanks of one type or another, including 955 Panzer&nbsp;II, 106 Czech [[Panzer 35(t)]], and 228 Panzer&nbsp;38(t).<ref>Guderian, ''Panzer Leader'', p. 472</ref> For their defense, the French boasted up to 4,000 tanks, including 300 [[Char B1]], armed with a 47-millimeter (1.7&nbsp;in) gun in the turret and a larger 75-millimeter (2.95&nbsp;in) low-velocity gun in the hull. The French also had around 250 [[Somua S-35]], widely regarded as one of the best tanks of the period, armed with the same 47millimeter main gun and protected by almost 55&nbsp;millimeter (2.17 in) of armor at its thickest point. Nevertheless, the French also deployed over 3,000 light tanks, including about 500 World War One-vintage [[FT-17]]s.<ref>McCarthy, ''Panzerkrieg'', p. 72</ref> The two main advantages German armor enjoyed were radios allowing them to coordinate faster than their British or French counterparts<ref>McCarthy, ''Panzerkrieg'', p. 73</ref> and superior tactical doctrine.<ref>McCarthy, ''Panzerkrieg'', p. 90</ref>
+
+==== North Africa and campaigns in the East ====
+[[Image:PanzerIAWes.PNG|right|thumb|Panzer I Ausf. A during the campaign in the West]]
+Italian setbacks in [[Egypt]] and their colony of [[Libya]] caused Hitler to dispatch aircraft to [[Sicily]], and a blocking force to [[North Africa]]. This blocking force was put under the command of Lieutenant General [[Erwin Rommel]] and included the motorized [[5th Light Division]] and the [[15th Panzer Division]]. This force landed at [[Tunis]] on 12&nbsp;February 1941.<ref>Latimer, ''Alamein'', pp. 27–28</ref> Upon arrival, Rommel had around 150 tanks, about half Panzer&nbsp;III and IV.<ref>Bierman, ''The Battle of Alamein'', p.67</ref> The rest were Panzer&nbsp;I and II, although the Panzer I were soon replaced.<ref>Perrett, ''German Light Panzers'', pp. 43–44</ref> On 6&nbsp;April 1941, Germany attacked both [[Yugoslavia]] and [[Greece]], with fourteen divisions invading Greece from neighboring [[Bulgaria]], which by then had joined the [[Tripartite Pact]].<ref>Porch, ''The Path to Victory'', p. 149</ref> The invasion of Yugoslavia included no less than six panzer divisions,<ref>McCarthy, ''Panzerkrieg'', p. 94</ref> which still fielded the Panzer&nbsp;I.<ref>Perrett, ''German Light Panzers'', p. 44,</ref> Yugoslavia surrendered 17&nbsp;April 1941, and Greece fell on 30&nbsp;April 1941.<ref>Porch, ''The Path to Victory'', p. 159</ref>
+
+The final major campaign in which the Panzer&nbsp;I formed a large portion of the armored strength was [[Operation Barbarossa]], 22&nbsp;June, 1941. The 3,300 German tanks included about 410 Panzer&nbsp;I.<ref>McCarthy, ''Panzerkrieg'', p. 99; 750 were Panzer IIs, 150 Panzer 35(ts), 625 Panzer 38(t), 965 Panzer IIIs and 440 Panzer IVs.</ref> By the end of the month, a large portion of the [[Red Army]] found itself trapped in the Minsk pocket,<ref name=McCarthyPanzerkrieg103>McCarthy, ''Panzerkrieg'', p. 103</ref> and by 21&nbsp;September Kiev had fallen, thereby allowing the Germans to concentrate on their ultimate objective, Moscow.<ref>Beevor, ''Stalingrad'', p. 29</ref> Despite the success of Germany's armor in the Soviet Union, between June and September most German officers were shocked to find their tanks were inferior to newer Soviet models, the [[T-34]] and [[KV]] series.<ref name=McCarthyPanzerkrieg103 /> Army Group North very quickly realized that none of the tank guns currently in use by German armor could penetrate the thick armor of the [[KV-1]].<ref>Raus, p. 34,</ref> The performance of the Red Army during the [[Battle of Moscow]] and the growing numbers of new Soviet tanks made it obvious that the Panzer&nbsp;I was no longer suitable for combat.<ref name=PerrettPanzers45 /> The Panzer Is were instead tasked with towing trains through thick mud to alleviate logistics problems at the front.<ref name=PerrettPanzers45>Perrett, ''German Light Panzers'', p. 45</ref>
+
+=== Foreign service ===
+After Germany, Spain fielded the largest number of Panzer&nbsp;I tanks. A total of 122 were exported to Spain during the Spanish Civil War,<ref>García, ''Las Armas de la Guerra Civil Española'', p.311</ref> and as late as 1945, Spain's Brunete Armored Division counted 93 on strength. The Panzer&nbsp;I remained in use in Spain until aid arrived from the [[United States of America]] in 1954, when they were replaced by the relatively modern [[M47 Patton]] [[main battle tank]].<ref>Franco, ''La Brunete: Primera Parte'', p. 31</ref> Between 1935 and 1936, an export version of the Panzer&nbsp;I Ausf.&nbsp;B, named the L.K.B. (''Leichte&nbsp;Kampfwagen&nbsp;B''), was designed for export to [[Bulgaria]]. Modifications included up-gunning to a 20-millimeter gun and fitting a Krupp&nbsp;M&nbsp;311&nbsp;V-8 gasoline engine. Although three examples were built, none were exported to Bulgaria, although a single Panzer&nbsp;I Ausf.&nbsp;A had previously been sold. In 1937, around ten Ausf.&nbsp;As were sold to China during a period of [[Sino-German cooperation (1911-1941)|Sino-German cooperation]], which were used in the [[Battle of Nanjing]] by the 3rd Armored Battalion. A final order was supplied to [[Hungary]] in 1942, totalling eight Ausf.&nbsp;B's and six command versions.  These were incorporated into the 1st&nbsp;Armored Division and saw combat in late 1942.<ref>Franco, ''Panzer I'', p. 64</ref>
+
+== Variants ==
+{{main | Panzer I variants}}
+
+Between 1934 and the mid 1940s several variants of the Panzer I were designed, especially during the later years of its combat history. Because they were obsolescent from their introduction, incapable of defeating foreign armor, and outclassed by newer German tanks, the Panzer&nbsp;I chassis were increasingly repurposed as [[tank destroyer]]s, [[Anti-aircraft warfare|anti-aircraft vehicles]], and other variants.<ref>Gander, ''Tanks & Armour: Panzerkampfwagen I & II'', p. 62</ref>  One of the most well known variants was the ''Panzerbefehlswagen'' ("small armored command vehicle"), built on the Ausf. A and Ausf. B chassis—200 of these were manufactured.  The Panzer I Ausf. B chassis was also used to build the German Army's first tracked tank destroyer, the [[Panzerjäger I]].  This vehicle was armed with a Czech 47-millimeter (1.85&nbsp;in) anti-tank gun.<ref>Perrett, ''German Light Panzers 1932–42'', p. 7</ref>
+
+== Notes ==
+{{refs|2}}
+
+== References ==
+{{commons|Panzerkampfwagen I}}
+{{refbegin|2}}
+* {{cite book |last= Beevor |first= Antony |title= Stalingrad - The Fateful Siege: 1942-1943 |year= 1998 |publisher= Penguin Books |location= Middlesex, England | pages= 494 |isbn = 0-670-87095-1}}
+* {{cite book |last= Beevor |first= Antony |title= The Spanish Civil War |year= 1982 |publisher= Penguin Books |location= New York, USA | pages= 320 |isbn = 0-1410-0148-8}}
+* {{cite book |last= Bierman |first= John |coauthors= Colin Smith |title= The Battle of Alamein: Turning Point, World War II |year= 2002 |publisher= Viking |location= Middlesex, England| pages= 478 |isbn = 0-670-03040-6}}
+* Candil, Antonio J. (1999). "Aid Mission to the Republicans Tested Doctrine and Equipment" in ''Armor'', 1 March 1999. Fort Knox, KY: US Army Armor Center. ISSN 0004-2420.
+* {{cite book |last= Cooper |first= Matthew |title= The German Army 1933-1945 |year= 1978 |publisher= Scarborough House |location= Lanham, Maryland | pages= 598 |isbn = 0-8128-8519-8}}
+* Daley, Dr. John (1999). "Soviet and German Advisors Put Doctrine to the Test: Tanks in the Siege of Madrid" in ''Armor'', 1 May 1999. Fort Knox, KY: US Army Armor Center. ISSN 0004-2420.
+* Franco, Lucas M. (2006). "El Tanque de la Guerra Civil Española" in ''Historia de la Iberia Vieja'' {{es icon}}, No. 13. ISSN 1699-7913.
+* {{cite book |last= Franco |first= Lucas Molina |title= Panzer I: El inicio de una saga |year= 2005 |publisher= AF Editores |location= Madrid, Spain |language= Spanish |pages= 64 |isbn = 84-96016-52-8}}
+* {{cite book |last= Gander |first= Terry |title= Tanks & Armour: Panzerkampfwagen I & II |year= 2006 |publisher= Ian Allen |location= Hersham, Surrey | pages= 96 |isbn = 0-7110-3090-1}}
+* {{cite book |last= García |first= José María |coauthors= Lucas Molina Franco |title= La Brunete |year= 2005 |publisher= Quiron Ediciones|location= Valladolid |language= Spanish |pages= 80 |isbn = 84-96016-28-5}}
+* {{cite book |last= García |first= José María |coauthors= Lucas Molina Franco |title= Las Armas de la Guerra Civil Española |year= 2006 |publisher= La Esfera de los Libros |location= 28002 Madrid |language= Spanish |pages= 613 |isbn = 84-9734-475-8}}
+* {{cite book |last= Guderian |first= Heinz |title= Panzer Leader |year= 1996 |publisher= Da Capo |location= New York, USA | pages= 400 |isbn = 0-674-01016-7}}
+* {{cite book |last= Latimer |first= Jon |title= Alamein |year= 2002 |publisher= Harvard |location= United States of America | pages= 598 |isbn = 0-8128-8519-8}}
+* {{cite book |last= Manstein |first= Erich von |title= Lost Victories |year= 1958 |publisher= Zenith Press |location= St. Paul, USA| pages= 574 |isbn = 0-7603-2054-3}}
+* {{cite book |last= McCarthy |first= Peter |coauthors= Mike Syron |title= Panzerkrieg: The Rise and Fall of Hitler's Tank Divisions |year= 2002 |publisher= Carroll and Graf |location= New York, USA| pages= 332 |isbn = 0-7867-1009-8}}
+* {{cite book |last= Miller |first= David |title= Illustrated Directory of Tanks and Fighting Vehicles: From World War I to the Present Day |date= 30 June 2000 |publisher= Zenith Press |location= St. Paul, USA | pages=480 |isbn = 0760308926}}
+* {{cite book |last= Moa |first= Pío |title= Los Mitos de la Guerra Civil |year= 2003 |publisher= Esfera de los Libros |location= Madrid, Spain |language= Spanish |pages= 605 |isbn = 84-9734-093-0}}
+* {{cite book |last= Perrett |first= Bryan |title= German Light Panzers 1932-41 |year= 1998 |publisher= Osprey |location= New York, NY| pages= 48 |isbn = 1-85532-2844-2}}
+* {{cite book |last= Porch |first= Douglas |title= The Path to Victory: The Mediterranean Theater in World War II |year= 2004 |publisher= Farrar, Straus and Giroux |location= New York, USA | pages= 796 |isbn = 0-374-20518-3}}
+* {{cite book |last= Ramos |first= Raúl Arias |title= El Apoyo Military Alemán a Franco: La Legión Cóndor en la Guerra Civil |year= 2003 |publisher= Esfera del los Libros |location= Madrid, Spain |language= Spanish |pages= 365 |isbn = 84-9734-137-6}}
+* {{cite book |last= Raus |first= Erhard |title= Panzers on the Eastern Front: General Erhard Raus and his Panzer Divisions in Russia, 1941–1945 |editor= Peter G. Tsouras |year= 2002 |publisher= Greenhill Books |location= United States of America | pages= 253 |isbn = 0-7394-2644-3}}
+* {{cite book |last= Hahn |first= Fritz |title= Waffen und Geheimwaffen des deutschen Heeres 1933-1945 |pages= Polen 1939}}
+* {{cite book |last= |first= |title= Wojna Obronna Polski 1939 |pages= p. 851}}
+{{refend}}
+
+{{WWIIGermanAFVs}}
+
+{{featured article}}
+
+[[Category:Armoured fighting vehicles of the interwar period]]
+[[Category:Light tanks]]
+[[Category:World War II tanks of Germany]]
+[[Category:World War II tanks of China]]
+[[Category:Tanks of the interwar period]]
+[[Category:Tanks of Spain]]
+[[Category:Inventions of the Third Reich]]
+
+[[bs:Panzer I]]
+[[bg:Panzerkampfwagen I]]
+[[ca:Panzer I]]
+[[cs:Panzerkampfwagen I]]
+[[da:Panzer I]]
+[[de:Panzerkampfwagen I]]
+[[et:PzKpfw I]]
+[[es:Panzer I]]
+[[eo:Panzer I]]
+[[fr:Panzerkampfwagen I]]
+[[ko:1호 전차]]
+[[hr:Panzer I]]
+[[id:Panzer I]]
+[[it:Panzer I (carro armato)]]
+[[he:פאנצר סימן 1]]
+[[lv:Panzerkampfwagen I]]
+[[lt:Panzerkampfwagen I]]
+[[hu:Panzerkampfwagen I]]
+[[nl:Panzerkampfwagen I]]
+[[ja:I号戦車]]
+[[no:Panzer I]]
+[[pl:PzKpfw I]]
+[[pt:Panzerkampfwagen I]]
+[[ro:Panzer I]]
+[[ru:Pz Kpfw I]]
+[[sk:Panzerkampfwagen I]]
+[[sl:Panzer I]]
+[[sr:Панцер I]]
+[[sh:Panzer I]]
+[[fi:Panzerkampfwagen I]]
+[[sv:Panzerkampfwagen I]]
+[[tr:Panzer I]]
+[[zh:一號坦克]]

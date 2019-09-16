@@ -1,0 +1,115 @@
+{{Chembox new
+|   Name = Copper(I) chloride
+|   ImageFile = Copper(I)-chloride-sample.jpg
+<!-- | ImageSize = 170px -->
+|   ImageName = Copper(I) chloride
+|   ImageFile1 = Nantokite-unit-cell-3D-balls.png
+<!-- | ImageSize1 = 130px  -->
+|   ImageName1 = Unit cell of nantokite
+|   IUPACName = Copper(I) chloride
+|   OtherNames = Cuprous chloride
+| Section1 = {{Chembox Identifiers
+|   CASNo = 7758-89-6
+|   RTECS = GL6990000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = CuCl
+|   MolarMass = 98.99 g/mol
+|   Appearance = white powder, slightly<br />green from oxidation
+|   Density = 4.140 g/cm<sup>3</sup>, solid
+|   Solubility = 0.0062 g/100 ml (20 °C)
+|   MeltingPt = 430 °C (703 K)
+|   BoilingPt = 1490 °C (1760 K),<br />decomposes
+  }}
+| Section3 = {{Chembox Structure
+|   CrystalStruct = [[Tetrahedral]] [[close packed]]<br />([[Zinc blende]] structure)
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://sciencelab.com/msds.php?msdsId=9923602 ScienceLab.com]
+|   MainHazards = Irritant
+|   NFPA-H = 3
+|   NFPA-R = 0
+|   NFPA-F = 0
+|   FlashPt = 
+|   RSPhrases = R: 22, 50, 53 S: 22, 60/61
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Copper(I) bromide]]<br />[[Copper(I) iodide]]
+|   OtherCations = [[Copper(II) chloride]]<br />[[Silver(I) chloride]]
+  }}
+}}
+
+'''Copper(I) chloride''' (quite commonly called '''cuprous chloride'''), is the lower [[chloride]] of [[copper]], with the formula CuCl.  It occurs naturally as the mineral [[nantokite]].  This colorless solid  is almost insoluble in water, and which tends to [[Redox|oxidize]] in air to green [[Copper(II) chloride|CuCl<sub>2</sub>]].  It is a [[Lewis acid]] which reacts with suitable ligands such as [[ammonia]] or [[chloride]] ion to form [[Complex (chemistry)|complexes]], many of which are water-soluble.  It is even able to form a stable complex with [[carbon monoxide]] in the presence of [[aluminum chloride]] as in the COPure<sup>SM</sup> process.
+
+In [[aqueous]] solution, CuCl would be unstable with respect to [[disproportionation]] into [[Copper|Cu]] and [[Copper(II) chloride|CuCl<sub>2</sub>]], but is stable toward water due to its low [[solubility]].<ref name="">Greenwood, N.N.; Earnshaw, A. ''Chemistry of the Elements'', 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997.</ref>
+
+==Chemical properties==
+'''Copper(I) chloride''' is a [[Lewis acid]], classified as soft according to the [[HSAB concept|Hard-Soft Acid-Base concept]]. Thus, it tends to form stable [[Complex (chemistry)|complexes]] with soft [[Lewis base]]s such as [[triphenylphosphine]]:
+:CuCl  +  [[triphenylphosphine|PPh<sub>3</sub>]]  →  [CuCl(PPh<sub>3</sub>)]<sub>4</sub>   (Ph = [[phenyl]])
+
+Although CuCl is insoluble in water, it dissolves in aqueous solutions containing suitable donor molecules.  It readily forms complexes with [[halide]] ions, for example forming [[hydronium|H<sub>3</sub>O<sup>+</sup>]] CuCl<sub>2</sub><sup>-</sup> with concentrated [[hydrochloric acid]].  It also dissolves readily in solutions containing [[cyanide|CN<sup>-</sup>]], [[thiosulfate|S<sub>2</sub>O<sub>3</sub><sup>2-</sup>]] or [[ammonia|NH<sub>3</sub>]].
+
+Solutions of CuCl in [[hydrochloric acid|HCl]] or [[ammonia|NH<sub>3</sub>]] absorb [[carbon monoxide]] to form colourless [[Complex (chemistry)|complexes]] such as the crystalline halogen-bridged dimer [CuCl(CO)]<sub>2</sub>.  The same [[hydrochloric acid|HCl]] solution can also react with [[acetylene]] gas to form [CuCl(C<sub>2</sub>H<sub>2</sub>)], while an [[ammonia|NH<sub>3</sub>]] solution of CuCl forms an explosive [[copper(I) acetylide]] with [[acetylene]].  Complexes of CuCl with [[alkene]]s can be made by reduction of [[copper(II) chloride|CuCl<sub>2</sub>]] by [[sulfur dioxide]] in the presence of the [[alkene]] in alcohol solution.  Complexes with [[chelation|chelating]] [[alkene]]s such as [[1,5-cyclooctadiene]] are particularly stable:<ref name="Nicholls">Nicholls, D. ''Compleses and First-Row Transition Elements'', Macmillan Press, London, 1973.</ref>
+
+[[Image:CuCl COD dimer.gif|400px|Structure of COD complex of CuCl]]
+
+CuCl reacts with organometallic compounds such as [[methyllithium]] (CH<sub>3</sub>Li) to form "[[Gilman reagent]]s" such as (CH<sub>3</sub>)<sub>2</sub>CuLi, which find extensive use in [[organic synthesis]].  [[Grignard reagent]]s react similarly.
+
+==Preparation==
+'''Copper(I) chloride''' may be prepared by the reduction of copper(II) salts such as [[Copper(II) sulfate|CuSO<sub>4</sub>]] using [[sulfur dioxide]] or [[copper]] metal.<ref name="Keller">Keller, R. N.; Wycoff, H. D. "Copper(I) chloride" Inorganic Syntheses 1946; Volume II, p 1-4.</ref>
+:2 [[Copper(II) bromide|CuBr<sub>2</sub>]]  +  H<sub>2</sub>O  +  SO<sub>3</sub><sup>2-</sup>  →  2 CuBr  +  SO<sub>4</sub><sup>2-</sup>  +  2 [[Hydrogen bromide|HBr]]
+
+[[Sulfur dioxide|SO<sub>2</sub>]] may be prepared ''in situ'' from [[sodium bisulfite]] (NaHSO<sub>3</sub>) or [[sodium metabisulfite]] (Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>) and acid.   The reduction is carried out in [[hydrochloric acid]], and the resulting CuCl<sub>2</sub><sup>-</sup> complex is diluted to precipitate white CuCl (by driving the [[chemical equilibrium|equilibrium]] using [[Le Chatelier's principle]]).
+
+(1)  [[sodium bisulfite|NaHSO<sub>3</sub>]]([[aqueous|aq]])  +   [[hydrochloric acid|HCl]] ([[aqueous|aq]])  →  [[sulfur dioxide|SO<sub>2</sub>]]([[aqueous|aq]])  +  [[sodium chloride|NaCl]]  +  [[water (molecule)|H<sub>2</sub>O]]([[liquid|l]])
+
+(2)  2 [[Copper(II) sulfate|CuSO<sub>4</sub>]]([[aqueous|aq]])  +  [[sulfur dioxide|SO<sub>2</sub>]]([[aqueous|aq]])  +  2 [[water (molecule)|H<sub>2</sub>O]]([[liquid|l]])  +  4 [[hydrochloric acid|HCl]]([[aqueous|aq]])  →  2 HCuCl<sub>2</sub>([[aqueous|aq]])  +  3 [[sulfuric acid|H<sub>2</sub>SO<sub>4</sub>]]([[aqueous|aq]])
+
+(3)  HCuCl<sub>2</sub>([[aqueous|aq]])  +   [[water (molecule)|H<sub>2</sub>O]]([[liquid|l]])  →  CuCl([[solid|s]])  +  [[hydronium|H<sub>3</sub>O<sup>+</sup>]]([[aqueous|aq]])  +  Cl<sup>-</sup>([[aqueous|aq]])
+
+==Uses==
+A major chemical use for '''copper(I) chloride''' is as a catalyst for a variety of organic reactions.  Compared to other "soft" Lewis acids, it is much more affordable than non-toxic [[silver(I) chloride]] and [[palladium(II) chloride]], and much less toxic than [[lead(II) chloride]] and [[mercury(II) chloride]].  In addition, it can undergo redox chemistry via copper(II) or copper(III) intermediates.  This combination of properties make copper(I) salts invaluable reagents.
+
+One such application is in the [[Sandmeyer reaction]].<ref name="Sandmeyer">(a) Wade, L. G. ''Organic Chemistry'', 5th ed., p. 871, Prentice Hall, Upper Saddle RIver, New Jersey, 2003.  (b) March, J. ''Advanced Organic Chemistry'', 4th ed., p. 723, Wiley, New York, 1992.</ref> Treatment of an [[arenediazonium salt]] with CuCl leads to an aryl chloride, for example:
+
+[[Image:CuCl Sandmeyer.gif|400px|(Example Sandmeyer reaction using CuCl)]]
+
+The reaction has wide scope, and usually gives good yields.
+
+The observation that copper(I) halides catalyse 1,4-addition of [[Grignard reagent]]s to alpha,beta-unsaturated ketones<ref name="Kharasch">Kharasch, M. S.; Tawney, P. O. ''Journal of the American Chemical Society'', '''63''', 2308 (1941).</ref> led to the development of [[organocuprate]] reagents that are widely used today in [[organic synthesis]]:<ref name="">Jasrzebski, J. T. B. H.; van Koten, G. in ''Modern Organocopper Chemistry'', (N. Krause, ed.), p. 1, Wiley-VCH, Weinheim, Germany, 2002.</ref>
+
+[[Image:CuCl Kharasch reaction.gif|500px|(Addition of RMgX to C=C-C=O mediated by CuCl)]]
+
+Although other copper(I) compounds such as copper(I) iodide are now more often used for this type of reaction, there are cases where copper(I) chloride is particularly effective:<ref name="">(a) Bertz, S. H.; Fairchild, E. H. in ''Handbook of Reagents for Organic Synthesis, Volume 1: Reagents, Auxiliaries and Catalysts for C-C Bond Formation'', (R. M. Coates, S. E. Denmark, eds.), pp. 220-3, Wiley, New York, 1999.  (b) Munch-Petersen, J., et al., ''Acta Chimica Scand.'', '''15''', 277 (1961).</ref>
+
+[[Image:CuCl sorbate ester alkylation.gif|500px|(Alkylation of sorbate ester at 4-position mediated by CuCl)]]
+
+Here, Bu indicates an n-[[butyl]] group.  Without CuCl, the [[Grignard reagent]] alone  gives a mixture of 1,2 and 1,4-addition products (i.e., the butyl adds at the closer to the C=O).
+
+Copper(I) chloride is also an intermediate formed from [[copper(II) chloride]] in the [[Wacker process]].
+
+CuCl is used as a catalyst in [[ATRP (chemistry)|Atom Transfer Radical Polymerization]] (ATRP).
+
+==Precautions==
+Copper salts do have some toxicity and should be handled with care; wear gloves and goggles.  Avoid bringing CuCl into contact with [[alkyne]]s.<ref name="Wells">Wells, A. F. ''Structural Inorganic Chemistry'', 5th ed., Oxford University Press, Oxford, UK, 1984.</ref>
+
+==References==
+{{reflist|1}}
+
+==External links==
+*[http://www.npi.gov.au/database/substance-info/profiles/27.html National Pollutant Inventory - Copper and compounds fact sheet]
+*[http://www.rccostello.com/copure.html The COPure<sup>SM</sup> Process for purifying CO utilizing a copper chloride complex]
+
+[[Category:Chlorides]]
+[[Category:Copper compounds]]
+[[Category:Metal halides]]
+[[Category:Coordination compounds]]
+[[Category:Pyrotechnic colorants]]
+
+[[ar:كلوريد نحاس أحادي]]
+[[de:Kupfer(I)-chlorid]]
+[[io:Kuprokloro]]
+[[it:Cloruro rameoso]]
+[[nl:Koper(I)chloride]]
+[[ja:塩化銅(I)]]
+[[pl:Chlorek miedzi(I)]]

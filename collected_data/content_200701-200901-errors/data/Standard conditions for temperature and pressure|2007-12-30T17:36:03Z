@@ -1,0 +1,210 @@
+In [[chemistry]] and other [[science]]s, '''STP''' or '''standard temperature and pressure''' is a standard set of conditions for experimental measurements, to enable comparisons to be made between sets of data.  Internationally, the current STP defined by the [[IUPAC]] (International Union of Pure and Applied Chemistry) is an absolute [[pressure]] of 100 [[kPa]] (1 bar) and a [[temperature]] of 273.15 [[Kelvin|K]] (0 °C).<ref name=IUPAC>"Compendium of Terminology", 2nd Edition, 1997, IUPAC Secretariat, Research Triangle Park, P.O. Box 13757, NC, USA (former and present definitions)&nbsp; [http://www.iupac.org/goldbook/S05910.pdf IUPAC Compendium]</ref>  Other organizations have established a variety of alternative definitions for the '''standard reference conditions of temperature and pressure''', such as the '''SATP''' amongst others.
+
+In [[industry]] and [[commerce]], it is necessary to define the standard reference conditions of temperature and pressure when expressing a gas volume or a volumetric flow rate because the volume of a gas varies with the temperature and pressure of the gas. ''The available data on the various definitions of standard reference conditions clearly indicates that the IUPAC's STP is not a universally accepted definition of the standard conditions of temperature and pressure''.  For that reason, simply stating that a gas flow rate is 10,000 m³/h (i.e. cubic meters per hour) at "standard conditions" or at "STP" has no meaning unless the reference conditions that were applied are clearly stated. 
+
+In [[aeronautics]] and [[fluid dynamics]] the term "[[International Standard Atmosphere]]" is often used to denote the variation of the principal [[thermodynamic]] variables (pressure, temperature, density, etc.) of the atmosphere ''with altitude'' at mid latitudes.
+
+== Definitions used in the past == 
+
+For a great many years, most engineers, chemists, physicists and other scientists using the metric system of units defined the standard reference conditions of temperature and pressure for expressing gas volumes as being 0 °C (273.15 [[Kelvin|K]]) and 101.325 [[kPa]] (i.e., 1 [[Atmosphere (unit)|atmosphere]] of absolute pressure).  During those same years, the most commonly used standard reference conditions for people using the [[Imperial unit|Imperial]] or [[U.S. customary  unit|customary USA system of units]] was 60 [[Fahrenheit|°F]] (520 [[Rankine scale|°R]]) and 14.696 [[Pound-force per square inch|psia]] (i.e., 1 atmosphere of absolute pressure) because it was almost universally used by the oil and gas industries worldwide.
+
+The above two definitions are no longer the most commonly used definitions in either the metric, Imperial or the customary USA system of units. Some of the many different definitions currently in use are presented in the next section.
+
+It was also common in the past, when using the metric system of units, to refer to a '''Normal Cubic Meter (Nm³)''' and to define it as being at 0 °C (273.15 K) and 101.325 kPa (i.e. 1 atmosphere of absolute pressure).  As shown in the following section, that notation is no longer appropriate unless the specific reference conditions are explicitly stated, since there are currently many different metric system definitions of what constitutes standard reference conditions.
+
+In the same manner, it is also no longer appropriate to refer to a [[standard cubic foot]] (scf) unless the specific reference conditions are explicitly stated, again because there are currently many different definitions of the standard reference condition in both the Imperial and the customary U.S. systems of units. In particular, [[Organization of the Petroleum Exporting Countries|OPEC]] and a majority of the natural gas industry in North America have adopted 60 °F and 14.73 psia as their standard reference conditions for expressing natural gas volumes and flow rates (rather than the 60 °F and 14.696 psia commonly used previously).
+
+== Definitions in current use == 
+
+There are a great many different definitions of the standard reference conditions currently being used.  Table 1 presents twelve such variations of standard condition definitions - and there are quite a few others as well.
+
+As shown in the table, the [[IUPAC]] (International Union of Pure and Applied Chemistry) currently defines standard reference conditions as being 0 °C and 1 bar (i.e., 100 kPa) of absolute pressure rather than the 1 atmosphere (i.e. 101.325 kPa) of absolute pressure used in the past. In fact, the IUPAC's current definition has been in existence since 1982.<ref>IUPAC recommended standard pressure of 1 bar in 1982 [http://www.iupac.org/goldbook/S05921.pdf IUPAC Compendium]</ref>
+
+As further shown in the table, the oil and gas industries have to a large extent changed from their past usage of 60 °F and 14.696 psia to their current usage of 60 °F and 14.73 psia.  This is especially true of the natural gas industry in North America.
+
+For the '''SATP''' used in presenting  chemical thermodynamic properties (such as those published by the  [[National Bureau of Standards]] as included in Table 1) that the pressure is standardized at 1 bar (100 kPa) but the temperature may vary and needs to be specified separately.
+
+It should also be noted that the [[International Organization for Standardization]] (ISO), the [[United States Environmental Protection Agency]] (EPA) and [[National Institute of Standards and Technology]] (NIST) each have more than one definition of standard reference conditions in their various standards and regulations.
+
+The  table makes it quite obvious that ''it is absolutely necessary to clearly state the temperature and pressure reference conditions'' whenever expressing a gas volume or gas volumetric flowrate. It is equally important to state whether the gas volume is expressed on a dry basis or a wet basis. As noted in the table, some of the current definitions of the reference conditions include a specification of the percent relative humidity (% RH).
+
+{| class="wikitable"
+|+ '''Table 1: Standard reference conditions in current use'''<br><br>
+! Temperature !! Absolute pressure !! Relative humidity
+!rowspan="2"| Publishing or establishing entity
+|-
+!°C!!kPa!!% RH 
+|-
+|align="center"|0||align="center"|100.000||&nbsp;||IUPAC (present definition)<ref name=IUPAC/>        
+|-
+|align="center"|0||align="center"|101.325||&nbsp;||IUPAC (former definition),<ref name=IUPAC/> NIST,<ref name=NISTDataBase7>"NIST Standard Reference Data Base 7 Users Guide", December 1969, NIST, Gaithersburg, MD, USA &nbsp;[http://www.nist.gov/srd/WebGuide/nist7/07_2.htm NIST Data Base 7]</ref> ISO 10780<ref name=ISO10780>"Stationary source emissions – Measurement of velocity and volume flow rate of gas streams in ducts", ISO 10780, [[International Organization for Standardization]], Geneva, Switzerland &nbsp;[http://www.iso.org/iso/en/ISOOnline.frontpage ISO]</ref> 
+|-
+|align="center"|15||align="center"|101.325||align="center"|0 <sup>[4]</sup>, <sup>[5]</sup>||ISA,<ref name=Handbook>"Handbook of Physics and Chemistry", 56th Edition, pp.F201-F206, CRC Press, Boca Raton, FL, USA</ref> ISO 13443,<ref name=ISO13443>"Natural gas – Standard reference conditions", ISO 13443, International Organization for Standardization, Geneva, Switzerland &nbsp;[http://www.iso.org/iso/en/ISOOnline.frontpage ISO]</ref> EEA,<ref name=EEA>"Extraction, First Treatment and Loading of Liquid & Gaseous Fossil Fuels", Emission Inventory Guidebook B521, Activities 050201 - 050303,  September 1999, European Environmental Agency, Copenhagen, Denmark &nbsp;[http://reports.eea.eu.int/EMEPCORINAIR3/en/B521vs3.1.pdf Emission Inventory Guidebook]
+</ref> EGIA<ref name=EGIA>"Electricity and Gas Inspection Act", SOR/86-131 (defines a set of standard conditions for Imperial units and a different set for metric units) &nbsp;[http://laws.justice.gc.ca/en/E-4/SOR-86-131/95708.html Canadian Laws]</ref>
+|-
+|align="center"|20||align="center"|101.325||&nbsp;||EPA,<ref name=NSPS>"Standards of Performance for New Sources", 40 CFR--Protection of the Environment, Chapter I, Part 60, Section 60.2, 1990 &nbsp;[http://a257.g.akamaitech.net/7/257/2422/08aug20051500/edocket.access.gpo.gov/cfr_2005/julqtr/pdf/40cfr60.2.pdf New Source Performance Standards]</ref> NIST<ref name=NISTJournal>"Design and Uncertainty for a PVTt Gas Flow Standard", Journal of Research of the National Institute of Standards and Technology, Vol.108, Number 1, 2003 &nbsp;[http://www.cstl.nist.gov/div836/836.01/PDFs/2003/j80wri.pdf NIST Journal]</ref> 
+|-
+|align="center"|25||align="center"|101.325||&nbsp;||EPA<ref name=NAAQS>"National Primary and Secondary Ambient Air Quality Standards", 40 CFR--Protection of the Environment, Chapter I, Part 50, Section 50.3, 1998 &nbsp;[http://a257.g.akamaitech.net/7/257/2422/08aug20051500/edocket.access.gpo.gov/cfr_2005/julqtr/pdf/40cfr50.3.pdf National Ambient Air Standards]</ref> 
+|-
+|align="center"|25||align="center"|100.000||&nbsp;||SATP<ref name=NBS>"Table of Chemical Thermodynamic Properties", National Bureau of Standards (NBS), Journal of Physics and Chemical Reference Data, 1982, Vol. 11, Supplement 2.</ref> 
+|-
+|align="center"|20||align="center"|100.000||align="center"|0||CAGI<ref name=CAGI>"Glossary", 2002, Compressed Air and Gas Institute, Cleveland, OH, USA &nbsp;[http://www.cagi.org/toolbox/glossary.htm Glossary]</ref> 
+|-
+|align="center"|15||align="center"|100.000||&nbsp;||SPE<ref name=SPE>"The SI Metric System of Units and SPE Metric Standard (Notes for Table 2.3 on page 25)", June 1982, Richardson, TX, USA (defines standard cubic foot and standard cubic meter) &nbsp;[http://www.spe.org/specma/binary/files/1004742metric_std.pdf SPE]</ref> 
+|-
+!°F!!psia!! % RH 
+|-
+|align="center"|60||align="center"|14.696||&nbsp;||SPE,<ref name=SPE/> OSHA,<ref name=OSHA>"Storage and Handling of Liquefied Petroleum Gases" and "Storage and Handling of Anhydrous Ammonia", 29 CFR--Labor, Chapter XVII--Occupational Safety and Health Administration, Part 1910, Sect. 1910.110 and 1910.111, 1993 &nbsp;[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=f169acd0f57a17565c9984fa0f57d285&rgn=div8&view=text&node=29:5.1.1.1.8.8.33.10&idno=29 Storage/Handling of LPG]</ref> SCAQMD<ref name=SCAQMD>"Rule 102, Definition of Terms (Standard Conditions)", Amended December 2004, South Coast Air Quality Management District, Los Angeles, California, USA &nbsp;[http://www.aqmd.gov/rules/reg/reg01/r102.pdf SCAQMD Rule 102]</ref> 
+|-
+|align="center"|60||align="center"|14.73||&nbsp;||EGIA,<ref name=EGIA/> OPEC,<ref name=OPEC>"Annual Statistical Bulletin", 2004, Editor-in-chief: Dr. Omar Ibrahim, Organization of the Petroleum Exporting Countries, Vienna, Austria &nbsp;[http://www.opec.org/library/Annual%20Statistical%20Bulletin/pdf/ASB2004.pdf OPEC Statistical Bulletin]</ref> EIA<ref name=EIA>"Natural Gas Annual 2004", DOE/EIA-0131(04), December 2005, U.S. Department of Energy, Energy Information Administration, Washington, D.C., USA &nbsp;[http://tonto.eia.doe.gov/FTPROOT/natgas/013104.pdf Natural Gas Annual 2004]</ref>   
+|-
+|align="center"|59||align="center"|14.503||align="center"|78||Army Standard Metro<ref name=ArmyStdMetro>"Effects of Altitude and Atmospheric Conditions", Exterior Ballistics Section, Sierra's "Rifle and Handgun Reloading Manual, 5th Edition", Sedalia, MO, USA &nbsp;[http://www.exteriorballistics.com/ebexplained/5th/31.cfm Exterior Ballistics]</ref>  
+|-
+|align="center"|59||align="center"|14.696||align="center"|60||ISO 2314, ISO 3977-2<ref name=ISO3977-2>"Gas turbines – Procurement – Part 2: Standard reference conditions and ratings", ISO 3977-2:1997 and "Gas turbines - Acceptance tests", ISO 2314:1989, Edition 2, International  Organization for Standardization, Geneva, Switzerland [http://www.iso.org/iso/en/prods-services/ISOstore/store.html ISO]</ref>
+|-
+!°F!!in Hg!! % RH 
+|-
+|align="center"|70||align="center"|29.92||align="center"|0||AMCA,<ref name=AMCA>ANSI/AMCA Standard 210, "Laboratory Methods Of Testing Fans for Aerodynamic Performance Rating", as implied here: http://www.greenheck.com/pdf/centrifugal/Plug.pdf when accessed on October 17, 2007</ref> air density = 0.075 lbm/ft³
+|}
+
+Notes:
+* 101.325 kPa = 1 atmosphere = 1.01325 bar ≈ 14.696 psi
+* 100.000 kPa = 1 bar ≈ 14.504 psi
+* 14.503 psi ≈ 750 mmHg ≈ 100.0 kPa ≈ 1 bar
+* 14.696 psi ≈ 1 atm = 101.325 kPa
+* 14.73 psi ≈ 30 inHg ≈ 1.0156 bar ≈ 101.560 kPa
+* All pressures are absolute pressures (not gauge pressures)
+* 59 °F = 15 °C 
+* 60 °F ≈ 15.6 °C
+* dry = 0 percent relative humidity = 0 % RH
+
+The full names of the entities listed in Table 1:
+
+*IUPAC: [[International Union of Pure and Applied Chemistry]]
+*NIST: [[National Institute of Standards and Technology]]
+*ISA: [[ICAO]]'s [[International Standard Atmosphere]]
+*ISO: [[International Organization for Standardization]]
+*EEA: [[European Environment Agency]]
+*EGIA: Electricity and Gas Inspection Act (of Canada)
+*EPA: [[United States Environmental Protection Agency]]
+*SATP: Standard Ambient Pressure and Temperature
+*CAGI: [[Compressed Air and Gas Institute]]
+*SPE:  [[Society of Petroleum Engineers]]
+*OSHA: U.S. [[Occupational Safety and Health Administration]]
+*SCAQMD: California's South Coast Air Quality Management District
+*OPEC: [[Organization of Petroleum Exporting Countries]]
+*EIA: U.S. [[Energy Information Administration]]
+*Std. Metro: U.S. Army's Standard Metro (used in ballistics)
+*AMCA: [http://www.amca.org Air Movement and Control Association]  This AMCA standard applies only to air.
+
+== Molar volume of a gas ==
+
+It is equally as important to indicate the applicable reference conditions of temperature and pressure when stating the molar volume of a gas<ref>[http://physics.nist.gov/cgi-bin/cuu/Results?search_for=volume+molar Fundamental Physical Properties: Molar Volumes] ([[CODATA]] values for ideal gases as listed on a [[NIST]]  website page)</ref> as it is when  expressing a gas volume or volumetric flow rate. Stating the molar volume of a gas without indicating the reference conditions of temperature and pressure has no meaning and it can cause much confusion.
+
+The molar gas volumes can be calculated with an accuracy that is usually sufficient by using the [[universal gas law]] for ideal gases. The usual expression is:
+
+<math>P \cdot V = n \cdot R \cdot T</math>
+
+…which can be rearranged thus:
+
+<math>\frac{V}{n} = \frac{R \cdot T}{P}</math>
+
+where (in SI metric units):
+{| border="0" cellpadding="2"
+|-
+!align=right| ''P''
+|align=left|= the gas absolute pressure, in [[pascal (unit)|Pa]]
+|-
+!align=right|''n''
+|align=left|= number of moles, in [[mole (unit)|mol]]
+|-
+!align=right| ''V'' / ''n''
+|align=left|= the gas molar volume, in m³/mol
+|-
+!align=right| ''T''
+|align=left|= the gas absolute temperature, in [[kelvin|K]]
+|-
+!align=right| ''R''
+|align=left|= the [[gas constant|universal gas law constant]] of  8.3145 m³·Pa/(mol·K)
+|}
+or where (in customary USA units):
+{| border="0" cellpadding="2"
+|-
+!align=right| ''P''
+|align=left|= the gas absolute pressure, in [[pound-force per square inch|psia]]
+|-
+!align=right|''n''
+|align=left|= number of moles, in [[mole (unit)|lbmol]]
+|-
+!align=right| ''V'' / ''n''
+|align=left|= the gas molar volume, in ft³/lbmol
+|-
+!align=right| ''T''
+|align=left|= the gas absolute temperature, in [[Rankine scale|°R]]
+|-
+!align=right| ''R''
+|align=left|= the universal gas law constant of 10.7316 ft³·psia/(lbmol·°R)
+|}
+
+The molar volume of any ideal gas may be calculated at various standard reference conditions as shown below:
+
+* ''V'' / ''n'' = 8.3145 × 273.15 / 101.325 = 22.414 m³/kmol at 0 °C and 101.325 kPa absolute pressure
+* ''V'' / ''n'' = 8.3145 × 273.15 / 100.000 = 22.711 m³/kmol at 0 °C and 100 kPa absolute pressure
+* ''V'' / ''n'' = 10.7316 × 519.67 / 14.696 = 379.48  ft³/lbmol at 60 °F and 14.696 psia absolute pressure
+* ''V'' / ''n'' = 10.7316 × 519.67 / 14.730 = 378.61 ft³/lbmol at 60 °F and 14.73 psia absolute pressure
+
+The technical literature can be very confusing because many authors fail to explain whether they are using the universal gas law constant '''''R''''' which applies to any ideal gas or whether they are using the gas law constant '''''R<sub>s</sub>''''' which only applies to a specific individual gas.  The relationship between the two constants is '''''R<sub>s</sub>''''' = '''''R / M''''',  where '''''M''''' is the molecular weight of the gas.
+
+It may be of interest to note that the [[US Standard Atmosphere]] still uses 8.31432 m³·Pa/(mol·K) as the value of R for all calculations. (See [[Gas constant#US Standard Atmosphere|Gas constant]])
+
+== References ==
+{{reflist|2}}
+==See also==
+*[[Standard atmosphere]]
+*[[ISO 1]] – standard reference temperature for geometric product specifications
+
+== External links ==
+
+* [http://www.iupac.org/goldbook/S05910.pdf "Standard conditions for gases"] from the [[IUPAC]] ''Gold Book''.
+* [http://www.iupac.org/goldbook/S05921.pdf "Standard pressure"] from the [[IUPAC]] ''Gold Book''.
+* [http://www.iupac.org/goldbook/S06036.pdf "STP"] from the [[IUPAC]] ''Gold Book''. 
+* [http://www.iupac.org/goldbook/S05925.pdf "Standard state"] from the [[IUPAC]] ''Gold Book''.
+
+[[Category:Atmospheric thermodynamics]]
+[[Category:Chemical engineering]]
+[[Category:Environmental engineering]]
+[[Category:Gases]]
+[[Category:Measurement]]
+[[Category:Mechanical engineering]]
+[[Category:Physical chemistry]]
+[[Category:Standards]]
+[[Category:Thermodynamics]]
+
+[[ar:ظروف ضغط وحرارة قياسية]]
+[[bg:Стандартни температура и налягане]]
+[[ca:Condicions normals de pressió i temperatura]]
+[[de:Standardbedingungen]]
+[[et:Normaaltingimused]]
+[[el:Κανονικές Συνθήκες Πίεσης και Θερμοκρασίας]]
+[[es:Condiciones normales de presión y temperatura]]
+[[fa:استاندارد دما و فشار]]
+[[fr:Atmosphère normalisée]]
+[[ko:표준 온도 압력]]
+[[is:Staðalaðstæður]]
+[[it:Condizioni normali]]
+[[he:תנאים סטנדרטיים של טמפרטורה ולחץ]]
+[[lv:Normāli apstākļi (ķīmijā)]]
+[[hu:Normálállapot]]
+[[ms:Suhu dan tekanan piawai]]
+[[nl:Standaardomstandigheden]]
+[[ja:標準状態]]
+[[no:Standard trykk og temperatur]]
+[[pl:Warunki standardowe]]
+[[pt:CPTP]]
+[[ru:Нормальные условия]]
+[[simple:Standard temperature and pressure]]
+[[sr:Нормални услови]]
+[[fi:NTP]]
+[[sv:Standardtryck och -temperatur]]
+[[vi:Nhiệt độ và áp suất tiêu chuẩn]]
+[[zh:标准状态]]

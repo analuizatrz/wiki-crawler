@@ -1,0 +1,534 @@
+{{redirect|Exponent}}
+
+'''Exponentiation''' is a [[mathematics|mathematical]] [[operation (mathematics)|operation]], written '''''a''<sup>''n''</sup>''', involving two numbers, the '''[[base (mathematics)|base]]''' ''a'' and the '''exponent''' ''n''. When ''n'' is a [[Positive number|positive]] [[integer]], exponentiation corresponds to repeated [[multiplication]]:
+
+:<math>a^n = \underbrace{a \times \cdots \times a}_n,</math>
+
+just as multiplication by a whole number corresponds to repeated [[addition]]:
+
+:<math>a \times n = \underbrace{a + \cdots + a}_n.</math>
+
+The exponent is usually shown as a [[superscript]] to the right of the base. The exponentiation ''a''<sup>''n''</sup> can be read as: ''a raised to the n-th power'' or ''a raised to the power n'', or more briefly: ''a to the n-th power'' or ''a to the power n''. Some exponents can be read in a certain way; for example ''a''<sup>2</sup> is usually read as ''a squared'' and ''a''<sup>3</sup> as ''a cubed''.
+
+The power ''a''<sup>''n''</sup> can also be defined when the exponent ''n'' is a negative integer. When the base ''a'' is a positive real number, exponentiation is defined for real and even complex exponents ''n''. The special [[exponential function]] ''e''<sup>''x''</sup> is fundamental for this definition. It enables the functions of [[trigonometry]] to be expressed by exponentiation. However, when the base ''a'' is not a positive real number and the exponent ''n'' is not an integer, then ''a''<sup>''n''</sup> cannot be defined as a unique [[continuous function]] of ''a''.
+
+Exponentiation where the exponent is a [[matrix (mathematics)|matrix]] is used for solving systems of [[linear differential equation]]s.
+
+Exponentiation is used pervasively in many other fields as well, including economics, biology, chemistry, physics, and computer science, with applications such as  [[compound interest]], [[population growth]], chemical [[reaction kinetics]], [[wave]] behavior, and [[public key cryptography]].
+
+==Exponentiation with integer exponents==
+The exponentiation operation with integer exponents only requires [[elementary algebra]].
+
+===Positive integer exponents===
+''a''<sup>2</sup> = ''a''·''a'' is called the [[Square (algebra)|square]] of ''a'' because the area of a square with side-length ''a'' is ''a''<sup>2</sup>.
+
+''a''<sup>3</sup> = ''a''·''a''·''a''  is called the [[Cube (arithmetics)|cube]], because the volume of a cube with side-length ''a'' is ''a''<sup>3</sup>. 
+
+So 3<sup>2</sup> is pronounced "three squared",and 2<sup>3</sup> is "two cubed".
+
+The exponent says how many copies of the base are multiplied together. For example, 3<sup>5</sup> = 3·3·3·3·3 = 243. The base 3 appears 5 times in the repeated multiplication, because the exponent is 5.
+Here, 3 is the ''base'', 5 is the ''exponent'', and 243 is the ''power'' or, more specifically, ''the fifth power of 3'' or ''3 raised to the fifth power''.
+
+The word "raised" is usually omitted, and most often "power" as well, so 3<sup>5</sup> is typically pronounced "three to the fifth" or "three to the five".
+
+Formally, powers with positive integer exponents may be defined by the initial condition   ''a''<sup>1</sup>&nbsp;=&nbsp;''a''  and the [[recurrence relation]]   ''a''<sup>''n''+1</sup>&nbsp;=&nbsp;''a''·''a''<sup>''n''</sup>.
+
+===Exponents one and zero===
+Notice that 3<sup>1</sup> is the product of only one 3, which is evidently 3.
+
+Also note that 3<sup>5</sup> = 3·3<sup>4</sup>. Also 3<sup>4</sup> = 3·3<sup>3</sup>. Continuing this trend, we should have
+:3<sup>1</sup> = 3·3<sup>0</sup>.
+Another way of saying this is that when ''n'', ''m'', and ''n'' - ''m'' are positive (and if ''x'' is not equal to zero), one can see by counting the number of occurrences of ''x'' that
+:<math> \frac{x^n}{x^m} = x^{n - m}.</math>
+Extended to the case that ''n'' and ''m'' are equal, the equation would read
+:<math> 1 = \frac{x^n}{x^n} = x^{n - n} = x^0 </math>
+since both the numerator and the denominator are equal.  Therefore we take this as the definition of ''x''<sup>0</sup>.
+
+Therefore we '''define''' 3<sup>0</sup> = 1 so that the above equality holds. This leads to the following rule:
+*Any number to the power 1 is itself.
+*Any nonzero number to the power 0 is 1; one interpretation of these powers is as [[empty product]]s. The case of 0<sup>0</sup> is discussed [[#Zero to the zero power|below]].
+
+===Combinatorial interpretation===
+
+For non-negative integers ''n'' and ''m'', the power ''n''<sup>''m''</sup> equals the [[cardinality]] of the set of ''m''-[[tuple]]s from an ''n''-element [[set]], or the number of ''m''-letter words from an ''n''-letter alphabet.
+
+:0<sup>5</sup> = | {} | = 0. There is no 5-tuple from the empty set. 
+:1<sup>4</sup> = | { (1,1,1,1) } | = 1. There is one 4-tuple from a one-element set.
+:2<sup>3</sup> = | { (1,1,1), (1,1,2), (1,2,1), (1,2,2), (2,1,1), (2,1,2), (2,2,1), (2,2,2) } | = 8. There are 8 3-tuples from a two-element set.
+:3<sup>2</sup> = | { (1,1), (1,2), (1,3), (2,1), (2,2), (2,3), (3,1), (3,2), (3,3) } | = 9. There are 9 2-tuples from a three-element set.
+:4<sup>1</sup> = | { (1), (2), (3), (4) } | = 4. There are 4 1-tuples from a four-element set.
+:5<sup>0</sup> = | { () } | = 1. There is exactly one empty [[tuple]].
+
+See also '''[[Exponentiation#Exponentiation over sets|exponentiation over sets]]'''.
+
+===Negative integer exponents===
+Raising a nonzero number to the &minus;1 power produces its [[Multiplicative inverse|reciprocal]].
+:<math>a^{-1} = \frac{1}{a}</math>
+
+Thus:
+:<math>a^{-n} = (a^n)^{-1} = \frac{1}{a^n}</math>
+Raising 0 to a negative power would imply [[Division by zero|division by 0]], and so is undefined.
+
+A negative integer exponent can also be seen as repeated [[division (mathematics)|division]] by the base.
+Thus <math>3^{-4} = (((1/3)/3)/3)/3 = \frac{1}{81} = \frac{1}{3^{4}}</math>.
+
+===Identities and properties===
+The most important [[identity (mathematics)|identity]] satisfied by integer exponentiation is:
+:<math> a^{m + n} = a^m \cdot a^n </math>
+This identity has the consequence:
+:<math>a^{m - n} =\frac{a^m}{a^n}</math>
+for ''a'' &ne; 0, and
+:<math>(a^m)^n = a^{m \cdot n} </math>.
+Another basic identity is
+:<math>(a \cdot b)^n = a^n \cdot b^n</math>.
+
+While addition and multiplication are [[commutative]] (for example,
+2+3 = 5 = 3+2 and
+2·3 = 6 = 3·2), exponentiation is not commutative:
+2<sup>3</sup> = 8, but 3<sup>2</sup> = 9.
+
+Similarly, while addition and multiplication are [[associative]] (for example,
+(2+3)+4 = 9 = 2+(3+4) and
+(2·3)·4 = 24 = 2·(3·4), exponentiation is not associative either:
+2<sup>3</sup> to the 4th power is 8<sup>4</sup> or 4096, but 2 to the 3<sup>4</sup> power is
+2<sup>81</sup> or 2,417,851,639,229,258,349,412,352. Without parentheses to modify the order of calculation, the order is usually understood to be from right to left:
+:<math>a^{b^c}=a^{(b^c)}\ne (a^b)^c=a^{(b\cdot c)}=a^{b\cdot c}</math>
+
+===Powers of ten===
+:''See [[Scientific notation]]''
+Powers of 10 are easily computed in the base ten ([[decimal]]) number system. For example, 10<sup>8</sup> = 100000000.
+
+Exponentiation with base [[10 (number)|10]] is used in [[scientific notation]] to describe large or small numbers. For instance, 299,792,458 (the [[speed of light]] in a vacuum, in meters per second) can be written as 2.99792458·10<sup>8</sup> and then [[approximation|approximated]] as 2.998·10<sup>8</sup>, (or sometimes as 299.8·10<sup>6</sup>, or 299.8E+6, especially in computer software).
+
+[[SI prefix]]es based on powers of 10 are also used to describe small or large quantities. For example, the prefix [[Kilo-|kilo]] means 10<sup>3</sup> = 1000, so a kilometre is 1000 [[metre]]s.
+
+===Powers of two===
+The positive [[Power of two|powers of 2]] are important in [[computer science]] because there are 2<sup>''n''</sup> possible values for an ''n''-[[bit]] [[variable]]. See [[Binary numeral system]].  
+
+Powers of 2 are important in [[set theory]] since a set with ''n'' members has a [[power set]], or set of all [[subset]]s of the original set, with 2<sup>''n''</sup> members.
+
+The negative powers of 2 are commonly used, and the first two have special names: [[half]], and [[quarter]].
+
+===Powers of zero===
+If the exponent is positive, the power of zero is zero: 0<sup>''n''</sup> = 0, where ''n'' > 0.
+
+If the exponent is negative, the power of zero (0<sup>&minus;''n''</sup>, where ''n'' > 0) remains undefined, because division by zero is implied.
+
+If the exponent is zero, some authors define 0<sup>0</sup>=1, whereas others leave it undefined, as discussed [[#Zero to the zero power|below]].
+
+===Powers of minus one===
+The powers of minus one are useful for expressing alternating sequences.
+
+If the exponent is even, the power of minus one is one: (&minus;1)<sup>2''n''</sup> = 1.
+
+If the exponent is odd, the power of minus one is minus one: (&minus;1)<sup>2''n''+1</sup> = &minus;1.
+
+===Powers of the imaginary unit===
+The powers of the [[imaginary unit]] ''i'' are useful for expressing sequences of period 4. See for example [[Root of unity#Periodicity]].
+
+: <math>i^{4n+1}=i \!\ </math>
+
+: <math>i^{4n+2}=-1 \!\ </math>
+
+: <math>i^{4n+3}=-i \!\ </math>
+
+: <math>i^{4n}=1 \!\ </math>
+
+===Powers of e===
+{{main|Exponential function}}
+The number [[E (mathematical constant)|''e'']], the base of the [[natural logarithm]], is a well studied constant approximately equal to 2.718. The function ''e''<sup>''x''</sup>, known as the '''exponential function''', has applications in many areas of mathematics and science. 
+
+The function ''e''<sup>''x''</sup> can be computed in many ways, including the [[limit of a sequence|limit]]
+:<math>
+e^x = \lim_{n \rightarrow \infty} \left(1+\frac{x}{n} \right) ^n\,
+</math> 
+and the [[power series]]
+:<math>e^x = 1 + x+ \frac{x^2}2+ \frac{x^3}6+\cdots+\frac{x^n}{n!}+\cdots \,</math>.  
+
+These formulas for ''e''<sup>''x''</sup> only require that ''x'' can be raised to positive integer powers, and thus the formulas can be used not only for integer values of ''x'', but for fractional, real, or complex values. For this reason, the exponential function can be used to define ''a''<sup>''b''</sup> for general real or complex values of ''a'' and ''b'', as discussed below. A further generalization is the computation of ''e''<sup>''A''</sup> where ''A'' is a [[square matrix]], which is used to solve [[ordinary differential equation]]s.
+
+==Powers of real numbers==
+[[Image:Expo02.svg|thumb|315px|Exponentiation with various bases; from top to bottom, base 10 (<span style="color:green">green</span>), base [[E (mathematical constant)|''e'']] (<span style="color:red">red</span>), base 2 (<span style="color:blue">blue</span>), base ½ (<span style="color:cyan">cyan</span>).  Note how all of the curves pass through the point (0,&nbsp;1). This is because, in accordance with [[Exponentiation#Exponents one and zero|the properties of exponentiation]], any non-zero number raised to the power 0 is 1. Also note that at x=1, the y value equals the base. This is because any number raised to the power 1 is that same number.]]
+
+[[Image:Root graphs.svg|right|thumb|300px|From top to bottom: ''x''<sup>1/8</sup>, ''x''<sup>1/4</sup>, ''x''<sup>1/2</sup>, ''x''<sup>1</sup>, ''x''<sup>2</sup>, ''x''<sup>4</sup>, ''x''<sup>8</sup>.]]
+
+Raising a positive real number to a power that is not an integer can be accomplished in two ways.
+*[[Rational number]] exponents can be defined in terms of  [[Nth root|''n<sup>th</sup>'' root]]s, and arbitrary nonzero exponents can then be defined by continuity. <!-- This method is perhaps the one most widely taught in schools.  This needs a source tobe reinserted -->
+*The [[natural logarithm]] can be used to define real exponents using the exponential function.
+
+The [[#Identities and properties|identities and properties]] shown above are true for non-integer exponents as well. 
+
+===Principal n-th root===
+{{Main|n-th root}}
+
+An ''' ''n''th root''' of a [[number]] ''a'' is a number ''b'' such that ''b<sup>n</sup>'' = ''a''.  
+
+When referring to ''the'' ''n''th root of a [[real number]] ''a'' it is assumed that what is desired is the '''principal ''n''th root''' of the number. If ''a'' is a real number, and ''n'' is a positive integer, then the unique real solution with the same sign as ''a'' to the equation
+:<math>\ x^n = a</math>
+is called the principal [[Nth root|n<sup>th</sup> root]] of ''a'', and is denoted <math>\sqrt[n]{a}</math> using the '''radical''' [[symbol]] <math>(\sqrt{\,\,})</math>.
+
+:<math> x=a^{\frac{1}{n}} = \sqrt[n]{a}</math>.
+
+For example: 4<sup>1/2</sup> = 2, 8<sup>1/3</sup> = 2, (-8)<sup>1/3</sup> = -2, .
+
+Note that if ''n'' is [[Parity (mathematics)|even]], [[negative number]]s will not have a principal ''n''th root.
+
+===Rational powers of positive real numbers===
+
+Exponentiation with a [[rational number|rational]] exponent ''m''/''n'' can be defined as 
+
+:<math>a^{\frac{m}{n}} = \left(a^m\right)^{\frac{1}{n}} = \sqrt[n]{a^m}</math>.
+
+For example, 8<sup>2/3</sup> = 4.
+
+Since any [[real number]] can be approximated by rational numbers, exponentiation to an arbitrary real exponent ''k'' can be defined by [[continuous function|continuity]] with the rule
+ 
+:<math> a^k = \lim_{r \to k} a^r,</math>
+where the limit is taken only over rational values of ''r''.
+
+For example, if 
+:<math>k  \approx 1.732 </math>
+then 
+:<math>5^k  \approx 5^{1.732} =5^{433/250}=\sqrt[250]{5^{433}} \approx 16.241 .</math>
+
+===Real powers of positive real numbers===
+
+The [[natural logarithm]] ln(''x'') is the [[inverse function|inverse]] of the exponential function ''e''<sup>''x''</sup>.  It is defined for every positive real number ''b'' and satisfies the equation
+
+:<math>b = e^{\ln b}.\,</math>
+
+Assuming ''b''<sup>''x''</sup> is already defined, logarithm and exponent rules give the equality
+
+:<math>b^x = (e^{\ln b})^x = e^{x \cdot\ln b}.\,</math>
+
+This equality can be used to define exponentiation with any positive real base ''b'' as
+:<math>b^x = e^{x\cdot\ln b}.\,</math>
+
+This definition of the real number power ''b''<sup>''x''</sup> agrees with the definition given above using rational exponents and continuity.  The definition of exponentiation using logarithms is more common in the context of complex numbers, as discussed below.
+
+===Some rational powers of negative real numbers ===
+Neither the logarithm method nor the fractional exponent method can be used to define ''a''<sup>''k''</sup> as a real number for a negative real number ''a'' and an arbitrary real number ''k''. In some special cases, a definition is possible: integral powers of negative real numbers are real numbers, and rational powers of the form ''a''<sup>''m''/''n''</sup> where ''n'' is odd can be computed using roots. But since there is no real number ''x'' such that ''x''<sup>2</sup> = &minus;1, the definition of ''a''<sup>''m''/''n''</sup> when ''n'' is even and ''m'' is odd must use the [[imaginary unit]] ''i'', as described more fully in the next section.
+
+The logarithm method cannot be used to define ''a''<sup>''k''</sup> as a real number when ''a'' < 0 because ''e''<sup>''x''</sup> is nonnegative for every real number ''x'', so log(''a'') cannot be a real number. 
+
+The rational exponent method cannot be used for negative values of ''a'' because it relies on [[continuous function|continuity]]. The function ''f''(''r'') = ''a''<sup>''r''</sup> has a unique continuous extension from the rational numbers to the real numbers for each ''a'' > 0.  But when ''a'' < 0, the function ''f'' is not even continuous on the set of rational numbers ''r'' for which it is defined. 
+
+For example, take ''a'' = &minus;1. The ''n''th root of &minus;1 
+is &minus;1 for every odd natural number ''n''. So if ''n'' is an odd positive integer, (&minus;1)<sup>(''m''/''n'')</sup> = &minus;1 if ''m'' is odd, and (&minus;1)<sup>(''m''/''n'')</sup> = 1 if ''m'' is even.  Thus the set of rational numbers ''q'' for which &minus;1<sup>''q''</sup> = 1 is [[dense set|dense]] in the rational numbers, as is the set of ''q'' for which &minus;1<sup>''q''</sup> = &minus;1. This means that the function (&minus;1)<sup>''q''</sup> is not continuous at any rational number ''q'' where it is defined.
+
+===Imaginary powers of e===
+
+The [[Complex number#Geometric interpretation of the operations on complex numbers|geometric interpretation of the operations on complex numbers]] and the definition of [[Exponentiation#Powers of e|powers of e]] is the clue to   understanding ''e''<sup> ''i&middot;x''</sup> for real ''x''. Consider the [[right triangle]] (0, 1, 1+''i&middot;x''/''n''). For big values of ''n'' the triangle is almost a [[circular sector]] with a small central angle equal to ''x''/''n'' radian. The triangles (0, (1+''i&middot;x/n'')<sup>''k''</sup>, (1+''i&middot;x''/''n'')<sup>''k''+1</sup>) are mutually [[Similarity (geometry) #Similar triangles|similar]] for all values of ''k''. So for big values of ''n'' the limiting point of (1+''ix/n'')<sup>''n''</sup>  is the point on the [[unit circle]] whose angle from the positive real axis is ''x'' [[radian]]s. The [[polar coordinates]] of this point are (''r'',''&theta;'') = (1,''x''), and the [[cartesian coordinate]]s are (cos(''x''), sin(''x'')). So ''e''<sup> ''i&middot;x''</sup> = cos(''x'') + ''i''&middot;sin(''x''), and this is [[Euler's formula]], connecting [[algebra]] to [[trigonometry]] by means of [[complex number]]s.
+
+The solutions to the equation e<sup>''z''</sup> = 1 are the integer multiples of 2&middot;&pi;&middot;''i'' :
+:<math>\{ z : e^z=1 \} = \{ k\cdot 2\cdot \pi\cdot  i : k \in \mathbb{Z} \}.</math>
+More generally, if e<sup>''b''</sup> = ''a'', then every solution to ''e''<sup>''z''</sup> = ''a'' can be obtained by adding an integer multiple of 2&middot;&pi;&middot;''i'' to ''b'':
+:<math>\{ z : e^z=a \} = \{ b+k\cdot 2\cdot\pi\cdot i : k \in \mathbb{Z} \} </math>.
+Thus the complex exponential function is a [[periodic function]] with period 2&middot;&pi;&middot;''i''.
+
+===Trigonometric functions===
+{{main|Euler's formula}}
+It follows from [[Euler's formula]] that the [[trigonometric functions]] cosine and sine are 
+
+:<math>\cos(z) = \frac{e^{i\cdot z} + e^{-i\cdot z}}{2} \qquad \sin(z) = \frac{e^{i\cdot z} - e^{-i\cdot z}}{2\cdot i}.\,</math>
+
+Historically, cosine and sine were defined geometrically before the invention of complex numbers. The above formula reduces the complicated formulas for [[List_of_trigonometric_identities#Angle_sum_and_difference_identities|trigonometric functions of a sum]] into the simple exponentiation formula 
+:<math>e^{i\cdot (x+y)}=e^{i\cdot x}\cdot e^{i\cdot y}.\,</math>
+Using exponentiation with complex exponents one need not study trigonometry.
+
+===Complex powers of e===
+The power ''e''<sup>''x''+''i''&middot;''y''</sup> is computed ''e''<sup>''x''</sup> &middot; ''e''<sup>''i''&middot;''y''</sup>. The real factor ''e''<sup>''x''</sup> is the [[absolute value]] of ''e''<sup>''x''+''i''&middot;''y''</sup> and the complex factor ''e''<sup>''i''&middot;''y''</sup> identifies the [[direction (geometry, geography)|direction]] of ''e''<sup>''x''+''i''&middot;''y''</sup>.
+
+===Complex powers of positive real numbers===
+
+If ''a'' is a positive real number, and ''z'' is any complex number, the power ''a''<sup>''z''</sup> is defined as ''e''<sup>''z''&middot;ln(''a'')</sup>, where ''x'' = ln(''a'') is the unique real solution to the equation ''e''<sup>''x''</sup> = ''a''. So the same method working for real exponents also works for complex exponents.
+For example: 
+:2<sup> ''i''</sup> = ''e''<sup> ''i''&middot;log(2)</sup> = cos(ln(2))+''i''&middot;sin(ln(2)) = 0.7692+''i''&middot;0.63896
+:''e''<sup> ''i''</sup> = 0.54030+''i''&middot;0.84147
+:10<sup> ''i''</sup> = &minus;0.66820+''i''&middot;0.74398
+:(''e''<sup> 2&middot;''&pi;''</sup>)<sup> ''i''</sup> = 535.49<sup> ''i''</sup> = 1
+
+==Powers of complex numbers==
+
+Integer powers of complex numbers are defined by repeated multiplication or division as above. Complex powers of positive reals are defined via ''e''<sup>''x''</sup> as above. These are continuous functions. Trying to extend these functions to the general case of non-integer powers of complex numbers that are not positive reals leads to difficulties. Either we define discontinuous functions or [[multivalued function]]s. None of these options are entirely satisfactory. 
+
+The rational power of a complex number must be the solution to an algebraic equation. For example, ''w'' = ''z''<sup>1/2</sup> must be a solution to the equation ''w''<sup>2</sup>  = ''z''. But if ''w'' is a solution, then so is &minus;''w'', because (&minus;1)<sup>2</sup>  = 1 . So the algebraic equation ''w''<sup>2</sup>  = ''z'' is not sufficient for defining ''z''<sup>1/2</sup> . Choosing one of the two solutions as the ''principal'' value of ''z''<sup>1/2</sup> leaves us with a function that is not continuous, and the usual rules for manipulating powers lead us astray. 
+
+===The logarithm of a complex numbers===
+
+One solution, ''z''=log ''a'', to the equation e<sup>''z''</sup> = ''a'', is called the '''[[principal value]] of the complex logarithm'''. It is the unique solution whose imaginary part lies in the [[interval (mathematics)|interval]] <math>(-\pi, \pi]\,</math>.  
+<!-- redundant :<math>\ -\pi<Im(\log(a))\le +\pi</math> -->
+For example, log(1) = 0, log(&minus;1) = &pi;''i'', log(''i'') = &pi;''i''/2, and log(&minus;''i'') = &minus;&pi;''i''/2. 
+The principal value of the logarithm is known as a '''branch''' of the logarithm; other branches can be specified by choosing a different range for the imaginary part of the logarithm. The boundary between branches is known as a [[branch cut]]. The principal value has a branch cut extending from the origin along the negative real axis, and is discontinuous at each point of the branch cut.
+
+===Complex power of a complex number===
+
+The general complex power ''a''<sup>''b''</sup> of a nonzero complex number ''a'' is defined as
+:<math>a^b = e^{\log(a^b)} = e^{b\cdot \log a}.\,</math>
+
+When the exponent is a [[rational number]] the power ''z''=''a''<sup>''n''/''m''</sup> is a solution to the equation ''z''<sup>''m''</sup> = ''a''<sup>''n''</sup> . 
+
+The computation of complex powers is facilitated by converting the base ''a'' to polar form, as described in detail [[#Computing complex powers|below]].
+
+===Complex roots of unity===
+{{main|Root of unity}}
+
+A complex number ''a'' such that ''a''<sup>''n''</sup> = 1 for a positive integer ''n'' is an ''' ''n''th root of unity'''.  Geometrically, the ''n''th roots of unity lie on the unit circle of the complex plane at the vertices of a regular ''n''-gon with one vertex on the real number 1.
+
+If ''z''<sup> ''n''</sup> = 1 but ''z''<sup> ''k''</sup> &ne; 1 for all natural numbers ''k'' such that 0 < ''k'' < ''n'', then ''z'' is called a '''primitive ''n''th root of unity.'''   The negative unit &minus;1 is the only primitive square root of unity. The [[imaginary unit]] ''i'' is one of the two primitive 4'th roots of unity; the other one is &minus;''i''.
+
+The number ''e''<sup>2''πi'' (1/''n'')</sup> is the primitive ''n''th root of unity with the smallest positive [[complex argument]].  (It is sometimes called the '''principal ''n''th root of unity''', although this terminology is not universal and should not be confused with the [[principal value]] of <math>\sqrt[n]{1}</math>, which is 1.<ref>This definition of a principal root of unity can be found in:
+*{{cite book | title = Introduction to Algorithms | edition = second edition | author = Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein | publisher = MIT Press | year = 2001 | id = ISBN 0262032937}} [http://highered.mcgraw-hill.com/sites/0070131511/student_view0/chapter30/glossary.html Online resource]
+*{{cite book | title = Difference Equations: From Rabbits to Chaos | edition = Undergraduate Texts in Mathematics | author = Paul Cull, Mary Flahive, and Robby Robson | year = 2005 | publisher = Springer | id = ISBN 0387232346 }} Defined on page 351, available on Google books.
+* "[http://mathworld.wolfram.com/PrincipalRootofUnity.html Principal root of unity]", MathWorld.</ref>) 
+
+The other ''n''th roots of unity are given by 
+:<math>\big ( e^{2\pi i (1/n)} \big ) ^k = e^{2\pi i k/n}</math>
+for 2 &le; k &le; n.
+
+===Roots of arbitrary complex numbers===
+Although there are infinitely many possible values for a general complex logarithm, there are only a finite number of values for the power ''a<sup>z</sup>'' in the important special case where ''z'' = 1/''n'' and ''n'' is a positive integer. These are the '''''n''th roots''' of ''a''; they are solutions of the equation ''x<sup>n</sup>'' = ''a''.  As with real roots, a second root is also called a square root and a third root is also called a cube root. 
+
+It is conventional in mathematics to define ''a''<sup>1/''n''</sup> as the principal value of the root. If ''a'' is a positive real number, it is also conventional to select a positive real number as the principal value of the root ''a''<sup>1/''n''</sup>.  For general complex numbers, the ''n''th root with the smallest argument is often selected as the principal value of the ''n''th root operation, as with principal values of roots of unity. 
+
+The set of ''n''th roots of a complex number ''a'' is obtained by multiplying the principal value ''a''<sup>1/n</sup> by each of the ''n''th roots of unity. For example, the fourth roots of 16 are 2, &minus;2, 2''i'', and &minus;2''i'', because the principal value of the fourth root of 16 is 2 and the fourth roots of unity are 1, &minus;1, ''i'', and &minus;''i''.
+
+===Computing complex powers===
+<!-- {{main|Polar coordinate system}} This is not the MAIN article on complex powers -->
+It is often easier to compute complex powers by writing the number to be exponentiated in [[complex number#polar form|polar form]].  Every complex number ''z'' can be written in the polar form
+:<math>z = re^{i\theta} = e^{\log(r) + i\theta} \,,</math>
+where ''r'' is a non-negative real number and &theta; is the (real) [[complex argument|argument]] of ''z''.  The argument, like the complex logarithm, has many possible values for each ''z'' and so a [[branch cut]] is used to choose a specific value.  The polar form has a simple geometric interpretation: if a complex number ''u''+''i v'' is thought of as representing a point (''u'',''v'') in the [[complex plane]] using [[Cartesian coordinate system|Cartesian coordinates]], then (''r'',&theta;) is the same point in [[polar coordinates]].  That is, ''r'' is the "radius" ''r''<sup>2</sup>=''u''<sup>2</sup>+''v''<sup>2</sup> and &theta; is the "angle" &theta;=[[atan2]](v,u).  The branch cut corresponds to the notion that a polar angle &theta; is ambiguous, since any multiple of 2&pi; could be added to &theta; without changing the location of the point.  The principal value (the most common branch cut), as mentioned above, corresponds to &theta; chosen in the interval (&minus;&pi;, &pi;].
+
+In order to compute the complex power ''a''<sup>''b''</sup>, write ''a'' in polar form: 
+:<math>a = r e^{i\theta} \,</math>.
+Then 
+:<math>\log a = \log r + i \theta \,,</math>
+and thus
+:<math>a^b = e^{b \log a} = e^{b(\log r + i\theta)}. \,</math>
+If ''b'' is decomposed as ''c'' + ''di'', then the formula for ''a''<sup>''b''</sup> can be written more explicitly as
+:<math>\left( r^c e^{-d\theta} \right) e^{i (d \log r + c\theta)} = \left( r^c e^{-d\theta} \right) \left[ \cos(d \log r + c\theta) + i \sin(d \log r + c\theta) \right].</math><!-- e^{c \log r - d\theta + i (d \log r + c\theta)}  -->
+This final formula allows complex powers to be computed easily from decompositions of the base into polar form and the exponent into Cartesian form.  It is shown here both in polar form and in Cartesian form (via Euler's identity).
+
+The following examples use the principal value (the branch cut which causes &theta; to be in the interval (&minus;&pi;, &pi;]). To compute ''i''<sup> ''i''</sup>, write ''i'' in polar and Cartesian forms:
+:<math>i = 1 \cdot e^{i \pi/2},\,</math>
+:<math>i = 0 + 1i.\, </math>
+Then the formula above, with ''r'' = 1, &theta; = &pi;/2, ''c'' = 0, and ''d'' = 1, yields:
+:<math>\ i^i = \left( 1^0 e^{-\pi/2} \right) e^{i(1\cdot \log 1 + 0 \cdot \pi/2)} = e^{-\pi/2} \approx 0.2079.</math>
+
+Similarly, to find (&minus;2)<sup>3 + 4''i''</sup>, compute the polar form of &minus;2,
+
+:<math>-2 = 2e^{i \pi} \, ,</math>
+and use the formula above to compute
+:<math>(-2)^{3+4i} = \left( 2^3 e^{-4\pi} \right) e^{i(4\log(2) + 3\pi)} \approx (2.602 - 1.006 i) \cdot 10^{-5}.</math>
+
+The value of a complex power depends on the branch used.  For example, if the polar form ''i'' = 1''e''<sup>''i''(5&pi;/2)</sup> is used to compute ''i'' <sup>''i''</sup>, the power is found to be ''e''<sup>&minus;5&pi;/2</sup>; the principal value of ''i'' <sup>''i''</sup>, computed above, is ''e''<sup>&minus;&pi;/2</sup>.
+
+=== Failure of power and logarithm identities ===
+
+Identities for powers and logarithms that hold for positive real numbers may fail when the positive real numbers are replaced by arbitrary complex numbers. There is no method to define complex powers or the complex logarithm as complex-valued functions while preserving the identities these operations possess in the positive real numbers. 
+
+An example involving logarithms concerns the rule log(''a''<sup>''b''</sup>) = ''b''&middot;log(''a''), which holds whenever ''a'' is a positive real number and ''b'' is a real number.  The following calculation shows that this identity does not hold in general for the principal value of the complex logarithm when ''a'' is not a positive real number:
+:<math> i\pi = \log(-1) = \log((-i)^2) \not = 2\log(-i) = 2(-i\pi/2) = -i\pi.</math>
+Regardless of which branch of the logarithm is used, a similar failure of the identity will always exist.
+
+An example involving power rules concerns the identities 
+:<math>(ab)^c = a^cb^c, \qquad \left ( \frac{a}{b}\right)^c = \frac{a^c}{b^c}.</math> 
+These identities are valid when ''a'' and ''b'' are positive real numbers and ''c'' is a real number.  But a calculation using principal values shows that 
+:<math>1 = (-1\cdot -1)^{1/2}   \not = (-1)^{1/2}(-1)^{1/2} = -1,</math>
+and
+:<math>i = (-1)^{1/2} = \left (\frac{1}{-1}\right )^{1/2} \not = \frac{1^{1/2}}{(-1)^{1/2}} = \frac{1}{i} = -i.</math>
+
+These examples illustrate that complex powers and logarithms do not behave the same way as their real counterparts, and so caution is required when working with the complex versions of these operations.
+
+==Zero to the zero power==
+[[Image:X^y.png|right|thumb|300px|Plot of z = abs(x<sup>y</sup>) with different curves (red) showing how 0<sup>0</sup> can evaluate to different values. The green curves all have a limit of 1.]]
+The evaluation of 0<sup>0</sup> presents a problem, because different mathematical reasoning leads to different results.  The best choice for its value depends on the context. According to Benson (1999), "The choice whether to define 0<sup>0</sup> is based on convenience, not on correctness."<ref>Benson, Donald C. ''The Moment of Proof : Mathematical Epiphanies.'' New York Oxford University Press (UK), 1999. ISBN 9780195117219</ref> There are two principal treatments in practice, one from discrete mathematics and the other from analysis.
+
+In many settings, especially in foundations and combinatorics, 0<sup>0</sup> is defined to be 1. This definition arises in foundational treatments of the natural numbers as [[cardinal number|finite cardinals]], and is useful for shortening combinatorial identities and removing special cases from theorems, as illustrated below. In many other settings, 0<sup>0</sup> is left undefined.  In [[calculus]], 0<sup>0</sup> is an [[indeterminate form]], which must be analyzed rather than evaluated.  In general, [[mathematical analysis]] treats 0<sup>0</sup> as [[defined and undefined|undefined]]<ref>Examples of this include Edwards and Penny (1994). ''Calculus'', 4th ed,, Prentice-Hall, p. 466, and Keedy, Bittinger, and Smith (1982). ''Algebra Two.'' Addison-Wesley, p. 32.</ref> in order that the exponential function be [[continuous function|continuous]].
+
+Justifications for defining 0<sup>0</sup> = 1 include:
+*When 0<sup>0</sup> is regarded as an [[empty product]] of zeros, its value is 1.
+*The [[Exponentiation#Combinatorial interpretation|combinatorial interpretation]] of 0<sup>0</sup> is the number of empty tuples of elements from the empty set. There is exactly one empty [[tuple]]. 
+*Equivalently, the [[#Exponentiation over sets|set-theoretic interpretation]] of 0<sup>0</sup> is the number of functions from the empty set to the empty set.  There is exactly one such function, the [[empty function]].
+*A [[power series]] identity with nonzero constant term, such as <math>\textstyle e^{x} = \sum_{n=0}^{\infty} \frac{x^n}{n!} </math>, is not valid for ''x'' = 0 unless 0<sup>0</sup>, which appears in the numerator of the first term of the series, is 1. Thus defining 0<sup>0</sup> to be 1 allows this identity to be used instead of the longer identity <math>\textstyle e^{x} = 1 + \sum_{n=1}^{\infty} \frac{x^n}{n!} </math>.
+*The [[binomial theorem]] <math>\textstyle(1+x)^n = \sum_{k = 0}^n \binom{n}{k} x^k</math> is not valid for ''x'' = 0, unless 0<sup>0</sup> = 1.<ref>"Some textbooks leave the quantity 0<sup>0</sup> undefined, because the functions ''x''<sup>0</sup> and 0<sup>''x''</sup> have different limiting values when ''x'' decreases to 0. But this is a mistake. We must define ''x''<sup>0</sup> = 1, for all ''x'', if the binomial theorem is to be valid when ''x'' = 0, ''y'' = 0, and/or ''x'' = −''y''. The binomial theorem is too important to be arbitrarily restricted! By contrast, the function 0<sup>''x''</sup> is quite unimportant".{{cite book|title=[[Concrete Mathematics]]|edition=1st edition|publisher=Addison Wesley Longman Publishing Co|date=[[1989-01-05]]|id=ISBN 0-201-14236-8|author=[[Ronald Graham]], [[Donald Knuth]], and [[Oren Patashnik]]|pages=162|chapter=Binomial coefficients}}</ref> By defining 0<sup>0</sup> to be 1, a special case of the theorem can be eliminated. 
+*In [[differential calculus]], the [[power rule]] <math>\frac{d}{dx} x^n = nx^{n-1}</math> is not valid for n=1 at x=0 unless 0<sup>0</sup> = 1.  Defining it this way eliminates the need for a special case for the power rule.
+
+In contexts where the exponent may vary continuously, it is generally best to treat 0<sup>0</sup> as an ill-defined quantity.  Justifications for treating it as undefined include:
+*The value 0<sup>0</sup> often arises as the formal limit of exponentiated functions, ''f''(''x'')<sup>''g''(''x'')</sup>, when ''f''(''x'') and ''g''(''x'') approach 0 as ''x'' approaches ''a'' (a constant or infinity).  There, 0<sup>0</sup> suggests [lim ''f''(''x'')]<sup>lim ''g''(''x'')</sup>, which is a well defined quantity and is the correct value of lim ''f''(''x'')<sup>''g''(''x'')</sup> when ''f'' and ''g'' approach nonzero constants, but is not well defined when ''f'' and ''g'' approach 0.  The same reasoning applies to certain powers involving [[#Powers with infinity|infinity]], <math>\infty^0</math> and <math>1^\infty</math>.
+:A more abstract way of saying this is the following:  The real function ''x''<sup>''y''</sup> of the two nonnegative real variables ''x'' and ''y'' is not [[continuous function|continuous]] at the point (''x'', ''y'') = (0, 0), and so 0<sup>0</sup> is not determined by continuity.<ref>{{cite journal|author=L. J. Paige|title=A note on indeterminate forms|journal=American Mathematical Monthly|volume=61|issue=3|date=March 1954|pages=189&ndash;190}}</ref> That is, the function ''x''<sup>''y''</sup> has no continuous extension from the open first quadrant to include the point (0,0).<ref>Along the ''x''-axis the limit is 1, along the ''y''-axis the limit is 0, and any intermediate limit ''a'' can be obtained using the curve ''y'' = log(''a'')/log(''x'').  However, if ''y'' is an [[analytic function]] of ''x'', or if there exists a positive constant, ''a'', such that ''y'' < ''ax'', then the limit is 1.</ref>  A ''discontinuous'' extension would cause the function to lose a number of desirable properties. For example, it is ordinarily taken as a rule in calculus that <math>\lim_{x \to a} f(x)^{g(x)} = 
+(\lim_{x \to a} f(x))^{\lim_{x \to a} g(x)}</math> whenever both sides of the equation are defined; this rule would necessarily fail if 0<sup>0</sup> were defined. 
+*The function ''z''<sup>''z''</sup>, viewed as a function of a [[complex number]] variable ''z'' and defined as ''e''<sup>''z''&nbsp;log&nbsp;''z''</sup> is undefined at ''z'' = 0 because log&nbsp;''z'' is undefined at ''z'' = 0. Moreover, because ''z''<sup>''z''</sup> has a logarithmic [[branch point]] at ''z'' = 0, it is not common to extend the domain of ''z''<sup>''z''</sup> to the origin in this context.<ref>"... Let's start at ''x''=0. Here ''x''<sup>''x''</sup> is undefined."  Mark D. Meyerson  "The ''X''<sup>''x''</sup> Spindle." ''Mathematics Magazine'', v. 69 n. 3, Jun 1996, pp. 198-206.</ref>
+
+===Treatment in programming languages===
+The evaluation of 0<sup>0</sup> is possible in several computer programming languages.  Many languages, including [[Java (programming language)|Java]], [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]], [[Haskell (programming language)|Haskell]], [[ML (programming language)|ML]], [[Scheme (programming language)|Scheme]], [[MATLAB]], Microsoft Windows' Calculator, and others (especially when using [[IEEE floating-point arithmetic]], but also for integer arithmetic), evaluate 0<sup>0</sup> to be 1.<ref>For example, see {{cite paper|title=Rationale for International Standard &mdash; Programming Languages &mdash; C|version=Revision 5.10|date=April 2003|author=John Benito|url=http://www.open-std.org/jtc1/sc22/wg14/www/C99RationaleV5.10.pdf|page=182}}</ref> [[Mathematica]] simplifies ''a''<sup>0</sup> to 1,  even if no constraints are placed on ''a'',  but does not simplify 0<sup>''a''</sup>, and takes 0<sup>0</sup> to be an indeterminate form. [[Maple (software)|Maple]] simplifies ''a''<sup>0</sup> to 1 and 0<sup>''a''</sup> to 0, even if no constraints are placed on ''a'', and evaluates 0<sup>0</sup> to 1. Google search when used for its calculator function evaluates ''0''<sup>0</sup> to 1 <ref>http://www.google.co.uk/search?q=0%5E0</ref>
+
+==Powers with infinity==
+Exponential expressions involving infinity may be thought of as [[Exponentiation#Generalizations of exponentiation|generalizations]] of more familiar kinds of exponentiation, but there are at least two sharply distinct kinds of generalization to the infinite case.  On the one hand, there is the [[Exponentiation#Combinatorial interpretation|combinatorial]] or set theoretic interpretation; see [[Exponentiation#Exponentiation of cardinal and ordinal numbers|exponentiation of cardinal numbers]].
+
+On the other hand, one can find expressions such as <math>\infty^0</math> and <math>1^\infty</math> arising in analysis for the same reason as 0<sup>0</sup>, and they are undefined for the same reason.  That is, it is true that (lim ''f''(''x''))<sup>lim ''g''(''x'')</sup> = lim ''f''(''x'')<sup>''g''(''x'')</sup> when ''f'' and ''g'' approach nonzero finite constants, but not when they approach 0 or infinity; then, the limit of the power can be anything, not predictable from the limits of ''f'' and ''g''.
+
+It does make sense to say that <math>\infty = \infty^\infty</math> if this is simply interpreted
+as an abbreviation for the theorem that  if ''f'' and ''g'' both approach infinity as ''x'' approaches ''a'', then lim ''f''(''x'')<sup>''g''(''x'')</sup> is also infinite.  (Likewise, <math>\infty = 7^\infty</math>, <math>\infty = 1.3^\infty</math>, etc.)
+
+==Efficiently computing a power==
+The simplest method of computing ''a''<sup>''n''</sup> requires ''n''&minus;1 multiplication operations, but it can be computed more efficiently as illustrated by the following example.  To compute 2<sup>100</sup>, note that 100 = 96 + 4 and
+96 = 3*32.  Compute the following in order:
+:2<sup>2</sup> = 4
+:(2<sup>2</sup>)<sup>2</sup> =  2<sup>4</sup> = 16
+:(2<sup>4</sup>)<sup>2</sup> =  2<sup>8</sup> = 256
+:(2<sup>8</sup>)<sup>2</sup> =  2<sup>16</sup> = 65,536
+:(2<sup>16</sup>)<sup>2</sup> =  2<sup>32</sup> = 4,294,967,296
+: 2<sup>32</sup> 2<sup>32</sup> 2<sup>32</sup>2<sup>4</sup> = 2<sup>100</sup>
+This series of steps only requires 8 multiplication operations instead of 99.
+
+In general, the number of multiplication operations required to compute 
+''a''<sup>''n''</sup> can be reduced to [[asymptotic notation|&Theta;]](log ''n'') by using [[exponentiation by squaring]] or (more generally) [[addition-chain exponentiation]].  Finding the ''minimal'' sequence of multiplications (the minimal-length addition chain for the exponent) for ''a''<sup>''n''</sup> is a difficult problem for which no efficient algorithms are currently known, but many reasonably efficient heuristic algorithms are available.
+
+==Exponential notation for function names==
+Placing an integer superscript after the name or symbol of a function, as if the function were being raised to a power, commonly refers to repeated [[function composition]] rather than repeated multiplication. Thus ''f''<sup>3</sup>(''x'') may mean ''f''(''f''(''f''(''x'')));
+in particular, ''f''<sup> -1</sup>(''x'') usually denotes the [[inverse function]] of ''f''.
+
+However, for historical reasons, a special syntax applies to the [[trigonometric functions]]: a positive exponent applied to the function's abbreviation means that the result is raised to that power, while an exponent of &minus;1 denotes the inverse function. That is, sin<sup>2</sup>''x'' is just a shorthand way to write (sin&nbsp;''x'')<sup>2</sup> without using parentheses, whereas sin<sup>&minus;1</sup>''x'' refers to the inverse function of the [[sine]], also called arcsin&nbsp;''x''. There is no need for a shorthand for the reciprocals of trigonometric functions since each has its own name and abbreviation, for example
+1 / sin(''x'') = (sin&nbsp;''x'')<sup>&minus;1</sup> is csc&nbsp;''x''.  A similar convention applies to logarithms, where log<sup>2</sup>(''x'') = (log (''x''))<sup>2</sup> and there is no common abbreviation for log(log(''x'')). {{Fact|date=February 2007}} <!--fact template only belongs to logarithm-related sentence.-->
+
+==Generalizations of exponentiation ==
+===Exponentiation in abstract algebra===
+Exponentiation for integer exponents can be defined for quite general structures in  [[abstract algebra]].
+
+Let ''X'' be a [[set]] with a [[power-associative]] [[binary operation]], which we will write multiplicatively. In this very general situation, we can define ''x''<sup>''n''</sup> for any element ''x'' of ''X'' and any nonzero [[natural number]] ''n'', by simply multiplying ''x'' by itself ''n'' times; by definition, [[power associativity]] means that it doesn't matter in which order we perform the multiplications.
+
+Now additionally suppose that the operation has an [[identity element]] 1.
+Then we can define ''x''<sup>0</sup> to be equal to 1 for any ''x''.
+Now ''x''<sup>''n''</sup> is defined for any natural number ''n'', including 0.
+
+Finally, suppose that the operation has [[inverse element|inverses]], and that the multiplication is associative (so that the [[Magma (algebra)|magma]] is a [[group (mathematics)|group]]). Then we can define ''x''<sup>&minus;''n''</sup> to be the inverse of ''x''<sup>''n''</sup> when ''n'' is a natural number. Now ''x''<sup>''n''</sup> is defined for any integer ''n'' and any ''x'' in the group.
+
+Exponentiation in this purely algebraic sense satisfies the following laws (whenever both sides are defined):
+* <math>\ x^{m+n}=x^mx^n </math>
+* <math>\ x^{m-n}=x^m/x^n </math>
+* <math>\ x^{-n}=1/x^n </math>
+* <math>\ x^0=1 </math>
+* <math>\ x^1=x </math>
+* <math>\ x^{-1}=1/x </math>
+* <math>\ (x^m)^n=x^{mn} </math>
+Here, we use a [[division (mathematics)|division]] slash ("/") to indicate multiplying by an inverse, in order to reserve the symbol ''x''<sup>&minus;1</sup> for raising ''x'' to the power &minus;1, rather than the inverse of ''x''. However, as one of the laws above states, ''x''<sup>&minus;1</sup> is always equal to the inverse of ''x'', so the notation doesn't matter in the end.
+
+If in addition the multiplication operation is [[commutative]] (so that the set ''X'' is an [[abelian group]]), then we have some additional laws:
+* (''xy'')<sup>''n''</sup> = ''x''<sup>''n''</sup>''y''<sup>''n''</sup>
+* (''x''/''y'')<sup>''n''</sup> = ''x''<sup>''n''</sup>/''y''<sup>''n''</sup>
+
+If we take this whole theory of exponentiation in an algebraic context but write the binary operation additively, then "exponentiation is repeated multiplication" can be reinterpreted as "[[multiplication]] is repeated [[addition]]". Thus, each of the laws of exponentiation above has an [[analogy|analogue]] among laws of multiplication.
+
+When one has several operations around, any of which might be repeated using exponentiation, it is common to indicate which operation is being repeated by placing its symbol in the superscript. Thus, ''x''<sup>*''n''</sup> is ''x'' * ··· * ''x'', while ''x''<sup>#''n''</sup> is ''x'' # ··· # ''x'', whatever the operations * and # might be.
+
+Superscript notation is also used, especially in [[group theory]], to indicate [[Conjugacy class|conjugation]]. That is, ''g''<sup>''h''</sup> = ''h''<sup>&minus;1</sup>''gh'', where ''g'' and ''h'' are elements of some [[group (math)|group]]. Although conjugation obeys some of the same laws as exponentiation, it is not an example of repeated multiplication in any sense. A [[quandle]] is an [[algebraic structure]] in which these laws of conjugation play a central role.
+
+===Exponentiation over sets===
+
+If ''n'' is a natural number and ''A'' is an arbitrary set, the expression ''A''<sup>''n''</sup> is often used to denote the set of ordered ''n''-tuples of elements of ''A''. This is equivalent to letting ''A''<sup>''n''</sup> denote the set of functions from the set {0,&nbsp;1,&nbsp;2,&nbsp;...,&nbsp;''n''&minus;1} to the set ''A''; the ''n''-tuple (''a''<sub>0</sub>,&nbsp;''a''<sub>1</sub>,&nbsp;''a''<sub>2</sub>,&nbsp;...,&nbsp;a<sub>''n''&minus;1</sub>) represents the function that sends ''i'' to ''a''<sub>''i''</sub>.    
+
+For an infinite [[cardinal number]] &kappa; and a set ''A'', the notation ''A''<sup>&kappa;</sup> is also used to denote the set of all functions from a set of size &kappa; to ''A''.   This is sometimes written <sup>&kappa;</sup>''A'' to distinguish it from cardinal exponentiation, defined below. 
+
+This generalized exponential can also be defined for operations on sets or for sets with extra [[Mathematical structure|structure]]. For example, in [[linear algebra]], it makes sense to index [[direct sum]]s of [[vector space]]s over arbitrary index sets.
+That is, we can speak of
+: <math>\bigoplus_{i \in \mathbb{N}} V_{i},</math>
+where each ''V''<sub>''i''</sub> is a vector space.
+Then if ''V''<sub>''i''</sub> = ''V'' for each ''i'', the resulting direct sum can be written in exponential notation as ''V''<sup>(+)''N''</sup>, or simply ''V''<sup>''N''</sup> with the understanding that the direct sum is the default.
+We can again replace the set ''N'' with a cardinal number ''n'' to get ''V''<sup>''n''</sup>, although without choosing a specific standard set with cardinality ''n'', this is defined only [[up to isomorphism]].
+Taking ''V'' to be the [[field (algebra)|field]] '''R''' of [[real number]]s (thought of as a vector space over itself) and ''n'' to be some [[natural number]], we get the vector space that is most commonly studied in linear algebra, the [[Euclidean space]] '''R'''<sup>''n''</sup>.
+
+If the base of the exponentiation operation is a set, the exponentiation operation is the [[Cartesian product]] unless otherwise stated. Since multiple Cartesian products produce an ''n''-[[tuple]], which can be represented by a function on a set of appropriate cardinality, ''S''<sup>''N''</sup> becomes simply the set of all [[Function (mathematics)|function]]s from ''N'' to ''S'' in this case:
+: <math>S^N \equiv \{ f: N \to S \}.\,</math>
+This fits in with the exponentiation of cardinal numbers, in the sense that |''S''<sup>''N''</sup>| = |''S''|<sup>|''N''|</sup>, where |''X''| is the cardinality of ''X''.
+When ''N''=2={0,1}, we have |2<sup>''X''</sup>| = 2<sup>|''X''|</sup>, where 2<sup>''X''</sup>, usually denoted by '''P'''''X'', is the [[power set]] of ''X''; each [[subset]] ''Y'' of ''X'' corresponds uniquely to a function on ''X'' taking the value 1 for ''x''&nbsp;&isin;&nbsp;''Y'' and 0 for ''x''&nbsp;&notin;&nbsp;''Y''.
+<!-- (This is where the term "power set" comes from. This needs a source -->
+
+=== Exponentiation in category theory ===
+{{main|Cartesian closed category}}
+In a [[Cartesian closed category]], the [[exponential (category theory)|exponential]] operation can be used to raise an arbitrary object to the power of another object.  This generalizes the [[Cartesian product]] in the category of sets.
+
+===Exponentiation of cardinal and ordinal numbers===
+{{main|Cardinal number#Cardinal arithmetic|l1=cardinal arithmetic|ordinal arithmetic}}
+
+In [[set theory]], there are exponential operations for [[cardinal number|cardinal]] and [[ordinal number|ordinal]] numbers. 
+
+If &kappa; and &lambda; are cardinal numbers, the expression &kappa;<sup>&lambda;</sup> represents the cardinality of the set of functions from any set of cardinality &lambda; to any set of cardinality &kappa;.  If &kappa; and &lambda; are finite then this agrees with the ordinary exponential operation.  
+For example, the set of 3-tuples of elements from a 2-element set has cardinality 8. 
+
+Exponentiation of cardinal numbers is distinct from exponentiation of [[ordinal number]]s, which is defined by a [[limit (mathematics)|limit]] process.
+In the ordinal numbers, exponentiation is defined by [[transfinite induction]]. For ordinals &alpha; and &beta;, the exponential &alpha;<sup>&beta;</sup> is the supremum of the ordinal product &alpha;<sup>&gamma;</sup>&alpha; over all &gamma; < &beta;.
+
+== Repeated exponentiation ==
+Just as exponentiation of natural numbers is motivated by repeated multiplication, it is possible to define an operation based on repeated exponentiation; this operation is sometimes called [[tetration]].  Iterating tetration leads to another operation, and so on.  This sequence of operations is captured by the [[Ackermann function]].
+
+==Exponentiation in programming languages==
+The superscript notation ''x''<sup>''y''</sup> is convenient in handwriting but inconvenient for [[typewriter]]s and [[computer terminal]]s that align the baselines of all characters on each line. Many [[programming language]]s have alternate ways of expressing exponentiation that do not use superscripts:
+* x ↑ y: [[Algol programming language|Algol]], [[Commodore BASIC]]
+* x ^ y: [[BASIC]], [[J programming language|J]], [[Matlab]],  [[R (programming language)|R]], [[Microsoft Excel]], [[TeX]] (and its derivatives), [[Haskell (programming language)|Haskell]] (for integer exponents), and most [[computer algebra system]]s
+* x ** y: [[Ada (programming language)|Ada]], [[Bash]], [[Fortran]], [[FoxPro]], [[Perl]], [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]], [[SAS programming language|SAS]], [[ABAP]], Haskell (for floating-point exponents)
+* x * y: [[APL programming language|APL]]
+* Power(x, y): Microsoft Excel, Delphi/Pascal (declared in "Math"-unit)
+* pow(x, y): [[C (programming language)|C]], [[C++]], [[PHP]]
+* Math.pow(x, y): [[Java (programming language)|Java]], [[JavaScript]], [[Modula-3]]
+* Math.Pow(x, y): [[C Sharp|C#]]
+* (expt x y): [[Common Lisp]], [[Scheme (programming language)|Scheme]]
+
+In Bash, C, C++, C#, Java, JavaScript, PHP and Python, the symbol ^ represents bitwise [[XOR]]. In Pascal, it represents [[indirection]].
+
+==History of the notation==
+The term ''power'' was used by [[Euclid]] for the square of a line. [[Nicolas Chuquet]] used a form of exponential notation in the 15th century, which was later used by [[Henricus Grammateus]] and [[Michael Stifel]]. [[Samuel Jeake]] introduced the term ''indices'' in [[1696]].<ref>{{MacTutor Biography|class=Miscellaneous|id=Mathematical_notation|title=Etymology of some common mathematical terms}}</ref> In the 16th century [[Robert Recorde]] used the terms square, cube, zenzizenzic (fourth power), surfolide (fifth), zenzicube (sixth), second surfolide (seventh) and [[Zenzizenzizenzic]] (eighth).
+
+Another historical synonym, '''involution''',<ref>This definition of "involution" appears in the OED second edition, 1989, and Merriam-Webster online dictionary [http://www.m-w.com/dictionary/involution].  The most recent usage in this sense cited by the OED is from 1806.</ref> is now rare and should not be confused with [[involution|its more common meaning]].
+
+== References ==
+{{reflist|2}}
+
+==See also==
+{{commons|Exponential function}}
+*[[Exponential growth]] and [[Exponential decay]]
+*[[List of exponential topics]]
+*[[Logarithm]]
+*[[Modular exponentiation]]
+*[[Nth root]]
+*[[Unicode subscripts and superscripts]]
+
+==External links==
+* [http://www.faqs.org/faqs/sci-math-faq/specialnumbers/0to0/ sci.math FAQ: What is 0<sup>0</sup>?]
+*{{planetmath reference|id=3948|title=Introducing 0th power}}
+* [http://www.mathsisfun.com/algebra/exponent-laws.html Laws of Exponents] with derivation and examples
+* [http://www.newdream.net/~sage/old/numbers/pow2.htm 1058 Powers of Two]
+
+[[Category:Exponentials]]
+[[Category:Binary operations]]
+
+[[ar:أس]]
+[[ca:Potència aritmètica]]
+[[cs:Umocňování]]
+[[da:Potens (matematik)]]
+[[de:Potenz (Mathematik)]]
+[[et:Astendamine]]
+[[es:Potenciación]]
+[[eo:Potenco (matematiko)]]
+[[fa:توان (ریاضی)]]
+[[fr:Exposant (mathématiques)]]
+[[ko:거듭제곱]]
+[[is:Veldi (stærðfræði)]]
+[[it:Potenza (matematica)]]
+[[he:חזקה]]
+[[la:Potentia (mathematica)]]
+[[hu:Hatvány]]
+[[nl:Machtsverheffen]]
+[[ja:冪乗]]
+[[no:Potens (matematikk)]]
+[[pl:Potęga]]
+[[pt:Exponenciação]]
+[[ru:Возведение в степень]]
+[[simple:Exponentiation]]
+[[fi:Potenssi]]
+[[sv:Potens (matematik)]]
+[[tl:Eksponente]]
+[[th:การยกกำลัง]]
+[[vi:Lũy thừa]]
+[[yi:מדריגה (מאטעמאטיק)]]
+[[zh:冪]]

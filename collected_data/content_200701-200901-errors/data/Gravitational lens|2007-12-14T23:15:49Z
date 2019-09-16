@@ -1,0 +1,146 @@
+{{General relativity}}
+
+A '''gravitational lens''' is formed when the light from a very distant, bright source (such as a [[quasar]]) is "bent" around a massive object (such as a [[galaxy_cluster|cluster of galaxies]]) between the source object and the observer. The process is known as '''gravitational lensing''', and is one of the [[tests of general relativity|predictions]] of [[Albert Einstein]]'s [[general relativity|general theory of relativity]]. 
+
+Although O. Chwolson is credited as being the first to discuss the effect in print (in 1924), the effect is more usually associated with Einstein, who published a more famous article on the subject in 1936.
+
+[[Fritz Zwicky]] posited in 1937 that the effect could allow galaxy clusters to act as gravitational lenses. It was not until 1979 that this effect was confirmed by observation of the so-called "[[Twin Quasar]]" '''[[Q0957+561]]'''. 
+
+==Description==
+[[Image:Gravitational_lens-full.jpg|thumb|right|250px|Bending light|Bending light around a massive object from a distant source. The orange arrows show the apparent position of the background source. The white arrows show the path of the light from the true position of the source.]]  
+
+The [[gravity]] from a massive object (such as a [[galaxy cluster]] or [[black hole]]) can warp [[space-time]], bending everything in it - including the paths followed by [[light]] rays from a bright background source. This alters the time taken for the light to reach an observer, and can both magnify and distort the apparent image of the background source.
+
+Unlike an [[lens (optics)|optical lens]], maximum 'bending' occurs closest to, and minimum 'bending' furthest from, the center of a gravitational lens. Consequently, a gravitational lens has no single [[focus (optics)|focal point]], but a focal line instead. If the source, massive lensing object, and observer lie in a straight line, the source will appear as a ring behind the massive object. This phenomenon was first mentioned in 1924 by the [[St. Petersburg]] physicist [[Orest Chwolson]] [http://www.abc.net.au/science/k2/moments/gmis9737.htm], and quantified by [[Einstein]] in [[1936]]. It is usually referred to in the literature as an '''[[Einstein ring]]''', since Chwolson did not concern himself with the flux or radius of the ring image. More commonly, if the lens is slightly misaligned, the source will resemble partial arcs around the lens. The observer may see multiple images of the same source; the number and shape of these depends upon the relative positions of the source, lens, and observer, and the shape of the gravitational well of the lens object.
+[[Image:Einstein ring.jpg|thumb|right|250px| In the formation known as [[Einstein's Cross]] four images of the same distant quasar appears around a foreground galaxy due to strong gravitational lensing ]]  
+
+There are three classes of gravitational lensing:
+# Strong lensing: where there are easily visible distortions such as the formation of [[Einstein ring]]s, arcs, and [[Multiple images (gravitational lensing)|multiple images]].
+# [[Gravitational_weak_lensing|Weak lensing]]: where the distortions of background sources are much smaller and can only be detected by analyzing large numbers of sources to find coherent distortions of only a few percent.  The lensing shows up statistically as a preferred stretching of the background objects perpendicular to the direction to the center of the lens.
+<!-- Beginning notes on weak lensing:
+By measuring the shapes and orientations of large numbers of distant galaxies, their orientations can be averaged to measure the [[shear]] of the lensing field in any region. This, in turn, can be used to reconstruct the mass distribution in the area: in particular, the background distribution of [[dark matter]] can be reconstructed. Since galaxies are intrinsically elliptical and the weak gravitational lensing signal is small, a very large number of galaxies must be used in these surveys. These weak lensing surveys must carefully avoid a number of important sources of [[systematic error]]: the intrinsic shape of galaxies, the tendency of a camera's [[point spread function]] to distort the shape of a galaxy and the tendency of [[atmospheric seeing]] to distort images must be understood and carefully accounted for. The results of these surveys are important for cosmological parameter estimation, to better understand and improve upon the [[Lambda-CDM model]], and to provide a consistency check on other cosmological observations. They may also provide an important future constraint on [[dark energy]].
+-->
+# [[Gravitational_microlensing|Microlensing]]: where no distortion in shape can be seen but the amount of light received from a background object  changes in time. The background source and the lens may be stars in the [[Milky Way Galaxy|Milky Way]] in one typical case, and stars in a remote galaxy and an even more distant [[quasar]] in another case.
+
+The effect is small, such that (in the case of strong lensing) even a galaxy with a mass more than 100 billion times [[solar mass|that of the sun]] will produce multiple images separated by only a few [[arcsecond]]s. [[Galaxy cluster]]s can produce separations of several arcminutes. In both cases the galaxies and sources are quite distant, many hundreds of [[megaparsec]]s away from our Galaxy.
+
+Gravitational lenses act equally on all kinds of [[electromagnetic radiation]], not just visible light. Weak lensing effects are being studied for the [[cosmic microwave background]] as well as [[galaxy survey]]s. Strong lenses have been observed in [[radio]] and [[x-ray]] regimes as well. If a strong lens produces multiple images, there will be a relative time delay between two paths: that is, in one image the lensed object will be observed before the other image.
+
+===Simulation===
+
+[[Image:BlackHole Lensing 2.gif|right|thumb|240px|Simulated gravitational lensing (black hole going past a background galaxy).]]
+To the right is a simulation of gravitational lensing caused by a [[Schwarzschild black hole]] passing in front of a background galaxy. A secondary image of the galaxy can be seen within the black hole's [[Einstein radius]] on the side opposite the galaxy. The secondary image grows (remaining within the Einstein ring) as the primary image approaches the black hole. The [[surface brightness]] of the two images remains constant, but their [[angular size]]s vary, hence producing an amplification of the galaxy luminosity as seen by a distant observer. Maximum amplification occurs when the galaxy (or in this case a bright part of it) is exactly behind the black hole.
+
+==History==
+According to general relativity, [[mass]] "warps" [[space-time]] to create [[gravitational field]]s and therefore bend [[light]] as a result.  This theory was confirmed in [[1919]] during a [[solar eclipse]], when [[Arthur Eddington]] observed the light from [[star]]s passing close to the [[sun]] was slightly bent, so that stars appeared slightly out of position.
+<!-- note about famous un-scientific experiment -->
+
+Einstein realized that it was also possible for [[astronomical object]]s to bend light, and that under the correct conditions, one would observe multiple images of a single source, called a '''gravitational lens''' or sometimes a '''[[gravitational mirage]]'''.
+However, as he only considered gravitational lensing by single stars, he concluded that the phenomenon would most likely remain unobserved for the foreseeable future. In 1937, [[Fritz Zwicky]] first considered the case where a [[galaxy]] could act as a lens, something that according to his calculations should be well within the reach of observations. 
+
+It was not until 1979 that the first gravitational lens would be discovered. It became known as the "[[Twin Quasar]]" since it initially looked like two identical quasars; it is officially named '''[[Q0957+561]]'''. This gravitational lens was discovered accidentally by [[Dennis Walsh]], [[Bob Carswell]], and [[Ray Weymann]] using the [[Kitt Peak National Observatory]] 2.1 meter [[telescope]].
+
+<!-- cheesy
+The study of gravitational lenses is an important part of the future of
+astronomy and astrophysics.
+-->
+<!--
+''Missing: light refraction/optical lenses/gravitational lenses''
+
+''Missing: schema''
+
+==Some Examples==
+''Missing: images''
+-->
+
+==Explanation in terms of space-time curvature==
+
+{{See also|Kepler problem in general relativity}}
+
+In general relativity, gravity is not construed as a force; hence, if the net force of non-gravitational interactions is zero or negligible, the law that determines motion is [[Newton's First Law]] rather than [[Newton's Second Law]]. Newton's First Law parameterizes displacement in terms of time in non-relativistic mechanics, but in general relativity the law is rewritten to demand motion along a space-time geodesic. This causes the observable path of an object subject to no significant net gravitational interaction to deviate from the straight lines expected from [[Euclidean]] intuition; and, in particular, the path curves in exactly the same way as the geodesics in space-time. 
+
+In the case of gravitational lensing, [[electromagnetic radiation]] is subject to ''no'' non-gravitational effects (except due to interference with an [[electromagnetic field]]), and so the path of light is bent in the exact same way as geodesics. This is why, in the special case of no gravitational lensing, light travels in straight lines. The fact that this does not happen when gravitational lensing applies is due to the distinction between the straight lines imagined by Euclidean intuition and the geodesics of space-time. In fact, just as distances and lengths in [[special relativity]] can be defined in terms of the motion of electromagnetic radiation in a vacuum, so can the notion of a straight geodesic in general relativity. 
+
+Since the speed of electromagnetic radiation in a vacuum is invariant in both theories of relativity,  lensing involves deflection as the only source of change in velocity. Weak lensing and micro-lensing in particular cause deflection in a single direction, and through an angle given by GM/rc<sup>2</sup> for a mass M at a distance r from the affected radiation. Some care needs to be taken in defining this distance because gravity is not instantaneous (it expands at speed c, the same as the light itself). The path of the gravitational wave and the electromagnetic radiation intersect at specific space-time co-ordinates, and the lensing is due to the unique direction of gravitational wave perpendicular at the time to the direction of the electromagnetic radiation's motion. This uniquely defined the radius r relevant to the lensing. Finally, it should be noted that, as with all known gravitational interactions, the deflection is towards the responsible mass.
+
+==Applications==
+
+[[Image:abell.lensing.arp.750pix.jpg|thumb|right|250px|Actual gravitational lensing effects as observed by the Hubble Space Telescope in [[Abell 1689]] - Enlarge the image to see the lensing arcs]]
+
+===Studying the background sources===
+
+Gravitational lenses can be used as ''gravitational telescopes'', because they concentrate the light from objects seen behind them, making very faint objects appear brighter, larger and therefore more easily studied.  Researchers at [[Caltech]] have used the strong gravitational lensing afforded by the [[Abell 2218]] cluster of galaxies to detect the most distant galaxy known ([[February 15]], [[2004]]) through imaging with the [[Hubble Space Telescope]]. Objects at such distances would not normally be visible, providing information from further back in time than otherwise possible.
+
+===Studying the foreground lenses===
+
+Observations of gravitational lensing can also be [[inverse problem|inverted]] to examine the lens itself. Direct measurements of the mass in ''any'' astronomical object are rare, and always welcome. While most other astronomical observations are sensitive only to emitted light, theories are generally concerned with the distribution of mass. Comparing mass and light typically involves assumptions about complicated astrophysical processes. Gravitational lensing is particularly useful if the lens is for some reason difficult to see. 
+
+Gravitational microlensing can provide information on comparatively small astronomical objects, such as [[MACHO]]s within our own galaxy, or [[Extrasolar_planet|extrasolar planets]] (planets beyond the solar system). Three extrasolar planets have been found in this way, and this [[Methods of detecting extrasolar planets#Gravitational microlensing|technique]] has the promise of finding Earth-mass planets around sunlike stars within the [[21st century]].
+
+[[Image:COSMOS_3D_dark_matter_map.jpg|thumb|right|250px|Mass map|3D map of the large-scale distribution of dark matter, reconstructed from measurements of weak gravitational lensing with the Hubble Space Telescope.]]  
+
+Strong and weak gravitational lensing of distant galaxies by foreground [[galaxy_cluster|clusters]] can probe the amount and distribution of mass, which is dominated by invisible dark matter. Aside from determining how much dark matter they contain, its distribution in these systems depends upon properties including the mass of its (unknown) constituent particles and their collisional cross-section. The number of strong gravitational lenses throughout the sky can also be used to measure values of cosmological parameters such as the mean density of matter in the universe. Presently, the statistics do not place very strong limits on cosmological parameters, partly because the number of strong lenses found is relatively small (fewer than a hundred). Weak gravitational lensing can extend the analysis away from these most massive clusters and, for example, reconstruct the large-scale distribution of mass. This is sensitive to cosmological parameters including the mean density of matter, its clustering properties and the [[cosmological constant]].
+
+===Geometry of the Universe===
+
+A purely geometric effect, gravitational lensing can be used to measure the expansion history of the universe (its size as a function of time since the big bang), which is encoded in [[Hubble's law]]. If the mass distribution in a foreground lens is well understood (typically from multiple strong lensing arcs, and possibly weak lensing in the outskirts), two other free parameters can be used to constrain the [[Hubble's law|Hubble constant]], or deviations from Hubble's law caused by [[dark energy]]. In principle, and in both cases, only one gravitational lens for the best possible measurement. The search continues for that perfect lens, with many multiply-imaged arcs.
+
+There will be a time delay (around days or weeks) between multiple images of the same source because of
+#the delay due to the difference in [[optical path length]] between the two rays.
+#the ''general relativistic'' [[Shapiro effect]], which describes light rays as taking longer to traverse a region of stronger gravitation, (''see:'' [[gravity well]], [[gravitational time dilation]]). Because the two rays travel through different parts of the potential well created by the deflector, the clocks carrying the source's signal will differ by a small amount.
+If either the amount or the spectrum of light emitted by the background source varies over time, characteristic variations can be seen to occur first in one image and then others. 
+
+A gravitational lens magnifies and distorts very distant sources more than those only just behind the lens (and it does not distort those in front of the lens). Indeed, simple geometry can be used to calculate the efficiency of a gravitational lens as a function of the [[angular diameter distance]] to the source. If the distortion can be measured at multiple distances, this distance can be compared to the [[redshift]] of those sources: a direct [[Hubble diagram]]. Furthermore, this technique effectively requires only the ratio of the distortion at two distances. The ''total'' mass of the foreground lens therefore cancels out and does not need to be constrained (although its radial profile does). Using a more massive lens simply increases the signal to noise of the measurement.
+
+
+==Historical papers and references==
+* {{cite journal | first = O | last = Chwolson | title = Über eine mögliche Form fiktiver Doppelsterne | journal = Astronomische Nachrichten | volume = 221 | pages = 329 | year = 1924 | url = http://ukads.nottingham.ac.uk/cgi-bin/nph-bib_query?bibcode=1924AN....221..329C}}
+* {{cite journal | first = Albert | last = Einstein | authorlink = Albert Einstein | title = Lens-like Action of a Star by the Deviation of Light in the Gravitational Field | journal = Science | volume = 84 | pages = 506&mdash;507 | year = 1936 | url = http://links.jstor.org/sici?sici=0036-8075%2819361204%293%3A84%3A2188%3C506%3ALAOASB%3E2.0.CO%3B2-8}}
+* {{cite journal | first = Jürgen | last = Renn | coauthors = Tilman Sauer and John Stachel | title =The Origin of Gravitational Lensing: A Postscript to Einstein's 1936 Science paper | journal = Science | volume = 275 | pages = 184&mdash;186 | year = 1997 | doi = 10.1126/science.275.5297.184}}
+
+==References==
+*"''[http://www.tat.physik.uni-tuebingen.de/~frutto/ XFGLenses]''". A Computer Program to visualize Gravitational Lenses, Francisco Frutos-Alfaro 
+*"''[http://www.btinternet.com/~Boughen/G-LenS G-LenS]''".  A Point Mass Gravitational Lens Simulation, Mark Boughen.
+* Newbury, Pete, "''[http://www.iam.ubc.ca/~newbury/lenses/lenses.html Gravitational Lensing]''".  Institute of Applied Mathematics, The University of British Columbia. 
+* Cohen, N., "Gravity's Lens: Views of the New Cosmology", Wiley and Sons, 1988.
+* "''[http://cfa-www.harvard.edu/~rschild/qgl.html Q0957+561 Gravitational Lens]''". Harvard.edu.
+* "''[http://imagine.gsfc.nasa.gov/docs/features/news/grav_lens.html Gravitational lensing]''". Gsfc.nasa.gov. 
+* Bridges, Andrew, "''[http://www.signonsandiego.com/news/science/20040215-1033-ca-farthestgalaxy.html Most distant known object in universe discovered]''". [[Associated Press]]. [[February 15]], [[2004]]. (Farthest galaxy found by gravitational lensing, using Abell 2218 and Hubble Space Telescope.)
+*[http://sciencecareers.sciencemag.org/career_development/previous_issues/articles/2006_05_12/analysing_corporations_and_the_cosmos/(parent)/12100 Analyzing Corporations ... and the Cosmos] An unusual career path in gravitational lensing.
+* "''[http://cfa-www.harvard.edu/castles HST images of strong gravitational lenses]''". Harvard-Smithsonian Center for Astrophysics.
+* "''[http://uk.arxiv.org/abs/astro-ph/0404309 A planetary microlensing event]''" and "''[http://arxiv.org/abs/astro-ph/0505451 A Jovian-mass Planet in Microlensing Event OGLE-2005-BLG-071]''" , the first [[Extrasolar_planet|extra-solar planet]] detections using microlensing.
+*[http://xstructure.inr.ac.ru/x-bin/theme2.py?arxiv=gr-qc&level=1&index1=5080185 Gravitational lensing on arxiv.org]
+== Further reading ==
+* {{cite paper|title=Weak Gravitational Lensing|author=Matthias Bartelmann and Peter Schneider|date=[[2000-08-17]]|format=PDF|url=http://www.mpa-garching.mpg.de/Lenses/WLRevEls.pdf}}
+
+[[Category:Astrophysics]]
+[[Category:Effects of gravitation]]
+[[Category:Gravitational lensing| ]]
+
+[[br:Ferenn c'hravitadurel]]
+[[bg:Гравитационна леща]]
+[[ca:Lent gravitatòria]]
+[[cs:Gravitační čočka]]
+[[da:Gravitationslinseeffekt]]
+[[de:Gravitationslinse]]
+[[es:Lente gravitacional]]
+[[eo:Gravita lenso]]
+[[fr:Lentille gravitationnelle]]
+[[it:Lente gravitazionale]]
+[[he:עידוש כבידתי]]
+[[lv:Gravitācijas lēca]]
+[[lt:Gravitacinis lęšis]]
+[[hu:Gravitációs lencse]]
+[[nl:Zwaartekrachtlens]]
+[[ja:重力レンズ]]
+[[pl:Soczewkowanie grawitacyjne]]
+[[pt:Lente gravitacional]]
+[[ru:Гравитационная линза]]
+[[sk:Gravitačná šošovka]]
+[[fi:Gravitaatiolinssi]]
+[[sv:Gravitationslins]]
+[[vi:Thấu kính hấp dẫn]]
+[[zh:引力透镜效应]]
+
+== Gravitational lens in modern art ==
+[http://www.llinza.info Lenore Linza] - Gravitational Linza (Lens) - art name of Russian artist.

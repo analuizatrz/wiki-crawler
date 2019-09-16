@@ -1,0 +1,160 @@
+{{ Infobox OS version
+| name                   = Mac OS 9
+| screenshot             = Mac OS 9 screenshot 2.png
+| caption                = Screenshot of Mac OS 9
+| developer              = Apple Computer Inc.
+| family                 = Mac OS Classic
+| source_model           = Closed source
+| first_release_date     = [[October 23]] [[1999]]
+| working_state          = Obsolete/Historic/Legacy
+| release_version        = 9.2.2
+| release_date           = [[December 6]] [[2001]]
+| kernel_type            = [[nanokernel]]
+| license                = Proprietary
+| website                = http://www.apple.com/support/macos9/
+| support_status         = Unsupported (Internet only)
+}}
+[[Image:Sherlock2 OS9.png|thumb|Sherlock 2 for Mac OS 9 with the new metallic appearance]]
+
+'''Mac OS 9''' is the final major release of [[Apple Inc.|Apple's]] "Classic" [[Mac OS]]. Introduced on [[October 23]] [[1999]], Apple positioned it as "The Best Internet Operating System Ever," highlighting [[Sherlock (software)|Sherlock 2's]] Internet search capabilities, integration with Apple's free online services known as [[.Mac|iTools]], and improved [[Open Transport]] networking.
+
+While Mac OS 9 lacks the functionality of a modern operating system, such as [[protected memory]] and full [[pre-emptive multitasking]]<ref name="Pre-emptive Multitasking">{{Cite web|url=http://lists.apple.com/archives/Mt-smp/2001/May/msg00007.html|title=Re: newbie question: What is a Blue Task|accessdate=2007-03-29}}</ref>, lasting improvements include the introduction of an automated [[Software Update]] engine and support for [[multi-user|multiple users]].
+
+Apple discontinued development of Mac OS 9 in 2002, transitioning all future development to [[Mac OS X]]. Since that time, no updates have been released. The final updates to Mac OS 9 addressed compatibility issues with OS X while running in the [[Classic (Mac OS X)|Classic Environment]] and compatibility with [[Carbon (computing)|Carbon]] applications.
+
+== Features ==
+Apple billed Mac OS 9 as including "50 New Features" and heavily marketed its [[Sherlock (software)|Sherlock 2]] software, which introduced a 'channels' feature for searching different online resources and introduced a [[QuickTime]]-like metallic appearance. Mac OS 9 also featured integrated support for Apple’s suite of Internet services known as iTools (later re-branded as [[.Mac]]) and included improved [[TCP/IP]] functionality with [[Open Transport]] 2.5.
+
+Other features new to Mac OS 9 include:<ref name="Features 1">{{Cite web|url=http://www.macintouch.com/m90.html|title=Mac OS 9 Special Report|accessdate=2007-03-29}}</ref>
+<ref name="Features 2">{{Cite web|url=http://docs.info.apple.com/article.html?artnum=50100|title=MacHelp What's New in Mac OS 9|accessdate=2007-03-29}}</ref>
+
+* Integrated support for multiple user accounts without using [[At Ease]].
+* Support for voice login through VoicePrint passwords.
+* [[Apple Keychain|Keychain]], a feature allowing users to save passwords in protected keychains.
+* A Software Update control panel for automatic download and installation of Apple system software updates.
+* A redesigned Sound control panel and support for [[USB]] audio.
+* Speakable Items 2.0, also known as [[PlainTalk]], featuring improved speech synthesis and recognition along with AppleScript integration.<ref name="Speakable Items">{{Cite web|url=http://docs.info.apple.com/article.html?artnum=60519|title=Mac OS 9: What's New - Speakable Items|accessdate=2007-03-29}}</ref>
+* Improved font management through FontSync.
+* Remote Access Personal Server 3.5, including support for TCP/IP clients over [[PPP]].
+* An updated version of [[AppleScript]] with support for TCP/IP.
+* Personal File Sharing over TCP/IP.
+* USB Printer Sharing, a control panel allowing certain USB printers to be shared across a TCP/IP network.
+* [[128-bit]] [[encryption|file encryption]] in the Finder.
+* Support for files larger than 2 [[gigabyte|GB]].
+* [[Unix]] volume support.
+* CD Burning in the [[Macintosh Finder|Finder]] (introduced in Mac OS 9.1).
+* Addition of a 'Window' menu to the Finder (introduced in Mac OS 9.1)
+
+== Mac OS 9 and Classic ==
+
+[[PowerPC]] versions of [[Mac OS X]] include a compatibility layer called [[Classic (Mac OS X)|Classic]], enabling users to run applications and hardware requiring Mac OS 9 from within Mac OS X. This is achieved through booting a full Mac OS 9 system. As a result, Mac OS 9 must be installed on the computer for Classic to function. Most Mac OS 9 applications run well in Classic, although some applications demonstrate screen redraw problems. In addition, scanner drivers and many other utilities no longer work.
+
+In May 2002, at Apple's [[Worldwide Developers Conference]] in [[San Jose, California]], [[Steve Jobs]], accompanied by a [[coffin]], held a mock [[funeral]]<ref>[http://www.youtube.com/watch?v=Cl7xQ8i3fc0 YouTube | Apple WWDC 2002-The Death Of Mac OS 9]</ref> to announce that Apple had stopped development of Mac OS 9. Mac OS 9.2.2, introduced in December 2001, was the final version of Mac OS 9, and the end of the classic Mac OS.
+
+In June 2005, Jobs announced that the Macintosh platform would be transitioning to [[Intel x86]] microprocessors. Developer documentation of the [[Rosetta (software)|Rosetta]] PowerPC emulation layer revealed that applications written for Mac OS 8 or 9 would not run on x86-based Macs. The Classic Environment remains in the PowerPC version of Mac OS X, however x86 versions of OS X do not officially support Classic.
+
+As a workaround for Intel-based Macs, Mac OS 9 can be emulated up to version 9.0.4 by using [[SheepShaver]], a PowerPC emulator. It cannot emulate above 9.0.4 because SheepShaver does not emulate a [[memory management unit]]. The [[PearPC]] PowerPC emulator does not support Mac OS 9.<ref>{{cite web | url=http://pearpc.sourceforge.net/faq.html | title=Frequently Asked Questions | publisher=PearPC Developers | accessdate=2006-11-16}}</ref>
+
+Support for Classic in PowerPC versions of Mac OS X has been discontinued as of [[Mac OS X v10.5]].
+
+== Version history ==
+<!--  Commented out because image was deleted: [[Image:Macos9retailbox.jpg|thumb|Mac OS 9 retail box.]] -->
+
+{| class="wikitable" border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; text-align: center;"
+|- style="background: #ececec"
+! style="width:8em" | Version
+! style="width:10em" | Release Date
+! style="width:20em" | Changes
+! style="width:8em" | Codename
+|-
+| [http://developer.apple.com/technotes/tn/tn1176.html 9.0]
+| October 1999
+| Initial release
+| Sonata
+|-
+| 9.0.2
+| Shipped with Macs
+| Bug fixes.
+| N/A
+|-
+| 9.0.3
+| Shipped with Macs
+| Bug fixes.
+| N/A
+|-
+| [http://developer.apple.com/technotes/tn/tn1194.html 9.0.4]
+| April 2000 [http://docs.info.apple.com/article.html?artnum=60791 (download)]
+| Improved USB and FireWire support. Other bug fixes.
+| Minuet
+|-
+| [http://developer.apple.com/technotes/tn/tn2010.html 9.1]
+| January 2001 [http://docs.info.apple.com/article.html?artnum=75103 (download)]
+| Integrated Disc Burning within Finder. Implementation of Finder 'Window' menu. Improved stability.
+| Fortissimo
+|-
+| 9.2
+| July 2001
+| G3 processor as minimum system requirement. Improved speed and Classic Environment support.
+| Moonlight
+|-
+| 9.2.1
+| August 2001 [http://docs.info.apple.com/article.html?artnum=120030 (download)]
+| Minor bug fixes.
+| Limelight
+|-
+| 9.2.2
+| December 2001 [http://docs.info.apple.com/article.html?artnum=75186 (download)]
+| Bug fixes relating to Classic Environment.
+| LU1
+|- style="background: #ececec"
+! Version
+! Release Date
+! Changes
+! Codename
+|-
+|}
+
+Updates to Mac OS 9 include 9.0.4, 9.1, 9.2.1, and 9.2.2. Mac OS 9.0.4 was a collection of bug fixes primarily relating to USB and FireWire support. OS 9.1 included integrated CD burning support in the [[Macintosh Finder]] and added a new Window menu in the Finder for switching between open windows. Mac OS 9.2, which required at least a G3 processor, increased performance noticeably.
+
+== Availability ==
+Retail copies of Mac OS 9 are still available from several Internet businesses at varying prices. Mac OS 9 is no longer available from Apple. Mac OS 9 is not yet classified as [[abandonware]], as it is still in wide use by those who cannot upgrade to Mac OS X due to hardware limitations, or prefer it to Mac OS X.
+
+== Trivia ==
+{{Trivia|date=June 2007}}
+* [[Microware]] sued Apple for trademark infringement, claiming that the name Mac OS 9 was too similar to Microware's [[OS-9]]. A judge rejected the claim, saying that there was little chance of confusion.
+* Mac OS 9 was originally planned for release as Mac OS 8.7.<ref name="Mac OS 8.7">{{Cite web|url=http://betaworld.forcedperfect.net/macos87_a3/|title=Betaworld - Mac OS 8.7a3 (Code name: StoneAge)|accessdate=2007-03-29}}</ref>
+* Protected memory was considered as an addition to Mac OS 9, but was not implemented due to the great technical difficulty and lack of developmental resources.<ref name="Stattenfield">{{cite web | url=http://www.stattenfield.com/keith/blog/2006/08/09/theres-must-be-a-lot-of-wrong-atude-in-wikipedia/ | title=There's must be a lot of wrong-atude in wikipedia | work=Keith's Complete Waste of Time | first=Keith | last=Stattenfield | authorlink=Keith Stattenfield |date=[[2006-08-09]] | accessdate=2006-11-19}}</ref>
+* Option-clicking the Apple menu reveals an "About the Finder" menu item in place of "About This Computer." Clicking it reveals a photograph of the Apple Campus and, based on a long-standing tradition, displayed a scrolling list of developers who contributed to the current and previous versions of the Finder. This was changed by Mac OS 9.2 to simply read, "Created by all the folks here at Apple."
+* In earlier versions of Mac OS 9, holding down the Control, Option, and Command keys and selecting the Apple menu would reveal an "About The Mac OS 9 Team" item in place of "About This Computer". This was also present in OS 8.5 and was removed completely from the System file in later versions of Mac OS 9.
+* The famous [[Happy Mac]] boot icon that served Mac users for almost 15 years was updated to a full-color (32-bit) Happy Mac for Mac OS 9, but only for Macintoshes using the [[New World ROM]]. [[Old World ROM]]-based systems still showed the old black and white icon.
+* For some time after the discontinuation of Mac OS 9, Apple sold retail copies of Mac OS 9 for $19.95 to qualified OS X purchasers through the Mac OS 9.2 Fulfillment Program. This was designed to assist those who needed to run Classic applications yet did not own a copy of Mac OS 9. This program has since been discontinued.
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [http://developer.apple.com/technotes/tn/tn1176.html Technote TN1176 Mac OS 9] from apple.com
+* [http://www.macintouch.com/m90.html Mac OS 9 "Special Report" from MacInTouch]
+* [http://docs.info.apple.com/article.html?artnum=75130 Apple | iMac Firmware Update]
+* [http://uneasysilence.com/archive/2006/08/7352/ Run Mac OS 9 on an Intel Mac]
+
+{{Mac OS History}}
+
+[[Category:1999 software]]
+[[Category:Mac OS]]
+[[Category:Apple Inc. software]]
+
+[[ca:Mac OS 9]]
+[[cs:Mac OS 9]]
+[[de:Mac OS 9]]
+[[es:Mac OS 9]]
+[[fr:Mac OS 9]]
+[[is:Mac OS 9]]
+[[it:Mac OS 9]]
+[[pl:Mac OS 9]]
+[[ru:Mac OS 9]]
+[[sk:Mac OS 9]]
+[[sv:Mac OS 9]]
+[[zh:Mac OS 9]]

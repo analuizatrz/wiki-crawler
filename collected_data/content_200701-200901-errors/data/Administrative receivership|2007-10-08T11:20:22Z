@@ -1,0 +1,38 @@
+'''Administrative receivership''' is a procedure in [[common law]] countries whereby a creditor can enforce [[security interest|security]] against a [[company (law)|company's]] assets in an effort to obtain repayment of the secured debt.  It used to be the most popular method of enforcement by [[secured creditor]]s, but recent legislative reform in many jurisdictions has reduced its significance considerably in certain countries.<ref>Particularly in the [[United Kingdom]] subsequent to the passing of the Enterprise Act 2002</ref>
+
+Administrative receivership differs from simple '''receivership''' in that an administrative receiver is appointed over all of the assets and undertaking of the company.  This means that an administrative receiver can normally only be appointed by the holder of a [[floating charge]].  Because of this unusual role, insolvency legislation usually grants wider powers to administrative receivers, but also controls the exercise of those powers to try and mitigate potential prejudice to [[unsecured creditor]]s.
+
+Characteristically an administrative receiver will be an [[accountant]] with considerable experience of insolvency matters.
+
+==History==
+
+The common law has long recognised the concept of a [[receiver]].  Following the development of the [[floating charge]] creditors were effectively able to take security over a company's entire business by means of a floating charge over the undertaking.  Security documents generally contained very wide powers of appointment such that on default the creditor could take over the business immediately and without the input of any court.  A receiver appointed to the entire business became known as a ''receiver and manager''. The receiver and manager would typically have extensive powers over the business, including the power to sell it at a time and on terms that suited the appointing creditor.
+
+The ability to appoint a receiver and manager was a very powerful remedy, but it came to be considered unsatisfactory that it was entirely a creature of the contract between the creditor and the borrower.  There was no general ability on the part of the borrower or any other party to review the actions of the receiver (who would generally be acting on behalf of ''the borrower'' under the security document) or seek the supervision of the court.  As a part of the general review of UK insolvency law that took place in the 1980s, beginning with the [[Cork Report]] and culminating in the [[Insolvency Act 1986]], two major reforms were put forward.  First, the receiver and manager was put on a statutory footing: a receiver appointed to all or substantially all of a company's property was now to be known as an ''administrative receiver'' and subject to some (albeit not too extensive) statutory responsibilities.  Second, the "[[administration order]]" procedure was introduced, designed as an equivalent process to administrative receivership but one available to any company by order of the court, and not dependent upon a particular security arrangement.
+
+The expectation of Parliament was that companies and creditors would utilise administration in preference to administrative receivership.  Crucially, however, Parliament had conceded in the Insolvency Act that administrative receivership should have priority - that is, a secured creditor with a floating charge could defeat any attempt to commence an administration by appointing an administrative receiver.  As a result administration was not as popular as had been envisaged, and secured creditors habitually appointed administrative receivers to enforce security rights.  More drastic action was taken in the [[Enterprise Act 2002]] - Parliament made changes to the administration regime in an effort to make it more attractive, but also barred the right to appoint administrative receivers in any security created after 15 September 2003 (subject to certain specific exceptions).  Any attempt to do so takes effect as a power to appoint an administrator.
+
+==Present significance==
+
+Administrative receivership still forms part of modern insolvency practice. Companies that get into financial difficulty today may well have security packages that were created before 15 September 2003, a situation likely to remain common for some years.  Enforcement is also a significant aspect of the situations where administrative receivership is still permitted - for example, the ability to take control of the entirety of the assets is important in structuring insolvency-remote special purpose companies that issue securities or operate infrastructure projects.
+
+In common law jurisdictions outside of the United Kingdom, administrative receivership remains alive and well.  A number of [[offshore jurisdiction]]s market transaction structures to banks on the basis that they still retain the freedom to appoint administrative receivers in those jurisdictions.
+
+==Powers and duties==
+
+Because of their unique role, insolvency legislation usually confers wide powers upon administrative receivers under applicable insolvency law<ref>For example, see Schedule 1 to the Insolvency Act 1986 in the United Kingdom</ref> (which will usually be concurrent with powers granted under the security document).
+
+However, the corollary is that administrative receivers are usually required under applicable legislation to file reports in relation to the period of their receivership.<ref>For example, see section 48 of the Insolvency Act 1986, requiring reports to be filed at Companies House within 3 months of the end of the receivership</ref>
+
+==See also==
+* [[Official Receiver]]
+* [[Liquidator (law)]]
+* [[Floating charge]]
+
+==Footnotes==
+<references/>
+
+[[Category:Bankruptcy]]
+[[Category:United Kingdom law]]
+[[Category:Legal occupations]]
+[[Category:Finance]]

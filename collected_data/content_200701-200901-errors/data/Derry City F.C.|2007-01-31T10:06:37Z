@@ -1,0 +1,1681 @@
+{{Football club infobox |
+  clubname = Derry City F.C.|
+  image    = [[Image:Derrycityfc.gif|Derry City FC crest]]|
+  fullname = Derry City Football Club |
+  nickname = ''The Candystripes'' |
+  founded  = 1928 |
+  ground   = [[Brandywell Stadium]],<br> [[Derry]], [[Northern Ireland]] |
+  capacity = 7,700 (2,900 seats)| 
+  chairman = {{flagicon|Northern Ireland}} [[Hugh McDaid]] |
+  manager  = {{flagicon|Ireland}} [[Pat Fenlon]] |
+  league   = [[FAI National League]] |
+  season   = [[Football League of Ireland 2006 season|2006]]|
+  position = 2nd |
+  pattern_la1=_red stripes|pattern_b1=_red stripes|pattern_ra1=_red stripes|
+  leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=000000|socks1=FFFFFF|
+  pattern_la2=|pattern_b2=|pattern_ra2=|
+  leftarm2=000000|body2=000000|rightarm2=000000|shorts2=CCCCCC|socks2=000000|
+}}
+'''Derry City Football Club''' are an Irish [[football (soccer)|football]] club based in the city of [[Derry]]. The club plays in the 12-teamed [[FAI Premiership]] (the top tier) of the [[FAI National League]]. It is the only club in the league from [[Northern Ireland]] as opposed to the [[Republic of Ireland]]. The club, founded in 1928, plays its home matches at the [[Brandywell Stadium]]. Derry's colours are red and white in a vertically striped pattern and the club has been given the nickname, the ''Candystripes'', as a result. Others may refer to the club as the ''Red and White Army'', just ''Derry'', or simply, ''City''.
+
+==History==
+
+{|border="0" align="right" margin="1" cellpadding="5" style="margin-left:10px"
+|<timeline>
+
+ImageSize  = width:300 height:2000
+PlotArea   = left:50 right:0 bottom:10 top:10
+AlignBars  = justify
+
+DateFormat = yyyy
+Period     = from:1928 till:2007
+TimeAxis   = orientation:vertical
+ScaleMajor = unit:year increment:5 start:1928
+
+Define $dx = 25
+Define $dy = -5
+
+PlotData=
+  bar:Leaders width:25 align:left fontsize:S
+
+  from:1929 till:1932 shift:($dx,$dy)   color:red text:[[Joe McCleery]]
+  from:1932  till:1935 shift:($dx,$dy) color:black   text:[[Billy Gillespie]]
+  from:1947 till:1973 shift:($dx,$dy)   color:red text:[[Willie Ross]]
+  from:1985  till:1985 shift:($dx,$dy) color:black   text:[[Jim Crossan]]
+  from:1985 till:1987 shift:($dx,$dy)   color:red text:[[Noel King]]
+  from:1987  till:1991 shift:($dx,$dy) color:black  text:[[Jim McLaughlin (football manager)|Jim McLaughlin]]
+  from:1991  till:1993 shift:($dx,$dy)   color:red  text:[[Roy Coyle]] 
+  from:1993  till:1994 shift:($dx,$dy) color:black   text:[[Tony O'Doherty]]
+  from:1994  till:1998 shift:($dx,$dy) color:red text:[[Felix Healy]]
+  from:1998  till:2003 shift:($dx,$dy) color:black  text:[[Kevin Mahon]]
+  from:2003  till:2003  shift:($dx,$dy)  color:red  text:[[Dermot Keely]]
+  from:2003  till:2004  shift:($dx,$dy) color:black  text:[[Gavin Dykes]]
+  from:2004  till:2004  shift:($dx,$dy)  color:red  text:[[Peter Hutton]]
+  from:2004  till:2007  shift:($dx,$dy) color:black  text:[[Stephen Kenny (football manager)|Stephen Kenny]]
+  from:2007  till:end  shift:($dx,$dy)  color:red  text:[[Pat Fenlon]]
+
+PlotData=
+  bar:Leaders color:red width:35 align:left fontsize:S
+
+  at:1928 shift:(-120,5) text:Club founded
+  at:1929 shift:(-120,5) text:Irish League entry
+  at:1932 shift:(-120,12) text:North-West Senior~Cup win
+  at:1933 shift:(-120,12) text:North-West Senior~Cup win
+  at:1934 shift:(-120,12) text:North-West Senior~Cup win
+  at:1935 shift:(-120,4) text:City Cup win
+  at:1937 shift:(-120,4) text:[[City Cup (Northern Ireland)|City Cup]] win
+  at:1949 shift:(-120,5) text:IFA Cup win
+  at:1954 shift:(-120,5) text:IFA Cup win
+  at:1964 shift:(-120,5) text:[[Irish Cup|IFA Cup]] and~[[Gold Cup (Northern Ireland)|Gold Cup]] win
+  at:1965 shift:(-120,5) text:Irish League~win
+  at:1966 shift:(-120,4) text:Top Four win
+  at:1972 shift:(-120,18) text:[[Irish League]]~departure
+  at:1979 shift:(-48,3) text:The 'wilderness years'
+  at:1985 shift:(-120,9) text:[[League of Ireland]]~entry
+  at:1985 shift:(-120,$dy) mark:(line,black)  text:
+  at:1986 shift:(-120,6) text:[[League of Ireland First Division Shield|LoI First Division]]~[[League of Ireland First Division Shield|Shield]] win
+  at:1987 shift:(-120,5) text:[[League of Ireland|LoI First Division]]~win
+  at:1989 shift:(-120,5) text:[[The Treble|Domestic treble]] win
+  at:1991 shift:(-120,4) text:FAI League Cup win
+  at:1992 shift:(-120,4) text:FAI League Cup win
+  at:1994 shift:(-120,4) text:FAI League Cup win
+  at:1995 shift:(-120,5) text:FAI Cup win
+  at:1997 shift:(-120,5) text:[[League of Ireland|LoI Premier Division]]~win
+  at:2000 shift:(-120,4) text:FAI League Cup win
+  at:2002 shift:(-120,12) text:[[FAI Cup]] winners 
+  at:2003 shift:(-120,$dy) mark:(line,red)  text:
+  at:2004 shift:(-120,$dy) mark:(line,red)  text:
+  at:2005 shift:(-120,9) text:[[Football League of Ireland Cup|FAI League Cup]] win
+  at:2006 shift:(-120,12) text:[[The Double|Domestic cup]]~[[The Double|double]] win
+</timeline>
+|}
+
+===The Irish League===
+====Foundation and the attaining of senior status====
+Eleven years after their creation, [[Derry Celtic]] were voted out of senior soccer in Ireland in 1913. This left the city of Derry without a senior team - a situation which was to last for some time. It was a period lengthened due to the [[First World War]], the [[Easter Rising]], and the [[partition of Ireland]]. The division of the country lead to the creation of two football leagues when the clubs south of the border broke away from the [[Irish Football Association]] (IFA) and their [[Irish League]] to form the [[Football Association of Ireland|Football Association of the Irish Free State]] (FAIFS) and Free State League. The people of Derry were irate that a city the size of Derry did not have a senior team, especially when near-neighbours [[Coleraine]], with only a quarter the population of Derry, had been elected to the Irish League in the mid-twenties. 
+
+In 1928, a group of football fans got together to rectify this situation and decided that the name of Derry Celtic would not satisfy their cross-community, non-sectarian requirements so they settled on the name Derry City. At the time, the [[Derry-Londonderry name dispute|dispute]] over the city's official name had not yet become so politicised. On [[09 May]], 1928, Derry City affiliated to the North-West Football Association and, in a link with the past, Norman McClure son of a Derry Celtic director, was appointed the club's secretary. On [[25 May]], 1928, William Arthur led a delegation to a meeting of the Irish Senior Leagues Committee (ISLC) to attempt to secure Derry’s senior status. 
+
+Along with [[Crusaders F.C.]] and [[Brantwood F.C.]], Derry City’s application was rejected. The [[Belfast]] clubs were not considered to be of senior quality, while Derry’s application had been received two days after the deadline. The directors returned to Derry disappointed but determined. The next year saw them preparing for the inevitable move from amateur to senior status – their confidence buoyed by the fact that after they failed to apply by the requisite deadline, a motion at the ISLC to waive the deadline was only defeated by 17 votes to 15. The president of the IFA, Captain James Wilton, a Derry-man, announced on [[30 May]], 1929 that he felt confident that Derry City would be admitted to the Irish League, which since 1922, had covered only [[Northern Ireland]], the following night. 
+
+During the final of the local McAlinden Cup being played between Derry Celtic and Richmond in the [[Brandywell]] on Friday [[31 May]] 1929, the announcement that Derry City had achieved senior status was greeted with a chorus of cheers and applause. Queen’s Island were voted out at the expense of Derry. [[Joe McCleery]], a native of the city, was enticed from his managerial post in [[Dundalk]] with [[Dundalk F.C.]] to become Derry’s first manager and he quickly signed [[Fred Mason]] from his former club. The big [[Birmingham]]-born player settled well in the team and the city, and eventually established Mason’s bar in Magazine Street after his playing career. Plans to purchase a pitch ran aground due to the tight timescales and so the [[Derry City Council|Londonderry Corporation]] was approached for the use of the [[Brandywell Stadium]] which had been used for football up until the end of the 19th century. This began an association between the club and the ground which has survived until the present day. The club are still operating under the constraints of [[The Honourable The Irish Society|the Honourable the Irish Society]] charter limitations which declare that the Brandywell must be available for the recreation of the community. In effect, the club do not have private ownership over the ground and, thus, cannot develop it by their own accord with that discretion left to the Derry City Council (formerly the Londonderry Corporation).
+
+====The early years====
+On [[22 August]], 1929 Derry City ran on to the Brandywell turf for the first time in claret and blue shirts with white shorts, and McCleery’s full-time professionals lead [[Glentoran F.C.]] 1-0 at half-time with a goal from [[Peter Burke]], a recent recruit from the [[Irish Army|Free State Army]]. The attendance of 7,500 saw a Derry team captained by [[Con Hilley]] lose that lead in the second-half and leave the pitch without any points after Glentoran’s second-half brace. Their trip to [[Portadown FC|Portadown]] resulted in Derry’s first hat-trick in senior football through [[Sammy Curran]], but they still managed to lose 6-5 in an enthralling game. Their first point in senior football came soon after in a 1-1 draw in the Brandywell against [[Ballymena United F.C.|Ballymena F.C]]; and a crowd of 12,000 saw Derry get their first cup-game win when they beat the dominant [[Linfield F.C.]] side 3-1 in the [[Irish League Gold Cup|Gold Cup]]. On [[07 September]] the Brandywell club gained their first league victory with a 3-2 win over [[Newry City F.C.|Newry Town]] at the home of the [[County Down]] club. It wasn’t until [[05 October]] 1929 that the Brandywell faithful witnessed Derry’s first league victory on home turf when Derry beat [[Cliftonville F.C.]] 4-3. The ended the season in an admirable fifth place, and came third in the City Cup.
+
+However, it was not an easy start for the [[River Foyle|Foylesiders]] and it certainly was not going to be an easy ride at any stage in the Irish League. The following year, McCleery signed Derry’s first legend. [[Jimmy Kelly (footballer)|Jimmy Kelly]], born in [[Ballybofey]], schooled in the [[Derry and District League|Derry and District FA]], and polished in the [[Anfield]] training grounds returned to Derry and played his first game on [[26 October]], 1930 against Linfield at [[Windsor Park]]. It took him four matches to get on the scoresheet. That goal against [[Glenavon F.C.]] was the first of 363 for Derry City in a career spanning almost 21 years. During that time he was capped by the IFA, the FAIFS, the Irish League, and the [[League of Ireland]]. His arrival though did not inspire Derry who ended the league campaign in seventh place.
+
+The next season saw a brief upturn in their fortunes, which could very well have been directly related to Derry’s signing of the club’s second legend. [[E.D.R. Shearer]] pulled on the Derry shirt for the first time at the [[Coleraine]] [[The Showgrounds (Coleraine)|Showgrounds]] in a career spanning 8 seasons. With three games of the 1931-32 season remaining, Derry were top of the table, level with Glentoran, but managed to lose all three games and ended up in fourth place. It was gutting to end the season in such a way, especially as they had scored 107 goals and so rumours of McCleery’s demise began to circulate. The directors also decided to introduce Derry’s second strip at the end of the season – white shirts and black shorts.
+
+In June 1932, McCleery was sacked despite the fact he had just had his most successful season at the helm. A [[Donegal]]-man, [[Billy Gillespie]], was given the nod as his replacement after 20 years playing at [[Sheffield United]]. Gillespie did not have a great start and could only help the club to another fourth-place finish in 1933. This was the second year in which ground purchase was mentioned. The board decided not to buy Bond’s Field in the Waterside as it was thought to be too far away from the fanbase which had built up on the Cityside, especially in the Brandywell area. They had first option on Derry Celtic’s old ground, [[Celtic Park (Derry)|Celtic Park]], but hesitated on a final decision and the [[Gaelic Athletic Association]] bought it ten years later. They also decided not to buy Meenan Park for £1,500. In 1934 the club came ninth and so the dismissal of McCleery was looking worse by the season.
+
+Shortly before the 1934-35 season, the directors decided on another change of strip. They decided on the red and white striped shirts and black shorts of [[Sheffield United]] as a tribute to Billy Gillespie who, despite his less-than-impressive managerial performance, was still an extremely popular figure throughout [[Ireland]] and especially the north-western region, due to his international performances for the [[Ireland national football team (IFA)|Irish football team]]. This was to be the jersey that was to become synonymous with Derry City for the next seventy years. The only break being a period of wearing gold and black in the late 1950s. It was in the "candystriped" top that Derry lifted their first major trophy. Having won the North-West Senior Cup in 1931-32, 1932-33, and 1933-34 they went a step further and in front of 9,000 at Brandywell - [[Hugh Carlyle]] lifted the old Dunville trophy for Derry City as winners of the [[City Cup]] by a clear 5 points over 12 games. Derry were to repeat this feat in 1937 but it was not until 12 years after that that they were to lift another major trophy, having also lost an [[Irish Cup]] final replay to Linfield in 1936.
+
+By 1947-48, the directors were seriously considering Derry’s future as the club had entered a demise in the previous decade and were no longer feared. However, luckily, then-manager [[Willie Ross]] took advantage of having found some money to spend after the sale of players [[Eddie Crossan]] and [[John Feeney]] resulted in an annual profit of £2,000 – a figure most Irish clubs would have jumped at in the days of red bank balances.
+
+In 1949 the club won the [[Irish Cup]] for the first time.<ref>"[http://derrycityfc.net/history/legends/ifa1949.php The Great Cup Breakthrough]", ''CityWeb'', 2007.</ref>  Derry were reduced to 10 men in the final at [[Windsor Park]] on [[16 April]] 1949 when Jimmy Kelly was stretchered off. After the opponents, Glentoran, went in front, [[Hugh Colvan]] and [[Matt Doherty (footballer)|Matt Doherty]] put Derry ahead. The team doctor cured Kelly’s concussion and the 10,000 Derry supporters roared him back on to the field of play 15 minutes after he’d been carried off. [[Barney Cannon|Barney Cannon’s]] goal seven minutes from time meant that the 27,000 in attendance saw the Irish Cup going to Derry for the first time.
+
+====The fair fifties and the swinging sixties====
+A few years of failure resulted in apathy within the city and by the time another legend-figure in the form of a past [[Scotland national football team|Scottish-international]] was signed in January 1954, memories of the 1949 silverware had gone. Even in 1954 the club came third from bottom, although the signing of [[Jimmy Delaney]], formerly of {{fc|Celtic}} and [[Manchester United]], did provide a shining light. Derry’s club doctor, Desmond Sidebottom had heard he wanted to settle in [[Ireland]] so Derry pounced and secured one of the greatest players ever to play on Irish soil. That year Derry met Glentoran, who were favourites just as they’d been in 1949, once again in the Irish Cup final. The first final ended in a 2-2 draw; the replay was a scoreless draw; and the second replay in front of a crowd of 28,000 saw Derry win 1-0 with a [[Con O’Neill]] strike from a Delaney assist. At the final whistle the players rushed to celebrate with Delaney but, the Scot, ran the length of the field to celebrate with and thank [[Charlie Heffron]] in the Derry goal who had thwarted the "Glens" time and time again. Together, the three finals saw 93,000 attend – a figure unimaginable in today’s domestic Irish soccer.
+
+In the late 50s Derry lost legends [[Jobby Crossan]] to Coleraine after he had turned down [[Nottingham Forest]]; [[Jim McLaughlin (football manager)|Jim McLaughlin]] to [[Birmingham City F.C.]]; and [[Matt Doherty Jr.]] to Glentoran; but brought in [[Fay Coyle]] from Coleraine. In 1964 Derry City lifted the [[Gold Cup (Northern Ireland)|Gold Cup]] and the Irish Cup once again, after having beaten Glentoran in the final for a third time. Another club legend was signed on [[30 June]], 1934 - [[Belfast]]-man, [[Jimmy McGeough]], came to Derry from {{fc|Stockport County}}. Matt Doherty Jr. returned and yet another legend, [[Willie Curran]], made his debut that year. Derry set off on an unbeaten run of 47 games that year that was to span two seasons.
+
+[[Steaua Bucureşti]] beat Derry 5-1 on aggregate in the European [[Cup Winners Cup]] the following year but the club made up for it by becoming the Irish League champions for the only time in their history. In April 1965 a 5-1 victory over {{fc|Ards}} in the Brandywell saw 34-goal captain, Fay Coyle, lift the league trophy in front of a packed Brandywell. Within weeks, [[Dougie Wood]] was named ‘Northern Ireland Player of the Year’ and Derry performed admirably in a 3-1 friendly defeat to a Spanish [[World Cup 1966| 1966 World Cup]] preparation select in [[Madrid|Madrid’s]] [[Vicente Calderón Stadium]]. The Spanish team had invited Derry to Madrid as they were soon to face [[Republic of Ireland national football team|Ireland]] in the qualifying rounds for the competition scheduled to take place on [[English]] soil, so they were anxious to test themselves against a team that was likely to possess a similar style of play.
+
+The following season, Derry became the first Irish League team to win a European tie over two legs by beating [[Lyn Oslo|FK Lyn]] when, after losing 5-3 in the [[Oslo]], they won 8-6 on aggregate.<ref>"[http://derrycityfc.net/history/legends/fklyn65.php Derry City vs FK Lyn]", ''CityWeb'', 2007.</ref> The second round was not to come to the Brandywell, however, as the IFA prevented the use of the ground, using the excuse that the pitch was not up to standard, even though a game had been played there during the previous round. With [[sectarianism]] taking a foothold in Northern Ireland in the run-up to the advent of the [[The Troubles|Troubles]], Derry suspected that such motives may have been at play, due to the fact that Derry played in a mainly [[Catholic]] area, while the IFA represented a cultural focal point of [[Protestant]] [[Northern Ireland]]. Seeing a team from a mainly-[[Irish nationalist|nationalist]] city being the first Irish League club to progress was a bitter pill to swallow for [[Harry Cavan]], the president of the IFA. Derry stated that they would stand their ground in the face of this and refuse to travel elsewhere to play the tie after requesting advice on how to make the ground suitable but receiving no answer. The ban was simply re-inforced. The IFA wanted their representatives to play the tie in [[Belfast]], although, in what seemed like a case of [[double standards]], they deemed the [[The Showgrounds (Coleraine)|Showgrounds]] in mainly-[[Protestant]] [[Coleraine]] suitable also, despite the fact that the grounds were in much the same state as the Brandywell. After Derry had told the IFA that they would not play or represent the Irish League in Europe without a lifting of the ban, [[R.S.C. Anderlecht]], the upcoming opponents, who had been prepared to play at the Brandywell, pleaded with Derry to play the tie and so Derry travelled to [[Belgium]] and were hammered 9-0. A second leg was never played, with the fixture being announced as a walk-over due to the withdrawal of Derry. Playing the second leg would have been, more or less, a futile effort while the IFA were not prepared to let the game go ahead in Derry anyway after having recommended to the [[UEFA|European Football Union]] that the Brandywell Stadium be banned from hosting the game. Relations between Derry and the IFA never improved.
+
+====Security concerns====
+Up until the late 1960s most teams' journey to the [[Brandywell]] would have been of little consequence. However, 1969 was the year in which the [[Northern Ireland Civil Rights Association|Civil Rights]] campaign against the province's government disintegrated into communal violence, ushering in 30 years of the [[The Troubles|Troubles]]. As the situation in [[Northern Ireland]] deteriorated and the region slowly descended into near civil war in the late 1960s, football matches between certain [[Irish nationalist|nationalist]] and [[Unionism (Ireland)|unionist]] teams began to echo the wider trouble of the time. Football rivalries were given an extra dimension by the very nature of Northern Irish society. City's ground, the [[Brandywell Stadium]], was located in a staunchly [[Irish republican|republican]] area of [[Irish nationalist|nationalist]] [[Derry]] and the club was associated with the [[Roman Catholic Church|Catholic]]/nationalist community in the city.<ref>"[http://www.aafla.org/SportsLibrary/ISS/ISS2201/ISS2201d.pdf Catholics and Sport in Northern Ireland: Exclusiveness or Inclusiveness?]", ''Mike Cronin, De Montfort University, Leicester, England'', 2000.</ref>
+
+[[Image:No1527r.jpg|thumb|right|300px|A [[Northern Irish murals|mural]] in [[Shantallow]], [[Derry]] depicting Derry City's association with the [[Irish nationalist|nationalist]] community in the city. Derry's crest can be seen in the bottom left, next to a large [[Celtic FC|Celtic]] crest, along with an [[Irish tricolour]], a [[Derry GAA]] flag and a [[shamrock]] - all symbols revered by various elements of the [[Irish nationalist|nationalist]] community. Interestingly, the mural, with its domineering Celtic crest, also demonstrates the bizarre and extremely popular trend on the whole island of Ireland which sees the majority of football fans in Ireland primarily support teams from [[Scottish Premier League|Scotland]], or even [[FA Premier League|England]], ahead of teams from their own national league. This has had a crippling effect on the development of the [[League of Ireland]].]]
+
+Even though the club, to this day, still carries the reputation of being a [[Irish nationalist|nationalist]]-supported club with support coming in the main from [[Derry]]'s [[Catholic]] nationalist community, the club itself, at odds with certain other clubs in Northern Ireland in the past, has never employed a policy of squad membership or selection based on the religion of a player and has had both Protestants and Catholics sport the club's colours throughout its history.<ref name=Tabboo>"[http://soccernet.espn.go.com/feature?id=325744&cc=5739 Football's last great taboo?]", ''Steve Bradley, ESPN'', [[22 February]] 2005.</ref> 
+
+During the late 1960s and early 1970s the locality surrounding the Brandywell saw some of the worst violence of the Troubles. The Brandywell first fell prey to this on [[25 January]], 1969, when a match versus [[Linfield F.C.]] was marred by crowd trouble. Fans of the [[Belfast]] team had to be evacuated from the stadium by police at half-time after ugly scenes within the ground. The months that followed this event saw the general political situation decline into full-scale civil disorder at locations across Northern Ireland, including areas in the vicinity of the Brandywell. The stadium was located in the centre of one of the most unstable zones - a battle-ground between the forces of radical nationalism, most notably the [[Northern Ireland Civil Rights Association]] and the fledgling [[Provisional Irish Republican Army|Provisional IRA]], and the massed ranks of the [[Stormont Parliament]] security machine, including the [[B Specials]], the [[RUC]] and eventually the [[British Army]]. The stadium was a stone's throw away away from where the [[Battle of the Bogside]] occurred in 1969 and where the events of [[Bloody Sunday (1972)|Bloody Sunday]] later unfolded three years later in 1972. Because of the extreme disturbances, numerous clubs were reluctant to play matches there and some of Derry's home games were moved. Linfield declared that they would no longer travel to the city for matches on security grounds, and for the next two seasons Derry were instead forced to play 'home' games against them at Linfield's [[Windsor Park]] stadium in a staunchly Protestant area of [[Belfast]]. The game on 25 January was to be the last game played at the Brandywell between Linfield and Derry until 2005.
+
+Despite the social and political turmoil of the day, on the field Derry still managed to perform as usual. [[Danny Hale (footballre)|Danny Hale]] finished the 1968-69 season as the Irish League's top scorer with a tally of 21 goals while the club also managed to make their way to the [[Irish Cup]] final in 1971, although they were beaten 3-0 by [[Lisburn Distillery F.C.|Distillery]] with [[Martin O'Neill]] scoring twice for the winners. However, events off the field took an even greater turn for the worse for Derry City in September 1971. With large chunks of the city a 'no go' area for the state security forces and a [[Provisional Irish Republican Army]] bombing campaign focused on the city centre, a gang of youths unconnected to football hijacked the bus of a visiting team, [[Ballymena United F.C.|Ballymena United]], from outside the Brandywell before a league game and burnt it. As a result, most other [[Irish League]] teams joined Linfield in refusing to play fixtures at the Brandywell and the [[Royal Ulster Constabulary]] further consolidated this refusal by ruling that it was unsafe for matches to take place there. Through the early 1970s the Irish League and the IFA had been chipping away at Derry and were happy to use the excuse of unrest in Northern Ireland to force Derry to play their home matches elsewhere. There was of course unrest in [[Belfast]] too but the use of [[Windsor Park]] and the Oval, for example, was not brought into question. 
+
+As a result, Derry City were forced to travel to the majority [[Unionism (Ireland)|unionist]] town of [[Coleraine]], which was over 30 miles away from home, in order to play their 'home' games at the [[The Showgrounds (Coleraine)|Showgrounds]]. This situation lasted until October 1972 when, faced with dwindling crowds (most Derry fans were unwilling to travel to Coleraine due to the political situation and the 40-minute journey) and dire finances, the club formally requested permission to return to the Brandywell. [[Portadown F.C.]] also entered a proposal to go back to playing at the Brandywell. Despite an assessment by the security forces which concluded that the Brandywell was no more dangerous than any other ground in the league and the resulting lifting of the imposed ban, City's proposal fell by a single vote at the hands of their fellow [[Irish League]] teams who remained unwilling to travel there. Portadown, [[Bangor F.C.]], [[Cliftonville F.C.]], Ballymena United, and Derry City voted in favour of the motion while [[Crusaders F.C.]], Ards, Glenavon, Glentoran, Distillery, and Linfield all voted against. Coleraine abstained and so with a minority of one vote just like Derry Celtic in 1913, Derry City were left stranded. The 40-minute journey to ‘home’ games reduced the Derry crowd considerably so gate receipts dropped dangerously low and so Derry could no longer sustain themselves. The Irish League and the IFA eventually got what they had been orchestrating on Friday 13 October 1972 when Derry withdrew from senior football. The directors hoped that the door would open soon again to the Irish League but it would not return until they were permitted to play in the Brandywell again. Derry, devastated by the outcome, withdrew from senior football the following day. It was the last straw for the club, which decided that continuing in senior football without a ground was not sustainable, and resigned from the league, being effectively forced out.
+
+The club lived on as a junior team, plying their trade in the local Saturday Morning League to survive, whilst simultaneously seeking re-admission to the Irish League on a number of occasions over the following 13 years. Each time, the club nominated the Brandywell as its chosen home-ground. Each time, the Irish League refused to re-admit them, despite significant improvements in the overall security situation over the years. Suspecting that refusal was at least in part motivated by political and sectarian motives, and believing they would never gain re-admission to the Irish League, Derry decided to turn their attentions elsewhere.
+
+===Entry into the League of Ireland and since===
+====Admission, instant progress and ensuing success====
+Having formerly played in the [[Irish Football League]] which, since 1922, covers only [[Northern Ireland]] and with the club's almost annual applications to re-join that league being rejected season after season, Derry applied to join the rejuvinated [[Football League of Ireland]] (the [[Republic of Ireland|Republic of Ireland's]] football league at the time) in 1985 with the Brandywell Stadium as their home ground. People such as [[Terry Harkin]], [[Tony O'Doherty]], [[Eamon McLaughlin]] and [[Eddie Mahon]] helped in the bid to secure senior status once again for Derry City with an election to the League of Ireland's First Division in May 1985. However, the IFA still saw the chance to thwart Derry City once again. The FIFA vice-president (also the IFA's president), [[Harry Cavan]], who had been instrumental in banning the Brandywell from being used for European competition in 1964, claimed that [[FIFA]] rules did not permit Derry "crossing the border" to play in the league of another country. In [[Dublin]], people were undecided about admitting a club from a city with a recent history of political problems but [[Fran Fields]] fully backed Derry’s application and Glentoran chairman, [[John Crossen]], was another prominent supporter of Derry’s move as he felt that the time had come for the IFA to refrain from acting as they had done previously. Others within the Irish League were also in favour of Derry’s move as they no longer wanted to have to deal with the club's annual application for re-election to the Irish League. 
+
+The Irish League and the [[League of Ireland]] met in [[Dundalk]] in August 1984 and agreed to talk again. This meeting came shortly after Derry hosted [[Shamrock Rovers]] in the Brandywell friendly in front of 4,000 fans. Eventually the IFA relented but, knowing that other clubs would want to follow Derry south of the border, they said that they would give permission "only to Derry City football club" to apply to join the League of Ireland.
+
+After another successful series of friendlies against Irish teams, [[Dundalk FC]] and [[St. Patrick's Athletic]], Derry were informed that they would be accepted into the newly-formed First Division, on the provision that the Irish League did not object, and [[FIFA]] would sanction such a move. The IFA stated they would not stand in the way if FIFA gave the go-ahead. Neither FIFA nor their subordinate European organisation, [[UEFA]], objected and gave the Derry club special permission to play in the [[League of Ireland]].
+
+With no further hurdles standing in the way, Derry City joined the Republic's league, the Football League of Ireland, in the newly-created First Division in 1985 as a semi-professional outfit. However, if they thought that this would provide an escape from the marginalisation and sectarian politics in Northern Irish football, they would have to think again - Derry's supporters' buses often came under attack from sectarian gangs with stones and other missiles as they travelled through [[loyalist]] areas on route to away games in the Republic of Ireland. On occasion, buses still take a detour in order to avoid potential trouble-spots - especially on the days of high-profile games. Nevertheless, the city responded in their thousands. [[Jim Crossan]] had been appointed manager and he made [[Terry Kelly (footballer)|Terry Kelly]] his team-captain. Derry's first match in the League of Ireland was played at the [[Brandywell]] on [[08 September]], 1985 and saw Derry beat [[Home Farm]] of [[Dublin]] by a score of 3-1.<ref>"[http://derrycityfc.net/history/legends/homefarm85.php Derry City 3 - 1 Home Farm]", ''CityWeb'', 2007.</ref> The game itself was actually played as part of the [[Football League of Ireland Cup|League Cup]]. [[Barry McCreadie]] was Derry's first goal-scorer that day. The club's first League of Ireland hat-trick came when [[Kevin Mahon]] fired three past [[Finn Harps]] at [[Finn Park]] on [[15 December]], 1985. Jim Crossan did not remain in charge of the team for long, however, and his quick departure by the end of 1985 allowed new manager [[Noel King]] to bring worldly flair to the Brandywell in the form of the [[Brazil|Brazilian]], [[Nelson da Silva]], and [[South Africa|South African]], [[Owen Da Gama]]. A throwback to Derry’s Irish League days saw [[Declan McDowell]] solidify the defence while [[Kevin Mahon]] worked wonders on the wing. With another local favourite, [[Tony O'Doherty]], in midfield, the club went on to clinch the [[League of Ireland First Division Shield]] in their first season of football in the [[Republic of Ireland]] with a 6-1 aggregate victory over [[Longford Town FC]].<ref>"[http://derrycityfc.net/history/legends/shield86.php Historic Shield Victory for City]", ''CityWeb'', 2007.</ref> The following season, Derry left [[Shelbourne F.C.]] in their wake as they won the First Division and promotion to the Premier Division in 1987.<ref>"[http://derrycityfc.net/history/legends/first87.php First League Title in LOI]", ''CityWeb'', 2007.</ref> [[Alex Krstic]], with his 18 goals, ended the season as the First Division's top scorer. Derry have stayed in the top flight ever since. The 1987-88 season, Derry's first in the League of Ireland Premier Division, saw [[Jonathan Speak]] finish top of the scoring chart with 24 goals to his name.
+
+[[Image:Champs89.jpg|thumb|right|300px|Derry City's historic 1989 treble-winning team.]]
+
+Derry City have never been [[relegation|relegated]], either in Northern Ireland or the Republic. Derry's accession to the League of Ireland was greeted with great enthusiasm in the city and the club attracted huge crowds by local standards for several years. The recruitment of a number of high-profile, exotic players from abroad, such as [[Nelson da Silva]], [[Owen Da Gama]], [[Dennis Tueart]] and [[Luther Blissett]], also attracted large crowds to the games.<ref>"[http://observer.guardian.co.uk/osm/story/0,,468041,00.html My team - Derry City by Martin McGuinness]", ''The Guardian'', [[08 April]], 2001.</ref><ref>"[http://www.watfordfc.premiumtv.co.uk/page/PastPlayerDetail/0,,10400~630721,00.html Past Players - Luther Blissett]", ''Watford Football Club Online''.</ref> Buoyed by this support and motivated by hunger after an [[FAI Cup]] final defeat in 1988 to Dundalk, the most successful manager in the history of the League of Ireland, Derry-born [[Jim McLaughlin (football manager)|Jim McLaughlin]], helped the club to an historic [[the Treble|treble]] - the [[FAI League Cup|League Cup]], the [[Football League of Ireland|League Title]] and the [[FAI Cup]] - in the 1988-89 season. Subsequently, Derry qualified for European competition and past [[European Cup]] winners, [[Benfica]], came to play at the Brandywell in the following season's First Round of the European Cup. The game evoked great public interest and only helped publicise the club further.
+ 
+Since then, Derry have only won the League championship once in 1996-97, but have been runners-up on several occasions - in the 1994-95, 2005 and 2006 seasons. They also added three more FAI Cups to their trophy-tally in 1995, 2002 and 2006. In 1994 and 1997 they were runners-up in the FAI Cup. The [[FAI League Cup]] competition has also brought Derry much success - they won the trophy in 1991, 1992, 1994, 2000, 2005 and 2006, as well as in the 1989 treble-winning season. To add to this, Derry once memorably beat {{fc|Celtic}} by a score of 3-2 at [[Lansdowne Road]] during the Irish International Club Tournament, which took place in 1997, and made their [[Sky Sports]] television debut appearance after qualifying for the final which was to be broadcast live by the company.<ref>"[http://derrycityfc.net/history/legends/celtic97.php Derry City 3 - 2 Celtic ]",''The Irish Times'', [[16 July]], 1997.</ref>
+
+Due to the historical political situation in Northern Ireland, the fact that the Brandywell Stadium is situated in a largely [[Irish nationalist|nationalist]] area, and the long-term continuing existence of a degree of scepticism within that community towards a police service perceived as being a continuation of the [[Royal Ulster Constabulary]], Derry's home games remain unique in that they are not policed by a state security force (the [[Police Service of Northern Ireland|PSNI]]) - rather, Derry City employs its own voluntary and private stewards to overlook matches.<ref>"[http://www.niassembly.gov.uk/record/reports/000703.htm Football: Sectarianism]", ''Eugene McMenamin MLA, Northern Ireland Assembly Reports'', [[03 July]], 2000.</ref><ref>"[http://news.bbc.co.uk/go/rss/-/1/hi/northern_ireland/5370176.stm PSNI help with UEFA Cup security]", ''BBC Sport Online'', [[22 September]] 2006.</ref> Every other club in the [[League of Ireland]] has a ''[[Garda Síochána|Garda]]'' presence (the [[Republic of Ireland|Republic of Ireland's]] police force) at their stadiums. Derry had to receive special dispensation from [[UEFA]] back in 1985 as it was felt that the presence of the [[Royal Ulster Constabulary]] in areas like the Brandywell would be more likely to provoke trouble than help prevent it. This policy has proven effective, and for the last 20 years the Brandywell has peacefully entertained crowds of up to 10,000 without a single police officer present. However, the policy has also had the effect of further solidifying Derry's identity as a [[Irish nationalist|nationalist]] club and further alienated a number of its original or potential Protestant supporters. Nevertheless, the political situation in [[Northern Ireland]] is improving, largely due to the [[Northern Ireland peace process|peace process]] and the subsequent [[Good Friday Agreement]], and recent games against teams with [[Unionism (Ireland)|unionist]] fanbases - such as Linfield - have passed off without major incident within the ground,<ref name=Tabboo/> although minor trouble did flare outside the ground on one occasion after a friendly game (which was also somewhat of a security trial) in 2005 in preparation for Derry's likely competing in a near-future [[Setanta Cup]], where the chances of meeting Linfield in a competitive fixture would be very high, when a Linfield supporters' bus in the process of passing through the mainly-nationalist Foyle Road area was pelted with bricks and stones by youths on the road-side.<ref>"[http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4289691.stm Football fans attacked after game]", ''BBC Sport Online'', [[23 February]], 2005.</ref> With the incident, obviously sectarian in nature, occurring outside the ground and being instigated by individuals who were not actually present at the game, though, the [[PSNI]] accepted that it should have been their responsibility to ensure the safe passage of the fans.<ref>"[http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4290749.stm Police 'failed' to protect fans]", ''BBC Sport Online'', [[23 February]], 2005.</ref> After the match itself having passed off peacefully, Jim Roddy, who was chairman of the club at the time, commented:
+{{cquote|Football can bring people together and in these times of peace and a return to normality, we can show an example to the entire community.<ref name=Radio/>}}
+Both sets of fans had obliged board requests to refrain from bringing to or displaying at the game, overtly political or religious emblems. In the era of building bridges and increasing [[tolerance]], the Brandywell Stadium is usually left free of nationalist symbolism by fans during matches regardless, although [[Celtic F.C.|Celtic]] jersies can often be seen worn by some individuals in attendance. [[Irish flag|Tricolours]] are rarely, if ever, hung by official supporter groups unless the club is representing the [[League of Ireland]] abroad, for fear of alienating those members of the Protestant community who do actually attend games or to prevent the possibility of turning away potential supporters from that community, as well as in an effort to ensure that everyone is made to feel welcome in the Brandywell regardless of social, political, religious or cultural background. While the debate and political situation as regards the policing of nationalist areas in Northern Ireland is losing heat and becoming less hostile,<ref>"[http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6230971.stm Positive replies to Blair's views]", ''BBC News Online'', [[04 January]], 2007.</ref> it remains to be thought that the adequacy of Derry's own security personnel discards the need for state policing of games as far as the safety of match-goers is concerned.<ref>"[http://www.factbites.com/topics/PSNI-F.C. PSNI for the Brandywell?]", ''PSNI Factbites'', [[09 February]], 2004.</ref>
+
+====Financial difficulties and flirtation with relegation====
+Despite the club's successes, Derry City's path has not always been a smooth one. In September, 2000, the club was in a crippled position from a financial perspective and on the verge of bankruptcy due to an unpaid tax bill. The [[Inland Revenue|British Inland Revenue]] totalled the debt in the region of £150,000. The position had not been helped as the club was hit with misery on [[27 July]] earlier that same year when the then-chairman, Kevin Friel, was killed in a road accident near [[Raphoe]], [[Co. Donegal]].<ref>"[http://www.rte.ie/sport/2000/0727/soccer3.html eircom Park meeting adjourned]", ''RTÉ.ie'', [[27 July]], 2000.</ref> To help raise the required funds to keep the club afloat, local band, the [[Undertones]], played a benefit concert on [[29 September]], while [[Phil Coulter]], a singer from the city, hosted a golf classic on [[27 September]].<ref>"[http://www.rte.ie/sport/2000/0907/soccer11.html Derry City defeated Bohemians tonight in unusual circumstances]", ''Johnny Proby, RTÉ.ie'', [[7 September]], 2000.</ref> Significantly, Derry-born politician [[John Hume]], then a [[Member of the European Parliament]] for the local constituency, also helped by using his contacts in the [[European Parliament|parliament]] along with his powers of persuasion to convince four former [[European Cup]] winners to come to the Brandywell and play friendly matches to raise funds through gate receipts and save the club from extinction.<ref>"[http://www.derrycity.gov.uk/Press%20Releases/110803-barca.htm City welcomes arrival of Barcelona team]", ''Derry City Council Press Release'', [[11 August]], 2003.</ref> [[Celtic F.C.|Celtic]], [[Manchester United F.C.|Manchester United]],<ref>"[http://news.bbc.co.uk/sport2/low/bbc_pundits/2368247.stm The belief of Derry]", ''Lyle Jackson, BBC Sport Online'', [[28 October]], 2002.</ref> [[FC Barcelona]]<ref>"[http://news.bbc.co.uk/sport2/low/football/3140737.stm Busy Derry take on Barca]", ''BBC Sport Online'', [[12 August]], 2003.</ref> and [[Real Madrid]]<ref>"[http://news.bbc.co.uk/sport2/low/northern_ireland/1457149.stm The Real thing for Derry City]", ''BBC Sport Online'', [[25 July]], 2001.</ref> all visited [[Derry]] with star-studded teams between then and 2003 in order to help the club survive. The game against Barcelona is fondly remembered on the Brandywell terraces as the day that firm fan-favourite and club legend, [[Liam Coyle]] left the [[Catalonia|Catalan]] club's [[Carles Puyol]] "on his arse" as he utilised his trickery to beat the defender.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/3145787.stm Barcelona treat Derry crowd]", ''BBC Sport Online'', [[12 August]], 2003.</ref> The money brought through the turnstiles helped to keep the club in operation, but just about, as results on the field continued to deteriorate and Derry soon came dangerously close to relegation - something which would have been a financial nightmare for the club. 
+
+Although the club has never been relegated, in 2003 it came within a whisker of losing its long-established place in the Premier Division after finishing in 9th position and having to contest a two-legged relegation/promotion play-off with local [[Donegal]] rivals, [[Finn Harps]], who had finished 2nd in that season's First Division. However, Derry won the game 2-1 on aggregate after extra-time in the Brandywell and remained in the top-flight. The second leg of the fixture was the last game ever that veteran, Liam Coyle, played for the club as he announced his retirement soon afterward.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/3402383.stm Derry legend Coyle retires]", ''BBC Sport Online'', [[16 January]] 2004.</ref> The next season - 2004 - was not much of an improvement and Derry struggled with relegation once again, finally finishing in 7th position. This poor display led to the sacking of [[Gavin Dykes]], who was the manager at the time since [[29 September]], 2003 after having taken over from [[Dermot Keely]].<ref>"[http://www.rte.ie/sport/2003/0929/derry.html Derry City unveil Dykes as new boss]", ''Ciaran Walsh, RTÉ.ie'', [[29 September]], 2003.</ref> Morale was at an all-time low after a couple of dire seasons.
+
+====The introduction of full-time professional football and the reign of Stephen Kenny====
+Fortunes began to improve for the club when team-captain, [[Peter Hutton]], took the role of player-manager for a temporary period until a new permanent manager was found. The club became the first club in Ireland to be awarded a premier UEFA licence in February, 2004.<ref>"[http://www.rte.ie/sport/2004/0228/uefalicences.html First Premier licence is awarded]", ''Mark O'Neill-Cummins, RTÉ.ie'', [[28 February]], 2004.</ref> The subsequent appointment of [[Stephen Kenny]] as manager later that year and the introduction of full-time football by the club helped these fortunes expand and the club soon began to regain past form. In 2005, Kenny's first full season in charge, they finished in second position in the league. The league was lost on the last day in a game against [[Cork City F.C.|Cork City]] at [[Turners Cross (stadium)|Turner's Cross]], which had turned out to be the title-decider. Derry went into the game in the top spot and needing anything other than a defeat to secure the title but ended up losing the game, which meant that Cork by-passed them into first place.<ref>"[http://www.eleven-a-side.com/premier/irish_soccer_detail.asp?newsid=20030 Cork claim title with Cross win]", ''Eleven-a-side.com'', [[18 November]], 2005.</ref> Nevertheless, Derry's team performances saw [[Mark Farren]] and [[Patrick McCourt]] rewarded as they scooped the [[Professional Footballers Association of Ireland|Professional Footballers Association of Ireland's]] 'Premier Division Player of the Year' and 'Young Player of the Year' awards respectively,<ref>"[http://www.rte.ie/sport/2005/1128/derry.html Derry duo take Player of the Year honours]", ''RTÉ.ie'', [[28 November]], 2005.</ref> while Derry's finish in second place allowed them to enter the preliminary rounds of the 2006-07 [[UEFA Cup]]. The staggering progress of the club on this stage in the following season proved just how far Derry City had come. Derry City's FAI League Cup victory in 2005 also saw the club compete in the second ever cross-border [[Setanta Cup]] in 2006. The creation of this tournament in 2005 was greatly aided by the lessening of sectarian tensions on the island of [[Ireland]] as a whole due to the [[Northern Ireland peace process]] and for the first time since their withdrawal from the Irish League in the early 1970s, Derry City hosted competitive matches against Linfield and Glentoran - teams with largely [[unionist]] fanbases. 
+
+Despite the encouraging progress, on [[10 November]], [[2006]] manager [[Stephen Kenny]] announced he would be leaving the club to join Scottish side [[Dunfermline Athletic F.C.]] at the end of the 2006 season in order to further his career. His success at Derry had raised eye-brows across the water, and especially in [[Scotland]], after the club's 5-1 demolition of [[Gretna F.C.|Gretna]] on Scottish soil in the Second Qualifying Round of the UEFA Cup. Early speculation linked [[Joe Kinnear]] to the soon-to-be-vacant managerial post at Derry City.<ref>"[http://www.rte.ie/sport/2006/1110/kennys.html Kenny to leave Derry City at end of season]", ''RTÉ.ie'', [[10 November]] 2006. Retrieved [[4 December]] 2006.</ref> However, by the end of November 2006 [[Pat Fenlon]] emerged as the preferred target of the Derry board.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6190838.stm Fenlon keeps Candystripes waiting]", ''BBC Sport Online'', 28 November 2006. Retrieved [[4 December]].</ref> Kenny took up his position in Dunfermline on 18 November, which was the day after Derry City's last league game against Cork City at the Brandywell - a game which Derry won 1-0. However, Kenny's last game at the helm for Derry was when he returned from Dunfermline in an 'advisory role' for the [[Lansdowne Road]] encounter with [[St. Patrick's Athletic]] in the FAI Cup final. The game was a positive send-off for Kenny after Derry came back from being a goal down on three separate occasions and clinched the game with a 4-3 scoreline after extra time. With the club having won the FAI League Cup earlier in the season (for the second year running), in as equally dramatic fashion (the game went to penalties after Derry had been reduced to 9 men),<ref>"[http://www.irishfootballonline.com/news_story.php?newsid=5402 Jennings the hero as Derry retain League Cup]", ''Irish Football Online'', [[18 September]], 2006.</ref> the claiming of the FAI Cup amounted to a cup double for the team. The cup-win could easily have concluded an historic second treble-winning season. However, Derry just missed out on this after having come second in the eircom League to [[Shelbourne FC]] on goal-difference prior to the FAI Cup final. In total, 32 players represented the club under Kenny. His win percentage was 58 per cent while his teams managed to keep 57 clean-sheets out of 112 games.
+
+After the [[FAI Cup]] final and a civic reception organised by the [[Helen Quigley|Mayor of Derry]] to honour the successful 2007 season,<ref>"[http://www.fai.ie/index.php?option=com_content&task=view&id=1522&Itemid=9 Derry City's triumphant home-coming marks the end of season ]", ''FAI.ie'', [[05 December]], 2006.</ref> it was announced that coach, [[Declan Devine]], would also be on his way to [[Dunfermline Athletic]] to take up a coaching post under Kenny, while Kenny's assistant manager, [[Paul Hegarty (Irish footballer)|Paul Hegarty]], was associated with the vacant managerial position left by [[Anthony Gorman]] at [[Finn Harps]]. Similarly, first-choice goalkeeper, [[David Forde]], decided to move on from the Brandywell and signed with [[Cardiff City F.C.|Cardiff City]] on a free transfer as he was out of contract.<ref>"[http://icwales.icnetwork.co.uk/southwalesecho/sport/tm_headline=forde-is-focused-on-club-and-country&method=full&objectid=18274038&siteid=50082-name_page.html Forde is focused on club and country]", ''South Wales Echo'', [[16 December]], 2006.</ref>
+
+====The Pat Fenlon era====
+
+After a period of much speculation and rumour, [[Pat Fenlon]] was finally appointed as manager of Derry City on [[08 December]], [[2006]] for a three-year long contract to fill the void left by former boss, [[Stephen Kenny]].<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6162985.stm Fenlon is new Candystripes boss]", ''BBC Sport Online'', [[8 December]] 2006. Retrieved [[8 December]] 2006.</ref> He is Derry's twelfth manager since the club joined the [[League of Ireland]]. During a press conference on [[12 December]] Fenlon confirmed that he had already undertaken the challenge of finding a replacement for departed goal-keeper, [[David Forde]], as well as convincing the club's out-of-contract squad-members to re-sign for the 2007 season. He outlined these as his priorities before he would begin searching for new signings from other clubs.<ref>"[http://fai.ie/index.php?option=com_content&task=view&id=1547 Pat Fenlon has already started work at Derry City]", ''FAI.ie'', [[12 December]] 2006.</ref>
+
+On [[12 December]], [[2006]], it was also announced that Derry City had not only been accepted into the new-look [[FAI Premiership]] for the 2007 season, but had scored the highest number of points between those teams accepted - 830 - for on-field and off-field criteria determined by the [[FAI]]'s Independent Assessment Group.
+
+Prior to this, Derry City were entered into the draw for the 2007 [[Setanta Cup]] (qualifying due to their successes in 2006) on 7 December, 2006 and were drawn in a very competitive Group 1 with [[Drogheda United]], Glentoran and Linfield.
+
+[[Shaun Holmes]], [[Mark McChrystal]] and [[Stephen O'Flynn]] all joined [[David Forde]] on the way out after they were released by the club on [[14 December]], [[2006]]. Likewise, on [[15 December]], [[2006]] [[Paul Hegarty (Irish footballer)|Paul Hegarty]] announced that he would be moving on from his role as assistant manager due to difficulties in relation to [[Pat Fenlon|Pat Fenlon's]] new training schedules for the 2007 season, while Colm O'Neill, a fitness coach at the club, also left to join [[Stephen Kenny (football)|Stephen Kenny]] in [[Dunfermline]].
+
+Although some reports claimed that [[Curtis Fleming]] was to take the vacant assistant manager's position left at the club by the departure of much of Stephen Kenny's staff,<ref>"[http://www.elevenaside.com/derrycity/irish_soccer_detail.asp?newsid=25862 Fenlon appoints backroom team]", ''Eleven-a-side.com'', [[19 December]], 2006.</ref> Pat Fenlon revealed that [[Anthony Gorman]] would fill the spot on [[31 December]]. Fenlon also helped commit [[Ruaidhri Higgins]] to the club for another two seasons just two days later, but decided that [[Clive Delaney]] was not in his plans and let the club release him on [[21 December]], 2006.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6199389.stm Delaney is released by Derry City]", ''BBC Sport Online'', [[21 December]], 2006.</ref> With goal-keeper [[Pat Jennings Jr.]] signing a new contract with the club in January 2007,<ref>"[http://derryjournal.com/ViewArticle2.aspx?SectionID=3422&ArticleID=1962807 'PJ' agrees to sign new Derry contract]", ''Derry Journal'', [[9 January]], 2007.</ref> Fenlon was also linked with bringing in tall [[Norway|Norwegian]] striker, [[Øyvind Hoås]] of [[Fredrikstad F.K.|Fredrikstad]], and highly-rated [[Irish League]] player, [[Conor Downey]] of [[Cliftonville FC]].<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6251193.stm Candystripes hope to land Downey]", ''BBC Sport Online'', [[11 January]], 2007.</ref> Nevertheless, released Irish [[Manchester United]] youngster, [[Kyle Moran]], and  former [[Republic of Ireland national football team|Irish]] school-boy international, [[Karl Bermingham]], were invited to the club for a trial period prior to the 2007 season's kick-off.
+
+On [[19 January]], 2007, David Forde's performances for Derry during the 2006 campaign were rewarded with the presenting of the [[eircom]]/Soccer Writers' Association of Ireland's 'Goalkeeper of the Year' award. Pat Fenlon was also named as 'Personality of the Year' after his league success at [[Shelbourne FC]].<ref>"[http://www.fai.ie/index.php?option=com_content&task=view&id=1616 Pat Fenlon is honoured for the second time as football's "Personality of the Year" ]", ''FAI.ie'', [[20 January]], 2007.</ref> During the awards ceremony, held in [[Dundalk]], [[Dermot Ahern]], the [[Irish Minister for Foreign Affairs]], who was a guest in attendance and gave a speech, claimed that the two highlights of the league year for himself had been his presence at two historic occasions in the Brandywell; the club's [[Setanta Sports Cup]] game against [[Linfield FC]] and the [[UEFA Cup]] match with [[Paris Saint-Germain]]. He poured praise on the club, its fans, players, staff and board, claiming that its efforts and achievements had ramifications way beyond sport. Only days later, the club as a whole was awarded the [[Belfast Telegraph]]'s Sports Award for 2006 after its displays during the season.<ref>"[http://www.belfasttelegraph.co.uk/northwest-edition/daily/article2178620.ece City's success honoured with gong]", ''Peter Hutcheon, Belfast Telegraph'', [[23 January]], 2007.</ref>
+
+Derry's first signing of 2007 was eventually announced on [[28 January]] - Pat Fenlon convinced one of his former [[Shelbourne F.C.]] players, [[Dave Rogers]], an experienced defender, to join him at the Brandywell.<ref>"[http://www.derrycityfc.net/season/07/news/displaystory.php?storyid=17 Rogers signs for City]", ''CityWeb'', [[28 January]], 2007.</ref>
+
+==Traditions==
+===The club's name===
+When the club was first founded in 1928, it named itself Derry City Football Club, as opposed to using the official name of the city - [[Derry-Londonderry name dispute|Londonderry]]. [[Irish nationalists|Nationalists]] generally refer to the city as '[[Derry]]', while [[Unionism (Ireland)|unionists]] can be inclined to term it '[[Londonderry]]'. At the time of the club's naming, the dispute would not have been as politicised as it is in the current day.
+
+===Colours and jerseys===
+====Past home-kit variations====
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la = |
+  pattern_b  =  |
+  pattern_ra =  |
+  leftarm    = 88A7E0 |
+  body       = 970045 |
+  rightarm   = 88A7E0 |
+  shorts     = FFFFFF |
+  socks      = 970045 |
+  title      = Original colours worn from 1929 until 1932.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=|
+  pattern_b=|
+  pattern_ra=|
+  leftarm=FFFFFF|
+  body=FFFFFF|
+  rightarm=FFFFFF|
+  shorts=000000 |
+  socks=000000|
+  title = Colours worn between 1932 and 1934.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_red stripes|
+  pattern_b=_red stripes|  
+  pattern_ra=_red stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=000000|  
+  socks=|
+  title = Traditional style introduced in 1934. 
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la = _blackborder |
+  pattern_b  =  |
+  pattern_ra = _blackborder |
+  leftarm    = FFC125 |
+  body       = FFC125 |
+  rightarm   = FFC125 |
+  shorts     = 000000 |
+  socks      = FFC125 |
+  title      = Colours worn for period between 1956 and 1962.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la = _thinredstripesvaryingthickness|
+  pattern_b  = _verythinredandwhitestripes|
+  pattern_ra = _thinredstripesvaryingthickness|
+  leftarm    = FFFFFF |
+  body       = FF0000 |
+  rightarm   = FFFFFF |
+  shorts     = 000000 |
+  socks      = FFFFFF |
+  title      = Thinly-striped customary colours of 1960s.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_red stripes|
+  pattern_b=_red stripes|  
+  pattern_ra=_red stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=FFFFFF|  
+  socks=FFFFFF|
+  title = Variation with white shorts of early 1970s. 
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_red_and_white_stripes|
+  pattern_b=_thinredandhitestripes2|  
+  pattern_ra=_red_and_white_stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=FFFFFF|  
+  socks=FFFFFF|
+  title = 1985 style, with tight stripes and white shorts.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la = _red_hoops2 |
+  pattern_b  = _redstripes2 |
+  pattern_ra = _red_hoops2 |
+  leftarm    = FFFFFF |
+  body       = FFFFFF |
+  rightarm   = FFFFFF |
+  shorts     = 000000 |
+  socks      = FFFFFF |
+  title      = Special 1988 FAI Cup final variation.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_red_and_white_stripes|
+  pattern_b=_thinredandhitestripes2|  
+  pattern_ra=_red_and_white_stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=000000|  
+  socks=FFFFFF|
+  title = Scheme of tight stripes worn in 1988-89.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_thick_red_and_white_stripes|
+  pattern_b=_redwiththinwhitestripes|  
+  pattern_ra=_thick_red_and_white_stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=000000|  
+  socks=FFFFFF|
+  title = Variation worn in early 1990s with thick red stripes.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_odd_red_stripes|
+  pattern_b=_oddredstripes|  
+  pattern_ra=_odd_red_and_white_stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=000000|  
+  socks=FFFFFF|
+  title = Oddly-striped variation worn in mid-1990s.
+}} 
+|}
+{| class="toccolours" style="float: left; margin: 0 1em 1em 0;"
+| class="toccolours" style="padding: 0; background: #FFFFFF;" |
+{{Football kit |
+  pattern_la=_thick_red_white_stripes|
+  pattern_b=_thickredandwhitestripes|  
+  pattern_ra=_thick_red_white_stripes|
+  leftarm1=FFFFFF|  
+  body=FFFFFF|
+  rightarm=FFFFFF| 
+  shorts=000000|  
+  socks=FFFFFF|
+  title = Thickly-striped variation worn in 1997.
+}} 
+|}
+
+====Jersey information====
+Derry City wore claret and blue jersies with white shorts for their first season of football - 1929-30. This scheme lasted until 1932, when the club's first change of colours saw the club directors decide that white jersies with black shorts should be worn by the team for the 1932-33 season. The style, like that which had come before it, lasted just two seasons and was replaced by the now-traditional red and white "candystripes" with black shorts upon the club's changing of its official colours to that of the modern day for the beginning of the 1934-35 season.
+
+The current colours of the red and white striped jersey with black shorts are derived from an early connection with [[Sheffield United]], who wear the identical pattern. Specifically, the colour-change should be attributed to [[Billy Gillespie]]. Gillespie, a native of nearby [[Donegal]], played for Sheffield United over a twenty-year period from 1913 until 1932, and scored over 137 league and cup goals in 492 games for the [[South Yorkshire]] side, as well as captaining them to [[FA Cup]] success in 1925. He was the club's most capped player with 25 for [[Republic of Ireland national football team|Ireland]] and had started out with [[Derry Celtic]] before embarking on a career across the [[Irish Sea]]. The man was held in such high regard in his home country that when he left United in 1932 to replace [[Joe McCleery]] as manager of Derry City, the club changed their strip to red and white stripes within two years of his arrival in reverence to him and his time at [[the Blades]].
+
+Derry have remained in the red and white stripes since, except for the seasons between 1956 and 1962, when the club's players donned an amber and black kit. At the time, the colours were strongly associated with [[Wolverhampton Wanderers]], who were a power-house of English football during the 1950s. However, the colours brought Derry no such luck. The seasons were a lean time for the club, with an [[Irish Cup]] final defeat to [[Glenavon FC]] in 1957 being the highlight.
+
+A re-introduction of the "candystripes" for the 1962-63 season saw the fortunes of the club improve as Derry entered their most successful spell in the [[Irish League]]. The colours have been retained ever since. Jerseys over the years, although in keeping with the red and white tradition, have varied slightly in the sense that certain seasons saw Derry wear thinner stripes while others saw thicker or stripes with varying thicknesses being worn by the players on the field. Derry now wear white socks when sporting their full home rig, while they originally wore black ones. Similarly, the club adopted white shorts instead of black ones for a spell in the early 1970s and later in 1985 for their initial season in the [[League of Ireland]].
+
+Derry have had their kits supplied by various manufacturers over the years, including [[Adidas]], [[Avec]], [[Erreà]], [[Fila (company)|Fila]], [[Le Coq Sportif]], [[Matchwinner]], [[O'Neills]] and [http://www.spall.com Spall]. Commercial sponsorhip logos to appear on the front of shirt have included [http://www.northlands.org.uk Northlands] (a local alcohol and drugs treatment and  awareness organisation), Warwick Wallpapers, [[Fruit of the Loom]], [[Smithwick's]], the Trinity Hotel and [http://www.assetco.com AssetCo]. For the 2007 season, the logos of local media, [[Q102.9]] and the [[Derry News]], are to appear on the back of the shirt.
+
+====Current kit provider and shirt sponsors==== 
+{|   
+|valign="top" width="15%"|   
+[[Image:UmbroLogo.gif|150px|Kit provider]]   
+|valign="top" width="18%"|   
+[[Image:Meteor_Electrical.JPG|Main shirt sponsor]]   
+|valign="top" width="10%"|   
+[[Image:Bedhead.jpg|75px|Secondary shirt sponsor]]   
+|valign="top" width="10%"| 
+[[Image:Catwalk.JPG|60px|Secondary shirt sponser]]
+|}
+
+===Crests===
+[[Image:Derry arms 2003.png|right|thumb|120px|The city's coat of arms, used by the club as a crest prior to the introduction of a unique club crest in 1986.]]
+[[Image:DerryOldCrest.gif|right|thumb|120px|Derry City's first exclusive crest, introduced in 1986 and replaced in 1997.]]
+Although the club did not traditionally sport a crest on the club jersey as the concept had not yet become popularised (probably due to the complications and vast time-consumption involved in mass-producing intricate designs before greater technological advancement occurred), throughout the years playing in the Irish League - and for most of the first season in the League of Ireland - Derry City used the coat of arms of the city, rather than having an exclusive crest of their own. This crest often appeared on club memorabilia such as scarves, hats and badges. The symbols on Derry's arms were, and still are, a skeleton, a three-towered castle, a red cross and sword. The sword and cross are devices of the [[City of London]] and demonstrate the link between the two cities (The city's official name under UK law is, of course, Londonderry), in particular, the association with [[The Honourable The Irish Society|the Honourable the Irish Society]] which had been granted lands in and around the city in the past. The castle is thought to relate to a 13th or 14th century keep belonging to the local native chieftains. There a many theories about the skeleton; the most popular being that it is that of a Norman knight who was starved to death in the castle dungeons in 1332. This was accompanied by the [[Latin]] motto, "''Vita, veritas, victoria''", meaning "Life, truth, victory." 
+
+However, in April 1986, the club ran a competition in local schools to design a new crest for the football club. The winning entry was designed by John Devlin, a fourth-year student at [[St. Columb's College|St Columb's College]], and made its debut on [[05 May]] 1986 when Derry City entertained [[Nottingham Forest]] at [[Brandywell Stadium]] for a friendly match. The crest depicted a simplified version of the city's [[Foyle Bridge]], which had opened 18 months previously, the traditional red and white candystripes associated with the shirt of the club and the year in which Derry City was established as a club, as well as a football in the centre representing the fact that the club is a footballing entity. This crest lasted until July 1997, when the current crest was unveiled at [[Lansdowne Road]] when Derry City played [[Celtic F.C|Celtic]] in a pre-season tournament. The modernised crest, once again, featured a centred football, the club's name and the year of founding. The famous red an white candystripes were present along with a red mass of colour filling the left half of the crest, separated from the right by a white stripe. Known cultural landmarks or items associated with the city are absent from the badge. The origins of this crest are not fully known and the reason for the change in 1997 has never been explained by the club, although it is likely that the club simply wished to develop a fresher, more contemporary image with a [[minimalist]] design and also due to the fact that the Foyle Bridge was no longer as novel, trendy or innovative a feature as it were in the mid-to-late 1980s.
+
+===Rivalries===
+:''See also: [[Northwest Derby]]
+A friendly rivalry is currently maintained with local [[Donegal]] club, [[Finn Harps]]. While both have encountered times of trouble in recent years, they have often been helped by the other in this regard. Their success cannot be said to have occurred without this. Finn Harps were one of the major proponents of Derry's joining of the League of Ireland in 1985. [[Phil Coulter]] is known as a fan of both sides, and has been instrumental in keeping them as operational football clubs. With Derry now playing in the top-tier and [[Finn Harps]] playing in the lower [[FAI First Division]], their much-anticipated [[Northwest Derby|north-west derby]] is now a rarer affair than it once was. Derry also share a north-west derby game with [[Sligo Rovers]], although [[Sligo]] is not in as close proximity to Derry as [[Ballybofey]] is.
+
+The mid-eighties saw Derry's biggest rivalry coming in the form of [[Dublin|Dublin's]] [[St. Patrick's Athletic]] - a side which contained former [[Republic of Ireland national football team|Republic of Ireland]] international and [[Middlesbrough]] defender, [[Curtis Fleming]], [[TV3 (Ireland)|TV3]] pundit [[Paul Osam]] and ironically current Derry manager, [[Pat Fenlon]]. In recent years, [[Dublin|Dublin's]] [[Shelbourne FC]] were seen as top-of-the-table rivals with games between the two often being crucial to the ultimate winning of the league. In turn, these games were often very exciting [[Six pointer|six-pointers]].
+
+There is another club in Derry known as [[Institute FC]], but due to the fact that the clubs play under different associations no intense footballing rivalry exists, although Institute generally take their support from the city's [[Protestant]] or [[Unionism (Ireland)|unionist]] community, as opposed to Derry City, who generally take theirs from the [[Catholic]] or [[Irish nationalist|nationalist]] one. 
+
+During Derry's time in the Irish League, [[south Belfast|south Belfast's]] successful [[Linfield FC]] were commonly viewed as the team to beat.
+
+===Other traditions===
+
+*''[[Teenage Kicks]]'' by the [[Undertones]], who hail from [[Derry]], is held as a club anthem by the fans and it receives frequent air-play over the club's PA system in the [[Brandywell]].
+*''CityView'' is the name of the club's official match programme.
+*Derry City has an official merchandise unit - The Candystripe Store - at 1A, High Street, Derry as well as its club shop within the grounds of the [[Brandywell]] and its  online club shops.[http://www.derrycityfc.net/catalog/][https://www.spreadshirt.net/shop.php?sid=189593]
+*The club occasionally publishes a [[podcast]] known as [http://www.derrycityfc.net/icandy/ iCandy]. The podcast editons contain information and opinions related to Derry City's affairs.
+
+==Home ground==
+:''See [[Brandywell Stadium]] for further information.''
+
+[[Image:Brandywell.jpg||right|thumb|400px|[[Brandywell Stadium|The Brandywell]]; home ground of Derry City.]]
+Derry City's home ground is the [[Brandywell Stadium]] situated on the Lone Moor Road just south-west of the [[Bogside]] in the Brandywell area of [[Derry]]. It is more commonly referred to as simply, the 'Brandywell'. The stadium is also a local [[greyhound racing]] venue, with an ovoid running track encircling the football pitch. The dimensions of the pitch itself measure 111 yards in length by 72 yards in width. The grounds, as well as the stadium, feature a large grass training area and club house, from which the club and ticket offices operate. The legal owner of the stadium is the [[Derry City Council]], which, under licence, permits Derry City to make use of the grounds for training, matches and the running of its various other club affairs, such as administration and a retail outlet. 
+
+Plans of Derry's to purchase a pitch ran aground after their formation due to the tight timescale between their birth in 1928 and the season's beginning in 1929 and so the [[Derry City Council|Londonderry Corporation]] (now known as the Derry City Council) was approached for the use of the Brandywell Stadium which had been used for football up until the end of the 19th century. This began an association between the club and the ground which has survived until the present day. The club are still operating under the constraints of [[The Honourable The Irish Society|the Honourable the Irish Society]] charter limitations which declare that the Brandywell must be available for the recreation of the community. In effect, the club do not have private ownership over the ground and, thus, cannot develop it by their own accord with that discretion being left to the Derry City Council. 
+
+Derry City's first game at the Brandywell was against {{fc|Glentoran}} on [[22 August]], 1929. In 1933, the purchase of another ground was mentioned. The board decided not to buy Bond’s Field in the Waterside, however, as it was thought to be too far away from the fanbase which had built up on the Cityside, especially in the Brandywell area. They had first option on Derry Celtic’s old ground, [[Celtic Park (Derry)|Celtic Park]], but hesitated on a final decision and the [[Gaelic Athletic Association]] bought it ten years later. They also decided against buying Meenan Park for £1,500. The club, thus, remained playing in the Brandywell.
+
+Because of [[Northern Ireland|Northern Ireland's]] extremely volatile political situation during the era of the '[[Troubles]]' and past security fears for [[Protestants]] and those of the [[Unionism (Ireland)|unionist]] tradition visiting the mainly [[Irish nationalist|nationalist]] city of [[Derry]], the [[Brandywell]] has not always been the home ground of Derry City. In 1970 and 1971, Derry had to play their 'home' ties against [[Linfield FC]] at [[Windsor Park]] in [[Belfast]] - the home-ground of [[Linfield FC|Linfield]] themselves. Similarly, from September 1971 until October 1972 Derry were forced to play all their 'home' games at the [[The Showgrounds (Coleraine)|Showgrounds]] in the town of [[Coleraine]], over 30 miles away, as police ruled the area surrounding the [[Brandywell]] was too unsafe for visitors from the other community. The [[Brandywell]] did not see senior football for another 13 years as the [[Irish Football League]] upheld a ban on the stadium and Derry decided to leave the league as a result. Only greyhound meetings and junior football were held at the venue during this period. Derry's admission to the [[League of Ireland]] in 1985 saw a much-welcomed return of senior games, however.
+
+Due to health and safety regulations the stadium has a seating capacity of 2,900 for European competitions, although it can accommodate 7,700 on a normal matchday including those both standing and seated.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/4775553.stm Brandywell gets seating increase]", ''BBC Sport Online'', [[9 August]] 2006. Retrieved [[3 October]] 2006. </ref><ref>"[http://www.stadiumguide.com/brandywell.htm Brandywell Stadium]", ''The Stadium Guide''. Retrieved [[3 October]] 2006.</ref> The [[Brandywell]] has undergone large-scale redevelopment is recent years with the 'New Stand' being constructed in 1991 and the 'Jungle' being demolished in 2004. The 'Jungle' section was the home of Derry's noisier hardcore element of fans. Many of these fanatics now occupy the area of and surrounding Block J in the 'New Stand'. The quieter blocks of the 'New Stand', where the remainder of the more-reserved spectators sit, are sometimes referred to by the louder group as 'the Library' in jest.
+
+[[Image:Derrycity2.jpg|left|thumb||300px|The Brandywell's 'New Stand' under floodlights.]]
+
+Furthermore, the stadium saw the construction of 450 extra seats opposite the 'New Stand' on the site of the old 'Jungle' to complement the pre-existing Glentoran Stand on that side of the stadium as well as the development of a drug-testing facility in August 2006 in order to cope with the demand for Derry's [[UEFA Cup]] Second Qualifying Round tie with Gretna. This development is set to continue with the building of the proposed Brandywell Complex as planned by Brandywell Properties Limited, who act on behalf of the club. Plans for the complex include a 7,000 all-seater stadium (which will be expandable), new playing and training pitches, an indoor football complex, two retail units, a medical centre and a pharmacy. There are, however, no plans under the current proposals, to include a dog-racing track. The cost of this development, which it is hoped will be completed by 2012, is reportedly £15 million.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/5085378.stm Brandywell revamp plan unveiled]", ''BBC Sport Online'', [[15 June]] 2006. Retrieved [[1 October]] 2006. </ref> Work on the new complex was planned to begin by Spring 2007. The need for new stadium facilities has never been so obvious as it is now with the old side of the stadium becoming noticably more run-down by the season. However, as the [[Derry City Council]] own the land, they ultimately hold the key to the proceeding of any planned development.<ref>"[http://www.eleven-a-side.com/premier/irish_soccer_detail.asp?newsid=16140 Derry fans make stadium plea]", ''Eleven-a-side.com'', [[22 February]], 2005.</ref> 
+
+While an alternative idea of building a new multi-purpose stadium for the city (which would also provide a new home for Derry City FC) on the site of a dismantled [[British Army]] post at the city's Fort George has also been aired due to delays in the process, on [[12 January]], 2007, financial advisor and former [[Gaelic Athletic Association]] president, [[Peter Quinn (GAA President)|Peter Quinn]], who played a pivotal role in securing funding for the re-development of the modern-day [[Croke Park]], was appointed as a consultant by Brandywell Properties to spearhead the club's bid to take over the re-development of the Brandywell Stadium and help the plan progress.<ref>"[http://www.belfasttelegraph.co.uk/northwest-edition/daily/article2146354.ece Big name to help City's bid for stadium]", ''Belfast Telegraph'', [[12 January]], 2007.</ref> On behalf of Brandywell Properties he is to seek funding from both the [[Irish government|Irish]] and [[British government|British]] governments, as well as injections from the [[National Lottery]] along with sums from other sporting agencies in order to help raise the £15 million needed. The proposals will eventually be submitted to the [[British government|Government]], as well the Derry City Council.
+
+The current Brandywell stadium has played host to many notable matches for Derry City, such as the 1-0 defeat of [[IFK Göteborg]] on [[27 July]], [[2006]] in the [[UEFA Cup]] First Qualifying Round. However, current facilities for spectators and media simply cannot cope with the demand for some matches. The ground also hosted the FAI League Cup final in 2006 between Derry and [[Dublin]] rivals, [[Shelbourne FC]]. Derry won the climactic game after it went to a penalty shoot-out.
+
+==League and location==  
+:''See [[Football clubs playing in the league of another country]] for further general information.''
+ 
+Derry City is a unique club, due to its troubled and fluctuant history, in that it is one of the few clubs from the [[United Kingdom]] (and the only club in [[Northern Ireland]]) to play in the league of another country - the league of the [[Republic of Ireland]] in the case of Derry City.
+
+Others within the [[UK]] are:   
+*One [[England|English]] club playing in the [[Scottish Football League]], due to reasons of geographical convenience: [[Berwick Rangers F.C.|Berwick Rangers]].
+*Three [[Wales|Welsh]] clubs playing in [[The Football League]], due to qualitative reasons: [[Cardiff City F.C.|Cardiff City]], [[Swansea City A.F.C.|Swansea City]] and {{afc|Wrexham}}.  
+
+Another club, [[League of Wales]] side [[The New Saints F.C.|The New Saints]], one of only two fully professional clubs in the Welsh league, are planning to build a new ground just across the English border.   
+
+There are similar examples from around the globe:
+*All seven clubs in [[Liechtenstein]], the most notable among them [[FC Vaduz]], compete in the [[Swiss Football League|Swiss football system]] as Liechenstein has no properly recognised league of its own.
+*The [[New Zealand Knights F.C.|New Zealand Knights]] are members of Australia's Hyundai [[A-League]].
+*[[AS Monaco]] play in the French [[Ligue 1]].
+*Four [[Soccer in Canada|Canadian]] teams; [[Vancouver Whitecaps|Whitecaps FC]] of Vancouver, [[Toronto Lynx]], [[Montreal Impact]] and [[Toronto FC]] will be playing in the [[Soccer in the United States|American]] soccer pyramid as of 2007. [[Toronto FC]], a newly formed club, are set to play [[Major League Soccer]] for the 2007 season, while the other three sides play in the second tier of the system, the [[USL First Division]].
+*The [[Puerto Rico Islanders]] also play in the American [[USL First Division]].
+*Two [[San Marino|Sanmarinese]] teams compete in the [[Soccer in Italy|Italian]] league system: [[San Marino Calcio]] plays in [[Serie C|Serie C1]], while [[A.C. Juvenes/Dogana]] plays in both the [[Campionato Sammarinese di Calcio|Sanmarinese league]] and Italian amateur levels.
+
+==Honours==
+*'''League titles: 4'''
+**[[Irish Football League]]: 1964-65
+**[[League of Ireland|Football League of Ireland]]: 1988-89, 1996-97
+**[[League of Ireland|Football League of Ireland First Division]]: 1986-87
+*'''[[FAI Cup]]: 4'''
+** 1989, 1995, 2002, 2006<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6204362.stm Derry see off St Pat's in decider]", ''BBC Sport Online''. Retrieved [[4 September]] 2006.</ref>
+*'''[[FAI League Cup]]: 7''' 
+**1988-89, 1990-91, 1991-92, 1993-94, 1999-2000, 2005, 2006<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/5358284.stm Derry win eircom League Cup final]", ''BBC Sport Online''. [[18 September]] 2006.</ref>
+*'''[[Irish Cup|IFA Cup]]: 3''' 
+**1948-49, 1953-54, 1963-64
+*'''[[League of Ireland First Division Shield]]: 1'''
+**1985-86 
+*'''[[City Cup (Northern Ireland)|City Cup]]: 2'''
+**1935, 1937 
+*'''[[Gold Cup (Northern Ireland)|Gold Cup]]: 1'''
+**1964 
+*'''Top Four Winners: 1'''
+**1966
+*'''North-West Senior Cup: 3''' 
+**1931-32, 1932-33, 1933-34
+
+==Domestic football==
+:''See [[Football League of Ireland 2006 season]] for a general overview of Derry City's most recent season.''
+Derry compete in a number of major domestic competitions on an annual basis. Those include the [[FAI National League|League of Ireland]], the [[FAI Cup]] and the [[Football League of Ireland Cup|FAI League Cup]]. They can also take part in the cross-border [[Setanta Sports Cup]], on condition of qualification for the tournament based on performances in the three former competitions. Prior to 1973 the club's main domestic competitions were the [[Irish League]] and the [[Irish Cup|IFA Cup]].
+===National League of Ireland===
+
+Up until the end of the 2006 season, Derry have played a total of 691 [[League of Ireland]] games since joining in 1985. 306 of these games have been won (44.28%), 197 have been drawn (28.51%) and 188 have been lost (27.21%). In the process, 951 goals have been scored (an average of 1.38 goals per game) and 651 have been conceded (an average of 0.94 goals per game). With 993 points being accumulated over the League of Ireland years, Derry have managed an average of 1.44 points per game. 
+
+[[Image:Derry's LoI standings.png|thumb|right|500px| A graphical representation of Derry City's historical standings in the League of Ireland. The coloured bars represent the two tiers of Irish football - the red bar being the Premier Division and the black bar being the First Division.]]
+
+{| border=1
+|-bgcolor=#D0E7FF style="text-align:center;"
+!'''Season'''
+!'''Points Total'''
+!'''Position'''
+!'''Wins'''
+!'''Draws'''
+!'''Losses'''
+!'''Goals For'''
+!'''Goals Against'''
+|----
+|'''[[FAI National League 2007 season|2007]]'''{{fn|1}}
+|0
+|''n/a''
+|0
+|0
+|0
+|0
+|0
+|-
+|'''[[Football League of Ireland 2006 season|2006]]'''{{fn|2}}
+|62
+|2nd{{fn|3}}
+|18
+|8
+|4
+|46
+|20
+|-
+|'''2005'''{{fn|4}}
+|72
+|2nd
+|22
+|6
+|5
+|56
+|25
+|-
+|'''2004'''
+|44
+|7th
+|11
+|11
+|14
+|23
+|32
+|-
+|'''2003'''{{fn|5}}
+|36
+|9th
+|7
+|15
+|14
+|33
+|51
+|-
+|'''2002-03'''{{fn|6}}
+|31
+|8th
+|8
+|7
+|12
+|31
+|37
+|-
+|'''2001-02'''
+|51
+|5th
+|14
+|9
+|10
+|42
+|30
+|-
+|'''2000-01'''
+|45
+|6th
+|12
+|9
+|12
+|31
+|38
+|-
+|'''1999-00'''
+|46
+|7th
+|12
+|10
+|11
+|32
+|38
+|-
+|'''1998-99'''
+|45
+|5th
+|12
+|9
+|12
+|34
+|32
+|-
+|'''1997-98'''
+|40
+|9th
+|10
+|10
+|13
+|30
+|31
+|-
+|'''1996-97'''
+|67
+|1st
+|19
+|10
+|4
+|58
+|27
+|-
+|'''1995-96'''
+|46
+|6th
+|11
+|13
+|9
+|50
+|38
+|-
+|'''1994-95'''
+|58
+|2nd
+|16
+|10
+|7
+|45
+|30
+|-
+|'''1993-94'''{{fn|7}}
+|46
+|5th
+|12
+|10
+|10
+|37
+|35
+|-
+|'''1992-93'''{{fn|8}}
+|37
+|5th
+|11
+|15
+|6
+|26
+|23
+|-
+|'''1991-92'''
+|44
+|2nd
+|17
+|10
+|6
+|49
+|21
+|-
+|'''1990-91'''
+|35
+|7th
+|13
+|9
+|11
+|51
+|28
+|-
+|'''1989-90'''
+|49
+|2nd
+|20
+|9
+|4
+|72
+|18
+|-
+|'''1988-89'''
+|53
+|1st
+|25
+|5
+|4
+|70
+|21
+|-
+|'''1987-88'''
+|31
+|8th
+|13
+|5
+|15
+|59
+|44
+|-
+|'''1986-87'''{{fn|9}}
+|33
+|1st
+|16
+|1
+|1
+|45
+|14
+|-
+|'''1985-86'''{{fn|10}}
+|22
+|4th
+|8
+|6
+|4
+|31
+|18
+|}
+<small>{{fnb|1}}First season of newly-administered [[FAI Premiership]]. Season not yet under way.<br />
+{{fnb|2}}League reduced from 12 teams to 11 teams mid-season after [[Dublin City FC]] resigned so all their games were expunged from the record and the league table re-calculated.<br />
+{{fnb|3}}On goal difference.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6160000.stm Derry lose to Shels in title race]", ''BBC Sport Online'', [[17 November]], 2006. Retrieved [[4 December]], 2006.</ref> <br />
+{{fnb|4}}League increased from 10 competing teams to 12 competing teams from start of this season onward (until 2009 when Premiership will be reduced to 10 teams, as planned by FAI).<br />
+{{fnb|5}}League changed to 'Summer season' from start of this season onward.<br />
+{{fnb|6}}League reduced from 12 competing teams to 10 competing teams from outset of season. Lasted for 3 further seasons until end of 2004 season.<br />
+{{fnb|7}}Changed from two points to three for a win from start of this season onward.<br />
+{{fnb|8}}Top and bottom halves of league split into two groups of 6 teams for two concluding relegation and title mini-series. Concept lasted for two seasons.<br />
+{{fnb|9}}Promoted from First Division to Premier Division after finishing top of division and have remained there ever since.<br />
+{{fnb|10}}Season Derry City first entered First Division. Division made up of 10 teams for all of Derry's period of taking part.<small/>
+
+*''[http://www.rsssf.com/tablesi/ierhist.html (Complete list of Premier Division standings)]
+*''[http://www.rsssf.com/tablesi/ier2hist.html (Complete list of First Division standings)]
+
+===FAI Cup===
+159 goals in total have been scored by Derry in all their FAI Cup ties, with four players recording hat-tricks - [[Owen Da Gama]], [[Alex Krstic]], [[Jonathan Speak]] and [[Sean Hargan]]. Derry City have appeared in the [[FAI Cup]] final on 7 occasions, winning 4 of those.
+
+{|class="wikitable"
+|- align=center style="background:#efefef;"
+!width=5%|Season
+!width=20%|Winner
+!width=10%|Score
+!width=20%|Runner-up
+
+|- align=center
+|1987-88
+|[[Dundalk FC]]
+|1-0
+|'''Derry City'''
+
+|- align=center
+|1988-89
+|'''Derry City'''
+|0-0, 1-0{{fn|11}}
+|[[Cork City FC]]
+
+|- align=center
+|1993-94
+|[[Sligo Rovers]]
+|1-0
+|'''Derry City'''
+
+|- align=center
+|1994-95
+|'''Derry City'''
+|2-1
+|[[Shelbourne FC]]
+
+|- align=center
+|1996-97
+|[[Shelbourne FC]]
+|2-0
+|'''Derry City FC'''
+
+|- align=center
+|2002{{fn|12}}
+|'''Derry City'''
+|1-0
+|[[Shamrock Rovers]]
+
+|- align=center
+|2006
+|'''Derry City'''
+|4-3{{fn|13}}
+|[[St. Patrick's Athletic]]
+|}
+<small>{{fnb|11}} After replay.<br />
+{{fnb|12}} This was second FAI Cup final in 2002 due to a 'Winter transition season' being played to allow for the new 'Summer season' to proceed in March 2003.<br />
+{{fnb|13}} After extra-time.<br /></small>
+*''[http://derrycityfc.net/history/records/faicup.php (Complete record)]
+
+===FAI League Cup===
+Derry City have appeared in the [[FAI League Cup]] final on 9 occasions, winning 7 of those.
+
+{|class="wikitable"
+|- align=center style="background:#efefef;"
+!width=5%|Season
+!width=20%|Winner
+!width=10%|Score
+!width=20%|Runner-up
+
+|- align=center
+|1988-89
+|'''Derry City'''
+|4-0
+|[[Dundalk FC]]
+
+|- align=center
+|1989-90
+|[[Dundalk FC]]{{fn|14}}
+|1-1 
+|'''Derry City'''
+
+|- align=center
+|1990-91
+|'''Derry City'''
+|2-0
+|[[Limerick F.C.|Limerick]] 
+
+|- align=center
+|1991-92
+|'''Derry City'''
+|1-0
+|[[Bohemian FC]]
+
+|- align=center
+|1993-94
+|'''Derry City'''
+|1-0{{fn|15}}
+|[[Shelbourne FC]]
+ 
+|- align=center
+|1999-00
+|'''Derry City'''
+|5-2{{fn|15}}
+|[[Athlone Town FC]]
+
+|- align=center
+|2001-02 
+|[[Limerick FC|Limerick]]
+|2-2 {{fn|15}}
+|'''Derry City'''
+
+|- align=center
+|2005
+|'''Derry City'''
+|2-1
+|[[UCD]]
+
+|- align=center
+|2006
+|'''Derry City'''{{fn|16}}  
+|0-0 
+|[[Shelbourne FC]]
+|}
+<small>{{fnb|14}} Dundalk won on penalties.<br />
+{{fnb|15}} Aggregate score after two legs.<br />
+{{fnb|16}} Derry City won on penalties.
+
+===IFA Cup===
+Derry City have appeared in the [[Irish Cup|IFA Cup]] final on 6 occasions, winning 3 of those.
+
+{|class="wikitable"
+|- align=center style="background:#efefef;"
+!width=5%|Season
+!width=20%|Winner
+!width=10%|Score
+!width=20%|Runner-up
+
+|- align=center
+|1935-36
+|[[Linfield FC]]
+|0-0, 2-1{{fn|17}}
+|'''Derry City'''
+
+|- align=center
+|1948-49
+|'''Derry City'''
+|1-0 
+|[[Glentoran FC]]
+
+|- align=center
+|1953-54
+|'''Derry City'''
+|2-2, 0-0, 1-0{{fn|18}}
+|[[Glentoran FC]] 
+
+|- align=center
+|1956-57
+|[[Glenavon FC]]
+|2-0
+|'''Derry City'''
+
+|- align=center
+|1963-64
+|'''Derry City'''
+|2-0
+|[[Glentoran FC]]
+ 
+|- align=center
+|1970-71
+|[[Lisburn Distillery]]
+|3-0
+|'''Derry City'''
+|}
+<small>{{fnb|17}} After replay and extra-time.<br />
+{{fnb|18}} After two replays.
+
+===Setanta Cup===
+Derry City have appeared in the cross-border [[Setanta Cup]] on one occasion - 2006. They will also take part in 2007's competition.
+====2006====
+'''Group 2'''
+{| class="wikitable"
+!Team!!Played!!Won!!Drew!!Lost!!For!!Against!!Points
+|-
+|[[Linfield FC]]||6||2||4||0||12||4||10
+|-
+|[[Shelbourne FC]]||6||2||3||1||7||3||9
+|-
+|'''Derry City FC'''||6||1||4||1||5||4||7
+|-
+|[[Glentoran FC]]||6||1||1||4||5||18||4
+|}
+As the top two teams from both of the two groups qualified for the semi-final of the competition, Derry failed to progress after finishing in third position.
+
+====2007====
+'''Group 1'''
+{| class="wikitable"
+!Team!!Played!!Won!!Drew!!Lost!!For!!Against!!Points
+|-
+|'''Derry City FC'''||0||0||0||0||0||0||0
+|-
+|[[Drogheda United]]||0||0||0||0||0||0||0
+|-
+|[[Glentoran FC]]||0||0||0||0||0||0||0
+|-
+|[[Linfield FC]]||0||0||0||0||0||0||0
+|}
+''Still to play. Matches are scheduled to commence on Monday [[26 February]], [[2007]].<br />
+*''[http://derrycityfc.net/history/records/setantacup.php (Complete record)]
+
+==European football==
+===History in European competition===
+Derry City have qualified for European football several times throughout the club's history, and more so in recent years. [[Steaua Bucureşti]] beat the club 5-1 on aggregate in the [[Cup Winners Cup]] during Derry's first European outing in the 1964-65 season. The following season, Derry became the first Irish League team to win a European tie over two legs by beating [[Lyn Oslo]] when, after losing 5-3 in the [[Oslo]], they won 8-6 on aggregate. The second round saw [[R.S.C. Anderlecht]] hammer Derry 9-0, however. The second leg of the tie was never played, with the fixture being announced as a walk-over. Between then and now the likes of [[Vitesse Arnhem]] and former [[European Cup]] winners, [[Benfica]], have visited the Brandywell to play competitive European football. 
+
+Following the [[Football League of Ireland|League title]] win in the 1996-97 season, Derry represented the league in the [[UEFA Champions League]]. However, in the First Qualifying Round, they were knocked out by [[NK Maribor]] of [[PrvaLiga Telekom Slovenije|Slovenia]]. The club's only win on the European stage previous to this, of course, had been in the 1965-66 season when they defeated [[F.C. Lyn Oslo]] by an 8-6 aggregate scoreline in the [[European Cup]]. After the [[NK Maribor]] experience, it would take 7 more years until Derry would again compete in European football. However, this time in the 2002-03 season, it would be in the [[UEFA Cup]] following their [[FAI Cup]] victory in 2002. The club failed to progress once more, knocked out by [[Cypriot First Division|Cypriot]] side [[APOEL FC]] on this occasion by an aggregate score of 5-1 after hoping they had kept the tie alive with just a 2-1 defeat in the first leg away in [[Cyprus]].<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/3147407.stm Derry City keep tie alive]", ''BBC Sport Online'', [[14 August]], 2003.</ref>
+
+Derry once again qualified for the UEFA Cup for 2006-07 season after finishing runners-up in the Premier Division in the 2005 season. On 13 July 2006, Derry overcame two time winners [[IFK Göteborg]] in the [[UEFA Cup]] First Qualifying Round by an aggregate score of 2-0. A 79th-minute header from [[Sean Hargan]] was enough to give Derry a shock win<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/5170552.stm IFK Gothenburg 0-1 Derry City]", ''BBC Sport Online'', [[13 July]] 2006.</ref> in the first leg, and [[Stephen O'Flynn]] ensured a 1-0 home victory from the penalty spot. Manager Stephen Kenny was delighted with the win stating:
+{{cquote|They have won the [[UEFA Cup]] twice and only a few years ago were in the group stages of the [[UEFA Champions League|Champions League]] so this is a great night for everyone connected with Derry City. We were worthy winners. It is not as if we got a goal and held on. I think we played the better football.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/5179024.stm Kenny salutes his Derry heroes]", ''BBC Sport Online'', [[14 July]] 2006.</ref>}} This marked Derry City's first progression in European football since defeating [[Lyn Oslo]] more than 40 years previously.[[Image:Psggame.JPG|thumb|right|350px|European football at the [[Brandywell]]; Derry's [[Eddie McCallion]] keeping a defensive eye on the ball - in [[Fabrice Pancrate|Fabrice Pancrate's]] possession - during the 2006 [[UEFA Cup]] game against [[Paris Saint-Germain]].]]
+
+Derry City were subsequently drawn against [[Scottish Football League First Division|Scottish second-level]] side [[Gretna F.C.|Gretna]] in the Second Qualifying Round. On [[August 10]] [[2006]], Derry claimed a 5-1 away win to gain a considerable advantage going into the home leg. This result is the largest away winning margin for a League of Ireland team in Europe.<ref>"[http://sport.scotsman.com/football.cfm?id=1167012006 Slack Gretna given cruel lesson by five-star Derry]", ''Stephen Halliday, The Scotsman'', [[11 August]] 2006.</ref> Following a 2-2 home draw with Gretna in the second leg and a 7-3 win on aggregate, Derry advanced to the UEFA Cup First Round. In the draw, held on 25 August 2006, Derry City were handed a tough tie against [[Paris Saint-Germain FC]].  
+
+The first leg, broadcasted live on [[Eurosport]], was played at home at Brandywell Stadium on the evening of 14 September and ended in a 0-0 draw. The second leg was played at [[Parc des Princes]] on 28 September after the club were given the honour of a civic reception in [[Paris]] by the Irish ambassador to [[France]], Anne Anderson.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/5376526.stm Irish Ambassador invite for Derry]", ''BBC Sport Online'', [[24 September]], 2006.</ref> Paris St. Germain won the second leg 2-0 with first-half goals deriving from sloppy set-piece defending in the first-half. [[Édouard Cissé]] and [[Pauleta]] were the goal-scorers. Thus, 2-0 was the overall aggregate score of the tie.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/5384114.stm PSG 2-0 Derry City (agg: 2-0)]", ''Lyle Jackson, BBC Sport Online'', [[28 September]], 2006.</ref>
+
+By finishing second in the [[eircom League]] Premier Division in 2006, Derry, once again, secured the return of UEFA Cup football to the Brandywell for the 2007-08 European season. Having later gone on to win the 2006 [[FAI Cup]], which also rewards the winner with a UEFA Cup spot, this win and qualification-route took prominence over the league qualification, and Derry's UEFA Cup qualification on account of their final league position was transferred to the next best-placed team below them - that was [[Drogheda United]] who took third spot. This year, Derry will enter the First Qualifying Round draw as a seeded team, having had their [[UEFA coefficients]] boosted heavily after their successful run in 2006.
+
+On [[08 January]], 2007, however, it was reported that Derry may qualify for the 2007 [[Champions League]] First Qualifying Round instead in the place of Shelbourne as the league-winners' place is under threat due to financial problems which could prevent the club from being awarded the required UEFA licence to compete.<ref>"[http://news.bbc.co.uk/sport2/hi/football/irish/6242023.stm Shelbourne's Euro place in danger]", ''BBC Sport Online'', [[08 January]], 2007.</ref>
+
+===Overall record===
+'''[[UEFA Champions League]]:'''
+{| border=1
+|-bgcolor=#D0E7FF
+!Appearances!!Played!!Won!!Drawn!!Lost!!For!!Against
+|-
+|3||7||1||0||6||9||24
+|}
+
+'''[[UEFA Cup]]:'''
+{| border=1
+|-bgcolor=#D0E7FF
+!Appearances!!Played!!Won!!Drawn!!Lost!!For!!Against
+|-
+|4||12||3||3||6||11||16
+|}
+
+'''[[Cup Winners Cup]]:'''
+{| border=1
+|-bgcolor=#D0E7FF
+!Appearances!!Played!!Won!!Drawn!!Lost!!For!!Against
+|-
+|3||6||1||1||4||1||11
+|}
+
+===Past opponents===
+{| border=1
+|-bgcolor=#D0E7FF
+!Season!!Competition!!Country!!Team!!Score
+|-
+|[[UEFA Cup Winners' Cup 1964-65|1964-65]]||[[Cup Winners' Cup]] Round 1||[[Image:Flag of Romania.svg|20px|Romania]]||[[Steaua Bucureşti]]||0-5 agg.
+|-
+|[[European Cup 1965-66|1965-66]]||[[European Cup]] Preliminary Round||[[Image:Flag of Norway.svg|20px|Norway]]||[[FC Lyn Oslo]]||8-6 agg.
+|-
+||[[European Cup 1965-66|1965-66]]||[[European Cup]] Round 1||[[Image:Flag of Belgium.svg|20px|Belgium]]||[[RSC Anderlecht]]||0-9, 2nd leg w/o.
+|-
+|[[UEFA Cup Winners' Cup 1988-89|1988-89]]||[[Cup Winners' Cup]] Round 1||[[Image:Flag of Wales (bordered).svg|20px|Wales]]||[[Cardiff City FC]]||0-4 agg.
+|-
+||[[European Cup 1989-90|1989-90]]||[[European Cup]] Round 1||[[Image:Flag of Portugal.svg|20px|Portugal]]||[[SL Benfica]]||1-6 agg.
+|-
+|[[UEFA Cup 1990-91|1990-91]]||[[UEFA Cup]] Round 1||[[Image:Flag of the Netherlands.svg|20px|Netherlands]]||[[Vitesse Arnhem]]||0-1 agg.
+|-
+|[[UEFA Cup 1992-93|1992-93]]||[[UEFA Cup]] Round 1||[[Image:Flag of the Netherlands.svg|20px|Netherlands]]||[[Vitesse Arnhem]]||1-5 agg.
+|-
+|[[UEFA Cup Winners' Cup 1995-96|1995-96]]||[[Cup Winners' Cup]] Qual. Round||[[Image:Flag of Bulgaria (bordered).svg|20px|Bulgaria]]||[[PFC Lokomotiv Sofia]]||1-2 agg.
+|-
+|[[UEFA Champions League 1997-98|1997-98]]||[[UEFA Champions League|Champions League]] Qual. Round 1||[[Image:Flag of Slovenia (bordered).svg|20px|Slovenia]]||[[NK Maribor]]||0-3 agg.
+|-
+|[[UEFA Cup 2003-04|2003-04]]||[[UEFA Cup]] Qual. Round||[[Image:Flag of Cyprus (bordered).svg|20px|Cyprus]]||[[APOEL FC]]||1-5 agg.
+|-
+|[[UEFA Cup 2006-07|2006-07]]||[[UEFA Cup]] Qual. Round 1||[[Image:Flag of Sweden.svg|20px|Sweden]]||[[IFK Göteborg]]||2-0 agg.
+|-
+|[[UEFA Cup 2006-07|2006-07]]||[[UEFA Cup]] Qual. Round 2||[[Image:Flag of Scotland.svg|20px|Scotland]]||[[Gretna FC]]||7-3 agg.
+|-
+|[[UEFA Cup 2006-07|2006-07]]||[[UEFA Cup]] Round 1||[[Image:Flag of France.svg|20px|France]]||[[Paris Saint-Germain FC]]||0-2 agg.
+|}
+''[http://derrycityfc.net/history/records/eurorecord.php (Complete record)]
+
+===UEFA coefficient and ranking===
+Derry City's [[UEFA coefficient]] accumulates to a total value of 3.145 as of their 2006-07 European season (now completed as the club has been knocked out).<ref>"[http://www.xs4all.nl/~kassiesa/bert/uefa/data/method3/trank2007.html UEFA Team Ranking 2007]," ''Bert Kassies'', 2007.</ref> 
+
+====Current club ranking====
+* 213 {{flagicon|Finland}} [[MyPa-47]]
+* 214 {{flagicon|Moldova}} [[Zimbru Chişinău]]
+* '''215''' {{flagicon|Ireland}} '''Derry City FC'''
+* 215 {{flagicon|Ireland}} [[Shelbourne FC]]{{fn|19}}
+* 217 {{flagicon|Macedonia}} [[Vardar Skopje]]
+:* [http://www.xs4all.nl/~kassiesa/bert/uefa/data/method3/trank2007.html ''(Full list)'']
+
+<small>{{fnb|19}}Shelbourne has an identical coefficient value to that of Derry City.
+
+====Current national system ranking====
+* 33 {{flagicon|Finland}} [[Veikkausliiga|Finland]]
+* 34 {{flagicon|Moldova}} [[Divizia Naţională|Moldova]]
+* 35 {{flagicon|Ireland}} '''[[Football League of Ireland|Ireland]]'''
+* 36 {{flagicon|Georgia}} [[Umaglesi Liga|Georgia]]
+* 37 {{flagicon|Liechtenstein}} [[Liechtenstein Football Association|Liechtenstein]]{{fn|20}}
+:* [http://www.xs4all.nl/~kassiesa/bert/uefa/data/method3/crank2007.html ''(Full list)'']
+
+<small>{{fnb|20}} Liechenstein has no properly recognised league championship. Therefore, the country has no [[UEFA Champions League]] entrants, although the [[Liechtenstein football Cup|cup]] winners enter the [[UEFA Cup]].
+
+====Background information====
+Ireland's national league coefficient has been steadily improving in recent years. The [[eircom League|eircom League's]] move to 'Summer football' at the beginning of the 2003 season, which is seen to be beneficial for team fitness and coherency when the qualifying campaigns come round, and the introduction of full-time professional football by a number of top sides, including Derry City, has aided this promising progress. Due to the swift development in the past few years, combined with the fact that [[UEFA]] accords its coefficient values based on results over five previous seasons, Irish clubs' coefficients give a somewhat inaccurate impression of the current standard of play in the [[eircom League]], with many believing that an accurate representation of the standard of play would see Irish clubs ranked higher. Signs of the vast improvement are evident in the fact that League of Ireland clubs have consistently overcome sides from the [[Allsvenskan|Swedish league]] (currently ranked 28th by [[UEFA]] after the position has deteriorated recently due, in a large way, to the steady latter-day success of Irish teams over their Swedish counterparts) in recent years. Cork City, for example, went past [[Djurgårdens IF]] in 2005 after having earlier beaten [[Malmo FF]] 4-1 on aggregate in 2004, while Derry City, of course, beat [[IFK Göteborg]] 2-0 on aggregate in 2006. They then went on to defeat Gretna, a side from the [[Scottish Football Association|Scottish system]] (ranked 11th by [[UEFA]]), 7-3 on aggregate.
+
+The poor ranking of 35th has led to arrogant under-estimation of the league's standard and before Derry City's win over [[IFK Göteborg]], [[Niclas Alexandersson]] rather misguidedly suggested that his team could take a holiday and still walk over the League of Ireland side.<ref>"[http://www.eleven-a-side.com/derrycity/irish_soccer_detail.asp?newsid=23450 Candystripes spurred by comments]", ''Eleven-a-side.com'', [[13 July]] 2006.</ref>
+
+==Players==
+:''See also: {{cl|Derry City F.C. players}}''
+===Current first-team squad===
+{{Football squad start}}
+{{Football squad player|no=2|nat=Northern Ireland|name=[[Eddie McCallion]]|pos=DF}}
+{{Football squad player|no=3|nat=Northern Ireland|name=[[Sean Hargan]]|pos=DF}}
+{{Football squad player|no=4|nat=Northern Ireland|name=[[Peter Hutton (footballer)|Peter Hutton]]|pos=DF|other=Captain}}
+{{Football squad player|no=7|nat=Northern Ireland|name=[[Ruaidhri Higgins]]|pos=MF}}
+{{Football squad player|no=8|nat=Ireland|name=[[Ciaran Martyn]]|pos=MF}}
+{{Football squad player|no=9|nat=Northern Ireland|name=[[Gary Beckett]]|pos=FW}}
+{{Football squad player|no=10|nat=Ireland|name=[[Kevin McHugh]]|pos=FW}}
+{{Football squad player|no=11|nat=Ireland|name=[[Killian Brennan]]|pos=MF}}
+{{Football squad player|no=12|nat=Ireland|name=[[Ken Oman]]|pos=DF}}
+{{Football squad mid}}
+{{Football squad player|no=14|nat=Ireland|name=[[Gareth McGlynn]]|pos=MF}}
+{{Football squad player|no=15|nat=Ireland|name=[[Kevin Deery]]|pos=MF}}
+{{Football squad player|no=16|nat=England|name=[[Pat Jennings Jr.]]|pos=GK}}
+{{Football squad player|no=17|nat=Northern Ireland|name=[[Barry Molloy]]|pos=MF}}
+{{Football squad player|no=18|nat=Ireland|name=[[Mark Farren]]|pos=FW}}
+{{Football squad player|no=23|nat=Northern Ireland|name=[[Patrick McCourt]]|pos=MF}}
+{{Football squad player|no=24|nat=Northern Ireland|name=[[Darren Kelly]]|pos=DF}}
+{{Football squad player|no=31|nat=Ireland|name=[[Neil McCafferty]]|pos=MF}}
+{{Football squad player|no=|nat=England|name=[[Dave Rogers]]|pos=DF}}
+{{Football squad end}}
+
+====Transfers during 2006-07 break====
+{|
+|valign="top" width="20%"|
+'''Out:''' 
+*{{flagicon|Ireland}} [[Clive Delaney]] to [[Bray Wanderers]] ''(For free as player was out of contract)''
+*{{flagicon|Ireland}} [[David Forde]] to [[Cardiff City FC]] ''(For free as player was out of contract)''
+*{{flagicon|Northern Ireland}} [[Shaun Holmes]] to [[Finn Harps]] ''(For free as player was out of contract)''
+*{{flagicon|Northern Ireland}} [[Mark McChrystal]] to [[Partick Thistle]] ''(For free as player was out of contract)''
+*{{flagicon|Ireland}} [[Stephen O'Flynn]] to [[Galway United]] ''(For free as player was out of contract)''
+|valign="top" width="20%"|
+'''In:'''
+*{{flagicon|England}} [[Dave Rogers]] from [[Shelbourne FC]] ''(For free as player was out of contract)''
+|}
+
+===Reserve and youth squads===
+Derry City currently has an academy team as well as an under-21 reserve team who play in the [[Under 21 Football League of Ireland|Under-21 Football League of Ireland]]. These teams have also competed in international youth tournaments, including the [[Foyle Cup]] and the [[The Umbro Galway Cup|Umbro Galway Cup]]. In 2006 the academy team was victorious in the Umbro Galway Cup. Although many youth players come from the local youth league, the [[Derry and District League]], Derry have branched out their scouting network and have since promoted players from all around [[Ireland]].
+
+Derry's under-21 side finished 3rd in the 2006 [[Under 21 Football League of Ireland|Dr. Tony O'Neill League Northern Section]] and therefore qualified for the knock-out stages, contested between qualifiers from the four provincial sections. In the second round, the side met [[Shelbourne F.C.|Shelbourne F.C.'s under-21 team]] and knocked them out, winning 3-1. However, the side were then beaten in the quarter-final by the under-21 team of [[Sligo Rovers F.C.]]
+
+The reserve and youth squads are coached by [[Peter Moran]] and George Harkin and include promising talent such as:
+{{Football squad start}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Eugene Ferry]]|pos=GK}}
+{{Football squad player|no=''n/a''|nat=Ireland|name=[[Marc Mukendi]] ''(on loan to [[Finn Harps]])''|pos=DF}}
+{{Football squad player|no=''n/a''|nat=Ireland|name=[[Conor Griffiths]] ''(on loan to [[Sligo Rovers]])''|pos=DF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[John Carlin]]|pos=DF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Martin Doherty]]|pos=DF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Mark Hamilton (footballer)|Mark Hamilton]]|pos=DF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Gareth Harkin]]|pos=MF}}
+{{Football squad mid}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Paul King (footballer)|Paul King]]|pos=MF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Patrick McDonald (footballer)|Patrick McDonald]]|pos=MF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Ryan McGarvey]]|pos=MF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Mark Brolly]]|pos=MF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Davy McLaughlin]]|pos=MF}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Gerard McLaughlin]]|pos=FW}}
+{{Football squad player|no=''n/a''|nat=Northern Ireland|name=[[Seamus Browne]]|pos=FW}}
+{{Football squad end}}
+
+===Notable former players===
+{|
+|valign="top" width="20%"|
+*{{flagicon|Cameroon}} [[Romuald Andela Midoukna]]
+*{{flagicon|England}} [[Neil Bennett]]
+*{{flagicon|England}} [[Luther Blissett (footballer)|Luther Blissett]]
+*{{flagicon|Northern Ireland}} [[Gerry Bowler]]
+*{{flagicon|Ireland}} [[Kevin Brady (footballer)|Kevin Brady]]
+*{{flagicon|Northern Ireland}} [[Bobby Browne]]
+*{{flagicon|Northern Ireland}} [[David Campbell (footballer)|David Campbell]]
+*{{flagicon|Northern Ireland}} [[Johnny Campbell]]
+*{{flagicon|Northern Ireland}} [[Paul Carlyle]]
+*{{flagicon|Ireland}} [[Brian Cash]]
+*{{flagicon|South Africa}} [[Harris Chueu]]
+*{{flagicon|Northern Ireland}} [[Jon Clifford]]
+*{{flagicon|Northern Ireland}} [[Willie Clifford]]
+*{{flagicon|Ireland}} [[John Coady]]
+*{{flagicon|Northern Ireland}} [[Terry Cochrane]]
+*{{flagicon|Northern Ireland}} [[Fay Coyle]]
+*{{flagicon|Northern Ireland}} [[Liam Coyle]]
+*{{flagicon|Northern Ireland}} [[Jobby Crossan]]
+*{{flagicon|Netherlands}} [[Kwamé Cruden]]
+*{{flagicon|Northern Ireland}} [[John Cunningham (footballer)|John Cunningham]]
+*{{flagicon|Northern Ireland}} [[Paul Curran (footballer)|Paul Curran]]
+*{{flagicon|Northern Ireland}} [[Sammy Curran]]
+*{{flagicon|South Africa}} [[Owen Da Gama]]
+*{{flagicon|Republic of Ireland}} [[Tim Dalton]]
+*{{flagicon|Brazil}} [[Nelson da Silva]]
+|valign="top" width="20%"|
+*{{flagicon|Ireland}} [[Clive Delaney]]
+*{{flagicon|Scotland}} [[Jimmy Delaney]]
+*{{flagicon|Northern Ireland}} [[Declan Devine]]
+*{{flagicon|Northern Ireland}} [[Eamon Doherty]]
+*{{flagicon|Ireland}} [[Ger Doherty]]
+*{{flagicon|Northern Ireland}} [[Matt Doherty (footballer)|Matt Doherty Sr.]]
+*{{flagicon|Ireland}} [[Paul Doolin]]
+*{{flagicon|Ireland}} [[Gavin Dykes]]
+*{{flagicon|Northern Ireland}} [[Jimmy Elwood]]
+*{{flagicon|Ireland}} [[David Forde]]
+*{{flagicon|Northern Ireland}} [[Sean friars|Sean Friars]]
+*{{flagicon|Northern Ireland}} [[Jackie Fullerton]]
+*{{flagicon|Scotland}} [[Stuart Gauld]]
+*{{flagicon|Ireland}} [[Bobby Gilbert]] 
+*{{flagicon|Ireland}} [[Alan Gough]]
+*{{flagicon|Northern Ireland}} [[Terry Harkin]]
+*{{flagicon|Northern Ireland}} [[Felix Healy]]
+*{{flagicon|Ireland}} [[Paul Hegarty (Irish footballer)|Paul Hegarty]]
+*{{flagicon|Ireland}} [[Jackie Hennessy]]
+*{{flagicon|Northern Ireland}} [[Jimmy Hill (Northern Irish footballer)|Jimmy Hill]]
+*{{flagicon|Northern Ireland}} [[Shaun Holmes]]
+*{{flagicon|England}} [[Michael Holt (footballer)|Michael Holt]]
+*{{flagicon|Northern Ireland}} [[Victor Hunter]]
+*{{flagicon|Northern Ireland}} [[Bobby Irvine]]
+*{{flagicon|Uganda}} [[Vic Kasule]]
+|valign="top" width="20%"|
+*{{flagicon|Scotland}} [[Jack Keay]]
+*{{flagicon|Ireland}} [[David Kelly (footballer)|David Kelly]]
+*{{flagicon|Ireland}} [[Jimmy Kelly (Irish footballer)|Jimmy Kelly]]
+*{{flagicon|Northern Ireland}} [[Terry Kelly (footballer)|Terry Kelly]]
+*{{flagicon|Ireland}} [[Noel King]]
+*{{flagicon|Scotland}} [[Paul Kinnaird]]
+*{{flagicon|Yugoslavia}} [[Alex Krstic]]
+*{{flagicon|Ireland}} [[Noel Larkin]]
+*{{flagicon|England}} [[Glen Little]]
+*{{flagicon|Northern Ireland}} [[Eddie Mahon]]
+*{{flagicon|Scotland}} [[John Paul McBride]]
+*{{flagicon|Northern Ireland}} [[Mark McChrystal]]
+*{{flagicon|Northern Ireland}} [[Billy McCullough]]
+*{{flagicon|Northern Ireland}} [[Gerry McElhinney]]
+*{{flagicon|Scotland}} [[Scott McGarvey]]
+*{{flagicon|Northern Ireland}} [[Jimmy McGeough]]
+*{{flagicon|Northern Ireland}} [[Paul McGuinness (Northern Irish footballer)|Paul McGuinness]]
+*{{flagicon|Scotland}} [[Johnny McKenzie]]
+*{{flagicon|Northern Ireland}} [[Jim McLaughlin (football manager)|Jim McLaughlin]]
+*{{flagicon|Scotland}} [[Paul McLaughlin]]
+*{{flagicon|Scotland}} [[Archie McLeod]]
+*{{flagicon|Scotland}} [[Neil McNab]]
+*{{flagicon|Ireland}} [[Tom Mohan]]
+*{{flagicon|England}} [[Lee Molyneux (footballer)|Lee Molyneux]]
+*{{flagicon|Northern Ireland}} [[Owen Morrison]]
+|valign="top" width="20%"|
+*{{flagicon|Zaire}} [[Jose Mukendi]]
+*{{flagicon|Ireland}} [[Alan Murphy (Irish footballer)|Alan Murphy]]
+*{{flagicon|England}} [[Alex Nesovic]]
+*{{flagicon|Ireland}} [[Mick Neville]]
+*{{flagicon|Northern Ireland}} [[Tony O'Doherty]]
+*{{flagicon|Ireland}} [[Stephen O'Flynn]]
+*{{flagicon|Northern Ireland}} [[Liam O'Kane]]
+*{{flagicon|USA}} [[Russell Payne]] 
+*{{flagicon|Australia}} [[Andy Petterson]]
+*{{flagicon|Trinidad and Tobago}} [[Derek Phillips]]
+*{{flagicon|England}} [[Calvin Plummer]] 
+*{{flagicon|Northern Ireland}} [[Eamonn Quigley]]
+*{{flagicon|Northern Ireland}} [[Paul Ramsey]]
+*{{flagicon|Ireland}} [[Eddie Reynolds]]
+*{{flagicon|Scotland}} [[Paul M. Ritchie|Paul Ritchie]]
+*{{flagicon|Northern Ireland}} [[S.R. Russell]]
+*{{flagicon|Northern Ireland}} [[Ryan Semple (Northern Irish footballer)|Ryan Semple]]
+*{{flagicon|Northern Ireland}} [[Jonathan Speak]]
+*{{flagicon|USA}} [[Marc Spiers]]
+*{{flagicon|England}} [[Alan Sunderland]]
+*{{flagicon|England}} [[Dennis Tueart]]
+*{{flagicon|Scotland}} [[Gary Twigg]]
+*{{flagicon|France}} [[Pascal Vaudequin]]
+*{{flagicon|England}} [[Steve Williams (midfielder)|Steve Williams]]
+*{{flagicon|Ireland}} [[Brian Wright (footballer)|Brian Wright]]
+|}
+
+===Record appearances===
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!'''Rank'''
+!'''Player'''
+!'''Total appearances'''
+|-
+|1
+|[[Peter Hutton (footballer)|Peter Hutton]]
+|559
+|-
+|2
+|[[Paul Curran (footballer)|Paul Curran]]
+|518
+|-
+|3
+|[[Sean Hargan]]
+|395
+|-
+|4
+|[[Liam Coyle]]
+|390
+|-
+|5
+|[[Gary Beckett]]
+|384
+|}
+
+===Senior international players to have played for Derry City===
+{|
+|valign="top" width="10%"|
+{{flagicon|Northern Ireland}} '''[[Northern Ireland national football team|Northern Ireland]]/ [[Image:St Patrick's saltire.svg|20px]] [[Ireland national football team (IFA)|Ireland]]:'''
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!Name
+!Caps
+!Goals
+|-
+|[[Terry Cochrane]]
+|26
+|1
+|-
+|[[Jobby Crossan]]
+|24
+|10
+|-
+|[[Liam O'Kane]]
+|20
+|0
+|-
+|[[Bobby Irvine]] 
+|15
+|3
+|-
+|[[Paul Ramsey]]
+|14
+|0
+|-
+|[[Jimmy Kelly (Irish footballer)|Jimmy Kelly]]
+|11
+|4
+|-
+|[[David Campbell (footballer)|David Campbell]] 
+|10
+|0
+|-
+|[[Billy McCullough]]
+|10
+|0
+|-
+|[[Jimmy Hill (Northern Irish footballer)|Jimmy Hill]] 
+|7 
+|0
+|-
+|[[Bobby Browne]]
+|6
+|0
+|-
+|[[Gerry McElhinney]]
+|6
+|0
+|-
+|[[Terry Harkin]]
+|5
+|2
+|-
+|[[Sammy Curran]]
+|4
+|2
+|-
+|[[Fay Coyle]]
+|4
+|0
+|-
+|[[Felix Healy]]
+|4 
+|0
+|-
+|[[Gerry Bowler]]
+|3
+|0
+|-
+|[[S.R. Russell]]
+|3
+|0
+|-
+|[[Johnny Campbell]]
+|2
+|0
+|-
+|[[Jimmy Elwood]]
+|2
+|0
+|-
+|[[Victor Hunter]]
+|2
+|0
+|-
+|[[Liam Coyle]]
+|1 
+|0
+|-
+|[[Matt Doherty (footballer)|Matt Doherty]]
+|1
+|0
+|-
+|[[Shaun Holmes]]
+|1
+|0
+|-
+|[[Patrick McCourt]]
+|1
+|0
+|-
+|[[Tony O'Doherty]]
+|1
+|0
+|-
+|[[Jim McLaughlin (football manager)|Jim McLaughlin]]
+|?
+|?
+|}
+|valign="top" width="30%"|
+{{flagicon|England}} '''[[England national football team|England]]:'''
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!Name
+!Caps
+!Goals
+|-
+|[[Luther Blissett (footballer)|Luther Blissett]]
+|14
+|3
+|-
+|[[Dennis Tueart]]
+|6
+|2
+|-
+|[[Steve Williams (midfielder)|Steve Williams]]
+|6
+|0
+|-
+|[[Alan Sunderland]]
+|1
+|0
+|}
+{{flagicon|Republic of Ireland}} '''[[Republic of Ireland national football team|Republic of Ireland/Ireland (Irish Free State)]]:'''
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!Name
+!Caps
+!Goals
+|-
+|[[David Kelly (footballer)|David Kelly]]
+|26
+|9
+|-
+|[[Jackie Hennessy]]
+|5
+|0
+|-
+|[[Jimmy Kelly (Irish footballer)|Jimmy Kelly]]
+|4
+|0
+|-
+|[[Bobby Gilbert]]
+|1
+|0
+|}
+{{flagicon|Scotland}} '''[[Scotland national football team|Scotland]]:'''
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!Name
+!Caps
+!Goals
+|-
+|[[Jimmy Delaney]]
+|15
+|6
+|-
+|[[Johnny McKenzie (footballer)|Johnny McKenzie]]
+|9
+|0
+|}
+{{flagicon|Trinidad and Tobago}} '''[[Trinidad and Tobago national football team|Trinidad and Tobago]]:'''
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!Name
+!Caps
+!Goals
+|-
+|[[Derek Phillips]]
+|6
+|0
+|}
+{{flagicon|Zaire}} '''[[Zaire national football team|Zaire]]:'''
+{| class="wikitable" cellpadding="3" style="text-align: left;"
+|-
+!Name
+!Caps
+!Goals
+|-
+|[[Jose Mukendi]]
+|?
+|?
+|}
+|}
+
+==Managers in the League of Ireland==
+{| border=1
+|-bgcolor=#D0E7FF
+!rowspan=2|Name
+!rowspan=2|Nationality
+!rowspan=2|From
+!rowspan=2|To
+!colspan=8|Record
+|-
+!Played
+!Won
+!Drawn
+!Lost
+!Goals for
+!Goals against
+!Win percentage
+|-
+|align=left|[[Jim Crossan]]
+|{{flagicon|Northern Ireland}}
+|align=left|1985
+|align=left|1985
+||10||2||4||4||9||13||20%
+|-
+|align=left|[[Noel King]]
+|{{flagicon|Ireland}}
+|align=left|1985
+|align=left|1987
+||62||43||7||12||144||57||69%
+|-
+|align=left|[[Jim McLaughlin (football manager)|Jim McLaughlin]]
+|{{flagicon|Northern Ireland}}
+|align=left|1987
+|align=left|1991
+||177||97||41||39||347||141||55%
+|-
+|align=left|[[Roy Coyle]]
+|{{flagicon|Northern Ireland}}
+|align=left|1991
+|align=left|1993
+||?||?||?||?||?||?||?
+|-
+|align=left|[[Tony O'Doherty]]
+|{{flagicon|Northern Ireland}}
+|align=left|1993
+|align=left|1994
+||56||29||14||13||76||52||52%
+|-
+|align=left|[[Felix Healy]]
+|{{flagicon|Northern Ireland}}
+|align=left|1994
+|align=left|1998
+||171||73||53||45||262||169||43%
+|-
+|align=left|[[Kevin Mahon]]
+|{{flagicon|Ireland}}
+|align=left|1998
+|align=left|2003
+||200||82||51||67||225||213||41%
+|-
+|align=left|[[Dermot Keely]]
+|{{flagicon|Ireland}}
+|align=left|2003
+|align=left|2003
+||11||1||6||4||9||18||9%
+|-
+|align=left|[[Gavin Dykes]]
+|{{flagicon|Ireland}}
+|align=left|2003
+|align=left|2004
+||34||8||13||13||23||30||24%
+|-
+|align=left|[[Peter Hutton (footballer)|Peter Hutton]]
+|{{flagicon|Northern Ireland}}
+|align=left|2004
+|align=left|2004
+||12||6||3||3||10||10||50%
+|-
+|align=left|[[Stephen Kenny (football)|Stephen Kenny]]
+|{{flagicon|Ireland}}
+|align=left|2004
+|align=left|2006
+||112||65||29||18||170||80||58%
+|-
+|align=left|[[Pat Fenlon]]
+|{{flagicon|Ireland}}
+|align=left|2006
+|align=left|-
+||0||0||0||0||0||0||0%
+|}
+
+==Other non-playing staff==
+*'''Club President:''' [[John Hume]]<ref>"[http://www.derrycityfc.net/club/general.php Derry City Football Club - General Information]", ''CityWeb'', 2007.</ref>
+*'''Chief Executive:''' Jim Roddy<ref>"[http://www.derrycity.gov.uk/Press%20Releases/150906-dcfc.htm Vive La Derry! Mayor congratulates Derry City on excellent performance]", ''Derry City Council press release'', [[15 September]], 2006.</ref>
+*'''Board of Directors:''' [[Hugh McDaid]] ''(Chairman)'', Liam Hegarty, Eamonn Crossan, Michael Burns, Johnny Brown, Peter Leonard
+*'''Office Staff:''' Donna Holmes, Paddy Canning 
+*'''Assistant Manager:''' [[Anthony Gorman]]<ref Name=staff>"[http://news.bbc.co.uk/sport2/hi/football/irish/6221765.stm Gorman joins Fenlon backroom team]", ''BBC Sport Online'', [[31 December]], 2006. Retrieved [[1 January]] 2007.</ref>
+*'''Fitness Coach:'''  John Glynn<ref Name=staff/>
+*'''Youth Coaches:''' Peter Moran, George Harkin 
+*'''Logistics Officer:''' Gavin Doherty
+*'''Physiotherapist:''' Declan McCarron
+*'''Medical Officer:''' Joe McEvoy
+*'''Chief Scout:''' Dave Henderson<ref Name=staff/>
+*'''Kit Manager:''' Philip Johnston
+
+==Supporters==   
+[[Image:DCFCPSG.jpg|thumb|400px|Derry City's fans in the [[Parc des Princes]], [[Paris]] on [[28 September]], 2006.]]
+Derry's fans are regarded as being one of the largest, noisiest and most colourful groups following a team in the [[eircom League]].<ref>"[http://news.bbc.co.uk/sport2/hi/football/europe/4782159.stm Kenny elated after Derry triumph]", ''BBC Sport Online'', [[10 August]] 2006.</ref> <ref>"[http://youtube.com/watch?v=ekxNmenzoY4 Video recording of Derry City fans during their club's FAI Cup semi-final tie away to Sligo Rovers]", ''YouTube'', [[29 October]], 2006.</ref> Derry's average home attendance of 3,127 was the highest of any league team for the 2006 season and they are known to bring substantial numbers to away games, despite their isolation in the north-west. Furthermore, the highest attendance in the Premier Division was the last-night-of-the-season meeting between Derry City and [[Cork City FC]] at the [[Brandywell]] on Friday [[17 November]] when 6,080 watched Derry exact some measure of revenge for their defeat in the reverse of the fixture last season (which incidentally was also the highest attendance in 2005). Derry's supporters gave their team remarkable support in the club's [[UEFA Cup]] run during the 2006 season - around 3,000 travelled to [[Motherwell]] to see Derry beat [[Gretna FC]] 5-1 in [[Fir Park]], while over 2,000 made their way to [[Paris]] to see their team play [[PSG]] in the [[Parc des Princes]]. [http://www.derrycitychat.com Derry City Chat] is a supporters' discussion forum website run by fans of the club. The club itself has from time-to-time made announcements on this forum.
+
+===Supporters' clubs===
+There are a number of supporter groups following Derry City, including:    
+*'''[http://www.myspace.com/dcfc_89ers The 89ers]:'''
+The 89ers were initially an unofficial supporter club established in 2002. The group was started by a group of friends who had been attending all home and away matches on a regular basis. As the membership numbers increased and interest grew, it was decided, during the 2006 season, that the group should become an official Derry City supporters club. In its first official season the club had over 30 registered members with that number approaching 60 for the 2007 season. The vast majority of members are season ticket holders, while all are registered with Derry City. The club has adopted [[Eddie the Head]] as its mascot.
+*'''Brandywell Pride:'''
+Brandywell Pride was founded in 1997 by a group of supporters who had been travelling to Derry City's away games for a number of years. Presently, the club has around 30 core-members, who travel week-in and week-out to support Derry City, five of whom form the club's organising committee. The committee members are Gerry Houston (Chairman), Brian Martin (Vice-Chairman), Fergal Tuffy (Treasurer), Adrian McGowan and Gary Barnfield. 
+
+The group aims to assist Derry City and club officials in any way possible, from dealing with ticket allocations to providing player sponsorship. It has been in a position to buy shares in the club itself, as well contributing to several fund-raising drives by selling tickets. The Brandywell Pride Supporters Club has several main goals. They aim to: support Derry City in attempting to be the biggest club in Ireland, through fundraising and generating support on the terraces, both home and away; to provide Derry supporters with an opportunity to attend as many games as possible; to utilise drums, instruments, flags and other equipment to create as noisy and colourful an atmosphere as is possible; to attract younger members of the community to attend the [[Brandywell]] in support of their local team and experience the ups and downs of live football often denied to them due to a developed Irish tradition of supporting English or Scottish teams; and to assist Derry City in whatever way possible, including working with various other supporters clubs and voluntary organisations ensuring that the club reaches its potential. Primarily the club is about colour and noise that contribute to the friendly and enjoyable atmosphere in the Brandywell and various away grounds on match-days. 
+
+The supporters club has gone from strength to strength since its founding and has received considerable media attention, featuring on both the [[BBC]] and [[UTV]]. On [[24 August]], 2006, Kevin "Scaldy" Cairns of the club, who beats a bass drum during games, received a reception from the Mayor of Derry, [[Helen Quigley]], at the city's [[Guildhall]] for his dedication and commitment in supporting Derry City.<ref>"[http://www.derrycity.gov.uk/Press%20Releases/240806-dcfc.htm Mayor extends best wishes to Derry City FC]", ''Derry City Council press release'', [[24 August]], 2006.</ref> Tommy "Harmonica" Gallagher is also a stalwart and has been an ever-present member since the club's intiation playing songs and melodies all over Ireland, with his trademark tune being his own version of the old Irish favourite ''[[Whiskey in the Jar]]''. 
+
+The club holds monthly meetings in the Oak Grove Bar in Bishop Street, Derry. Here, the club has its own club room, fully furnished with various items of club memorabilia. The Oak Grove is a popular haunt for pre and post-match refreshments, where every kick is previewed and replayed. Brandywell Pride also holds an annual prize giving night for the Derry City players at the close of each season within the establishment. 
+*'''[http://www.cityexilessc.com City Exiles Supporters Club]:'''
+Formed following a discussion in Derry City's chatroom during a match in May 2006, the club has members in [[Austria]], [[Canada]], [[England]], the [[Isle of Man]], [[Italy]], [[Scotland]], the [[USA]] and beyond. The total membership numbers 23 and includes an honourary member, [[David Tennant]]. They presented their first 'Player of the Year' award to [[Ciaran Martyn]] in 2006.
+*'''Dublin Supporters Club'''
+*'''Post Office Supporters Club'''
+*[http://www.prideofnorthside.moonfruit.com '''The Pride of Northside Supporters Club''']
+*'''Queen's University Belfast Supporters Club:'''
+The club had run in the 1980s and 90s but was reformed in 2003 to try and help City fans based in [[Belfast]] to attend games at home and away. The club is based at the [[Queen's University, Belfast|Queen's University]] and takes advantage of the funds and facilities on offer to clubs and societies there, even though a large number of members are non-students, be they graduates of Queen's, or indeed just Derry folk based in Belfast and the surrounding area. The club tries to cater for all City fans based east of the [[River Bann|Bann]] and makes pick-ups at various points on their way to and from games.
+*'''The Tr3ble Army:'''
+The Treble Army supporters club was set up by a group of Derry City supporters in December 2005. The club currently has 24 official members. The name was suggested by a club member and is a reference to Derry's historic [[The Treble|treble-winning]] team of 1989.  The club chairperson is Sean Grant, the vice-chairperson is Conor Duddy, the club secretary is Finnuala McCartney and Nicola Moran is the club's treasurer.
+
+===Notable supporters===
+Notable fans of Derry City and famous public faces seen supporting the club have included:
+{|
+|valign="top" width="20%"|
+*[[Gerry Anderson (broadcaster)|Gerry Anderson]] - [[BBC Northern Ireland]] radio and television broadcaster
+*[[Denis Bradley]] - Former vice-chairman of the police board for the [[PSNI]] 
+*[[Michael Bradley (musician)|Michael Bradley]] - Bassist of the [[Undertones]]
+*[[Phil Coulter]] - Song-writer, performer and music producer
+*[[Billy Doherty]] - Drummer of the [[Undertones]]
+*[[Mark Durkan]] - [[SDLP]] politician and leader
+*[[John Hume]] - Former [[SDLP]] politician, leader and [[Nobel Peace Prize]] laureate
+*[[Eamon McCann]] - [[Left-wing politics|Leftist]] orator, journalist, author and political activist
+|valign="top" width="20%"|
+*[[Martin McGuinness]] - [[Sinn Féin]] politician
+*[[Eugene McMenamin]] - [[SDLP]] politician
+*[[Damian O'Neill]] - Lead-guitarist of the [[Undertones]]
+*[[John O'Neill (footballer)|John Patrick O'Neill]] - Former [[Northern Ireland national football team|Northern Ireland]] international footballer
+*[[John O'Neill (guitarist)|John O'Neill]] - Rhythm guitarist of the [[Undertones]]
+*[[Martin O'Neill]] - Football manager and former [[Northern Ireland national football team|Northern Ireland]] international footballer
+*[[Feargal Sharkey]] - Former lead-singer of the [[Undertones]]
+*[[David Tennant]] - ''[[Doctor Who]]'' actor
+|}
+
+===Songs and chants of support===
+Derry fans have formed many variations of existing popular songs in order to adapt and create songs and chants of their own. A proportion of these express the fans' undying loyalty for the team, which they swear will remain as strong as ever through thick and thin. Examples include:
+
+{{Quote_box| width=100% |align=center |quote=
+Flying high,<br /> Up in the sky,<br /> We'll keep the red flag flying high,<br /> Derry City 'til we die,<br /> We'll keep the red flag flying high.
+|source=<small>To the tune of [[O Tannenbaum]]. Fans often raise their scarves and hold them above their heads in tandem with the singing of this song, creating a visual effect.
+}}
+{{Quote_box| width=100% |align=center |quote=
+We're the City supporters,<br /> Faithful through and through,<br /> Over and over,<br /> We will follow you.
+|source= 
+}}
+
+The fans also regularly sing verses of ''[[Teenage Kicks]]'' by the Derry band, [[the Undertones]], viewing it as somewhat of a city anthem. Chants heard from the stands include the timed repetition of the phrase "''red and white army''" and the continental-like shout of "''D-C-F-C, allez, allez, allez''". The latter is a chant derived from the supporters' 2006 [[UEFA Cup]] experience in [[Paris]] and is often accompanied by a performance of the [[The "Grecque"|"Grecque"]], which is popular amongst fans of [[Paris Saint-Germain FC|PSG]] and had been enacted by them on the night. It was also imitated by Derry fans for the first time during the game along with the opposition fans.
+
+==Trivia and other records==
+*On [[24 August]], [[1929]], [[Sammy Curran]] had the honour of scoring Derry City's first senior hat-trick, as the club came back from 5-1 down against [[Portadown FC]], only to lose 6-5 to a late goal.
+
+*The club's all-time highest goal-scorer is [[Jimmy Kelly]] with 363 goals during a spell of over 20 years at the club between 1930 and the early 1951.
+
+*[[Terry Kelly (footballer)|Terry Kelly]], who captained Derry City in 1985, was the first football player in the world to captain a club he played with in two different national leagues.
+
+*Derry City's record league defeat was to [[Longford Town FC]] in January, 1986. The score was 5-1.
+
+*Derry City's record league victory was a score of 9-1 against [[Galway United]] in October, 1986.
+
+*The club's highest scorer in the [[League of Ireland]] is [[Liam Coyle]], who played for the club from 1988 until 2003. Coyle scored 112 goals in 390 competitive appearances for the club.
+
+*The ''[[Derry Journal]]'' once reported that [[Gary Linekar]] had signed for Derry. However, the date of the publication was [[01 April]], and the story was, of course, an [[April Fools]] prank.
+
+*Derry played in the first [[League of Ireland]] match ever to be shown live on television when they visited [[Tolka Park]] to play [[Shelbourne FC]] during the 1996-97 season. The game was broadcast on [[RTÉ|RTÉ's]] [[Network 2]] and finished 1-1 with [[Gary Beckett]] scoring for Derry.
+
+*Both [[Shay Given]] and [[David Ginola]] once played for a Derry City Select XI in a charity match to raise funds for [[Omagh]]'s redevelopment after the town was [[Omagh bombing|bombed]] by the IRA in 1998. Ginola is remembered for scoring a cheeky dink from a penalty which he sent straight down the middle of the goal after feigning and tricking the keeper into diving to the side. This was followed by a smug grin - not at all in the spirit of sombre commemoration of the atrocity.
+
+*In 2005, [[Kevin McHugh]] became one of just five current players to join the 38-strong group of players who have scored 100 or more [[League of Ireland]] goals in the modern era.
+
+*Derry's 5-1 away win against [[Gretna FC]] at [[Fir Park]], [[Motherwell]] in the 2006-07 [[UEFA Cup|UEFA Cup's]] Second Qualifying Round is the largest away winning margin for any [[League of Ireland]] team in European competition.
+
+*Derry played a record number of 54 games in the whole [[Football League of Ireland 2006 season|2006 season]] including all competitions. Previously, the record had been the 49 games played in all competitions during the treble-winning 1988-89 season.  
+
+*Derry's [[FAI Cup]] final game against [[St. Patrick's Athletic]] on [[03 December]], [[2006]] was the last soccer game ever to be contested at the old [[Lansdowne Road]] stadium before the commencement of planned re-development.<ref>"[http://www.ireland.com/sports/soccer/2006/1203/1164823942899.html Derry edge a thriller]", ''Paul O'Hehir, The Irish Times (Ireland.com)'', [[3 December]], 2006. Retrieved [[4 December]], 2006. </ref> Derry won the wind-swept game 4-3 after extra-time.
+
+*As of the end of the [[Football League of Ireland 2006 season|2006 season]], Derry's record number of appearances is held by [[Peter Hutton (footballer)|Peter Hutton]] - that is 559 appearances. 301 of these were made as captain - another club record.
+
+*Derry have never been relegated from any of the divisions they have played in.
+
+==Appearances in popular/general culture==
+[[Image:Myperfectcous.JPG|thumb|170px|The single cover for ''My Perfect Cousin'' by the [[Undertones]] featuring a Derry City figurine.]]
+*The cover of the [[Undertones]]' 1980 hit single, ''My Perfect Cousin'', featured a [[Subbuteo]] figure in the colours of Derry City. The song's video saw [[Feargal Sharkey]] kick and leap to head a ball while wearing the red and white jersey.<ref>"[http://derrycityfc.net/club/folklore/myperfectcousin.php The Undertones Connection]," ''[[Michael Bradley (musician)|Michael Bradley]], CityWeb'', [[07 November]], 1991.</ref> Similarly, on the cover of their second ever single, ''Get Over You'', the words "Derry City F.C." can be seen.
+*A bizarre [[own-goal]], in which the opposition goal-keeper was lobbed from outside the box by a player from his own team, scored by [[Finn Harps|Finn Harps']] Terry Leake for Derry City during a 1989-90 season [[Brandywell]]-meeting<ref>"[http://www.youtube.com/watch?v=SYhBDrPydnc&mode=related&search Video of bizarre Finn Harps own-goal]", ''YouTube'', [[15 November]], 2006.</ref> once appeared on the "What happened next?" round of the [[BBC|BBC's]] ''[[A Question of Sport]]''.
+*On [[20 April]], 2005, Derry City featured in a radio documentary ''The Blues and the Candy Stripes'' on [[RTÉ Radio 1|RTÉ Radio 1's]] ''Documentary on One''. The documentary was produced in the aftermath of the historic friendly game between Derry and [[Linfield FC|Linfield]] that took place on [[22 February]], 2005 - the first between the two teams to occur since a game on [[25 January]], 1969 during which Linfield's fans had to be evacuated from the [[Brandywell]] by police at half-time due to civil unrest and ugly scenes within the ground.<ref name=Radio>"[http://www.rte.ie/radio1/doconone/1044693.html The Blues and the Candy Stripes]", ''RTÉ.ie'', [[20 April]], 2005.</ref> The 2005 match was organised as somewhat of a security test in the run-up to the likely possibility that both teams, with socially polar fan-bases, would qualify for and be drawn against one another in a near-future [[Setanta Cup]] competition.
+*In the [[BBC]] documentary series ''[[Who Do You Think You Are?]]'' shown the night before Derry's clash with [[Paris St. Germain]] in the 2006-07 [[UEFA Cup|UEFA Cup's]] First Round, it was highlighted that [[Archie McLeod]], the grandfather of [[David Tennant]], the tenth ''[[Doctor Who]]'', was a Derry City player. Derry had supplied a lucrative signing-on fee and had inticed him over from the highlands of [[Scotland]].
+*During an [[08 January]], 2007 episode of [[RTÉ|RTÉ's]] ''[[The Panel (Ireland)|The Panel]]'', Irish comedian, [[Karl Spain]], was seen drinking from a mug displaying the crest of Derry City. Although Spain himself is not known to be a fan of Derry, one of the shows producers, Seamus Cassidy from Derry, is. During the next show one week later, fellow comedian, [[Dara O'Briain]], was also seen drinking from the mug. On [[22 January]], 2007 the mug was seen in the hands of a third panelist, Irish television and radio personality, [[Ray D'Arcy]].
+
+==Address and contact information==   
+Brandywell Stadium,  <br /> 
+Lone Moor Road,<br />   
+Derry,   <br />
+BT48 9HZ.  <br /> 
+    
+'''Telephone:''' 028 7128 1333 <br />   
+'''Fax:''' 028 7128 1334
+
+==Bibliography==
+*<div class="references-small">{{cite paper |author=[[Liam Coyle|Coyle, Liam]]|title=Born to Play|publisher=Four Courts Press Ltd|date=10/03/2002}} ISBN-10 0954241002, ISBN-13 978-0954241001</div>
+*<div class="references-small">{{cite paper |author=Curran, Frank|title=The Derry City Story|publisher=[[Donegal Democrat]] |date=1986}}</div>
+*<div class="references-small">{{cite paper |author=[[Eddie Mahon|Mahon, Eddie]]|title=Derry City|publisher=Guildhall Press |date=1998}}</div>
+*<div class="references-small">{{cite paper |author=Platt, William Henry Walker|title=A History of Derry City Football Club, 1929-72|publisher=Platt|date=09/1986}} ISBN-10 0950195324, ISBN-13 978-0950195322</div>
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+==External links==
+'''Official site:'''
+*[http://www.derrycityfc.net/ ''CityWeb'']
+'''Supporter site and discussion forum:'''
+*[http://www.derrycitychat.com/ ''Derry City Chat'']
+'''Association, news and information sites:'''
+*[http://www.fai.ie/index.php?option=com_content&task=view&id=150&Itemid=142 Derry City F.C. on ''FAI.ie'']   
+*[http://www.uefa.com/footballEurope/Club=50086/domestic.html Derry City F.C. on ''UEFA.com'']   
+*[http://www.uefa.com/magazine/news/Kind=134217728/newsId=457048.html ''UEFA.com'' article about Derry City F.C.]
+*[http://www.rte.ie/sport/2006/1129/derrycity1.html Derry City's FAI Cup history on ''RTÉ.ie''] 
+*[http://rsssf.com/tablesn/nilhist.html Historical seasonal standings of the Irish League from the ''Rec.Sport.Soccer Statistics Foundation'']
+
+{{Derry City F.C. squad}}
+{{fb start}} 
+{{UEFA Cup 2006/07}}
+{{fb end}} 
+{{FAI League}}
+[[Category:Derry]]
+[[Category:Football clubs in Derry]]
+[[Category:Northern Irish football clubs]]
+[[Category:Football (soccer) clubs established in 1928]]
+[[Category:Sport in County Londonderry]]
+[[Category:Republic of Ireland football clubs]]
+
+[[de:Derry City]]
+[[fr:Derry City FC]]
+[[it:Derry City F.C.]]
+[[nl:Derry City]]
+[[no:Derry City FC]]
+[[pl:Derry City F.C.]]
+[[sv:Derry City FC]]

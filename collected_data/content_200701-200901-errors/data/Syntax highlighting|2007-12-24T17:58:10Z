@@ -1,0 +1,78 @@
+{{selfref|For syntax highlighting of source in Wikipedia and other wikis using MediaWiki, see [[Wikipedia:Text editor support]] or the [http://www.mediawiki.org/wiki/Extension:SyntaxHighlight_GeSHi Syntax Highlight Extension].}}
+[[Image:Html-source-code3.png|frame|right|[[HTML]] syntax highlighting]]
+
+'''Syntax highlighting''' is a feature of some [[text editor]]s that displays text&mdash;especially [[source code]]&mdash;in different colors and [[typeface|font]]s according to the category of terms. This feature eases writing in a structured language such as a [[programming language]] or a [[markup language]] as both structures and [[syntax error]]s are visually distinct. 
+
+Syntax highlighting is a form of [[secondary notation]], since the highlights are not part of the text meaning, but serve to reinforce it. Some editors also integrate syntax highlighting with other features, such as [[spell checking]] or [[code folding]].
+
+==Practical considerations==
+Syntax highlighting is one strategy to improve the readability and context of the text; especially for code that spans several pages. The reader can easily ignore large sections of comments or code, depending on what one desires.
+
+Syntax highlighting also helps programmers find errors in their program. For example, most editors highlight [[string literal]]s in a different color. Consequently, spotting a missing [[String_literal#Bracketed_delimiters|delimiter]] is much easier because of the contrasting color of the text. [[Bracket#In_computing|Brace matching]] is another important feature with many popular editors. This makes it simple to see if a brace has been left out or locate the match of the brace the cursor is on by highlighting the pair in a different color.
+
+Some text editors can also export the color markup in a format that is suitable for printing or for importing into word-processing or other kinds of text-formatting software; for instance a HTML, colorized LaTeX, [[PostScript]] or [[Rich Text Format|RTF]] version of its syntax highlighting.
+
+At least one commentator has argued that syntax highlighting encourages programmers to skim through code without making an effort of understanding it, and that, for [[Typography|typographical]] reasons, highlighted code is actually less legible than plain code.<Ref>{{cite web
+ | url = http://www.linusakesson.net/programming/syntaxhighlighting/index.php
+ | title = A case against syntax highlighting
+ | author = Linus Åkesson
+ | accessdate = 2007-08-28
+ | date = 2007-08-26
+}}</Ref>
+
+==Document class==
+
+For editors that support more than one language, the user can specify the language of the text, such as [[C (programming language)|C]], [[LaTeX]], [[HTML]], or the text editor can automatically recognize it based on the file extension or by scanning contents of the file.
+
+One approach for supporting syntax highlighting for multiple languages is the use of "Document classes". Each separate language constitutes a separate "class" of document. Each "class" can be associated with a specific set of syntax coloring rules. This approach affords a certain degree of flexibility for multi-language editors, but there are some potential limitations as well.
+
+For example, sometimes a user may want to:
+
+* treat a single document as belonging to more than just one document class (for example when editing an [[HTML]] file that contains embedded [[Javascript]] code).
+* edit a language that does not belong to a recognized class (for example when editing source code for an obscure or relatively new programming language). 
+
+Some multi-language editors that use the "Document class" method sometimes provide additional features that specifically address these limitations.
+
+==Syntax elements==
+
+Most editors with syntax highlighting allow different colors and text styles to be given to dozens of different lexical sub-elements of syntax. These include keywords, comments, control-flow statements, variables, and other elements. Programmers often heavily customize their settings in an attempt to show as much useful information as possible without making the code difficult to read.
+
+==Example==
+
+Below is a [[Snippet (programming)|snippet]] of syntax highlighted [[C++]] code:
+<source lang="cpp">
+// Allocate all the windows
+for (int i = 0; i < max; i++)
+{
+    wins[i] = new Window();
+}
+</source>
+
+In this example, the editor has recognized the [[Keyword (computer programming)|keyword]]s <code>for</code>, <code>int</code>, and <code>new</code>.  It recognized the [[variable]] names <code>i</code>, <code>wins</code>, and <code>max</code> and highlighted them accordingly.  The [[comment (computer programming)|comment]] at the beginning is also highlighted in a specific manner to distinguish it from working code.
+
+==History and limitations==
+
+The Live Parsing Editor (LEXX or LPEX) was written for the computerization of the [[Oxford English Dictionary]] in 1985 and was probably the first to use color syntax highlighting.  Its ''live parsing'' capability allowed user-supplied parsers to be added to the editor, for text, programs, data file, ''etc.''  See: [http://www.research.ibm.com/journal/rd/311/ibmrd3101G.pdf LEXX &ndash; A programmable structured editor], Cowlishaw, M. F., ''IBM Journal of Research and Development'', Vol 31, No. 1, 1987, IBM Reprint order number G322-0151
+
+Since most text editors highlight syntax based on complex [[pattern matching]] [[heuristics]] rather than actually implementing a [[parsing|parser]] for each possible language, which could be prohibitively complex, the highlighting is almost never completely accurate.  Moreover, depending on the pattern matching algorithms, the highlighting "engine" can become very slow for certain types of language structures.  Some editors overcome this problem by not always parsing the whole file but rather just the visible area, sometimes scanning backwards in the text up to a limited number of lines for "syncing".
+
+See the [[Comparison of text editors#Programming features|Programming features]] section of the [[Comparison of text editors]] article for a list of some editors that have syntax highlighting.
+
+==References==
+{{reflist}}
+
+<!-- articles with PNG/SVG illustrations of text -->
+[[Category:User interface techniques]]
+[[Category:Text editor features]]
+
+[[de:Syntaxhervorhebung]]
+[[es:Coloreado de sintaxis]]
+[[fr:Coloration syntaxique]]
+[[nl:Syntaxkleuring]]
+[[ja:シンタックスハイライト]]
+[[ko:구문 강조]]
+[[pl:Podświetlanie składni]]
+[[it:Syntax highlighting]]
+[[ru:Подсветка синтаксиса]]
+[[fi:Koodin väritys]]
+[[zh:語法高亮度顯示]]

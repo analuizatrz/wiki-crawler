@@ -1,0 +1,37 @@
+[[Image:M242-2.png|thumb|250px|right|The M242 25 mm Chain gun]]
+A '''chain gun''' is a type of [[machine gun]] or [[automatic cannon]] that uses an external source of power, rather than diverting energy from the cartridge, to cycle the weapon, and does so via a continuous loop of chain similar to that used on a motor or bicycle. "Chain gun" is a registered trademark of [http://www.atk.com Alliant Techsystems Inc.]<ref>[http://assignments.uspto.gov/assignments/q?db=tm&qt=sno&reel=&frame=&sno=73027311 "Chain Gun" USPTO Registered Trademark]</ref> for a chain-powered weapon.
+
+The primary advantages of chain-driven weapons over their [[Firearm#Repeating, Semiautomatic, and Automatic Weapons|recoil-actuated counterparts]] are their reliability and controllability.  
+
+Rather than being dependent upon the inherently uncontrollable detonation of a cartridge to cycle the action a chain gun instead depends on an external [[Electric motor|motor]] to produce power.  The motor drives the chain, the chain moves in a rectangular loop via four sprockets which tension it, and one link of the chain is in turn connected to the bolt assembly; thus the bolt moves back and forth to load, fire, extract and eject  [[Cartridge (weaponry)|cartridge]]s.  As with other externally-powered guns, this provides a degree of reliability. In addition, as with all externally-controlled guns, a misfired round does not stop the weapon—it is simply ejected. 
+
+The speed of the motor also controls how fast the weapon fires, and thus provides controllability. During each full cycle of the chain link attached to the bolt assembly, two periods (passage along the "long' sides of the rectangle") control the time taken for the bolt to drive forward and chamber a round and how quickly it extracts it, whilst the other two periods—when the chain moves across the "short" sides of the rectangle, sideways relative to the axis of the barrel—determine for how long the breech remains locked (during firing) and open (allowing extraction and ventilation of fumes et cetera).
+
+Since it is the time taken for the chain to move around a complete loop of the rectangle that controls the rate of fire of the gun, chain guns can theoretically operate at an infinite number of firing rates from single shot to the maximum imposed by the pressure drop rates in the barrel after firing a cartridge, mechanical tolerances, and other lesser factors. In practice, chain guns come with two or three pre-set firing speeds. For example, the 7.62mm NATO version EX-34 was advertised to offer 570 shots per minute, and developmental work was underway for a 1000 shot per minute version.
+
+The chaingun operating principle is inherently reliable. An unclassified report on the EX-34 prepared by the Naval Surface Weapons Center in Dahlgren, Virginia, dated September 23, 1983, stated that:
+
+<blockquote>''29,721 rounds of endurance tests were fired with no parts breakage and without any gun stoppages... It is significant that during firing of 101,343 rounds not one jam or stoppage occurred due to loss of round control in the gun or feeder mechanism... [this] is in our experience very unusual in any weapon of any caliber or type.''</blockquote>
+
+==Examples==
+The most commonly produced and used chain gun is the [[M242|M242 Bushmaster]].  Versions of its 25 mm action are found on ships (the [[Mk38]]), [[Infantry fighting vehicle]]s (the [[M2 Bradley]]), and [[LAV 25|LAV-25]] around the world.  Other examples of chain guns include the [[M230|M230 30 mm Cannon]], which is standard equipment on the [[AH-64 Apache|Apache]] [[helicopter]], as well as the [[Bushmaster II|Bushmaster II 30 mm]], and the [[Bushmaster III|Bushmaster III 35/50 mm Chain gun]].
+
+A 7.62 mm NATO (.308 Winchester) caliber chaingun is used on some armored vehicles as a coaxial machine gun, because of the inherently small amount of fumes from spent propellant discharged to the inside of the vehicle. A developmental version of this gun was named EX-34. It has essentially the same operating principle as the larger caliber Bushmasters.
+
+==Chaingun differences from Gatling guns==
+It is a common misnomer to refer to [[Gatling gun]]s (rotary cannons) as chain guns; even in some video games, such as ''[[Wolfenstein 3D]]'' and ''[[Doom (video game)|Doom]]'', the player carries a [[minigun]] referred to as a chain gun. In fact, most Gatling-type guns—weapons such as the [[M61 Vulcan]], the [[M197 Gatling gun|M197]], the [[GShG-7.62]], the [[M134 minigun|M134]], and the [[XM214 minigun|XM214]]—are externally-powered but are '''not''' chain guns.
+
+They instead function by directing the power source (usually electricity) to a unit known as a rotor, which contains each of the multiple barrel-and-breech assemblies that make up the distinctive shape of a rotary gun and is free to rotate within a fixed outer sleeve. A cam projecting from each breech unit runs in a shaped, recessed track within the sleeve. To fire, power is applied to rotate the rotor which in turn causes each breech to cycle as its cam is forced to follow the recessed track. Each barrel therefore fires independently.
+This confusion could have been caused by the fact that 'Gatling' style weapons use a 'chain' of bullets instead of a traditional magazine.
+
+== References ==
+*U. S. Army Field Manual 3-22.1
+{{Reflist}}
+
+== External links ==
+*[http://tri.army.mil/LC/CS/csa/aptoc.htm U. S. Army TACOM-RI]
+
+[[Category:Machine guns]]
+[[Category:Automatic cannons]]
+
+[[ja:チェーンガン]]
