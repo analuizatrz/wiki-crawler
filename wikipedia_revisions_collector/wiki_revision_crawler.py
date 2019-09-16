@@ -129,7 +129,7 @@ def get_revisions_info(title, date_start, date_end, rvcontinue=None):
         "rvstart": date_start,
         "rvend": date_end,
         "rvdir": "older",
-        'redirects': 1
+        "redirects": 1
     }
     if rvcontinue is not None:
         params["rvcontinue"] = rvcontinue
