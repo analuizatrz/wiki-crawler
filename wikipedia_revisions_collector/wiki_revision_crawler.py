@@ -97,6 +97,13 @@ def parse_revisions_info_monthly(revisions_info_response, date_start, date_end):
     return match_dates_and_revisions(dates, revisions)
 
 
+def parse_revision_content(response):
+    page = list(response["query"]["pages"])[0]
+    revision = list(page["revisions"])[0]
+   # return (page["pageid"], page["title"], revision["user"], revision["timestamp"], revision["comment"], revision["slots"]["main"]["content"])
+    return revision["slots"]["main"]["content"]
+
+
 S = requests.Session()
 URL = "https://en.wikipedia.org/w/api.php"
 
@@ -131,6 +138,24 @@ def get_revisions_info(title, date_start, date_end, rvcontinue=None):
 
     return response.json()
 
+def get_revision_content(title, access_date):
+    params = {
+        "action": "query",
+        "prop": "revisions",
+        "titles": title,
+        "rvprop": "timestamp|user|comment|content|ids",
+        "rvslots": "main",
+        "formatversion": "2",
+        "format": "json",
+        "rvlimit": 1,
+        "rvstart": access_date,
+        "rvdir": "older",
+    }
+
+    response = S.get(url=URL, params=params)
+    
+    return response.json()
+
 
 def read_json(file_name):
     with open(file_name, 'r') as fp:
@@ -146,6 +171,9 @@ def append_file(file_name, line):
     with open(file_name, 'a') as fp:
         fp.write(f"{line}\n")
 
+def write_file(file_name, content):
+    with open(file_name, 'w') as fp:
+        fp.write(content)
 
 def create_file_if_does_not_exist(file_name):
     try:
@@ -158,7 +186,7 @@ def create_folder_if_does_not_exist(folder):
     os.makedirs(folder, exist_ok=True)
 
 
-def collect_revisions_info(title, params):
+def collect_revisions_info(title, params, folder_data):
     date_start, date_end = params.date_start, params.date_end
     response = get_revisions_info(title, date_start, date_end)
     revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, date_start, date_end)
@@ -171,8 +199,17 @@ def collect_revisions_info(title, params):
     if next_date is not None and next_date > date_end:
         log(f"ERROR:{title} não coletado até o final\n")
 
-    return json_normalize(revisions_info)
+    result = json_normalize(revisions_info)
+    result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
 
+def collect_content(title, params, folder_data):
+    data = pd.read_csv(f"{params.input_folder}/{title}")
+    revision_timestamps = set(data['revision.timestamp'].values)
+
+    for access_date in revision_timestamps:
+        response = get_revision_content(title, access_date)
+        content = parse_revision_content(response)
+        write_file(f"{folder_data}/{title}|{access_date}",content)
 
 def collect_all(titles, collect_callback, collect_callback_params, folder_to_save):
     file_collected = f"{folder_to_save}/collected.json"
@@ -199,8 +236,9 @@ def collect_all(titles, collect_callback, collect_callback_params, folder_to_sav
         objTime.log_delta(f"Remaining: {len(remaning_to_collect)+1} collecting now: '{title}'")
 
         try:
-            result = collect_callback(title, collect_callback_params)
-            result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
+            collect_callback(title, collect_callback_params, folder_data)
+            # TODO: refatorar isso
+            #result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
             status["collected_pages"].append(title)
             write_json(file_collected, status)
         except:
@@ -209,7 +247,6 @@ def collect_all(titles, collect_callback, collect_callback_params, folder_to_sav
             time.sleep(2)
         time.sleep(1)
     log(f"Tempo total : {objTime.total_time}")
-
 
 def run_collect_all_revision_info_2009_2007():
     params = Params()
@@ -252,18 +289,11 @@ def run_collect_all_content_2009_2007():
     input_folder = f"{base_folder}/collected_data/revision_info_200701-200901/data"
     create_folder_if_does_not_exist(folder_to_save)
 
-    for filename in os.listdir(input_folder):
-        print(filename)
-        if filename.endswith(".txt"):
-            f = open(filename)
-            lines = f.read()
-            print(lines[10])
-            continue
-        else:
-            continue
+    params.input_folder = input_folder
+    titles = os.listdir(input_folder)
     # titles = open(input_file, "r").read().split('\n')[:-1]
 
-    # collect_all(titles, collect_revisions_info, date_start, date_end, folder_to_save)
+    collect_all(titles, collect_content, params, folder_to_save)
 
 
 def run_test():
@@ -274,12 +304,11 @@ def run_test():
 
     collect_revisions_info(title, params)
 
-
 if __name__ == "__main__":
     # run_collect_all_revision_info_2009_2007_errors()
     # run_test()
-    run_collect_all_revision_info_2009_2007()
-    # run_collect_all_content_2009_2007()
+   # run_collect_all_revision_info_2009_2007()
+     run_collect_all_content_2009_2007()
     # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
     # titles = open(error_file, "r").read().split('\n')[:-1]
     # print(len(titles))
