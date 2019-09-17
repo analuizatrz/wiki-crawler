@@ -28,10 +28,11 @@ def run_stats(input_folder, df):
 def calc_stats(df):
     return pd.DataFrame(
         [["média", df["distinct_revisions"].mean()],
-        ["min", df["distinct_revisions"].min()],
-        ["max", df["distinct_revisions"].max()],
-        ["std", df["distinct_revisions"].std()]], columns=["métrica", "valor"]
+         ["min", df["distinct_revisions"].min()],
+         ["max", df["distinct_revisions"].max()],
+         ["std", df["distinct_revisions"].std()]], columns=["métrica", "valor"]
     )
+
 
 input_file = "stats2.csv"
 df = pd.read_csv(input_file)
