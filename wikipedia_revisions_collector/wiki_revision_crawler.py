@@ -200,6 +200,10 @@ def collect_revisions_info(title, params, folder_data):
         log(f"ERROR:{title} não coletado até o final\n")
 
     result = json_normalize(revisions_info)
+    
+    result.insert(0, 'title', title)
+    result.insert(0, 'pageid', list(response["query"]["pages"])[0])
+
     result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
 
 def collect_content(title, params, folder_data):
