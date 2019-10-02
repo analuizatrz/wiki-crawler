@@ -211,10 +211,10 @@ def collect_content(title, params, folder_data):
         content = parse_revision_content(response)
         write_file(f"{folder_data}/{title}|{access_date}",content)
 
-def collect_all(titles, collect_callback, collect_callback_params, folder_to_save):
-    file_collected = f"{folder_to_save}/collected.json"
-    file_error = f"{folder_to_save}/errors.csv"
-    folder_data = f"{folder_to_save}/data"
+def collect_all(titles, collect_callback, collect_callback_params, output_folder):
+    file_collected = f"{output_folder}/collected.json"
+    file_error = f"{output_folder}/errors.csv"
+    folder_data = f"{output_folder}/data"
 
     status = {}
     try:
@@ -248,67 +248,68 @@ def collect_all(titles, collect_callback, collect_callback_params, folder_to_sav
         time.sleep(1)
     log(f"Tempo total : {objTime.total_time}")
 
-def run_collect_all_revision_info_2009_2007():
+def run_collect_all_revision_info_2009_2007(base_folder):
     params = Params()
     params.date_start = "2009-01-03T00:00:00Z"
     params.date_end = "2007-01-03T00:00:00Z"
 
-    base_folder = "/home/ana/Documents/tcc-web-crawler"
-    folder_to_save = f"{base_folder}/collected_data/revision_info_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}"
-    input_file = f"{base_folder}/wikipedia_dataset_hasan/wikipedia.csv"
+    output_folder = f"{base_folder}/data/revision_info_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}"
+    input_file = f"{base_folder}/wikipedia_dataset_hasan/wikipedia_reduced.csv"
 
-    create_folder_if_does_not_exist(folder_to_save)
+    create_folder_if_does_not_exist(output_folder)
 
     dataset = pd.read_csv(input_file)
     titles = list(pd.DataFrame(dataset, columns=['page_title'])['page_title'].values)
 
-    collect_all(titles, collect_revisions_info, params, folder_to_save)
+    collect_all(titles, collect_revisions_info, params, output_folder)
 
 
-def run_collect_all_revision_info_2009_2007_errors():
+def run_collect_all_revision_info_2009_2007_errors(base_folder):
     params = Params()
     params.date_start = "2009-01-03T00:00:00Z"
     params.date_end = "2007-01-03T00:00:00Z"
 
-    base_folder = "/home/ana/Documents/tcc-web-crawler"
-    folder_to_save = f"{base_folder}/collected_data/revision_info_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}-errors"
-    input_file = f"{base_folder}/collected_data/revision_info_200701-200901/errors.csv"
-    create_folder_if_does_not_exist(folder_to_save)
+    output_folder = f"{base_folder}/data/revision_info_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}-errors"
+    input_file = f"{base_folder}/data/revision_info_200701-200901/errors.csv"
+    create_folder_if_does_not_exist(output_folder)
     titles = open(input_file, "r").read().split('\n')[:-1]
 
-    collect_all(titles, collect_revisions_info, params, folder_to_save)
+    collect_all(titles, collect_revisions_info, params, output_folder)
 
 
-def run_collect_all_content_2009_2007():
+def run_collect_all_content_2009_2007(base_folder):
     params = Params()
     params.date_start = "2009-01-03T00:00:00Z"
     params.date_end = "2007-01-03T00:00:00Z"
 
-    base_folder = "/home/ana/Documents/tcc-web-crawler"
-    folder_to_save = f"{base_folder}/collected_data/content_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}-errors"
-    input_folder = f"{base_folder}/collected_data/revision_info_200701-200901/data"
-    create_folder_if_does_not_exist(folder_to_save)
+    output_folder = f"{base_folder}/data/content_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}-errors"
+    input_folder = f"{base_folder}/data/revision_info_200701-200901/data"
+    create_folder_if_does_not_exist(output_folder)
 
     params.input_folder = input_folder
     titles = os.listdir(input_folder)
     # titles = open(input_file, "r").read().split('\n')[:-1]
 
-    collect_all(titles, collect_content, params, folder_to_save)
+    collect_all(titles, collect_content, params, output_folder)
 
 
-def run_test():
+def run_test(base_folder):
     title = "Dypsis onilahensis"
     params = Params()
     params.date_start = "2009-01-03T00:00:00Z"
     params.date_end = "2007-01-03T00:00:00Z"
 
-    collect_revisions_info(title, params)
+    collect_revisions_info(title, params, f"{base_folder}/test/"), 
 
 if __name__ == "__main__":
-    # run_collect_all_revision_info_2009_2007_errors()
-    # run_test()
-   # run_collect_all_revision_info_2009_2007()
-     run_collect_all_content_2009_2007()
-    # error_file = "/home/ana/Documents/tcc-web-crawler/collected_data/revision_info_2007-2009/errors.csv"
+    base_folder = "/home/ana/Documents/tcc-web-crawler"
+    
+    run_collect_all_revision_info_2009_2007(base_folder)
+    #run_collect_all_content_2009_2007(base_folder)
+
+    #run_collect_all_revision_info_2009_2007_errors(base_folder)
+    #run_test(base_folder)
+    
+    # error_file = "/home/ana/Documents/tcc-web-crawler/data/revision_info_2007-2009/errors.csv"
     # titles = open(error_file, "r").read().split('\n')[:-1]
     # print(len(titles))
