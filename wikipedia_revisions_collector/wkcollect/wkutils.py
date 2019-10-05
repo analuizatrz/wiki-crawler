@@ -1,11 +1,43 @@
 from pandas import date_range
 
+
+def date_range_monthly(start, end):
+    """ Creates a list of dates between start and end, monthly, ordered descending.
+    Start must be older than end, otherwise returns empty list.
+
+    Parameters:
+        start (str): start date in the format ISO 8601: 2001-01-15T14:56:00Z
+        end (str): end date in the format ISO 8601: 2001-01-15T14:56:00Z
+
+    Returns:
+        result (list): list of dates in the format ISO 8601: 2001-01-15T14:56:00Z
+    """
+    return date_range(start, end, freq='MS').strftime("%Y-%m-%dT%H:%M:%SZ").tolist()[::-1]
+
+
+def build_revision(date, revision):
+    """ Creates dictionary with the values date and revision
+
+    Parameters:
+        date (any): date
+        revision (any): revision
+
+    Returns:
+        result (dict): dictionary with atributtes date and revision
+    """
+    result = {
+        "access": date,
+        "revision": revision
+    }
+    return result
+
+
 def match_dates_and_revisions(dates, revisions):
     """ For each date finds the max possible revision less or equal then the date.
         Assumes that dates and revisions are ordered descending
 
     Parameters:
-        dates (str): dates
+        dates (str): dates in the format ISO 8601: 2001-01-15T14:56:00Z
         revisions (object): which contain dates 
 
     Returns:
@@ -28,12 +60,13 @@ def match_dates_and_revisions(dates, revisions):
     return result, is_complete, None if is_complete else dates[date_idx]
 
 
-def build_revision(date, revision):
-    result = {
-        "access": date,
-        "revision": revision
-    }
-    return result
+if __name__ == "__main__":
+    dates = date_range_monthly(
+        start="2007-01-03T00:00:00Z",
+        end="2009-01-03T00:00:00Z"
+    )
+    print(dates)
 
-def date_range_monthly(date_start, date_end):
-    return date_range(date_start, date_end, freq='MS').strftime("%Y-%m-%dT%H:%M:%SZ").tolist()[::-1]
+    revision = build_revision("2007-01-03T00:00:00Z", "revision")
+    print(revision)
+

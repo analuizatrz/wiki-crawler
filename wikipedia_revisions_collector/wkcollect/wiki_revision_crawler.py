@@ -3,7 +3,7 @@ import time
 from pandas.io.json import json_normalize
 from datetime import datetime
 from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content
-from wikiutils import date_range, date_range_monthly, match_dates_and_revisions
+from wkutils import date_range, date_range_monthly, match_dates_and_revisions
 from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, read_json, write_json, append_file, write_file
 import csv
 ##
