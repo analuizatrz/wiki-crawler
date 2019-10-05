@@ -38,10 +38,10 @@ python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
 - [x] coletar os arquivos com erro no redirect
 - [x] incorporar o redirect na coleta automaticamente
 - [x] coletar os conteúdos
-- [ ] refactorar
-- [ ] estruturar informações
+- [x] refactorar
 - [ ] estudar a extração de features
 - [ ] criar o extrator de features 
 - [ ] extrair features
-- [ ] fazer uma poc do modelo
+- [ ] estruturar informações
+- [x] fazer uma poc do modelo
 - [ ] treinar o modelo
