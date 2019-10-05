@@ -1,13 +1,14 @@
 import pandas as pd
-import json
 import time
 from pandas.io.json import json_normalize
 from datetime import datetime
-import os
-import csv
 from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content
 from wikiutils import date_range, date_range_monthly, match_dates_and_revisions
-
+from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, read_json, write_json, append_file, write_file
+import csv
+##
+import os
+##
 file_log = "log.csv"
 
 
@@ -62,34 +63,6 @@ def parse_revision_content(response):
     revision = list(page["revisions"])[0]
    # return (page["pageid"], page["title"], revision["user"], revision["timestamp"], revision["comment"], revision["slots"]["main"]["content"])
     return revision["slots"]["main"]["content"]
-
-def read_json(file_name):
-    with open(file_name, 'r') as fp:
-        return json.load(fp)
-
-
-def write_json(file_name, dict):
-    with open(file_name, 'w') as fp:
-        json.dump(dict, fp)
-
-
-def append_file(file_name, line):
-    with open(file_name, 'a') as fp:
-        fp.write(f"{line}\n")
-
-def write_file(file_name, content):
-    with open(file_name, 'w') as fp:
-        fp.write(content)
-
-def create_file_if_does_not_exist(file_name):
-    try:
-        open(file_name, 'r')
-    except IOError:
-        open(file_name, 'w')
-
-
-def create_folder_if_does_not_exist(folder):
-    os.makedirs(folder, exist_ok=True)
 
 def collect_titles(ids, folder_data, articles_per_request=50):
     remaining = ids
