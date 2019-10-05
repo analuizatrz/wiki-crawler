@@ -156,6 +156,16 @@ def get_revision_content(title, access_date):
     
     return response.json()
 
+def get_titles_from_id(ids):
+    params = {
+        "action": "query",
+        "format": "json",
+        "pageids": "|".join(ids)
+    }
+
+    response = S.get(url=URL, params=params)
+    
+    return response.json()
 
 def read_json(file_name):
     with open(file_name, 'r') as fp:
@@ -185,6 +195,19 @@ def create_file_if_does_not_exist(file_name):
 def create_folder_if_does_not_exist(folder):
     os.makedirs(folder, exist_ok=True)
 
+def collect_titles(ids, folder_data, articles_per_request=50):
+    remaining = ids
+
+    while(len(remaining) > 0):
+        to_request = remaining[:articles_per_request]
+        remaining = remaining[articles_per_request:]
+        response = get_titles_from_id(to_request)
+        pages = list(response["query"]["pages"].values())
+        for page in pages:
+            if "missing" in page:
+                append_file(f"{folder_data}/errors.csv", page["pageid"])
+            else:
+                append_file(f"{folder_data}/titles.csv",f'{page["pageid"]}, {page["title"]}')
 
 def collect_revisions_info(title, params, folder_data):
     date_start, date_end = params.date_start, params.date_end
@@ -292,9 +315,19 @@ def run_collect_all_content_2009_2007(base_folder):
 
     params.input_folder = input_folder
     titles = os.listdir(input_folder)
-    # titles = open(input_file, "r").read().split('\n')[:-1]
 
     collect_all(titles, collect_content, params, output_folder)
+
+def collect_all_titles(base_folder):
+    params = Params()
+
+    output_folder = f"{base_folder}/data/titles"
+    input_file = f"{base_folder}/ids.csv"
+    create_folder_if_does_not_exist(output_folder)
+
+    ids = open(input_file, "r").read().split('\n')
+
+    collect_titles(ids, output_folder)
 
 
 def run_test(base_folder):
@@ -307,9 +340,9 @@ def run_test(base_folder):
 
 if __name__ == "__main__":
     base_folder = "/home/ana/Documents/tcc-web-crawler"
-    
-    run_collect_all_revision_info_2009_2007(base_folder)
-    #run_collect_all_content_2009_2007(base_folder)
+    collect_all_titles(base_folder)
+    # run_collect_all_revision_info_2009_2007(base_folder)
+    # run_collect_all_content_2009_2007(base_folder)
 
     #run_collect_all_revision_info_2009_2007_errors(base_folder)
     #run_test(base_folder)
