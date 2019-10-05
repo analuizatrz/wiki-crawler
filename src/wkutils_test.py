@@ -6,8 +6,8 @@ class TestWikiParser(unittest.TestCase):
 
     def call_match_dates_and_revisions(self, dates, revisions):
         r = [{"timestamp": x} for x in revisions]
-        result, is_complete, a = match_dates_and_revisions(dates, r)
-        return result
+        result = match_dates_and_revisions(dates, r)
+        return result[0]
 
     def test_match_dates_revisions(self):
         """

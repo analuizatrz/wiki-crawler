@@ -1,4 +1,5 @@
 from wkutils import match_dates_and_revisions, date_range_monthly
+import re
 
 def parse_revisions_info_monthly(response, date_start, date_end):
     """Parses revisions info response returning a discretized list of revisions as if the article were accessed and collected monthly.
@@ -34,3 +35,8 @@ def parse_revision_content(response):
     revision = list(page["revisions"])[0]
    # return (page["pageid"], page["title"], revision["user"], revision["timestamp"], revision["comment"], revision["slots"]["main"]["content"])
     return revision["slots"]["main"]["content"]
+
+def parse_revision_category_content(text):
+    result = re.findall("(class=(.+?)\||class=(.+?)}|class=(.+?)\n)", text)
+    print(result)
+    return result[0][1] if result[0][0][-1:] == '|' else result[0][2] if result[0][0][-1:] == '}' else result[0][3]
