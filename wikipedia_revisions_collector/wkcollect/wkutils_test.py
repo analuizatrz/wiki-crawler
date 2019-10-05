@@ -1,5 +1,5 @@
 import unittest
-from wiki_revision_crawler import match_dates_and_revisions
+from wkutils import match_dates_and_revisions
 
 
 class TestWikiParser(unittest.TestCase):

@@ -1,5 +1,5 @@
 from pandas import date_range
-
+from datetime import datetime
 
 def date_range_monthly(start, end):
     """ Creates a list of dates between start and end, monthly, ordered descending.
@@ -59,6 +59,23 @@ def match_dates_and_revisions(dates, revisions):
     is_complete = date_idx == len(dates)
     return result, is_complete, None if is_complete else dates[date_idx]
 
+class Timer(object):
+    def __init__(self, log):
+        self.time = datetime.now()
+        self.total_time = 0
+        self.delta_count = 0
+        self.log = log
+
+    def finish_time(self):
+        delta = datetime.now()-self.time
+        self.time = datetime.now()
+        return delta
+
+    def log_delta(self, task):
+        delta = self.finish_time()
+        self.total_time += delta.total_seconds()
+        self.delta_count += 1
+        self.log(task+" done in "+str(delta.total_seconds())+" average: "+str(self.total_time/self.delta_count))
 
 if __name__ == "__main__":
     dates = date_range_monthly(
