@@ -1,6 +1,6 @@
 from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content
 from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, read_json, write_json, append_file, write_file
-from wkparse import parse_revision_content, parse_revisions_info_monthly
+from wkparse import parse_revision_content, parse_revisions_info_monthly, parse_revision_category_content
 from wkutils import Timer
 import time
 import csv
@@ -89,3 +89,19 @@ def collect_content(title, params, folder_data, log):
         response = get_revision_content(title, access_date)
         content = parse_revision_content(response)
         write_file(f"{folder_data}/{title}|{access_date}", content)
+
+
+def collect_category(title, params, folder_data, log):
+    df = pd.read_csv(f"{params.input_folder}/{title}")
+
+    for index, row in df.iterrows():
+        date = row["revision.timestamp"]
+       # print(row['c1'], row['c2'])
+        response = get_revision_content(f"Talk:{title}", date)
+        content = parse_revision_content(response)
+        raw, category = parse_revision_category_content(content)
+        log(f"{date} {category} {raw}")
+        df.at[index, 'category'] = category
+        df.at[index, 'raw_category'] = str(raw)
+    
+    df.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)

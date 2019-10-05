@@ -38,5 +38,5 @@ def parse_revision_content(response):
 
 def parse_revision_category_content(text):
     result = re.findall("(class=(.+?)\||class=(.+?)}|class=(.+?)\n)", text)
-    print(result)
-    return result[0][1] if result[0][0][-1:] == '|' else result[0][2] if result[0][0][-1:] == '}' else result[0][3]
+    category = result[0][1] if result[0][0][-1:] == '|' else result[0][2] if result[0][0][-1:] == '}' else result[0][3]
+    return result, category.strip()

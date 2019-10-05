@@ -1,6 +1,6 @@
 import pandas as pd
 from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, append_file
-from wkcollect import collect_all, collect_content, collect_revisions_info, collect_titles
+from wkcollect import collect_all, collect_content, collect_revisions_info, collect_titles, collect_category
 import os
 
 def create_logger(folder="."):
@@ -30,6 +30,12 @@ def run_collect_all_content(input_folder, output_folder, params):
     titles = os.listdir(input_folder)
     collect_all(titles, collect_content, params, output_folder, create_logger(output_folder))
 
+def run_collect_all_category(input_folder, output_folder, params):
+    create_folder_if_does_not_exist(output_folder)
+    params.input_folder = input_folder
+    titles = os.listdir(input_folder)
+    collect_all(titles, collect_category, params, output_folder, create_logger(output_folder))
+
 def collect_all_titles(input_file, output_folder):
     create_folder_if_does_not_exist(output_folder)
     ids = open(input_file, "r").read().split('\n')
@@ -37,8 +43,8 @@ def collect_all_titles(input_file, output_folder):
 
 if __name__ == "__main__":
     date_start = "2009-01-03T00:00:00Z"
-    date_end = "2007-01-03T00:00:00Z"
-    base_folder = "/home/ana/Documents/tcc-collected-data"
+    date_end = "2008-09-03T00:00:00Z"
+    base_folder = "/home/ana/Documents/tcc-web-crawler"
 
     params = Params()
     params.date_start = date_start
@@ -49,17 +55,25 @@ if __name__ == "__main__":
     # input_file = f"{base_folder}/ids.csv"
     # collect_all_titles(base_folder)
 
-    # input_file_info = f"{base_folder}/wikipedia_dataset_hasan/wikipedia_reduced.csv"
-    # output_folder_info = f"{base_folder}/data/revision_info_{date_range}"
-    # run_collect_all_revision_info(input_file_info, output_folder_info, params)
-
-    input_file_info = "~/Documents/data/titles/titles.csv"
-    output_folder_info = f"{base_folder}/data/revision_info_byid_{date_range}"
+    #############collect revision_info
+    input_file_info = f"{base_folder}/wikipedia_dataset_hasan/wikipedia_reduced-.csv"
+    output_folder_info = f"{base_folder}/data/revision_info_{date_range}"
     run_collect_all_revision_info(input_file_info, output_folder_info, params)
 
-    output_folder_content = f"{base_folder}/data/content_{params.date_end[0:4]}{params.date_end[5:7]}-{params.date_start[0:4]}{params.date_start[5:7]}-errors"
+    ############collect revision_info_by_id
+    # input_file_info = "~/Documents/data/titles/titles.csv"
+    # output_folder_info = f"{base_folder}/data/revision_info_byid_{date_range}"
+    # run_collect_all_revision_info(input_file_info, output_folder_info, params)
+
+    ############collect_content
+    output_folder_content = f"{base_folder}/data/content_{date_range}"
     run_collect_all_content(f"{output_folder_info}/data", output_folder_content, params)
 
+    ###########collect_category
+    output_folder_category = f"{base_folder}/data/info_and_category_{date_range}"
+    run_collect_all_category(f"{output_folder_info}/data", output_folder_category, params)
+
+    
     #output_folder = f"{base_folder}/data/content_{date_range}-errors"
     #input_folder = f"{base_folder}/data/revision_info_{date_range}/data"
 
