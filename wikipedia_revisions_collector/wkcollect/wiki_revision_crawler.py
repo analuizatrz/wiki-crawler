@@ -6,6 +6,7 @@ from datetime import datetime
 import os
 import csv
 from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content
+from wikiutils import date_range, date_range_monthly, match_dates_and_revisions
 
 file_log = "log.csv"
 
@@ -37,47 +38,6 @@ class CheckTime(object):
         log(task+" done in "+str(delta.total_seconds())+" average: "+str(self.total_time/self.delta_count))
 
 # TODO unit test this method
-
-
-def date_range_monthly(date_start, date_end):
-    return pd.date_range(date_start, date_end, freq='MS').strftime("%Y-%m-%dT%H:%M:%SZ").tolist()[::-1]
-
-
-def match_dates_and_revisions(dates, revisions):
-    """ For each date finds the max possible revision less or equal then the date.
-        Assumes that dates and revisions are ordered descending
-
-    Parameters:
-        dates (str): dates
-        revisions (object): which contain dates 
-
-    Returns:
-        result (list): list of tuples
-        is_complete (bool): all dates have been comtemplated
-        next_date: first date which was not contemplated
-    """
-    date_idx = 0
-    revision_idx = 0
-    result = []
-
-    while date_idx < len(dates) and revision_idx < len(revisions):
-        if(revisions[revision_idx]["timestamp"] <= dates[date_idx]):
-            result.append(build_revision(dates[date_idx], revisions[revision_idx]))
-            date_idx += 1
-        else:
-            revision_idx += 1
-
-    is_complete = date_idx == len(dates)
-    return result, is_complete, None if is_complete else dates[date_idx]
-
-
-def build_revision(date, revision):
-    result = {
-        "access": date,
-        "revision": revision
-    }
-    return result
-
 
 def parse_revisions_info_monthly(revisions_info_response, date_start, date_end):
     """Parses revisions info response returning a discretized list of revisions as if the article were accessed and collected monthly.
@@ -273,12 +233,9 @@ def run_test(base_folder):
     collect_revisions_info(title, params, f"{base_folder}/test/"), 
 
 if __name__ == "__main__":
-    get_titles_from_id_result = get_titles_from_id(ids=["45492", "58791", "171020"])
-    print(f"get_titles_from_id: \n{get_titles_from_id_result}")
-
-    # base_folder = "/home/ana/Documents/tcc-web-crawler"
+    base_folder = "/home/ana/Documents/tcc-web-crawler"
     # collect_all_titles(base_folder)
-    # run_collect_all_revision_info_2009_2007(base_folder)
+    run_collect_all_revision_info_2009_2007(base_folder)
     # run_collect_all_content_2009_2007(base_folder)
 
     #run_collect_all_revision_info_2009_2007_errors(base_folder)
