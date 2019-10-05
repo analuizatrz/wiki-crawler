@@ -6,7 +6,7 @@ from wkcollect import collect_all, collect_content, collect_revisions_info, coll
 import os
 ##
 
-def create_logger(folder):
+def create_logger(folder="."):
     filename = f"{folder}/log.csv"
     create_file_if_does_not_exist(filename)
     def function(str):
@@ -68,15 +68,6 @@ def collect_all_titles(base_folder):
     ids = open(input_file, "r").read().split('\n')
     collect_titles(ids, output_folder, create_logger(output_folder))
 
-
-def run_test(base_folder):
-    title = "Dypsis onilahensis"
-    params = Params()
-    params.date_start = "2009-01-03T00:00:00Z"
-    params.date_end = "2007-01-03T00:00:00Z"
-
-    collect_revisions_info(title, params, f"{base_folder}/test/", create_logger("log.csv")), 
-
 if __name__ == "__main__":
     base_folder = "/home/ana/Documents/tcc-web-crawler"
     # collect_all_titles(base_folder)
@@ -84,7 +75,6 @@ if __name__ == "__main__":
     run_collect_all_content_2009_2007(base_folder)
 
     #run_collect_all_revision_info_2009_2007_errors(base_folder)
-    #run_test(base_folder)
     
     # error_file = "/home/ana/Documents/tcc-web-crawler/data/revision_info_2007-2009/errors.csv"
     # titles = open(error_file, "r").read().split('\n')[:-1]

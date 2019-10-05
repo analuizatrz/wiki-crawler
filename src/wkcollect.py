@@ -71,7 +71,7 @@ def collect_revisions_info(title, params, folder_data, log):
         revisions_info = revisions_info + new_revisions_info
 
     if next_date is not None and next_date > date_end:
-        params.log(f"ERROR:{title} não coletado até o final\n")
+        log(f"ERROR:{title} não coletado até o final\n")
 
     result = json_normalize(revisions_info)
 
