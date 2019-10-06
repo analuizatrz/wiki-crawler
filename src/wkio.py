@@ -31,3 +31,7 @@ def append_file(file_name, line):
 def write_file(file_name, content):
     with open(file_name, 'w') as fp:
         fp.write(content)
+
+
+def save_dataframe(df, filename):
+    df.to_csv(f"{filename}.csv", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)

@@ -1,5 +1,5 @@
 from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content, get_page_links
-from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, read_json, write_json, append_file, write_file
+from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, read_json, write_json, append_file, write_file, save_dataframe
 from wkparse import parse_revision_content, parse_revisions_info_monthly, parse_revision_category_content, parse_page_links
 from wkutils import Timer
 import time
@@ -107,14 +107,14 @@ def collect_category(title, params, folder_data, log):
             df.at[index, "raw_category"] = str(raw)
         except Exception as e:
             log(f"ERRO: categoria de '{title}' {date} {category} {str(raw)}: {str(e)}")
+    save_dataframe(df, f"{folder_data}/{title}")
 
-    df.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
-
-def collect_page_links(title):   
+def collect_page_links(title, folder_data):   
     response = get_page_links(title)
     links = parse_page_links(response)
 
     while "continue" in response:
         response = get_page_links(title, response["continue"]["plcontinue"])
         new_links = parse_page_links(response)
-        links = links + new_links
+        links += new_links
+    save_dataframe(pd.DataFrame(links), f"{folder_data}/{title}")
