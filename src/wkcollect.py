@@ -94,14 +94,19 @@ def collect_content(title, params, folder_data, log):
 def collect_category(title, params, folder_data, log):
     df = pd.read_csv(f"{params.input_folder}/{title}")
 
+   # collected = pd.read_csv(f"{folder_data}/{title}")
+
     for index, row in df.iterrows():
         date = row["revision.timestamp"]
        # print(row['c1'], row['c2'])
         response = get_revision_content(f"Talk:{title}", date)
-        content = parse_revision_content(response)
-        raw, category = parse_revision_category_content(content)
-        log(f"{date} {category} {raw}")
-        df.at[index, 'category'] = category
-        df.at[index, 'raw_category'] = str(raw)
-    
+        try:
+            content = parse_revision_content(response)
+            raw, category = parse_revision_category_content(content)
+            log(f"{date} {category} {raw}")
+            df.at[index, "category"] = category
+            df.at[index, "raw_category"] = str(raw)
+        except Exception as e:
+            log(f"ERRO: categoria de '{title}' {date} {category} {str(raw)}: {str(e)}")
+
     df.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
