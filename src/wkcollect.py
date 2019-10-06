@@ -1,6 +1,6 @@
-from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content
+from wkrequest import get_revisions_info, get_titles_from_id, get_revision_content, get_page_links
 from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, read_json, write_json, append_file, write_file
-from wkparse import parse_revision_content, parse_revisions_info_monthly, parse_revision_category_content
+from wkparse import parse_revision_content, parse_revisions_info_monthly, parse_revision_category_content, parse_page_links
 from wkutils import Timer
 import time
 import csv
@@ -98,7 +98,6 @@ def collect_category(title, params, folder_data, log):
 
     for index, row in df.iterrows():
         date = row["revision.timestamp"]
-       # print(row['c1'], row['c2'])
         response = get_revision_content(f"Talk:{title}", date)
         try:
             content = parse_revision_content(response)
@@ -110,3 +109,12 @@ def collect_category(title, params, folder_data, log):
             log(f"ERRO: categoria de '{title}' {date} {category} {str(raw)}: {str(e)}")
 
     df.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
+
+def collect_page_links(title):   
+    response = get_page_links(title)
+    links = parse_page_links(response)
+
+    while "continue" in response:
+        response = get_page_links(title, response["continue"]["plcontinue"])
+        new_links = parse_page_links(response)
+        links = links + new_links

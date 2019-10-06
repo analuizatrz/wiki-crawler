@@ -60,12 +60,28 @@ def get_revision_content(title, access_date):
         "rvlimit": 1,
         "rvstart": access_date,
         "rvdir": "older",
+        "redirects": 1
     }
 
     response = S.get(url=URL, params=params)
 
     return response.json()
 
+def get_page_links(titles, plcontinue=None):
+    params = {
+        "action": "query",
+        "prop": "links",
+        "format": "json",
+        "continue": "||",
+        "titles": titles,
+        "pllimit": "500",
+    }
+    if plcontinue is not None:
+        params["plcontinue"] = plcontinue
+
+    response = S.get(url=URL, params=params)
+
+    return response.json()
 
 if __name__ == "__main__":
     get_titles_from_id_result = get_titles_from_id(ids=["45492", "58791", "171020"])

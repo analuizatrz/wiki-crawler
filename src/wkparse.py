@@ -40,3 +40,13 @@ def parse_revision_category_content(text):
     result = re.findall("(class=(.+?)\||class=(.+?)}|class=(.+?)\n)", text)
     category = result[0][1] if result[0][0][-1:] == '|' else result[0][2] if result[0][0][-1:] == '}' else result[0][3]
     return result, category.strip()
+
+def parse_page_links(response):
+    result = []
+    for page in list(response["query"]["pages"].values()):
+        r = {
+            "title": page["title"],
+            "links": [x["title"] for x in page["links"]]
+        }
+        result.append(r)
+    return result
