@@ -65,3 +65,14 @@ class WkparserTest(unittest.TestCase):
         raw, actual =  parse_revision_category_content(input)
         expected = "B"
         self.assertEqual(expected, actual)
+
+    def test_content_ending_with_le(self):
+        """
+        python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
+        """
+        input = "{{class=stub<!-- B-Class checklis}}"
+        raw, actual =  parse_revision_category_content(input)
+        expected = "stub"
+        self.assertEqual(expected, actual)
+
+        
