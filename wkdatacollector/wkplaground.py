@@ -50,7 +50,7 @@ def collect_titles_feature_articles(output_folder):
 if __name__ == "__main__":
     date_start = "2009-01-03T00:00:00Z"
     date_end = "2007-01-03T00:00:00Z"
-    base_folder = "~/Documents/tcc-collected-data/data"
+    base_folder = "/home/ana/Documents/tcc-collected-data/data"
 
     params = Params()
     params.date_start = date_start
@@ -63,30 +63,25 @@ if __name__ == "__main__":
     # collect_titles_by_id(base_folder)
 
     #############collect revision_info
+    ### -
     # input_file_info = f"{base_folder}/../wikipedia_dataset_hasan/wikipedia_reduced-.csv"
-    output_folder_info = f"{base_folder}/revision_info_byid_{date_range}"
+    # output_folder_info = f"{base_folder}/revision_info_byid_{date_range}"
+    #
+    ### revision_info_by_id
+    # input_file_info = "~/Documents/data/titles/titles.csv"
+    # output_folder_info = f"{base_folder}/revision_info_{date_range}"
+    #
+    ### errors
+    # input_file_info = f"{base_folder}/revision_info_{date_range}/errors.csv"
+    output_folder_info = f"{base_folder}/revision_info_{date_range}-errors"
+    #
     # run_collect_all_revision_info(input_file_info, output_folder_info, params)
 
-    ############collect revision_info_by_id
-    # input_file_info = "~/Documents/data/titles/titles.csv"
-    # output_folder_info = f"{base_folder}/revision_info_byid_{date_range}"
-    # run_collect_all_revision_info(input_file_info, output_folder_info, params)
 
     ############collect_content
-    # output_folder_content = f"{base_folder}/content_{date_range}"
-    # run_collect_all_content(f"{output_folder_info}/data", output_folder_content, params)
+    output_folder_content = f"{base_folder}/content_{date_range}-errors"
+    run_collect_all_content(f"{output_folder_info}/data", output_folder_content, params)
 
     ###########collect_category
-    output_folder_category = f"{base_folder}/info_and_category_{date_range}"
-    run_collect_all_categories(f"{output_folder_info}/data", output_folder_category, params)
-    
-    #output_folder = f"{base_folder}/content_{date_range}-errors"
-    #input_folder = f"{base_folder}/revision_info_{date_range}/data"
-
-   # output_folder = f"{base_folder}/revision_info_{date_range}-errors"
-   # input_file = f"{base_folder}/revision_info_200701-200901/errors.csv"
-    #run_collect_all_revision_info_errors(input_file, outputfolder)
-    
-    # error_file = "/home/ana/Documents/tcc-web-crawler/data/revision_info_2007-2009/errors.csv"
-    # titles = open(error_file, "r").read().split('\n')[:-1]
-    # print(len(titles))
+    # output_folder_category = f"{base_folder}/info_and_category_{date_range}"
+    # run_collect_all_categories(f"{output_folder_info}/data", output_folder_category, params)
