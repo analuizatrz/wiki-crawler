@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="/home/ana/eclipse-workspace/WikiHtmlConverter/externalLibs/bliki-core-3.0.19.jar"/>
-	<classpathentry exported="true" kind="lib" path="/home/ana/eclipse-workspace/WikiHtmlConverter/externalLibs/py4j-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/eclipse-workspace/wkhtmlConverter/externalLibs/bliki-core-3.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/ana/eclipse-workspace/wkhtmlConverter/externalLibs/py4j-0.8.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
