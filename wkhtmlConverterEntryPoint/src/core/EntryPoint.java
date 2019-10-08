@@ -4,13 +4,6 @@ import py4j.GatewayServer;
 
 public class EntryPoint {
 
-	public static void main(String[] args) {
-		System.out.println("oi");
-	    GatewayServer gatewayServer = new GatewayServer(new EntryPoint());
-	    gatewayServer.start();
-	    System.out.println("Gateway Server Started : WikiHtmlConverter");		
-
-	}
 	EntryPoint(){
 		converter = new Converter();	
 	}
@@ -20,6 +13,11 @@ public class EntryPoint {
 	public Converter getConverter() {
         return converter;
     }
+	public static void main(String[] args) {
+		System.out.println("oi");
+	    GatewayServer gatewayServer = new GatewayServer(new EntryPoint());
+	    gatewayServer.start();
+	    System.out.println("Gateway Server Started : WikiHtmlConverter");		
 
-
+	}
 }
