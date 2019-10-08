@@ -40,8 +40,8 @@ def collect_all(titles, collect_callback, collect_callback_params, output_folder
         except:
             append_file(file_error, title)
             log(f"ERROR:{title}\n")
-            time.sleep(1)
-        time.sleep(1)
+            #time.sleep(1)
+        #time.sleep(1)
     log(f"Tempo total : {objTime.total_time}")
 
 

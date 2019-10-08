@@ -1,0 +1,25 @@
+{
+    "python.pythonPath": "/home/ana/miniconda3/envs/tcc2/bin/python",
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "150",
+        "--experimental"
+    ],
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./wkdatacollector",
+        "-p",
+        "*_test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.linting.enabled": false,
+    "python.linting.mypyArgs": [
+        "--ignore-missing-imports",
+        "--follow-imports=silent",
+        "--show-column-numbers"
+    ]
+}
