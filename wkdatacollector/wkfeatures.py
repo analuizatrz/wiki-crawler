@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(1, "/home/ana/Documents/wiki-quality/wiki-quality")
 
-from wkplaground import create_logger, Params
+from wkutils import create_logger, Params
 from wkcollect import collect_all
 from wkio import append_file, create_file_if_does_not_exist, create_folder_if_does_not_exist
 from utils.basic_entities import LanguageEnum

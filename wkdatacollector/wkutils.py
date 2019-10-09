@@ -1,6 +1,25 @@
 from pandas import date_range
 from datetime import datetime
+from wkio import create_file_if_does_not_exist, append_file
 
+
+def create_logger(folder="."):
+    """ Creates a logger that prints on the terminal and writes on a log file
+
+    Parameters:
+        folder (str): folder to save log file
+    Returns:
+        logger (function): the function which logs
+    """
+    filename = f"{folder}/log.csv"
+    create_file_if_does_not_exist(filename)
+    def function(str):
+        print(str)
+        append_file(filename, str)
+    return function
+
+class Params(object):
+    pass
 
 def date_range_monthly(start, end):
     """ Creates a list of dates between start and end, monthly, ordered descending.

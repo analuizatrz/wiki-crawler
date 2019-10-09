@@ -1,18 +1,8 @@
 import pandas as pd
-from wkio import create_folder_if_does_not_exist, create_file_if_does_not_exist, append_file
+from wkio import create_folder_if_does_not_exist
 from wkcollect import collect_all, collect_content, collect_revisions_info, collect_titles, collect_category, collect_page_links
+from wkutils import create_logger, Params
 import os
-
-def create_logger(folder="."):
-    filename = f"{folder}/log.csv"
-    create_file_if_does_not_exist(filename)
-    def function(str):
-        print(str)
-        append_file(filename, str)
-    return function
-
-class Params(object):
-    pass
 
 def run_collect_all_revision_info(input_file, output_folder, params):
     create_folder_if_does_not_exist(output_folder)

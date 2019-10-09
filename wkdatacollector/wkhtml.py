@@ -2,20 +2,8 @@ from py4j.java_gateway import JavaGateway
 import os
 from wkcollect import collect_all
 from wkio import write_file, create_folder_if_does_not_exist, create_file_if_does_not_exist, append_file
-
-
-def create_logger(folder="."):
-    filename = f"{folder}/log.csv"
-    create_file_if_does_not_exist(filename)
-    def function(str):
-        print(str)
-        append_file(filename, str)
-    return function
-
+from wkutils import create_logger, Params
 import pandas as pd
-
-class Params(object):
-    pass
 
 gateway = JavaGateway()
 
