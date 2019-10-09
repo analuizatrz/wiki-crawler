@@ -8,6 +8,7 @@ import csv
 from pandas.io.json import json_normalize
 import pandas as pd
 
+# TODO: refactor to be a foreach_run
 def collect_all(titles, collect_callback, collect_callback_params, output_folder, log):
     file_collected = f"{output_folder}/collected.json"
     file_error = f"{output_folder}/errors.csv"
@@ -33,8 +34,6 @@ def collect_all(titles, collect_callback, collect_callback_params, output_folder
 
         try:
             collect_callback(title, collect_callback_params, folder_data, log)
-            # TODO: refatorar isso
-            #result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
             status["collected_pages"].append(title)
             write_json(file_collected, status)
         except Exception as e:
