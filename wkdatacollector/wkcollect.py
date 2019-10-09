@@ -37,9 +37,9 @@ def collect_all(titles, collect_callback, collect_callback_params, output_folder
             #result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
             status["collected_pages"].append(title)
             write_json(file_collected, status)
-        except:
+        except Exception as e:
             append_file(file_error, title)
-            log(f"ERROR:{title}\n")
+            log(f"ERROR:{title} {str(e)}\n")
             #time.sleep(1)
         #time.sleep(1)
     log(f"Tempo total : {objTime.total_time}")
