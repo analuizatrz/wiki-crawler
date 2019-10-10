@@ -17,9 +17,4 @@
     "python.testing.unittestEnabled": true,
     "python.envFile": "${workspaceFolder}/.env",
     "python.linting.enabled": false,
-    "python.linting.mypyArgs": [
-        "--ignore-missing-imports",
-        "--follow-imports=silent",
-        "--show-column-numbers"
-    ]
 }
