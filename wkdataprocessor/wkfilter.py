@@ -5,8 +5,7 @@ def where_not_in(df, column, values):
         df = df[df[column] != value]
     return df
 
-def split_valid_invalid(df):
-    valid_categories = ['A','B','C','FA','GA','Start','Stub']
+def split_valid_invalid(df, valid_categories):
 
     invalid = where_not_in(df, 'category', valid_categories)
     valid = df.drop(invalid.index)
@@ -14,6 +13,7 @@ def split_valid_invalid(df):
     return valid, invalid
 
 if __name__ == "__main__":
+   # valid_categories = ['A','B','C','FA','GA','Start','Stub']
 
     base_folder = "/home/ana/Documents/tcc-web-crawler/data"
     joined_df = pd.read_csv(f"{base_folder}/join_features.csv")
@@ -22,3 +22,5 @@ if __name__ == "__main__":
 
     invalid.to_csv(f"{base_folder}/join_features-invalid-categories.csv")
     valid.to_csv(f"{base_folder}/join_features-valid-categories.csv")
+    valid['category'] = valid['category'].str.lower()
+    valid.to_csv(f"{base_folder}/join_features-valid-categories-lowercase.csv")
