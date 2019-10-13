@@ -22,6 +22,7 @@ def df_first_columns(df, columns):
 if __name__ == "__main__":
 
     base_folder = "/home/ana/Documents/tcc-collected-data/data"
+    output_folder = "/home/ana/Documents/tcc-web-crawler/data"
     category_folder = f"{base_folder}/info_and_category_200701-200901/data"
 
     features = pd.read_csv(f"{base_folder}/features/data/raw_dataset.csv", sep=";")
@@ -29,7 +30,6 @@ if __name__ == "__main__":
     category.columns = ['access', 'category', 'pageid', 'raw_category', 'revision.anon',
                         'revision.comment', 'revision.commenthidden', 'revision.parentid',
                         'revision.revid', 'timestamp', 'revision.user', 'title']
-if __name__ == "__main__":
     merged = pd.merge(category, features, how='inner').sort_values(by=['title', 'timestamp'], ascending=[True, False])
 
-    df_first_columns(merged, ['title', 'timestamp']).to_csv(f"features.csv", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
+    df_first_columns(merged, ['title', 'timestamp']).to_csv(f"{output_folder}/join_features.csv", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
