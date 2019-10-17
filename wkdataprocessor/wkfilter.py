@@ -18,7 +18,7 @@ if __name__ == "__main__":
     base_folder = "/home/ana/Documents/tcc-web-crawler/data"
     joined_df = pd.read_csv(f"{base_folder}/join_features.csv")
     
-    valid, invalid = split_valid_invalid(joined_df)
+    valid, invalid = split_valid_invalid(joined_df, valid_categories)
 
     invalid.to_csv(f"{base_folder}/join_features-invalid-categories.csv")
     valid.to_csv(f"{base_folder}/join_features-valid-categories.csv")
