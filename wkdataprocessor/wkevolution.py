@@ -79,7 +79,9 @@ if __name__ == "__main__":
     base_folder = "/home/ana/Documents/tcc-web-crawler/data"
     output_folder = "/home/ana/Documents/tcc-web-crawler/data"
 
-    filename = f"{base_folder}/5-join_multiple_class_without_C-reduced"
+    filename = f"{base_folder}/5-join-single-class-without-C"
+    #filename = f"{base_folder}/5-join_multiple_class_without_C"
+    #filename = f"{base_folder}/5-join_multiple_class_without_C-reduced"
 
     revision_dataset = pd.read_csv(f"{filename}.csv")
 
@@ -104,5 +106,17 @@ if __name__ == "__main__":
                        'Lasbarhetsindex readability feature', 'SMOG Grading readability feature'
                     ]
 
+    begin = datetime.datetime.now()
+    print(begin)
     result = build_dataset(revision_dataset, feature_columns , info_columns, ['timestamp'])
-    save_dataframe(result, f"{filename}-evolution.csv")
+    save_dataframe(result, f"{filename}-evolution")
+    end = datetime.datetime.now()
+    print(end)
+
+    delta = end - begin
+    print(delta)
+    s = delta.microseconds/1000000
+    m = s//60
+    h = m//60
+    print(f"{int(h)}:{int(m)}:{s}")
+    
