@@ -30,7 +30,6 @@ def parse_revision_content(response):
     Returns:
         content (str): content of revision
     """
-
     page = list(response["query"]["pages"])[0]
     revision = list(page["revisions"])[0]
    # return (page["pageid"], page["title"], revision["user"], revision["timestamp"], revision["comment"], revision["slots"]["main"]["content"])
