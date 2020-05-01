@@ -85,3 +85,32 @@ conda install sklearn
 
 Para rodar os testes que estão sendo executados na POC basta seguir o comando abaixo
 python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
+
+## Executando uma coleta
+
+### 1. Coleta de metadados
+Entrada: titulos dos artigos
+salva revisões relativas a um artigo.
+título, data, comentário
+wkplaground
+
+### 2. Coleta de conteúdo (artigo)
+Entrada: pasta de metadados(1)
+para cada metadado é coletada o conteúdo do artigo em formato próprio da wikipédia (wkhtml)
+wkplaground
+
+### 3. Coleta de página de discussão (talk page)
+Entrada: pasta de metadados(1)
+para cada metadado é coletada o conteúdo da página de discussão. Neste processo ocorre também a extração da classe de qualidade
+wkplaground
+
+### 4. Conversão de conteúdo em html
+Entrada: pasta de conteúdo de artigos(4)
+cada conteúdo é convertido de wkhtml para html.
+É necessário rodar o projeto wkhtmlConverterEntryPoint, em java.
+
+### 5. Extração de features
+Entrada: pasta de conteúdo em html(5)
+de cada conteúdo html são extraídas as features.
+É necessário ter o projeto wiki-quality do Hasan
+
