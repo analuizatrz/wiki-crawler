@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/ana/miniconda3/envs/tcc2/bin/python",
+    "python.pythonPath": "C:\\ProgramData\\Miniconda3\\python.exe",
     "python.formatting.autopep8Args": [
         "--max-line-length",
         "150",
