@@ -4,11 +4,6 @@ Este é um projeto em java que disponibiliza acesso à biblioteca WikiModel para
 
 ```
 .
-├── bin
-│   └── core
-│       ├── Converter.class
-│       ├── EntryPoint.class
-│       └── Render.class
 ├── externalLibs
 │   ├── bliki-core-3.0.19.jar
 │   └── py4j-0.8.1.jar
