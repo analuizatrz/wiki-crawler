@@ -6,6 +6,14 @@ URL = "https://en.wikipedia.org/w/api.php"
 
 
 def get_titles_from_id(ids):
+    """Resquest revision's title by its ids
+
+    Parameters:
+        ids (array of str): Ids of articles. example: ["45492", "58791", "171020"]
+
+    Returns:
+        response (json): raw result of the request, containing titles
+    """
     params = {
         "action": "query",
         "format": "json",
@@ -49,6 +57,15 @@ def get_revisions_info(title, date_start, date_end, rvcontinue=None):
 
 
 def get_revision_content(title, access_date):
+    """Resquest revision's content of a wikipedia article by its title and access_data
+
+    Parameters:
+        title (str): The title of the article
+        access_date (str): The start date of querying in the format ISO 8601: 2001-01-15T14:56:00Z
+
+    Returns:
+        response (json): raw result of the request, the page at the specific date or older
+    """
     params = {
         "action": "query",
         "prop": "revisions",
@@ -67,13 +84,21 @@ def get_revision_content(title, access_date):
 
     return response.json()
 
-def get_page_links(titles, plcontinue=None):
+def get_page_links(title, plcontinue=None):
+    """Resquest pages referenced by the article with title specified 
+
+    Parameters:
+        title (str): The title of the article of which the references will be taken
+
+    Returns:
+        response (json): raw result of the request, with titles of referenced pages
+    """
     params = {
         "action": "query",
         "prop": "links",
         "format": "json",
         "continue": "||",
-        "titles": titles,
+        "titles": title,
         "pllimit": "500",
     }
     if plcontinue is not None:
@@ -82,20 +107,3 @@ def get_page_links(titles, plcontinue=None):
     response = S.get(url=URL, params=params)
 
     return response.json()
-
-if __name__ == "__main__":
-    get_titles_from_id_result = get_titles_from_id(ids=["45492", "58791", "171020"])
-    print(f"get_titles_from_id: \n{get_titles_from_id_result}")
-
-    get_revisions_info_result = get_revisions_info(
-        title="Taiwanese Hokkien",
-        date_start="2009-01-03T00:00:00Z",
-        date_end="2007-01-03T00:00:00Z"
-    )
-    print(f"get_tiget_revisions_info: \n{get_revisions_info_result}")
-
-    get_revision_content_result = get_revision_content(
-        title = "Zionism",
-        access_date = "2008-12-31T19:27:02Z"
-    )
-    print(f"get_revision_content: \n{get_revision_content_result}")

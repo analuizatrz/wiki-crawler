@@ -1,0 +1,1 @@
+base_folder = "/home/ana/Documents/tcc-collected-data/"

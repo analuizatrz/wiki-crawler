@@ -8,8 +8,22 @@ import csv
 from pandas.io.json import json_normalize
 import pandas as pd
 
-# TODO: refactor to be a foreach_run
-def collect_all(titles, collect_callback, collect_callback_params, output_folder, log):
+def foreach_run_save_log(titles, run, run_params, output_folder, log=print):
+    """
+    Run function for each title and save results in the output folder. The output folder 
+    will be populated with the files collected (in folder data), errors (file errors.csv) and
+    log (collected.json). If the output_folder has data, the process will proceed ignoring
+    already collected files. The collected files are considered from log (collected.json). If
+    the process crash it will begin collecting from where it stopped before crashing.
+    
+    Parameters:
+        titles(array of str): titles to be processed
+        run(function): function to be executed foreach title, with the parameter run_params.
+                        the function signature is run(title, run_params, folder_data, log)
+        run_params(Params): parameters necessary to execute the function, for all titles
+        output_folder(str): folder where will be saved the data, errors and logs
+        log(function): output log, maybe console or file. By default print
+    """
     file_collected = f"{output_folder}/collected.json"
     file_error = f"{output_folder}/errors.csv"
     folder_data = f"{output_folder}/data"
@@ -33,7 +47,7 @@ def collect_all(titles, collect_callback, collect_callback_params, output_folder
         objTime.log_delta(f"Remaining: {len(remaning_to_collect)+1} collecting now: '{title}'")
 
         try:
-            collect_callback(title, collect_callback_params, folder_data, log)
+            run(title, run_params, folder_data, log)
             status["collected_pages"].append(title)
             write_json(file_collected, status)
         except Exception as e:
@@ -44,22 +58,17 @@ def collect_all(titles, collect_callback, collect_callback_params, output_folder
     log(f"Tempo total : {objTime.total_time}")
 
 
-def collect_titles(ids, folder_data, articles_per_request=50, log=print):
-    remaining = ids
-
-    while(len(remaining) > 0):
-        to_request = remaining[:articles_per_request]
-        remaining = remaining[articles_per_request:]
-        response = get_titles_from_id(to_request)
-        pages = list(response["query"]["pages"].values())
-        for page in pages:
-            if "missing" in page:
-                append_file(f"{folder_data}/errors.csv", page["pageid"])
-            else:
-                append_file(f"{folder_data}/titles.csv", f'{page["pageid"]}, {page["title"]}')
-
-
 def collect_revisions_info(title, params, folder_data, log):
+    """
+    Colect metadata of a article and save in a csv named as the title (<title>.csv)
+    
+    Parameters:
+        title(str): title of the article
+        params: must contain params.date_start and params.date_end, which defines the period 
+                of the revisions colected
+        folder_data(str): folder where the file "<title>.csv will be saved
+        log(function):  output log, maybe console or file. By default print
+    """
     date_start, date_end = params.date_start, params.date_end
     response = get_revisions_info(title, date_start, date_end)
     revisions_info, is_complete, next_date = parse_revisions_info_monthly(response, date_start, date_end)
@@ -80,17 +89,39 @@ def collect_revisions_info(title, params, folder_data, log):
     result.to_csv(f"{folder_data}/{title}", index=None, header=True, quoting=csv.QUOTE_NONNUMERIC)
 
 
-def collect_content(title, params, folder_data, log):
+def collect_content(title, params, folder_data, log=print):
+    """
+    Colect content of a article and save in a csv named as the title (<title>.csv). 
+    Metadata collector must have be run before.
+    
+    Parameters:
+        title(str): title of the article
+        params: must contain params.input_folder, which defines from where to read the titles. Must be
+                a folder from metadata collector "collect_revisions_info".
+        folder_data(str): folder where the file "<title>.csv will be saved
+        log(function):  output log, maybe console or file. By default print
+    """
     data = pd.read_csv(f"{params.input_folder}/{title}")
     revision_timestamps = set(data['revision.timestamp'].values)
 
     for access_date in revision_timestamps:
         response = get_revision_content(title, access_date)
         content = parse_revision_content(response)
-        write_file(f"{folder_data}/{title}|{access_date}", content)
+        write_file(f"{folder_data}/{title}_{access_date}", content)
 
 
-def collect_category(title, params, folder_data, log):
+def collect_category(title, params, folder_data, log=print):
+    """
+    Colect category of a article and save in a csv named as the title (<title>.csv).
+    Metadata collector must have be run before.
+    
+    Parameters:
+        title(str): title of the article
+        params: must contain params.input_folder, which defines from where to read the titles. Must be
+                a folder from metadata collector "collect_revisions_info".
+        folder_data(str): folder where the file "<title>.csv will be saved
+        log(function):  output log, maybe console or file. By default print
+    """
     df = pd.read_csv(f"{params.input_folder}/{title}")
 
    # collected = pd.read_csv(f"{folder_data}/{title}")
@@ -108,7 +139,14 @@ def collect_category(title, params, folder_data, log):
             log(f"ERRO: categoria de '{title}' {date} {category} {str(raw)}: {str(e)}")
     save_dataframe(df, f"{folder_data}/{title}")
 
-def collect_page_links(title, folder_data):   
+def collect_page_links(title, folder_data):
+    """
+    Colect and save titles referenced by a article especified by title
+    
+    Parameters:
+        title(str): title of the article
+        folder_data(str): folder where the file "<title>.csv will be saved
+    """ 
     response = get_page_links(title)
     links = parse_page_links(response)
 
@@ -117,3 +155,27 @@ def collect_page_links(title, folder_data):
         new_links = parse_page_links(response)
         links += new_links
     save_dataframe(pd.DataFrame(links), f"{folder_data}/{title}")
+
+
+def collect_titles(ids, folder_data, articles_per_request=50, log=print):
+    """
+    Colect and save titles given ids
+    
+    Parameters:
+        ids (array of str): ids of pages
+        folder_data (str): folder path where the data will be saved
+        articles_per_request(number): Quantity of articles sent per request. Default 50.
+        log(function):  output log, maybe console or file. Default print.
+    """
+    remaining = ids
+
+    while(len(remaining) > 0):
+        to_request = remaining[:articles_per_request]
+        remaining = remaining[articles_per_request:]
+        response = get_titles_from_id(to_request)
+        pages = list(response["query"]["pages"].values())
+        for page in pages:
+            if "missing" in page:
+                append_file(f"{folder_data}/errors.csv", page["pageid"])
+            else:
+                append_file(f"{folder_data}/titles.csv", f'{page["pageid"]}, {page["title"]}')

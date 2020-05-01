@@ -7,9 +7,9 @@ def create_logger(folder="."):
     """ Creates a logger that prints on the terminal and writes on a log file
 
     Parameters:
-        folder (str): folder to save log file
+        folder(str): folder to save log file - default .
     Returns:
-        logger (function): the function which logs
+        logger(function): the function which logs
     """
     filename = f"{folder}/log.csv"
     create_file_if_does_not_exist(filename)
@@ -26,11 +26,11 @@ def date_range_monthly(start, end):
     Start must be older than end, otherwise returns empty list.
 
     Parameters:
-        start (str): start date in the format ISO 8601: 2001-01-15T14:56:00Z
-        end (str): end date in the format ISO 8601: 2001-01-15T14:56:00Z
+        start(str): start date in the format ISO 8601: 2001-01-15T14:56:00Z
+        end(str): end date in the format ISO 8601: 2001-01-15T14:56:00Z
 
     Returns:
-        result (list): list of dates in the format ISO 8601: 2001-01-15T14:56:00Z
+        result(list): list of dates in the format ISO 8601: 2001-01-15T14:56:00Z
     """
     return date_range(start, end, freq='MS').strftime("%Y-%m-%dT%H:%M:%SZ").tolist()[::-1]
 
@@ -39,11 +39,11 @@ def build_revision(date, revision):
     """ Creates dictionary with the values date and revision
 
     Parameters:
-        date (any): date
-        revision (any): revision
+        date(any): date
+        revision(any): revision
 
     Returns:
-        result (dict): dictionary with atributtes date and revision
+        result(dict): dictionary with atributtes date and revision
     """
     result = {
         "access": date,
@@ -57,12 +57,12 @@ def match_dates_and_revisions(dates, revisions):
         Assumes that dates and revisions are ordered descending
 
     Parameters:
-        dates (str): dates in the format ISO 8601: 2001-01-15T14:56:00Z
-        revisions (object): which contain dates 
+        dates(str): dates in the format ISO 8601: 2001-01-15T14:56:00Z
+        revisions(object): which contain dates 
 
     Returns:
-        result (list): list of tuples
-        is_complete (bool): all dates have been comtemplated
+        result(list): list of tuples
+        is_complete(bool): all dates have been comtemplated
         next_date: first date which was not contemplated
     """
     date_idx = 0

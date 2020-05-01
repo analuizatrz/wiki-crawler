@@ -1,37 +1,85 @@
 import pandas as pd
 from wkio import create_folder_if_does_not_exist
-from wkcollect import collect_all, collect_content, collect_revisions_info, collect_titles, collect_category, collect_page_links
+from wkcollect import foreach_run_save_log, collect_content, collect_revisions_info, collect_titles, collect_category, collect_page_links
 from wkutils import create_logger, Params
 import os
 
 def run_collect_all_revision_info(input_file, output_folder, params):
+    """
+    Collect and save metadata
+
+    Parameters:
+        input_file(str): file from which the titles will be get
+        output_folder(str): folder where will be saved the data, errors and logs
+        params(Params): Must contain params.date_start and params.date_end, which defines the period   
+            of the revisions colected
+    """
     create_folder_if_does_not_exist(output_folder)
     titles = list(pd.read_csv(input_file)["page_title"])
-    collect_all(titles, collect_revisions_info, params, output_folder, create_logger(output_folder))
+    foreach_run_save_log(titles, collect_revisions_info, params, output_folder, create_logger(output_folder))
 
 def run_collect_all_revision_info_errors(input_file, output_folder, params):
+ """
+    Collect and save metadata from titles which haven't got collected previously because some error occured
+
+    Parameters:
+        input_file(str): file from which the titles will be get - error.csv file
+        output_folder(str): folder where will be saved the data, errors and logs
+        params(Params): Must contain params.date_start and params.date_end, which defines the period   
+            of the revisions colected
+    """
     create_folder_if_does_not_exist(output_folder)
     titles = open(input_file, "r").read().split('\n')[:-1]
-    collect_all(titles, collect_revisions_info, params, output_folder, create_logger(output_folder))
+    foreach_run_save_log(titles, collect_revisions_info, params, output_folder, create_logger(output_folder))
 
 def run_collect_all_content(input_folder, output_folder, params):
+    """
+    Collect and save content
+
+    Parameters:
+        input_folder(str): folder where metadata collected was saved, which will be used to collect content
+        output_folder(str): folder where will be saved the data, errors and logs
+        params(Params): 
+    """
     create_folder_if_does_not_exist(output_folder)
     params.input_folder = input_folder
     titles = os.listdir(input_folder)
-    collect_all(titles, collect_content, params, output_folder, create_logger(output_folder))
+    foreach_run_save_log(titles, collect_content, params, output_folder, create_logger(output_folder))
 
 def run_collect_all_categories(input_folder, output_folder, params):
+    """
+    Collect and save category
+
+    Parameters:
+        input_folder(str): folder where metadata collected was saved, which will be used to collect category
+        output_folder(str): folder where will be saved the data, errors and logs
+        params(Params): 
+    """
     create_folder_if_does_not_exist(output_folder)
     params.input_folder = input_folder
     titles = os.listdir(input_folder)
-    collect_all(titles, collect_category, params, output_folder, create_logger(output_folder))
+    foreach_run_save_log(titles, collect_category, params, output_folder, create_logger(output_folder))
 
 def collect_titles_by_id(input_file, output_folder):
+    """
+    Collect and save category
+
+    Parameters:
+        input_folder(str): folder where metadata collected was saved, which will be used to collect category
+        output_folder(str): folder where will be saved the data, errors and logs
+        params(Params): 
+    """
     create_folder_if_does_not_exist(output_folder)
     ids = open(input_file, "r").read().split('\n')
     collect_titles(ids, output_folder, create_logger(output_folder))
 
 def collect_titles_feature_articles(output_folder):
+    """
+    Collect and save titles of feature articles
+
+    Parameters:
+        output_folder(str): folder where will be saved the data, errors and logs
+    """
     create_folder_if_does_not_exist(output_folder)
     title = "Wikipedia:Featured_articles"
     #title = "Wikipedia:Good_articles/all"
