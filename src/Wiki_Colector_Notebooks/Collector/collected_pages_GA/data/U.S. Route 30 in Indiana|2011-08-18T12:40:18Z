@@ -1,0 +1,259 @@
+{{highway detail hatnote|U.S. Route 30}}
+{{Original research|date=July 2009}}
+{{Infobox road
+|state=IN
+|type=US
+|route=30
+|map=US 30 (IN) map.svg
+|alternate_name=[[Lincoln Highway]]
+|maint=[[Indiana Department of Transportation|INDOT]]
+|length_mi=151.8
+|length_round=1
+|length_ref<ref>[http://highwayexplorer.com/EndsPage.php?id=2030&section=1 Indiana Highway Ends - US 30]</ref>
+|direction_a=West
+|terminus_a={{Jct|state=IL|US|30}} at [[Illinois]] state line
+|direction_b=East
+|junction={{Jct|state=IN|I|65}} at [[Merrillville, Indiana|Merrillville, IN]]<br>
+{{Jct|state=IN|US|31}} at [[Plymouth, Indiana|Plymouth, IN]]<br>
+{{Jct|state=IN|US|33}} near [[Fort Wayne, Indiana|Fort Wayne, IN]]<br>
+{{Jct|state=IN|I|69}} in [[Fort Wayne, Indiana|Fort Wayne, IN]]<br>
+{{Jct|state=IN|I|469}} near [[Fort Wayne, Indiana|Fort Wayne,IN]]
+|terminus_b={{Jct|state=OH|US|30}} at [[Ohio]] state line
+|established=
+|previous_type=SR
+|previous_route=29
+|next_type=US
+|next_route=31
+}}
+In the state of [[Indiana]], [[U.S. Route 30]] is an east&ndash;west four-lane divided highway across northern [[Indiana]]. It runs from the [[Illinois]] state line at [[Dyer, Indiana|Dyer]] to east of [[Fort Wayne, Indiana|Fort Wayne]] at the [[Ohio]] state line. This is a distance of 151.8 miles (244.3&nbsp;km).
+
+== Route description ==
+===Dyer to Valparaiso ===
+{{see also|Lincoln Highway}}
+U.S. 30 enters Dyer from [[Lynwood, Illinois]] along the original alignment of the Lincoln Highway. It has four lanes from the state line through the densely populated cities of Dyer, [[Schererville, Indiana|Schererville]] and [[Merrillville, Indiana|Merrillville]]. East of [[U.S. Route 41]], U.S. 30 becomes a [[divided highway]], and remains largely divided through the rest of the state.
+
+East of Merrillville, U.S. 30 runs through rural areas until reaching the outskirts of [[Valparaiso, Indiana|Valparaiso]]. It runs through the southern portion of Valparaiso as Morthland Avenue before leaving the city at a full interchange with [[Indiana State Road 2]] and [[Indiana State Road 49]].
+
+=== Valparaiso to Fort Wayne ===
+[[Image:US 30 west of Fort Wayne, Indiana.jpg|thumb|right|U.S. Route 30 west of Fort Wayne, Indiana]]
+U.S. 30 continues eastward<ref name="ReferenceA">Indiana 2000; Indiana Department of Transporatation</ref>, along the original Lincoln Highway right of way, diverging around each town.  At Wanatah, it meets with [[U.S. Route 421]], running from Michigan City, Indiana on Lake Michigan southward towards Indianapolis and later the Ohio River.
+
+Beyond [[Wanatah, Indiana|Wanatah]] the countryside is primarily rural.  U.S. 30 passes by Hanna and then runs over the [[Kankakee River]].  Following towns of [[Hamlet, Indiana|Hamlet]], Grovertown, and Donaldson are all traffic lights with a gas station or a convenience store.<ref>Annual personal travel along this route since 1991</ref>  [[Plymouth, Indiana|Plymouth]] ({{Convert|63|mi|km|0}} from Illinois border) is the next major city.  The road passes to the north of town.  Here, there are two intersections of store and restaurants.
+
+Beyond [[Plymouth, Indiana|Plymouth]] is again rural divided highway, passing Inwood, Bourbon, Etna Green, and Atwood<ref name="ReferenceA"/>.  Twenty-six miles beyond Plymouth, is [[Warsaw, Indiana|Warsaw]]. From Warsaw it's {{convert|20|mi|km|0}} to [[Columbia City, Indiana|Columbia City]] and another grouping of shops and stores.
+
+=== Fort Wayne to the Ohio state line ===
+[[U.S. Route 33]] joins US 30 in a shared approach to [[Fort Wayne, Indiana|Fort Wayne]] for a short concurrence which ends at [[Interstate 69]] (abbreviated I-69).   U.S. 30 to the east follows I-69, and U.S. 33 to the east follows I-69 to the south, a highway now designated as [[Indiana 930]] continuing as a divided surface route, itself a former bypass of old U.S. 30 along the north and east sides of Fort Wayne. U.S. 30 now follows [[Interstate 469]] to the south and east through terrain still rural as of 2009.  I-469 East and U.S. 30 run concurrently around the north and east side of [[Fort Wayne, Indiana|Fort Wayne]] for {{convert|12|mi|km|0}}, after which U.S. 30 leaves I-469 and meets the eastern terminus of [[Indiana 930]].  For {{convert|14|mi|km|0}} U.S. 30 takes a southeasterly  course on a divided surface highway to the Indiana/Ohio state line with no identifiable towns along the route.{{citation needed|date=June 2010}}
+
+== History ==
+
+{{Expand section|date=June 2010}}
+{{-}}
+
+== Major Intersections ==
+{{jcttop|exit|length_ref=<ref name="indot">{{cite web|url=http://www.in.gov/indot/files/StateWide_2004.pdf |format=PDF |publisher=staff |title=INDOT Roadway Referencing System}}</ref>}}
+{{INint|exit
+|state=IN
+|county=Lake
+|cspan=6
+|location=Dyer
+|mile=0.00
+|road={{Jct|state=IL|US|30|dir1=west|city1=Joliet}}
+|notes=Illinois state line}}
+{{INint|exit
+|state=IN
+|location=Schererville
+|mile=2.85
+|road={{Jct|state=IN|US|41|city1=St. John|city2=Hammond|name1=South Indianapolis Boulevard}}}}
+{{INint|exit
+|state=IN
+|location=Merrillville
+|lspan=3
+|mile=8.58
+|road={{Jct|state=IN|SR|55|city1=Crown Point|city2=Gary|name1=Taft Street}}}}
+{{INint|exit
+|mile=10.10
+|road={{Jct|state=IN|SR|53|city1=Merrillville|city2=Gary|name1=Broadway}}}}
+{{INint|exit
+|mile=10.70
+|road={{Jct|state=IN|I|65|city1=Gary|city2=Indianapolis}}, [[Chicago]] via 65 north
+|notes=Exit 253 on I-65}}
+{{INint|exit
+|state=IN
+|location=Hobart
+|mile=14.12
+|road={{Jct|state=IN|SR|51|dir1=north|city1=Hobart|name=Grand Boulevard}}
+|notes=Southern terminus of SR&nbsp;51}}
+{{INint|exit
+|state=IN
+|county=Porter
+|cspan=3
+|location=Valparaiso
+|lspan=3
+|type=mplex
+|mile=24.32
+|road={{Jct|state=IN|SR|2|dir1=west|city1=Hebron}}
+|notes=Western end of SR&nbsp;2 concurrency}}
+{{INint|exit
+|state=IN
+|mile=25.80
+|road={{Jct|state=IN|SR|130|dir1=west|city1=Valparaiso}}
+|notes=Eastern terminus of SR&nbsp;130}}
+{{INint|exit
+|type=mplex
+|mile=26.45
+|road={{Jct|state=IN|SR|2|SR|49|dir1=east|city1=Westville|city2=Kouts|city3=Chesterton}}
+|notes=Eastern end of SR&nbsp;2 concurrency}}
+{{INint|exit
+|state=IN
+|county=LaPorte
+|cspan=2
+|location=Wanatah
+|mile=33.74
+|road={{Jct|state=IN|US|421|city1=Michigan City|city2=Indianapolis}}}}
+{{INint|exit
+|state=IN
+|location=Hanna
+|mile=42.25
+|road={{Jct|state=IN|SR|39|city1=North Judson|city2=La Porte}}}}
+{{INint|exit
+|state=IN
+|county=Starke
+|cspan=2
+|location=Davis Township
+|ctdab=Starke
+|mile=48.36
+|road={{Jct|state=IN|US|35|city1=Knox|city2=La Porte}}}}
+{{INint|exit
+|state=IN
+|location=Grovertown
+|mile=54.59
+|road={{Jct|state=IN|SR|23|city1=South Bend}}}}
+{{INint|exit
+|state=IN
+|county=Marshall
+|cspan=3
+|location=Plymouth
+|lspan=2
+|mile=64.91
+|road={{Jct|state=IN|SR|17|dir1=south|city1=Plymouth}}
+|notes=Northern terminus of SR&nbsp;17}}
+{{INint|exit
+|mile=66.78–<br>67.30
+|road={{Jct|state=IN|US|31|city1=South Bend|city2=Indianapolis}}}}
+{{INint|exit
+|state=IN
+|location=Bourbon
+|mile=75.53–<br>76.01
+|road={{Jct|state=IN|SR|331|city1=Bourbon|city2=Mishawaka}}}}
+{{INint|exit
+|state=IN
+|county=Kosciusko
+|cspan=3
+|location=Etna Green
+|mile=80.06
+|road={{Jct|state=IN|SR|19|city1=Elkhart|city2=Peru}}}}
+{{INint|exit
+|state=IN
+|location=Warsaw
+|mile=90.40
+|road={{Jct|state=IN|SR|15|city1=Warsaw|city2=Goshen}}}}
+{{INint|exit
+|state=IN
+|location=Pierceton
+|mile=99.57
+|road={{Jct|state=IN|SR|13|city1=North Manchester|city2=Syracuse}}}}
+{{INint|exit
+|state=IN
+|county=Whitley
+|cspan=4
+|location=South Whitley
+|mile=104.04
+|road={{Jct|state=IN|SR|5|name1=Center Street|city1=South Whitley|city2=Ligonier}}}}
+{{INint|exit
+|state=IN
+|location=Columbia City
+|lspan=3
+|mile=111.20
+|road={{Jct|state=IN|SR|109|dir1=north|name1=Line Street|city1=Wolflake}}}}
+{{INint|exit
+|mile=111.49
+|road={{Jct|state=IN|SR|9|city1=Columbia City|city2=Albion}}}}
+{{INint|exit
+|mile=112.80
+|road={{Jct|state=IN|SR|205|city1=South Whitley|city2=Churubusco}}}}
+{{INint|exit
+|state=IN
+|county=Allen
+|cspan=10
+|location=Fort Wayne
+|lspan=8
+|type=mplex
+|mile=127.51
+|exit=
+|road={{Jct|state=IN|US|33|dir1=north|name1=Goshen Road|city1=Goshen|city2=Elkhart}}
+|notes=Western end of US&nbsp;33 concurrency}}
+{{INint|exit
+|type=mplex
+|mile=128.90
+|exit=109
+|road={{Jct|state=IN|I|69|US|33|SR|930|dir1=south|dir2=south|dir3=east|city1=Fort Wayne|city2=New Haven}}
+|notes=Southern end of I-69 concurrency and eastern end of US&nbsp;33 concurrency; western end of SR&nbsp;930}}
+{{INint|exit
+|mile=129.90
+|exit=111
+|road={{Jct|state=IN|US|27|SR|3|dir1=south|dir2=north|name1=Lima Road|city1=Fort Wayne|city2=Kendallville}}
+|notes=Northern terminus of US&nbsp;27; southern terminus of SR&nbsp;3}}
+{{INint|exit
+|mile=131.20
+|exit=112
+|road=Coldwater Road
+|notes=Serves [[IPFW]], [[Ivy Tech]], [[Allen County War Memorial Coliseum]], and [[Glenbrook Square]]}}
+{{INint|exit
+|type=mplex
+|mile=133.88
+|exit=115<br>31
+|road={{Jct|state=IN|I|69|I|469|dir1=north|dir2=south}}
+|notes=Northern end of I-69 concurrency; western end of I-469 concurrency; exit 115 on I-69 and exit 31 on I-469}}
+{{INint|exit
+|mile=142.10
+|exit=25
+|road={{Jct|state=IN|SR|37|dir1=north|name1=Maysville Road}} - [[Hicksville, Ohio|Hicksville]]
+|notes=Southern terminus of SR&nbsp;37}}
+{{INint|exit
+|type=mplex
+|mile=146.20
+|exit=21
+|road={{Jct|state=IN|US|24|dir1=east}} - [[Antwerp, Ohio|Antwerp]], [[Defiance, Ohio|Defiance]], [[Toledo, Ohio|Toledo]]
+|notes=Northern end of US&nbsp;24 concurrency}}
+{{INint|exit
+|type=mplex
+|mile=147.60
+|exit=19
+|road={{Jct|state=IN|I|469|US|24|SR|930|dir1=south|dir2=west|dir3=west|city1=New Haven|city2=Fort Wayne}}
+|notes=Southern end of I-469 and US&nbsp;24 concurrencies; eastern terminus of SR&nbsp;930}}
+{{INint|exit
+|state=IN
+|location=Monroeville
+|lspan=2
+|mile=152.65
+|road={{Jct|state=IN|SR|101|name1=Townley Road|city1=Monroeville|city2=Woodburn}}}}
+{{INint|exit
+|mile=155.96
+|exit=
+|road={{Jct|state=OH|US|30|dir1=east|city1=Van Wert|city2=Upper Sandusky|city3=Mansfield}}
+|notes=Ohio state line}}
+{{LegendRJL|col=6}}
+
+== References ==
+{{reflist}}
+
+{{state detail page browse|type=US|route=30|state=Indiana|statebefore=Illinois|stateafter=Ohio}}
+{{state detail page browse|shield=LincolnHighwayMarker.svg|road=Lincoln Highway|state=Indiana|statebefore=Illinois|stateafter=Ohio}}
+
+{{DEFAULTSORT:U.S. Route 30 In Indiana}}
+[[Category:U.S. Highways in Indiana|30]]
+[[Category:U.S. Route 30| Indiana]]
+[[Category:Lincoln Highway| Indiana]]
+[[Category:Expressways in the United States]]
+[[Category:Transportation in Fort Wayne, Indiana]]
