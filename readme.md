@@ -121,7 +121,7 @@ collect_category_single_rev(file_articles, timestamp)
 
 ```
 
-The sample used can be seen here. The output for `single_rev_mini.txt` can be seen at [`data/articles_quality_categories/single_rev_mini_quality.csv`](data/articles_quality_categories/single_rev_mini_quality.csv) presenting, for each article, 
+The sample used can be seen here. The input and output of this example can be seen at [`data/articles_quality_categories/single_rev_mini.txt`](data/articles_quality_categories/single_rev_mini.txt) and [`data/articles_quality_categories/single_rev_mini_quality.csv`](data/articles_quality_categories/single_rev_mini_quality.csv), respectively. The input need to have one article per line and the output presents, for each article, 
 its title, quality category and the string used to extract the quality category. 
 
 - The class categrory in each revision timestamp in the article reviews metadata
