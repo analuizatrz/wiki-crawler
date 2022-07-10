@@ -139,6 +139,29 @@ def collect_category(title, params, folder_data, log=print):
             log(f"ERRO: categoria de '{title}' {date} {category} {str(raw)}: {str(e)}")
     save_dataframe(df, f"{folder_data}/{title}")
 
+def collect_category_single_rev(articles_filename, timestamp_date, log=print):
+    """
+    Colect category of articles in file and save in a csv named (<articles_file>_<timestamp_date>_class.csv)
+    
+    Parameters:
+        articles_file(str): article file (one article per line)
+        timestamp_date: timestamp in the format ISO 8601: 2001-01-15T14:56:00Z
+        log(function):  output log, maybe console or file. By default print
+    """
+    with open(articles_filename) as articles_file, open(f"{articles_filename.split('.')[0]}_quality.csv","w") as output:
+        writer_quality = csv.writer(output, quoting=csv.QUOTE_NONNUMERIC)
+        for article_title in articles_file:
+
+            response = get_revision_content(f"Talk:{article_title}", timestamp_date)
+            try:
+                content = parse_revision_content(response)
+                raw, category = parse_revision_category_content(content)
+                log(f"{timestamp_date} {category} {raw}")
+                writer_quality.writerow([article_title, category, raw])
+            except Exception as e:
+                log(f"ERRO: categoria de '{article_title}' {timestamp_date} {category} {str(raw)}: {str(e)}")
+
+
 def collect_page_links(title, folder_data):
     """
     Colect and save titles referenced by a article especified by title

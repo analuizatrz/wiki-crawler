@@ -107,6 +107,25 @@ Entrada: pasta de metadados(1)
 para cada metadado é coletada o conteúdo da página de discussão. Neste processo ocorre também a extração da classe de qualidade
 wkplaground
 
+You can obtain the class by using two different methods, for different porpouses: 
+
+- for each article, the quality category for a given timestamp
+
+```python
+import sys
+sys.path.append("src/wkdatacollector")
+from wkcollect import collect_category_single_rev
+file_articles = "data/articles_quality_categories/single_rev_mini.txt"
+timestamp = "2022-07-01T00:00:00Z"
+collect_category_single_rev(file_articles, timestamp)
+
+```
+
+The sample used can be seen here. The output for `single_rev_mini.txt` can be seen at [`data/articles_quality_categories/single_rev_mini_quality.csv`](data/articles_quality_categories/single_rev_mini_quality.csv) presenting, for each article, 
+its title, quality category and the string used to extract the quality category. 
+
+- The class categrory in each revision timestamp in the article reviews metadata
+
 ### 4. Conversão de conteúdo em html
 Entrada: pasta de conte údo de artigos(4)
 
