@@ -1,10 +1,39 @@
 # Wikipedia Collector
 
-Este projeto visa a coleta de páginas da wikipédia e sua classe/categoria de qualidade. Além disso, com a utilização do Projeto do Hasan pode-se extrair as classes de qualidade dos artigos e aplicar métodos de classificação automáticos.
+This project aims to colect wikipedia pages and their quality category and process them to create datasets. From Wikipedia pages quality features and classification are extracted, and this data can be used for creating automatic assessment of Wikipedia Articles by applying Machine Learning models.
 
-## Estrutura
+## Executing the algorithm
 
-Estrutura do projeto. Algumas pastas foram omitidas (...) para uma melhor visualização.
+### 1. Metadata crawling
+
+Input: Wikipedia article titles, date range
+Ouput: Article's metadata represented by title, date and revision comment. This information is saved in a specific folder provided through configuration.
+
+### 2. Content crawling (article)
+
+Input: Metadata crawling output folder
+Output: A set of files each containing the article's content in wkhtml format. This information is saved in a specific folder provided through configuration.
+
+### 3. Talk page crawling
+
+Input: Metadata crawling output folder
+Output: A set of files each containing the article's talk page content in wkhtml format. From each page the article's quality class is extracted and saved in a structured CSV file.
+
+### 4. Wkhtml to Html conversion
+
+Input: Content crawling output folder
+Output: A set of files each containing the article's content in html format. 
+
+It's necessary to run the project wkhtmlConverterEntryPoint and a python script.
+
+### 5. Feature engineering
+
+Input: Wkhtml to Html conversion output folder
+Output: A set of CSV files each containing the article's set of features for each revision. This algorithm depends on https://github.com/daniel-hasan/webfeatures to extract the features.
+
+## Project Organization
+
+This folder is organized in the following folders
 ```
 .
 ├── analysis
@@ -45,77 +74,4 @@ Estrutura do projeto. Algumas pastas foram omitidas (...) para uma melhor visual
             ├── EntryPoint.java
             └── Render.java
 ```
-
-## Tecnologias utilizadas
-
-python 3.7.4, miniconda, vscode entre outros ...
-
-### Miniconda
-
-O [Miniconda](https://docs.conda.io/en/latest/miniconda.html) é um versão compactada do Anaconda. Ambos são plataformas para datascience e possuem gerenciador de pacotes e ambientes virtuais. O Miniconda foi escolhido por vir mais enxuto, sendo os pacotes necessários instalados manualmente.
-
-
-#### Utilizando ambiente virtual 
-
-```
-conda activate base
-conda activate <env>
-conda deactivate
-conda install <name>
-```
-
-#### Alguns dos pacotes utilizados
-
-```bash
-conda install jupyter
-conda install pandas
-conda install matplotlib
-conda install scipy
-conda install sklearn
-```
-
-### tools
-
- - refactoring with rope
- - unit testing with unittest
- - formatting with autopep8
- - linting with pylint
-
-### Rodando testes
-
-Para rodar os testes que estão sendo executados na POC basta seguir o comando abaixo
-python -m wiki_revision_crawler_test TestWikiParser.test_match_dates_revisions
-
-## Executando uma coleta
-
-### 1. Coleta de metadados
-Entrada: titulos dos artigos
-
-salva revisões relativas a um artigo.
-título, data, comentário
-wkplaground
-
-### 2. Coleta de conteúdo (artigo)
-Entrada: pasta de metadados(1)
-
-para cada metadado é coletada o conteúdo do artigo em formato próprio da wikipédia (wkhtml)
-wkplaground
-
-### 3. Coleta de página de discussão (talk page)
-Entrada: pasta de metadados(1)
-
-para cada metadado é coletada o conteúdo da página de discussão. Neste processo ocorre também a extração da classe de qualidade
-wkplaground
-
-### 4. Conversão de conteúdo em html
-Entrada: pasta de conte údo de artigos(4)
-
-cada conteúdo é convertido de wkhtml para html.
-É necessário rodar o projeto wkhtmlConverterEntryPoint, em java.
-
-### 5. Extração de features
-Entrada: pasta de conteúdo em html(5)
-
-de cada conteúdo html são extraídas as features.
-É necessário ter o projeto wiki-quality do Hasan
 
